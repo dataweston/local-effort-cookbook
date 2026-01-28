@@ -43,28 +43,30 @@
       ]
     }
   ],
-  "routes": [
+  "rewrites": [
     {
-      "src": "/cookbook/?$",
-      "dest": "/cookbook-migration/public-cookbook/index.json"
+      "source": "/cookbook",
+      "destination": "/cookbook-migration/public-cookbook/index.json"
     },
     {
-      "src": "/cookbook/(.*)",
-      "dest": "/cookbook-migration/public-cookbook/$1"
+      "source": "/cookbook/:path*",
+      "destination": "/cookbook-migration/public-cookbook/:path*"
     },
     {
-      "src": "/search/?$",
-      "dest": "/public/search/index.html"
+      "source": "/search",
+      "destination": "/public/search/index.html"
     },
     {
-      "src": "/search/(.*)",
-      "dest": "/public/search/$1"
+      "source": "/search/:path*",
+      "destination": "/public/search/:path*"
     },
     {
-      "src": "/api/(.*)",
-      "dest": "/api/$1"
+      "source": "/",
+      "destination": "/public/index.html"
     },
-    { "src": "/", "dest": "/public/index.html" },
-    { "src": "/(.*)", "dest": "/public/$1" }
+    {
+      "source": "/:path*",
+      "destination": "/public/:path*"
+    }
   ]
 }
