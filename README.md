@@ -7,6 +7,7 @@ It is set up for deployment on Vercel with GitHub as the source.
 - `cookbook-migration/public-cookbook/` static snapshot served at `/cookbook/*`
 - `cookbook-migration/raw-data/` source JSON (not deployed)
 - `public/` landing page for the data site
+- `public/search/` lightweight search UI
 - `vercel.json` routing and static build configuration
 
 ## Deployment (GitHub + Vercel)
@@ -17,6 +18,13 @@ It is set up for deployment on Vercel with GitHub as the source.
 ### Routes
 - `/cookbook/index.json` -> full index
 - `/cookbook/recipes/<id>.json` -> individual recipe JSON
+- `/search/` -> static search UI
+
+### Search index
+To keep the UI lightweight, a slim index is generated at
+`public/search/search-index.json` from the full `/cookbook/index.json`.
+Run:
+`node scripts/build-search-index.mjs`
 
 ## Refreshing the data
 The export process is documented in `cookbook-migration/README.md`.

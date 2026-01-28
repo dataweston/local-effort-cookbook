@@ -4,6 +4,44 @@
     { "src": "public/**", "use": "@vercel/static" },
     { "src": "cookbook-migration/public-cookbook/**", "use": "@vercel/static" }
   ],
+  "headers": [
+    {
+      "source": "/cookbook/index.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=86400, stale-while-revalidate=604800"
+        }
+      ]
+    },
+    {
+      "source": "/cookbook/recipes/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=604800, stale-while-revalidate=604800"
+        }
+      ]
+    },
+    {
+      "source": "/search/search-index.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=86400, stale-while-revalidate=604800"
+        }
+      ]
+    },
+    {
+      "source": "/search/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=604800, stale-while-revalidate=86400"
+        }
+      ]
+    }
+  ],
   "routes": [
     {
       "src": "/cookbook/?$",
@@ -12,6 +50,14 @@
     {
       "src": "/cookbook/(.*)",
       "dest": "/cookbook-migration/public-cookbook/$1"
+    },
+    {
+      "src": "/search/?$",
+      "dest": "/public/search/index.html"
+    },
+    {
+      "src": "/search/(.*)",
+      "dest": "/public/search/$1"
     },
     { "src": "/", "dest": "/public/index.html" },
     { "src": "/(.*)", "dest": "/public/$1" }

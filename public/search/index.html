@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cookbook Archive Search</title>
+    <meta
+      name="description"
+      content="Search across scanned historical cookbooks and recipe transcriptions."
+    />
+    <meta name="theme-color" content="#f4f1ea" />
+    <link rel="stylesheet" href="/search/styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to search results</a>
+    <div id="status" class="status" role="status" aria-live="polite"></div>
+    <header class="masthead">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">LE</span>
+        <div>
+          <p class="brand-label">Local Effort Archive</p>
+          <h1>Cookbook Search</h1>
+        </div>
+      </div>
+      <p class="lede">
+        Search across OCR text and metadata from historic cookbooks. Open a scan,
+        read the transcription, and trace recipes back to their sources.
+      </p>
+      <form class="search-bar" id="searchForm">
+        <label class="sr-only" for="query">Search recipes</label>
+        <input
+          id="query"
+          name="query"
+          type="search"
+          placeholder="Search recipes, ingredients, titles, or cookbook names"
+          autocomplete="off"
+        />
+        <button type="submit">Search</button>
+      </form>
+      <div class="toggles">
+        <label class="toggle">
+          <input type="checkbox" id="toggle-ocr" checked />
+          <span>Include OCR text</span>
+        </label>
+        <label class="toggle">
+          <input type="checkbox" id="toggle-frontmatter" />
+          <span>Hide front matter</span>
+        </label>
+        <label class="toggle">
+          <input type="checkbox" id="toggle-digital" />
+          <span>Only items with scans</span>
+        </label>
+      </div>
+      <div id="stats" class="stats" aria-live="polite">Loading archive...</div>
+    </header>
+    <main class="layout" id="main">
+      <aside class="filters" aria-label="Filters">
+        <div class="panel">
+          <h2>Refine</h2>
+          <label>
+            Source
+            <select id="filter-source">
+              <option value="all">All sources</option>
+            </select>
+          </label>
+          <label>
+            State
+            <select id="filter-state">
+              <option value="all">All states</option>
+            </select>
+          </label>
+          <label>
+            Institution
+            <select id="filter-institution">
+              <option value="all">All institutions</option>
+            </select>
+          </label>
+          <div class="range">
+            <div>
+              <label for="year-min">Year (min)</label>
+              <input id="year-min" type="number" inputmode="numeric" />
+            </div>
+            <div>
+              <label for="year-max">Year (max)</label>
+              <input id="year-max" type="number" inputmode="numeric" />
+            </div>
+          </div>
+          <div class="actions">
+            <button id="applyFilters" type="button">Apply</button>
+            <button id="resetFilters" type="button" class="ghost">
+              Reset
+            </button>
+          </div>
+        </div>
+        <div class="panel note">
+          <h3>About the archive</h3>
+          <p>
+            Each record links back to its source scan (when available). OCR text
+            is stored separately so the archive can stay fast and lightweight.
+          </p>
+        </div>
+      </aside>
+      <section class="results">
+        <div class="results-header">
+          <div id="resultCount">--</div>
+          <label>
+            Sort
+            <select id="sortBy">
+              <option value="relevance">Relevance</option>
+              <option value="year-desc">Year (newest)</option>
+              <option value="year-asc">Year (oldest)</option>
+              <option value="title-asc">Title (A-Z)</option>
+            </select>
+          </label>
+        </div>
+        <div id="resultsList" class="results-list" role="list"></div>
+      </section>
+      <aside class="preview" aria-label="Recipe preview">
+        <div class="panel preview-panel">
+          <h2>Recipe &amp; Scan</h2>
+          <div id="previewContent" class="preview-content">
+            Select a result to read the transcription and open the scan.
+          </div>
+        </div>
+      </aside>
+    </main>
+    <footer class="footer">
+      <p>
+        Data served from <code>/cookbook</code>. Cached locally after the first
+        load.
+      </p>
+    </footer>
+    <noscript>
+      This page needs JavaScript to search the archive. The raw data is still
+      available at <code>/cookbook/index.json</code>.
+    </noscript>
+    <script src="/search/config.js" defer></script>
+    <script src="/search/app.js" defer></script>
+  </body>
+</html>
