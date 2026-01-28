@@ -1,0 +1,97 @@
+{
+  "source": "dpla",
+  "id": "a946a8eb88d122609b636deab5cd8fd3",
+  "identifier": "a946a8eb88d122609b636deab5cd8fd3",
+  "title": "Kato cook book; Kato kook book Cook book of tested recipes",
+  "subject": [
+    "Cooking, American"
+  ],
+  "spatial": [
+    "Mankato",
+    "44.15906, -94.00915"
+  ],
+  "description": null,
+  "isShownAt": "http://umedia.lib.umn.edu/item/p16022coll305:12561",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/mdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878485"
+    ],
+    "name": "Minnesota Digital Library"
+  },
+  "institution": "Minnesota Digital Library",
+  "year": 1922,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/a946a8eb88d122609b636deab5cd8fd3#SourceResource",
+      "collection": [
+        {
+          "title": "Doris S. Kirschner Cookbook Collection"
+        }
+      ],
+      "contributor": [
+        "Women of St. John's Episcopal Church ( Mankato, Minn.)"
+      ],
+      "date": [
+        {
+          "begin": "1922",
+          "displayDate": "1922",
+          "end": "1922"
+        }
+      ],
+      "format": [
+        "Cookbooks | http://vocab.getty.edu/aat/300026109"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "spatial": [
+        {
+          "coordinates": "44.15906, -94.00915",
+          "name": "Mankato"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        }
+      ],
+      "title": [
+        "Kato cook book; Kato kook book Cook book of tested recipes"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1922-01-01",
+      "normalized_dates": [
+        "1922-01-01"
+      ],
+      "date_range": {
+        "begin": "1922-01-01",
+        "end": "1922-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "http://cdm16022.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16022coll305&CISOPTR=12561",
+    "isShownAt": "http://umedia.lib.umn.edu/item/p16022coll305:12561"
+  },
+  "location": {
+    "state": "Minnesota",
+    "city": "Mankato"
+  },
+  "curation": {
+    "score": 7,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Episcopal"
+    ]
+  },
+  "curation_notes": "State match: Minnesota; Community markers: Church, Episcopal; Digitized scan available"
+}

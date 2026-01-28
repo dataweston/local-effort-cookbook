@@ -1,0 +1,502 @@
+{
+  "source": "internet_archive",
+  "identifier": "freshfoods0000unse",
+  "title": "Fresh foods",
+  "creator": null,
+  "year": 2005,
+  "subject": "Cooking (Natural foods)",
+  "description": [
+    "31 pages : 24 cm",
+    "Cover title"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/freshfoods0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/freshfoods0000unse"
+        }
+      ]
+    },
+    "created": 1758556887,
+    "d1": "ia601702.us.archive.org",
+    "d2": "ia801702.us.archive.org",
+    "dir": "/29/items/freshfoods0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660043115",
+        "size": "21371",
+        "md5": "6e99d1cc985e23319789622c6a5d5b55",
+        "crc32": "3107b22b",
+        "sha1": "0361c09475b46ec381c968bf2ce96d10ef4b9bc3",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "freshfoods0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "freshfoods0000unse_hocr.html",
+        "mtime": "1755999582",
+        "size": "7878345",
+        "private": "true",
+        "md5": "584784b0426d5dd4946e40d1dbb48c07",
+        "crc32": "276513c6",
+        "sha1": "39ef7ff84d19e599bf47654bb3b8578eca11e9d1"
+      },
+      {
+        "name": "freshfoods0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "freshfoods0000unse.pdf",
+        "mtime": "1755999320",
+        "size": "3685506",
+        "md5": "1efb433dd9a53741f642c75b4718f84a",
+        "crc32": "6a6e0c49",
+        "sha1": "aad09143957b6e91d55349d7cdc7b08e17954094"
+      },
+      {
+        "name": "freshfoods0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "freshfoods0000unse_page_numbers.json",
+        "mtime": "1722631137",
+        "size": "3430996",
+        "md5": "b6a9c7bb35c320bae1ddafdacacb784d",
+        "crc32": "6fed59bb",
+        "sha1": "43ccbb747965e01069ea24c55b12c5e0ad9a51bd",
+        "private": "true"
+      },
+      {
+        "name": "freshfoods0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "freshfoods0000unse_jp2.zip",
+        "mtime": "1601366559",
+        "size": "347099",
+        "md5": "9cd20b48a18a029b350dbf759e51c6eb",
+        "crc32": "5b11c3fa",
+        "sha1": "0f043db1b765083505097f3d1a76db00329cfe69",
+        "private": "true"
+      },
+      {
+        "name": "freshfoods0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "freshfoods0000unse_abbyy.gz",
+        "mtime": "1660042564",
+        "size": "274508",
+        "md5": "1593c67555c38ac5ba333d897d3848c3",
+        "crc32": "abc36e25",
+        "sha1": "e97a8921e508c24e43c273278ef9f0e0f7ed8b6d",
+        "private": "true"
+      },
+      {
+        "name": "freshfoods0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "freshfoods0000unse_scandata.xml",
+        "mtime": "1670042992",
+        "size": "764",
+        "md5": "dd066d6893c8c0352796660728b396b7",
+        "crc32": "cedb4178",
+        "sha1": "d3522e09fdedb35cace6f37aa0735ca7dd6bd63c",
+        "private": "true"
+      },
+      {
+        "name": "freshfoods0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1601365774",
+        "size": "745",
+        "md5": "f9dd7021e8a78de36685156bbaf4cfc5",
+        "crc32": "22954ddc",
+        "sha1": "c539ef45543a41227b7d08eda4dc75da728738a1"
+      },
+      {
+        "name": "freshfoods0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "freshfoods0000unse_djvu.xml",
+        "mtime": "1660043099",
+        "size": "23925",
+        "md5": "f45af17873cc38d4ef978659b4c7fbbd",
+        "crc32": "36d5fdd6",
+        "sha1": "776841c7d73591abeb6eefe577cdd2e90e51b8ca",
+        "private": "true"
+      },
+      {
+        "name": "freshfoods0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "freshfoods0000unse_hocr.html",
+        "mtime": "1660042898",
+        "size": "292444",
+        "md5": "df17538c2b7cb5e1e9f214867adb4aca",
+        "crc32": "9fc20a73",
+        "sha1": "8f3efb021c6d3f7389176f5195efff95d3885e98",
+        "private": "true"
+      },
+      {
+        "name": "freshfoods0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "freshfoods0000unse_abbyy.gz",
+        "mtime": "1601366569",
+        "size": "949837",
+        "md5": "e1c8dddcfdfcc4fd2328de1a9daab153",
+        "crc32": "666d41c2",
+        "sha1": "0d7d12f8313b87934bc5be4c994616f66cd8665b"
+      },
+      {
+        "name": "freshfoods0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "freshfoods0000unse.pdf",
+        "mtime": "1722631346",
+        "size": "3414330",
+        "md5": "21a227859edffb5cefb19b9a12296ccc",
+        "crc32": "7347cc79",
+        "sha1": "201433fed79307b48ad9d8ca90a3f06b13cf7926"
+      },
+      {
+        "name": "freshfoods0000unse_events.json",
+        "source": "original",
+        "mtime": "1601365388",
+        "size": "56",
+        "md5": "c66003978ba1584b6a2ec64cb53b6350",
+        "crc32": "b61c4e33",
+        "sha1": "5e53a3cee11999e533c60c215891f96b388e9e9b",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "freshfoods0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "fa9ec6efcc8f877bc2d0add6a3d59d06",
+        "summation": "md5"
+      },
+      {
+        "name": "freshfoods0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "freshfoods0000unse_chocr.html.gz",
+        "mtime": "1660042857",
+        "size": "632106",
+        "md5": "e06ac07f441ced108f295c06c8a6d452",
+        "crc32": "c90463a1",
+        "sha1": "bc549285caa261e8d8f4cfc4c6eedbb6bd0ceb5b",
+        "private": "true"
+      },
+      {
+        "name": "freshfoods0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "freshfoods0000unse_hocr.html",
+        "mtime": "1660043019",
+        "size": "355",
+        "md5": "106ab1452c586be21ced41a0c3fcd036",
+        "crc32": "dc8ac86e",
+        "sha1": "f3fafa9471e24deaabb2513c201984af6d71b9e0",
+        "private": "true"
+      },
+      {
+        "name": "freshfoods0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "75",
+        "word_conf_11_20": "18",
+        "word_conf_21_30": "26",
+        "word_conf_31_40": "43",
+        "word_conf_41_50": "79",
+        "word_conf_51_60": "117",
+        "word_conf_61_70": "270",
+        "word_conf_71_80": "512",
+        "word_conf_81_90": "952",
+        "word_conf_91_100": "1319",
+        "format": "OCR Search Text",
+        "original": "freshfoods0000unse_hocr.html",
+        "mtime": "1660043082",
+        "size": "8373",
+        "md5": "821a82309f93873e87a82fba0c5f1fda",
+        "crc32": "741a811f",
+        "sha1": "8777813605144c2edb9be9fdb32cb4eab3c32e01",
+        "private": "true"
+      },
+      {
+        "name": "freshfoods0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "freshfoods0000unse_orig_jp2.tar",
+        "mtime": "1601366268",
+        "size": "14034353",
+        "md5": "8b6e11c7c39e481bf857301e08bf8468",
+        "crc32": "d960013b",
+        "sha1": "20405f5874713c3ccb18dce04314e4c7710e6bc4",
+        "private": "true",
+        "filecount": "34"
+      },
+      {
+        "name": "freshfoods0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "freshfoods0000unse.epub",
+        "mtime": "1756000021",
+        "size": "7949934",
+        "md5": "81b4e0bfa012a8fe4d167409db82710b",
+        "crc32": "c975e9cd",
+        "sha1": "84e36d23708be78eb9b79065855f2a591dfcd386"
+      },
+      {
+        "name": "freshfoods0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1601050970",
+        "size": "3142",
+        "md5": "5936cad23fbeca6a8c4f032e44e4e5dd",
+        "crc32": "40c1fb40",
+        "sha1": "b3bc5246e4b377e63620f597d40fa16c8b81082f",
+        "format": "MARC"
+      },
+      {
+        "name": "freshfoods0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1601050965",
+        "size": "906",
+        "md5": "8a578a9b6f0d6f7cd1f1b046cdf8e62e",
+        "crc32": "e4950695",
+        "sha1": "b05ac8642dd4bb28e1212c40b96ff6c836740ca1",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "freshfoods0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1601365763",
+        "size": "19456",
+        "md5": "7ef71cd501d64d7563e839ae57c2601d",
+        "crc32": "8f5c736b",
+        "sha1": "2c1eb8c01ff850ee19674d0ee8d9fb0cd86c5095",
+        "format": "Metadata"
+      },
+      {
+        "name": "freshfoods0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1756000021",
+        "size": "2850",
+        "md5": "81415ad1181f314162d125ddc248fdaf",
+        "crc32": "d59b5a1a",
+        "sha1": "5e3f0e8b57a02a58a753f79098c630aa5f68146f",
+        "format": "Metadata"
+      },
+      {
+        "name": "freshfoods0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1601365762",
+        "size": "39843840",
+        "md5": "5a93407ea6524af3eb73787ed76f73e3",
+        "crc32": "25ec2423",
+        "sha1": "a9b0fa2252dacdbbc470169ba3d387347369ea7e",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "34"
+      },
+      {
+        "name": "freshfoods0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "58",
+        "format": "Page Numbers JSON",
+        "original": "freshfoods0000unse_hocr.html",
+        "mtime": "1722631137",
+        "size": "5564",
+        "md5": "7fb3779e5703a59fa95c1619b687ed51",
+        "crc32": "4bd9d010",
+        "sha1": "c934de7d5243067d99eb67015a32a41714f5f77c",
+        "private": "true"
+      },
+      {
+        "name": "freshfoods0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670042992",
+        "size": "35177",
+        "md5": "04a9e173715cc1f0aafd40b2fc670a37",
+        "crc32": "01c15fa7",
+        "sha1": "05fc100b482d857e635f6a85283f7241c7f706b9",
+        "format": "Scandata"
+      },
+      {
+        "name": "freshfoods0000unse_slip.png",
+        "source": "original",
+        "mtime": "1601026949",
+        "size": "38229",
+        "md5": "35efbc97d37251f5f320069c60b1b458",
+        "crc32": "888d9a9a",
+        "sha1": "704f9ced5073730588504e959d3787e0cf399dd3",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "freshfoods0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "freshfoods0000unse_slip.png",
+        "mtime": "1601365777",
+        "size": "5321",
+        "md5": "3c0472f132729b75db991b836acc1220",
+        "crc32": "dfb7fc22",
+        "sha1": "912453569bac5dd4fd30629593f09ba641718eef",
+        "private": "true"
+      },
+      {
+        "name": "freshfoods0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "freshfoods0000unse_djvu.xml",
+        "mtime": "1670042737",
+        "size": "685",
+        "md5": "4a847850e1790288e22d85770ed64209",
+        "crc32": "fee73ec8",
+        "sha1": "4544ad0bb57093dcaa6ac0cb1a35785809388ac3",
+        "private": "true"
+      },
+      {
+        "name": "logs/freshfoods0000unse_iabdash_2020-09-2600:22:51.log",
+        "source": "original",
+        "mtime": "1601050975",
+        "size": "660",
+        "md5": "e5da237302180e16facf908010358f62",
+        "crc32": "38a33934",
+        "sha1": "833a7ef4077b5b471ae11c5dcadf477361b6a2ee",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/freshfoods0000unse_scanning_2020-09-2600:23:00.log",
+        "source": "original",
+        "mtime": "1601050995",
+        "size": "159875",
+        "md5": "abfa749fc0bba12fa246a39f64704f34",
+        "crc32": "b27e981c",
+        "sha1": "4249ab97366fbf407741682ba8c81b10ae4ebb71",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/freshfoods0000unse_status_history_2020-09-2600:22:55.log",
+        "source": "original",
+        "mtime": "1601050979",
+        "size": "406",
+        "md5": "42a12c6583a9856a2f6b818afb13b61d",
+        "crc32": "a680ab13",
+        "sha1": "d5212d03fd6829513db3b8c7f33d1a77e37db0ca",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1756000021,
+    "item_size": 83061158,
+    "metadata": {
+      "identifier": "freshfoods0000unse",
+      "associated-names": "Publications International, Ltd",
+      "boxid": "IA1949713",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2005-01-01",
+      "description": [
+        "31 pages : 24 cm",
+        "Cover title"
+      ],
+      "isbn": [
+        "1412722136",
+        "9781412722131"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA19346",
+      "openlibrary_edition": "OL8432611M",
+      "operator": "associate-louisdavid-randoy@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : LW Press/Publications International",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station02.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "1412722136",
+      "subject": "Cooking (Natural foods)",
+      "title": "Fresh foods",
+      "tts_version": "4.0-initial-155-gbba175a5",
+      "uploader": "station02.cebu@archive.org",
+      "publicdate": "2020-09-25 09:42:28",
+      "access-restricted-item": "true",
+      "imagecount": "34",
+      "scandate": "20200925163048",
+      "republisher_operator": "associate-radel-luchavez@archive.org",
+      "republisher_date": "20200929154243",
+      "republisher_time": "346",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/freshfoods0000unse",
+      "identifier-ark": "ark:/13960/t6d31b758",
+      "external-identifier": [
+        "urn:acs6:freshfoods0000unse:epub:24373f4d-a2f3-4ae2-9996-a72cd591eb3a",
+        "urn:acs6:freshfoods0000unse:pdf:14f50914-18cf-480e-8eed-4cf4c67d1827",
+        "urn:oclc:record:1200469878",
+        "urn:lcp:freshfoods0000unse:lcpdf:e0cc6cb0-710f-4f11-9af4-0eb9b8ca0ac2",
+        "urn:lcp:freshfoods0000unse:epub:302da69c-b07c-4cb8-a0a9-88c5c7bf83f4"
+      ],
+      "addeddate": "2020-09-29 09:06:24",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20200930",
+      "openlibrary_work": "OL24827362W",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "58",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801702.us.archive.org",
+    "uniq": 1165635777,
+    "workable_servers": [
+      "ia801702.us.archive.org",
+      "ia601702.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

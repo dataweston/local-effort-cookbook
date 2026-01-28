@@ -1,0 +1,112 @@
+{
+  "source": "dpla",
+  "id": "75dc4aaab7d4bc1b5d00ed8fc7e02b8e",
+  "identifier": "75dc4aaab7d4bc1b5d00ed8fc7e02b8e",
+  "title": "The North Park cook book : a collection of tried recipes tendered by friends of the circle for the edification of cooks to whom it is dedicated",
+  "subject": [
+    "Cooking, American",
+    "Community cookbooks--Michigan--Grand Rapids"
+  ],
+  "spatial": [
+    "Michigan",
+    "Grand Rapids"
+  ],
+  "description": "\"Church building edition.\"",
+  "isShownAt": "http://catalog.hathitrust.org/Record/005861684",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1922,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/75dc4aaab7d4bc1b5d00ed8fc7e02b8e#SourceResource",
+      "contributor": [
+        "North Park Presbyterian Church (Grand Rapids, Mich.). Ladies Circle"
+      ],
+      "date": [
+        {
+          "begin": "1922",
+          "displayDate": "1922",
+          "end": "1922"
+        }
+      ],
+      "description": [
+        "\"Church building edition.\""
+      ],
+      "extent": [
+        "127 p. : 23 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-hvd007720487",
+        "(OCoLC)8637319",
+        "Hathi: 005861684"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "[Grand Rapids, Mich.] North Park Ladies Circle"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Grand Rapids"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Community cookbooks--Michigan--Grand Rapids"
+        }
+      ],
+      "title": [
+        "The North Park cook book : a collection of tried recipes tendered by friends of the circle for the edification of cooks to whom it is dedicated"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1922-01-01",
+      "normalized_dates": [
+        "1922-01-01"
+      ],
+      "date_range": {
+        "begin": "1922-01-01",
+        "end": "1922-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=xosTAAAAYAAJ&printsec=frontcover&img=1&zoom=5",
+    "isShownAt": "http://catalog.hathitrust.org/Record/005861684"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Presbyterian"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church, Presbyterian; Digitized scan available"
+}

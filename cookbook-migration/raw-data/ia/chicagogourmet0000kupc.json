@@ -1,0 +1,488 @@
+{
+  "source": "internet_archive",
+  "identifier": "chicagogourmet0000kupc",
+  "title": "Chicago gourmet",
+  "creator": "Kupcinet, Sue",
+  "year": 1977,
+  "subject": [
+    "Cooking -- Illinois -- Chicago",
+    "Restaurants -- Illinois -- Chicago"
+  ],
+  "description": [
+    "xiv, 300 p. ; 21 cm",
+    "Includes indexes"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/chicagogourmet0000kupc"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/chicagogourmet0000kupc"
+        }
+      ]
+    },
+    "created": 1758555332,
+    "d1": "ia601802.us.archive.org",
+    "d2": "ia801802.us.archive.org",
+    "dir": "/6/items/chicagogourmet0000kupc",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659732867",
+        "size": "19555",
+        "md5": "b4f4f41a08be9cc8aeb73f50741e6ab1",
+        "crc32": "3439c137",
+        "sha1": "6945011c5164753b38f6c785f8d8e6087014e8a8",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "chicagogourmet0000kupc.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "chicagogourmet0000kupc_hocr.html",
+        "mtime": "1755477958",
+        "size": "632167",
+        "private": "true",
+        "md5": "6fd0d37065b1728ebeb43e14b425e7f7",
+        "crc32": "e2aa2a9a",
+        "sha1": "34d886d4e5b48eb8be4152907128b28e7a96a410"
+      },
+      {
+        "name": "chicagogourmet0000kupc.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "chicagogourmet0000kupc.pdf",
+        "mtime": "1755477668",
+        "size": "9311290",
+        "md5": "3212d5d7e764fadb4aedfc0d815147af",
+        "crc32": "54496f8e",
+        "sha1": "164c3573d1d54614a92ce2049ae2ff74d843f235"
+      },
+      {
+        "name": "chicagogourmet0000kupc.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "chicagogourmet0000kupc_page_numbers.json",
+        "mtime": "1718558342",
+        "size": "9117923",
+        "md5": "f56f3ee26435b63f18057e10060cce82",
+        "crc32": "7ab5a632",
+        "sha1": "41977a777c95241764098da5422a07c43c9074a0",
+        "private": "true"
+      },
+      {
+        "name": "chicagogourmet0000kupc_chocr.html.gz",
+        "source": "derivative",
+        "format": "chOCR",
+        "original": "chicagogourmet0000kupc_jp2.zip",
+        "mtime": "1604052593",
+        "size": "4338001",
+        "md5": "470d2bf32b69af0706abfc94c8387f52",
+        "crc32": "f4820dc8",
+        "sha1": "88bc07064e82057eed22275610089df041fe0d33",
+        "private": "true"
+      },
+      {
+        "name": "chicagogourmet0000kupc_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "chicagogourmet0000kupc_scandata.xml",
+        "mtime": "1669576883",
+        "size": "780",
+        "md5": "85798cad37960b98b40d52ee6bfb4839",
+        "crc32": "81c2363e",
+        "sha1": "c95314a12ecca6dd0d22b4b194f8ce44b10ea028",
+        "private": "true"
+      },
+      {
+        "name": "chicagogourmet0000kupc_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1604047775",
+        "size": "1028",
+        "md5": "28afd751cf017cb1b942b855b8a8f281",
+        "crc32": "b68caae9",
+        "sha1": "2311a17d747c34e458272de306ad44e076cc012c"
+      },
+      {
+        "name": "chicagogourmet0000kupc_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "chicagogourmet0000kupc_djvu.xml",
+        "mtime": "1659732859",
+        "size": "314037",
+        "md5": "7ba0457d3dc92e359c853a00ebb8bf24",
+        "crc32": "84c908f1",
+        "sha1": "e236028d4295d88dff0c0d88127af0dd90463bf3",
+        "private": "true"
+      },
+      {
+        "name": "chicagogourmet0000kupc_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "chicagogourmet0000kupc_hocr.html",
+        "mtime": "1659732690",
+        "size": "4187486",
+        "md5": "93499d4daad837c856063c407dc666ff",
+        "crc32": "6a8245e1",
+        "sha1": "dbb38b0452119481a2f53ed86fb1be5ac1e90979",
+        "private": "true"
+      },
+      {
+        "name": "chicagogourmet0000kupc_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "chicagogourmet0000kupc.pdf",
+        "mtime": "1718558797",
+        "size": "9036617",
+        "md5": "557a140c2427aee1183d052a8d901067",
+        "crc32": "a6b9929a",
+        "sha1": "0fa59c6d7da46805de2e699317a1272b53d85fff"
+      },
+      {
+        "name": "chicagogourmet0000kupc_events.json",
+        "source": "original",
+        "mtime": "1604047698",
+        "size": "53",
+        "md5": "6d20d7fd9e4ba7a67ad9cf8e3414c891",
+        "crc32": "192e1326",
+        "sha1": "3c1fef7b69db46a657fee0e604e379a0329e8100",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "chicagogourmet0000kupc_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "3f31889732eec1191be912613da2395b",
+        "summation": "md5"
+      },
+      {
+        "name": "chicagogourmet0000kupc_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "format": "hOCR",
+        "original": "chicagogourmet0000kupc_chocr.html.gz",
+        "mtime": "1614689482",
+        "size": "8042486",
+        "md5": "652fdc9e26df2f078aa9b1afe95afaba",
+        "crc32": "302c0a4b",
+        "sha1": "5e425567af97b647eacecd3d1e4e41eb62489354",
+        "private": "true"
+      },
+      {
+        "name": "chicagogourmet0000kupc_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "chicagogourmet0000kupc_hocr.html",
+        "mtime": "1614689623",
+        "size": "3817",
+        "md5": "1f99c9ef7be33fe746626b512207101f",
+        "crc32": "258523a8",
+        "sha1": "86acac0df8e92a61af8f424a375a301e7cc5ab28",
+        "private": "true"
+      },
+      {
+        "name": "chicagogourmet0000kupc_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.0.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "255",
+        "word_conf_11_20": "138",
+        "word_conf_21_30": "225",
+        "word_conf_31_40": "228",
+        "word_conf_41_50": "293",
+        "word_conf_51_60": "326",
+        "word_conf_61_70": "464",
+        "word_conf_71_80": "789",
+        "word_conf_81_90": "1802",
+        "word_conf_91_100": "44914",
+        "format": "OCR Search Text",
+        "original": "chicagogourmet0000kupc_hocr.html",
+        "mtime": "1614689710",
+        "size": "108847",
+        "md5": "7252ba7df88d828e0516996378bc6955",
+        "crc32": "376b6061",
+        "sha1": "934bd6bcab1f8967d8b06fea94590cb198aecc2c",
+        "private": "true"
+      },
+      {
+        "name": "chicagogourmet0000kupc_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "chicagogourmet0000kupc_orig_jp2.tar",
+        "mtime": "1604050729",
+        "size": "96403731",
+        "md5": "57568f3d14d8518fa273baa2f6acbed8",
+        "crc32": "cdaff38a",
+        "sha1": "e71e7ced3f06ce96871c9bc9cf0712f6d75f8bdf",
+        "private": "true",
+        "filecount": "326"
+      },
+      {
+        "name": "chicagogourmet0000kupc_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "chicagogourmet0000kupc.epub",
+        "mtime": "1755478303",
+        "size": "654029",
+        "md5": "07777958448d14e7f31c3ebed20a556a",
+        "crc32": "b1266ddf",
+        "sha1": "0f76db758d9a7ff254372a8bf36b9a3974be6b2e"
+      },
+      {
+        "name": "chicagogourmet0000kupc_marc.xml",
+        "source": "original",
+        "mtime": "1603841396",
+        "size": "2453",
+        "md5": "bc506ab96a9dbff07c80598dfe7d568b",
+        "crc32": "af73bc08",
+        "sha1": "807ffec52293c6459b77a2247dd4c7e60968584c",
+        "format": "MARC"
+      },
+      {
+        "name": "chicagogourmet0000kupc_meta.mrc",
+        "source": "original",
+        "mtime": "1603841391",
+        "size": "713",
+        "md5": "bccd3e9ffb8c9a2ab723210b6b36b431",
+        "crc32": "7d07a8b1",
+        "sha1": "81fecb3306840277c28ab638f36e1eea0007ac5e",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "chicagogourmet0000kupc_meta.sqlite",
+        "source": "original",
+        "mtime": "1604047744",
+        "size": "19456",
+        "md5": "4c08712f093fda11b8864f0337577dbd",
+        "crc32": "94cf1054",
+        "sha1": "ed6c0a4b2e41f82263d4bbffa07cc58d19b54e12",
+        "format": "Metadata"
+      },
+      {
+        "name": "chicagogourmet0000kupc_meta.xml",
+        "source": "original",
+        "mtime": "1755478304",
+        "size": "3207",
+        "md5": "8701d0d33a03ec7b261531e6a2977742",
+        "crc32": "14037fbd",
+        "sha1": "d58804914214772f1a34ba6ac248d6a71da33ec6",
+        "format": "Metadata"
+      },
+      {
+        "name": "chicagogourmet0000kupc_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1604047743",
+        "size": "405780480",
+        "md5": "2d508444f3047553000275a35c43b147",
+        "crc32": "16b2ae2f",
+        "sha1": "8c6beca60085c46a4ddea5fb6ea51dce037fa571",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "326"
+      },
+      {
+        "name": "chicagogourmet0000kupc_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "chicagogourmet0000kupc_hocr.html",
+        "mtime": "1718558342",
+        "size": "54604",
+        "md5": "e876e46a5ac9b34f93d2d9891593345f",
+        "crc32": "35bb9197",
+        "sha1": "68d0195f455cbd18ece192f82bf697c78b973393",
+        "private": "true"
+      },
+      {
+        "name": "chicagogourmet0000kupc_scandata.xml",
+        "source": "original",
+        "mtime": "1669576883",
+        "size": "175216",
+        "md5": "4e25d1597b196143d33e9e3f3e4db3d8",
+        "crc32": "9fa15f64",
+        "sha1": "e0fc406861b509cec0783c4b0c803377e6816769",
+        "format": "Scandata"
+      },
+      {
+        "name": "chicagogourmet0000kupc_slip.png",
+        "source": "original",
+        "mtime": "1603839850",
+        "size": "40048",
+        "md5": "eff3428e2112acb3178e1e53f5dc073d",
+        "crc32": "549ff878",
+        "sha1": "dd00f9f171bf46b83cd541a6576c6385e8505f00",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "chicagogourmet0000kupc_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "chicagogourmet0000kupc_slip.png",
+        "mtime": "1604047778",
+        "size": "5515",
+        "md5": "6efdd4c82112372440ecba901bebb3aa",
+        "crc32": "3bf88aa9",
+        "sha1": "295ceaa73ffaed66de0dd99ad31439c6ef52ec85",
+        "private": "true"
+      },
+      {
+        "name": "chicagogourmet0000kupc_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "chicagogourmet0000kupc_djvu.xml",
+        "mtime": "1669576723",
+        "size": "510",
+        "md5": "062701f19f40820cc6beece61c60de0b",
+        "crc32": "ffc037f6",
+        "sha1": "2de22731fb1ae9f0d862385ebc08c7e59b697f78",
+        "private": "true"
+      },
+      {
+        "name": "logs/chicagogourmet0000kupc_iabdash_2020-10-2807:29:59.log",
+        "source": "original",
+        "mtime": "1603841403",
+        "size": "2713",
+        "md5": "a3233f15eaceccbd5d82be9886655421",
+        "crc32": "ac7ed52c",
+        "sha1": "2f4e9cc0591700c89ae78757626567758418b67c",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/chicagogourmet0000kupc_scanning_2020-10-2807:30:09.log",
+        "source": "original",
+        "mtime": "1603841413",
+        "size": "1027222",
+        "md5": "bc4f94c34117010a4685969ec90aadeb",
+        "crc32": "281dbcaa",
+        "sha1": "4506d44c3b29ececaeff23977866e0756f330fe5",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/chicagogourmet0000kupc_status_history_2020-10-2807:30:04.log",
+        "source": "original",
+        "mtime": "1603841408",
+        "size": "406",
+        "md5": "7f96e785f866268949cf6200c443d64f",
+        "crc32": "38e89fc8",
+        "sha1": "1640b7abcc256faeb6881bc7381241ce50929308",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1755478304,
+    "item_size": 549284390,
+    "metadata": {
+      "identifier": "chicagogourmet0000kupc",
+      "associated-names": "Fish, Connie, joint author",
+      "boxid": "IA1990607",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Kupcinet, Sue",
+      "date": "1977-01-01",
+      "description": [
+        "xiv, 300 p. ; 21 cm",
+        "Includes indexes"
+      ],
+      "isbn": "067122896X",
+      "language": "eng",
+      "lccn": "77011041",
+      "mediatype": "texts",
+      "old_pallet": "IA19688",
+      "openlibrary_edition": "OL4543764M",
+      "openlibrary_work": "OL6667799W",
+      "operator": "associate-wilfredo-saladores@archive.org",
+      "ppi": "300",
+      "publisher": "New York : Simon and Schuster",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station10.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "067122896",
+      "sponsor": "The Arcadia Fund",
+      "subject": [
+        "Cooking -- Illinois -- Chicago",
+        "Restaurants -- Illinois -- Chicago"
+      ],
+      "title": "Chicago gourmet",
+      "tts_version": "4.2-initial-95-g43a18aa1",
+      "uploader": "station10.cebu@archive.org",
+      "publicdate": "2020-10-27 23:04:26",
+      "access-restricted-item": "true",
+      "imagecount": "326",
+      "scandate": "20201028010812",
+      "republisher_operator": "associate-evelyn-rabe@archive.org",
+      "republisher_date": "20201030164814",
+      "republisher_time": "343",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/chicagogourmet0000kupc",
+      "identifier-ark": "ark:/13960/t5m99sm77",
+      "ocr": "tesseract 4.1.1",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.4",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "100",
+      "scanfee": "2000;0;0",
+      "invoice": "2089",
+      "external-identifier": [
+        "urn:acs6:chicagogourmet0000kupc:pdf:427ac6e3-95aa-4d49-b169-e9a675845f5e",
+        "urn:oclc:record:1244498265",
+        "urn:lcp:chicagogourmet0000kupc:lcpdf:c00513db-2766-45c4-917a-15bab48447f8",
+        "urn:lcp:chicagogourmet0000kupc:epub:37a9a793-444a-41ea-b3b1-e079dc366003"
+      ],
+      "sponsordate": "20210930",
+      "addeddate": "2020-12-10 22:15:05",
+      "grant_report": "Arcadia #4281",
+      "pdf_module_version": "0.0.20",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "curation": "[date]20250204223745[/date][comment]inlibrary removal 3[/comment]",
+      "source": "removed"
+    },
+    "server": "ia801802.us.archive.org",
+    "uniq": 1173437248,
+    "workable_servers": [
+      "ia801802.us.archive.org",
+      "ia601802.us.archive.org"
+    ]
+  },
+  "institution": "Kupcinet, Sue",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

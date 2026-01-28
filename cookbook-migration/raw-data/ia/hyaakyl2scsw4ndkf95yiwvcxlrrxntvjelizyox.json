@@ -1,0 +1,183 @@
+{
+  "source": "internet_archive",
+  "identifier": "hyaakyl2scsw4ndkf95yiwvcxlrrxntvjelizyox",
+  "title": "026 iPhreaks Show - Custom UI Controls with Sam Davies",
+  "creator": "The iPhreaks Show",
+  "year": 2013,
+  "subject": [
+    "Podcast",
+    "iOS",
+    "Mac",
+    "Apple",
+    "development",
+    "iPhone"
+  ],
+  "description": "Panel?Sam Davies (twitter github blog)?Rod Schmidt (twitter github infiniteNIL)?Ben Scheirman (twitter github blog NSSreencast)?Jaim Zuber (twitter Sharp Five Software)?Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)Discussion00:57 - Sam Davies Introduction?ShinobiControls01:47 - Custom UI Controls04:50 - Design-Time Experience and Documentation09:49 - When Should You Use Custom Controls?11:40 - Controls?UISlider?TableView?UIView25:40 - OpenGL?CAEAGLLayer Class Reference27:01 - Transitioning Custom Controls30:04 - New for iOS7Picks?The iOS Design Cheat Sheet (Jaim)?AFNetworking-ASIHTTPRequest (Jaim)?Cocoa Controls (Ben)?Lufthansa Airlines (Ben)?Samarkand (Ben)?Geist Dark (Ben)?NSCalendar-EqualWithGranularity (Rod)?JVFloatLabeledTextField (Rod)?Sublime Text (Sam)?Dash (Sam)?Introducing iOS7 Day-by-Day (Sam)?what-if.xkcd.com (Sam)Next WeekiOS Game Development with Kyle Richter and Nathan ErorTranscriptBEN: Sounds like you need a shot of espresso, Chuck.[Laughter]JAIM: Do pushups maybe, you know.ROD: Cold shower.CHUCK: Cold shower, yeah. [Laughs]CHUCK: Hey everybody and welcome to Episode 26 of The iPhreaks Show! This week on our panel, we have Rod Schmidt.ROD: Hello from Salt Lake City!CHUCK: Ben Scheirman.BEN: Hello from Houston!CHUCK: Jaim Zuber.JAIM: I'm good enough, I'm smart enough, doggone it, people - sorry. Hello from Minnesota!BEN: [Laughs]JAIM: Can you believe that guy is my senator?CHUCK: [Laughs]JAIM: No. He don't get back to work. I don't know what's going on here.CHUCK: [Chuckles] I'm Charles Max Wood from DevChat.tv, with a quick reminder to go check out GoingRogueVideo.com. I have a 30-minute video on how I went freelance. And we also have a special guest this week, and that's Sam Davies.SAM: Hello there from Bristol, the UK!CHUCK: Do you want to introduce yourself for the people who don't know who you are?SAM: Sure! I'm Sam Davies. I work now for a company called ShinobiControls, and we build various different UI controls for both iOS and for Android and things. All kinds of different things; I'm not going to [unclear] you with exactly what we do, but charting and all kinds of different to help people's [unclear]. I stay at that life as a computer vision researcher back in the day a few years ago. I spent a while of doing that. But Academia just doesn't really have any money so I had to leave Academia and go do something a bit more applicable so I started doing mobile development and kind of stuff at working machine over a few years ago. Now, I work as a developer evangelist so kind of writing different bits and pieces and teaching people about things as well. I like talking to devs and doing dev work as well.CHUCK: Very nice. We brought you on the show to talk about \\\"Custom UIControls\\\".SAM: Yup! I guess, sure, I'd talk a little bit about what - what they are and why you would want to make custom UIcontrols.CHUCK: Yeah, that sounds like a good start to me.SAM: UIControls, we all know exactly what UIControls are because we use them all the time, but what that actually means for somebody who's using something that really helpful for lots of different groups of people including designers, developers, and for the end user as well. They represent a common vocabulary of ways and what you interact with an app. So we're all used to UIControls in iOS because we have things like UISliders, we have Buttons, we have segment of control, whole selection of different things, and they were really, really useful.But the question always comes when you get to the stage where you want something that doesn't quite - whether the existing ones from iOS don't exactly do what you want to do - you want to have something slightly different. An example I always give whenever anybody wants to talk to me about this kind of thing is,",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn710001.ca.archive.org",
+          "dir": "/0/items/hyaakyl2scsw4ndkf95yiwvcxlrrxntvjelizyox"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn710001.ca.archive.org",
+          "dir": "/0/items/hyaakyl2scsw4ndkf95yiwvcxlrrxntvjelizyox"
+        }
+      ]
+    },
+    "created": 1758319796,
+    "d1": "ia904501.us.archive.org",
+    "d2": "ia804501.us.archive.org",
+    "dir": "/0/items/hyaakyl2scsw4ndkf95yiwvcxlrrxntvjelizyox",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1623626122",
+        "size": "3931",
+        "md5": "09c9d7dd77385c58609903d63c1d3a44",
+        "crc32": "c0fb4577",
+        "sha1": "00630505ae658caf5663bd9955982f8f9f5fe8da",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "ddhfkejjvo4ranm-iPhreaks026CustomControls.afpk",
+        "source": "derivative",
+        "format": "Columbia Peaks",
+        "original": "ddhfkejjvo4ranm-iPhreaks026CustomControls.mp3",
+        "mtime": "1623626068",
+        "size": "486456",
+        "md5": "6b53ca530c0fc870e86c0d245b372794",
+        "crc32": "035e1157",
+        "sha1": "a4b6cfb2286cbf8ec1676ccac4f9535b4f7854be",
+        "private": "true"
+      },
+      {
+        "name": "ddhfkejjvo4ranm-iPhreaks026CustomControls.mp3",
+        "source": "original",
+        "mtime": "1623625531",
+        "size": "42642442",
+        "md5": "c5e676d775541b194d7d5adfd169deb9",
+        "crc32": "f83cf9c4",
+        "sha1": "67ea05c6e11069f9ae2b651896e0151972651170",
+        "format": "VBR MP3",
+        "length": "2665.12",
+        "height": "0",
+        "width": "0",
+        "title": "Episode @026: Custom UI Controls with Sam Davies",
+        "creator": "The iPhreaks Show",
+        "track": "26",
+        "genre": "Podcast",
+        "artist": "The iPhreaks Show",
+        "private": "true"
+      },
+      {
+        "name": "ddhfkejjvo4ranm-iPhreaks026CustomControls.png",
+        "source": "derivative",
+        "format": "PNG",
+        "original": "ddhfkejjvo4ranm-iPhreaks026CustomControls.mp3",
+        "mtime": "1623625948",
+        "size": "45986",
+        "md5": "282deaad990c197c0553c97a8d9975ab",
+        "crc32": "7915de48",
+        "sha1": "b15143aff2383ba8b3482c08f0890301e81f15b0",
+        "private": "true"
+      },
+      {
+        "name": "ddhfkejjvo4ranm-iPhreaks026CustomControls_spectrogram.png",
+        "source": "derivative",
+        "format": "Spectrogram",
+        "original": "ddhfkejjvo4ranm-iPhreaks026CustomControls.mp3",
+        "mtime": "1623625980",
+        "size": "291451",
+        "md5": "0404ae11d99488c5418a98f9f17e7932",
+        "crc32": "4a192690",
+        "sha1": "f56cd31a341b0215f94d2aa71b83c2890f038225",
+        "private": "true"
+      },
+      {
+        "name": "hyaakyl2scsw4ndkf95yiwvcxlrrxntvjelizyox_archive.torrent",
+        "source": "metadata",
+        "btih": "270ff96afaa30c7cc0335e8fa07139d3cb7ae0b3",
+        "mtime": "1623627668",
+        "size": "4325",
+        "md5": "d8f58b24e343c0607df968a8c1191179",
+        "crc32": "17171188",
+        "sha1": "52aa494291070779a8b3de0ea122caa1487891f6",
+        "format": "Archive BitTorrent",
+        "private": "true"
+      },
+      {
+        "name": "hyaakyl2scsw4ndkf95yiwvcxlrrxntvjelizyox_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "92cf12e641669d25e0a2d771e7f170fa",
+        "summation": "md5"
+      },
+      {
+        "name": "hyaakyl2scsw4ndkf95yiwvcxlrrxntvjelizyox_meta.sqlite",
+        "source": "original",
+        "mtime": "1623625574",
+        "size": "28672",
+        "md5": "64193ac94b637cb1a23685cef0c22069",
+        "crc32": "3353efa3",
+        "sha1": "230f40213457ad3a070c12ccd0c0495cd7df7645",
+        "format": "Metadata"
+      },
+      {
+        "name": "hyaakyl2scsw4ndkf95yiwvcxlrrxntvjelizyox_meta.xml",
+        "source": "original",
+        "mtime": "1654023588",
+        "size": "4877",
+        "md5": "2db8b7b657a2f7f30ace40bd1a75b380",
+        "crc32": "a31fb782",
+        "sha1": "aafff98d07f6bcd5cdce7516c51ec0b9b96cef4d",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 9,
+    "item_last_updated": 1654023588,
+    "item_size": 43508140,
+    "metadata": {
+      "identifier": "hyaakyl2scsw4ndkf95yiwvcxlrrxntvjelizyox",
+      "creator": "The iPhreaks Show",
+      "date": "2013-10-24",
+      "description": "Panel?Sam Davies (twitter github blog)?Rod Schmidt (twitter github infiniteNIL)?Ben Scheirman (twitter github blog NSSreencast)?Jaim Zuber (twitter Sharp Five Software)?Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)Discussion00:57 - Sam Davies Introduction?ShinobiControls01:47 - Custom UI Controls04:50 - Design-Time Experience and Documentation09:49 - When Should You Use Custom Controls?11:40 - Controls?UISlider?TableView?UIView25:40 - OpenGL?CAEAGLLayer Class Reference27:01 - Transitioning Custom Controls30:04 - New for iOS7Picks?The iOS Design Cheat Sheet (Jaim)?AFNetworking-ASIHTTPRequest (Jaim)?Cocoa Controls (Ben)?Lufthansa Airlines (Ben)?Samarkand (Ben)?Geist Dark (Ben)?NSCalendar-EqualWithGranularity (Rod)?JVFloatLabeledTextField (Rod)?Sublime Text (Sam)?Dash (Sam)?Introducing iOS7 Day-by-Day (Sam)?what-if.xkcd.com (Sam)Next WeekiOS Game Development with Kyle Richter and Nathan ErorTranscriptBEN: Sounds like you need a shot of espresso, Chuck.[Laughter]JAIM: Do pushups maybe, you know.ROD: Cold shower.CHUCK: Cold shower, yeah. [Laughs]CHUCK: Hey everybody and welcome to Episode 26 of The iPhreaks Show! This week on our panel, we have Rod Schmidt.ROD: Hello from Salt Lake City!CHUCK: Ben Scheirman.BEN: Hello from Houston!CHUCK: Jaim Zuber.JAIM: I'm good enough, I'm smart enough, doggone it, people - sorry. Hello from Minnesota!BEN: [Laughs]JAIM: Can you believe that guy is my senator?CHUCK: [Laughs]JAIM: No. He don't get back to work. I don't know what's going on here.CHUCK: [Chuckles] I'm Charles Max Wood from DevChat.tv, with a quick reminder to go check out GoingRogueVideo.com. I have a 30-minute video on how I went freelance. And we also have a special guest this week, and that's Sam Davies.SAM: Hello there from Bristol, the UK!CHUCK: Do you want to introduce yourself for the people who don't know who you are?SAM: Sure! I'm Sam Davies. I work now for a company called ShinobiControls, and we build various different UI controls for both iOS and for Android and things. All kinds of different things; I'm not going to [unclear] you with exactly what we do, but charting and all kinds of different to help people's [unclear]. I stay at that life as a computer vision researcher back in the day a few years ago. I spent a while of doing that. But Academia just doesn't really have any money so I had to leave Academia and go do something a bit more applicable so I started doing mobile development and kind of stuff at working machine over a few years ago. Now, I work as a developer evangelist so kind of writing different bits and pieces and teaching people about things as well. I like talking to devs and doing dev work as well.CHUCK: Very nice. We brought you on the show to talk about \\\"Custom UIControls\\\".SAM: Yup! I guess, sure, I'd talk a little bit about what - what they are and why you would want to make custom UIcontrols.CHUCK: Yeah, that sounds like a good start to me.SAM: UIControls, we all know exactly what UIControls are because we use them all the time, but what that actually means for somebody who's using something that really helpful for lots of different groups of people including designers, developers, and for the end user as well. They represent a common vocabulary of ways and what you interact with an app. So we're all used to UIControls in iOS because we have things like UISliders, we have Buttons, we have segment of control, whole selection of different things, and they were really, really useful.But the question always comes when you get to the stage where you want something that doesn't quite - whether the existing ones from iOS don't exactly do what you want to do - you want to have something slightly different. An example I always give whenever anybody wants to talk to me about this kind of thing is,",
+      "mediatype": "audio",
+      "scanner": "Internet Archive Python library 1.9.6",
+      "sessionid": "ddhfkejjvo4ranm-",
+      "subject": [
+        "Podcast",
+        "iOS",
+        " Mac",
+        " Apple",
+        " development",
+        " iPhone"
+      ],
+      "title": "026 iPhreaks Show - Custom UI Controls with Sam Davies",
+      "uploadsoftware": "LifePod-Beta",
+      "collection": [
+        "podcasts_mirror_bobarchives",
+        "podcasts_mirror"
+      ],
+      "uploader": "bobarchives123@gmail.com",
+      "publicdate": "2021-06-13 23:06:01",
+      "addeddate": "2021-06-13 23:06:01",
+      "curation": "[curator]validator@archive.org[/curator][date]20210613231158[/date][comment]checked for malware[/comment]",
+      "access-restricted-item": "true",
+      "normalized_dates": [
+        "2013-10-24"
+      ]
+    },
+    "server": "ia804501.us.archive.org",
+    "uniq": 456841971,
+    "workable_servers": [
+      "ia804501.us.archive.org",
+      "ia904501.us.archive.org"
+    ]
+  }
+}

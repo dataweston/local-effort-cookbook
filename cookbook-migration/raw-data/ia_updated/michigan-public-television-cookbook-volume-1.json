@@ -1,0 +1,310 @@
+{
+  "source": "internet_archive",
+  "identifier": "michigan-public-television-cookbook-volume-1",
+  "title": "Michigan Public Television Cookbook Volume 1",
+  "creator": null,
+  "year": null,
+  "subject": [
+    "cookbook",
+    "recipe"
+  ],
+  "description": "This is a collection of recipes collected by people who worked at PBS stations in Michigan and published in 2000.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn710006.ca.archive.org",
+          "dir": "/0/items/michigan-public-television-cookbook-volume-1"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn710006.ca.archive.org",
+          "dir": "/0/items/michigan-public-television-cookbook-volume-1"
+        }
+      ]
+    },
+    "created": 1758555603,
+    "d1": "ia600400.us.archive.org",
+    "d2": "ia800400.us.archive.org",
+    "dir": "/4/items/michigan-public-television-cookbook-volume-1",
+    "files": [
+      {
+        "name": "Michigan Public Television Cookbook Volume 1.pdf",
+        "source": "original",
+        "mtime": "1682820524",
+        "size": "47428283",
+        "md5": "db39aaa92cecbd4e1f65a514b205f7c2",
+        "crc32": "a976c6af",
+        "sha1": "7b405ab4d26e50da903913dd44259f49971e2145",
+        "format": "Image Container PDF"
+      },
+      {
+        "name": "Michigan Public Television Cookbook Volume 1_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-3-g9920",
+        "ocr_parameters": "lang-urd;lang-ltz;lang-lat;lang-eng;lang-Latin;lang-Arabic;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": [
+          "Latin",
+          "Arabic"
+        ],
+        "ocr_detected_script_conf": [
+          "0.9876",
+          "0.0079"
+        ],
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Michigan Public Television Cookbook Volume 1_jp2.zip",
+        "mtime": "1682824487",
+        "size": "2195267",
+        "md5": "10d6b6cc1dea3a55336096564a2874fa",
+        "crc32": "c3b45bb6",
+        "sha1": "9f3648e8984b02a81e17d5ab2e1914bb3051cf73"
+      },
+      {
+        "name": "Michigan Public Television Cookbook Volume 1_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Michigan Public Television Cookbook Volume 1_djvu.xml",
+        "mtime": "1682824860",
+        "size": "152168",
+        "md5": "b436a80eb31a1d07b59c0734ce1d7e71",
+        "crc32": "ea1f2834",
+        "sha1": "253c7aaa04c760c1e4455720b37ca4264f6cb25e"
+      },
+      {
+        "name": "Michigan Public Television Cookbook Volume 1_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Michigan Public Television Cookbook Volume 1_hocr.html",
+        "mtime": "1682824575",
+        "size": "2208606",
+        "md5": "4594d5629ea597f06657118cf186eec8",
+        "crc32": "33e38190",
+        "sha1": "b9596f96079a869ff16cb7931b40fa25596a9b96"
+      },
+      {
+        "name": "Michigan Public Television Cookbook Volume 1_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "lang-urd;lang-ltz;lang-lat;lang-eng;lang-Latin;lang-Arabic;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": [
+          "Latin",
+          "Arabic"
+        ],
+        "ocr_detected_script_conf": [
+          "0.9876",
+          "0.0079"
+        ],
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Michigan Public Television Cookbook Volume 1_chocr.html.gz",
+        "mtime": "1682824545",
+        "size": "4368327",
+        "md5": "8d3faa81151893ef077eb8340eb60910",
+        "crc32": "08606058",
+        "sha1": "d52d8e019ed12e4bd24bfd397a3f8025dd5ccbf9"
+      },
+      {
+        "name": "Michigan Public Television Cookbook Volume 1_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "Michigan Public Television Cookbook Volume 1_hocr.html",
+        "mtime": "1682824594",
+        "size": "1310",
+        "md5": "419b4e34aa5c8888e03501d0755320e0",
+        "crc32": "fd0a6ea0",
+        "sha1": "6771c49d8064959cd22169a3d0dfb771eba3fdc6"
+      },
+      {
+        "name": "Michigan Public Television Cookbook Volume 1_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "127",
+        "word_conf_11_20": "101",
+        "word_conf_21_30": "234",
+        "word_conf_31_40": "351",
+        "word_conf_41_50": "357",
+        "word_conf_51_60": "325",
+        "word_conf_61_70": "377",
+        "word_conf_71_80": "418",
+        "word_conf_81_90": "924",
+        "word_conf_91_100": "22967",
+        "format": "OCR Search Text",
+        "original": "Michigan Public Television Cookbook Volume 1_hocr.html",
+        "mtime": "1682824836",
+        "size": "56037",
+        "md5": "11ca620a18f89794045e2b9b3dc88f57",
+        "crc32": "4b59bf10",
+        "sha1": "6633dc5088d14a6bc4e1ee34f8be0e14b6ad2e7e"
+      },
+      {
+        "name": "Michigan Public Television Cookbook Volume 1_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Michigan Public Television Cookbook Volume 1.pdf",
+        "mtime": "1682821358",
+        "size": "65989404",
+        "md5": "902c8e276354898185185da97d381fac",
+        "crc32": "93995b93",
+        "sha1": "f0d3ee8b946f7eee1280a436942fc3508b7eb3dd",
+        "filecount": "113"
+      },
+      {
+        "name": "Michigan Public Television Cookbook Volume 1_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "Michigan Public Television Cookbook Volume 1_djvu.xml",
+        "mtime": "1682824928",
+        "size": "17406",
+        "md5": "4a05471eb0542296df273cba2d35479a",
+        "crc32": "38dc4d04",
+        "sha1": "db79a6829a1bfbbc15e04d4037e5ba98c5c4e987"
+      },
+      {
+        "name": "Michigan Public Television Cookbook Volume 1_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Michigan Public Television Cookbook Volume 1_djvu.xml",
+        "mtime": "1682824929",
+        "size": "38052",
+        "md5": "9e0802ba67d02c6f4d17379543bdef26",
+        "crc32": "5754b869",
+        "sha1": "edead52377359150882f5f31c21bb6917f3416ee"
+      },
+      {
+        "name": "Michigan Public Television Cookbook Volume 1_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.22",
+        "format": "Additional Text PDF",
+        "original": "Michigan Public Television Cookbook Volume 1_page_numbers.json",
+        "mtime": "1682826078",
+        "size": "12494710",
+        "md5": "10e674402c31481678069d64423946f0",
+        "crc32": "906e5cbf",
+        "sha1": "c2780bba8ebc2d97ba057094a82fa2c6430dde6e"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1682826212",
+        "size": "18537",
+        "md5": "f99905c1d0dbdd439cf6e1e9276b829c",
+        "crc32": "2c91d12d",
+        "sha1": "6eee814c3f21ff8984104e3dc5d9e98f7fcba048",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "michigan-public-television-cookbook-volume-1_archive.torrent",
+        "source": "metadata",
+        "btih": "f0f28662fc687ab75dba963949e906aa8c9cb3fe",
+        "mtime": "1716131181",
+        "size": "9411",
+        "md5": "6e6f3560f437d32825e9903f34b79066",
+        "crc32": "5362205f",
+        "sha1": "e32558d0dba630678a3587d4584767699c01bd34",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "michigan-public-television-cookbook-volume-1_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "4f6eaad79e69ecfe5e976cfa0c6a4f75",
+        "summation": "md5"
+      },
+      {
+        "name": "michigan-public-television-cookbook-volume-1_meta.sqlite",
+        "source": "original",
+        "mtime": "1682820550",
+        "size": "20480",
+        "md5": "30f26a6ac162988cd17c6761099e4c23",
+        "crc32": "885217ac",
+        "sha1": "ca538d54b6d1498830bdf38acd5586890436f922",
+        "format": "Metadata"
+      },
+      {
+        "name": "michigan-public-television-cookbook-volume-1_meta.xml",
+        "source": "original",
+        "mtime": "1716131179",
+        "size": "1832",
+        "md5": "fd7a48131fece06e80f1b57ba441fe77",
+        "crc32": "6c295ad7",
+        "sha1": "91bfe422c341e4718f08b9faadac95a5e25f9275",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1716131181,
+    "item_size": 134999830,
+    "metadata": {
+      "identifier": "michigan-public-television-cookbook-volume-1",
+      "mediatype": "texts",
+      "collection": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "description": "This is a collection of recipes collected by people who worked at PBS stations in Michigan and published in 2000.<br />",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "cookbook",
+        "recipe"
+      ],
+      "title": "Michigan Public Television Cookbook Volume 1",
+      "uploader": "mpklamerus@gmail.com",
+      "publicdate": "2023-04-30 02:09:04",
+      "addeddate": "2023-04-30 02:09:04",
+      "curation": "[curator]validator@archive.org[/curator][date]20230430020924[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/michigan-public-television-cookbook-volume-1",
+      "identifier-ark": "ark:/13960/s25sdmdsr79",
+      "ppi": "367",
+      "ocr": "tesseract 5.3.0-3-g9920",
+      "ocr_parameters": "-l urd+ltz+lat+eng+Latin+Arabic",
+      "ocr_module_version": "0.0.21",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": [
+        "Latin",
+        "Arabic"
+      ],
+      "ocr_detected_script_conf": [
+        "0.9876",
+        "0.0079"
+      ],
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "42.86",
+      "pdf_module_version": "0.0.22",
+      "collection_added": [
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia800400.us.archive.org",
+    "uniq": 280890021,
+    "workable_servers": [
+      "ia800400.us.archive.org",
+      "ia600400.us.archive.org"
+    ]
+  },
+  "pdf_url": "https://archive.org/download/michigan-public-television-cookbook-volume-1/Michigan Public Television Cookbook Volume 1.pdf",
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

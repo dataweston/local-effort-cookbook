@@ -1,0 +1,148 @@
+{
+  "source": "internet_archive",
+  "identifier": "wpr-mdy070319",
+  "title": "The Midday 2007-03-19 12:00pm",
+  "creator": "The Midday",
+  "year": 2007,
+  "subject": [
+    "Wisconsin Public Radio",
+    "The Midday"
+  ],
+  "description": "Warren Jones - Norman and Vicki interview pianist Warren Jones who held a master class with student soloists and pianists at the UW-Madison School of Music.",
+  "metadata": {
+    "created": 1758318526,
+    "d1": "ia600208.us.archive.org",
+    "d2": "ia800208.us.archive.org",
+    "dir": "/2/items/wpr-mdy070319",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1535901527",
+        "size": "2810",
+        "md5": "68e48e6ad2ff160d205ff916cf37e1ba",
+        "crc32": "af8e1e52",
+        "sha1": "f562762df2da9d8cd27666bf36fac497a3265c77",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "mdy070319.mp3",
+        "source": "original",
+        "format": "VBR MP3",
+        "length": "1244.22",
+        "height": "0",
+        "width": "0",
+        "mtime": "1401125057",
+        "size": "19907450",
+        "md5": "eb7c69a66a613022c6dc06305136de4f",
+        "crc32": "ef7741f3",
+        "sha1": "dfa77f5d5f8909efea1b2f810f41e929182ff8c3",
+        "title": "WPR Midday Interview with pianist Warren Jones",
+        "artist": "03/19/2007",
+        "external-identifier": "urn:acoustid:unknown",
+        "private": "true"
+      },
+      {
+        "name": "mdy070319.ogg",
+        "source": "derivative",
+        "format": "Ogg Vorbis",
+        "original": "mdy070319.mp3",
+        "mtime": "1401125174",
+        "size": "11189357",
+        "md5": "826596f03eae899d71316b60e04ac63b",
+        "crc32": "f3612c59",
+        "sha1": "df6dda834bbc8bea20e76dae1903bc4b2aa23aa8",
+        "length": "1240.11",
+        "height": "0",
+        "width": "0",
+        "private": "true"
+      },
+      {
+        "name": "mdy070319.png",
+        "source": "derivative",
+        "format": "PNG",
+        "original": "mdy070319.mp3",
+        "mtime": "1415253101",
+        "size": "10298",
+        "md5": "8c6dbcf46f7928b7248cf00df2bbe809",
+        "crc32": "bc94d300",
+        "sha1": "a1223bafa34b26d196d65004cd8282f597da2d5a",
+        "private": "true"
+      },
+      {
+        "name": "wpr-mdy070319_archive.torrent",
+        "source": "metadata",
+        "btih": "6c03ece03606a12b46f58893d8d3dd8868ef0c9c",
+        "mtime": "1408630688",
+        "size": "3006",
+        "md5": "a56fdc1b4d7596c86f10e9f3dca551b9",
+        "crc32": "0003f8cc",
+        "sha1": "2f6510ba2be5daee0debcf7bf5ab7d86272241df",
+        "format": "Archive BitTorrent",
+        "private": "true"
+      },
+      {
+        "name": "wpr-mdy070319_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "d58ee84d88b9201bf634016966306ca8",
+        "summation": "md5"
+      },
+      {
+        "name": "wpr-mdy070319_meta.sqlite",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1401125086",
+        "size": "8192",
+        "md5": "8da0c431a66d62c48af8583395cb4209",
+        "crc32": "2dc2ef0d",
+        "sha1": "3d28b9196fe8e8f1e7e0cdbec754d8a2152e7b46"
+      },
+      {
+        "name": "wpr-mdy070319_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1711653464",
+        "size": "1019",
+        "md5": "a3a5ca1e7e6fb409f3a911a666d619c2",
+        "crc32": "e8c5bedf",
+        "sha1": "e73590df274fd7b67904e5885ad41b25bcaf8ad8"
+      }
+    ],
+    "files_count": 8,
+    "item_last_updated": 1711653464,
+    "item_size": 31122132,
+    "metadata": {
+      "identifier": "wpr-mdy070319",
+      "creator": "The Midday",
+      "date": "2007-03-19",
+      "description": "<a href=\"http://www.wpr.org/shows/warren-jones\" rel=\"nofollow\">Warren Jones</a> - Norman and Vicki interview pianist Warren Jones who held a master class with student soloists and pianists at the UW-Madison School of Music.",
+      "language": "english",
+      "mediatype": "audio",
+      "subject": "Wisconsin Public Radio; The Midday;",
+      "title": "The Midday 2007-03-19 12:00pm",
+      "year": "2007",
+      "collection": [
+        "themidday",
+        "podcasts_mirror",
+        "podcasts_mirror_godane"
+      ],
+      "publicdate": "2014-05-26 17:24:17",
+      "uploader": "slaxemulator@gmail.com",
+      "addeddate": "2014-05-26 17:24:17",
+      "boxid": "OL100020505",
+      "backup_location": "ia905808_8",
+      "collection_added": "podcasts_mirror_godane",
+      "normalized_dates": [
+        "2007-03-19"
+      ]
+    },
+    "server": "ia600208.us.archive.org",
+    "uniq": 594828537,
+    "workable_servers": [
+      "ia600208.us.archive.org",
+      "ia800208.us.archive.org"
+    ]
+  }
+}

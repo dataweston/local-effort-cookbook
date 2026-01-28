@@ -1,0 +1,107 @@
+{
+  "source": "dpla",
+  "id": "5beb9a3ad0d4c1d39716d83210151e7d",
+  "identifier": "5beb9a3ad0d4c1d39716d83210151e7d",
+  "title": "Cook book",
+  "subject": [
+    "Cooking",
+    "Cooking, American",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan",
+    "Detroit"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5mk6893f",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1922,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/5beb9a3ad0d4c1d39716d83210151e7d#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "contributor": [
+        "Iroquois Avenue Christ Evangelical Lutheran Church (Detroit, Mich.). Ladies' Aid Society"
+      ],
+      "date": [
+        {
+          "begin": "1922",
+          "displayDate": "1922",
+          "end": "1922"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Detroit"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "Cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1922-01-01",
+      "normalized_dates": [
+        "1922-01-01"
+      ],
+      "date_range": {
+        "begin": "1922-01-01",
+        "end": "1922-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5mk6893f/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5mk6893f"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Ladies' Aid",
+      "Lutheran"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church, Ladies' Aid, Lutheran; Digitized scan available"
+}

@@ -1,0 +1,506 @@
+{
+  "source": "internet_archive",
+  "identifier": "bundtcakeblissde0000shor",
+  "title": "Bundt cake bliss : delicious desserts from Midwest kitchens",
+  "creator": "Short, Susanna, 1966-",
+  "year": 2007,
+  "subject": [
+    "Cake",
+    "Cooking, American -- Midwestern style"
+  ],
+  "description": [
+    "145 p. : 23 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/bundtcakeblissde0000shor"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/bundtcakeblissde0000shor"
+        }
+      ]
+    },
+    "created": 1758556322,
+    "d1": "ia902302.us.archive.org",
+    "d2": "ia802302.us.archive.org",
+    "dir": "/22/items/bundtcakeblissde0000shor",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659333165",
+        "size": "13754",
+        "md5": "e026aa4c5471258de09e0d862bcd5663",
+        "crc32": "648ec2b9",
+        "sha1": "6349909a649f9e3fcb56f752b2808da51ff6bcfb",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "bundtcakeblissde0000shor.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "bundtcakeblissde0000shor_hocr.html",
+        "mtime": "1753108538",
+        "size": "590488",
+        "private": "true",
+        "md5": "c86a5f8990ea231b4fc4d69b0126ad90",
+        "crc32": "e4c7ac65",
+        "sha1": "0d7408f31a433a0536d073110634a88157eca3ec"
+      },
+      {
+        "name": "bundtcakeblissde0000shor.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "bundtcakeblissde0000shor.pdf",
+        "mtime": "1753108382",
+        "size": "9188455",
+        "md5": "491ab87a1b2f5b5e4e17638a826e516a",
+        "crc32": "d768f178",
+        "sha1": "bbd3c47bf9c543e7b73b69aef25cd62bb0488a06"
+      },
+      {
+        "name": "bundtcakeblissde0000shor.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "bundtcakeblissde0000shor_page_numbers.json",
+        "mtime": "1717854775",
+        "size": "8973634",
+        "md5": "dda00832672e5817e245a946dac5cf77",
+        "crc32": "010a5756",
+        "sha1": "5b6700693063c9534928cfa619792523e7afda35",
+        "private": "true"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-rc1-12-g88b4",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9529",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "bundtcakeblissde0000shor_jp2.zip",
+        "mtime": "1636764505",
+        "size": "2477740",
+        "md5": "f22d9164a88eddbfb68541103a385019",
+        "crc32": "7c80f1b0",
+        "sha1": "7c55df34a5e654cc8b4b93d460a25ed38999a74f",
+        "private": "true"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "bundtcakeblissde0000shor_scandata.xml",
+        "mtime": "1669500219",
+        "size": "789",
+        "md5": "9568ca3ba7ee4b7873045b85a521b2d9",
+        "crc32": "7f2431fe",
+        "sha1": "add49cd5efaf142efb4ddccbd0a504fe9e623846",
+        "private": "true"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1636761833",
+        "size": "1292",
+        "md5": "9648484ade084a9a17ceaf97c8de539a",
+        "crc32": "ab773738",
+        "sha1": "e16262ea7db38ccbc786fc0aca4badbbc719844c"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "bundtcakeblissde0000shor_djvu.xml",
+        "mtime": "1636764578",
+        "size": "179142",
+        "md5": "5ac55e64a0001d34a9f0dd12d14cd7a2",
+        "crc32": "c457f87d",
+        "sha1": "821cc70ed87b03f3f92e4b411298d992e79de6b3",
+        "private": "true"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "bundtcakeblissde0000shor_hocr.html",
+        "mtime": "1636764538",
+        "size": "2563746",
+        "md5": "8300c97de01d57f82b44263b19bae5e1",
+        "crc32": "27357491",
+        "sha1": "19dbf3e287a4924486a3fccb4b73d53414976b9d",
+        "private": "true"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "bundtcakeblissde0000shor.pdf",
+        "mtime": "1717855478",
+        "size": "8932470",
+        "md5": "d77193ae4330fb11ee16f69f50699083",
+        "crc32": "cff21af5",
+        "sha1": "caffa20f3032bcafff63f9e8c9a52d07c0b5d98f"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_events.json",
+        "source": "original",
+        "mtime": "1636761622",
+        "size": "53",
+        "md5": "9393d5ac0ee1584cac0427c390cb93ad",
+        "crc32": "1de17653",
+        "sha1": "0fff71294ed8e81b7bd068d8b03ec156dd187342",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "7a00352903c479162abd554cef8acbd9",
+        "summation": "md5"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9529",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "bundtcakeblissde0000shor_chocr.html.gz",
+        "mtime": "1636764527",
+        "size": "4836447",
+        "md5": "6394c4eda07c208c49ca7a7622473b55",
+        "crc32": "f40f7d96",
+        "sha1": "512d04a043dd2a615d315d273538396db3ee5e5a",
+        "private": "true"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "bundtcakeblissde0000shor_hocr.html",
+        "mtime": "1636764550",
+        "size": "1905",
+        "md5": "ad353a3b93fd9b6e06c8fc1ced50b443",
+        "crc32": "d8af957a",
+        "sha1": "c6e7d2ede7de3f1dc0dfff51533f7b5e7a27a6b3",
+        "private": "true"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "479",
+        "word_conf_11_20": "232",
+        "word_conf_21_30": "282",
+        "word_conf_31_40": "288",
+        "word_conf_41_50": "209",
+        "word_conf_51_60": "197",
+        "word_conf_61_70": "197",
+        "word_conf_71_80": "277",
+        "word_conf_81_90": "658",
+        "word_conf_91_100": "28453",
+        "format": "OCR Search Text",
+        "original": "bundtcakeblissde0000shor_hocr.html",
+        "mtime": "1636764566",
+        "size": "59584",
+        "md5": "652c8231f65ed01ddf00dba096e5ea70",
+        "crc32": "305e8122",
+        "sha1": "2712748a105446e44cce80a7101c9c649fd5de1d",
+        "private": "true"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "bundtcakeblissde0000shor_orig_jp2.tar",
+        "mtime": "1636763874",
+        "size": "75815362",
+        "md5": "a7d1bad9564a9728d60df4ef5c50625d",
+        "crc32": "ebfa1b36",
+        "sha1": "11c375db6abec73fe8a6fa3aeb4aa493ed8bf352",
+        "private": "true",
+        "filecount": "166"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "bundtcakeblissde0000shor.epub",
+        "mtime": "1753108902",
+        "size": "600600",
+        "md5": "e5117162e9c9b202d0e74fc6397a6ae7",
+        "crc32": "dcb70786",
+        "sha1": "f575e67d57f2447233d5fdf6a8357011883f2384"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_marc.xml",
+        "source": "original",
+        "mtime": "1636487368",
+        "size": "3235",
+        "md5": "134d2d1b3737ef50aabc71d648215ef8",
+        "crc32": "0de0a2f4",
+        "sha1": "1c4812c6789eb308f3d6bae7e0cf50e3589a2e4e",
+        "format": "MARC"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_meta.mrc",
+        "source": "original",
+        "mtime": "1636487364",
+        "size": "1072",
+        "md5": "8312ccf07c96e67e18ef4050b7e5c8e3",
+        "crc32": "83863ea2",
+        "sha1": "8183818a7d5d7bc3a1adf25c43e999090fea5e27",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_meta.sqlite",
+        "source": "original",
+        "mtime": "1636761773",
+        "size": "45056",
+        "md5": "7b468c9cbb81d7e6b8f8474a1f38f163",
+        "crc32": "3d920104",
+        "sha1": "6f9532c078b48f5a0a8895deb9c15e56b859bf9c",
+        "format": "Metadata"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_meta.xml",
+        "source": "original",
+        "mtime": "1753108902",
+        "size": "3266",
+        "md5": "22255745c02d5a7dc5ae8a7fa2ff1b11",
+        "crc32": "47796959",
+        "sha1": "2ea91dc41215190d684a6f416902a1ac225f68e0",
+        "format": "Metadata"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1636761772",
+        "size": "221982720",
+        "md5": "dfc25aa4c38299c3e82e3eeb73502ce3",
+        "crc32": "9ffe35b6",
+        "sha1": "826aae6d0308f0c1b0a43eed21fff04e8c191aa9",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "166"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "bundtcakeblissde0000shor_hocr.html",
+        "mtime": "1717854775",
+        "size": "27933",
+        "md5": "0bf83094030b5cc468c0b2816ef41cb2",
+        "crc32": "f25a64ff",
+        "sha1": "02e97ef4a3f602483f26119da514a516ad81bc05",
+        "private": "true"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_scandata.xml",
+        "source": "original",
+        "mtime": "1669500219",
+        "size": "180310",
+        "md5": "61a752cd483b6808cb99e8143f900482",
+        "crc32": "02aad25a",
+        "sha1": "3cc7fd299c8f050514def71c606e00ed176848b6",
+        "format": "Scandata"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_slip.png",
+        "source": "original",
+        "mtime": "1636486382",
+        "size": "41432",
+        "md5": "be58b81554e0afd0d94ca0e02150232a",
+        "crc32": "19782d59",
+        "sha1": "53ea36e43b6fbdd8b5aadefdd6b5caece3ada6b8",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "bundtcakeblissde0000shor_slip.png",
+        "mtime": "1636761836",
+        "size": "8694",
+        "md5": "2a01cbd622eae4baf0b7d4d02adcbd33",
+        "crc32": "02d23e34",
+        "sha1": "2431a0e2ec554e92615eb995b912c7c19ba8d115",
+        "private": "true"
+      },
+      {
+        "name": "bundtcakeblissde0000shor_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "bundtcakeblissde0000shor_djvu.xml",
+        "mtime": "1669500176",
+        "size": "556",
+        "md5": "d9894e8c0e0fc3e6e04033234bd33642",
+        "crc32": "7ed24f15",
+        "sha1": "3bdefd96c1e39e15ebd6b5d5db46d50041dbdac3",
+        "private": "true"
+      },
+      {
+        "name": "logs/bundtcakeblissde0000shor_iabdash_2021-11-1003:49:36.log",
+        "source": "original",
+        "mtime": "1636487379",
+        "size": "1345",
+        "md5": "c514b22742b7e94c9833d15125978068",
+        "crc32": "02ed04f6",
+        "sha1": "43208d1cbdc53215ca6bcef8635eb1ce8f7dd982",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/bundtcakeblissde0000shor_scanning_2021-11-1003:49:44.log",
+        "source": "original",
+        "mtime": "1636487388",
+        "size": "429802",
+        "md5": "0c70a75062f149e0c90946b38dd54cca",
+        "crc32": "97884455",
+        "sha1": "5d212766cc4600c8a4d2a9404fd0aa85b3956d46",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/bundtcakeblissde0000shor_status_history_2021-11-1003:49:40.log",
+        "source": "original",
+        "mtime": "1636487383",
+        "size": "409",
+        "md5": "492bd5f197d5fd2b6257629b72c7fa02",
+        "crc32": "123653bb",
+        "sha1": "31ebc670f3cf13ed0d4975eebe163caee068872c",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753108902,
+    "item_size": 336961291,
+    "metadata": {
+      "identifier": "bundtcakeblissde0000shor",
+      "boxid": "IA40283311",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Short, Susanna, 1966-",
+      "date": "2007-01-01",
+      "description": [
+        "145 p. : 23 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "9780873515856",
+        "0873515854"
+      ],
+      "language": "eng",
+      "lccn": "2007008090",
+      "mediatype": "texts",
+      "old_pallet": "IA-NS-1200220",
+      "openlibrary_edition": "OL11116633M",
+      "openlibrary_work": "OL3861470W",
+      "operator": "associate-rhialyn-opena@archive.org",
+      "publisher": "St. Paul, MN : Minnesota Historical Society Press",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station13.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780873515856",
+      "subject": [
+        "Cake",
+        "Cooking, American -- Midwestern style"
+      ],
+      "title": "Bundt cake bliss : delicious desserts from Midwest kitchens",
+      "tts_version": "4.5-initial-80-gce32ee1e",
+      "uploader": "station13.cebu@archive.org",
+      "publicdate": "2021-11-09 19:33:17",
+      "access-restricted-item": "true",
+      "imagecount": "166",
+      "scandate": "20211109203419",
+      "notes": "Inherent obscured text",
+      "ppi": "360",
+      "republisher_operator": "associate-loida-sulit@archive.org",
+      "republisher_date": "20211113080644",
+      "republisher_time": "384",
+      "foldoutcount": "0",
+      "identifier-ark": "ark:/13960/s2jgv4k96bm",
+      "ocr": "tesseract 5.0.0-rc1-12-g88b4",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.14",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9529",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "pdf_module_version": "0.0.16",
+      "external-identifier": [
+        "urn:acs6:bundtcakeblissde0000shor:pdf:22bfe6b3-47a0-46f3-a321-6f0ac14dd186",
+        "urn:oclc:record:1288382983",
+        "urn:lcp:bundtcakeblissde0000shor:lcpdf:71b037c5-9b8b-480c-9ddb-b96100e91168",
+        "urn:lcp:bundtcakeblissde0000shor:epub:2caf0804-ff17-4961-8086-0b01a66370e0"
+      ],
+      "addeddate": "2021-11-13 02:09:50",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "identifier-access": "http://archive.org/details/bundtcakeblissde0000shor",
+      "sponsordate": "20211130",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "curation": "[date]20250204140722[/date][comment]inlibrary removal 3[/comment]",
+      "source": "removed"
+    },
+    "server": "ia802302.us.archive.org",
+    "uniq": 1926267086,
+    "workable_servers": [
+      "ia802302.us.archive.org",
+      "ia902302.us.archive.org"
+    ]
+  },
+  "institution": "Short, Susanna, 1966-",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Minnesota",
+    "city": "St. Paul"
+  },
+  "curation": {
+    "score": 8,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Historical Society"
+    ]
+  },
+  "curation_notes": "State match: Minnesota; Community markers: Historical Society; Digitized scan available"
+}

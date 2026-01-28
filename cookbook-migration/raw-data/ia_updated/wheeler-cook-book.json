@@ -1,0 +1,300 @@
+{
+  "source": "internet_archive",
+  "identifier": "wheeler-cook-book",
+  "title": "Wheeler Michigan Cook Book",
+  "creator": null,
+  "year": null,
+  "subject": [
+    "Wheeler",
+    "Michigan",
+    "Gratiot County",
+    "cookbook historical"
+  ],
+  "description": "Methodist Episcopal Church of Wheeler (Gratiot County), Michigan, cook book with recipes submitted by locals. Maybe 1920s or 1930s?",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/wheeler-cook-book"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/wheeler-cook-book"
+        }
+      ]
+    },
+    "created": 1758557254,
+    "d1": "ia601606.us.archive.org",
+    "d2": "ia801606.us.archive.org",
+    "dir": "/7/items/wheeler-cook-book",
+    "files": [
+      {
+        "name": "Wheeler cook book.pdf",
+        "source": "original",
+        "mtime": "1675534018",
+        "size": "36405085",
+        "md5": "e4d3899b4faa105ac7411fdf18237947",
+        "crc32": "37e8d8ae",
+        "sha1": "700989a83da287f01e8316efdcc604d54f872d88",
+        "format": "Image Container PDF"
+      },
+      {
+        "name": "Wheeler cook book_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-1-gd3a4",
+        "ocr_parameters": "-l eng+Latin",
+        "ocr_module_version": "0.0.18",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9974",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Wheeler cook book_jp2.zip",
+        "mtime": "1675534961",
+        "size": "1731175",
+        "md5": "2b3b6367cb41aceb31d822e7d76ef770",
+        "crc32": "037ea7a7",
+        "sha1": "c28fb7633f91480330f57a6d236c0e4260e14efe"
+      },
+      {
+        "name": "Wheeler cook book_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Wheeler cook book_djvu.xml",
+        "mtime": "1675534998",
+        "size": "122711",
+        "md5": "a9ca404a64e91652ce9b4231415cc973",
+        "crc32": "6aae10a4",
+        "sha1": "ba84fb9bd1382f30505f994a4cfba477ea42316c"
+      },
+      {
+        "name": "Wheeler cook book_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Wheeler cook book_hocr.html",
+        "mtime": "1675534980",
+        "size": "1869766",
+        "md5": "b950f3b0f5b9bdcf04d1808125d8440b",
+        "crc32": "d703a87b",
+        "sha1": "752c732456184f107cd2931711b9ed15d86455b7"
+      },
+      {
+        "name": "Wheeler cook book_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng+Latin",
+        "ocr_module_version": "0.0.18",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9974",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Wheeler cook book_chocr.html.gz",
+        "mtime": "1675534973",
+        "size": "3725836",
+        "md5": "9c87e6ce28fa22aecdd49411b5eb7b8c",
+        "crc32": "f64b796f",
+        "sha1": "b4b6386a10bf879e7b2ab8a5b42b42d9494fed15"
+      },
+      {
+        "name": "Wheeler cook book_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "Wheeler cook book_hocr.html",
+        "mtime": "1675534983",
+        "size": "690",
+        "md5": "f516a60fd638e518a1f69db2f160dcd9",
+        "crc32": "f7d5d2df",
+        "sha1": "4e24f6d89c9780f2aa642d4d3d189df72b114e8d"
+      },
+      {
+        "name": "Wheeler cook book_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "271",
+        "word_conf_11_20": "235",
+        "word_conf_21_30": "326",
+        "word_conf_31_40": "350",
+        "word_conf_41_50": "388",
+        "word_conf_51_60": "374",
+        "word_conf_61_70": "499",
+        "word_conf_71_80": "707",
+        "word_conf_81_90": "1750",
+        "word_conf_91_100": "18450",
+        "format": "OCR Search Text",
+        "original": "Wheeler cook book_hocr.html",
+        "mtime": "1675534991",
+        "size": "41160",
+        "md5": "e930807b32475c35d6a55a202712bae9",
+        "crc32": "3f3dad93",
+        "sha1": "e81a234bf21c2af43c6a8caad9ea88d68ed1867b"
+      },
+      {
+        "name": "Wheeler cook book_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Wheeler cook book.pdf",
+        "mtime": "1675534159",
+        "size": "34429964",
+        "md5": "22278fd4d8cdc7708bf77327ff9f7062",
+        "crc32": "fef89db9",
+        "sha1": "1df5b300e814d46906848c987144a54c135ee8d3",
+        "filecount": "58"
+      },
+      {
+        "name": "Wheeler cook book_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "Wheeler cook book_djvu.xml",
+        "mtime": "1675535017",
+        "size": "8707",
+        "md5": "228dea0fc6fb1dbcbfa56ac2a4469a11",
+        "crc32": "d19800b7",
+        "sha1": "a77ae892b3c6528538870e6740680656379258bb"
+      },
+      {
+        "name": "Wheeler cook book_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Wheeler cook book_djvu.xml",
+        "mtime": "1675535015",
+        "size": "18779",
+        "md5": "9b8ff43f8b250ae01185246f2b2417ba",
+        "crc32": "26201ea1",
+        "sha1": "516674e3a7d6f76479774f58b03d879049e93052"
+      },
+      {
+        "name": "Wheeler cook book_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.20",
+        "format": "Additional Text PDF",
+        "original": "Wheeler cook book_page_numbers.json",
+        "mtime": "1675535119",
+        "size": "5600568",
+        "md5": "653bb34068a672d3eece8d62fd32d746",
+        "crc32": "1f7039ea",
+        "sha1": "cf2e506b54f8c1b361df2458a3c58868beaa22b7"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1675535133",
+        "size": "14908",
+        "md5": "32bd9b0009f3cd719d0235fc897a5afa",
+        "crc32": "e8e74c89",
+        "sha1": "fbaf3c2aac1b4584e6347ccb4b65d50604300ed8",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "wheeler-cook-book_archive.torrent",
+        "source": "metadata",
+        "btih": "3efc220fa6578a0b9226197a1320cc3e9038f852",
+        "mtime": "1746407670",
+        "size": "6926",
+        "md5": "80d6d05a6340d4eda28683193bdd2a88",
+        "crc32": "bbbc44e8",
+        "sha1": "16aa5243a996c93489745ce69ad9dbe46384b37a",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "wheeler-cook-book_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "6484a1cb2af17f29ec6043aca303cde0",
+        "summation": "md5"
+      },
+      {
+        "name": "wheeler-cook-book_meta.sqlite",
+        "source": "original",
+        "mtime": "1675534048",
+        "size": "20480",
+        "md5": "2578d0215db9a9db19bc55e140762053",
+        "crc32": "118f5500",
+        "sha1": "feba6c1bd02245b2045d248653b8e9d7ba5c675a",
+        "format": "Metadata"
+      },
+      {
+        "name": "wheeler-cook-book_meta.xml",
+        "source": "original",
+        "mtime": "1746407667",
+        "size": "1746",
+        "md5": "4fe5a539c48ac05704b054109b029b58",
+        "crc32": "f9e546eb",
+        "sha1": "90a9fd6c9db1dad3505407e9665ee7878b1c2364",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1746407670,
+    "item_size": 83998501,
+    "metadata": {
+      "identifier": "wheeler-cook-book",
+      "mediatype": "texts",
+      "collection": [
+        "communitycookbooks",
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "description": "Methodist Episcopal Church of Wheeler (Gratiot County), Michigan, cook book with recipes submitted by locals. Maybe 1920s or 1930s?",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "Wheeler",
+        "Michigan; Gratiot County",
+        "Michigan; cookbook historical"
+      ],
+      "title": "Wheeler Michigan Cook Book",
+      "uploader": "mapesm@gmail.com",
+      "publicdate": "2023-02-04 18:07:22",
+      "addeddate": "2023-02-04 18:07:22",
+      "curation": "[curator]validator@archive.org[/curator][date]20230204180737[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/wheeler-cook-book",
+      "identifier-ark": "ark:/13960/s274zvmktj4",
+      "ppi": "300",
+      "ocr": "tesseract 5.3.0-1-gd3a4",
+      "ocr_parameters": "-l eng+Latin",
+      "ocr_module_version": "0.0.18",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9974",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "pdf_module_version": "0.0.20",
+      "collection_added": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia601606.us.archive.org",
+    "uniq": 2000453975,
+    "workable_servers": [
+      "ia601606.us.archive.org",
+      "ia801606.us.archive.org"
+    ]
+  },
+  "pdf_url": "https://archive.org/download/wheeler-cook-book/Wheeler cook book.pdf",
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Episcopal",
+      "Methodist"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church, Episcopal, Methodist; Digitized scan available"
+}

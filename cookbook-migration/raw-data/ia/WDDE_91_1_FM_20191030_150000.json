@@ -1,0 +1,5223 @@
+{
+  "source": "internet_archive",
+  "identifier": "WDDE_91_1_FM_20191030_150000",
+  "title": "WDDE 91.1 FM : October 30, 2019 11:00AM-12:00PM EDT",
+  "creator": null,
+  "year": 2019,
+  "subject": [
+    "Radio Program",
+    "American pop musicians",
+    "American rappers",
+    "African-American rappers",
+    "African-American culture",
+    "BBC Radio 4 programmes",
+    "Sociological terminology",
+    "Midwest hip hop musicians",
+    "Rappers from Atlanta, Georgia",
+    "African-American cultural history",
+    "Oak Ridge Associated Universities",
+    "Christianity",
+    "Christian terms",
+    "Council of European National Top Level Domain Registries members",
+    "Christian missions",
+    "Generic top-level domains",
+    "Communism",
+    "Political science",
+    "Christian genres",
+    "Walls",
+    "Evangelicalism"
+  ],
+  "description": null,
+  "metadata": {
+    "created": 1758319914,
+    "d1": "ia601601.us.archive.org",
+    "d2": "ia801601.us.archive.org",
+    "dir": "/35/items/WDDE_91_1_FM_20191030_150000",
+    "ffmpeg": {
+      "format": {
+        "probe_score": 51,
+        "format_name": "mp3",
+        "nb_streams": 1,
+        "format_long_name": "MP2/3 (MPEG audio layer 2/3)",
+        "start_time": "0.000000",
+        "bit_rate": "64000",
+        "tags": {
+          "icy-url": "",
+          "icy-name": "WDDE-FM",
+          "icy-br": "64",
+          "icy-description": "",
+          "icy-genre": "Talk"
+        },
+        "filename": "http://18153.live.streamtheworld.com/WDDEFM.mp3",
+        "nb_programs": 0
+      },
+      "streams": [
+        {
+          "channel_layout": "stereo",
+          "index": 0,
+          "r_frame_rate": "0/0",
+          "codec_tag_string": "[0][0][0][0]",
+          "codec_time_base": "1/22050",
+          "start_time": "0.000000",
+          "bit_rate": "64000",
+          "bits_per_sample": 0,
+          "time_base": "1/14112000",
+          "sample_fmt": "s16p",
+          "sample_rate": "22050",
+          "codec_name": "mp3",
+          "codec_tag": "0x0000",
+          "channels": 2,
+          "start_pts": 0,
+          "avg_frame_rate": "0/0",
+          "codec_type": "audio",
+          "codec_long_name": "MP3 (MPEG audio layer 3)",
+          "disposition": {
+            "karaoke": 0,
+            "default": 0,
+            "forced": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "original": 0,
+            "dub": 0,
+            "visual_impaired": 0,
+            "hearing_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0
+          }
+        }
+      ]
+    },
+    "files": [
+      {
+        "name": "WDDE_91_1_FM_20191030_150000.asr.js",
+        "source": "original",
+        "format": "ASR",
+        "mtime": "1572456860",
+        "size": "1194020",
+        "md5": "6a577e9bbcaeed139550f0d5ffcd15ed",
+        "crc32": "e4392ea0",
+        "sha1": "a0cc790cb751ad3452c32c7c1af0df8cd18d2276"
+      },
+      {
+        "name": "WDDE_91_1_FM_20191030_150000.asr.srt",
+        "source": "original",
+        "format": "SubRip",
+        "mtime": "1572456859",
+        "size": "71373",
+        "md5": "3aee69923c68f4c105eab2ecac8ada08",
+        "crc32": "d6c80497",
+        "sha1": "0d4fe6cdeb47de47cfd5dea5d1296c40e03f304c"
+      },
+      {
+        "name": "WDDE_91_1_FM_20191030_150000.asr.vtt",
+        "source": "original",
+        "format": "Web Video Text Tracks",
+        "mtime": "1572456859",
+        "size": "72797",
+        "md5": "ad442ef640db1b5f98b6a2c1f1f60da6",
+        "crc32": "cc6c90fb",
+        "sha1": "138b1208133b0ef943be710d267c764916b4462a",
+        "private": "true"
+      },
+      {
+        "name": "WDDE_91_1_FM_20191030_150000.mp3",
+        "source": "original",
+        "mtime": "1572451462",
+        "size": "27066368",
+        "md5": "d27b5d5e1df2c3970f4697191f0cdacc",
+        "crc32": "61d0f706",
+        "sha1": "f31663102a1d1b0ae9c3b5612c68318a9500791a",
+        "format": "VBR MP3",
+        "length": "3383.28",
+        "height": "0",
+        "width": "0"
+      },
+      {
+        "name": "WDDE_91_1_FM_20191030_150000_ffmpeg.json",
+        "source": "original",
+        "mtime": "1572451482",
+        "size": "1608",
+        "md5": "fd6b32ae744916896a680ed6998d9180",
+        "crc32": "8ebe4501",
+        "sha1": "ef67fa39b858c37ab14c1e43de6e873d4f91902d",
+        "format": "JSON"
+      },
+      {
+        "name": "WDDE_91_1_FM_20191030_150000_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "997f4645cf721f0017e37cf0987c5f87",
+        "summation": "md5"
+      },
+      {
+        "name": "WDDE_91_1_FM_20191030_150000_meta.sqlite",
+        "source": "original",
+        "mtime": "1572451486",
+        "size": "14336",
+        "format": "Metadata",
+        "md5": "bc0a28bd6959c8f8c1498f8737db2263",
+        "crc32": "f1387743",
+        "sha1": "6682441fb5d3854b0a6a4a5429d4ed60013d9407"
+      },
+      {
+        "name": "WDDE_91_1_FM_20191030_150000_meta.xml",
+        "source": "original",
+        "mtime": "1602659155",
+        "size": "2586",
+        "format": "Metadata",
+        "md5": "3e2279919265f2a365d2ece668be8d45",
+        "crc32": "99dc77ba",
+        "sha1": "66ccb9fda9148edc5e9534e33fc36bdbdcc5426b"
+      },
+      {
+        "name": "WDDE_91_1_FM_20191030_150000_speech_confidence.json",
+        "source": "derivative",
+        "format": "Speech Confidence JSON",
+        "original": "WDDE_91_1_FM_20191030_150000.mp3",
+        "mtime": "1572459050",
+        "size": "33912",
+        "md5": "db05c29c5ed4bed633417231c7e402f5",
+        "crc32": "b10e5afe",
+        "sha1": "1878f5d54dd373355226b2a0d54807f460a2f6c9",
+        "private": "true"
+      },
+      {
+        "name": "WDDE_91_1_FM_20191030_150000_speech_vs_music.json",
+        "source": "derivative",
+        "format": "Speech VS Music JSON",
+        "original": "WDDE_91_1_FM_20191030_150000_speech_confidence.json",
+        "mtime": "1572459050",
+        "size": "287",
+        "md5": "db83add2293adb3597effcc84b0a48c8",
+        "crc32": "9d9555df",
+        "sha1": "c52729ed36a397d30baa17397e176a7d8070542d",
+        "private": "true"
+      },
+      {
+        "name": "WDDE_91_1_FM_20191030_150000_speech_vs_music_asr.json",
+        "source": "derivative",
+        "format": "JSON SRT",
+        "original": "WDDE_91_1_FM_20191030_150000.asr.srt",
+        "mtime": "1572459080",
+        "size": "95997",
+        "md5": "0d41e1abdd41264b58732dfdc235e34a",
+        "crc32": "e1b578ec",
+        "sha1": "23298fa7816ba595c27e3d247ce3f869d1699140"
+      }
+    ],
+    "files_count": 11,
+    "item_last_updated": 1602659155,
+    "item_size": 28553284,
+    "metadata": {
+      "identifier": "WDDE_91_1_FM_20191030_150000",
+      "audio_codec": "mp3",
+      "audio_sample_rate": "64000",
+      "contributor": "WDDE 91.1 FM",
+      "coverage": [
+        "US",
+        "US-DE"
+      ],
+      "date": "2019-10-30",
+      "language": "eng",
+      "mediatype": "audio",
+      "notes": "This material may be protected by copyright law (Title 17 U.S. Code).",
+      "num_recording_errors": "0",
+      "previous": "WDDE_91_1_FM_20191030_140000",
+      "runtime": "01:00:00",
+      "scandate": "20191030150000",
+      "scanner": "researcher7.fnf.archive.org",
+      "scanningcenter": "San Francisco, CA, USA",
+      "software_version": "Radio Recorder Version 20191014.02",
+      "sound": "sound",
+      "source_url": "http://18153.live.streamtheworld.com/WDDEFM.mp3",
+      "sponsor": "Internet Archive",
+      "start_localtime": "2019-10-30 11:00:00",
+      "start_time": "2019-10-30 15:00:00",
+      "stop_time": "2019-10-30 16:00:00",
+      "subject": [
+        "Radio Program",
+        "American pop musicians",
+        "American rappers",
+        "African-American rappers",
+        "African-American culture",
+        "BBC Radio 4 programmes",
+        "Sociological terminology",
+        "Midwest hip hop musicians",
+        "Rappers from Atlanta, Georgia",
+        "African-American cultural history",
+        "Oak Ridge Associated Universities",
+        "Christianity",
+        "Christian terms",
+        "Council of European National Top Level Domain Registries members",
+        "Christian missions",
+        "Generic top-level domains",
+        "Communism",
+        "Political science",
+        "Christian genres",
+        "Walls",
+        "Evangelicalism"
+      ],
+      "title": "WDDE 91.1 FM : October 30, 2019 11:00AM-12:00PM EDT",
+      "utc_offset": "-400",
+      "year": "2019",
+      "uploader": "arkiver@archive.org",
+      "addeddate": "2019-10-30 16:04:24",
+      "publicdate": "2019-10-30 16:04:39",
+      "access-restricted-item": "true",
+      "next": "WDDE_91_1_FM_20191030_160000",
+      "collection": [
+        "Radio-WDDE-91-1-FM",
+        "stream_only",
+        "radio",
+        "radioprograms"
+      ],
+      "backup_location": "ia907005_1",
+      "normalized_dates": [
+        "2019-10-30"
+      ]
+    },
+    "server": "ia601601.us.archive.org",
+    "speech_vs_music_asr": [
+      {
+        "end": 2.005,
+        "id": 1,
+        "is_music": false,
+        "start": 0.006,
+        "text": "With rival French automaker p.s.a."
+      },
+      {
+        "end": 2.097,
+        "id": 2,
+        "is_music": false,
+        "start": 2.006,
+        "text": "Peugeot in"
+      },
+      {
+        "end": 7.095,
+        "id": 3,
+        "is_music": false,
+        "start": 2.098,
+        "text": "a statement Chrysler says the automakers are talking about creating quote one of"
+      },
+      {
+        "end": 12.042,
+        "id": 4,
+        "is_music": false,
+        "start": 7.096,
+        "text": "the world's leading mobility groups the drought in Zimbabwe is taking"
+      },
+      {
+        "end": 16.029,
+        "id": 5,
+        "is_music": false,
+        "start": 12.043,
+        "text": "a toll on wildlife with $55.00 elephants reported dead from"
+      },
+      {
+        "end": 21.002,
+        "id": 6,
+        "is_music": false,
+        "start": 16.03,
+        "text": "a lack of food and water in the country's biggest game park ish muffin the Chua"
+      },
+      {
+        "end": 25.084,
+        "id": 7,
+        "is_music": false,
+        "start": 21.006,
+        "text": "reports from Harare an environmental group and an animal rights group are planning"
+      },
+      {
+        "end": 32.019,
+        "id": 8,
+        "is_music": false,
+        "start": 25.088,
+        "text": "a nearly 400 mile walk to one gay National Park to raise awareness advocates for he"
+      },
+      {
+        "end": 37.007,
+        "id": 9,
+        "is_music": false,
+        "start": 32.02,
+        "text": "says him but we're not for profit environmental law and justice organization it's"
+      },
+      {
+        "end": 43.014,
+        "id": 10,
+        "is_music": false,
+        "start": 37.008,
+        "text": "spokesperson Lennon she noted the drought is not the only threat facing wildlife in"
+      },
+      {
+        "end": 47.072,
+        "id": 11,
+        "is_music": false,
+        "start": 43.015,
+        "text": "Zimbabwe we are likely to be with it in black with and you never forget what it's"
+      },
+      {
+        "end": 52.017,
+        "id": 12,
+        "is_music": false,
+        "start": 47.073,
+        "text": "like in the table droughts climate change and you need investment it's just really"
+      },
+      {
+        "end": 57.092,
+        "id": 13,
+        "is_music": false,
+        "start": 52.018,
+        "text": "from home and business is. What you need is not back wildlife and how to conserve"
+      },
+      {
+        "end": 58.041,
+        "id": 14,
+        "is_music": false,
+        "start": 57.093,
+        "text": "it is"
+      },
+      {
+        "end": 63.089,
+        "id": 15,
+        "is_music": false,
+        "start": 58.042,
+        "text": "a contentious topic in Zimbabwe with the government unhappy about the input of what"
+      },
+      {
+        "end": 70.07,
+        "id": 16,
+        "is_music": false,
+        "start": 63.09,
+        "text": "it considers outsiders last week the government deny that. And this embed with"
+      },
+      {
+        "end": 75.091,
+        "id": 17,
+        "is_music": false,
+        "start": 70.071,
+        "text": "National Society for the Prevention of Cruelty to Animals entry to the park for"
+      },
+      {
+        "end": 76.026,
+        "id": 18,
+        "is_music": false,
+        "start": 75.092,
+        "text": "n.p.r."
+      },
+      {
+        "end": 81.051,
+        "id": 19,
+        "is_music": false,
+        "start": 76.027,
+        "text": "News I'm offended in how that actor and comedian John Witherspoon has died at the"
+      },
+      {
+        "end": 83.058,
+        "id": 20,
+        "is_music": false,
+        "start": 81.052,
+        "text": "age of 77 according to"
+      },
+      {
+        "end": 88.062,
+        "id": 21,
+        "is_music": false,
+        "start": 83.059,
+        "text": "a family statement Witherspoon starred in the hit Friday comedy movie franchise"
+      },
+      {
+        "end": 93.082,
+        "id": 22,
+        "is_music": false,
+        "start": 88.083,
+        "text": "along with rapper and actor Ice Cube funeral services for Witherspoon have not been"
+      },
+      {
+        "end": 98.064,
+        "id": 23,
+        "is_music": false,
+        "start": 93.083,
+        "text": "announced this is n.p.r. Support for n.p.r."
+      },
+      {
+        "end": 104.031,
+        "id": 24,
+        "is_music": false,
+        "start": 98.065,
+        "text": "Comes from I drive providing cloud backup full system back up and on site I drive"
+      },
+      {
+        "end": 109.079,
+        "id": 25,
+        "is_music": false,
+        "start": 104.032,
+        "text": "appliance to protect P.C.'s Macs and servers from data loss due to crashes and"
+      },
+      {
+        "end": 113.046,
+        "id": 26,
+        "is_music": false,
+        "start": 109.08,
+        "text": "ransomware at I drive dot com slash n.p.r."
+      },
+      {
+        "end": 120.044,
+        "id": 27,
+        "is_music": false,
+        "start": 113.066,
+        "text": "And Americans for the Arts. Most prisoners in the us count as residents of the"
+      },
+      {
+        "end": 125.071,
+        "id": 28,
+        "is_music": false,
+        "start": 120.045,
+        "text": "towns where they're confined not where they're from that shift census population"
+      },
+      {
+        "end": 130.061,
+        "id": 29,
+        "is_music": false,
+        "start": 125.072,
+        "text": "data in favor of rural areas where prisons are disproportionately found critics say"
+      },
+      {
+        "end": 135.088,
+        "id": 30,
+        "is_music": false,
+        "start": 130.062,
+        "text": "that violates the constitutional principle of one person one vote where do inmates"
+      },
+      {
+        "end": 142.059,
+        "id": 31,
+        "is_music": false,
+        "start": 135.089,
+        "text": "really live next time on one essay. Tonight at 7 and"
+      },
+      {
+        "end": 146.011,
+        "id": 32,
+        "is_music": false,
+        "start": 142.06,
+        "text": "91 point one. From Delaware Public Media."
+      },
+      {
+        "end": 160.01,
+        "id": 33,
+        "is_music": false,
+        "start": 156.078,
+        "text": "From n.p.r. And w.b. You are Boston I make the trip of r.t."
+      },
+      {
+        "end": 166.082,
+        "id": 34,
+        "is_music": false,
+        "start": 160.026,
+        "text": "This is on point to. Use this guy. Is so hot."
+      },
+      {
+        "end": 175.037,
+        "id": 35,
+        "is_music": false,
+        "start": 169.061,
+        "text": "We call. You to say. We put off"
+      },
+      {
+        "end": 182.004,
+        "id": 36,
+        "is_music": false,
+        "start": 175.038,
+        "text": "a. 15 years ago Kanye West called out capitalism saying if I rap about"
+      },
+      {
+        "end": 186.023,
+        "id": 37,
+        "is_music": false,
+        "start": 182.005,
+        "text": "God in my record won't get played well that was from his phenomenal song Jesus"
+      },
+      {
+        "end": 193.013,
+        "id": 38,
+        "is_music": false,
+        "start": 186.024,
+        "text": "walks in 2004 now Kanye is rapping about Jesus to the exclusion of all else armed"
+      },
+      {
+        "end": 193.026,
+        "id": 39,
+        "is_music": false,
+        "start": 193.014,
+        "text": "with"
+      },
+      {
+        "end": 199.019,
+        "id": 40,
+        "is_music": false,
+        "start": 193.027,
+        "text": "a full Sunday service choir stripped of vulgarity Jesus is King is Kanye is rebirth"
+      },
+      {
+        "end": 199.032,
+        "id": 41,
+        "is_music": false,
+        "start": 199.02,
+        "text": "as"
+      },
+      {
+        "end": 205.006,
+        "id": 42,
+        "is_music": false,
+        "start": 199.033,
+        "text": "a Christian artist as you hear in this track called use this Gospel to be the greatest"
+      },
+      {
+        "end": 211.02,
+        "id": 43,
+        "is_music": false,
+        "start": 205.05,
+        "text": "in my. Life but say Brady. People laid."
+      },
+      {
+        "end": 218.063,
+        "id": 44,
+        "is_music": false,
+        "start": 212.045,
+        "text": "In the late I'm just glad that you made the we're not here to question his faith or"
+      },
+      {
+        "end": 220.058,
+        "id": 45,
+        "is_music": false,
+        "start": 218.064,
+        "text": "his personal struggles but when"
+      },
+      {
+        "end": 226.003,
+        "id": 46,
+        "is_music": false,
+        "start": 220.059,
+        "text": "a chart topping musician shuns the secular and claims to turn to God with humility"
+      },
+      {
+        "end": 231.019,
+        "id": 47,
+        "is_music": false,
+        "start": 226.027,
+        "text": "but still expects to top those charts I think it's fair to question his purpose so"
+      },
+      {
+        "end": 237.018,
+        "id": 48,
+        "is_music": false,
+        "start": 231.02,
+        "text": "this our on point hip hop gospel faith and Kanye West and you can join us have you"
+      },
+      {
+        "end": 241.014,
+        "id": 49,
+        "is_music": false,
+        "start": 237.019,
+        "text": "listened to Jesus is King to Kanye is new album Have you seen"
+      },
+      {
+        "end": 245.093,
+        "id": 50,
+        "is_music": false,
+        "start": 241.015,
+        "text": "a Sunday services What's your review and what's your view of what Kanye is trying"
+      },
+      {
+        "end": 252.093,
+        "id": 51,
+        "is_music": false,
+        "start": 245.094,
+        "text": "to accomplish we're at 180-423-8255 that's 80423 talk you can also join us"
+      },
+      {
+        "end": 258.027,
+        "id": 52,
+        "is_music": false,
+        "start": 253.035,
+        "text": "anytime and on point Radio dot org or Twitter and Facebook at on point radio Well"
+      },
+      {
+        "end": 260.056,
+        "id": 53,
+        "is_music": false,
+        "start": 258.028,
+        "text": "joining us today from New York is Craig Jenkins"
+      },
+      {
+        "end": 264.072,
+        "id": 54,
+        "is_music": false,
+        "start": 260.057,
+        "text": "a music critic at Vulture We've got links to his stories on Con his new album again"
+      },
+      {
+        "end": 268.071,
+        "id": 55,
+        "is_music": false,
+        "start": 264.073,
+        "text": "at our website on point Radio dot org Craig welcome to the show. Thank you for"
+      },
+      {
+        "end": 272.033,
+        "id": 56,
+        "is_music": false,
+        "start": 268.072,
+        "text": "having me great to have you also with us from Chapel Hill North Carolina is"
+      },
+      {
+        "end": 277.067,
+        "id": 57,
+        "is_music": false,
+        "start": 272.034,
+        "text": "Reverend Joshua Lazard minister at Duke University Chapel he serves as advisor to"
+      },
+      {
+        "end": 281.092,
+        "id": 58,
+        "is_music": false,
+        "start": 277.068,
+        "text": "Duke University student Gospel Choir united in praise he's also"
+      },
+      {
+        "end": 286.048,
+        "id": 59,
+        "is_music": false,
+        "start": 281.093,
+        "text": "a writer on race religion and politics for the magazine religious dispatches"
+      },
+      {
+        "end": 291.001,
+        "id": 60,
+        "is_music": false,
+        "start": 286.065,
+        "text": "revenues are dwell compere you thank you for having me Ok So Craig let me just"
+      },
+      {
+        "end": 297.034,
+        "id": 61,
+        "is_music": false,
+        "start": 291.002,
+        "text": "start with you is it a good album. Apart from you know in a vacuum it's"
+      },
+      {
+        "end": 303.046,
+        "id": 62,
+        "is_music": false,
+        "start": 297.035,
+        "text": "a decent. Decent I will be perfectly honest that's not the him and initial reaction"
+      },
+      {
+        "end": 307.02,
+        "id": 63,
+        "is_music": false,
+        "start": 303.047,
+        "text": "that I had and I couldn't figure out if it was like maybe because I just didn't"
+      },
+      {
+        "end": 312.056,
+        "id": 64,
+        "is_music": false,
+        "start": 307.021,
+        "text": "understand what kind he was trying to do but it didn't grab me. I think you know"
+      },
+      {
+        "end": 315.054,
+        "id": 65,
+        "is_music": false,
+        "start": 312.057,
+        "text": "just on the musical level in terms of the sounds of the thing it you know there's"
+      },
+      {
+        "end": 319.047,
+        "id": 66,
+        "is_music": false,
+        "start": 315.055,
+        "text": "beautiful noises there's it's great voices there's great choirs the beats are"
+      },
+      {
+        "end": 324.014,
+        "id": 67,
+        "is_music": false,
+        "start": 319.082,
+        "text": "better than they've been within a couple years. So in those levels I think it's"
+      },
+      {
+        "end": 327.024,
+        "id": 68,
+        "is_music": false,
+        "start": 324.015,
+        "text": "a good it's a decent album I want to say it's going to great it's got"
+      },
+      {
+        "end": 333.043,
+        "id": 69,
+        "is_music": false,
+        "start": 327.028,
+        "text": "a lot of issues you're damning with faint praise. Right so that's"
+      },
+      {
+        "end": 338.068,
+        "id": 70,
+        "is_music": false,
+        "start": 334.013,
+        "text": "that's the Carney cycle No it's the Carney cycle Ok So Reverend Those are your take"
+      },
+      {
+        "end": 344.022,
+        "id": 71,
+        "is_music": false,
+        "start": 338.069,
+        "text": "here I thought the album was basic compared to just what I know and what I've heard"
+      },
+      {
+        "end": 349.04,
+        "id": 72,
+        "is_music": false,
+        "start": 344.023,
+        "text": "from Kanye in the past even life of Pablo or yeah you know these were albums that I"
+      },
+      {
+        "end": 354.041,
+        "id": 73,
+        "is_music": false,
+        "start": 350.029,
+        "text": "not not not favorite albums of mine and I'm still you know I have"
+      },
+      {
+        "end": 357.055,
+        "id": 74,
+        "is_music": false,
+        "start": 354.042,
+        "text": "a personal preference for his 1st 3 and I say that as"
+      },
+      {
+        "end": 361.087,
+        "id": 75,
+        "is_music": false,
+        "start": 357.056,
+        "text": "a Chicago want to know the hype that the temp with that at the time but yeah this"
+      },
+      {
+        "end": 362.097,
+        "id": 76,
+        "is_music": false,
+        "start": 361.088,
+        "text": "one was a this one was"
+      },
+      {
+        "end": 367.006,
+        "id": 77,
+        "is_music": false,
+        "start": 362.098,
+        "text": "a disappointment from the person from the lyricism and I think it's correct so"
+      },
+      {
+        "end": 371.082,
+        "id": 78,
+        "is_music": false,
+        "start": 367.007,
+        "text": "they're beautiful noises that get made in there but it didn't grab me Ok well let's"
+      },
+      {
+        "end": 372.013,
+        "id": 79,
+        "is_music": false,
+        "start": 371.083,
+        "text": "listen to"
+      },
+      {
+        "end": 376.006,
+        "id": 80,
+        "is_music": false,
+        "start": 372.014,
+        "text": "a little bit more from the album before we completely write off Guy day we're not"
+      },
+      {
+        "end": 381.084,
+        "id": 81,
+        "is_music": false,
+        "start": 376.007,
+        "text": "going to do but this is this is God It is from Jesus is King and you know my."
+      },
+      {
+        "end": 388.029,
+        "id": 82,
+        "is_music": false,
+        "start": 383.025,
+        "text": "You. Know my. Opinion that the."
+      },
+      {
+        "end": 396.046,
+        "id": 83,
+        "is_music": false,
+        "start": 390.037,
+        "text": "Guy. I. Gave it me."
+      },
+      {
+        "end": 404,
+        "id": 84,
+        "is_music": false,
+        "start": 397.089,
+        "text": "To say. This is. The"
+      },
+      {
+        "end": 409.078,
+        "id": 85,
+        "is_music": false,
+        "start": 404.07,
+        "text": "time that I can out of. That was."
+      },
+      {
+        "end": 418.082,
+        "id": 86,
+        "is_music": false,
+        "start": 412.097,
+        "text": "My son that thanks to. My ladder. To."
+      },
+      {
+        "end": 426.082,
+        "id": 87,
+        "is_music": false,
+        "start": 420.072,
+        "text": "Get. Out of this time this might just get"
+      },
+      {
+        "end": 432.061,
+        "id": 88,
+        "is_music": false,
+        "start": 427.056,
+        "text": "his mind to smile this might be. Thank you."
+      },
+      {
+        "end": 436.097,
+        "id": 89,
+        "is_music": false,
+        "start": 434.077,
+        "text": "So everyone's ard I mean that's kind of"
+      },
+      {
+        "end": 442.047,
+        "id": 90,
+        "is_music": false,
+        "start": 436.098,
+        "text": "a singing not rapping so much to singing about the uplift that the faith has given"
+      },
+      {
+        "end": 447.034,
+        "id": 91,
+        "is_music": false,
+        "start": 442.048,
+        "text": "him what's right what's wrong with that. There's anything wrong with it but it's"
+      },
+      {
+        "end": 452.06,
+        "id": 92,
+        "is_music": false,
+        "start": 447.09,
+        "text": "you know you can say that objectively put because it's Kanye this becomes something"
+      },
+      {
+        "end": 454.079,
+        "id": 93,
+        "is_music": false,
+        "start": 452.064,
+        "text": "different I think Kanye West represents"
+      },
+      {
+        "end": 461.019,
+        "id": 94,
+        "is_music": false,
+        "start": 454.08,
+        "text": "a commodity almost for the rest of us to consume and you know there are parts in"
+      },
+      {
+        "end": 461.06,
+        "id": 95,
+        "is_music": false,
+        "start": 461.02,
+        "text": "which you know as"
+      },
+      {
+        "end": 465.096,
+        "id": 96,
+        "is_music": false,
+        "start": 461.061,
+        "text": "a Christian you know I appreciate you know I'm speaking positively about about my"
+      },
+      {
+        "end": 470.085,
+        "id": 97,
+        "is_music": false,
+        "start": 465.097,
+        "text": "faith about our faith in an uplifting way but again because it's kind of you can't"
+      },
+      {
+        "end": 476.021,
+        "id": 98,
+        "is_music": false,
+        "start": 470.086,
+        "text": "help but almost cringe at it oh go Ok So Craig Jenkins I think this is exactly"
+      },
+      {
+        "end": 482.014,
+        "id": 99,
+        "is_music": false,
+        "start": 476.022,
+        "text": "where. A bunch of people find themselves in listening to this album that it's kind"
+      },
+      {
+        "end": 487.01,
+        "id": 100,
+        "is_music": false,
+        "start": 482.015,
+        "text": "of tough like how do you how do you read it because of all that Kanye has said has"
+      },
+      {
+        "end": 493.076,
+        "id": 101,
+        "is_music": false,
+        "start": 487.011,
+        "text": "done and in the minds of many does represent. Well you know the kind he follows is"
+      },
+      {
+        "end": 499.055,
+        "id": 102,
+        "is_music": false,
+        "start": 493.077,
+        "text": "the self is is you know arrogance is wealth is affluence and so it's hard to see"
+      },
+      {
+        "end": 501.031,
+        "id": 103,
+        "is_music": false,
+        "start": 499.056,
+        "text": "him subscribe to you know"
+      },
+      {
+        "end": 505.07,
+        "id": 104,
+        "is_music": false,
+        "start": 501.032,
+        "text": "a belief system that it's not about that stuff is you know sort of perpendicular to"
+      },
+      {
+        "end": 510.033,
+        "id": 105,
+        "is_music": false,
+        "start": 505.071,
+        "text": "that stuff and he is about the know the the destruction of the ego and you know the"
+      },
+      {
+        "end": 516.001,
+        "id": 106,
+        "is_music": false,
+        "start": 510.037,
+        "text": "divorce from love so it's definitely hard to hear him you know gone through that"
+      },
+      {
+        "end": 519.064,
+        "id": 107,
+        "is_music": false,
+        "start": 516.002,
+        "text": "and still you know have the trappings of the old country and still you know be"
+      },
+      {
+        "end": 522.097,
+        "id": 108,
+        "is_music": false,
+        "start": 519.065,
+        "text": "talking about money and still be talking about how great he is now is the greatest"
+      },
+      {
+        "end": 528.081,
+        "id": 109,
+        "is_music": false,
+        "start": 522.097,
+        "text": ". I'm not entirely sure that means that this is you know wash so much as it means"
+      },
+      {
+        "end": 532.043,
+        "id": 110,
+        "is_music": false,
+        "start": 528.082,
+        "text": "that he's just very new to this and not really understanding how to articulate it"
+      },
+      {
+        "end": 537.022,
+        "id": 111,
+        "is_music": false,
+        "start": 532.062,
+        "text": "Ok well you know we've got callers already who want to talk about Kanye and Jesus"
+      },
+      {
+        "end": 542.091,
+        "id": 112,
+        "is_music": false,
+        "start": 537.027,
+        "text": "is King at 180-423-8255 it's 80423 talk we want to take"
+      },
+      {
+        "end": 546.072,
+        "id": 113,
+        "is_music": false,
+        "start": 542.092,
+        "text": "a look at this hour about you know sort of the place that any popular musician"
+      },
+      {
+        "end": 553.029,
+        "id": 114,
+        "is_music": false,
+        "start": 546.073,
+        "text": "finds him or herself when they dismiss the secular and embrace religious"
+      },
+      {
+        "end": 558.044,
+        "id": 115,
+        "is_music": false,
+        "start": 553.059,
+        "text": "themes in their music again where 843855 is going to Sam is calling from Baltimore"
+      },
+      {
+        "end": 565.044,
+        "id": 116,
+        "is_music": false,
+        "start": 558.045,
+        "text": "Maryland Sam what did you think of Jesus is King. I thought it was good"
+      },
+      {
+        "end": 571.057,
+        "id": 117,
+        "is_music": false,
+        "start": 565.057,
+        "text": "I thought it was kind of on par for Kanye the 1st time I actually got introduced to"
+      },
+      {
+        "end": 572.04,
+        "id": 118,
+        "is_music": false,
+        "start": 571.058,
+        "text": "him was at"
+      },
+      {
+        "end": 579.006,
+        "id": 119,
+        "is_music": false,
+        "start": 572.041,
+        "text": "a huge night in church when Jesus walked came out. From then he has been my"
+      },
+      {
+        "end": 585.059,
+        "id": 120,
+        "is_music": false,
+        "start": 579.007,
+        "text": "favorite artist since the day I heard him I think me as any other Christian I think"
+      },
+      {
+        "end": 590.06,
+        "id": 121,
+        "is_music": false,
+        "start": 585.06,
+        "text": "a lot of people really just meant to about this album and I think with Christians"
+      },
+      {
+        "end": 595.064,
+        "id": 122,
+        "is_music": false,
+        "start": 590.061,
+        "text": "of all of this we are supposed to open doors accept anyone to anybody and I think"
+      },
+      {
+        "end": 595.083,
+        "id": 123,
+        "is_music": false,
+        "start": 595.065,
+        "text": "it's"
+      },
+      {
+        "end": 601.053,
+        "id": 124,
+        "is_music": false,
+        "start": 595.084,
+        "text": "a good transformation for Kanye I mean he's had nuggets of this and his interviews"
+      },
+      {
+        "end": 606.043,
+        "id": 125,
+        "is_music": false,
+        "start": 601.054,
+        "text": "and his music leading up to this moment even though the lyrics have always not in"
+      },
+      {
+        "end": 607.005,
+        "id": 126,
+        "is_music": false,
+        "start": 606.044,
+        "text": "there because"
+      },
+      {
+        "end": 612.05,
+        "id": 127,
+        "is_music": false,
+        "start": 607.006,
+        "text": "a less yes writers helping him but him using his voice as the music and as the beat"
+      },
+      {
+        "end": 615.054,
+        "id": 128,
+        "is_music": false,
+        "start": 612.054,
+        "text": "is still there he is a wonderful physique producer and"
+      },
+      {
+        "end": 619.044,
+        "id": 129,
+        "is_music": false,
+        "start": 615.055,
+        "text": "a musical genius to me Well Sam thank you so much for your call revellers or do we"
+      },
+      {
+        "end": 624.008,
+        "id": 130,
+        "is_music": false,
+        "start": 619.045,
+        "text": "being to judge mental. I don't think we I don't think we can say that we're being"
+      },
+      {
+        "end": 628.039,
+        "id": 131,
+        "is_music": false,
+        "start": 624.009,
+        "text": "to judgment so when again when you're somebody the size of Kanye West you don't get"
+      },
+      {
+        "end": 632.066,
+        "id": 132,
+        "is_music": false,
+        "start": 628.04,
+        "text": "off the hook just because you put Jesus in your lyrics does not mean that we"
+      },
+      {
+        "end": 637.095,
+        "id": 133,
+        "is_music": false,
+        "start": 632.097,
+        "text": "shouldn't criticize or that we shouldn't critique it and I think again to go I mean"
+      },
+      {
+        "end": 642.087,
+        "id": 134,
+        "is_music": false,
+        "start": 638.082,
+        "text": "God is have room to grow I don't want to take that from from him and his ability in"
+      },
+      {
+        "end": 647.052,
+        "id": 135,
+        "is_music": false,
+        "start": 642.088,
+        "text": "his agency to grow as an artist and grow in his thinking and what not but you know"
+      },
+      {
+        "end": 651.071,
+        "id": 136,
+        "is_music": false,
+        "start": 647.053,
+        "text": "you go back to Jesus Walks you have him still professing his Christianity still"
+      },
+      {
+        "end": 656.092,
+        "id": 137,
+        "is_music": false,
+        "start": 651.072,
+        "text": "professing Jesus and his belief system but it had this social critique to it I know"
+      },
+      {
+        "end": 663.065,
+        "id": 138,
+        "is_music": false,
+        "start": 656.093,
+        "text": "way that these later albums don't all the way to like. It seems Ok it doesn't even"
+      },
+      {
+        "end": 666.037,
+        "id": 139,
+        "is_music": false,
+        "start": 663.066,
+        "text": "support the 13th Amendment and you know add that that is"
+      },
+      {
+        "end": 670.074,
+        "id": 140,
+        "is_music": false,
+        "start": 666.038,
+        "text": "a hard issue for me as an African-American is like these are things that"
+      },
+      {
+        "end": 675.044,
+        "id": 141,
+        "is_music": false,
+        "start": 670.075,
+        "text": "a fundamental to not just our faith but also to our citizenship and to our way of"
+      },
+      {
+        "end": 679.022,
+        "id": 142,
+        "is_music": false,
+        "start": 675.045,
+        "text": "being here in the United States and can he seems actually threaten that and"
+      },
+      {
+        "end": 679.076,
+        "id": 143,
+        "is_music": false,
+        "start": 679.023,
+        "text": "threaten it in"
+      },
+      {
+        "end": 683.081,
+        "id": 144,
+        "is_music": false,
+        "start": 679.077,
+        "text": "a very dangerous way that you know intersects religion that intersects white"
+      },
+      {
+        "end": 689.001,
+        "id": 145,
+        "is_music": false,
+        "start": 683.082,
+        "text": "evangelical ism that intersects all of these problematic issues that are so you can"
+      },
+      {
+        "end": 693.038,
+        "id": 146,
+        "is_music": false,
+        "start": 689.002,
+        "text": "problematic political issues that are that are at play today and for me it's like"
+      },
+      {
+        "end": 694.065,
+        "id": 147,
+        "is_music": false,
+        "start": 693.042,
+        "text": "well I would have to find"
+      },
+      {
+        "end": 699.016,
+        "id": 148,
+        "is_music": false,
+        "start": 694.066,
+        "text": "a way to criticize it yeah so Craig Jenkins What do you think I don't think that"
+      },
+      {
+        "end": 703.017,
+        "id": 149,
+        "is_music": false,
+        "start": 699.031,
+        "text": "you necessarily want to the entire 13th Amendment abolished I think that he's not"
+      },
+      {
+        "end": 705.054,
+        "id": 150,
+        "is_music": false,
+        "start": 703.018,
+        "text": "speaking clearly he's not reading clearly because he's"
+      },
+      {
+        "end": 710.088,
+        "id": 151,
+        "is_music": false,
+        "start": 705.055,
+        "text": "a proud nonreader I think that he should definitely be criticized because he has"
+      },
+      {
+        "end": 711.091,
+        "id": 152,
+        "is_music": false,
+        "start": 710.089,
+        "text": "a massive platform and there are"
+      },
+      {
+        "end": 716.022,
+        "id": 153,
+        "is_music": false,
+        "start": 711.092,
+        "text": "a lot of people listening and there are people who may not you know in there we"
+      },
+      {
+        "end": 720.022,
+        "id": 154,
+        "is_music": false,
+        "start": 716.023,
+        "text": "could get any piece of that you know message any piece of that you know faith and"
+      },
+      {
+        "end": 722.082,
+        "id": 155,
+        "is_music": false,
+        "start": 720.023,
+        "text": "they're hearing it come from this guy and they're hearing it come with trumpets and"
+      },
+      {
+        "end": 726.086,
+        "id": 156,
+        "is_music": false,
+        "start": 722.083,
+        "text": "they're hearing it come with you know all the stuff that's not necessarily you know"
+      },
+      {
+        "end": 730.083,
+        "id": 157,
+        "is_music": false,
+        "start": 726.087,
+        "text": "written in the book that you know Christians are to follow so there should"
+      },
+      {
+        "end": 733.084,
+        "id": 158,
+        "is_music": false,
+        "start": 730.084,
+        "text": "definitely be there's definitely questioning and they should definitely be guidance"
+      },
+      {
+        "end": 737.091,
+        "id": 159,
+        "is_music": false,
+        "start": 733.085,
+        "text": "for that guy I don't know if he's being guided. Because when you listen to the"
+      },
+      {
+        "end": 740.073,
+        "id": 160,
+        "is_music": false,
+        "start": 737.092,
+        "text": "interviews they sort of run at cross purposes with what he's trying to say and it's"
+      },
+      {
+        "end": 744.061,
+        "id": 161,
+        "is_music": false,
+        "start": 740.074,
+        "text": "an album's. Yeah I mean do you musicians always face"
+      },
+      {
+        "end": 751.028,
+        "id": 162,
+        "is_music": false,
+        "start": 744.062,
+        "text": "a pretty intense minefield when they ostensibly turn away from popular music and or"
+      },
+      {
+        "end": 756.072,
+        "id": 163,
+        "is_music": false,
+        "start": 751.029,
+        "text": "ditch the secular in in place of the of faith based music"
+      },
+      {
+        "end": 762.054,
+        "id": 164,
+        "is_music": false,
+        "start": 758.014,
+        "text": "usually what happens is the fans run that's actually what's very unique about this"
+      },
+      {
+        "end": 765.064,
+        "id": 165,
+        "is_music": false,
+        "start": 762.055,
+        "text": "situation is that they seem to have stuck around if the projected numbers for the"
+      },
+      {
+        "end": 769.071,
+        "id": 166,
+        "is_music": false,
+        "start": 765.065,
+        "text": "1st week are showing I'm not really sure what people are getting out of it who are"
+      },
+      {
+        "end": 774.072,
+        "id": 167,
+        "is_music": false,
+        "start": 769.071,
+        "text": ". Well they're good they're getting kind yeah right and they're still getting Kanye"
+      },
+      {
+        "end": 775.044,
+        "id": 168,
+        "is_music": false,
+        "start": 775.032,
+        "text": "in"
+      },
+      {
+        "end": 780.062,
+        "id": 169,
+        "is_music": false,
+        "start": 775.045,
+        "text": "a manner of speaking. You know when you when you listen to when you listen to the old"
+      },
+      {
+        "end": 784.017,
+        "id": 170,
+        "is_music": false,
+        "start": 780.063,
+        "text": "county records you're hearing you know you're hearing like you know like the"
+      },
+      {
+        "end": 787.024,
+        "id": 171,
+        "is_music": false,
+        "start": 784.018,
+        "text": "reverence that you hearing you know social commentary you're hearing if not social"
+      },
+      {
+        "end": 788.091,
+        "id": 172,
+        "is_music": false,
+        "start": 787.025,
+        "text": "commentary then you're hearing you know"
+      },
+      {
+        "end": 793.008,
+        "id": 173,
+        "is_music": false,
+        "start": 788.092,
+        "text": "a lot of. Interesting talk about where his life is right now and he switched over"
+      },
+      {
+        "end": 798.002,
+        "id": 174,
+        "is_music": false,
+        "start": 793.009,
+        "text": "to like the sort of like basic in movers you know of you know religiosity and it's"
+      },
+      {
+        "end": 800.052,
+        "id": 175,
+        "is_music": false,
+        "start": 798.037,
+        "text": "a little fin for me Ok Well we're going to take"
+      },
+      {
+        "end": 804.092,
+        "id": 176,
+        "is_music": false,
+        "start": 800.053,
+        "text": "a quick break here and I promise we're going to hear some of his older tracks as"
+      },
+      {
+        "end": 806.032,
+        "id": 177,
+        "is_music": false,
+        "start": 804.093,
+        "text": "well but this is"
+      },
+      {
+        "end": 812.002,
+        "id": 178,
+        "is_music": false,
+        "start": 806.036,
+        "text": "a salon off of Jesus is King and we're talking this hour about Kanye West's latest"
+      },
+      {
+        "end": 816.067,
+        "id": 179,
+        "is_music": false,
+        "start": 812.007,
+        "text": "album The Gospel According to Kanye West and now how do you read this moment of"
+      },
+      {
+        "end": 823.055,
+        "id": 180,
+        "is_music": false,
+        "start": 816.068,
+        "text": "this chart topping musician who's shared secular music in putting his"
+      },
+      {
+        "end": 830.052,
+        "id": 181,
+        "is_music": false,
+        "start": 823.089,
+        "text": "faith 1st 143-8255 it's 843 top this is on point."
+      },
+      {
+        "end": 862.001,
+        "id": 182,
+        "is_music": false,
+        "start": 855.019,
+        "text": "I. I can't wake up because just to"
+      },
+      {
+        "end": 868.068,
+        "id": 183,
+        "is_music": false,
+        "start": 862.002,
+        "text": "make up with the bit. About the trick I. Step"
+      },
+      {
+        "end": 872.042,
+        "id": 184,
+        "is_music": false,
+        "start": 868.085,
+        "text": "back. To the let me."
+      },
+      {
+        "end": 883.017,
+        "id": 185,
+        "is_music": false,
+        "start": 876.021,
+        "text": "Be the big. No but. We get the product we got the we"
+      },
+      {
+        "end": 890.002,
+        "id": 186,
+        "is_music": false,
+        "start": 883.018,
+        "text": "got the we get the. People listening. To that become"
+      },
+      {
+        "end": 894.009,
+        "id": 187,
+        "is_music": false,
+        "start": 890.029,
+        "text": "the least of the cream in the the cutting that is the."
+      },
+      {
+        "end": 901.007,
+        "id": 188,
+        "is_music": false,
+        "start": 897.024,
+        "text": "Good morning I tellee steel You're listening to on point on Delaware Public Media."
+      },
+      {
+        "end": 909.015,
+        "id": 189,
+        "is_music": false,
+        "start": 902.051,
+        "text": "Walking Dead is in its 10th season on AMC some though present company included are"
+      },
+      {
+        "end": 915.027,
+        "id": 190,
+        "is_music": false,
+        "start": 909.016,
+        "text": "like really zombie apocalypse your 1st zombie it's going to it's going to hurt then"
+      },
+      {
+        "end": 919.027,
+        "id": 191,
+        "is_music": false,
+        "start": 915.028,
+        "text": "you'll get hooked into the narrative the new characters and it will make all of"
+      },
+      {
+        "end": 924.077,
+        "id": 192,
+        "is_music": false,
+        "start": 919.028,
+        "text": "that so much worse I'm car Ryssdal The undead on Marketplace What"
+      },
+      {
+        "end": 931.027,
+        "id": 193,
+        "is_music": false,
+        "start": 925.02,
+        "text": "a story about the undead tune in tonight to hear more on Marketplace starts at."
+      },
+      {
+        "end": 939.038,
+        "id": 194,
+        "is_music": false,
+        "start": 932.049,
+        "text": "630 and think about that 1st I lost my way. Mostly cloudy skies"
+      },
+      {
+        "end": 945.068,
+        "id": 195,
+        "is_music": false,
+        "start": 939.039,
+        "text": "out there today showers possible by late tonight starting high 69 cloudy off and on"
+      },
+      {
+        "end": 951.053,
+        "id": 196,
+        "is_music": false,
+        "start": 945.069,
+        "text": "showers tonight an overnight low of 65 so if you have plans after work just carry"
+      },
+      {
+        "end": 954.093,
+        "id": 197,
+        "is_music": false,
+        "start": 951.054,
+        "text": "the umbrella. 1120 now good morning."
+      },
+      {
+        "end": 964.01,
+        "id": 198,
+        "is_music": false,
+        "start": 959.034,
+        "text": "Support her on point comes from fracture fracture prints digital photos directly on"
+      },
+      {
+        "end": 968.048,
+        "id": 199,
+        "is_music": false,
+        "start": 964.011,
+        "text": "to glass creating frameless works of art fracture glass prints come in"
+      },
+      {
+        "end": 973.009,
+        "id": 200,
+        "is_music": false,
+        "start": 968.049,
+        "text": "a variety of sizes that are ready to mount on the wall learn more at pressure me"
+      },
+      {
+        "end": 979.005,
+        "id": 201,
+        "is_music": false,
+        "start": 973.01,
+        "text": "dot com slash on point and Geico celebrating over 75 years of providing auto"
+      },
+      {
+        "end": 984.006,
+        "id": 202,
+        "is_music": false,
+        "start": 979.006,
+        "text": "insurance for drivers across America more information on auto insurance available"
+      },
+      {
+        "end": 988.028,
+        "id": 203,
+        "is_music": false,
+        "start": 984.028,
+        "text": "at Geico dot com or 180947 auto."
+      },
+      {
+        "end": 1003.081,
+        "id": 204,
+        "is_music": false,
+        "start": 1003.055,
+        "text": "This is"
+      },
+      {
+        "end": 1007.067,
+        "id": 205,
+        "is_music": false,
+        "start": 1003.082,
+        "text": "a point I'm making trucker buddy we are talking about Kanye West's new album Jesus"
+      },
+      {
+        "end": 1012.04,
+        "id": 206,
+        "is_music": false,
+        "start": 1007.068,
+        "text": "is King this is the track every Hour featuring the Sunday service choir."
+      },
+      {
+        "end": 1015.021,
+        "id": 207,
+        "is_music": false,
+        "start": 1014.018,
+        "text": "Was."
+      },
+      {
+        "end": 1028.071,
+        "id": 208,
+        "is_music": false,
+        "start": 1023.059,
+        "text": "Ongoing today by Craig Jenkins he's music critic at Vulture and Reverend Joshua was"
+      },
+      {
+        "end": 1029.092,
+        "id": 209,
+        "is_music": false,
+        "start": 1028.072,
+        "text": "ard also joins us he's"
+      },
+      {
+        "end": 1034.075,
+        "id": 210,
+        "is_music": false,
+        "start": 1029.093,
+        "text": "a minister at Duke University Chapel and advisor to the university student gospel"
+      },
+      {
+        "end": 1041.035,
+        "id": 211,
+        "is_music": false,
+        "start": 1034.076,
+        "text": "choir called United in praise for white 143-855-8042 extension 3 talk we want to"
+      },
+      {
+        "end": 1045.088,
+        "id": 212,
+        "is_music": false,
+        "start": 1041.036,
+        "text": "know what you think about Kanye West's latest album about Jesus is King about"
+      },
+      {
+        "end": 1051.09,
+        "id": 213,
+        "is_music": false,
+        "start": 1046.012,
+        "text": "mixing music and religion and when that mix happens at a within a chart topping"
+      },
+      {
+        "end": 1058.003,
+        "id": 214,
+        "is_music": false,
+        "start": 1051.091,
+        "text": "a hip hop star now Reverend Lazard let me ask you mean as gospel music how your ear"
+      },
+      {
+        "end": 1060.062,
+        "id": 215,
+        "is_music": false,
+        "start": 1058.003,
+        "text": ". I was a 0 on"
+      },
+      {
+        "end": 1067.04,
+        "id": 216,
+        "is_music": false,
+        "start": 1060.063,
+        "text": "a scale from one to 10 I don't I don't see this is gospel music I see this as"
+      },
+      {
+        "end": 1071.042,
+        "id": 217,
+        "is_music": false,
+        "start": 1067.06,
+        "text": "just hip hop music that talks about Jesus which is fine I don't necessarily have"
+      },
+      {
+        "end": 1075.066,
+        "id": 218,
+        "is_music": false,
+        "start": 1071.043,
+        "text": "a problem with what they're doing that but to me this does not fit into the"
+      },
+      {
+        "end": 1080.063,
+        "id": 219,
+        "is_music": false,
+        "start": 1075.067,
+        "text": "African-American gospel music tradition in the way that there's"
+      },
+      {
+        "end": 1081.088,
+        "id": 220,
+        "is_music": false,
+        "start": 1080.064,
+        "text": "a sonic sound and there's"
+      },
+      {
+        "end": 1088.014,
+        "id": 221,
+        "is_music": false,
+        "start": 1081.089,
+        "text": "a heterogeneity to the music that happens in gospel music the soul music you know"
+      },
+      {
+        "end": 1093.034,
+        "id": 222,
+        "is_music": false,
+        "start": 1088.015,
+        "text": "it comes out of the blues and what not this does not fall in that musical genealogy"
+      },
+      {
+        "end": 1098.078,
+        "id": 223,
+        "is_music": false,
+        "start": 1093.035,
+        "text": "for me and so for that just doesn't resonate with me on that level and I say that"
+      },
+      {
+        "end": 1103.089,
+        "id": 224,
+        "is_music": false,
+        "start": 1098.079,
+        "text": "again you know somebody who who's been doing gospel music for my entire life who"
+      },
+      {
+        "end": 1106.027,
+        "id": 225,
+        "is_music": false,
+        "start": 1103.093,
+        "text": "you know plays for a place for for"
+      },
+      {
+        "end": 1111.005,
+        "id": 226,
+        "is_music": false,
+        "start": 1106.028,
+        "text": "a local church here here in the Raleigh Durham in the Triangle area. And also you"
+      },
+      {
+        "end": 1112.078,
+        "id": 227,
+        "is_music": false,
+        "start": 1111.006,
+        "text": "know as an advisor to"
+      },
+      {
+        "end": 1116.069,
+        "id": 228,
+        "is_music": false,
+        "start": 1112.079,
+        "text": "a gospel choir on campus and again you want to talk to my students talk to my"
+      },
+      {
+        "end": 1120.06,
+        "id": 229,
+        "is_music": false,
+        "start": 1116.07,
+        "text": "students about this is like oh you know the album just dropped and relisten into it"
+      },
+      {
+        "end": 1125.01,
+        "id": 230,
+        "is_music": false,
+        "start": 1121.021,
+        "text": "and you know most of them are so like this isn't gospel music this is hip hop but"
+      },
+      {
+        "end": 1129.023,
+        "id": 231,
+        "is_music": false,
+        "start": 1125.011,
+        "text": "then that track that we just heard with the Sunday service choir that that I think"
+      },
+      {
+        "end": 1132.09,
+        "id": 232,
+        "is_music": false,
+        "start": 1129.024,
+        "text": "so yeah so that one does qualify and I think that is something interesting that"
+      },
+      {
+        "end": 1137.094,
+        "id": 233,
+        "is_music": false,
+        "start": 1132.091,
+        "text": "kind of does do with this I mean the sample from the No James Cleveland's God is"
+      },
+      {
+        "end": 1142.07,
+        "id": 234,
+        "is_music": false,
+        "start": 1138.045,
+        "text": "you know these are things that actually do resonate with me that is to say I"
+      },
+      {
+        "end": 1147.011,
+        "id": 235,
+        "is_music": false,
+        "start": 1142.071,
+        "text": "mislead think that if Kanye had dropped an album with just the Sunday service choir"
+      },
+      {
+        "end": 1151.089,
+        "id": 236,
+        "is_music": false,
+        "start": 1147.04,
+        "text": "you know be it 75678 tracks that I think would have made"
+      },
+      {
+        "end": 1156.004,
+        "id": 237,
+        "is_music": false,
+        "start": 1151.09,
+        "text": "a much more impactful statement I think it would have resonated in different when I"
+      },
+      {
+        "end": 1159.064,
+        "id": 238,
+        "is_music": false,
+        "start": 1156.005,
+        "text": "think I would have captured people differently that is to say when I talk to my"
+      },
+      {
+        "end": 1164.074,
+        "id": 239,
+        "is_music": false,
+        "start": 1159.065,
+        "text": "friends even back in Chicago quote unquote lapsed Christians so to speak they came"
+      },
+      {
+        "end": 1168.052,
+        "id": 240,
+        "is_music": false,
+        "start": 1164.075,
+        "text": "for the choir and in so much come for Kanye they came for the choir because the"
+      },
+      {
+        "end": 1173.045,
+        "id": 241,
+        "is_music": false,
+        "start": 1168.053,
+        "text": "choir was doing something that was traditional and familiar but also new at the"
+      },
+      {
+        "end": 1177.008,
+        "id": 242,
+        "is_music": false,
+        "start": 1173.046,
+        "text": "same time and it felt good it resonated in"
+      },
+      {
+        "end": 1180.091,
+        "id": 243,
+        "is_music": false,
+        "start": 1177.009,
+        "text": "a way that I think the rest of the lyrics and. What not and what Kanye is doing and"
+      },
+      {
+        "end": 1186.02,
+        "id": 244,
+        "is_music": false,
+        "start": 1180.092,
+        "text": "again what kind of stance for does not Craig Jenkins What do you think. I came for"
+      },
+      {
+        "end": 1188.044,
+        "id": 245,
+        "is_music": false,
+        "start": 1186.021,
+        "text": "the choir to and I think there is"
+      },
+      {
+        "end": 1192.076,
+        "id": 246,
+        "is_music": false,
+        "start": 1188.045,
+        "text": "a chance that this next cell needs promising around Christmas it might just be the"
+      },
+      {
+        "end": 1197.044,
+        "id": 247,
+        "is_music": false,
+        "start": 1192.077,
+        "text": "Sunday service choir record but as far as you know what they're doing I don't think"
+      },
+      {
+        "end": 1198.095,
+        "id": 248,
+        "is_music": false,
+        "start": 1197.045,
+        "text": "it's necessarily new it's you know"
+      },
+      {
+        "end": 1203.097,
+        "id": 249,
+        "is_music": false,
+        "start": 1198.096,
+        "text": "a lot of you know Christian trip sort of remakes is of you know the old are in the"
+      },
+      {
+        "end": 1205.015,
+        "id": 250,
+        "is_music": false,
+        "start": 1203.098,
+        "text": "songs and stuff that's"
+      },
+      {
+        "end": 1209.004,
+        "id": 251,
+        "is_music": false,
+        "start": 1205.016,
+        "text": "a thing that's going around and that's been. You know it's such"
+      },
+      {
+        "end": 1212.018,
+        "id": 252,
+        "is_music": false,
+        "start": 1209.005,
+        "text": "a thing that I'm actually confused as to why people are so excited to see like"
+      },
+      {
+        "end": 1215.082,
+        "id": 253,
+        "is_music": false,
+        "start": 1212.023,
+        "text": "a choir doing you know kind us versions of it because that's just been on the"
+      },
+      {
+        "end": 1220.04,
+        "id": 254,
+        "is_music": false,
+        "start": 1215.083,
+        "text": "internet for the last 10 years yeah but it I think I think was interesting about"
+      },
+      {
+        "end": 1226.029,
+        "id": 255,
+        "is_music": false,
+        "start": 1220.041,
+        "text": "that though and I say this as somebody who like you who cycles in some of these"
+      },
+      {
+        "end": 1228.081,
+        "id": 256,
+        "is_music": false,
+        "start": 1226.03,
+        "text": "choirs circles at least someone's got you know"
+      },
+      {
+        "end": 1234.014,
+        "id": 257,
+        "is_music": false,
+        "start": 1228.082,
+        "text": "a month among some traditional African-American Christian Christian circles we miss"
+      },
+      {
+        "end": 1238.078,
+        "id": 258,
+        "is_music": false,
+        "start": 1234.015,
+        "text": "choir music like there's something about that right minus might not so much be new"
+      },
+      {
+        "end": 1242.09,
+        "id": 259,
+        "is_music": false,
+        "start": 1239.013,
+        "text": "but it's just familiar and because it looks new and maybe feels it was in touch to"
+      },
+      {
+        "end": 1244.042,
+        "id": 260,
+        "is_music": false,
+        "start": 1242.091,
+        "text": "Kanye West it has"
+      },
+      {
+        "end": 1248.059,
+        "id": 261,
+        "is_music": false,
+        "start": 1244.043,
+        "text": "a novelty to it that short you know you can find it on internet as much as you want"
+      },
+      {
+        "end": 1250.069,
+        "id": 262,
+        "is_music": false,
+        "start": 1249.008,
+        "text": "but it just feels good and in"
+      },
+      {
+        "end": 1254.081,
+        "id": 263,
+        "is_music": false,
+        "start": 1250.07,
+        "text": "a way that's almost intangible and sometimes I required does that I don't think"
+      },
+      {
+        "end": 1256.063,
+        "id": 264,
+        "is_music": false,
+        "start": 1254.082,
+        "text": "Kanye does that is a divorced it's"
+      },
+      {
+        "end": 1260.039,
+        "id": 265,
+        "is_music": false,
+        "start": 1256.064,
+        "text": "a which I think is hard to do but I think for some people on that very intangible"
+      },
+      {
+        "end": 1264.024,
+        "id": 266,
+        "is_music": false,
+        "start": 1260.04,
+        "text": "level that's happening and some of the dissonance here let's go back to the callers"
+      },
+      {
+        "end": 1264.069,
+        "id": 267,
+        "is_music": false,
+        "start": 1264.025,
+        "text": "because there's"
+      },
+      {
+        "end": 1271.025,
+        "id": 268,
+        "is_music": false,
+        "start": 1264.07,
+        "text": "a lot of the mats calling from Oklahoma City Oklahoma Matt you're on the air I."
+      },
+      {
+        "end": 1276.097,
+        "id": 269,
+        "is_music": false,
+        "start": 1272.048,
+        "text": "Guess I've been hearing all these things is there's often I think. As"
+      },
+      {
+        "end": 1281.034,
+        "id": 270,
+        "is_music": false,
+        "start": 1276.098,
+        "text": "a Christian as someone who's listened to the album you know for me and my"
+      },
+      {
+        "end": 1286.023,
+        "id": 271,
+        "is_music": false,
+        "start": 1281.035,
+        "text": "conversations with my friends that you know that worst case scenario. This is an"
+      },
+      {
+        "end": 1289.078,
+        "id": 272,
+        "is_music": false,
+        "start": 1286.024,
+        "text": "album that. I think seems to have"
+      },
+      {
+        "end": 1293.049,
+        "id": 273,
+        "is_music": false,
+        "start": 1289.079,
+        "text": "a conversation about Ok what does it mean to have"
+      },
+      {
+        "end": 1296.096,
+        "id": 274,
+        "is_music": false,
+        "start": 1293.05,
+        "text": "a transformation inside of Jesus and how much weight do we couldn't fight of what's"
+      },
+      {
+        "end": 1302.054,
+        "id": 275,
+        "is_music": false,
+        "start": 1296.097,
+        "text": "happening here and and Do we fully embrace Do we wait and see whether that look"
+      },
+      {
+        "end": 1306.034,
+        "id": 276,
+        "is_music": false,
+        "start": 1302.055,
+        "text": "like and that's the worst case scenario best case scenario it's got"
+      },
+      {
+        "end": 1311.062,
+        "id": 277,
+        "is_music": false,
+        "start": 1306.035,
+        "text": "a influencer who is pointing the way towards the transformational power of Jesus"
+      },
+      {
+        "end": 1316.03,
+        "id": 278,
+        "is_music": false,
+        "start": 1311.063,
+        "text": "and God and life and gets to show that hey every day I get better I'm trying to"
+      },
+      {
+        "end": 1317.045,
+        "id": 279,
+        "is_music": false,
+        "start": 1316.031,
+        "text": "learn I'm trying to deepen"
+      },
+      {
+        "end": 1322.046,
+        "id": 280,
+        "is_music": false,
+        "start": 1317.046,
+        "text": "a relationship with Christ and I think you know time will tell but when I hear"
+      },
+      {
+        "end": 1328.091,
+        "id": 281,
+        "is_music": false,
+        "start": 1323.007,
+        "text": "people trying to you know basically argue. The ins and outs of what's happening in"
+      },
+      {
+        "end": 1331.05,
+        "id": 282,
+        "is_music": false,
+        "start": 1328.092,
+        "text": "the present moment it's starting a conversation that"
+      },
+      {
+        "end": 1338.037,
+        "id": 283,
+        "is_music": false,
+        "start": 1331.051,
+        "text": "a Christian circle hasn't happened in my lifetime and for me the fighting part of"
+      },
+      {
+        "end": 1338.069,
+        "id": 284,
+        "is_music": false,
+        "start": 1338.038,
+        "text": "it is"
+      },
+      {
+        "end": 1342.049,
+        "id": 285,
+        "is_music": false,
+        "start": 1338.07,
+        "text": "a competition started well Matt thank you for your call and I just want to hear"
+      },
+      {
+        "end": 1348.071,
+        "id": 286,
+        "is_music": false,
+        "start": 1342.05,
+        "text": "Reverend lizard's response to that Go ahead Reverend I think that's fine and but. I"
+      },
+      {
+        "end": 1353.05,
+        "id": 287,
+        "is_music": false,
+        "start": 1348.072,
+        "text": "don't I think we do it I think we do a disservice to to culture and I think we do"
+      },
+      {
+        "end": 1358.034,
+        "id": 288,
+        "is_music": false,
+        "start": 1353.051,
+        "text": "a disservice to the conversations if we just simplified in saying like he's"
+      },
+      {
+        "end": 1362.055,
+        "id": 289,
+        "is_music": false,
+        "start": 1358.035,
+        "text": "pointing people to Christ and you know I think as we've said before in this"
+      },
+      {
+        "end": 1366.01,
+        "id": 290,
+        "is_music": false,
+        "start": 1362.056,
+        "text": "conversation here Kanye is such a big figure and has had such"
+      },
+      {
+        "end": 1370.055,
+        "id": 291,
+        "is_music": false,
+        "start": 1366.011,
+        "text": "a large body of work we have to be able to have these things in conversation with"
+      },
+      {
+        "end": 1375.008,
+        "id": 292,
+        "is_music": false,
+        "start": 1370.056,
+        "text": "one another and I think this is also again how religion plays itself to sa So this"
+      },
+      {
+        "end": 1381.017,
+        "id": 293,
+        "is_music": false,
+        "start": 1375.009,
+        "text": "is also how faith plays itself and in the public square that we take our own our"
+      },
+      {
+        "end": 1384.086,
+        "id": 294,
+        "is_music": false,
+        "start": 1381.018,
+        "text": "own ideas our own feelings and we project them onto people and Kanye West is"
+      },
+      {
+        "end": 1385.051,
+        "id": 295,
+        "is_music": false,
+        "start": 1384.087,
+        "text": "a person and"
+      },
+      {
+        "end": 1389.045,
+        "id": 296,
+        "is_music": false,
+        "start": 1385.052,
+        "text": "a figure that's big enough that we can project these things onto he's big enough"
+      },
+      {
+        "end": 1393.011,
+        "id": 297,
+        "is_music": false,
+        "start": 1389.046,
+        "text": "that however we want to see kind we get to if I want to see him as a as"
+      },
+      {
+        "end": 1397.048,
+        "id": 298,
+        "is_music": false,
+        "start": 1393.012,
+        "text": "a figure that's problematic and troubled I can do that I can also see him as"
+      },
+      {
+        "end": 1402.06,
+        "id": 299,
+        "is_music": false,
+        "start": 1397.049,
+        "text": "a figure it that has redemption in his mid stead has transformation in his midst to"
+      },
+      {
+        "end": 1405.012,
+        "id": 300,
+        "is_music": false,
+        "start": 1402.061,
+        "text": "which I say I don't think that's a problem I'm not I don't want to place"
+      },
+      {
+        "end": 1410.024,
+        "id": 301,
+        "is_music": false,
+        "start": 1405.013,
+        "text": "a value judgment on either one of those but if we're if we favor one of those over"
+      },
+      {
+        "end": 1414.013,
+        "id": 302,
+        "is_music": false,
+        "start": 1410.025,
+        "text": "the other I don't think revenue fair conversation about that let's go to Sam is"
+      },
+      {
+        "end": 1419.017,
+        "id": 303,
+        "is_music": false,
+        "start": 1414.014,
+        "text": "calling from Canton Georgia Sam you're on the air Hi Thank you for taking my call."
+      },
+      {
+        "end": 1425.058,
+        "id": 304,
+        "is_music": false,
+        "start": 1420.068,
+        "text": "Yeah Mike My question has to do with. Sort of a reflection or"
+      },
+      {
+        "end": 1430.088,
+        "id": 305,
+        "is_music": false,
+        "start": 1425.059,
+        "text": "a comparison of how the public responded to Bob Dylan about 40 years ago when he"
+      },
+      {
+        "end": 1436.069,
+        "id": 306,
+        "is_music": false,
+        "start": 1430.089,
+        "text": "came out with his Long Train album and also his statement of during his life over"
+      },
+      {
+        "end": 1443.039,
+        "id": 307,
+        "is_music": false,
+        "start": 1436.07,
+        "text": "to Christ and how I've been kind of intrigued at how the the church or how the"
+      },
+      {
+        "end": 1450.023,
+        "id": 308,
+        "is_music": false,
+        "start": 1443.04,
+        "text": "Christian public has responded or begun arguing and and and"
+      },
+      {
+        "end": 1456.023,
+        "id": 309,
+        "is_music": false,
+        "start": 1450.024,
+        "text": "discussing honey is switch over and I'm curious if anybody can comment on"
+      },
+      {
+        "end": 1460.067,
+        "id": 310,
+        "is_music": false,
+        "start": 1457.006,
+        "text": "on how that is different or how it yeah worked out the public responded to Dylan"
+      },
+      {
+        "end": 1465.064,
+        "id": 311,
+        "is_music": false,
+        "start": 1460.068,
+        "text": "back then we have the perfect person for that Sam dragging his music thanks to the"
+      },
+      {
+        "end": 1469.017,
+        "id": 312,
+        "is_music": false,
+        "start": 1465.065,
+        "text": "of the Gregory head Actually I took"
+      },
+      {
+        "end": 1472.095,
+        "id": 313,
+        "is_music": false,
+        "start": 1469.018,
+        "text": "a long time and really sort of got obsessed and at the Dylan Christian moment"
+      },
+      {
+        "end": 1476.059,
+        "id": 314,
+        "is_music": false,
+        "start": 1472.096,
+        "text": "because you know it's just been going through the sky graffiti but also because I"
+      },
+      {
+        "end": 1482.036,
+        "id": 315,
+        "is_music": false,
+        "start": 1476.06,
+        "text": "saw you know some some 3 lines. They were they were his worst selling records."
+      },
+      {
+        "end": 1488.02,
+        "id": 316,
+        "is_music": false,
+        "start": 1483.071,
+        "text": "To date and people left in droves you know John Lennon got mad and rode and Sue"
+      },
+      {
+        "end": 1492.017,
+        "id": 317,
+        "is_music": false,
+        "start": 1488.021,
+        "text": "song but the 1st cell muscle Slow Train Coming is I mean"
+      },
+      {
+        "end": 1496.018,
+        "id": 318,
+        "is_music": false,
+        "start": 1492.018,
+        "text": "a decent Dylan album into the stay you know people hold up the records on the front"
+      },
+      {
+        "end": 1499.044,
+        "id": 319,
+        "is_music": false,
+        "start": 1496.019,
+        "text": "of the Reverend on how the Christian community is processing this kind of thing"
+      },
+      {
+        "end": 1503.049,
+        "id": 320,
+        "is_music": false,
+        "start": 1499.045,
+        "text": "because I think that sort of the secular and the Christian you know communities in"
+      },
+      {
+        "end": 1504.007,
+        "id": 321,
+        "is_music": false,
+        "start": 1503.05,
+        "text": "hip hop can be"
+      },
+      {
+        "end": 1508.054,
+        "id": 322,
+        "is_music": false,
+        "start": 1504.008,
+        "text": "a little siloed in the conversations that instantly cross over on my side I see."
+      },
+      {
+        "end": 1514.023,
+        "id": 323,
+        "is_music": false,
+        "start": 1509.042,
+        "text": "People released kind of holding the Trump is I'm against it in holding you know his"
+      },
+      {
+        "end": 1518.079,
+        "id": 324,
+        "is_music": false,
+        "start": 1514.024,
+        "text": "outbursts against the music and I understand that and I don't really know how he's"
+      },
+      {
+        "end": 1523.009,
+        "id": 325,
+        "is_music": false,
+        "start": 1518.08,
+        "text": "going to ever like sort of reconcile the 2 and I sometimes wonder if he really"
+      },
+      {
+        "end": 1524.085,
+        "id": 326,
+        "is_music": false,
+        "start": 1523.014,
+        "text": "believes you know the religious aspect of this is"
+      },
+      {
+        "end": 1530.091,
+        "id": 327,
+        "is_music": false,
+        "start": 1524.086,
+        "text": "a cover sort of put up for the reverend Ok river before you answer that I do"
+      },
+      {
+        "end": 1532.077,
+        "id": 328,
+        "is_music": false,
+        "start": 1530.092,
+        "text": "actually want to take a moment to play"
+      },
+      {
+        "end": 1536.03,
+        "id": 329,
+        "is_music": false,
+        "start": 1532.078,
+        "text": "a little bit more music if I could because I want to go back in time we've"
+      },
+      {
+        "end": 1537.057,
+        "id": 330,
+        "is_music": false,
+        "start": 1536.031,
+        "text": "mentioned Jesus walks"
+      },
+      {
+        "end": 1543.073,
+        "id": 331,
+        "is_music": false,
+        "start": 1537.076,
+        "text": "a couple of times from 2004 from the college dropout album still just 15 years"
+      },
+      {
+        "end": 1550.056,
+        "id": 332,
+        "is_music": false,
+        "start": 1543.074,
+        "text": "later such an amazing song so let's hear it. Tell us about the struggle of."
+      },
+      {
+        "end": 1560.046,
+        "id": 333,
+        "is_music": false,
+        "start": 1553.067,
+        "text": "The way we. Want to."
+      },
+      {
+        "end": 1567.096,
+        "id": 334,
+        "is_music": false,
+        "start": 1561.096,
+        "text": "Go here. This role."
+      },
+      {
+        "end": 1576.09,
+        "id": 335,
+        "is_music": false,
+        "start": 1572.035,
+        "text": "To play the cover. You know with."
+      },
+      {
+        "end": 1585.071,
+        "id": 336,
+        "is_music": false,
+        "start": 1579.061,
+        "text": "The with. The. Thing with."
+      },
+      {
+        "end": 1596.035,
+        "id": 337,
+        "is_music": false,
+        "start": 1589.057,
+        "text": "The back to play. Jesus walks from 2004 now reading the guard."
+      },
+      {
+        "end": 1603.098,
+        "id": 338,
+        "is_music": false,
+        "start": 1597.042,
+        "text": "I think when we talk about Kanye and faith or hip hop and faith I think"
+      },
+      {
+        "end": 1608.024,
+        "id": 339,
+        "is_music": false,
+        "start": 1604.04,
+        "text": "do we in order to really have this conversation I think we need should we be"
+      },
+      {
+        "end": 1613.078,
+        "id": 340,
+        "is_music": false,
+        "start": 1608.025,
+        "text": "acknowledging maybe you did before but should we be acknowledging that what"
+      },
+      {
+        "end": 1617.056,
+        "id": 341,
+        "is_music": false,
+        "start": 1613.079,
+        "text": "Christianity in the African-American tradition mean specifically that you can't"
+      },
+      {
+        "end": 1622.043,
+        "id": 342,
+        "is_music": false,
+        "start": 1617.06,
+        "text": "divorce the social justice message fundamental to what Christianity ought to bring"
+      },
+      {
+        "end": 1629.024,
+        "id": 343,
+        "is_music": false,
+        "start": 1622.078,
+        "text": "from from when African-American musicians sing about Jesus can you."
+      },
+      {
+        "end": 1634.012,
+        "id": 344,
+        "is_music": false,
+        "start": 1630.049,
+        "text": "I personally don't think you can and I think that those that have tried to have"
+      },
+      {
+        "end": 1635.033,
+        "id": 345,
+        "is_music": false,
+        "start": 1634.013,
+        "text": "done so with"
+      },
+      {
+        "end": 1640.088,
+        "id": 346,
+        "is_music": false,
+        "start": 1635.037,
+        "text": "a lot of again criticism and maybe even with some consternation with that I mean up"
+      },
+      {
+        "end": 1645.048,
+        "id": 347,
+        "is_music": false,
+        "start": 1640.089,
+        "text": "front Christians in America are diverse or diverse and thought and again even"
+      },
+      {
+        "end": 1649.092,
+        "id": 348,
+        "is_music": false,
+        "start": 1645.049,
+        "text": "African-American Christians are diverse and thought obviously were not obviously"
+      },
+      {
+        "end": 1650.098,
+        "id": 349,
+        "is_music": false,
+        "start": 1649.093,
+        "text": "but for me you know I side"
+      },
+      {
+        "end": 1655.062,
+        "id": 350,
+        "is_music": false,
+        "start": 1650.099,
+        "text": "a little bit aside on the side of African-American Christian religious groups that"
+      },
+      {
+        "end": 1656.036,
+        "id": 351,
+        "is_music": false,
+        "start": 1655.07,
+        "text": "have a have"
+      },
+      {
+        "end": 1661.031,
+        "id": 352,
+        "is_music": false,
+        "start": 1656.037,
+        "text": "a preferential treatment and for says on social justice and so you know again in"
+      },
+      {
+        "end": 1664.05,
+        "id": 353,
+        "is_music": false,
+        "start": 1661.032,
+        "text": "the circles that I find myself in this is just been"
+      },
+      {
+        "end": 1667.077,
+        "id": 354,
+        "is_music": false,
+        "start": 1664.051,
+        "text": "a hard stop and this is more than just we need to cancel you know the council"
+      },
+      {
+        "end": 1674.004,
+        "id": 355,
+        "is_music": false,
+        "start": 1667.078,
+        "text": "culture of Kanye West but that is to say given the economic"
+      },
+      {
+        "end": 1679.079,
+        "id": 356,
+        "is_music": false,
+        "start": 1674.071,
+        "text": "political and the social realities of the vast majority of African-Americans and"
+      },
+      {
+        "end": 1685.06,
+        "id": 357,
+        "is_music": false,
+        "start": 1679.08,
+        "text": "blacks in this country we cannot do faith. You know our faith any justice if we"
+      },
+      {
+        "end": 1690.04,
+        "id": 358,
+        "is_music": false,
+        "start": 1685.061,
+        "text": "don't talk about those things and so that is why I think Kanye West got celebrated"
+      },
+      {
+        "end": 1694.096,
+        "id": 359,
+        "is_music": false,
+        "start": 1690.041,
+        "text": "so much when Jesus Walks came out I mean I want is going back in my head even as"
+      },
+      {
+        "end": 1700.058,
+        "id": 360,
+        "is_music": false,
+        "start": 1694.097,
+        "text": "a song was playing again about just how good black folk felt in the country because"
+      },
+      {
+        "end": 1703.084,
+        "id": 361,
+        "is_music": false,
+        "start": 1700.059,
+        "text": "it's like fine you know it's not so much finally But you know you know but"
+      },
+      {
+        "end": 1705.003,
+        "id": 362,
+        "is_music": false,
+        "start": 1703.092,
+        "text": "thankfully that stands in"
+      },
+      {
+        "end": 1711.06,
+        "id": 363,
+        "is_music": false,
+        "start": 1705.004,
+        "text": "a tradition of of African American social songs and social music and whatnot and"
+      },
+      {
+        "end": 1715.002,
+        "id": 364,
+        "is_music": false,
+        "start": 1711.061,
+        "text": "again I want to be clear and say that also hip hop music has always done this I"
+      },
+      {
+        "end": 1719.056,
+        "id": 365,
+        "is_music": false,
+        "start": 1715.003,
+        "text": "mean hip hop music hip hop artists have always brought their faith"
+      },
+      {
+        "end": 1723.076,
+        "id": 366,
+        "is_music": false,
+        "start": 1719.06,
+        "text": "a faith questions theological questions into the music I mean obviously to pot you"
+      },
+      {
+        "end": 1726.054,
+        "id": 367,
+        "is_music": false,
+        "start": 1723.077,
+        "text": "know I wonder have you got a ghetto like I mean that is"
+      },
+      {
+        "end": 1729.039,
+        "id": 368,
+        "is_music": false,
+        "start": 1726.055,
+        "text": "a tradition that you know Kanye West is"
+      },
+      {
+        "end": 1733.025,
+        "id": 369,
+        "is_music": false,
+        "start": 1729.04,
+        "text": "a part of but then again by the time we you know you know Jesus Walks falls in that"
+      },
+      {
+        "end": 1738.019,
+        "id": 370,
+        "is_music": false,
+        "start": 1733.026,
+        "text": "traditional Tupac but then by the time we get here it seems as though you take in"
+      },
+      {
+        "end": 1744.037,
+        "id": 371,
+        "is_music": false,
+        "start": 1738.053,
+        "text": "you know you've taken another pathway here I and it going it's feels dissonant for"
+      },
+      {
+        "end": 1746.029,
+        "id": 372,
+        "is_music": false,
+        "start": 1744.041,
+        "text": "a lot of African-American"
+      },
+      {
+        "end": 1749.065,
+        "id": 373,
+        "is_music": false,
+        "start": 1746.053,
+        "text": "a lot of African-Americans at this point and that's just looking on my Twitter page"
+      },
+      {
+        "end": 1754.016,
+        "id": 374,
+        "is_music": false,
+        "start": 1749.066,
+        "text": "and again having conversations in person as well and I can only imagine that you"
+      },
+      {
+        "end": 1759.002,
+        "id": 375,
+        "is_music": false,
+        "start": 1754.017,
+        "text": "know for some is like again he gets away with it because he says Jesus which again"
+      },
+      {
+        "end": 1763.008,
+        "id": 376,
+        "is_music": false,
+        "start": 1759.003,
+        "text": "I wouldn't say you know what not so much again but I think it also shows that"
+      },
+      {
+        "end": 1763.069,
+        "id": 377,
+        "is_music": false,
+        "start": 1763.009,
+        "text": "religion can be"
+      },
+      {
+        "end": 1769.02,
+        "id": 378,
+        "is_music": false,
+        "start": 1763.07,
+        "text": "a prop for these things and I think that is something that concerns me you know"
+      },
+      {
+        "end": 1772.008,
+        "id": 379,
+        "is_music": false,
+        "start": 1769.021,
+        "text": "using this white evangelicalism you know as"
+      },
+      {
+        "end": 1776.054,
+        "id": 380,
+        "is_music": false,
+        "start": 1772.009,
+        "text": "a prop because the church is that Kanye West is showing up at sure your song about"
+      },
+      {
+        "end": 1779.071,
+        "id": 381,
+        "is_music": false,
+        "start": 1776.055,
+        "text": "some African-American churches but the ones that are getting a lot of press and"
+      },
+      {
+        "end": 1784.087,
+        "id": 382,
+        "is_music": false,
+        "start": 1779.072,
+        "text": "a lot of play are these you know either fully white evangelical churches or white"
+      },
+      {
+        "end": 1788.059,
+        "id": 383,
+        "is_music": false,
+        "start": 1784.088,
+        "text": "evangelical adjacent and if that is what is informing his theology to produce"
+      },
+      {
+        "end": 1794.047,
+        "id": 384,
+        "is_music": false,
+        "start": 1788.06,
+        "text": "a song like this I have some questions and some critics about that Ok so let's we"
+      },
+      {
+        "end": 1801.044,
+        "id": 385,
+        "is_music": false,
+        "start": 1794.048,
+        "text": "heard Jesus Walks from 2004 let's listen to close on Sunday from the from"
+      },
+      {
+        "end": 1808.034,
+        "id": 386,
+        "is_music": false,
+        "start": 1801.066,
+        "text": "Jesus is King The latest album. And in this track Kanye sings. I guess an ode to"
+      },
+      {
+        "end": 1808.094,
+        "id": 387,
+        "is_music": false,
+        "start": 1808.043,
+        "text": "chick fil"
+      },
+      {
+        "end": 1825.042,
+        "id": 388,
+        "is_music": false,
+        "start": 1808.095,
+        "text": "a fast food restaurant which among many other things is closed on Sunday. Own"
+      },
+      {
+        "end": 1831.015,
+        "id": 389,
+        "is_music": false,
+        "start": 1825.043,
+        "text": "the selfies. But Grandma way. Family."
+      },
+      {
+        "end": 1840,
+        "id": 390,
+        "is_music": false,
+        "start": 1834.059,
+        "text": "When you. Watch out."
+      },
+      {
+        "end": 1849.01,
+        "id": 391,
+        "is_music": false,
+        "start": 1842.02,
+        "text": "Don't let. Me Close close on Sunday from Kanye West's latest album Jesus is King."
+      },
+      {
+        "end": 1854.022,
+        "id": 392,
+        "is_music": false,
+        "start": 1850.046,
+        "text": "Craig Jenkins when you hear that track what do you think."
+      },
+      {
+        "end": 1863.025,
+        "id": 393,
+        "is_music": false,
+        "start": 1858.07,
+        "text": "It's it's it's it's hokey it's silly in"
+      },
+      {
+        "end": 1868.085,
+        "id": 394,
+        "is_music": false,
+        "start": 1863.026,
+        "text": "a way that you know he used to be above. And it goes to show that he's really not"
+      },
+      {
+        "end": 1869.07,
+        "id": 395,
+        "is_music": false,
+        "start": 1868.086,
+        "text": "paying attention to"
+      },
+      {
+        "end": 1873.026,
+        "id": 396,
+        "is_music": false,
+        "start": 1869.071,
+        "text": "a lot of the cultural conversations that he didn't understand the blowback from"
+      },
+      {
+        "end": 1877.066,
+        "id": 397,
+        "is_music": false,
+        "start": 1873.027,
+        "text": "using that lyric you know the underpinning of you know sort of homophobia you know"
+      },
+      {
+        "end": 1880.026,
+        "id": 398,
+        "is_music": false,
+        "start": 1877.067,
+        "text": "the support of you know marriage being a man between"
+      },
+      {
+        "end": 1882.089,
+        "id": 399,
+        "is_music": false,
+        "start": 1880.027,
+        "text": "a woman those groups that you know people in the Chick fil"
+      },
+      {
+        "end": 1886.088,
+        "id": 400,
+        "is_music": false,
+        "start": 1882.09,
+        "text": "a you know leadership who supported He's doesn't understand that stuff and it's"
+      },
+      {
+        "end": 1891.066,
+        "id": 401,
+        "is_music": false,
+        "start": 1886.089,
+        "text": "just like. This isn't this is an album about faith in social consciousness it's"
+      },
+      {
+        "end": 1895.056,
+        "id": 402,
+        "is_music": false,
+        "start": 1891.067,
+        "text": "like divorced from sort of the ground level of the thing and that is something that"
+      },
+      {
+        "end": 1899.005,
+        "id": 403,
+        "is_music": false,
+        "start": 1895.057,
+        "text": "he expressed I thought rather intelligently and he just walks I think that that"
+      },
+      {
+        "end": 1903.061,
+        "id": 404,
+        "is_music": false,
+        "start": 1899.006,
+        "text": "song definitely you know achieve the mission that this album is attempting to much"
+      },
+      {
+        "end": 1904.011,
+        "id": 405,
+        "is_music": false,
+        "start": 1903.062,
+        "text": "better in"
+      },
+      {
+        "end": 1908.063,
+        "id": 406,
+        "is_music": false,
+        "start": 1904.012,
+        "text": "a much more like approachable way and that's what I if I could just jump in here I"
+      },
+      {
+        "end": 1914.081,
+        "id": 407,
+        "is_music": false,
+        "start": 1908.064,
+        "text": "mean perhaps. I can't speak for Kanye not knowing can he can only speak for himself"
+      },
+      {
+        "end": 1919.007,
+        "id": 408,
+        "is_music": false,
+        "start": 1914.082,
+        "text": "but perhaps he just doesn't care right I mean you said Faith in social"
+      },
+      {
+        "end": 1923.05,
+        "id": 409,
+        "is_music": false,
+        "start": 1919.008,
+        "text": "consciousness maybe for him this is an album of faith and his personal"
+      },
+      {
+        "end": 1929.051,
+        "id": 410,
+        "is_music": false,
+        "start": 1923.054,
+        "text": "consciousness so you know are we are we putting too much on. Hip hop stars to say"
+      },
+      {
+        "end": 1931.091,
+        "id": 411,
+        "is_music": false,
+        "start": 1929.052,
+        "text": "that their music must always professed"
+      },
+      {
+        "end": 1937,
+        "id": 412,
+        "is_music": false,
+        "start": 1931.092,
+        "text": "a kind of social consciousness Well his stated mission was to spread the gospel in"
+      },
+      {
+        "end": 1940.053,
+        "id": 413,
+        "is_music": false,
+        "start": 1937.001,
+        "text": "the thing and so if his mission is to get across to people then he ought to be"
+      },
+      {
+        "end": 1944.065,
+        "id": 414,
+        "is_music": false,
+        "start": 1940.054,
+        "text": "speaking in terms of understand in not talking about Instagram just bills trying to"
+      },
+      {
+        "end": 1948.069,
+        "id": 415,
+        "is_music": false,
+        "start": 1944.077,
+        "text": "you know take people under the table I don't really get who this is for this music"
+      },
+      {
+        "end": 1953.079,
+        "id": 416,
+        "is_music": false,
+        "start": 1949.006,
+        "text": "it sounds like it's for him Reverend is already think I fully concur with"
+      },
+      {
+        "end": 1959.059,
+        "id": 417,
+        "is_music": false,
+        "start": 1953.08,
+        "text": "everything Craig just said the only thing I would add to that is I try to stay away"
+      },
+      {
+        "end": 1963.037,
+        "id": 418,
+        "is_music": false,
+        "start": 1959.06,
+        "text": "from you know ad hominem attacks of celebrities such as this for that exact reason"
+      },
+      {
+        "end": 1968.039,
+        "id": 419,
+        "is_music": false,
+        "start": 1963.045,
+        "text": "I don't know what he really thinks I haven't talked to the to the brother. But what"
+      },
+      {
+        "end": 1973.03,
+        "id": 420,
+        "is_music": false,
+        "start": 1968.04,
+        "text": "we have is what he's produced and what he produces in the public and if we want to"
+      },
+      {
+        "end": 1977.094,
+        "id": 421,
+        "is_music": false,
+        "start": 1973.031,
+        "text": "have fair and fair and balanced and you know conversations about these things this"
+      },
+      {
+        "end": 1981.093,
+        "id": 422,
+        "is_music": false,
+        "start": 1977.095,
+        "text": "is on the table this is worthy of critique and worthy of discussion Well we are"
+      },
+      {
+        "end": 1985.082,
+        "id": 423,
+        "is_music": false,
+        "start": 1981.094,
+        "text": "talking this hour we're discussing we're critiquing we're exploring Kanye West's"
+      },
+      {
+        "end": 1991.002,
+        "id": 424,
+        "is_music": false,
+        "start": 1985.083,
+        "text": "latest album Jesus is King I'm talking with Reverend Joshua Lazard and Craig"
+      },
+      {
+        "end": 1994.072,
+        "id": 425,
+        "is_music": false,
+        "start": 1991.003,
+        "text": "Jenkins as well we want to hear from you what do you think of the album what do you"
+      },
+      {
+        "end": 2000.057,
+        "id": 426,
+        "is_music": false,
+        "start": 1994.073,
+        "text": "think of Kanye is full embrace of Christianity putting it right at the center of"
+      },
+      {
+        "end": 2007.056,
+        "id": 427,
+        "is_music": false,
+        "start": 2000.058,
+        "text": "this latest album we're at 184-3855 that's 80423 talk we'll go into the break with"
+      },
+      {
+        "end": 2011.001,
+        "id": 428,
+        "is_music": false,
+        "start": 2007.082,
+        "text": "him. On God from Jesus is King this is on point."
+      },
+      {
+        "end": 2061.9319727891,
+        "id": 429,
+        "is_music": true,
+        "start": 2015.1205442177,
+        "text": ""
+      },
+      {
+        "end": 2071.089,
+        "id": 430,
+        "is_music": false,
+        "start": 2067.013,
+        "text": "Good morning I'm Kelly steel This is on point on Delaware public media support for"
+      },
+      {
+        "end": 2073.048,
+        "id": 431,
+        "is_music": false,
+        "start": 2071.09,
+        "text": "Delaware public media comes from Christian"
+      },
+      {
+        "end": 2078.023,
+        "id": 432,
+        "is_music": false,
+        "start": 2073.049,
+        "text": "a care as doctors nurses and caregivers and as neighbors and friends Christiana"
+      },
+      {
+        "end": 2078.062,
+        "id": 433,
+        "is_music": false,
+        "start": 2078.024,
+        "text": "Care is"
+      },
+      {
+        "end": 2082.045,
+        "id": 434,
+        "is_music": false,
+        "start": 2078.063,
+        "text": "a partner in everyone's journey to greater health and well being why do they do it"
+      },
+      {
+        "end": 2088.05,
+        "id": 435,
+        "is_music": false,
+        "start": 2082.067,
+        "text": "for the love of health. Break to day is"
+      },
+      {
+        "end": 2095.063,
+        "id": 436,
+        "is_music": false,
+        "start": 2088.072,
+        "text": "a very strange holiday it's fun to do it refrigerator night. Ok that may be"
+      },
+      {
+        "end": 2098.075,
+        "id": 437,
+        "is_music": false,
+        "start": 2095.064,
+        "text": "a little harsh but let's face it. There isn't"
+      },
+      {
+        "end": 2102.004,
+        "id": 438,
+        "is_music": false,
+        "start": 2098.076,
+        "text": "a huge amount of things you can do with certain leftovers and sometimes you forget"
+      },
+      {
+        "end": 2103.003,
+        "id": 439,
+        "is_music": false,
+        "start": 2102.005,
+        "text": "about them in the face of"
+      },
+      {
+        "end": 2108.027,
+        "id": 440,
+        "is_music": false,
+        "start": 2103.004,
+        "text": "a fresher meal so when you forget about those leftovers you can well rest assured"
+      },
+      {
+        "end": 2112.086,
+        "id": 441,
+        "is_music": false,
+        "start": 2108.028,
+        "text": "they certainly haven't forgotten about you instead they sit lurking in the back of"
+      },
+      {
+        "end": 2119.074,
+        "id": 442,
+        "is_music": false,
+        "start": 2112.087,
+        "text": "your fridge waiting for you to delve into its darkest corners. And will unleash"
+      },
+      {
+        "end": 2125,
+        "id": 443,
+        "is_music": false,
+        "start": 2119.075,
+        "text": "the disgusting rotten mess that lurks within those Tupperware containers."
+      },
+      {
+        "end": 2132.056,
+        "id": 444,
+        "is_music": false,
+        "start": 2126.094,
+        "text": "Today or tonight haunted refrigerator night is time for you to touch on your"
+      },
+      {
+        "end": 2138.076,
+        "id": 445,
+        "is_music": false,
+        "start": 2132.057,
+        "text": "protective gear grab your proton pack and plus the ghost of dinners past that still"
+      },
+      {
+        "end": 2143.07,
+        "id": 446,
+        "is_music": false,
+        "start": 2138.077,
+        "text": "lurked in your refrigerator see this never happens to me because once"
+      },
+      {
+        "end": 2149.068,
+        "id": 447,
+        "is_music": false,
+        "start": 2143.071,
+        "text": "a week on Sundays during the day. I clean out my refrigerator."
+      },
+      {
+        "end": 2163.053,
+        "id": 448,
+        "is_music": false,
+        "start": 2159.009,
+        "text": "Support for on point comes from new mom freeing up personalized weight loss program"
+      },
+      {
+        "end": 2166.039,
+        "id": 449,
+        "is_music": false,
+        "start": 2163.072,
+        "text": "based on a cognitive behavioral approach with"
+      },
+      {
+        "end": 2172,
+        "id": 450,
+        "is_music": false,
+        "start": 2166.04,
+        "text": "a goal of losing weight and keeping it off for good learn more at noon and 0 am dot"
+      },
+      {
+        "end": 2177.016,
+        "id": 451,
+        "is_music": false,
+        "start": 2172.001,
+        "text": "com and Home Advisor matching homeowners with home improvement professionals for"
+      },
+      {
+        "end": 2182.041,
+        "id": 452,
+        "is_music": false,
+        "start": 2177.017,
+        "text": "a variety of home projects from minor repairs to major remodels homeowners can read"
+      },
+      {
+        "end": 2187.088,
+        "id": 453,
+        "is_music": false,
+        "start": 2182.042,
+        "text": "reviews of local pros and book appointments online at Home Advisor dot com."
+      },
+      {
+        "end": 2208.064,
+        "id": 454,
+        "is_music": false,
+        "start": 2204.01,
+        "text": "Switches switching. Going still just"
+      },
+      {
+        "end": 2214.008,
+        "id": 455,
+        "is_music": false,
+        "start": 2208.065,
+        "text": "a different attitude. This is 1.0 magnitude preferred he and you're listening to"
+      },
+      {
+        "end": 2219.081,
+        "id": 456,
+        "is_music": false,
+        "start": 2214.009,
+        "text": "everything we need off Kanye West latest album Jesus is King and for talking about"
+      },
+      {
+        "end": 2225.096,
+        "id": 457,
+        "is_music": false,
+        "start": 2219.082,
+        "text": "Kanye this hour in his embrace of Christianity and the risks that musicians take"
+      },
+      {
+        "end": 2231.098,
+        "id": 458,
+        "is_music": false,
+        "start": 2225.097,
+        "text": "when they shed the secular and turn completely to religious inspirations for their"
+      },
+      {
+        "end": 2238.064,
+        "id": 459,
+        "is_music": false,
+        "start": 2231.099,
+        "text": "music 184-3855 that's 843 talking I'm joined today by Reverend Joshua Lazard"
+      },
+      {
+        "end": 2240.09,
+        "id": 460,
+        "is_music": false,
+        "start": 2238.076,
+        "text": "He's with us from Chapel Hill North Carolina he's"
+      },
+      {
+        "end": 2245.07,
+        "id": 461,
+        "is_music": false,
+        "start": 2240.091,
+        "text": "a minister at Duke University Chapel advisor to Duke University student gospel"
+      },
+      {
+        "end": 2250.05,
+        "id": 462,
+        "is_music": false,
+        "start": 2245.071,
+        "text": "choir called United in praise and Craig Jenkins joins us from New York he's"
+      },
+      {
+        "end": 2254.043,
+        "id": 463,
+        "is_music": false,
+        "start": 2250.051,
+        "text": "a music critic at Vulture and we've got links to Craig's reporting on Carney's"
+      },
+      {
+        "end": 2259.04,
+        "id": 464,
+        "is_music": false,
+        "start": 2254.044,
+        "text": "latest album those links are on point Radio dot org Let's go to Aman Ray who's"
+      },
+      {
+        "end": 2265.094,
+        "id": 465,
+        "is_music": false,
+        "start": 2259.041,
+        "text": "calling from Buffalo New York you're on the air oh yes. Enjoying the"
+      },
+      {
+        "end": 2272.093,
+        "id": 466,
+        "is_music": false,
+        "start": 2265.095,
+        "text": "show great conversation. But you know"
+      },
+      {
+        "end": 2280.002,
+        "id": 467,
+        "is_music": false,
+        "start": 2273.039,
+        "text": "my comment on can you tell me I think it's I think it's great I think it's great."
+      },
+      {
+        "end": 2290.017,
+        "id": 468,
+        "is_music": false,
+        "start": 2285.061,
+        "text": "What he's growing into what I mean by that is you know he's"
+      },
+      {
+        "end": 2297.014,
+        "id": 469,
+        "is_music": false,
+        "start": 2290.018,
+        "text": "a new Christian and so I could hear it in its lyrics. You know it's not"
+      },
+      {
+        "end": 2305.011,
+        "id": 470,
+        "is_music": false,
+        "start": 2298.072,
+        "text": "where you should be. If I had any criticism I would"
+      },
+      {
+        "end": 2311.037,
+        "id": 471,
+        "is_music": false,
+        "start": 2305.04,
+        "text": "say less rapping and. Having more of the choir."
+      },
+      {
+        "end": 2317.059,
+        "id": 472,
+        "is_music": false,
+        "start": 2313.076,
+        "text": "If I had anything to say but you know what as"
+      },
+      {
+        "end": 2323.065,
+        "id": 473,
+        "is_music": false,
+        "start": 2317.06,
+        "text": "a Christian myself having. Young adult children."
+      },
+      {
+        "end": 2332.05,
+        "id": 474,
+        "is_music": false,
+        "start": 2325.074,
+        "text": "And being around you. I think it's important that. We"
+      },
+      {
+        "end": 2338.025,
+        "id": 475,
+        "is_music": false,
+        "start": 2332.051,
+        "text": "try to be positive as Christians. Yet be critical but be positive all at the same"
+      },
+      {
+        "end": 2342.01,
+        "id": 476,
+        "is_music": false,
+        "start": 2338.026,
+        "text": "time well thank you so much for your call and let's go to Spencer who's calling"
+      },
+      {
+        "end": 2347.015,
+        "id": 477,
+        "is_music": false,
+        "start": 2342.011,
+        "text": "from Richmond Virginia Spencer you're on the air. Thanks for taking my call"
+      },
+      {
+        "end": 2351.074,
+        "id": 478,
+        "is_music": false,
+        "start": 2347.068,
+        "text": "something I just wanted to mention we know that Kanye music has been there laced"
+      },
+      {
+        "end": 2356.099,
+        "id": 479,
+        "is_music": false,
+        "start": 2351.078,
+        "text": "with the Christian element pretty much the suction back in the early 2000 but one"
+      },
+      {
+        "end": 2360.049,
+        "id": 480,
+        "is_music": false,
+        "start": 2357,
+        "text": "thing I did want to mention is last year he came out with a he was working on"
+      },
+      {
+        "end": 2365.001,
+        "id": 481,
+        "is_music": false,
+        "start": 2360.05,
+        "text": "a project called Jante which is actually mentioned in the song the law on this"
+      },
+      {
+        "end": 2370.049,
+        "id": 482,
+        "is_music": false,
+        "start": 2365.002,
+        "text": "current album thing that they wanted yon the they put it through the laundry and"
+      },
+      {
+        "end": 2374.064,
+        "id": 483,
+        "is_music": false,
+        "start": 2370.076,
+        "text": "this project was something he was developing and it was similar in length and I"
+      },
+      {
+        "end": 2377.086,
+        "id": 484,
+        "is_music": false,
+        "start": 2374.065,
+        "text": "actually used a lot of the same beat an element and for"
+      },
+      {
+        "end": 2382.059,
+        "id": 485,
+        "is_music": false,
+        "start": 2377.087,
+        "text": "a song and for an album that actually wasn't released it was really well 1 done in"
+      },
+      {
+        "end": 2385.067,
+        "id": 486,
+        "is_music": false,
+        "start": 2382.06,
+        "text": "my opinion of the Kanye West fan and I actually enjoyed it"
+      },
+      {
+        "end": 2390.092,
+        "id": 487,
+        "is_music": false,
+        "start": 2385.068,
+        "text": "a lot more Again this is an unreleased Mark Lee and it just kind of overall"
+      },
+      {
+        "end": 2396.053,
+        "id": 488,
+        "is_music": false,
+        "start": 2390.093,
+        "text": "disappoints me with what kind of came out recently with Jesus is King and it kind"
+      },
+      {
+        "end": 2401.05,
+        "id": 489,
+        "is_music": false,
+        "start": 2396.054,
+        "text": "of makes me wonder how he took many elements you can hear it in both out very"
+      },
+      {
+        "end": 2406.057,
+        "id": 490,
+        "is_music": false,
+        "start": 2401.051,
+        "text": "similar beats very similar tone and you know he go ahead and transitions it into"
+      },
+      {
+        "end": 2411.073,
+        "id": 491,
+        "is_music": false,
+        "start": 2406.058,
+        "text": "Christian lyrics and Christian singing and whatnot and I just wonder if it was made"
+      },
+      {
+        "end": 2418.019,
+        "id": 492,
+        "is_music": false,
+        "start": 2411.09,
+        "text": "maybe not to capitalize on his you know overall switch into the Christian realm you"
+      },
+      {
+        "end": 2422.065,
+        "id": 493,
+        "is_music": false,
+        "start": 2418.02,
+        "text": "know make music for Christians if they're right but I just wondered why why this"
+      },
+      {
+        "end": 2427.004,
+        "id": 494,
+        "is_music": false,
+        "start": 2422.066,
+        "text": "project he was making back and funny in with so much more refined and developed"
+      },
+      {
+        "end": 2431.016,
+        "id": 495,
+        "is_music": false,
+        "start": 2427.024,
+        "text": "compared to what came out recently on the scale Ok great question Spencer thank you"
+      },
+      {
+        "end": 2435.025,
+        "id": 496,
+        "is_music": false,
+        "start": 2431.017,
+        "text": "so much for your call Craig Jenkins even answer form I don't know if I want to see"
+      },
+      {
+        "end": 2438.051,
+        "id": 497,
+        "is_music": false,
+        "start": 2435.026,
+        "text": "the new stuff was necessarily refined but it definitely had"
+      },
+      {
+        "end": 2440.067,
+        "id": 498,
+        "is_music": false,
+        "start": 2438.052,
+        "text": "a very specific character and"
+      },
+      {
+        "end": 2445.025,
+        "id": 499,
+        "is_music": false,
+        "start": 2440.068,
+        "text": "a lot of that stuff was sort of given Christian wallpaper with this record there's"
+      },
+      {
+        "end": 2448.097,
+        "id": 500,
+        "is_music": false,
+        "start": 2445.026,
+        "text": "definitely songs that had lyrics change and songs that had different aspects than"
+      },
+      {
+        "end": 2454.002,
+        "id": 501,
+        "is_music": false,
+        "start": 2448.098,
+        "text": "they do now but. Yeah and I got to speak the newness of this whole thing and how"
+      },
+      {
+        "end": 2458.046,
+        "id": 502,
+        "is_music": false,
+        "start": 2454.003,
+        "text": "quickly you know this is coming around and maybe that's also at the root of why it"
+      },
+      {
+        "end": 2460.068,
+        "id": 503,
+        "is_music": false,
+        "start": 2458.047,
+        "text": "sounds kind of like philosophically"
+      },
+      {
+        "end": 2464.082,
+        "id": 504,
+        "is_music": false,
+        "start": 2460.094,
+        "text": "a little bit out of pocket is that it's still coming together form whether it does"
+      },
+      {
+        "end": 2469.036,
+        "id": 505,
+        "is_music": false,
+        "start": 2464.083,
+        "text": "or not in the couple of years because the guy to which they still Ok I want to turn"
+      },
+      {
+        "end": 2470.06,
+        "id": 506,
+        "is_music": false,
+        "start": 2469.037,
+        "text": "for a 2nd and talk for"
+      },
+      {
+        "end": 2476.052,
+        "id": 507,
+        "is_music": false,
+        "start": 2470.061,
+        "text": "a minute about how in the album in Jesus is King Kanye does show an awareness of"
+      },
+      {
+        "end": 2482.004,
+        "id": 508,
+        "is_music": false,
+        "start": 2476.053,
+        "text": "the criticisms that have been levied against him 1st of all I mean for example"
+      },
+      {
+        "end": 2486.095,
+        "id": 509,
+        "is_music": false,
+        "start": 2482.005,
+        "text": "Reverend Lazard you did mention that that Kanye he famously or infamously said that"
+      },
+      {
+        "end": 2491.037,
+        "id": 510,
+        "is_music": false,
+        "start": 2486.096,
+        "text": "he wanted to believe that the 13th Amendment that brought an end to slavery ought"
+      },
+      {
+        "end": 2497.015,
+        "id": 511,
+        "is_music": false,
+        "start": 2491.038,
+        "text": "to be abolished and for example here's 1st of all the moment where Kanye West said"
+      },
+      {
+        "end": 2500.017,
+        "id": 512,
+        "is_music": false,
+        "start": 2497.016,
+        "text": "that it was during a meeting with President Trump in the oval office"
+      },
+      {
+        "end": 2506.06,
+        "id": 513,
+        "is_music": false,
+        "start": 2500.021,
+        "text": "a year ago or one of the moments and here's what Kanye West said there's"
+      },
+      {
+        "end": 2511.011,
+        "id": 514,
+        "is_music": false,
+        "start": 2506.061,
+        "text": "a lot of things that come in to help that makes us do crazy things that puts us"
+      },
+      {
+        "end": 2517.074,
+        "id": 515,
+        "is_music": false,
+        "start": 2511.012,
+        "text": "back into that crowd who were there. I've been saying all of that while he sat"
+      },
+      {
+        "end": 2518.02,
+        "id": 516,
+        "is_music": false,
+        "start": 2517.075,
+        "text": "around that's"
+      },
+      {
+        "end": 2523.042,
+        "id": 517,
+        "is_music": false,
+        "start": 2518.021,
+        "text": "a trap door if you feel enough for the Constitution the face of our our fisheries"
+      },
+      {
+        "end": 2529.002,
+        "id": 518,
+        "is_music": false,
+        "start": 2523.043,
+        "text": "right out of our car you're our company would you feel trapped or if you mess up"
+      },
+      {
+        "end": 2534.06,
+        "id": 519,
+        "is_music": false,
+        "start": 2529.003,
+        "text": "you will be so happy for you both and you're going to live on so that's Kanye West"
+      },
+      {
+        "end": 2540.038,
+        "id": 520,
+        "is_music": false,
+        "start": 2534.061,
+        "text": "last year in the Oval Office now on the album Jesus is King There's"
+      },
+      {
+        "end": 2546.071,
+        "id": 521,
+        "is_music": false,
+        "start": 2540.039,
+        "text": "a track called Hands on featuring gospel singer Fred Hammond and Kanye takes on the"
+      },
+      {
+        "end": 2552.033,
+        "id": 522,
+        "is_music": false,
+        "start": 2546.072,
+        "text": "criticism of his turn towards Christianity and he returns to this debate about the"
+      },
+      {
+        "end": 2553.068,
+        "id": 523,
+        "is_music": false,
+        "start": 2552.048,
+        "text": "well I wouldn't call it"
+      },
+      {
+        "end": 2557.027,
+        "id": 524,
+        "is_music": false,
+        "start": 2553.069,
+        "text": "a debate about the 13th Amendment but the debate over his view on the 13th"
+      },
+      {
+        "end": 2563.014,
+        "id": 525,
+        "is_music": false,
+        "start": 2557.028,
+        "text": "Amendment. To the amendment 3 strikes made him laugh when I showed him"
+      },
+      {
+        "end": 2569.045,
+        "id": 526,
+        "is_music": false,
+        "start": 2563.015,
+        "text": "a toe right. That I'm going on"
+      },
+      {
+        "end": 2576.021,
+        "id": 527,
+        "is_music": false,
+        "start": 2569.046,
+        "text": "a strike told. When I see him. I've been working for you're my whole life"
+      },
+      {
+        "end": 2583.093,
+        "id": 528,
+        "is_music": false,
+        "start": 2576.096,
+        "text": "to the temple that I'm going to strike I don't work. Them"
+      },
+      {
+        "end": 2584.051,
+        "id": 529,
+        "is_music": false,
+        "start": 2583.094,
+        "text": "worse than"
+      },
+      {
+        "end": 2591.079,
+        "id": 530,
+        "is_music": false,
+        "start": 2584.052,
+        "text": "a hypocrite. Change. Try to get permission"
+      },
+      {
+        "end": 2596.041,
+        "id": 531,
+        "is_music": false,
+        "start": 2591.079,
+        "text": ". By sin they. Said I've been"
+      },
+      {
+        "end": 2603.038,
+        "id": 532,
+        "is_music": false,
+        "start": 2596.042,
+        "text": "a dual gospel album what are you being from the Christians. Be the 1st one to"
+      },
+      {
+        "end": 2610.031,
+        "id": 533,
+        "is_music": false,
+        "start": 2603.039,
+        "text": "judge me make it good like nobody loves me. Be the 1st one to judge me"
+      },
+      {
+        "end": 2618,
+        "id": 534,
+        "is_music": false,
+        "start": 2611.014,
+        "text": "feelin like nobody loves me. It's hands on one Kanye"
+      },
+      {
+        "end": 2623.037,
+        "id": 535,
+        "is_music": false,
+        "start": 2618.001,
+        "text": "West album Jesus is King No Reverend Mozart I'm not saying that Carney is speaking"
+      },
+      {
+        "end": 2628.081,
+        "id": 536,
+        "is_music": false,
+        "start": 2623.038,
+        "text": "to you directly to her but he's talking about the criticism that he anticipated"
+      },
+      {
+        "end": 2633.035,
+        "id": 537,
+        "is_music": false,
+        "start": 2628.085,
+        "text": "from the Christian community what do you think. I think privilege Christians like"
+      },
+      {
+        "end": 2638.009,
+        "id": 538,
+        "is_music": false,
+        "start": 2633.036,
+        "text": "to play the victim all the time and I think that's all that that's going on right"
+      },
+      {
+        "end": 2642.039,
+        "id": 539,
+        "is_music": false,
+        "start": 2638.01,
+        "text": "there he knew it was coming because he knew it was coming and I think he speaks"
+      },
+      {
+        "end": 2642.054,
+        "id": 540,
+        "is_music": false,
+        "start": 2642.04,
+        "text": "from"
+      },
+      {
+        "end": 2646.054,
+        "id": 541,
+        "is_music": false,
+        "start": 2642.055,
+        "text": "a place of privilege he knows that he will be insulated in some way still be insulated"
+      },
+      {
+        "end": 2650.043,
+        "id": 542,
+        "is_music": false,
+        "start": 2646.055,
+        "text": "because of the way capitalism works insulated because of the way the industry works"
+      },
+      {
+        "end": 2656.093,
+        "id": 543,
+        "is_music": false,
+        "start": 2650.043,
+        "text": ". That all of these criticisms will essentially just be white noise for him and I"
+      },
+      {
+        "end": 2659.034,
+        "id": 544,
+        "is_music": false,
+        "start": 2656.094,
+        "text": "think again we have to be able to find"
+      },
+      {
+        "end": 2662.06,
+        "id": 545,
+        "is_music": false,
+        "start": 2659.035,
+        "text": "a way that when you say these things and you make"
+      },
+      {
+        "end": 2664.044,
+        "id": 546,
+        "is_music": false,
+        "start": 2662.061,
+        "text": "a rambling statement that includes"
+      },
+      {
+        "end": 2669.014,
+        "id": 547,
+        "is_music": false,
+        "start": 2664.045,
+        "text": "a statement about the Unabomber and the one that you just played. I'll listen to it"
+      },
+      {
+        "end": 2672.099,
+        "id": 548,
+        "is_music": false,
+        "start": 2669.015,
+        "text": "and I sometimes wonder that I understand what he said and I don't mean that"
+      },
+      {
+        "end": 2677.08,
+        "id": 549,
+        "is_music": false,
+        "start": 2673,
+        "text": "sarcastically but you know at times I'm I'm really confused what he says it almost"
+      },
+      {
+        "end": 2678.027,
+        "id": 550,
+        "is_music": false,
+        "start": 2677.081,
+        "text": "sounds like"
+      },
+      {
+        "end": 2684.028,
+        "id": 551,
+        "is_music": false,
+        "start": 2678.028,
+        "text": "a ramble he speaks and non-secular tours I feel at times that the album are just"
+      },
+      {
+        "end": 2687.078,
+        "id": 552,
+        "is_music": false,
+        "start": 2684.05,
+        "text": "one like just one liners that he just puts together and puts"
+      },
+      {
+        "end": 2693.084,
+        "id": 553,
+        "is_music": false,
+        "start": 2687.079,
+        "text": "a beat on to it and even I question that because I ask myself in my understanding"
+      },
+      {
+        "end": 2698.013,
+        "id": 554,
+        "is_music": false,
+        "start": 2693.085,
+        "text": "him other people understanding him and then again he knows that the criticism is"
+      },
+      {
+        "end": 2702.059,
+        "id": 555,
+        "is_music": false,
+        "start": 2698.014,
+        "text": "coming and I think that is something that you know white evangelicals do again so"
+      },
+      {
+        "end": 2702.078,
+        "id": 556,
+        "is_music": false,
+        "start": 2702.06,
+        "text": "that's"
+      },
+      {
+        "end": 2706.02,
+        "id": 557,
+        "is_music": false,
+        "start": 2702.079,
+        "text": "a community that this is also going to getting some traction from because they see"
+      },
+      {
+        "end": 2711.044,
+        "id": 558,
+        "is_music": false,
+        "start": 2706.021,
+        "text": "themselves as persecuted persecuted Christians as persecuted really you know"
+      },
+      {
+        "end": 2714.094,
+        "id": 559,
+        "is_music": false,
+        "start": 2711.048,
+        "text": "religious people here in the country because of again you know social climate and"
+      },
+      {
+        "end": 2720.074,
+        "id": 560,
+        "is_music": false,
+        "start": 2714.095,
+        "text": "whatnot and when when Kanye says that it's kind of like. Cringe worthy to say the"
+      },
+      {
+        "end": 2726.036,
+        "id": 561,
+        "is_music": false,
+        "start": 2720.075,
+        "text": "least Craig your take 2 things the 1st I think that what he's trying to get at when"
+      },
+      {
+        "end": 2731.04,
+        "id": 562,
+        "is_music": false,
+        "start": 2726.037,
+        "text": "he speaks about the 13th amendment however like not clearly that he's doing it is"
+      },
+      {
+        "end": 2735.093,
+        "id": 563,
+        "is_music": false,
+        "start": 2731.041,
+        "text": "that there's language in the 13th Amendment that allows for involuntary servitude"
+      },
+      {
+        "end": 2736.074,
+        "id": 564,
+        "is_music": false,
+        "start": 2735.094,
+        "text": "as long as it is in"
+      },
+      {
+        "end": 2740.042,
+        "id": 565,
+        "is_music": false,
+        "start": 2736.075,
+        "text": "a punitive you want to punishment sort of situation so I think that's why sniffing"
+      },
+      {
+        "end": 2743.018,
+        "id": 566,
+        "is_music": false,
+        "start": 2740.043,
+        "text": "around the president and that's why him and Cameron you know sticking their necks"
+      },
+      {
+        "end": 2746.008,
+        "id": 567,
+        "is_music": false,
+        "start": 2743.019,
+        "text": "out for President form I think that they believe that they're going to get some"
+      },
+      {
+        "end": 2749.053,
+        "id": 568,
+        "is_music": false,
+        "start": 2746.009,
+        "text": "kind of action to trump and they've got and you know token gestures from them so I"
+      },
+      {
+        "end": 2752.071,
+        "id": 569,
+        "is_music": false,
+        "start": 2749.054,
+        "text": "think that's what that is he's not sitting. So clearly because he probably doesn't"
+      },
+      {
+        "end": 2757.004,
+        "id": 570,
+        "is_music": false,
+        "start": 2752.072,
+        "text": "read that clearly as he's told us on the other thing is the kind of someone who is"
+      },
+      {
+        "end": 2761.029,
+        "id": 571,
+        "is_music": false,
+        "start": 2757.005,
+        "text": "hard wired to sort of do things that people tell him not to and he's hard wired to"
+      },
+      {
+        "end": 2764.096,
+        "id": 572,
+        "is_music": false,
+        "start": 2761.049,
+        "text": "not listen to when people tell him that he can't do things and so in"
+      },
+      {
+        "end": 2769.035,
+        "id": 573,
+        "is_music": false,
+        "start": 2765.015,
+        "text": "a certain aspect this Christianity thing is another they told me not to do this but"
+      },
+      {
+        "end": 2773.009,
+        "id": 574,
+        "is_music": false,
+        "start": 2769.036,
+        "text": "I'm doing it thing in the same way that his Trump ism was in the same way that you"
+      },
+      {
+        "end": 2777.027,
+        "id": 575,
+        "is_music": false,
+        "start": 2773.01,
+        "text": "know he was not told he was told he shouldn't wreck at the beginning of his career"
+      },
+      {
+        "end": 2780.077,
+        "id": 576,
+        "is_music": false,
+        "start": 2777.047,
+        "text": "so he sees himself as constantly you know jumping over these hurdles that people"
+      },
+      {
+        "end": 2782.046,
+        "id": 577,
+        "is_music": false,
+        "start": 2780.078,
+        "text": "are sitting in front of them in that kind of gives him"
+      },
+      {
+        "end": 2786.083,
+        "id": 578,
+        "is_music": false,
+        "start": 2782.047,
+        "text": "a complex if I could really if I could quickly add to that I think that is why"
+      },
+      {
+        "end": 2790.009,
+        "id": 579,
+        "is_music": false,
+        "start": 2787.005,
+        "text": "Trump and Kanye West are 2 peas in a pod I think there's"
+      },
+      {
+        "end": 2795.038,
+        "id": 580,
+        "is_music": false,
+        "start": 2790.077,
+        "text": "a chance of both of them personality wise that they both get each other and I think"
+      },
+      {
+        "end": 2796.035,
+        "id": 581,
+        "is_music": false,
+        "start": 2795.039,
+        "text": "this is what we're getting as"
+      },
+      {
+        "end": 2801.044,
+        "id": 582,
+        "is_music": false,
+        "start": 2796.036,
+        "text": "a result of that. You know I am not sure the county knows that much about trump"
+      },
+      {
+        "end": 2804.063,
+        "id": 583,
+        "is_music": false,
+        "start": 2801.045,
+        "text": "politics beyond that I remember once he caught him in"
+      },
+      {
+        "end": 2808.046,
+        "id": 584,
+        "is_music": false,
+        "start": 2804.064,
+        "text": "a room and started talking to him and he just wasn't aware of the policies that you"
+      },
+      {
+        "end": 2812.086,
+        "id": 585,
+        "is_music": false,
+        "start": 2808.047,
+        "text": "know he I was listening off to him I think that the kids were scared yeah that's"
+      },
+      {
+        "end": 2815.068,
+        "id": 586,
+        "is_music": false,
+        "start": 2812.087,
+        "text": "what Yeah that's what that's what that is what I'll say the policies not"
+      },
+      {
+        "end": 2820.065,
+        "id": 587,
+        "is_music": false,
+        "start": 2815.069,
+        "text": "withstanding just personality wise these 2 get each other you know if I can I just"
+      },
+      {
+        "end": 2823.027,
+        "id": 588,
+        "is_music": false,
+        "start": 2820.066,
+        "text": "want to turn to it gears for"
+      },
+      {
+        "end": 2827.045,
+        "id": 589,
+        "is_music": false,
+        "start": 2823.028,
+        "text": "a 2nd here because one thing that we haven't talked about and Kanye West himself"
+      },
+      {
+        "end": 2832.012,
+        "id": 590,
+        "is_music": false,
+        "start": 2827.046,
+        "text": "has been very open about about his struggles with mental health right and and I"
+      },
+      {
+        "end": 2834.036,
+        "id": 591,
+        "is_music": false,
+        "start": 2832.013,
+        "text": "think it with with James Corden not that long ago just"
+      },
+      {
+        "end": 2837.025,
+        "id": 592,
+        "is_music": false,
+        "start": 2834.037,
+        "text": "a couple days ago that he said that he was in the when he was in the hospital he's"
+      },
+      {
+        "end": 2840.037,
+        "id": 593,
+        "is_music": false,
+        "start": 2837.026,
+        "text": "been hospitalized and he a nice sort of wrote down in"
+      },
+      {
+        "end": 2841.068,
+        "id": 594,
+        "is_music": false,
+        "start": 2840.038,
+        "text": "a notebook that he needed to start"
+      },
+      {
+        "end": 2847.06,
+        "id": 595,
+        "is_music": false,
+        "start": 2841.069,
+        "text": "a church and that was part of this whole picture here and we were reading in Vibe"
+      },
+      {
+        "end": 2853.031,
+        "id": 596,
+        "is_music": false,
+        "start": 2847.061,
+        "text": "magazine of that writer Kiana Fitzgerald she says she saw her own struggles with"
+      },
+      {
+        "end": 2856.068,
+        "id": 597,
+        "is_music": false,
+        "start": 2853.032,
+        "text": "bipolar disorder in Kanye Sunday services I'll read"
+      },
+      {
+        "end": 2861.079,
+        "id": 598,
+        "is_music": false,
+        "start": 2856.069,
+        "text": "a quote here that the experience was quote heighten mania feels like you're the"
+      },
+      {
+        "end": 2865.082,
+        "id": 599,
+        "is_music": false,
+        "start": 2861.083,
+        "text": "Oracle sent to speak to the rest of the world on behalf of the most high like you"
+      },
+      {
+        "end": 2870.073,
+        "id": 600,
+        "is_music": false,
+        "start": 2865.083,
+        "text": "the one selected to advance humanity through never before seen methods so I mean."
+      },
+      {
+        "end": 2875.007,
+        "id": 601,
+        "is_music": false,
+        "start": 2872.024,
+        "text": "I'm just going through this to you I mean I think we do have to talk"
+      },
+      {
+        "end": 2879.05,
+        "id": 602,
+        "is_music": false,
+        "start": 2875.008,
+        "text": "a little bit about or how can we talk about Kanye is mental health struggles with"
+      },
+      {
+        "end": 2886.035,
+        "id": 603,
+        "is_music": false,
+        "start": 2879.086,
+        "text": "his turn to words is real deep embrace of Christianity sure I do pastoral care"
+      },
+      {
+        "end": 2889.095,
+        "id": 604,
+        "is_music": false,
+        "start": 2886.067,
+        "text": "with my students so I am clear the fact that I'm not"
+      },
+      {
+        "end": 2891.089,
+        "id": 605,
+        "is_music": false,
+        "start": 2889.096,
+        "text": "a license psychologist I'm not"
+      },
+      {
+        "end": 2895.005,
+        "id": 606,
+        "is_music": false,
+        "start": 2891.09,
+        "text": "a licensed professional counselor so it's very hard to ignore give"
+      },
+      {
+        "end": 2900.015,
+        "id": 607,
+        "is_music": false,
+        "start": 2895.006,
+        "text": "a diagnosis of that that being said again you know based on how he speaks and based"
+      },
+      {
+        "end": 2905.004,
+        "id": 608,
+        "is_music": false,
+        "start": 2900.016,
+        "text": "on how he talks and based on those things I have concerns and sometimes of you know"
+      },
+      {
+        "end": 2909.041,
+        "id": 609,
+        "is_music": false,
+        "start": 2905.005,
+        "text": "are you processing these things well are you understanding life well you know you"
+      },
+      {
+        "end": 2912.054,
+        "id": 610,
+        "is_music": false,
+        "start": 2909.042,
+        "text": "know I don't we don't know much about his personal life aside from the you know"
+      },
+      {
+        "end": 2917.047,
+        "id": 611,
+        "is_music": false,
+        "start": 2912.055,
+        "text": "what we see on media and what not but these things are out in our public now we're"
+      },
+      {
+        "end": 2923.097,
+        "id": 612,
+        "is_music": false,
+        "start": 2917.048,
+        "text": "talking more about mental health and by all means if this is something that is you"
+      },
+      {
+        "end": 2925.016,
+        "id": 613,
+        "is_music": false,
+        "start": 2923.098,
+        "text": "know covering up"
+      },
+      {
+        "end": 2930.041,
+        "id": 614,
+        "is_music": false,
+        "start": 2925.017,
+        "text": "a problem I hope you know hope somebody tells them hope yes some people around him"
+      },
+      {
+        "end": 2934.076,
+        "id": 615,
+        "is_music": false,
+        "start": 2930.053,
+        "text": "who care and can have concern enough for him to say brother you need to go get some"
+      },
+      {
+        "end": 2938.047,
+        "id": 616,
+        "is_music": false,
+        "start": 2934.077,
+        "text": "help on this because this is not and ultimately healthy way to continue your life"
+      },
+      {
+        "end": 2943.009,
+        "id": 617,
+        "is_music": false,
+        "start": 2938.048,
+        "text": "and and to continue your work and to continue the good things that you have to give"
+      },
+      {
+        "end": 2946.054,
+        "id": 618,
+        "is_music": false,
+        "start": 2943.01,
+        "text": "to the world well if he would get at least one more call in here let's go to Robert"
+      },
+      {
+        "end": 2951.095,
+        "id": 619,
+        "is_music": false,
+        "start": 2946.058,
+        "text": "who's calling from Dayton Ohio Robert you're on the air. Thanks for taking my call"
+      },
+      {
+        "end": 2958.097,
+        "id": 620,
+        "is_music": false,
+        "start": 2951.099,
+        "text": "Yeah and I just talk about the Sunday service because I'm from Dayton Ohio and you"
+      },
+      {
+        "end": 2961.005,
+        "id": 621,
+        "is_music": false,
+        "start": 2958.098,
+        "text": "guys all know that he came and did"
+      },
+      {
+        "end": 2966.058,
+        "id": 622,
+        "is_music": false,
+        "start": 2961.006,
+        "text": "a Sunday service there right after the Dayton mass shooting earlier this year and I"
+      },
+      {
+        "end": 2971.019,
+        "id": 623,
+        "is_music": false,
+        "start": 2966.059,
+        "text": "think when I was there and the choir started singing now you're in the crowd with"
+      },
+      {
+        "end": 2976.033,
+        "id": 624,
+        "is_music": false,
+        "start": 2971.02,
+        "text": "the choir and these voices just sort of erupted all around you it really felt like"
+      },
+      {
+        "end": 2981.087,
+        "id": 625,
+        "is_music": false,
+        "start": 2976.092,
+        "text": "angels themselves had come into our small Dayton Ohio to lift us out of this really"
+      },
+      {
+        "end": 2988.033,
+        "id": 626,
+        "is_music": false,
+        "start": 2981.088,
+        "text": "really bad time and you know people around were just in tears and when Kanye only"
+      },
+      {
+        "end": 2993.081,
+        "id": 627,
+        "is_music": false,
+        "start": 2988.034,
+        "text": "did the one verse from Jesus Walks it really seemed to me like he was trying to."
+      },
+      {
+        "end": 3001.071,
+        "id": 628,
+        "is_music": false,
+        "start": 2994.089,
+        "text": "Let others have their voice and provide for them this platform and sort of what God"
+      },
+      {
+        "end": 3005.007,
+        "id": 629,
+        "is_music": false,
+        "start": 3001.072,
+        "text": "do the rest and I think that the album just sort of is"
+      },
+      {
+        "end": 3009.006,
+        "id": 630,
+        "is_music": false,
+        "start": 3005.008,
+        "text": "a stark contrast to that and I guess that is if there is"
+      },
+      {
+        "end": 3015.063,
+        "id": 631,
+        "is_music": false,
+        "start": 3009.007,
+        "text": "a question is do you guys see I sort of contrast between the effort of the Sunday"
+      },
+      {
+        "end": 3021.055,
+        "id": 632,
+        "is_music": false,
+        "start": 3015.064,
+        "text": "services which seem decided late not self promoting to the extent that they really"
+      },
+      {
+        "end": 3027.048,
+        "id": 633,
+        "is_music": false,
+        "start": 3021.056,
+        "text": "feature the voices and performances of others and the album and it sort of features"
+      },
+      {
+        "end": 3031.096,
+        "id": 634,
+        "is_music": false,
+        "start": 3027.049,
+        "text": "a lot of the Sunday service after that you know Robert thank you for that question"
+      },
+      {
+        "end": 3036.028,
+        "id": 635,
+        "is_music": false,
+        "start": 3031.097,
+        "text": "Craig Jenkins you do have an answer for him I think that the answer is apparent in"
+      },
+      {
+        "end": 3039.014,
+        "id": 636,
+        "is_music": false,
+        "start": 3036.029,
+        "text": "the film you know the film version that I have mixed in"
+      },
+      {
+        "end": 3042.099,
+        "id": 637,
+        "is_music": false,
+        "start": 3039.015,
+        "text": "a half hour thing that's just basically 30 minutes of performances from the choir"
+      },
+      {
+        "end": 3045.029,
+        "id": 638,
+        "is_music": false,
+        "start": 3043,
+        "text": "and kind of sort of creeps in halfway through and sits"
+      },
+      {
+        "end": 3050.017,
+        "id": 639,
+        "is_music": false,
+        "start": 3045.03,
+        "text": "a fly on the wall before you know doing 2 songs at the end and so that is to me"
+      },
+      {
+        "end": 3055.049,
+        "id": 640,
+        "is_music": false,
+        "start": 3050.018,
+        "text": "like the realization of what this project is or at least what it wants to be but I"
+      },
+      {
+        "end": 3056.05,
+        "id": 641,
+        "is_music": false,
+        "start": 3055.05,
+        "text": "think that there's also"
+      },
+      {
+        "end": 3060.014,
+        "id": 642,
+        "is_music": false,
+        "start": 3056.051,
+        "text": "a certain extent to where he was on the hook for an album and people were expecting"
+      },
+      {
+        "end": 3061.007,
+        "id": 643,
+        "is_music": false,
+        "start": 3060.015,
+        "text": "one for the last year and"
+      },
+      {
+        "end": 3063.057,
+        "id": 644,
+        "is_music": false,
+        "start": 3061.008,
+        "text": "a half so he had to give him something and that's what this is"
+      },
+      {
+        "end": 3069.037,
+        "id": 645,
+        "is_music": false,
+        "start": 3063.064,
+        "text": "a Reverend Liz Art It also seems to me that that Robert's question reminds us of"
+      },
+      {
+        "end": 3075.024,
+        "id": 646,
+        "is_music": false,
+        "start": 3069.038,
+        "text": "the power of being in the presence of others in the community action of faith"
+      },
+      {
+        "end": 3078.045,
+        "id": 647,
+        "is_music": false,
+        "start": 3075.025,
+        "text": "verses that say that music is a powerful listening at home but it's"
+      },
+      {
+        "end": 3082.018,
+        "id": 648,
+        "is_music": false,
+        "start": 3078.046,
+        "text": "a very different experience you know I mean I think that is what the"
+      },
+      {
+        "end": 3085.033,
+        "id": 649,
+        "is_music": false,
+        "start": 3082.019,
+        "text": "African-American gospel music does and again the specificity of the"
+      },
+      {
+        "end": 3087.079,
+        "id": 650,
+        "is_music": false,
+        "start": 3085.034,
+        "text": "African-American gospel music and a choir"
+      },
+      {
+        "end": 3091.098,
+        "id": 651,
+        "is_music": false,
+        "start": 3087.083,
+        "text": "a mass choir sound there is something about this 3 part harmony that is"
+      },
+      {
+        "end": 3097.024,
+        "id": 652,
+        "is_music": false,
+        "start": 3091.099,
+        "text": "a static it's effervescent it's moving it's dynamic and you don't get there with"
+      },
+      {
+        "end": 3100.063,
+        "id": 653,
+        "is_music": false,
+        "start": 3097.025,
+        "text": "this is one person not rapping lyrics and that's not just that Kanye that that's in"
+      },
+      {
+        "end": 3104.098,
+        "id": 654,
+        "is_music": false,
+        "start": 3100.064,
+        "text": "general but you know the contrapuntal nature of call and response between the"
+      },
+      {
+        "end": 3109.098,
+        "id": 655,
+        "is_music": false,
+        "start": 3104.099,
+        "text": "different parts and everything that's going on that enlivens people and that is"
+      },
+      {
+        "end": 3114.042,
+        "id": 656,
+        "is_music": false,
+        "start": 3109.099,
+        "text": "something that's also very uniquely uniquely part of the African-American community"
+      },
+      {
+        "end": 3118.048,
+        "id": 657,
+        "is_music": false,
+        "start": 3114.042,
+        "text": ". African-American Christian community and again uniquely part of just American"
+      },
+      {
+        "end": 3121.058,
+        "id": 658,
+        "is_music": false,
+        "start": 3118.049,
+        "text": "music as well I mean it's not I mean sure global music but you know it's"
+      },
+      {
+        "end": 3126.09,
+        "id": 659,
+        "is_music": false,
+        "start": 3121.059,
+        "text": "a rabbit hole but still. You know I can understand somebody so much I will cry"
+      },
+      {
+        "end": 3128.057,
+        "id": 660,
+        "is_music": false,
+        "start": 3126.091,
+        "text": "after all this and so that I mean there was"
+      },
+      {
+        "end": 3134.009,
+        "id": 661,
+        "is_music": false,
+        "start": 3128.058,
+        "text": "a lot of excitement and expectation you know you know when these services were"
+      },
+      {
+        "end": 3137.03,
+        "id": 662,
+        "is_music": false,
+        "start": 3134.01,
+        "text": "dropping on Instagram once my friends were like you know might be on"
+      },
+      {
+        "end": 3142.005,
+        "id": 663,
+        "is_music": false,
+        "start": 3137.031,
+        "text": "a something here if he's producing this and drop in this is you know it's"
+      },
+      {
+        "end": 3146.089,
+        "id": 664,
+        "is_music": false,
+        "start": 3142.006,
+        "text": "a good thing and we didn't get that with the album Well Reverend Joshua Lazard"
+      },
+      {
+        "end": 3151.012,
+        "id": 665,
+        "is_music": false,
+        "start": 3146.09,
+        "text": "minister at Duke University Chapel an advisor to Duke University student Gospel"
+      },
+      {
+        "end": 3156.036,
+        "id": 666,
+        "is_music": false,
+        "start": 3151.013,
+        "text": "Choir united in praise it was an incredible pleasure to have you on the show come"
+      },
+      {
+        "end": 3161.055,
+        "id": 667,
+        "is_music": false,
+        "start": 3156.037,
+        "text": "back so I thank you and Craig Jenkins music critic at Vulture We've got links to"
+      },
+      {
+        "end": 3165.037,
+        "id": 668,
+        "is_music": false,
+        "start": 3161.056,
+        "text": "Craig's reporting on Kanye West album and on point Radio dot org Craig It was"
+      },
+      {
+        "end": 3169.02,
+        "id": 669,
+        "is_music": false,
+        "start": 3165.038,
+        "text": "terrific to have you as well thanks so much yes thanks again for having me on we're"
+      },
+      {
+        "end": 3175.004,
+        "id": 670,
+        "is_music": false,
+        "start": 3169.021,
+        "text": "going to wrap up this hour listening to follow God the county west new album Jesus"
+      },
+      {
+        "end": 3179.061,
+        "id": 671,
+        "is_music": false,
+        "start": 3175.005,
+        "text": "is King and I can talk of already this is on point. In the."
+      },
+      {
+        "end": 3188.038,
+        "id": 672,
+        "is_music": false,
+        "start": 3182.056,
+        "text": "Next oh my. God I want to sell."
+      },
+      {
+        "end": 3193.075,
+        "id": 673,
+        "is_music": false,
+        "start": 3189.087,
+        "text": "Everything in. My life."
+      },
+      {
+        "end": 3212.014,
+        "id": 674,
+        "is_music": false,
+        "start": 3205.025,
+        "text": "Like. The. Shot of"
+      },
+      {
+        "end": 3213.012,
+        "id": 675,
+        "is_music": false,
+        "start": 3212.074,
+        "text": "the my."
+      },
+      {
+        "end": 3229.023,
+        "id": 676,
+        "is_music": false,
+        "start": 3224.062,
+        "text": "On point is a production of w b u r Boston and and p."
+      },
+      {
+        "end": 3229.023,
+        "id": 677,
+        "is_music": false,
+        "start": 3229.023,
+        "text": "."
+      },
+      {
+        "end": 3239.096,
+        "id": 678,
+        "is_music": false,
+        "start": 3239.051,
+        "text": "Business is."
+      },
+      {
+        "end": 3259.039,
+        "id": 679,
+        "is_music": false,
+        "start": 3257.089,
+        "text": "Adapted for today's families."
+      },
+      {
+        "end": 3271.047,
+        "id": 680,
+        "is_music": false,
+        "start": 3267.054,
+        "text": "Good morning I'm Kelli Steele You've been listening to on point on Delaware public"
+      },
+      {
+        "end": 3275.003,
+        "id": 681,
+        "is_music": false,
+        "start": 3271.048,
+        "text": "media coming up next it's here and now from the campus of Delaware State University"
+      },
+      {
+        "end": 3277.003,
+        "id": 682,
+        "is_music": false,
+        "start": 3275.004,
+        "text": "this is 91 point one w. D.d."
+      },
+      {
+        "end": 3280.017,
+        "id": 683,
+        "is_music": false,
+        "start": 3277.004,
+        "text": "Itto over also broadcasting on 88 point one w m"
+      },
+      {
+        "end": 3283.057,
+        "id": 684,
+        "is_music": false,
+        "start": 3280.018,
+        "text": "h s when we sent in collaboration with the University of Delaware and the brand you"
+      },
+      {
+        "end": 3287.066,
+        "id": 685,
+        "is_music": false,
+        "start": 3283.058,
+        "text": "want to read clay school districts This is Delaware public media source for n.p.r."
+      },
+      {
+        "end": 3293.002,
+        "id": 686,
+        "is_music": false,
+        "start": 3287.067,
+        "text": "News. I'm Jeremy Hobson reporting from London this week about the latest"
+      },
+      {
+        "end": 3295.015,
+        "id": 687,
+        "is_music": false,
+        "start": 3293.003,
+        "text": "developments on Bragg's it in the u.s."
+      },
+      {
+        "end": 3296.046,
+        "id": 688,
+        "is_music": false,
+        "start": 3295.016,
+        "text": "Congress is poised to take"
+      },
+      {
+        "end": 3300.05,
+        "id": 689,
+        "is_music": false,
+        "start": 3296.047,
+        "text": "a vote on the impeachment inquiry in response to Republicans who've criticized the"
+      },
+      {
+        "end": 3305.064,
+        "id": 690,
+        "is_music": false,
+        "start": 3300.084,
+        "text": "as an improper process and we'll have the latest on the fires in California That's"
+      },
+      {
+        "end": 3311.001,
+        "id": 691,
+        "is_music": false,
+        "start": 3305.065,
+        "text": "all next time you. Here and now is coming up next right here on Delaware public"
+      },
+      {
+        "end": 3317.035,
+        "id": 692,
+        "is_music": false,
+        "start": 3311.002,
+        "text": "media hopefully you can stick around for that show to get some information from the"
+      },
+      {
+        "end": 3322.003,
+        "id": 693,
+        "is_music": false,
+        "start": 3317.036,
+        "text": "Delaware Republican Party they are telling me that political commentator and"
+      },
+      {
+        "end": 3328.021,
+        "id": 694,
+        "is_music": false,
+        "start": 3322.004,
+        "text": "founder of the hash tag walk away movement Brendan Straka will be"
+      },
+      {
+        "end": 3335.004,
+        "id": 695,
+        "is_music": false,
+        "start": 3328.022,
+        "text": "a guest speaker on Sunday November 17th from 2 to 4 at the robot Beach Convention"
+      },
+      {
+        "end": 3342.001,
+        "id": 696,
+        "is_music": false,
+        "start": 3335.005,
+        "text": "Center in Robot beach. And then again on Monday Brandon will speak Monday Nov"
+      },
+      {
+        "end": 3347.05,
+        "id": 697,
+        "is_music": false,
+        "start": 3342.005,
+        "text": "18th from 6 until 8 pm at the Clayton the whole conference center at the University"
+      },
+      {
+        "end": 3352.081,
+        "id": 698,
+        "is_music": false,
+        "start": 3347.051,
+        "text": "of Delaware in Newark both of events are free and open to the public however"
+      },
+      {
+        "end": 3358.06,
+        "id": 699,
+        "is_music": false,
+        "start": 3352.085,
+        "text": "registration is required as they say seating is limited funding for here and now"
+      },
+      {
+        "end": 3363.014,
+        "id": 700,
+        "is_music": false,
+        "start": 3358.061,
+        "text": "comes from Mathworks creators of Matlab and Simulink software accelerating the pace"
+      },
+      {
+        "end": 3367.069,
+        "id": 701,
+        "is_music": false,
+        "start": 3363.015,
+        "text": "of engineering and science and learn more and Mathworks dot com from n.p.r."
+      },
+      {
+        "end": 3372.004,
+        "id": 702,
+        "is_music": false,
+        "start": 3367.07,
+        "text": "And I mean you me you are Boston I'm Jeremy Hobson I'm rounding here and now."
+      },
+      {
+        "end": 3377,
+        "id": 703,
+        "is_music": false,
+        "start": 3373.007,
+        "text": "Coming up the latest on the house's formal impeachment inquiry resolution set to be"
+      },
+      {
+        "end": 3379.08,
+        "id": 704,
+        "is_music": false,
+        "start": 3377.001,
+        "text": "voted on tomorrow also I mean the u.k."
+      },
+      {
+        "end": 3383.025,
+        "id": 705,
+        "is_music": false,
+        "start": 3379.081,
+        "text": "Where there will be an election in December maybe bringing some clarity on."
+      }
+    ],
+    "uniq": 638810258,
+    "workable_servers": [
+      "ia601601.us.archive.org",
+      "ia801601.us.archive.org"
+    ]
+  }
+}

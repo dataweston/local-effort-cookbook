@@ -1,0 +1,277 @@
+{
+  "source": "internet_archive",
+  "identifier": "ttl-cook-book",
+  "title": "TTL Cook Book",
+  "creator": "Don Lancaster",
+  "year": 1974,
+  "subject": [
+    "Computer Design",
+    "Computer Architecture"
+  ],
+  "description": "later edition with some information added and/or removed.  This book is an introduction to Computer Design.  Dr. ATOZ used the earlier edition while a Research Assistant at the University of Minnesota.  Especially interesting to Dr. ATOZ is the discussion of the J-K flip flop, named after Jack Kirby, Dr. ATOZ seems to remember vaguely.  ",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720003.ca.archive.org",
+          "dir": "/0/items/ttl-cook-book"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720003.ca.archive.org",
+          "dir": "/0/items/ttl-cook-book"
+        }
+      ]
+    },
+    "created": 1758556889,
+    "d1": "ia902302.us.archive.org",
+    "d2": "ia802302.us.archive.org",
+    "dir": "/2/items/ttl-cook-book",
+    "files": [
+      {
+        "name": "TTL Cook Book.pdf",
+        "source": "original",
+        "mtime": "1635266163",
+        "size": "12554177",
+        "md5": "eb261538a271a63fbf373e802b29e22e",
+        "crc32": "46425476",
+        "sha1": "137599df4dda5771b62b3f8f282ce2e7ffbab547",
+        "format": "Text PDF",
+        "viruscheck": "1635266522"
+      },
+      {
+        "name": "TTL Cook Book_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-beta-20210815",
+        "ocr_parameters": "-l eng+Latin",
+        "ocr_module_version": "0.0.13",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9869",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "TTL Cook Book_jp2.zip",
+        "mtime": "1635275870",
+        "size": "7176247",
+        "md5": "a7b7bf24cab09c96ed4a297649acb42f",
+        "crc32": "90493f24",
+        "sha1": "167133be0760aa9bcf160ef7cc23323452f37e46"
+      },
+      {
+        "name": "TTL Cook Book_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "TTL Cook Book_djvu.xml",
+        "mtime": "1635275981",
+        "size": "522825",
+        "md5": "b439408a45ecf308f30e4c2a1c9d62d7",
+        "crc32": "fc485a20",
+        "sha1": "14693ac83f52283a5dfa5f40a21e045d105631d0"
+      },
+      {
+        "name": "TTL Cook Book_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "TTL Cook Book_hocr.html",
+        "mtime": "1635275941",
+        "size": "7108156",
+        "md5": "54c3a2d6a66cb8a0808c050605b829cc",
+        "crc32": "ca1409ca",
+        "sha1": "23ea05b2d21489078845ecd1554958155c4b2f4c"
+      },
+      {
+        "name": "TTL Cook Book_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng+Latin",
+        "ocr_module_version": "0.0.13",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9869",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "TTL Cook Book_chocr.html.gz",
+        "mtime": "1635275913",
+        "size": "13631533",
+        "md5": "9f942091e382e176233b4b6c41068d0a",
+        "crc32": "71dbf7b3",
+        "sha1": "1bb9efd5db6142a59c9487546f44e6648e1280e0"
+      },
+      {
+        "name": "TTL Cook Book_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "TTL Cook Book_hocr.html",
+        "mtime": "1635275953",
+        "size": "4070",
+        "md5": "4e976df808998b43106e6aaf68450f72",
+        "crc32": "9f239ac0",
+        "sha1": "438ba38110659ca0bf9aab3d1ad5368e35f1df6a"
+      },
+      {
+        "name": "TTL Cook Book_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "298",
+        "word_conf_11_20": "192",
+        "word_conf_21_30": "281",
+        "word_conf_31_40": "320",
+        "word_conf_41_50": "317",
+        "word_conf_51_60": "367",
+        "word_conf_61_70": "415",
+        "word_conf_71_80": "719",
+        "word_conf_81_90": "2506",
+        "word_conf_91_100": "82208",
+        "format": "OCR Search Text",
+        "original": "TTL Cook Book_hocr.html",
+        "mtime": "1635275971",
+        "size": "172915",
+        "md5": "b8faa24cbe2007d9f5400f343b2b375c",
+        "crc32": "01a71d93",
+        "sha1": "7442ae26e5645c23ec575f5d71e2c751ac401a45"
+      },
+      {
+        "name": "TTL Cook Book_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "TTL Cook Book.pdf",
+        "mtime": "1635268318",
+        "size": "179563175",
+        "md5": "64c41941018736339dad892b5d8ac708",
+        "crc32": "878139df",
+        "sha1": "be0ba41f0405db2056005f7ec370307bbbb90f9d"
+      },
+      {
+        "name": "TTL Cook Book_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "TTL Cook Book_djvu.xml",
+        "mtime": "1635276252",
+        "size": "64477",
+        "md5": "34580360a166dda577aa2f2ca8a1c44b",
+        "crc32": "3bb597ac",
+        "sha1": "ceda057dcbd45688da118d82b01d3c661627736b"
+      },
+      {
+        "name": "TTL Cook Book_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "TTL Cook Book_djvu.xml",
+        "mtime": "1635276253",
+        "size": "120508",
+        "md5": "fa89911699707ca88d409133810cbab7",
+        "crc32": "2ea41d75",
+        "sha1": "0d08bce1ede03e91396464bb93d6369f944d3227"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1635276278",
+        "size": "2567",
+        "md5": "3c22066461232bbeda0f82a11141ed64",
+        "crc32": "35dc5932",
+        "sha1": "ab7b0152e5de78fe09a38a3f77da5b61ac242dc0",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "ttl-cook-book_archive.torrent",
+        "source": "metadata",
+        "btih": "9c766b6a29ef66c55f109e68bf69dbc538084845",
+        "mtime": "1635276269",
+        "size": "11865",
+        "md5": "c52f6d34ce1be088c02706da5431666c",
+        "crc32": "85bbf05a",
+        "sha1": "6ec37ea1963c0461ee3ab5a9d6783734060fe96c",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "ttl-cook-book_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9bd03f965cc0614901da49c03e148127",
+        "summation": "md5"
+      },
+      {
+        "name": "ttl-cook-book_meta.sqlite",
+        "source": "original",
+        "mtime": "1635266191",
+        "size": "20480",
+        "md5": "e7a1507e96a403ec97579319830ae545",
+        "crc32": "34a2c04f",
+        "sha1": "8b286f93738d20419060e4f2f53368f64d7a59e7",
+        "format": "Metadata"
+      },
+      {
+        "name": "ttl-cook-book_meta.xml",
+        "source": "original",
+        "mtime": "1635276253",
+        "size": "1688",
+        "md5": "2c8f0b13a9fc77ae006e1e051c19e689",
+        "crc32": "95f915e6",
+        "sha1": "e657c928d287d5ef4527058c6a439e664a785dc2",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1635276278,
+    "item_size": 220954683,
+    "metadata": {
+      "identifier": "ttl-cook-book",
+      "mediatype": "texts",
+      "collection": [
+        "opensource",
+        "community"
+      ],
+      "creator": "Don Lancaster",
+      "date": "1974-01-01",
+      "description": "later edition with some information added and/or removed.  This book is an introduction to Computer Design.  Dr. ATOZ used the earlier edition while a Research Assistant at the University of Minnesota.  Especially interesting to Dr. ATOZ is the discussion of the J-K flip flop, named after Jack Kirby, Dr. ATOZ seems to remember vaguely.  ",
+      "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+      "subject": [
+        "Computer Design",
+        "Computer Architecture"
+      ],
+      "title": "TTL Cook Book",
+      "uploader": "grantwmiller@yahoo.com",
+      "publicdate": "2021-10-26 16:36:25",
+      "addeddate": "2021-10-26 16:36:25",
+      "curation": "[curator]validator@archive.org[/curator][date]20211026164202[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/ttl-cook-book",
+      "identifier-ark": "ark:/13960/t2s59d19c",
+      "ppi": "400",
+      "ocr": "tesseract 5.0.0-beta-20210815",
+      "ocr_parameters": "-l eng+Latin",
+      "ocr_module_version": "0.0.13",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9869",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "95.58"
+    },
+    "server": "ia902302.us.archive.org",
+    "uniq": 1441037475,
+    "workable_servers": [
+      "ia902302.us.archive.org",
+      "ia802302.us.archive.org"
+    ]
+  },
+  "institution": "Don Lancaster",
+  "pdf_url": "https://archive.org/download/ttl-cook-book/TTL Cook Book.pdf",
+  "location": {
+    "state": "Minnesota"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Minnesota; Digitized scan available"
+}

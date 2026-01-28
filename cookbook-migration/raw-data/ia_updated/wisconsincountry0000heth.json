@@ -1,0 +1,492 @@
+{
+  "source": "internet_archive",
+  "identifier": "wisconsincountry0000heth",
+  "title": "Wisconsin country cookbook and journal",
+  "creator": "Heth, Edward Harris",
+  "year": 1979,
+  "subject": [
+    "Cooking -- Wisconsin",
+    "Cooking",
+    "Wisconsin"
+  ],
+  "description": [
+    "238 pages : 23 cm",
+    "Originally published in 1956 under title: The wonderful world of cooking",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/wisconsincountry0000heth"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/wisconsincountry0000heth"
+        }
+      ]
+    },
+    "created": 1758557272,
+    "d1": "ia601906.us.archive.org",
+    "d2": "ia801906.us.archive.org",
+    "dir": "/18/items/wisconsincountry0000heth",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661314920",
+        "size": "27959",
+        "md5": "c3190ea677df9da9eb23970260a66979",
+        "crc32": "2a71a931",
+        "sha1": "cb629d6c67391cbff687a256dd59065abb0522c5",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/wisconsincountry0000heth_iabdash_2018-12-0514:51:29.log",
+        "source": "original",
+        "mtime": "1543992700",
+        "size": "2029",
+        "md5": "4485712d964bb802021615e1fa71a623",
+        "crc32": "cb79ac52",
+        "sha1": "dccd330c1d073592120df4d9d81cc0d5cd1cc11b",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/wisconsincountry0000heth_scanning_2018-12-0514:51:19.log",
+        "source": "original",
+        "mtime": "1543992691",
+        "size": "481929",
+        "md5": "b3c54ef61de91b1f30c7bdab2501b3ce",
+        "crc32": "f2f32256",
+        "sha1": "a69c59f619fdf46d784598b73e2118dd64274938",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "wisconsincountry0000heth.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "wisconsincountry0000heth_hocr.html",
+        "mtime": "1754169947",
+        "size": "6065877",
+        "private": "true",
+        "md5": "cb63f06648adec6015037e37b6eafa8d",
+        "crc32": "27bd4021",
+        "sha1": "301b1aee7baf08456d18ee965306ea39fc3a4eaf"
+      },
+      {
+        "name": "wisconsincountry0000heth.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "wisconsincountry0000heth.pdf",
+        "mtime": "1754169795",
+        "size": "9339495",
+        "md5": "365720003f56a26f33f6c41423f4eb8b",
+        "crc32": "8f33c267",
+        "sha1": "2744dce7aeabf683a9e7e3db6e202a02807ca1c1"
+      },
+      {
+        "name": "wisconsincountry0000heth.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "wisconsincountry0000heth_page_numbers.json",
+        "mtime": "1727087278",
+        "size": "9013057",
+        "md5": "82375ffd9f4703e463dbfc8ffb373c25",
+        "crc32": "386ba5b1",
+        "sha1": "abc5d46159ebca5deb010b6906a9223259889b69",
+        "private": "true"
+      },
+      {
+        "name": "wisconsincountry0000heth_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "wisconsincountry0000heth_jp2.zip",
+        "mtime": "1544403960",
+        "size": "5897556",
+        "md5": "0b4a5716dc77389b39a8cd64c41215f4",
+        "crc32": "17eb4b96",
+        "sha1": "0136ef55dad68d2d1a7f406e7b0a4e91adba60b1",
+        "private": "true"
+      },
+      {
+        "name": "wisconsincountry0000heth_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "wisconsincountry0000heth_abbyy.gz",
+        "mtime": "1661314773",
+        "size": "5171710",
+        "md5": "15960aca63d967cca10648a9525e18df",
+        "crc32": "cd81f084",
+        "sha1": "18c6d4f87c9ece32aa31406e875e7f66ce43fd1d",
+        "private": "true"
+      },
+      {
+        "name": "wisconsincountry0000heth_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "wisconsincountry0000heth_scandata.xml",
+        "mtime": "1671843875",
+        "size": "788",
+        "md5": "b985d999e0f329dc6cdb49009d98b9d7",
+        "crc32": "e981d5a4",
+        "sha1": "f12a37a5f41c06ad9ec1b6444096b759f5d28598",
+        "private": "true"
+      },
+      {
+        "name": "wisconsincountry0000heth_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1661314694",
+        "size": "1264",
+        "md5": "a487357f5682d660f41f4c5e2206e8e3",
+        "crc32": "f06531de",
+        "sha1": "2e6d8dcd332494a4276a2a3abdb78fd0510dc4e4"
+      },
+      {
+        "name": "wisconsincountry0000heth_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "wisconsincountry0000heth_djvu.xml",
+        "mtime": "1661314914",
+        "size": "459769",
+        "md5": "b1ae5188976fcf92592b8769a261992f",
+        "crc32": "5d53058e",
+        "sha1": "f2b8b773c9bdaf30f0a700452e28a0e9e39dbe0c",
+        "private": "true"
+      },
+      {
+        "name": "wisconsincountry0000heth_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "wisconsincountry0000heth_hocr.html",
+        "mtime": "1661314821",
+        "size": "5559027",
+        "md5": "3cc6deffb3c48f6dd41a3120bdd4f4ca",
+        "crc32": "66efeb33",
+        "sha1": "ae506643f02106a95a7f16b5c35414f20b300999",
+        "private": "true"
+      },
+      {
+        "name": "wisconsincountry0000heth_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "wisconsincountry0000heth_abbyy.gz",
+        "mtime": "1544405295",
+        "size": "996185",
+        "md5": "20c769b83767a883b3ad08346b5b91e6",
+        "crc32": "d5187973",
+        "sha1": "54997e312ba05bd79cf6d4e095190eb162b900ed"
+      },
+      {
+        "name": "wisconsincountry0000heth_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "wisconsincountry0000heth.pdf",
+        "mtime": "1727089762",
+        "size": "8920321",
+        "md5": "fb4ba86e56d583a66e786fa7605538ca",
+        "crc32": "45b38a4c",
+        "sha1": "c0cde0bfde33474271294838f55334e3f2273195"
+      },
+      {
+        "name": "wisconsincountry0000heth_events.json",
+        "source": "original",
+        "mtime": "1544399827",
+        "size": "56",
+        "md5": "97d3caa1fd6edf67fb54edbbe02e4eb2",
+        "crc32": "df249b9d",
+        "sha1": "0550423425cc8d38648c666e4ccfae1aa3440cb9",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "wisconsincountry0000heth_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "f36a5ee67194b0e3717eba74024c5e80",
+        "summation": "md5"
+      },
+      {
+        "name": "wisconsincountry0000heth_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "wisconsincountry0000heth_chocr.html.gz",
+        "mtime": "1661314807",
+        "size": "11069922",
+        "md5": "da328a42167ab8880a62f217eddbadbf",
+        "crc32": "7094f386",
+        "sha1": "53ecb6973831abc6d5e236d7896183d812793a82",
+        "private": "true"
+      },
+      {
+        "name": "wisconsincountry0000heth_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "wisconsincountry0000heth_hocr.html",
+        "mtime": "1661314828",
+        "size": "3050",
+        "md5": "4dbc028a1b813d43dd54ecc1ce2e0c5b",
+        "crc32": "cebae0f0",
+        "sha1": "5289cbe7c18105af2fa70d21402cd314dac6c06d",
+        "private": "true"
+      },
+      {
+        "name": "wisconsincountry0000heth_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "581",
+        "word_conf_11_20": "203",
+        "word_conf_21_30": "482",
+        "word_conf_31_40": "927",
+        "word_conf_41_50": "1444",
+        "word_conf_51_60": "3035",
+        "word_conf_61_70": "8032",
+        "word_conf_71_80": "15684",
+        "word_conf_81_90": "20119",
+        "word_conf_91_100": "19943",
+        "format": "OCR Search Text",
+        "original": "wisconsincountry0000heth_hocr.html",
+        "mtime": "1661314892",
+        "size": "159799",
+        "md5": "442402f3faafeaa06cabbe2dfd314087",
+        "crc32": "d396641b",
+        "sha1": "8e4eecc5420b582383cf8de954f9a4baaf5eee04",
+        "private": "true"
+      },
+      {
+        "name": "wisconsincountry0000heth_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "wisconsincountry0000heth_orig_jp2.tar",
+        "mtime": "1544403231",
+        "size": "83453525",
+        "md5": "a25f9f9939e9828e619f718b90ff86dc",
+        "crc32": "aff2eb50",
+        "sha1": "5d28768ecd3488914ee3774d2ebe0a3a930c3d8d",
+        "private": "true",
+        "filecount": "258"
+      },
+      {
+        "name": "wisconsincountry0000heth_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "wisconsincountry0000heth.epub",
+        "mtime": "1754170110",
+        "size": "6258451",
+        "md5": "82509fb6dfd5e67ad7761f3eb06c0a37",
+        "crc32": "f60c44f3",
+        "sha1": "5610a102cf11b3944360a01021e131606fc095fc"
+      },
+      {
+        "name": "wisconsincountry0000heth_loans.json",
+        "source": "original",
+        "mtime": "1594678295",
+        "size": "2631",
+        "format": "JSON",
+        "private": "true",
+        "md5": "a62d4d5260c4a5de702c0d19dbeb8b4f",
+        "crc32": "5aac3e85",
+        "sha1": "919e44cb3a16e213ba7852cc139fdd82f036c1c7"
+      },
+      {
+        "name": "wisconsincountry0000heth_marc.xml",
+        "source": "original",
+        "mtime": "1661314694",
+        "size": "4423",
+        "format": "MARC",
+        "md5": "904d5297f8c726f9fe6b64124d5fda20",
+        "crc32": "347500a8",
+        "sha1": "b3ab12071482c915f8a56601032e3e6fe55e6701"
+      },
+      {
+        "name": "wisconsincountry0000heth_meta.mrc",
+        "source": "original",
+        "mtime": "1543992712",
+        "size": "1297",
+        "md5": "e9b3103d06920a0696d0d63630727e7a",
+        "crc32": "69d22d72",
+        "sha1": "ea869db2b01872dd6c9de8174e6cf16f56fc51d2",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "wisconsincountry0000heth_meta.sqlite",
+        "source": "original",
+        "mtime": "1544399851",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "61a9276cfb7e81557e8fc953ed50617c",
+        "crc32": "3f0946e3",
+        "sha1": "dccae226df20e3dabe682f9f456ff59eb9302bf2"
+      },
+      {
+        "name": "wisconsincountry0000heth_meta.xml",
+        "source": "original",
+        "mtime": "1754170110",
+        "size": "2990",
+        "format": "Metadata",
+        "md5": "2f86c4ceda8fcf5c4ff632d2e72f1738",
+        "crc32": "2dda4c99",
+        "sha1": "0280793b7b469e42c3a1acfd84f47ab7d96dd06f"
+      },
+      {
+        "name": "wisconsincountry0000heth_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1544399851",
+        "size": "253624320",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "a17cfea17f0ed435d1b6c3ddab14268c",
+        "crc32": "12a78ffc",
+        "sha1": "08bd4eb59817b2f1faa04cf8287caa6e8537f998",
+        "filecount": "258"
+      },
+      {
+        "name": "wisconsincountry0000heth_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "90",
+        "format": "Page Numbers JSON",
+        "original": "wisconsincountry0000heth_hocr.html",
+        "mtime": "1727087277",
+        "size": "43475",
+        "md5": "cdb60bcf29d0abe39b06b8d674652d69",
+        "crc32": "04a8ea96",
+        "sha1": "7477a1c96522c76231789bdef0b12625b0a3de73",
+        "private": "true"
+      },
+      {
+        "name": "wisconsincountry0000heth_scandata.xml",
+        "source": "original",
+        "mtime": "1671843875",
+        "size": "263870",
+        "format": "Scandata",
+        "md5": "dc441deb8d8fbea4928c8d45565daeee",
+        "crc32": "089ccf92",
+        "sha1": "bbaa076612ced36564b946b9f95f4634f6ea8ffd"
+      },
+      {
+        "name": "wisconsincountry0000heth_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "wisconsincountry0000heth_djvu.xml",
+        "mtime": "1671843636",
+        "size": "636",
+        "md5": "4ae5fd32ba363214418540e0d95ce352",
+        "crc32": "d16b7820",
+        "sha1": "abb60da7dd5e822ee64ede4349a8b033f90b2679",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1754170110,
+    "item_size": 406842819,
+    "metadata": {
+      "identifier": "wisconsincountry0000heth",
+      "boxid": "IA1427424",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Heth, Edward Harris",
+      "creator-alt-script": "None",
+      "date": "1979-01-01",
+      "description": [
+        "238 pages : 23 cm",
+        "Originally published in 1956 under title: The wonderful world of cooking",
+        "Includes index"
+      ],
+      "isbn": [
+        "0915024209",
+        "9780915024209"
+      ],
+      "language": "eng",
+      "lccn": "78021695",
+      "mediatype": "texts",
+      "old_pallet": "IA15539",
+      "operator": "associate-ria-gargoles@archive.org",
+      "ppi": "300",
+      "publisher": "Madison, Wis. : Tamarack Press",
+      "repub_state": "19",
+      "scanner": "station01.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "subject": [
+        "Cooking -- Wisconsin",
+        "Cooking",
+        "Wisconsin"
+      ],
+      "title": "Wisconsin country cookbook and journal",
+      "title-alt-script": "None",
+      "tts_version": "v1.61-final",
+      "uploader": "station01.cebu@archive.org",
+      "addeddate": "2018-12-05 06:51:10",
+      "publicdate": "2018-12-05 06:51:32",
+      "imagecount": "258",
+      "scandate": "20181205075337",
+      "republisher_operator": "associate-ronamye-cabale@archive.org",
+      "republisher_date": "20181210075702",
+      "republisher_time": "704",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/wisconsincountry0000heth",
+      "identifier-ark": "ark:/13960/t1nh22847",
+      "external-identifier": [
+        "urn:acs6:wisconsincountry0000heth:epub:7e54d78b-1907-40df-93b5-05a3bd39721d",
+        "urn:acs6:wisconsincountry0000heth:pdf:e596db8a-186b-4525-a9ed-e9042e08f8e9",
+        "urn:lcp:wisconsincountry0000heth:lcpdf:580bc2c9-9506-4466-b7a6-32aac2c028b2",
+        "urn:lcp:wisconsincountry0000heth:epub:0f8a2032-c72b-4b5e-8f20-c1631b7f5e20"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_edition": "OL4732965M",
+      "openlibrary_work": "OL6806110W",
+      "sponsordate": "20181231",
+      "access-restricted-item": "true",
+      "backup_location": "ia906805_0",
+      "oclc-id": "4493757",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "90",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601906.us.archive.org",
+    "uniq": 259112504,
+    "workable_servers": [
+      "ia601906.us.archive.org",
+      "ia801906.us.archive.org"
+    ]
+  },
+  "institution": "Heth, Edward Harris",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Wisconsin",
+    "city": "Madison"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Wisconsin; Digitized scan available"
+}

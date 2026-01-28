@@ -1,0 +1,97 @@
+{
+  "source": "dpla",
+  "id": "838510b109fef33ce07e128970aa92b8",
+  "identifier": "838510b109fef33ce07e128970aa92b8",
+  "title": "A Cook Book of Tested Recipes",
+  "subject": [],
+  "spatial": [
+    "Houston, Harris County, Texas"
+  ],
+  "description": "A cookbook of recipes compiled by the members of the Mother's Missionary Circle of St. Paul's Methodist church in Houston, Texas.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/240",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "year": 1933,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/838510b109fef33ce07e128970aa92b8#SourceResource",
+      "collection": [
+        {
+          "title": "DeGolyer Library Cookbook Collection"
+        }
+      ],
+      "creator": [
+        "St. Paul's Methodist Church (Houston, Tex.). Mothers' Missionary Circle"
+      ],
+      "date": [
+        {
+          "begin": "1933",
+          "displayDate": "1933",
+          "end": "1933"
+        }
+      ],
+      "description": [
+        "A cookbook of recipes compiled by the members of the Mother's Missionary Circle of St. Paul's Methodist church in Houston, Texas."
+      ],
+      "identifier": [
+        "TX715 .C6754 1933"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "DeGolyer Library"
+      ],
+      "rights": [
+        "This item may be protected by copyright law. Please cite DeGolyer Library, Southern Methodist University as the source of this file. For more information, contact degolyer@smu.edu."
+      ],
+      "spatial": [
+        {
+          "name": "Houston, Harris County, Texas"
+        }
+      ],
+      "title": [
+        "A Cook Book of Tested Recipes"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1933-01-01",
+      "normalized_dates": [
+        "1933-01-01"
+      ],
+      "date_range": {
+        "begin": "1933-01-01",
+        "end": "1933-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/240",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/240"
+  },
+  "location": {
+    "state": "Wi",
+    "city": "St. Paul"
+  },
+  "curation": {
+    "score": 7,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Methodist"
+    ]
+  },
+  "curation_notes": "Community markers: Church, Methodist; Digitized scan available"
+}

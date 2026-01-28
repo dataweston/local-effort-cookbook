@@ -1,0 +1,143 @@
+{
+  "source": "internet_archive",
+  "identifier": "arxiv-1601.07077",
+  "title": "NexMon: A Cookbook for Firmware Modifications on Smartphones to Enable Monitor Mode",
+  "creator": "Matthias Schulz",
+  "year": 2015,
+  "subject": [
+    "Other Computer Science",
+    "Computing Research Repository"
+  ],
+  "description": "Full control over a Wi-Fi chip for research purposes is often limited by its firmware, which makes it hard to evolve communication protocols and test schemes in practical environments. Monitor mode, which allows eavesdropping on all frames on a wireless communication channel, is a first step to lower this barrier. Use cases include, but are not limited to, network packet analyses, security research and testing of new medium access control layer protocols. Monitor mode is generally offered by SoftMAC drivers that implement the media access control sublayer management entity (MLME) in the driver rather than in the Wi-Fi chip. On smartphones, however, mostly FullMAC chips are used to reduce power consumption, as MLME tasks do not need to wake up the main processor. Even though, monitor mode is also possible in FullMAC scenarios, it is generally not implemented in today's Wi-Fi firmwares used in smartphones. This work focuses on bringing monitor mode to Nexus 5 smartphones to enhance the interoperability between applications that require monitor mode and BCM4339 Wi-Fi chips. The implementation is based on our new C-based programming framework to extend existing Wi-Fi firmwares.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721207.ca.archive.org",
+          "dir": "/0/items/arxiv-1601.07077"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721207.ca.archive.org",
+          "dir": "/0/items/arxiv-1601.07077"
+        }
+      ]
+    },
+    "created": 1758555462,
+    "d1": "ia600102.us.archive.org",
+    "d2": "ia800102.us.archive.org",
+    "dir": "/3/items/arxiv-1601.07077",
+    "files": [
+      {
+        "name": "1601.07077.pdf",
+        "source": "original",
+        "mtime": "1530264915",
+        "size": "1180231",
+        "md5": "5a433c861975e5bd97b88bcb50fc4ebd",
+        "crc32": "437e9950",
+        "sha1": "078ebf9f4c7916e59db4711e726ee94e2e802d54",
+        "format": "Text PDF"
+      },
+      {
+        "name": "1601.07077_metadata.xml",
+        "source": "original",
+        "mtime": "1530264939",
+        "size": "2150",
+        "md5": "95572b3968bbd4a349d9e6e3f26e2b91",
+        "crc32": "2d87a1fe",
+        "sha1": "b2943597301a4dbbff4fddc3c4fa2a8ea19dfee4",
+        "format": "Metadata"
+      },
+      {
+        "name": "arxiv-1601.07077_archive.torrent",
+        "source": "metadata",
+        "btih": "f6703cec128b2d8ed0fa7cbabfca0a26066b4a02",
+        "mtime": "1550984778",
+        "size": "1872",
+        "md5": "d09247b7636d92c01055d5cfd82d5cbf",
+        "crc32": "76687fff",
+        "sha1": "a538b3d33d07b8694a64b057531c9d950fe6094c",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "arxiv-1601.07077_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "61360a707754f02193c5d9f47cd09a0f",
+        "summation": "md5"
+      },
+      {
+        "name": "arxiv-1601.07077_meta.sqlite",
+        "source": "original",
+        "mtime": "1530264951",
+        "size": "18432",
+        "md5": "b38e8698c43fc688d3c41f3a145efb25",
+        "crc32": "e82fe28a",
+        "sha1": "ff0d88ebf5a1c44b4f698075af4c3d9a46516aa0",
+        "format": "Metadata"
+      },
+      {
+        "name": "arxiv-1601.07077_meta.xml",
+        "source": "original",
+        "mtime": "1550984777",
+        "size": "2358",
+        "format": "Metadata",
+        "md5": "1f53330e111c810a50434eb38ac9d860",
+        "crc32": "318db879",
+        "sha1": "9693abce979774f3881db9320b5eae484c975122"
+      }
+    ],
+    "files_count": 6,
+    "item_last_updated": 1550984778,
+    "item_size": 1205043,
+    "metadata": {
+      "identifier": "arxiv-1601.07077",
+      "collection": [
+        "arxiv",
+        "journals"
+      ],
+      "contributor": "Internet Archive",
+      "creator": [
+        "Matthias Schulz",
+        "Daniel Wegemer",
+        "Matthias Hollick"
+      ],
+      "date": "2015-12-24",
+      "description": "Full control over a Wi-Fi chip for research purposes is often limited by its firmware, which makes it hard to evolve communication protocols and test schemes in practical environments. Monitor mode, which allows eavesdropping on all frames on a wireless communication channel, is a first step to lower this barrier. Use cases include, but are not limited to, network packet analyses, security research and testing of new medium access control layer protocols. Monitor mode is generally offered by SoftMAC drivers that implement the media access control sublayer management entity (MLME) in the driver rather than in the Wi-Fi chip. On smartphones, however, mostly FullMAC chips are used to reduce power consumption, as MLME tasks do not need to wake up the main processor. Even though, monitor mode is also possible in FullMAC scenarios, it is generally not implemented in today's Wi-Fi firmwares used in smartphones. This work focuses on bringing monitor mode to Nexus 5 smartphones to enhance the interoperability between applications that require monitor mode and BCM4339 Wi-Fi chips. The implementation is based on our new C-based programming framework to extend existing Wi-Fi firmwares.",
+      "external-identifier": "urn:arXiv:1601.07077",
+      "licenseurl": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "mediatype": "texts",
+      "notes": "Project website: https://seemoo.tu-darmstadt.de/nexmon",
+      "publisher": "arXiv.org",
+      "scanner": "Internet Archive Python library 1.7.0.dev2",
+      "source": "http://arxiv.org/abs/1601.07077",
+      "subject": [
+        "Other Computer Science",
+        "Computing Research Repository"
+      ],
+      "title": "NexMon: A Cookbook for Firmware Modifications on Smartphones to Enable Monitor Mode",
+      "publicdate": "2018-06-29 09:35:17",
+      "uploader": "arkiver@archive.org",
+      "addeddate": "2018-06-29 09:35:17",
+      "backup_location": "ia906707_28"
+    },
+    "server": "ia800102.us.archive.org",
+    "uniq": 581745214,
+    "workable_servers": [
+      "ia800102.us.archive.org",
+      "ia600102.us.archive.org"
+    ]
+  },
+  "institution": "Matthias Schulz",
+  "pdf_url": "https://archive.org/download/arxiv-1601.07077/1601.07077.pdf",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

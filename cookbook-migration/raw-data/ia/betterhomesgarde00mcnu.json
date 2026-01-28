@@ -1,0 +1,576 @@
+{
+  "source": "internet_archive",
+  "identifier": "betterhomesgarde00mcnu",
+  "title": "Better homes and gardens new dieter's cook book",
+  "creator": "McNutt, Heidi, ed",
+  "year": 1992,
+  "subject": [
+    "Low-calorie diet",
+    "Diet, Reducing"
+  ],
+  "description": null,
+  "metadata": {
+    "created": 1758335735,
+    "d1": "ia601608.us.archive.org",
+    "d2": "ia801608.us.archive.org",
+    "dir": "/31/items/betterhomesgarde00mcnu",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658705129",
+        "size": "13780",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "015de3b458d471addee871e8cb1d0e3a",
+        "crc32": "0c4a909b",
+        "sha1": "c02650292867dbb4e29ff3168136edad58adb9ad"
+      },
+      {
+        "name": "betterhomesgarde00mcnu.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "betterhomesgarde00mcnu_hocr.html",
+        "mtime": "1755041004",
+        "size": "70207796",
+        "private": "true",
+        "md5": "9549a919666e03cd96fafcc9cc76bcea",
+        "crc32": "ae23c4e2",
+        "sha1": "f5da6537adce6100f5b38e3e01442aa8170fd622"
+      },
+      {
+        "name": "betterhomesgarde00mcnu.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "betterhomesgarde00mcnu_jp2.zip",
+        "mtime": "1323479649",
+        "size": "257317",
+        "md5": "df8b29e9d712db8a1cb7278c83b6b74c",
+        "crc32": "c489f7c0",
+        "sha1": "25082bd97c20001141eb6945fbd812e8e31b494f"
+      },
+      {
+        "name": "betterhomesgarde00mcnu.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "betterhomesgarde00mcnu.pdf",
+        "mtime": "1755040624",
+        "size": "30042443",
+        "md5": "c551cbf8e38d0eb52b348180fc8866af",
+        "crc32": "6f3c109a",
+        "sha1": "7a634ff32e9bfd36460f69979750bc1d0f902c1e"
+      },
+      {
+        "name": "betterhomesgarde00mcnu.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "betterhomesgarde00mcnu_page_numbers.json",
+        "mtime": "1716664450",
+        "size": "29806210",
+        "md5": "5a0a3e124dcb931952a7c43b7ce0f8f4",
+        "crc32": "bd17ac8c",
+        "sha1": "59586d0534b7cbd352a77e89435f4afe1177bb4d",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "betterhomesgarde00mcnu_jp2.zip",
+        "mtime": "1323487608",
+        "size": "10149382",
+        "md5": "90d33299e48fc8178d62ead9eceddfa3",
+        "crc32": "a622a0d8",
+        "sha1": "e9b665e58cc3b131f62fce54036f49f688a4480d",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "betterhomesgarde00mcnu_page_numbers.json",
+        "mtime": "1716664460",
+        "size": "25115814",
+        "md5": "9166d2c7ef23b5631ab8503123c677f9",
+        "crc32": "03b4ea25",
+        "sha1": "8e64bf6da4207473fea294cbc7aabf1cc41f0c5b",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "betterhomesgarde00mcnu_abbyy.gz",
+        "mtime": "1658704774",
+        "size": "8358073",
+        "md5": "be9672e03d97b786f501fd2a07cbf6b9",
+        "crc32": "aed3bef5",
+        "sha1": "494c4b0de922216cc8a49e92f306cffb3be0ab02",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "betterhomesgarde00mcnu_scandata.xml",
+        "mtime": "1669422478",
+        "size": "781",
+        "md5": "4ec0fba50a3c55453b7d3e0b79061269",
+        "crc32": "59edbb06",
+        "sha1": "0e73e9c5a66a7a4df477b80e7057afc7865a68eb",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1267743258",
+        "size": "623",
+        "md5": "5d0d1f797069e03fd6f93181f58790c9",
+        "crc32": "6982694b",
+        "sha1": "468433f865d29447d65041e9df82762b9369576b"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "betterhomesgarde00mcnu_djvu.xml",
+        "mtime": "1720509145",
+        "size": "772390",
+        "md5": "3385e1a8100cc12dc7d6bf8f774db54f",
+        "crc32": "66899bdf",
+        "sha1": "f646fe1fa0351f2833aa51458d47ff8ad33f9d25",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "betterhomesgarde00mcnu_hocr.html",
+        "mtime": "1720509142",
+        "size": "9510742",
+        "md5": "b18c6fbe773aa901bd363817ef6b22b1",
+        "crc32": "207a6696",
+        "sha1": "f10c1a3f65ac870122e9922df21a0a319c97ecee",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "betterhomesgarde00mcnu.pdf",
+        "mtime": "1716664762",
+        "size": "29722358",
+        "md5": "f822e562ebba8327e4f3c2d7235775f7",
+        "crc32": "60712acc",
+        "sha1": "1b2961129ebc39872bafca8d337ea6d40623895a"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "ef78e025ac494f9b364d0c903bbef87c",
+        "summation": "md5"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "betterhomesgarde00mcnu_chocr.html.gz",
+        "mtime": "1658704926",
+        "size": "18655315",
+        "md5": "d21fc2bd25e9ed0daf416845d4b07270",
+        "crc32": "c92d1486",
+        "sha1": "10c6b2d14ea8b5186d56bc4c63ddb811b8232034",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "betterhomesgarde00mcnu_hocr.html",
+        "mtime": "1658705012",
+        "size": "5781",
+        "md5": "92ba92c1554044991488705a2b591a27",
+        "crc32": "f250f3d0",
+        "sha1": "5f15e878c740f359fa4185635cb63d85c42a62af",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "8513",
+        "word_conf_11_20": "3284",
+        "word_conf_21_30": "9313",
+        "word_conf_31_40": "6589",
+        "word_conf_41_50": "15442",
+        "word_conf_51_60": "18142",
+        "word_conf_61_70": "22114",
+        "word_conf_71_80": "14383",
+        "word_conf_81_90": "4091",
+        "word_conf_91_100": "8304",
+        "format": "OCR Search Text",
+        "original": "betterhomesgarde00mcnu_hocr.html",
+        "mtime": "1658705065",
+        "size": "175111",
+        "md5": "a9f12a6deb582a9d141934fb6352ded2",
+        "crc32": "4ba79f70",
+        "sha1": "095e2d240393688a79e2c9ac52907bf96e365c73",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "betterhomesgarde00mcnu_orig_jp2.tar",
+        "mtime": "1323479494",
+        "size": "167831857",
+        "md5": "2f05f5573f9016e57d6843f5f95fb3a1",
+        "crc32": "25eec47d",
+        "sha1": "7189b9d906fb751f5f455956b44f582e7d0c7ae7",
+        "private": "true",
+        "filecount": "486"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "betterhomesgarde00mcnu.epub",
+        "mtime": "1755041029",
+        "size": "72155333",
+        "md5": "abdeffcd6c7ae953f637864856a365b3",
+        "crc32": "c5cd568b",
+        "sha1": "2b7f26d3a436e4019cbe0188f167576b180c0de1"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_loans.json",
+        "source": "original",
+        "mtime": "1593369618",
+        "size": "1081",
+        "format": "JSON",
+        "private": "true",
+        "md5": "9d9996fa7cb77632677a195f7e796143",
+        "crc32": "8535a08e",
+        "sha1": "4c2f87b14dd2841e22011a30e9ab0c3f64198a39"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1267743258",
+        "size": "3845",
+        "md5": "1081f5684a72cd2eff8e2c2dd4c35909",
+        "crc32": "c28630eb",
+        "sha1": "ded5d060c5ddc4fe4ca12290f40afa095c2f230f"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "betterhomesgarde00mcnu_xisbn.json",
+        "mtime": "1454287822",
+        "size": "1080",
+        "md5": "8c62de66428ca9469bde4f3b0318bf4c",
+        "crc32": "66656ea2",
+        "sha1": "9886fdb705cb1a290677cd71bea21bd4e18e7f99",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1267743258",
+        "size": "1134",
+        "md5": "daa26ea91112708b6d3aa6f741a56885",
+        "crc32": "aa0d1333",
+        "sha1": "4aaecafb7be8ee49c6d47ec42eca12a5dd3c0ef1"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_meta.sqlite",
+        "source": "original",
+        "mtime": "1466981722",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "1f4e4998b8c29c8e2c68bf6bbefb3199",
+        "crc32": "97bf72f8",
+        "sha1": "39ab6dee197c250e389ab836c2d9bac4374efc1b"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1755041029",
+        "size": "4041",
+        "md5": "57b9a5bfe7046dba917cb5ed3efb2172",
+        "crc32": "0c1fb34d",
+        "sha1": "5674059faed245c0c89c7fd8e15a0035a2d0a49b"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1267743258",
+        "size": "401",
+        "md5": "fe027d53c831e3f57c6da8f7d8483cc6",
+        "crc32": "8d027a5",
+        "sha1": "d195ee464616dfa0a5585add94e0032593839049"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1321849525",
+        "size": "314992640",
+        "md5": "175ec287fa5fbfb07a0d8d6f7c16d393",
+        "crc32": "b4845569",
+        "sha1": "b09ce53988e104d8ea26a8a9677528e8ae5a4806",
+        "private": "true",
+        "filecount": "486"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "betterhomesgarde00mcnu_hocr.html",
+        "mtime": "1716664450",
+        "size": "82248",
+        "md5": "ebe5e0bb2e347556f797862414d8f0a4",
+        "crc32": "b86885e2",
+        "sha1": "6b13bfaac136270cbda9afedf00d77d06a49e392",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669422478",
+        "size": "484872",
+        "md5": "88cdd7e3773d71818c53cd37992a7e74",
+        "crc32": "21964abb",
+        "sha1": "204610371e28e65778eef68a3d20101482a51ff6"
+      },
+      {
+        "name": "betterhomesgarde00mcnu_xisbn.json",
+        "source": "original",
+        "mtime": "1454079376",
+        "size": "1203",
+        "md5": "fd5e18120b4907d3ba9e49f985009c37",
+        "crc32": "ea5758c6",
+        "sha1": "401a369506dae19e8d52f1f461a7baff54889dae",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1755041029,
+    "item_size": 788359795,
+    "metadata": {
+      "title": "Better homes and gardens new dieter's cook book",
+      "creator": "McNutt, Heidi, ed",
+      "subject": [
+        "Low-calorie diet",
+        "Diet, Reducing"
+      ],
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "date": "1992-01-01",
+      "language": "eng",
+      "isbn": [
+        "069620374X",
+        "9780696203749"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA112116",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-03-04 22:54:19",
+      "updater": "Craig.B",
+      "identifier": "betterhomesgarde00mcnu",
+      "uploader": "craig.b@archive.org",
+      "addeddate": "2010-03-04 22:54:21",
+      "publicdate": "2010-03-04 22:54:28",
+      "scanner": "scribe15.shenzhen.archive.org",
+      "repub_seconds": "230",
+      "ppi": "386",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-eva@archive.org",
+      "scandate": "20111121042456",
+      "imagecount": "486",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/betterhomesgarde00mcnu",
+      "identifier-ark": "ark:/13960/t5k946v6n",
+      "ocr": "ABBYY FineReader 8.0",
+      "scanfee": "100",
+      "external-identifier": [
+        "urn:acs6:betterhomesgarde00mcnu:pdf:58b814ff-3eb7-4623-b75e-d0f64e21998e",
+        "urn:acs6:betterhomesgarde00mcnu:epub:e5301e2b-1cff-45e2-aada-b283d8270d46",
+        "urn:oclc:record:1028730375",
+        "urn:lcp:betterhomesgarde00mcnu:lcpdf:d1d0cacc-361d-40b3-a6ab-7f6e7d422bd5",
+        "urn:lcp:betterhomesgarde00mcnu:epub:192c108f-3f98-455a-9275-7cdf2b8800a5"
+      ],
+      "sponsordate": "sent20120113",
+      "boxid_2": "CH100401",
+      "donor": "alibris",
+      "containerid_2": "X0001",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": "31530939",
+      "lccn": "91062188",
+      "related-external-id": [
+        "urn:isbn:0696019744",
+        "urn:lccn:91062188",
+        "urn:oclc:31530939",
+        "urn:oclc:35388393",
+        "urn:oclc:670134751",
+        "urn:oclc:732759480",
+        "urn:oclc:779411331",
+        "urn:oclc:858027208",
+        "urn:oclc:879506772",
+        "urn:oclc:36347132",
+        "urn:isbn:1884014011",
+        "urn:lccn:96801015",
+        "urn:oclc:317283670",
+        "urn:oclc:33663134",
+        "urn:oclc:34547613",
+        "urn:oclc:43380539",
+        "urn:oclc:655705883",
+        "urn:oclc:759908049"
+      ],
+      "backup_location": "ia903604_34",
+      "openlibrary_edition": "OL24953753M",
+      "openlibrary_work": "OL16053888W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 9:19:45 UTC 2020",
+        "Tue Apr 2 22:06:35 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "1992-01-01"
+      ]
+    },
+    "server": "ia801608.us.archive.org",
+    "uniq": 2052126455,
+    "workable_servers": [
+      "ia801608.us.archive.org",
+      "ia601608.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/31530939?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "91062188"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Heidi McNutt].",
+          "ed": "1st ed.",
+          "year": "1992",
+          "isbn": [
+            "069620374X"
+          ],
+          "title": "Better homes and gardens new dieter's cook book",
+          "oclcnum": [
+            "31530939"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/31530939?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "91062188"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Heidi McNutt].",
+          "ed": "1st ed.",
+          "year": "1992",
+          "isbn": [
+            "0696019744"
+          ],
+          "title": "Better homes and gardens new dieter's cook book",
+          "oclcnum": [
+            "31530939",
+            "35388393",
+            "670134751",
+            "732759480",
+            "779411331",
+            "858027208",
+            "879506772",
+            "36347132"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/317283670?referer=xid"
+          ],
+          "publisher": "Multicom Publishing, Inc.",
+          "form": [
+            "AA",
+            "BA"
+          ],
+          "lccn": [
+            "96801015",
+            "91062188"
+          ],
+          "lang": "eng",
+          "city": "Seattle WA",
+          "author": "[editor, Heidi McNutt].",
+          "ed": "Windows/Mac. ed.",
+          "year": "1993",
+          "isbn": [
+            "1884014011"
+          ],
+          "title": "Better Homes and Gardens healthy cooking",
+          "oclcnum": [
+            "317283670",
+            "33663134",
+            "34547613",
+            "43380539",
+            "655705883",
+            "759908049",
+            "31530939"
+          ]
+        }
+      ]
+    }
+  }
+}

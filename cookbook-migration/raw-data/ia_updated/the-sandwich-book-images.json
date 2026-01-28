@@ -1,0 +1,306 @@
+{
+  "source": "internet_archive",
+  "identifier": "the-sandwich-book-images",
+  "title": "The Sandwich Book",
+  "creator": "Woolverton Printing & Publishing Co",
+  "year": 1900,
+  "subject": [
+    "cookbook",
+    "sandwiches"
+  ],
+  "description": "The Sandwich Book . Osage, Iowa: Woolverton Printing & Publishing Co. ca. 1900.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn710204.ca.archive.org",
+          "dir": "/0/items/the-sandwich-book-images"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn710204.ca.archive.org",
+          "dir": "/0/items/the-sandwich-book-images"
+        }
+      ]
+    },
+    "created": 1758557215,
+    "d1": "ia903402.us.archive.org",
+    "d2": "ia803402.us.archive.org",
+    "dir": "/8/items/the-sandwich-book-images",
+    "files": [
+      {
+        "name": "The Sandwich book.epub",
+        "source": "derivative",
+        "original": "The Sandwich book_hocr.html",
+        "mtime": "1713605360",
+        "size": "955590",
+        "md5": "41228a1a5833e9c61e3083ae5adab7f4",
+        "crc32": "b7ee64f7",
+        "sha1": "6a60045611d258868a686274246832183ce3fc31",
+        "format": "EPUB"
+      },
+      {
+        "name": "The Sandwich book.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.22",
+        "format": "Text PDF",
+        "original": "The Sandwich book_page_numbers.json",
+        "mtime": "1684336717",
+        "size": "3453500",
+        "md5": "eb8d61a9a047e5ff16ea957d06d61b3c",
+        "crc32": "e9764dd6",
+        "sha1": "5f8778d52f015e7d28d1e2029fe44173f2f02d6f"
+      },
+      {
+        "name": "The Sandwich book_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-3-g9920",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.8866",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "The Sandwich book_jp2.zip",
+        "mtime": "1684336492",
+        "size": "404461",
+        "md5": "47896bcdfbf4ad4a53d18a80e27f1ff7",
+        "crc32": "c2e2b670",
+        "sha1": "208a767fc30f3ba38cbfd818fde0bbedcc3b469f"
+      },
+      {
+        "name": "The Sandwich book_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "The Sandwich book_djvu.xml",
+        "mtime": "1684336588",
+        "size": "27682",
+        "md5": "fe25badf4f0ddacccacd82a790dab669",
+        "crc32": "668a25b1",
+        "sha1": "66dfd66c1a9a5622fe76aecfebf7b93564a7cf62"
+      },
+      {
+        "name": "The Sandwich book_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "The Sandwich book_hocr.html",
+        "mtime": "1684336545",
+        "size": "369991",
+        "md5": "ef47341e3d7c7c8f82c8e3ce4ff1bae9",
+        "crc32": "fa942c73",
+        "sha1": "5edc8ab6b9e46a859bbc689de390e54565671119"
+      },
+      {
+        "name": "The Sandwich book_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.8866",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "The Sandwich book_chocr.html.gz",
+        "mtime": "1684336524",
+        "size": "696812",
+        "md5": "83649d5c35e712efa9bcd34718934e21",
+        "crc32": "95827610",
+        "sha1": "55a3072d720bbb2abf375799f14325a84003e9d2"
+      },
+      {
+        "name": "The Sandwich book_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "The Sandwich book_hocr.html",
+        "mtime": "1684336554",
+        "size": "235",
+        "md5": "72dbf6e0f6a9ee8e5712d2c40d76fdae",
+        "crc32": "01a75f9a",
+        "sha1": "9205b783092abc31f8ee2d6b00e15059f368caa7"
+      },
+      {
+        "name": "The Sandwich book_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "22",
+        "word_conf_11_20": "9",
+        "word_conf_21_30": "9",
+        "word_conf_31_40": "15",
+        "word_conf_41_50": "14",
+        "word_conf_51_60": "17",
+        "word_conf_61_70": "29",
+        "word_conf_71_80": "34",
+        "word_conf_81_90": "138",
+        "word_conf_91_100": "4283",
+        "format": "OCR Search Text",
+        "original": "The Sandwich book_hocr.html",
+        "mtime": "1684336578",
+        "size": "9548",
+        "md5": "6ac0f2fecdda3d16aa17b1e2cf3b74bc",
+        "crc32": "903dcde8",
+        "sha1": "20d1c3721b20f4a02ce7de8e76846ed6a7eb2d0b"
+      },
+      {
+        "name": "The Sandwich book_images.zip",
+        "source": "original",
+        "mtime": "1684336202",
+        "size": "23121544",
+        "md5": "8103314a46490da4798149a3704386b3",
+        "crc32": "e6a884f7",
+        "sha1": "a424bec563d1bfc8a5a2be8eac936df0823c20c2",
+        "format": "Generic Raw Book Zip",
+        "filecount": "42"
+      },
+      {
+        "name": "The Sandwich book_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "The Sandwich book_images.zip",
+        "mtime": "1684336349",
+        "size": "7338831",
+        "md5": "269433c435d83a35f6cc8991264ae458",
+        "crc32": "4296ff97",
+        "sha1": "64e045f1458b1a056135cf27f3b4cb3a227157bf",
+        "filecount": "20"
+      },
+      {
+        "name": "The Sandwich book_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "The Sandwich book_djvu.xml",
+        "mtime": "1684336598",
+        "size": "3451",
+        "md5": "e0f8bc3115f59263b070ad66734b9c7b",
+        "crc32": "4a7f541d",
+        "sha1": "54b947a60bf7f5c87ec6d0cb1baa9c39a6582ba7"
+      },
+      {
+        "name": "The Sandwich book_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "The Sandwich book_djvu.xml",
+        "mtime": "1684336598",
+        "size": "7089",
+        "md5": "a4f6e9e78d0e73c91298f26ed361a901",
+        "crc32": "69394c4e",
+        "sha1": "db2231492ac4ce40dc73a41923f07908f667c676"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1684336773",
+        "size": "24101",
+        "md5": "906e80dd8b0707889f5da31f8e52b26c",
+        "crc32": "62153e4d",
+        "sha1": "7a1bac7110925015661dc1f6413608277ab98785",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "the-sandwich-book-images_archive.torrent",
+        "source": "metadata",
+        "btih": "f2c3db5fb35cf4c5319d6ec666daf736ab9b054e",
+        "mtime": "1716130416",
+        "size": "5341",
+        "md5": "d1f26846131f5f9b9f1c30252ee0bb47",
+        "crc32": "1ab7b736",
+        "sha1": "696cbea18f1e40c348e515a82877d1530321c687",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "the-sandwich-book-images_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "97690b8bdfa7665c60da66b1e582c9fe",
+        "summation": "md5"
+      },
+      {
+        "name": "the-sandwich-book-images_meta.sqlite",
+        "source": "original",
+        "mtime": "1684336224",
+        "size": "20480",
+        "md5": "7c2b3041f771a86b77121c97b6fecd8e",
+        "crc32": "ff7dff1d",
+        "sha1": "62e115705c10c85938f8febed83d8c6ef8a27e60",
+        "format": "Metadata"
+      },
+      {
+        "name": "the-sandwich-book-images_meta.xml",
+        "source": "original",
+        "mtime": "1716130414",
+        "size": "1758",
+        "md5": "f331e457777f1ed1047f03cdaa31dd29",
+        "crc32": "29dad992",
+        "sha1": "970a44f6159e5b43ceb60f67bc7b54038390802c",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 17,
+    "item_last_updated": 1716130416,
+    "item_size": 36440414,
+    "metadata": {
+      "identifier": "the-sandwich-book-images",
+      "mediatype": "texts",
+      "collection": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "creator": "Woolverton Printing & Publishing Co",
+      "date": "1900-01-01",
+      "description": "<i>The Sandwich Book</i>. Osage, Iowa: Woolverton Printing &amp; Publishing Co. ca.  1900.\n",
+      "language": "eng",
+      "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "cookbook",
+        "sandwiches"
+      ],
+      "title": "The Sandwich Book",
+      "uploader": "valoise@gmail.com",
+      "publicdate": "2023-05-17 15:10:20",
+      "addeddate": "2023-05-17 15:10:20",
+      "curation": "[curator]validator@archive.org[/curator][date]20230517151031[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/the-sandwich-book-images",
+      "identifier-ark": "ark:/13960/s2xkk6tcn5x",
+      "ocr": "tesseract 5.3.0-3-g9920",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.8866",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "78.95",
+      "pdf_module_version": "0.0.22",
+      "year": "1900",
+      "collection_added": [
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia903402.us.archive.org",
+    "uniq": 325954811,
+    "workable_servers": [
+      "ia903402.us.archive.org",
+      "ia803402.us.archive.org"
+    ]
+  },
+  "institution": "Woolverton Printing & Publishing Co",
+  "pdf_url": "https://archive.org/download/the-sandwich-book-images/The Sandwich book.pdf",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

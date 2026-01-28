@@ -1,0 +1,107 @@
+{
+  "source": "dpla",
+  "id": "dfa8539add28243a0ef4b35594aa5ae6",
+  "identifier": "dfa8539add28243a0ef4b35594aa5ae6",
+  "title": "Charlotte sunshine cook book",
+  "subject": [
+    "Cooking",
+    "Cooking, American",
+    "Community cookbooks",
+    "Formulas, recipes, etc"
+  ],
+  "spatial": [
+    "Michigan",
+    "Charlotte"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5f18wg49",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1906,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/dfa8539add28243a0ef4b35594aa5ae6#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "contributor": [
+        "Wyrick, Lilian V"
+      ],
+      "date": [
+        {
+          "begin": "1906",
+          "displayDate": "1906",
+          "end": "1906"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Charlotte"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Community cookbooks"
+        },
+        {
+          "name": "Formulas, recipes, etc"
+        }
+      ],
+      "title": [
+        "Charlotte sunshine cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1906-01-01",
+      "normalized_dates": [
+        "1906-01-01"
+      ],
+      "date_range": {
+        "begin": "1906-01-01",
+        "end": "1906-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5f18wg49/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5f18wg49"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

@@ -1,0 +1,565 @@
+{
+  "source": "internet_archive",
+  "identifier": "tasteofhomeannua00stei",
+  "title": "Taste of home annual recipes, 2003",
+  "creator": "Steiner, Jean",
+  "year": 2002,
+  "subject": [
+    "Cookery, American",
+    "American cooking"
+  ],
+  "description": [
+    "Includes index",
+    "\"Every recipe from last year ... plus more!\"--Cover"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/tasteofhomeannua00stei"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/tasteofhomeannua00stei"
+        }
+      ]
+    },
+    "created": 1758557196,
+    "d1": "ia904503.us.archive.org",
+    "d2": "ia804503.us.archive.org",
+    "dir": "/9/items/tasteofhomeannua00stei",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661145468",
+        "size": "26308",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "25a2bb254e31a5b88c6d26eeebbf82b7",
+        "crc32": "5324db1f",
+        "sha1": "84667d81fef4e50aad3a4ad57be2199392c3a7dc"
+      },
+      {
+        "name": "tasteofhomeannua00stei.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "tasteofhomeannua00stei_hocr.html",
+        "mtime": "1754102062",
+        "size": "96733642",
+        "private": "true",
+        "md5": "6e81264362e4c0511f6b7d61605ce0b4",
+        "crc32": "5edea57e",
+        "sha1": "f741f5c0270d7fbcd15be307eea6a303ca66ad14"
+      },
+      {
+        "name": "tasteofhomeannua00stei.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "tasteofhomeannua00stei_jp2.zip",
+        "md5": "ea313d82f5ceba17d4085deba2a49f11",
+        "mtime": "1267758020",
+        "size": "275470",
+        "crc32": "b9a7929d",
+        "sha1": "2dd1996444845d2e2dfe4509d5d66b8e1b353d54"
+      },
+      {
+        "name": "tasteofhomeannua00stei.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "tasteofhomeannua00stei.pdf",
+        "mtime": "1754101699",
+        "size": "36419741",
+        "md5": "5e75ee497d08b0b7076cfd9d766fdd20",
+        "crc32": "1a26f592",
+        "sha1": "2f1a98315e34aedbc9100361f406d9e3890a2fdb"
+      },
+      {
+        "name": "tasteofhomeannua00stei.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "tasteofhomeannua00stei_page_numbers.json",
+        "mtime": "1715466973",
+        "size": "35874511",
+        "md5": "8d423b0aad49caa8dc322fb3f3081761",
+        "crc32": "38da22c5",
+        "sha1": "ff49fbe1b1867b41130e5a5f3c771a497bfc6bda",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomeannua00stei_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "tasteofhomeannua00stei_jp2.zip",
+        "md5": "6750f088861357e9069534b05ea1aaa9",
+        "mtime": "1267771609",
+        "size": "12014046",
+        "crc32": "fc70d6de",
+        "sha1": "f7eb4853cfddccc7ec406e504ddde93814bb84a2",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomeannua00stei_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "tasteofhomeannua00stei_abbyy.gz",
+        "mtime": "1661145068",
+        "size": "9932889",
+        "md5": "13c144e3be3fd17de08ecaeb80836da6",
+        "crc32": "edd96692",
+        "sha1": "b3981859513d8e93f9ef1fe45154ed764b1fbc91",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomeannua00stei_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "tasteofhomeannua00stei_scandata.xml",
+        "mtime": "1671415597",
+        "size": "781",
+        "md5": "00e7d0236069f7ce8b329bdc31029ba0",
+        "crc32": "993f117f",
+        "sha1": "54f226559fe90fb59c36a241e5dd88acd5d639bd",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomeannua00stei_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "bd316412faf8cd9a62e8e18dab151b4d",
+        "mtime": "1266361064",
+        "size": "770",
+        "crc32": "f1773be8",
+        "sha1": "6c6dff7e10bcc402c67cef0dc8ff1949902dce1a"
+      },
+      {
+        "name": "tasteofhomeannua00stei_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "tasteofhomeannua00stei_djvu.xml",
+        "mtime": "1715466989",
+        "size": "909478",
+        "md5": "9950e503c380592a745327427f22c28f",
+        "crc32": "53a59aec",
+        "sha1": "e3778c53dc2e6e0ddc97badd8e325353f2ed8b72",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomeannua00stei_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "tasteofhomeannua00stei_hocr.html",
+        "mtime": "1715466150",
+        "size": "10715443",
+        "md5": "d26f1255bcadd92884ef7cc08c735633",
+        "crc32": "2230fe9a",
+        "sha1": "745332d8df4957d8a8c9b3dc879bc208339d3c2c",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomeannua00stei_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "tasteofhomeannua00stei.pdf",
+        "mtime": "1715466995",
+        "size": "35790485",
+        "md5": "9b00c65a751c281f492bb3ced46d7941",
+        "crc32": "e627c81b",
+        "sha1": "6a72e47017bbdecfcf4924f4678b7b9355eb0a1e"
+      },
+      {
+        "name": "tasteofhomeannua00stei_extramarc.xml",
+        "source": "original",
+        "mtime": "1419589514",
+        "size": "3503",
+        "md5": "a62a7d61bd31348d675bf314863849d7",
+        "crc32": "a5d5f64b",
+        "sha1": "7a6214f9da9c818d13dfefb85ed21ada257c8e78",
+        "format": "Metadata"
+      },
+      {
+        "name": "tasteofhomeannua00stei_files.xml",
+        "source": "metadata",
+        "format": "Metadata",
+        "md5": "b82179e76ea87ef6a8ce58c1c0493d39",
+        "summation": "md5"
+      },
+      {
+        "name": "tasteofhomeannua00stei_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "tasteofhomeannua00stei_chocr.html.gz",
+        "mtime": "1661145230",
+        "size": "21135953",
+        "md5": "44918695f39c65b3ab59a18b00d89b7c",
+        "crc32": "0b10e35e",
+        "sha1": "e70b02b309da35045ea996809dac15173b827d34",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomeannua00stei_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "tasteofhomeannua00stei_hocr.html",
+        "mtime": "1661145349",
+        "size": "3925",
+        "md5": "af9598300f729c4c0d4a7c0935252713",
+        "crc32": "219b7381",
+        "sha1": "e687e169d57c98d4b235bbd7f28bd368d4fc2f13",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomeannua00stei_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "8873",
+        "word_conf_11_20": "4912",
+        "word_conf_21_30": "11755",
+        "word_conf_31_40": "9645",
+        "word_conf_41_50": "18051",
+        "word_conf_51_60": "22396",
+        "word_conf_61_70": "25118",
+        "word_conf_71_80": "15420",
+        "word_conf_81_90": "4906",
+        "word_conf_91_100": "9319",
+        "format": "OCR Search Text",
+        "original": "tasteofhomeannua00stei_hocr.html",
+        "mtime": "1661145437",
+        "size": "247534",
+        "md5": "0415dbda23303f3c69d31341829a60bb",
+        "crc32": "5bda3293",
+        "sha1": "0578a9c007bb5552e034cee85339690b0b6e36d9",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomeannua00stei_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "tasteofhomeannua00stei_orig_jp2.tar",
+        "md5": "7757308f8f3b374f4d0d8e919e126b73",
+        "mtime": "1267757979",
+        "size": "194359465",
+        "crc32": "4586c044",
+        "sha1": "4b41d0897ef1245000703d898697a6453c84c69d",
+        "private": "true",
+        "filecount": "334"
+      },
+      {
+        "name": "tasteofhomeannua00stei_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "tasteofhomeannua00stei.epub",
+        "mtime": "1754102420",
+        "size": "96897099",
+        "md5": "4bcf0d7aa625efe95e9e7a266a957976",
+        "crc32": "634442ee",
+        "sha1": "eb6965966a5454bef17f3bb0d95072c3b83127cd"
+      },
+      {
+        "name": "tasteofhomeannua00stei_loans.json",
+        "source": "original",
+        "mtime": "1593023343",
+        "size": "19525",
+        "format": "JSON",
+        "private": "true",
+        "md5": "a0c88beadcd0c7e6702fa490bac532d4",
+        "crc32": "d72b713d",
+        "sha1": "0cce4603f883e2029d34650271c4a09e0bfe08b9"
+      },
+      {
+        "name": "tasteofhomeannua00stei_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "53380c9f79ac17a7305233870373b6b6",
+        "mtime": "1266361064",
+        "size": "3668",
+        "crc32": "1e3e8932",
+        "sha1": "0a32492b416fb6ccb8000a7df1ef33a934bc0f15"
+      },
+      {
+        "name": "tasteofhomeannua00stei_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "tasteofhomeannua00stei_xisbn.json",
+        "mtime": "1454774077",
+        "size": "474",
+        "md5": "f9b087552498aad38f51f1f2151761e7",
+        "crc32": "2a31d168",
+        "sha1": "fd0f53fb9025f965f24e377fa82349d1715a8fc2",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomeannua00stei_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "e54f5e5d1a31de0fe7617dabbf98f0e9",
+        "mtime": "1266361064",
+        "size": "1282",
+        "crc32": "59f9bf03",
+        "sha1": "8123f2a55cee7c2a5230f9994824163a89fbe699"
+      },
+      {
+        "name": "tasteofhomeannua00stei_meta.sqlite",
+        "source": "original",
+        "mtime": "1462917853",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "fc7ceffc0f9950cd46adb22a09b28c62",
+        "crc32": "0b74829d",
+        "sha1": "cef9640cfd3c853193ebfecda22cfa3a7654867b"
+      },
+      {
+        "name": "tasteofhomeannua00stei_meta.xml",
+        "source": "metadata",
+        "format": "Metadata",
+        "mtime": "1754102421",
+        "size": "3394",
+        "md5": "38ff7c18e9790806d47045de05a47952",
+        "crc32": "6d4667d3",
+        "sha1": "4b4e1e911881dcc6a9f941cea577be3854aef361"
+      },
+      {
+        "name": "tasteofhomeannua00stei_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "f9c09556331350b254a5efeba26b80c5",
+        "mtime": "1266361064",
+        "size": "473",
+        "crc32": "7b137172",
+        "sha1": "0b2418960b8eb03240c9679cbf09cb42e0c8151a"
+      },
+      {
+        "name": "tasteofhomeannua00stei_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "58272b336a9699209383c840efbd7ace",
+        "mtime": "1267755183",
+        "size": "253655040",
+        "crc32": "7637c86c",
+        "sha1": "38455f28a14078bca36d7afe14f22ea6fdc61b3e",
+        "private": "true",
+        "filecount": "334"
+      },
+      {
+        "name": "tasteofhomeannua00stei_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "98",
+        "format": "Page Numbers JSON",
+        "original": "tasteofhomeannua00stei_hocr.html",
+        "mtime": "1715466161",
+        "size": "56061",
+        "md5": "61895dd573fb2c546a28e5c85839406b",
+        "crc32": "09465bb2",
+        "sha1": "0d57404c106b4ef48073b9338f52b08f41e05d9f",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomeannua00stei_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "2999c479d9a8917384d2deb39d5459fb",
+        "mtime": "1671415597",
+        "size": "173675",
+        "crc32": "ad82b3f8",
+        "sha1": "52229c4d0efad4edca7e53c134bbe63f9a48ede2"
+      },
+      {
+        "name": "tasteofhomeannua00stei_xisbn.json",
+        "source": "original",
+        "mtime": "1454771624",
+        "size": "637",
+        "md5": "abb6576e4f896e77f4234e4af2e3e879",
+        "crc32": "05b68b72",
+        "sha1": "025bad0b44f2797a75f3569d98e4a46ecc3bdf8e",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1754102421,
+    "item_size": 805261416,
+    "metadata": {
+      "title": "Taste of home annual recipes, 2003",
+      "creator": [
+        "Steiner, Jean",
+        "Cunningham, Janaan"
+      ],
+      "subject": [
+        "Cookery, American",
+        "American cooking"
+      ],
+      "description": [
+        "Includes index",
+        "\"Every recipe from last year ... plus more!\"--Cover"
+      ],
+      "publisher": "Greendale, WI : Reiman Publications",
+      "date": "2002-01-01",
+      "language": "eng",
+      "isbn": [
+        "0898213525",
+        "9780898213522"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA112007",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sfdowntown",
+      "mediatype": "texts",
+      "updatedate": "2010-02-16 22:57:44",
+      "updater": "loader-DanaB",
+      "identifier": "tasteofhomeannua00stei",
+      "uploader": "scanner-dana-base@archive.org",
+      "addeddate": "2010-02-16 22:57:46",
+      "publicdate": "2010-02-16 22:57:54",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-maria-jordan@archive.org",
+      "scanner": "scribe1.sfdowntown.archive.org",
+      "scandate": "20100305014241",
+      "imagecount": "332",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/tasteofhomeannua00stei",
+      "identifier-ark": "ark:/13960/t57d3j045",
+      "bookplateleaf": "0003",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20100405215951[/date][state]approved[/state]",
+      "repub_state": "4",
+      "boxid_2": "CH101901",
+      "donor": "alibris",
+      "external-identifier": [
+        "urn:acs6:tasteofhomeannua00stei:pdf:cd831c2f-e6ef-427e-8a24-ef4599e44691",
+        "urn:acs6:tasteofhomeannua00stei:epub:49a10b4f-ef26-4c6a-8f10-db51657b62a3",
+        "urn:oclc:record:1036955846",
+        "urn:lcp:tasteofhomeannua00stei:lcpdf:d2acfe0d-5047-40f7-8ec0-d6addedf92e8",
+        "urn:lcp:tasteofhomeannua00stei:epub:230ee9fa-60e0-440e-933e-9be00f5391a4"
+      ],
+      "containerid_2": "X0001",
+      "extramarc": "OhioLINK Library Catalog",
+      "city": "Greendale, WI",
+      "oclc-id": [
+        "51196500",
+        "733821940",
+        "778985163",
+        "779411316",
+        "780525101",
+        "785836145",
+        "797096819",
+        "799270112",
+        "858068917"
+      ],
+      "backup_location": "ia903604_30",
+      "openlibrary_edition": "OL24221354M",
+      "openlibrary_work": "OL15153728W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Sat Dec 26 10:43:45 UTC 2020",
+        "Wed Apr 3 14:48:42 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "98",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia904503.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "num_copies": 12,
+            "pallet": [
+              "IA40022322",
+              "IA-MC-0000014",
+              "IA-MC-0000009",
+              "IA-MC-1200006",
+              "IA-MC-1200005",
+              "IA-MC-0000017",
+              "IA-MC-1300000",
+              "IA-MC-1300004",
+              "IA-MC-1300000",
+              "IA-MC-1200002",
+              "IA-MC-0000002",
+              "IA-MC-0000003"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-04-20 03:01:46.086067"
+        }
+      }
+    },
+    "uniq": 1830534392,
+    "workable_servers": [
+      "ia904503.us.archive.org",
+      "ia804503.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/51196500?referer=xid"
+          ],
+          "publisher": "Reiman Publications",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Greendale, WI",
+          "author": "[editor : Jean Steiner ; art director : Niki Malmberg ; food editor : Janaan Cunningham ; associate editors : Julie Schnittka, Susan Uphill, Heidi Reuter Lloyd ; art associates : Jami Zewen, Kristin Bork ; production : Ellen Lloyd, Catherine Fletcher.].",
+          "year": "2002",
+          "isbn": [
+            "0898213525"
+          ],
+          "title": "Taste of home annual recipes, 2003",
+          "oclcnum": [
+            "51196500",
+            "733821940",
+            "778985163",
+            "779411316",
+            "780525101",
+            "785836145",
+            "797096819",
+            "799270112",
+            "858068917"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Steiner, Jean",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

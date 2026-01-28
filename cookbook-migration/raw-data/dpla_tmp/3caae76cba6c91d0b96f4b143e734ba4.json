@@ -1,0 +1,103 @@
+{
+  "source": "dpla",
+  "id": "3caae76cba6c91d0b96f4b143e734ba4",
+  "identifier": "3caae76cba6c91d0b96f4b143e734ba4",
+  "title": "Hudson cook book",
+  "subject": [
+    "Cooking",
+    "Community cookbooks",
+    "Cooking, American"
+  ],
+  "spatial": [
+    "Michigan",
+    "Hudson"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5ht2kd01",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1916,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/3caae76cba6c91d0b96f4b143e734ba4#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "contributor": [
+        "Ladies of Hudson (Mich.)"
+      ],
+      "date": [
+        {
+          "begin": "1916",
+          "displayDate": "1916",
+          "end": "1916"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Hudson"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Community cookbooks"
+        },
+        {
+          "name": "Cooking, American"
+        }
+      ],
+      "title": [
+        "Hudson cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1916-01-01",
+      "normalized_dates": [
+        "1916-01-01"
+      ],
+      "date_range": {
+        "begin": "1916-01-01",
+        "end": "1916-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5ht2kd01/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5ht2kd01"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

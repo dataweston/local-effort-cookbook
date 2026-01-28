@@ -1,0 +1,35 @@
+{
+  "source": "dpla",
+  "id": "d060703f41aa63d225f1f06f5214ce3f",
+  "identifier": "d060703f41aa63d225f1f06f5214ce3f",
+  "title": "Gathered treasures: a receipt book",
+  "subject": [],
+  "spatial": [
+    "Minneapolis, Hennepin County, Minnesota"
+  ],
+  "description": "Cookbook containing recipes compiled by the women of the Universalist Society of Minneapolis, Minnesota.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/99",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/99",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/99"
+  },
+  "location": {
+    "state": "Minnesota",
+    "county": "Hennepin County",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 8,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "County match: Hennepin County; State match: Minnesota; Digitized scan available"
+}

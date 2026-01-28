@@ -1,0 +1,297 @@
+{
+  "source": "internet_archive",
+  "identifier": "1910-cook-book",
+  "title": "1910 Cook Book",
+  "creator": "St. John’s Episcopal Church – Decatur, Illinois",
+  "year": 1915,
+  "subject": [
+    "Decatur",
+    "Illinois",
+    "Episcopal",
+    "St. John’s"
+  ],
+  "description": "The Little Brown Book Of Recipes",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/1910-cook-book"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/1910-cook-book"
+        }
+      ]
+    },
+    "created": 1758559073,
+    "d1": "ia903405.us.archive.org",
+    "d2": "ia803405.us.archive.org",
+    "dir": "/25/items/1910-cook-book",
+    "files": [
+      {
+        "name": "1910 Cook Book.pdf",
+        "source": "original",
+        "mtime": "1618854672",
+        "size": "214019720",
+        "md5": "ccb819c2a9808e04d67b9d906d83de4c",
+        "crc32": "4e609e03",
+        "sha1": "8b76131e5c05004b86109c8285a2f92025b00307",
+        "format": "Image Container PDF"
+      },
+      {
+        "name": "1910 Cook Book_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l eng+spa+deu+Latin",
+        "ocr_module_version": "0.0.13",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "1910 Cook Book_jp2.zip",
+        "mtime": "1618856979",
+        "size": "744677",
+        "md5": "c7d0861133cf4b974e45d0354e8efcf4",
+        "crc32": "4693ce2f",
+        "sha1": "bd74fa1db75a551b88c68b6162a181bf868585bc"
+      },
+      {
+        "name": "1910 Cook Book_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "1910 Cook Book_djvu.xml",
+        "mtime": "1618857044",
+        "size": "52107",
+        "md5": "1f5495a8aeaf6be15e096441df5423c1",
+        "crc32": "9271507d",
+        "sha1": "a1bc0e99aeea59f40caf9a503f440fa2d7bbcd0d"
+      },
+      {
+        "name": "1910 Cook Book_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "1910 Cook Book_hocr.html",
+        "mtime": "1618857013",
+        "size": "750994",
+        "md5": "f6f8de49973c2c5aeaab18e34117f0ef",
+        "crc32": "ae85ae46",
+        "sha1": "8dfa79fb01730723aaa6a121139b79f486c5892b"
+      },
+      {
+        "name": "1910 Cook Book_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng+spa+deu+Latin",
+        "ocr_module_version": "0.0.13",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "1910 Cook Book_chocr.html.gz",
+        "mtime": "1618857003",
+        "size": "1468838",
+        "md5": "62c860bc57bc3b908774daa05318aa7d",
+        "crc32": "9621c639",
+        "sha1": "0866f3fa08c4bc5f4a9d054dacc031e5651090fa"
+      },
+      {
+        "name": "1910 Cook Book_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "1910 Cook Book_hocr.html",
+        "mtime": "1618857023",
+        "size": "232",
+        "md5": "4b5ad80c603469e8252507cf2ed63645",
+        "crc32": "230aa9c7",
+        "sha1": "7ab2cab4d7897fd3fcaec5e0a834f3dfe40a2422"
+      },
+      {
+        "name": "1910 Cook Book_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "7",
+        "word_conf_11_20": "11",
+        "word_conf_21_30": "19",
+        "word_conf_31_40": "32",
+        "word_conf_41_50": "21",
+        "word_conf_51_60": "44",
+        "word_conf_61_70": "51",
+        "word_conf_71_80": "87",
+        "word_conf_81_90": "343",
+        "word_conf_91_100": "8583",
+        "format": "OCR Search Text",
+        "original": "1910 Cook Book_hocr.html",
+        "mtime": "1618857037",
+        "size": "17986",
+        "md5": "e78470ac4861a57c2463d0708acc5be5",
+        "crc32": "f0ada1fe",
+        "sha1": "06485ac97abf7f33458a29ab55d0365f3d3854ae"
+      },
+      {
+        "name": "1910 Cook Book_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "1910 Cook Book.pdf",
+        "mtime": "1618855601",
+        "size": "30742379",
+        "md5": "c798585cd508710c3923a02269f6a3d7",
+        "crc32": "29ccd200",
+        "sha1": "00e6cfc7d2761f54feff4327f0f0a687c78e47b6",
+        "filecount": "18"
+      },
+      {
+        "name": "1910 Cook Book_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "1910 Cook Book_djvu.xml",
+        "mtime": "1618857067",
+        "size": "3463",
+        "md5": "58c03b063e07cc1259ab26d088794f2f",
+        "crc32": "31a02da7",
+        "sha1": "d2c837f1c32a2ba35e4aa75d5ec512ad490d3fe2"
+      },
+      {
+        "name": "1910 Cook Book_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "1910 Cook Book_djvu.xml",
+        "mtime": "1618857063",
+        "size": "5976",
+        "md5": "018baf36462bd0679bf388d26b926326",
+        "crc32": "2aef1b2c",
+        "sha1": "f449207718fbffba96a1f28066fb4d3c750d0cc6"
+      },
+      {
+        "name": "1910 Cook Book_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.11",
+        "format": "Additional Text PDF",
+        "original": "1910 Cook Book_page_numbers.json",
+        "mtime": "1618858150",
+        "size": "13020478",
+        "md5": "369bdca92150dff16a17d9c659eda5fb",
+        "crc32": "b90ad89c",
+        "sha1": "be9a77bd661330795002336eb1e0d9af90c09994"
+      },
+      {
+        "name": "1910-cook-book_archive.torrent",
+        "source": "metadata",
+        "btih": "db00c5815f249fab310f4057ed5a644c964051b6",
+        "mtime": "1750894583",
+        "size": "13605",
+        "md5": "2cdfd2249b56ce9210d5d2168510e65e",
+        "crc32": "65317cbc",
+        "sha1": "a58237fad9987b7aed020a7c26d502157810d60b",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "1910-cook-book_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "a11dd5aeceea11e04cd2d255dcd513f6",
+        "summation": "md5"
+      },
+      {
+        "name": "1910-cook-book_meta.sqlite",
+        "source": "original",
+        "mtime": "1618854713",
+        "size": "20480",
+        "md5": "97df7d79a11437de706ec2d54c367488",
+        "crc32": "40b76fef",
+        "sha1": "94d2a58f1f5b5cfdc49c9f15974f05d6c48d04cd",
+        "format": "Metadata"
+      },
+      {
+        "name": "1910-cook-book_meta.xml",
+        "source": "original",
+        "mtime": "1750894579",
+        "size": "1497",
+        "md5": "ba05088600148d72c9536c299ddc3765",
+        "crc32": "dab4080c",
+        "sha1": "8cc0b90cf07fa03da3c7aa221de920344a36af3f",
+        "format": "Metadata"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1685444205",
+        "size": "7821",
+        "md5": "35d06a33bd08dad353d8a772d2d9c59d",
+        "crc32": "1914fb11",
+        "sha1": "67a71246665fc133046e0db85d6551f31a3d9338",
+        "format": "Item Tile",
+        "rotation": "0"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1750894583,
+    "item_size": 260870253,
+    "metadata": {
+      "identifier": "1910-cook-book",
+      "mediatype": "texts",
+      "collection": [
+        "opensource",
+        "community"
+      ],
+      "creator": "St. John’s Episcopal Church – Decatur, Illinois",
+      "date": "1915-01-01",
+      "description": "The Little Brown Book Of Recipes",
+      "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+      "subject": [
+        "Decatur",
+        "Illinois",
+        "Episcopal",
+        "St. John’s"
+      ],
+      "title": "1910 Cook Book",
+      "uploader": "runninreds@hotmail.com",
+      "publicdate": "2021-04-19 17:51:41",
+      "addeddate": "2021-04-19 17:51:41",
+      "curation": "[curator]validator@archive.org[/curator][date]20210419175716[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/1910-cook-book",
+      "identifier-ark": "ark:/13960/t22c9nd5t",
+      "ppi": "300",
+      "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+      "ocr_parameters": "-l eng+spa+deu+Latin",
+      "ocr_module_version": "0.0.13",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "pdf_module_version": "0.0.11",
+      "language": "eng"
+    },
+    "server": "ia803405.us.archive.org",
+    "uniq": 327728009,
+    "workable_servers": [
+      "ia803405.us.archive.org",
+      "ia903405.us.archive.org"
+    ]
+  },
+  "institution": "St. John’s Episcopal Church – Decatur, Illinois",
+  "pdf_url": "https://archive.org/download/1910-cook-book/1910 Cook Book.pdf",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Episcopal"
+    ]
+  },
+  "curation_notes": "State match: Illinois; Community markers: Church, Episcopal; Digitized scan available"
+}

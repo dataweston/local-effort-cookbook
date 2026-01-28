@@ -1,0 +1,113 @@
+{
+  "source": "dpla",
+  "id": "5c19ec1a9e32b552c9e02df8d2ff8406",
+  "identifier": "5c19ec1a9e32b552c9e02df8d2ff8406",
+  "title": "[Dessert cookbook]",
+  "subject": [
+    "Cooking",
+    "Cooking, American",
+    "Desserts",
+    "Iowa"
+  ],
+  "spatial": [
+    "Iowa"
+  ],
+  "description": "Bound composition book containing manuscript recipes for desserts. Recipes include: white cake, California cake, cocoanut layer cake, devil's food, cookies, orange pudding, marble cake, spice cake, Rocky Mountain cake and poor man's cake",
+  "isShownAt": "https://library.ucsd.edu/dc/object/bb6012116w",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/cdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q5020447"
+    ],
+    "name": "California Digital Library"
+  },
+  "institution": "California Digital Library",
+  "year": 1896,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/5c19ec1a9e32b552c9e02df8d2ff8406#SourceResource",
+      "collection": [
+        {
+          "title": "American Institute of Wine & Food Culinary Collection"
+        }
+      ],
+      "creator": [
+        "Vruland, Sarah May"
+      ],
+      "date": [
+        {
+          "begin": "1896",
+          "displayDate": "1896",
+          "end": "1896"
+        }
+      ],
+      "description": [
+        "Bound composition book containing manuscript recipes for desserts. Recipes include: white cake, California cake, cocoanut layer cake, devil's food, cookies, orange pudding, marble cake, spice cake, Rocky Mountain cake and poor man's cake",
+        "Special Collections & Archives, UC San Diego, La Jolla, 92093-0175 (https://lib.ucsd.edu/sca)",
+        "Two additional manuscript items laid in with more recipes"
+      ],
+      "extent": [
+        "1 v. (8 leaves) ; 20 cm"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "Public domain",
+        "Constraint(s) on Use: This work may be used without prior permission.",
+        "Use: This work is available from the UC San Diego Library. This digital copy of the work is intended to support research, teaching, and private study."
+      ],
+      "spatial": [
+        {
+          "name": "Iowa"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Desserts"
+        },
+        {
+          "name": "Iowa"
+        }
+      ],
+      "title": [
+        "[Dessert cookbook]"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1896-01-01",
+      "normalized_dates": [
+        "1896-01-01"
+      ],
+      "date_range": {
+        "begin": "1896-01-01",
+        "end": "1896-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://thumbnails.calisphere.org/clip/150x150/28e9ae4cc48a905b947ad6027fd30998",
+    "isShownAt": "https://library.ucsd.edu/dc/object/bb6012116w"
+  },
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

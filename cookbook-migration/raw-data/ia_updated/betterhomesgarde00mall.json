@@ -1,0 +1,527 @@
+{
+  "source": "internet_archive",
+  "identifier": "betterhomesgarde00mall",
+  "title": "Better homes and gardens hot off the grill",
+  "creator": "Malloy, Julia",
+  "year": 1985,
+  "subject": "Barbecue cookery",
+  "description": "Includes index",
+  "metadata": {
+    "created": 1758555865,
+    "d1": "ia601606.us.archive.org",
+    "d2": "ia801606.us.archive.org",
+    "dir": "/26/items/betterhomesgarde00mall",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658704834",
+        "size": "21964",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "f5179d9e73cc705f3b01728d271ec634",
+        "crc32": "5d2b54aa",
+        "sha1": "ecaee8b947726eb2a6b3b024e0e20393287c7f7f"
+      },
+      {
+        "name": "betterhomesgarde00mall.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "betterhomesgarde00mall_jp2.zip",
+        "mtime": "1323827037",
+        "size": "238805",
+        "md5": "9a45e76a1e123a8499dbd5b9f268d086",
+        "crc32": "7f611fa1",
+        "sha1": "bfcdfd6b9f9b590aad9df3ee7dc5818fef51752a"
+      },
+      {
+        "name": "betterhomesgarde00mall.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "betterhomesgarde00mall.pdf",
+        "mtime": "1715752926",
+        "size": "12472827",
+        "md5": "d5584652b7b60c11f8e988798e40a87f",
+        "crc32": "658ed7be",
+        "sha1": "a538d052d5c7250467f6e44494fdd6a85f53b9ce"
+      },
+      {
+        "name": "betterhomesgarde00mall.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "betterhomesgarde00mall_page_numbers.json",
+        "mtime": "1715752883",
+        "size": "12296239",
+        "md5": "f5018cc4a438cdb43c4333e757a3a66d",
+        "crc32": "12cb98e6",
+        "sha1": "8903fc585756f90afa8aaf1e5f1b5ad9084314ef",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mall_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "betterhomesgarde00mall_jp2.zip",
+        "mtime": "1323829033",
+        "size": "2565347",
+        "md5": "3c0f6aaeaf79913bf0d7945691b76dd3",
+        "crc32": "ab74bdab",
+        "sha1": "e05c09bacd3e62da58253f23e4802a706d3b0702",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mall_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "betterhomesgarde00mall_abbyy.gz",
+        "mtime": "1658704528",
+        "size": "2132199",
+        "md5": "fef3026dda2671ac08cc3002ed37edb3",
+        "crc32": "43b4baea",
+        "sha1": "816f7e1c558153948d696bb51fa8c380d6e15267",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mall_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "betterhomesgarde00mall_scandata.xml",
+        "mtime": "1669421693",
+        "size": "781",
+        "md5": "d6a54eb81e331812b07786d77d9e04dc",
+        "crc32": "a2731175",
+        "sha1": "3e4a941145432949fe54e5abb902d58a263c2908",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mall_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1261005786",
+        "size": "773",
+        "md5": "0cdbfb72ab89caaadb9cf197e681f671",
+        "crc32": "36f76daf",
+        "sha1": "9c654a92bf74dc2d9c8410e731ac628c611f2170"
+      },
+      {
+        "name": "betterhomesgarde00mall_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "betterhomesgarde00mall_djvu.xml",
+        "mtime": "1715752917",
+        "size": "192115",
+        "md5": "982178cd53c68850f0f710a1d44fb328",
+        "crc32": "4732350a",
+        "sha1": "a9a1d3b7eb2ea45436fa9d2c2bb40ff146c9bfd9",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mall_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "betterhomesgarde00mall_hocr.html",
+        "mtime": "1715752471",
+        "size": "2403729",
+        "md5": "de1112c0f1f10775b3f0c4467b665bd2",
+        "crc32": "8110c584",
+        "sha1": "7e0342b616a2e1e827c09377341b072b0936e864",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mall_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "betterhomesgarde00mall.pdf",
+        "mtime": "1715752920",
+        "size": "12270891",
+        "md5": "5be288a4cf36315ce7ae3eb254ec318d",
+        "crc32": "5c676bb3",
+        "sha1": "53c4b5bfc7a1cd90b0117694915ecf97fe2e1ee2"
+      },
+      {
+        "name": "betterhomesgarde00mall_extramarc.xml",
+        "source": "original",
+        "mtime": "1402233553",
+        "size": "2622",
+        "md5": "550f5ec22f2ab83371bad69f61fba608",
+        "crc32": "5c2ffec8",
+        "sha1": "46c5665e2a860e104ff021e71335b6aaf2749f20",
+        "format": "Metadata"
+      },
+      {
+        "name": "betterhomesgarde00mall_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "85071f4c13e52c56757021faeb7452c5",
+        "summation": "md5"
+      },
+      {
+        "name": "betterhomesgarde00mall_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "betterhomesgarde00mall_chocr.html.gz",
+        "mtime": "1658704643",
+        "size": "4837511",
+        "md5": "b1d821158fbb28489cdb7446aaabd561",
+        "crc32": "45822bb4",
+        "sha1": "fd18028cbb1a81efa2211a9d16cd1dd37d616731",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mall_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "betterhomesgarde00mall_hocr.html",
+        "mtime": "1658704739",
+        "size": "1189",
+        "md5": "adbb72a1efd37e2957eb02dd144e75ed",
+        "crc32": "8cabbb1b",
+        "sha1": "5a2ce1e591a7e5d7e123df01dfb3441fce803115",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mall_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2025",
+        "word_conf_11_20": "1150",
+        "word_conf_21_30": "2643",
+        "word_conf_31_40": "3687",
+        "word_conf_41_50": "5598",
+        "word_conf_51_60": "5007",
+        "word_conf_61_70": "3889",
+        "word_conf_71_80": "1656",
+        "word_conf_81_90": "881",
+        "word_conf_91_100": "1211",
+        "format": "OCR Search Text",
+        "original": "betterhomesgarde00mall_hocr.html",
+        "mtime": "1658704821",
+        "size": "51965",
+        "md5": "4edde84d0de4f9ba2ff90e81ad1a3b84",
+        "crc32": "27358cb9",
+        "sha1": "f60beea531cdcfbc85e5ce956b0a34afd559b2c9",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mall_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "betterhomesgarde00mall_orig_jp2.tar",
+        "mtime": "1323826905",
+        "size": "46794335",
+        "md5": "46454535eee6d08bd030ac6d4e552cbc",
+        "crc32": "00164416",
+        "sha1": "563f8beb5f8e552d05204f6cf80ad700e65cc1bd",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "betterhomesgarde00mall_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "betterhomesgarde00mall_hocr.html",
+        "mtime": "1669421649",
+        "size": "10856028",
+        "md5": "d56c41676dd17d679d3444312eeeb102",
+        "crc32": "48ecf64c",
+        "sha1": "684b03087b9f597515632687188780e5de7ceea6"
+      },
+      {
+        "name": "betterhomesgarde00mall_loans.json",
+        "source": "original",
+        "mtime": "1545291996",
+        "size": "1747",
+        "format": "JSON",
+        "private": "true",
+        "md5": "4c2c3495a5ec910db3d2963eddfe14f2",
+        "crc32": "c4aadf9f",
+        "sha1": "c6124d971d5a64cd01e32bc22c92673a58706c47"
+      },
+      {
+        "name": "betterhomesgarde00mall_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1261005786",
+        "size": "3535",
+        "md5": "d21cf4b387b8344e48b48d9890c8cdbf",
+        "crc32": "49e8bc1b",
+        "sha1": "700a488c9b3e93a11d1d0c94ced14a8d7dc3661c"
+      },
+      {
+        "name": "betterhomesgarde00mall_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "betterhomesgarde00mall_xisbn.json",
+        "mtime": "1454287802",
+        "size": "739",
+        "md5": "df17b3576faa6de0f8e73e4aaad2f9f9",
+        "crc32": "4de35192",
+        "sha1": "1380c47695302845658ecf7415579aaa2017e7c8",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mall_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1261005786",
+        "size": "1080",
+        "md5": "95fb856ac0d080e46dda3efcaa0ba734",
+        "crc32": "911ff19d",
+        "sha1": "fa7ff11aa93b733e31e6434d7e47254b075ffa51"
+      },
+      {
+        "name": "betterhomesgarde00mall_meta.sqlite",
+        "source": "original",
+        "mtime": "1466983762",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "d296a0cf182976e4eefc3db105ec73f9",
+        "crc32": "162334ea",
+        "sha1": "6bd1772e1cf629882e5d3e38d148b3e30f97a43a"
+      },
+      {
+        "name": "betterhomesgarde00mall_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1716665501",
+        "size": "3752",
+        "md5": "2ca2ce7ad4b234ed001270191a5d7ea7",
+        "crc32": "dcb087e0",
+        "sha1": "da08cf815c9ad64186a4e75033fa18db4167480e"
+      },
+      {
+        "name": "betterhomesgarde00mall_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1261005786",
+        "size": "402",
+        "md5": "90d85f829c502952376b9653d7bb7f0a",
+        "crc32": "8eb8f67c",
+        "sha1": "dc346a5395042b033acf1e86d9ddd007c1c60656"
+      },
+      {
+        "name": "betterhomesgarde00mall_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1322671976",
+        "size": "80824320",
+        "md5": "8516b72dc19d3f83a5f9b10805b032ac",
+        "crc32": "7433a7a4",
+        "sha1": "4634f1f41bf6cf286118d0a3c31df620db8b2479",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "betterhomesgarde00mall_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "betterhomesgarde00mall_hocr.html",
+        "mtime": "1715752480",
+        "size": "17051",
+        "md5": "d851de06ab76e3a6fb56edcc6c66c95f",
+        "crc32": "e3411db2",
+        "sha1": "735b855c1629f6ed18b6f62fb484504f4309e1cf",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00mall_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669421693",
+        "size": "101454",
+        "md5": "9548f0251edd4c5fc4f7ccfda344cbd4",
+        "crc32": "828f7e6a",
+        "sha1": "1566cbb1087096d708a10f0c8fbd6f7e12e01bc1"
+      },
+      {
+        "name": "betterhomesgarde00mall_xisbn.json",
+        "source": "original",
+        "mtime": "1454079369",
+        "size": "712",
+        "md5": "cafa21401527c2ddb61a2513a66abc8b",
+        "crc32": "6ef80913",
+        "sha1": "784898ec8c0bddef2582adfef6aac7c3a9097391",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1716665501,
+    "item_size": 188100256,
+    "metadata": {
+      "title": "Better homes and gardens hot off the grill",
+      "creator": [
+        "Malloy, Julia",
+        "Plutt, Mary Jo"
+      ],
+      "subject": "Barbecue cookery",
+      "description": "Includes index",
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "date": "1985-01-01",
+      "language": "eng",
+      "isbn": [
+        "9780696014673",
+        "0696014653",
+        "9780696014659",
+        "069601467X"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA108101",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2009-12-16 23:23:06",
+      "updater": "Phillip.L",
+      "identifier": "betterhomesgarde00mall",
+      "uploader": "philip.l@archive.org",
+      "addeddate": "2009-12-16 23:23:09",
+      "publicdate": "2009-12-16 23:23:20",
+      "curation": "[curator]ken@archive.org[/curator][date]20111125030627[/date][state]un-dark[/state]",
+      "scanner": "scribe16.shenzhen.archive.org",
+      "repub_seconds": "88",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-cop@archive.org",
+      "scandate": "20111130165254",
+      "imagecount": "102",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/betterhomesgarde00mall",
+      "identifier-ark": "ark:/13960/t0ht3nr50",
+      "ocr": "ABBYY FineReader 8.0",
+      "external-identifier": [
+        "urn:acs6:betterhomesgarde00mall:pdf:6066828f-2bd3-4f83-a64e-49a1427bd56f",
+        "urn:acs6:betterhomesgarde00mall:epub:33af96e6-d15a-4374-9d54-d19390c289e5",
+        "urn:oclc:record:1028729857",
+        "urn:lcp:betterhomesgarde00mall:lcpdf:2824e6f4-7435-47a9-881c-082e7f31fbd6",
+        "urn:lcp:betterhomesgarde00mall:epub:71783469-fb56-4f9c-a6ed-774bfbb247f0"
+      ],
+      "sponsordate": "sent20120113",
+      "scanfee": "100",
+      "donor": "alibris",
+      "extramarc": "University of Illinois Urbana-Champaign (PZ)",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": [
+        "11897359",
+        "12586097"
+      ],
+      "lccn": "84061310",
+      "related-external-id": [
+        "urn:isbn:0696014653",
+        "urn:lccn:84061310",
+        "urn:oclc:12586097",
+        "urn:oclc:11897359"
+      ],
+      "backup_location": "ia903604_19",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2017-11-17T20:07:45Z",
+      "loans__status__num_history": "1",
+      "openlibrary_edition": "OL2872391M",
+      "openlibrary_work": "OL15161049W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 9:19:46 UTC 2020",
+        "Tue Apr 2 22:06:26 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ]
+    },
+    "server": "ia601606.us.archive.org",
+    "uniq": 985295476,
+    "workable_servers": [
+      "ia601606.us.archive.org",
+      "ia801606.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/11897359?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BB"
+          ],
+          "lccn": [
+            "84061310"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editors, Julia Malloy, Mary Jo Plutt].",
+          "ed": "1st ed.",
+          "year": "1985",
+          "isbn": [
+            "069601467X"
+          ],
+          "title": "Better homes and gardens hot off the grill",
+          "oclcnum": [
+            "11897359",
+            "12586097"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/12586097?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "84061310"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editors, Julia Malloy, Mary Jo Plutt].",
+          "ed": "1st ed.",
+          "year": "1985",
+          "isbn": [
+            "0696014653"
+          ],
+          "title": "Hot off the grill.",
+          "oclcnum": [
+            "12586097",
+            "11897359"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Malloy, Julia",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa, Illinois; Digitized scan available"
+}

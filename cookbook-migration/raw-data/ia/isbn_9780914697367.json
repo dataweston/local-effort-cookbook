@@ -1,0 +1,510 @@
+{
+  "source": "internet_archive",
+  "identifier": "isbn_9780914697367",
+  "title": "NAHC wild game cookbook",
+  "creator": null,
+  "year": 1989,
+  "subject": "Cooking (Game)",
+  "description": [
+    "222 pages : 24 cm",
+    "Spine title: 1990 NAHC wild game cookbook",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/isbn_9780914697367"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/isbn_9780914697367"
+        }
+      ]
+    },
+    "created": 1758558914,
+    "d1": "ia902804.us.archive.org",
+    "d2": "ia802804.us.archive.org",
+    "dir": "/16/items/isbn_9780914697367",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660368692",
+        "size": "22585",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "87eff1d5ee34ca6bdb1d69566cf0198d",
+        "crc32": "0e559bf6",
+        "sha1": "27aba1ab53f451078047a075474d57d03c546522"
+      },
+      {
+        "name": "isbn_9780914697367.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "isbn_9780914697367_hocr.html",
+        "mtime": "1756393092",
+        "size": "10133452",
+        "private": "true",
+        "md5": "65842c72dae30af6edcc7b09fe25c471",
+        "crc32": "86ed4a3c",
+        "sha1": "6fd395405e8d7b24fa06f917858ef4876b4a002b"
+      },
+      {
+        "name": "isbn_9780914697367.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "isbn_9780914697367.pdf",
+        "mtime": "1756392982",
+        "size": "11574394",
+        "md5": "2af31d575931e4bba40e6a970f49c42d",
+        "crc32": "1ee14c36",
+        "sha1": "5837c14c0d001bbbe13e1ca1e22e4b2730b5b158"
+      },
+      {
+        "name": "isbn_9780914697367.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "isbn_9780914697367_page_numbers.json",
+        "mtime": "1726444021",
+        "size": "11215532",
+        "md5": "8cab505e569e705b560d3cd33ec8324b",
+        "crc32": "03db4bb4",
+        "sha1": "f4cda67e11fb1014d735d709588a2c1869b5c2a4",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780914697367_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "isbn_9780914697367_jp2.zip",
+        "mtime": "1573674541",
+        "size": "5312521",
+        "md5": "b99f6bcf76ef0ca3275c6787664a9b97",
+        "crc32": "663c42b2",
+        "sha1": "d0c6a3ce07e689126353611785775d14de507ad6",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780914697367_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "isbn_9780914697367_abbyy.gz",
+        "mtime": "1660368576",
+        "size": "4485221",
+        "md5": "39d0b59df45519704c83e57231903956",
+        "crc32": "0cad4964",
+        "sha1": "4cee058653f063516485f52451f270c33c656cef",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780914697367_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "isbn_9780914697367_scandata.xml",
+        "mtime": "1670380875",
+        "size": "763",
+        "md5": "5390e9e5dacd8cddce54e04f6fdd3975",
+        "crc32": "d1416f34",
+        "sha1": "cff05fdb2229105afdd5f20ad4f20f81d72daea1",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780914697367_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1585589955",
+        "size": "1054",
+        "md5": "b8b159817fcab550729829816c009327",
+        "crc32": "dbcef3e0",
+        "sha1": "349407400698af20f3102e2c275b2a909beb6060"
+      },
+      {
+        "name": "isbn_9780914697367_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "isbn_9780914697367_djvu.xml",
+        "mtime": "1660368680",
+        "size": "403451",
+        "md5": "25bb3eb5a09e1dcc990273b947bd045d",
+        "crc32": "60358c13",
+        "sha1": "9ff8fb3a3edad3e1706c8a9931c2770cf13fdbdd",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780914697367_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "isbn_9780914697367_hocr.html",
+        "mtime": "1660368639",
+        "size": "5057094",
+        "md5": "50e14283ea05ece51cfa257765936843",
+        "crc32": "d9d2dd31",
+        "sha1": "7a07d5f563f15ef144496f73b899bf34ea98f2db",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780914697367_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "isbn_9780914697367_abbyy.gz",
+        "mtime": "1573676461",
+        "size": "2278588",
+        "md5": "526224ffb9b09591643f69810bdb2ebb",
+        "crc32": "281b7cb9",
+        "sha1": "409f7bb0fc86bcb52758b426b4c07ae80f070783"
+      },
+      {
+        "name": "isbn_9780914697367_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "isbn_9780914697367.pdf",
+        "mtime": "1726444787",
+        "size": "11040741",
+        "md5": "a12994901082420d7737a5039f2efc45",
+        "crc32": "5c690e86",
+        "sha1": "7b69398ac72b8ce66700286f47b9fc3b07fa3b85"
+      },
+      {
+        "name": "isbn_9780914697367_events.json",
+        "source": "original",
+        "mtime": "1573659582",
+        "size": "58",
+        "md5": "948d0b557930119aa4cdc487cbe4f87d",
+        "crc32": "1e48db58",
+        "sha1": "a0801ec131b2c7b8dd7f6c3b8ce3cded11f4b68a",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780914697367_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "1d164d5f41ebcf19fb4d471bcc914997",
+        "summation": "md5"
+      },
+      {
+        "name": "isbn_9780914697367_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "isbn_9780914697367_chocr.html.gz",
+        "mtime": "1660368618",
+        "size": "10602831",
+        "md5": "f8feb5f5491df12d65e9b4ad37f13cf7",
+        "crc32": "7a9b29c2",
+        "sha1": "2870f09bd9c3335c04c90d4d84ff9f396745b00e",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780914697367_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "isbn_9780914697367_hocr.html",
+        "mtime": "1660368649",
+        "size": "3126",
+        "md5": "678e8744abbc85761ee38cc4d5df9c8a",
+        "crc32": "fde15ea0",
+        "sha1": "06214273abce6a9be982c194d338c06ef12c1a49",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780914697367_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "824",
+        "word_conf_11_20": "214",
+        "word_conf_21_30": "266",
+        "word_conf_31_40": "354",
+        "word_conf_41_50": "664",
+        "word_conf_51_60": "1237",
+        "word_conf_61_70": "3424",
+        "word_conf_71_80": "9583",
+        "word_conf_81_90": "18117",
+        "word_conf_91_100": "25151",
+        "format": "OCR Search Text",
+        "original": "isbn_9780914697367_hocr.html",
+        "mtime": "1660368669",
+        "size": "124658",
+        "md5": "3a6dfba017c14ab20051f768992fc6de",
+        "crc32": "a7754aed",
+        "sha1": "c379a68369c33998a76f4f4efde83587a4d978c8",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780914697367_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "isbn_9780914697367_orig_jp2.tar",
+        "mtime": "1573672742",
+        "size": "103791662",
+        "md5": "57b2a062a54962d2458edaa7347ce8e6",
+        "crc32": "9438d510",
+        "sha1": "4e274d00b16b96dd4fcef426a4b06722a95ddd94",
+        "private": "true",
+        "filecount": "262"
+      },
+      {
+        "name": "isbn_9780914697367_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "isbn_9780914697367.epub",
+        "mtime": "1756393234",
+        "size": "10270315",
+        "md5": "5e8d826967fbf139102812b68508e595",
+        "crc32": "b52bc53d",
+        "sha1": "18e2f511b1259d46e883111cd79b2b5d597664df"
+      },
+      {
+        "name": "isbn_9780914697367_loans.json",
+        "source": "original",
+        "mtime": "1593082820",
+        "size": "454",
+        "format": "JSON",
+        "private": "true",
+        "md5": "b4136f5e851632649881382503605682",
+        "crc32": "61e508e6",
+        "sha1": "c70b5563281732bf4ea0ecfe054ae4728b3b23dc"
+      },
+      {
+        "name": "isbn_9780914697367_marc.xml",
+        "source": "original",
+        "mtime": "1585589757",
+        "size": "4448",
+        "md5": "a941f65c0c39a7af30183ceca15fda47",
+        "crc32": "aad77613",
+        "sha1": "9463dc36e858bd801d1738ef72d72c2d487b8af2",
+        "format": "MARC"
+      },
+      {
+        "name": "isbn_9780914697367_meta.mrc",
+        "source": "original",
+        "mtime": "1585589757",
+        "size": "1354",
+        "md5": "a653af7c39adcd514587a602ee3dc119",
+        "crc32": "b5fc69d1",
+        "sha1": "19c75ba3780f93dcbdd6c9a6ec7984b1f6453cd1",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "isbn_9780914697367_meta.sqlite",
+        "source": "original",
+        "mtime": "1573659624",
+        "size": "15360",
+        "format": "Metadata",
+        "md5": "cbdd8aa457f6b1a5c46c01797ac357e0",
+        "crc32": "17b41684",
+        "sha1": "abf77e5d1459774bbac78b2717074b8abd7ca388"
+      },
+      {
+        "name": "isbn_9780914697367_meta.xml",
+        "source": "original",
+        "mtime": "1756393234",
+        "size": "3129",
+        "format": "Metadata",
+        "md5": "88fbaa625c1f9a115b0c58c704917ea3",
+        "crc32": "7a88d163",
+        "sha1": "02b77f4768b389e3065545d5adad7b207664fb63"
+      },
+      {
+        "name": "isbn_9780914697367_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1573659624",
+        "size": "279500800",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "65421da56f7cb32bccf88acd3d4131b4",
+        "crc32": "78e4d949",
+        "sha1": "b474f21e2747d3b7934eb832fa10d86b735598d9",
+        "filecount": "262"
+      },
+      {
+        "name": "isbn_9780914697367_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "51",
+        "format": "Page Numbers JSON",
+        "original": "isbn_9780914697367_hocr.html",
+        "mtime": "1726444020",
+        "size": "44690",
+        "md5": "5f54f227c75f748c0002729677747da5",
+        "crc32": "3b77fb49",
+        "sha1": "fbd26dd28658fed8ef6e539b661f3278d4741bfa",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780914697367_scandata.xml",
+        "source": "original",
+        "mtime": "1670380875",
+        "size": "269134",
+        "format": "Scandata",
+        "md5": "d256303d95d1c2bbdacfb8f128f18e63",
+        "crc32": "b24861b2",
+        "sha1": "cff6353d0d805f7cb96793a9398e549608aaeabf"
+      },
+      {
+        "name": "isbn_9780914697367_slip.png",
+        "source": "original",
+        "mtime": "1573466628",
+        "size": "40945",
+        "md5": "47cf3514b154c88a4202b96692810b76",
+        "crc32": "39538955",
+        "sha1": "5bd7440a62bfbdeb8754d9e8f22f51a4369a577b",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780914697367_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "isbn_9780914697367_slip.png",
+        "mtime": "1573659793",
+        "size": "5215",
+        "md5": "432d6490d24c5733309bc60cdb208341",
+        "crc32": "93ca9717",
+        "sha1": "813bab7f4aeaede5733c49800dfa4cdfe5923cb5",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780914697367_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "isbn_9780914697367_djvu.xml",
+        "mtime": "1670380612",
+        "size": "554",
+        "md5": "786f211470c7fa314ac3161c3ba9841b",
+        "crc32": "82edb5d0",
+        "sha1": "3441fb28ed2c10e729364e1dec75e6fbe1db2aff",
+        "private": "true"
+      },
+      {
+        "name": "logs/isbn_9780914697367_iabdash_2019-11-1120:03:25.log",
+        "source": "original",
+        "mtime": "1573473810",
+        "size": "1320",
+        "md5": "e17eb55140af9e63b1efa16d1fb696a7",
+        "crc32": "5c7c532c",
+        "sha1": "45206dab00750a6f508be02b7be04ea1ef4b0bb7",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/isbn_9780914697367_scanning_2019-11-1120:03:33.log",
+        "source": "original",
+        "mtime": "1573473820",
+        "size": "727223",
+        "md5": "7d23cf9b343a82b80780060d25cfd522",
+        "crc32": "2b8c9bd4",
+        "sha1": "e65962ebdc01d8e6e747f583b460b044ca03ebc2",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1756393234,
+    "item_size": 466932672,
+    "metadata": {
+      "identifier": "isbn_9780914697367",
+      "boxid": "IA1693920",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA15440",
+      "operator": "associate-engelbert-jayson@archive.org",
+      "ppi": "300",
+      "repub_state": "19",
+      "scanner": "station03.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780914697367",
+      "tts_version": "3.1-initial-268-ge641e8b",
+      "title": "NAHC wild game cookbook",
+      "uploader": "station03.cebu@archive.org",
+      "addeddate": "2019-11-11 10:03:49",
+      "publicdate": "2019-11-11 10:04:01",
+      "access-restricted-item": "true",
+      "imagecount": "262",
+      "scandate": "20191111124818",
+      "republisher_operator": "associate-marycris-avenido@archive.org",
+      "republisher_date": "20191113233938",
+      "republisher_time": "396",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/isbn_9780914697367",
+      "identifier-ark": "ark:/13960/t9k43v21s",
+      "external-identifier": [
+        "urn:acs6:isbn_9780914697367:epub:43d423d1-3357-4887-8267-8775a7a7052e",
+        "urn:acs6:isbn_9780914697367:pdf:286bc15c-f2fd-4b30-a8e0-3a068675bb15",
+        "urn:oclc:record:1153313243",
+        "urn:lcp:isbn_9780914697367:lcpdf:181e68a8-2e23-4054-9b1e-04b4132f2ffc",
+        "urn:lcp:isbn_9780914697367:epub:c3bdd024-c65f-468f-aac6-4ba1f8e03db7"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191130",
+      "marc_search_attempted": "20191226",
+      "isbn": [
+        "0914697234",
+        "9780914697237"
+      ],
+      "publisher": "Minneapolis, MN : North American Hunting Club",
+      "date": "1989-01-01",
+      "subject": [
+        "Cooking (Game)",
+        "Cooking (Game)"
+      ],
+      "lccn": "89062515",
+      "description": [
+        "222 pages : 24 cm",
+        "Spine title: 1990 NAHC wild game cookbook",
+        "Includes index"
+      ],
+      "associated-names": "Miller, Bill; Dietrich, Dan; Dodge, Karyl; Morem, Deb; Peters, Dean; North American Hunting Club",
+      "backup_location": "ia907006_3",
+      "openlibrary_edition": "OL32109872M",
+      "openlibrary_work": "OL24273149W",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "51",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia902804.us.archive.org",
+    "uniq": 285948036,
+    "workable_servers": [
+      "ia902804.us.archive.org",
+      "ia802804.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 4,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

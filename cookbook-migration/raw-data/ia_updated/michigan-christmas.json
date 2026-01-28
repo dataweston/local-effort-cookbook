@@ -1,0 +1,308 @@
+{
+  "source": "internet_archive",
+  "identifier": "michigan-christmas",
+  "title": "Have a Michigan Christmas 1976",
+  "creator": "Michigan Consolidated Gas Company",
+  "year": 1976,
+  "subject": [
+    "cookbook",
+    "recipes",
+    "kitchen",
+    "cooking",
+    "baking",
+    "vendor",
+    "michigan"
+  ],
+  "description": "From the first page: \"Michigan Consolidated Gas Company presents to you a creative collection of recipes using Michigan's abundant products. Michigan's network of lakes, rich farmlands and active industries produce much of the country's food supply. We have incorporated these foods into native Michigan recipes and imaginative new ideas for your holiday use. We hope these recipes will add to your enjoyment of the Christmas season in Michigan and we wish you a peaceful and joyous year to come.\" As indicated in the intro, this is a booklet of recipes put out by Michigan Consolidated Gas Company for the 1976 holiday season.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721902.ca.archive.org",
+          "dir": "/0/items/michigan-christmas"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721902.ca.archive.org",
+          "dir": "/0/items/michigan-christmas"
+        }
+      ]
+    },
+    "created": 1758555605,
+    "d1": "ia600300.us.archive.org",
+    "d2": "ia800300.us.archive.org",
+    "dir": "/5/items/michigan-christmas",
+    "files": [
+      {
+        "name": "Michigan-Christmas.cbz",
+        "source": "original",
+        "mtime": "1714041302",
+        "size": "180060539",
+        "md5": "2b742cf45b7fd660988291252aff9545",
+        "crc32": "bc566e8d",
+        "sha1": "915c5ecbb286584e490b44fbd91eb886b49d6f02",
+        "format": "Comic Book ZIP",
+        "filecount": "20"
+      },
+      {
+        "name": "Michigan-Christmas.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "Michigan-Christmas_page_numbers.json",
+        "mtime": "1714042475",
+        "size": "2473831",
+        "md5": "7702c058fda1bbe4cdc1b432fb77331d",
+        "crc32": "67c78db6",
+        "sha1": "3cf379ed8a5a6aa22c92fb014907adf366480e97"
+      },
+      {
+        "name": "Michigan-Christmas_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-spa;lang-eng;lang-deu;lang-Latin;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Michigan-Christmas_jp2.zip",
+        "mtime": "1714042015",
+        "size": "587766",
+        "md5": "e4c8c57c8b3555b5d12de35b8a82b944",
+        "crc32": "ad58e9c3",
+        "sha1": "107a7515f9eacd126a30ca4872545fe6c007c6e8"
+      },
+      {
+        "name": "Michigan-Christmas_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Michigan-Christmas_djvu.xml",
+        "mtime": "1714042226",
+        "size": "44112",
+        "md5": "ee05926d67d3747f4e3fae37deaf1c30",
+        "crc32": "0bb494bc",
+        "sha1": "7a2fed79791d5f995ef179327782ec2bd609c15c"
+      },
+      {
+        "name": "Michigan-Christmas_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Michigan-Christmas_hocr.html",
+        "mtime": "1714042134",
+        "size": "588007",
+        "md5": "13cbc667c37b8cc52effcd5b19e99bdd",
+        "crc32": "0bca3d8f",
+        "sha1": "96312f9f222bf95227da911a0f6c6d2015e79238"
+      },
+      {
+        "name": "Michigan-Christmas_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-spa;lang-eng;lang-deu;lang-Latin;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Michigan-Christmas_chocr.html.gz",
+        "mtime": "1714042115",
+        "size": "1157704",
+        "md5": "cd432e684a3770cc9e6dd83ad6515366",
+        "crc32": "86bd9ea0",
+        "sha1": "258c80b4f1e366b7e0f0f84dd66c13a649ebe2e0"
+      },
+      {
+        "name": "Michigan-Christmas_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "Michigan-Christmas_hocr.html",
+        "mtime": "1714042153",
+        "size": "250",
+        "md5": "ea4917b14ecc55c8da7e8c29c5cd5af9",
+        "crc32": "0684dca4",
+        "sha1": "33362374e3c85077aa375292b9392cbce0098a53"
+      },
+      {
+        "name": "Michigan-Christmas_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "2",
+        "word_conf_11_20": "5",
+        "word_conf_21_30": "4",
+        "word_conf_31_40": "8",
+        "word_conf_41_50": "16",
+        "word_conf_51_60": "23",
+        "word_conf_61_70": "25",
+        "word_conf_71_80": "60",
+        "word_conf_81_90": "184",
+        "word_conf_91_100": "6941",
+        "format": "OCR Search Text",
+        "original": "Michigan-Christmas_hocr.html",
+        "mtime": "1714042188",
+        "size": "14739",
+        "md5": "03ac912d2bb4f536f8822db230b0d8e0",
+        "crc32": "8273d8ef",
+        "sha1": "c79d4735a075302d54e78a4d81647d48e9778d91"
+      },
+      {
+        "name": "Michigan-Christmas_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Michigan-Christmas.cbz",
+        "mtime": "1714041520",
+        "size": "9330021",
+        "md5": "9ada7b5a423cfe4da7d555f654d234b9",
+        "crc32": "c8fd611e",
+        "sha1": "c2c0927404b265688025505e5d0508eae8020d18",
+        "filecount": "20"
+      },
+      {
+        "name": "Michigan-Christmas_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "Michigan-Christmas_hocr.html",
+        "mtime": "1714042308",
+        "size": "3525",
+        "md5": "bc522b7a26d0ce1e718ff2d948ea21f3",
+        "crc32": "1c5bb659",
+        "sha1": "94822ed2d889468950b60f8170cd6b1b48f3c7f5"
+      },
+      {
+        "name": "Michigan-Christmas_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Michigan-Christmas_djvu.xml",
+        "mtime": "1714042308",
+        "size": "6641",
+        "md5": "93c2869e936bd4ccbe314d7bda4cb4bb",
+        "crc32": "48f0edd3",
+        "sha1": "8b565523de5726de8913def53246de37cdfc0967"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1714042561",
+        "size": "25147",
+        "md5": "b23bea72499d9a9cd35719fe8f04b235",
+        "crc32": "7aa312c3",
+        "sha1": "cf567854282947fd27f21292a95ce3458508a51f",
+        "format": "Item Tile"
+      },
+      {
+        "name": "michigan-christmas_archive.torrent",
+        "source": "metadata",
+        "btih": "0dbe1c8ea1b98f4eadb21b216d2ce4347eeadf65",
+        "mtime": "1716130222",
+        "size": "11137",
+        "md5": "933ef037a77e14eeb1693e1a734a12a3",
+        "crc32": "d576e13e",
+        "sha1": "77318d16adddb3e7dc458314538d776252cf9126",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "michigan-christmas_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "c0c693c90effca6b48cab35143c0b063",
+        "summation": "md5"
+      },
+      {
+        "name": "michigan-christmas_meta.sqlite",
+        "source": "original",
+        "mtime": "1714041345",
+        "size": "20480",
+        "md5": "230d58d17f08711d776b36b666d3ff7f",
+        "crc32": "8d1b510d",
+        "sha1": "d1d671a3d5cf0749b3b97ea9a37a7647ec7cdde9",
+        "format": "Metadata"
+      },
+      {
+        "name": "michigan-christmas_meta.xml",
+        "source": "original",
+        "mtime": "1716130220",
+        "size": "2475",
+        "md5": "9fa3cd4a39a148af774f5fcd14bdd55e",
+        "crc32": "a72a2192",
+        "sha1": "ca3c681f67a8f8b86330f4f81a374458e05be3bf",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1716130222,
+    "item_size": 194326374,
+    "metadata": {
+      "identifier": "michigan-christmas",
+      "mediatype": "texts",
+      "collection": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "creator": "Michigan Consolidated Gas Company",
+      "date": "1976-01-01",
+      "description": "From the first page:<br />\"Michigan Consolidated Gas Company presents to you a creative collection of recipes using Michigan's abundant products. Michigan's network of lakes, rich farmlands and active industries produce much of the country's food supply. We have incorporated these foods into native Michigan recipes and imaginative new ideas for your holiday use.<br />We hope these recipes will add to your enjoyment of the Christmas season in Michigan and we wish you a peaceful and joyous year to come.\"<br /><br />As indicated in the intro, this is a booklet of recipes put out by Michigan Consolidated Gas Company for the 1976 holiday season.<br /><br />",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "cookbook",
+        "recipes",
+        "kitchen",
+        "cooking",
+        "baking",
+        "vendor",
+        "michigan"
+      ],
+      "title": "Have a Michigan Christmas 1976",
+      "uploader": "spzakulec@gmail.com",
+      "publicdate": "2024-04-25 10:35:27",
+      "addeddate": "2024-04-25 10:35:27",
+      "curation": "[curator]validator@archive.org[/curator][date]20240425103604[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/michigan-christmas",
+      "identifier-ark": "ark:/13960/s25sd6m7pnw",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l spa+eng+deu+Latin",
+      "ocr_module_version": "0.0.21",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection_added": [
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia600300.us.archive.org",
+    "uniq": 330885324,
+    "workable_servers": [
+      "ia600300.us.archive.org",
+      "ia800300.us.archive.org"
+    ]
+  },
+  "institution": "Michigan Consolidated Gas Company",
+  "pdf_url": "https://archive.org/download/michigan-christmas/Michigan-Christmas.pdf",
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 3,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

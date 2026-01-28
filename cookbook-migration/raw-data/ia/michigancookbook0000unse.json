@@ -1,0 +1,494 @@
+{
+  "source": "internet_archive",
+  "identifier": "michigancookbook0000unse",
+  "title": "Michigan cook book",
+  "creator": null,
+  "year": 1999,
+  "subject": [
+    "Cooking, American",
+    "Cooking -- Michigan",
+    "Cooking",
+    "Michigan"
+  ],
+  "description": [
+    "94 pages ; 22 cm",
+    "Includes index",
+    "Appetizers & snacks -- Breakfast & brunch -- Soups & salads -- Main dishes -- Side dishes -- Breads & muffins -- Desserts"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/michigancookbook0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/michigancookbook0000unse"
+        }
+      ]
+    },
+    "created": 1758556018,
+    "d1": "ia903106.us.archive.org",
+    "d2": "ia803106.us.archive.org",
+    "dir": "/25/items/michigancookbook0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660668596",
+        "size": "29335",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "2d95acfc4c98043e890f4c450211368c",
+        "crc32": "df0f30ef",
+        "sha1": "16d95076fcaee8876d1f3f2bb82c9871d9524e42"
+      },
+      {
+        "name": "logs/michigancookbook0000unse_iabdash_2018-06-12122208.log",
+        "source": "original",
+        "mtime": "1528777315",
+        "size": "1048",
+        "md5": "75caa6f89d65be1e73b005275e04170c",
+        "crc32": "9125b7dd",
+        "sha1": "3ee0221a3107ba3904e190bdc8bc5ff6494dad2f",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/michigancookbook0000unse_scanning_2018-06-12122204.log",
+        "source": "original",
+        "mtime": "1528777310",
+        "size": "206884",
+        "md5": "95c25e7b72dc27d514636a39e31611e7",
+        "crc32": "e7fa910e",
+        "sha1": "25c2009726faf3add0832365d14213fc6ea68a92",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "michigancookbook0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "michigancookbook0000unse_hocr.html",
+        "mtime": "1753647437",
+        "size": "3012246",
+        "private": "true",
+        "md5": "8c16b9e9d8f386c82996ff62016d5124",
+        "crc32": "82106842",
+        "sha1": "ea10fcec7d0fe5642db3d08872dc006a2f4e1626"
+      },
+      {
+        "name": "michigancookbook0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "michigancookbook0000unse.pdf",
+        "mtime": "1753646893",
+        "size": "6667509",
+        "md5": "de0804e00b527ccba2f46c06b838d141",
+        "crc32": "5d57d653",
+        "sha1": "4e175e7d0e0dc9e3eca55b5de7582464e9a888bc"
+      },
+      {
+        "name": "michigancookbook0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "michigancookbook0000unse_page_numbers.json",
+        "mtime": "1715883431",
+        "size": "6174928",
+        "md5": "29ead5fc4dfc18bb95af8b72533aeecc",
+        "crc32": "f2edff78",
+        "sha1": "e8472c618f11258772ab177341f29c34f986c85e",
+        "private": "true"
+      },
+      {
+        "name": "michigancookbook0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "michigancookbook0000unse_jp2.zip",
+        "mtime": "1528800467",
+        "size": "1971936",
+        "md5": "8f9024b3acb2a7e642a225ef1e97133b",
+        "crc32": "a7d9964f",
+        "sha1": "a30a4aff67f432a776ba72271b3657b673df0ce5",
+        "private": "true"
+      },
+      {
+        "name": "michigancookbook0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "michigancookbook0000unse_abbyy.gz",
+        "mtime": "1660662395",
+        "size": "1664205",
+        "md5": "5309aee16e8ed09d7a4d30155d25946f",
+        "crc32": "442903bb",
+        "sha1": "5e73ae73e475f96f706c4df2dc39a962501d7d03",
+        "private": "true"
+      },
+      {
+        "name": "michigancookbook0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "michigancookbook0000unse_scandata.xml",
+        "mtime": "1670666171",
+        "size": "788",
+        "md5": "e21017eae2a1d55e6777004cef4378ac",
+        "crc32": "b508395f",
+        "sha1": "4e495f3f9f5d4124049de82b15ad3e4fe27b8738",
+        "private": "true"
+      },
+      {
+        "name": "michigancookbook0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660661243",
+        "size": "1314",
+        "md5": "c1acaf8e87f43c20fc3c784f4c443544",
+        "crc32": "423cb7fb",
+        "sha1": "c4739a0173e95e509084772ee0cf454010f39f20"
+      },
+      {
+        "name": "michigancookbook0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "michigancookbook0000unse_djvu.xml",
+        "mtime": "1660668589",
+        "size": "148045",
+        "md5": "f5e3980fcd1df9637114281e1ad50eed",
+        "crc32": "4c8e593e",
+        "sha1": "830eaa3620e406fe506927ab2fe3a69911f30e9a",
+        "private": "true"
+      },
+      {
+        "name": "michigancookbook0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "michigancookbook0000unse_hocr.html",
+        "mtime": "1660665154",
+        "size": "1830266",
+        "md5": "7a2e68d4109f57a5900cd57ccdebb276",
+        "crc32": "f5e87f73",
+        "sha1": "8069c68b265d173348bd396cf5cc6bcdfd487d5f",
+        "private": "true"
+      },
+      {
+        "name": "michigancookbook0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "michigancookbook0000unse_abbyy.gz",
+        "mtime": "1528801129",
+        "size": "2343595",
+        "md5": "af669c7070958a790b6cecf699bc9c71",
+        "crc32": "468ab606",
+        "sha1": "7f22fbe99ca915e65287ea119403a6ec8be4d8a8"
+      },
+      {
+        "name": "michigancookbook0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "michigancookbook0000unse.pdf",
+        "mtime": "1715883519",
+        "size": "6109035",
+        "md5": "2bdc35bd1752b06c65e92cd79acbf432",
+        "crc32": "d4a99cd8",
+        "sha1": "bf188858c07c30e130bf5c8e52d99420e4316535"
+      },
+      {
+        "name": "michigancookbook0000unse_events.json",
+        "source": "original",
+        "mtime": "1528798612",
+        "size": "51",
+        "md5": "e40f02d0bde82d54c2b1fb358f8da4fa",
+        "crc32": "60cea402",
+        "sha1": "a80a251214b1ec735968254ab41b2da9eb93fa00",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "michigancookbook0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "74a104f46d4bc7238606c903fed90075",
+        "summation": "md5"
+      },
+      {
+        "name": "michigancookbook0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "michigancookbook0000unse_chocr.html.gz",
+        "mtime": "1660664296",
+        "size": "3815661",
+        "md5": "b7dfc7f789358e0d0561e51a88130c17",
+        "crc32": "ed026b34",
+        "sha1": "d255e149720c3c01818df62416faa321239596fc",
+        "private": "true"
+      },
+      {
+        "name": "michigancookbook0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "michigancookbook0000unse_hocr.html",
+        "mtime": "1660666650",
+        "size": "1159",
+        "md5": "c69c8f09625646a949fe63e300118cf5",
+        "crc32": "24c9d5a8",
+        "sha1": "f967f6c153e828d757a1434ec72c13463c621186",
+        "private": "true"
+      },
+      {
+        "name": "michigancookbook0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "509",
+        "word_conf_11_20": "23",
+        "word_conf_21_30": "48",
+        "word_conf_31_40": "106",
+        "word_conf_41_50": "225",
+        "word_conf_51_60": "555",
+        "word_conf_61_70": "1344",
+        "word_conf_71_80": "3161",
+        "word_conf_81_90": "5438",
+        "word_conf_91_100": "10211",
+        "format": "OCR Search Text",
+        "original": "michigancookbook0000unse_hocr.html",
+        "mtime": "1660668413",
+        "size": "48235",
+        "md5": "1f9b792f408df0079db7b49dc51cb539",
+        "crc32": "44d660d9",
+        "sha1": "c8f6fc77c2505dabfcf35fa28811c076051a57ab",
+        "private": "true"
+      },
+      {
+        "name": "michigancookbook0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "michigancookbook0000unse_orig_jp2.tar",
+        "mtime": "1528800067",
+        "size": "68855786",
+        "md5": "3b111fc53b35b3e0680e215300af8f3b",
+        "crc32": "51ea8db4",
+        "sha1": "9db8b2cf4a5f680b50908c4c364dc0a2b769c59f",
+        "private": "true",
+        "filecount": "100"
+      },
+      {
+        "name": "michigancookbook0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "michigancookbook0000unse.epub",
+        "mtime": "1753647922",
+        "size": "3171843",
+        "md5": "d27524ed21ffb65307ba9f2d968577c6",
+        "crc32": "3473cf32",
+        "sha1": "b5bb63415df1796923a2bc3e178cb927504dc7e8"
+      },
+      {
+        "name": "michigancookbook0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593828417",
+        "size": "871",
+        "format": "JSON",
+        "private": "true",
+        "md5": "2f54c8a6dbcf76a6272977d1de90adee",
+        "crc32": "7943b38b",
+        "sha1": "d4432311c61fda7fbe33631fee2fb56514693e76"
+      },
+      {
+        "name": "michigancookbook0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1660661243",
+        "size": "4952",
+        "format": "MARC",
+        "md5": "a748b7daee70b7e7b3ba4526dba80ea2",
+        "crc32": "e2441194",
+        "sha1": "f33a7c56d1d93a209e208d642a9d04da72ffc2e2"
+      },
+      {
+        "name": "michigancookbook0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1528777323",
+        "size": "1401",
+        "md5": "ef1b30e3e381768a0e22532582b0b1c1",
+        "crc32": "696aebbf",
+        "sha1": "3ab72d660f61c2d73df97f6be0bc79c39d4b1474",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "michigancookbook0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1528798711",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "d5f6ffad54179acc2971d9271861142d",
+        "crc32": "bd56d521",
+        "sha1": "24d0fdc14b0ae096692338447cab4d646904a70b"
+      },
+      {
+        "name": "michigancookbook0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753648099",
+        "size": "3258",
+        "format": "Metadata",
+        "md5": "a4bb1092ae4a3ece6e87aa6377ee837b",
+        "crc32": "158e6d2f",
+        "sha1": "9feeb8490106ca3fb2d9c9f2d8513be0e5abd0ce"
+      },
+      {
+        "name": "michigancookbook0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1528798711",
+        "size": "268175360",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "ee81a895d2cb460449ae13d8c2445e82",
+        "crc32": "ac4d8b75",
+        "sha1": "64133cb0fb1bb0bf2857cafe186ee70ed73537f3",
+        "filecount": "100"
+      },
+      {
+        "name": "michigancookbook0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "90",
+        "format": "Page Numbers JSON",
+        "original": "michigancookbook0000unse_hocr.html",
+        "mtime": "1715883431",
+        "size": "16649",
+        "md5": "e20b220f86802b69d62bd3351214682d",
+        "crc32": "d3091d27",
+        "sha1": "2028e025d0a6e1589d43d00fae54ba8206e2c726",
+        "private": "true"
+      },
+      {
+        "name": "michigancookbook0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670666170",
+        "size": "102697",
+        "format": "Scandata",
+        "md5": "0d10334db397fc415d821e1cbb9e8cda",
+        "crc32": "1bc1cfb4",
+        "sha1": "2b6a5ddc9adf235fb65349d19d5d81355285fce7"
+      },
+      {
+        "name": "michigancookbook0000unse_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "michigancookbook0000unse_djvu.xml",
+        "mtime": "1670665779",
+        "size": "97524",
+        "md5": "a9ec125d2a59169e29d556a071eae688",
+        "crc32": "2425199f",
+        "sha1": "5773b36aafdbbad38fd14aa19461007505fcffa4",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753648099,
+    "item_size": 374472965,
+    "metadata": {
+      "identifier": "michigancookbook0000unse",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "date": "1999-01-01",
+      "isbn": [
+        "1885590296",
+        "9781885590299"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-tinming-wong@archive.org",
+      "ppi": "300",
+      "printer": "DYMO_LabelWriter_450_Turbo",
+      "publisher": "Phoenix, AZ : Golden West Publishers",
+      "repub_state": "22",
+      "scanner": "ttscribe10.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "Michigan cook book ",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "uploader": "ttscribe10.hongkong@archive.org",
+      "addeddate": "2018-06-12 04:21:35",
+      "publicdate": "2018-06-12 04:22:12",
+      "imagecount": "100",
+      "scandate": "20180612051154",
+      "subject": [
+        "Cooking, American",
+        "Cooking -- Michigan",
+        "Cooking",
+        "Cooking, American",
+        "Michigan"
+      ],
+      "lccn": "99484335",
+      "description": [
+        "94 pages ; 22 cm",
+        "Includes index",
+        "Appetizers & snacks -- Breakfast & brunch -- Soups & salads -- Main dishes -- Side dishes -- Breads & muffins -- Desserts"
+      ],
+      "associated-names": "Goodrich, Donna",
+      "republisher_operator": "associate-hubizhong@archive.org",
+      "republisher_date": "20180612181635",
+      "republisher_time": "499",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/michigancookbook0000unse",
+      "identifier-ark": "ark:/13960/t7xm55m86",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:michigancookbook0000unse:epub:e5dbf3f2-36b6-4493-b353-7abd4e9239c6",
+        "urn:acs6:michigancookbook0000unse:pdf:09f4047e-7d0b-415c-8b47-e5cae2e8bd6f",
+        "urn:lcp:michigancookbook0000unse:lcpdf:123a2cea-ab4d-416a-b5b5-e57cb29bd6fc",
+        "urn:lcp:michigancookbook0000unse:epub:d710d659-45bb-42a6-b822-1d99679a0814"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "curation": "[curator]associate-francis-boyer@archive.org[/curator][date]20180614203826[/date]",
+      "boxid": "IA1248922",
+      "sponsordate": "20180630",
+      "openlibrary_edition": "OL119620M",
+      "openlibrary_work": "OL17879975W",
+      "backup_location": "ia906706_25",
+      "access-restricted-item": "true",
+      "oclc-id": "42050048",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "90",
+      "filesxml": "Wed Apr 3 9:12:18 UTC 2024",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia903106.us.archive.org",
+    "uniq": 1760254180,
+    "workable_servers": [
+      "ia903106.us.archive.org",
+      "ia803106.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

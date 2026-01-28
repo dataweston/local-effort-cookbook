@@ -1,0 +1,105 @@
+{
+  "source": "dpla",
+  "id": "e63c0fc7afb5ccc2115c1dfab3d65b98",
+  "identifier": "e63c0fc7afb5ccc2115c1dfab3d65b98",
+  "title": "Women's Guild cookbook advertisments, Colfax, Washington, 1909",
+  "subject": [
+    "Advertisements"
+  ],
+  "spatial": [
+    "Colfax, Whitman county, Washington, United States"
+  ],
+  "description": "The Woman's Guild of the Good Samaritan Church at Colfax, Washington compiled a cookbook in 1909. Of most interest were the advertisements printed for the local businessmen.",
+  "isShownAt": "http://cdm17176.contentdm.oclc.org/cdm/ref/collection/whitman/id/2188",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/northwest-digital-heritage",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q112194444"
+    ],
+    "name": "Northwest Digital Heritage"
+  },
+  "institution": "Northwest Digital Heritage",
+  "year": 1909,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/e63c0fc7afb5ccc2115c1dfab3d65b98#SourceResource",
+      "collection": [
+        {
+          "title": "Washington Rural Heritage"
+        },
+        {
+          "title": "Whitman County Heritage"
+        }
+      ],
+      "creator": [
+        "Branwell Brothers, Printers, Colfax, Washington"
+      ],
+      "date": [
+        {
+          "begin": "1909",
+          "displayDate": "1909",
+          "end": "1909"
+        }
+      ],
+      "description": [
+        "The Woman's Guild of the Good Samaritan Church at Colfax, Washington compiled a cookbook in 1909. Of most interest were the advertisements printed for the local businessmen."
+      ],
+      "format": [
+        "Booklets",
+        "Advertisements"
+      ],
+      "identifier": [
+        "WCLCF185"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "spatial": [
+        {
+          "name": "Colfax, Whitman county, Washington, United States"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Advertisements"
+        }
+      ],
+      "title": [
+        "Women's Guild cookbook advertisments, Colfax, Washington, 1909"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1909-01-01",
+      "normalized_dates": [
+        "1909-01-01"
+      ],
+      "date_range": {
+        "begin": "1909-01-01",
+        "end": "1909-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "http://cdm17176.contentdm.oclc.org/digital/iiif/whitman/2188/full/500,/0/default.jpg",
+    "isShownAt": "http://cdm17176.contentdm.oclc.org/cdm/ref/collection/whitman/id/2188"
+  },
+  "iiif_manifest": "http://cdm17176.contentdm.oclc.org/digital/iiif/whitman/2188/full/500,/0/default.jpg",
+  "location": {
+    "state": "Wi"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Guild"
+    ]
+  },
+  "curation_notes": "Community markers: Church, Guild; Digitized scan available"
+}

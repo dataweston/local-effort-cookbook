@@ -1,0 +1,531 @@
+{
+  "source": "internet_archive",
+  "identifier": "countrywomanchri00pohl",
+  "title": "Country woman Christmas, 1997",
+  "creator": "Pohl, Kathy",
+  "year": 1997,
+  "subject": [
+    "Christmas stories",
+    "Christmas cookery",
+    "Christmas crafts"
+  ],
+  "description": null,
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/countrywomanchri00pohl"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/countrywomanchri00pohl"
+        }
+      ]
+    },
+    "created": 1758556008,
+    "d1": "ia601500.us.archive.org",
+    "d2": "ia801500.us.archive.org",
+    "dir": "/29/items/countrywomanchri00pohl",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659798700",
+        "size": "29239",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "1f146939768ccc991de6438c145175d7",
+        "crc32": "b363cc61",
+        "sha1": "db0d4d9e65cccdb199637728d871e266c0d42217"
+      },
+      {
+        "name": "countrywomanchri00pohl.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "countrywomanchri00pohl_hocr.html",
+        "mtime": "1753196737",
+        "size": "35276524",
+        "private": "true",
+        "md5": "d2f0c086c4d99dc96639ef8fd1815f3a",
+        "crc32": "8929cb8d",
+        "sha1": "dc1ebd5cdccf130f655ade6730bb7e8c2bd3f2ef"
+      },
+      {
+        "name": "countrywomanchri00pohl.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "countrywomanchri00pohl_jp2.zip",
+        "md5": "21310fc6aadd452070a4e4d645af3890",
+        "mtime": "1261506904",
+        "size": "253901",
+        "crc32": "7aa036da",
+        "sha1": "0c294380446e5e3455454841ebcd05d542b97dee"
+      },
+      {
+        "name": "countrywomanchri00pohl.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "countrywomanchri00pohl.pdf",
+        "mtime": "1753196495",
+        "size": "14217621",
+        "md5": "86387c3bf68d1c3d5f29ad48b51b4d20",
+        "crc32": "fa3f7f9d",
+        "sha1": "62208de5c4a0ab28c4309d33b4189a9e04cb5650"
+      },
+      {
+        "name": "countrywomanchri00pohl.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "countrywomanchri00pohl_page_numbers.json",
+        "mtime": "1719243043",
+        "size": "13701427",
+        "md5": "8d4bcca10d70aab0a71d44245173eedd",
+        "crc32": "e61ee322",
+        "sha1": "3756375a4b610269f6abcebaac9d2480d6779f85",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00pohl_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "countrywomanchri00pohl_jp2.zip",
+        "md5": "1262d1cd722b6033cf1d3a77911d22a8",
+        "mtime": "1261539988",
+        "size": "4681279",
+        "crc32": "4325ec30",
+        "sha1": "477e1285a62f7981ff0c94fa3b637e325a04b591",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00pohl_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "countrywomanchri00pohl_page_numbers.json",
+        "mtime": "1719243044",
+        "size": "10448947",
+        "md5": "1404eb37c6384de36f9880dffe444779",
+        "crc32": "c7837f8d",
+        "sha1": "2c5727c069b60ff728d0b37adda22bb0ff35a7e1",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00pohl_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "countrywomanchri00pohl_abbyy.gz",
+        "mtime": "1659798606",
+        "size": "3915854",
+        "md5": "38dec6957ee1ebce9bd92730b2c5d1c5",
+        "crc32": "0ab2bd77",
+        "sha1": "3901c9c08026e1519cb623f3d7be640aaf0b5c62",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00pohl_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "countrywomanchri00pohl_scandata.xml",
+        "mtime": "1669692305",
+        "size": "781",
+        "md5": "6f3f5fe719cd9f9470388042e0fa8307",
+        "crc32": "38f78084",
+        "sha1": "dfb0292cd5389e63aa350f331c02d8a23f98affe",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00pohl_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "5f4169a0fa8db3a7c543a3d74b9e702d",
+        "mtime": "1260997947",
+        "size": "625",
+        "crc32": "bf31e1cc",
+        "sha1": "f6e8dec8fb9a81c28f27cb46a19303eb2a0fe897"
+      },
+      {
+        "name": "countrywomanchri00pohl_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "countrywomanchri00pohl_djvu.xml",
+        "mtime": "1720969402",
+        "size": "369398",
+        "md5": "51b32ec28169d705eac48a5fccbfd8b3",
+        "crc32": "bf41ece4",
+        "sha1": "8c5097020e7a8ca4e3d7a00b21c31b66756428ff",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00pohl_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "countrywomanchri00pohl_hocr.html",
+        "mtime": "1720969400",
+        "size": "4417375",
+        "md5": "815a5a9fcb7863c076400f77ca0e6e8c",
+        "crc32": "7f74ca60",
+        "sha1": "b94a5626a402d20f5d79deac962ec844b9d64925",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00pohl_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "countrywomanchri00pohl.pdf",
+        "mtime": "1719243738",
+        "size": "13681117",
+        "md5": "1fa94a20042eaa7ac34c3a62386d1dff",
+        "crc32": "ee5447de",
+        "sha1": "fc333534615ba41437f42ae94161d62b4fc68000"
+      },
+      {
+        "name": "countrywomanchri00pohl_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "46c9059ad299330ab4c1a25089fd6580",
+        "summation": "md5"
+      },
+      {
+        "name": "countrywomanchri00pohl_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "countrywomanchri00pohl_chocr.html.gz",
+        "mtime": "1659798644",
+        "size": "8823738",
+        "md5": "8862d50404604a3a51bba84a02251d91",
+        "crc32": "f6e8a5e7",
+        "sha1": "0b3e0bcf53dfa2bbeec07754927f19b27a3536fa",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00pohl_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "countrywomanchri00pohl_hocr.html",
+        "mtime": "1659798671",
+        "size": "1502",
+        "md5": "a28c5fabaf20113a864aac97c223cc43",
+        "crc32": "12c78136",
+        "sha1": "af6b901e3e454cc2951b631e51fe17f608238340",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00pohl_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2231",
+        "word_conf_11_20": "1206",
+        "word_conf_21_30": "3607",
+        "word_conf_31_40": "3427",
+        "word_conf_41_50": "8589",
+        "word_conf_51_60": "9959",
+        "word_conf_61_70": "11798",
+        "word_conf_71_80": "6502",
+        "word_conf_81_90": "1994",
+        "word_conf_91_100": "4836",
+        "format": "OCR Search Text",
+        "original": "countrywomanchri00pohl_hocr.html",
+        "mtime": "1659798684",
+        "size": "120707",
+        "md5": "da43597e7782ac215475b291da71962e",
+        "crc32": "4c7a230f",
+        "sha1": "92dd071c6599ff1d903f049973940e804da4ac52",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00pohl_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "countrywomanchri00pohl_orig_jp2.tar",
+        "md5": "167d3992ae54957cb0d0eb79d1bf102f",
+        "mtime": "1261506874",
+        "size": "82766423",
+        "crc32": "5e629322",
+        "sha1": "e40f94ca2a3dd15c0b7e1f9f5886d40fc941d03b",
+        "private": "true",
+        "filecount": "128"
+      },
+      {
+        "name": "countrywomanchri00pohl_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "countrywomanchri00pohl.epub",
+        "mtime": "1753196971",
+        "size": "35496362",
+        "md5": "5980e30e2426e086d9e4626c92a22d53",
+        "crc32": "00cde2c5",
+        "sha1": "d321d5e9328ffed4d9fc6e57163c4850c9b32478"
+      },
+      {
+        "name": "countrywomanchri00pohl_loans.json",
+        "source": "original",
+        "mtime": "1596074419",
+        "size": "8360",
+        "format": "JSON",
+        "private": "true",
+        "md5": "902c2884be7697df8ec592417242b1f4",
+        "crc32": "6663caf0",
+        "sha1": "2ddc46cdc10cfd28cc6ede7da366bf015df3e5f6"
+      },
+      {
+        "name": "countrywomanchri00pohl_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "0277c417c559a2242896a73dce819053",
+        "mtime": "1260997947",
+        "size": "2816",
+        "crc32": "44836e1c",
+        "sha1": "282083708f3f4f57e50da0cd69185eead2b4b3c1"
+      },
+      {
+        "name": "countrywomanchri00pohl_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "countrywomanchri00pohl_xisbn.json",
+        "mtime": "1454274098",
+        "size": "242",
+        "md5": "ea65664c76030688707fd9b887450ad8",
+        "crc32": "c7a1a38f",
+        "sha1": "cf80c64c32fb037a96e163ed7e09d6b2de114bc1",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00pohl_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "e98cfaa2c45cba7e60b449d35fdde134",
+        "mtime": "1260997947",
+        "size": "820",
+        "crc32": "3f14aee0",
+        "sha1": "9edbe61d18d9b9dbae05acbcaa3bb4eb8c84059c"
+      },
+      {
+        "name": "countrywomanchri00pohl_meta.sqlite",
+        "source": "original",
+        "mtime": "1466189493",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "077b0b1295a8ad5d37e575b898b31c56",
+        "crc32": "dac6c456",
+        "sha1": "57475ba230ac4647dbf12c975f656a10ce18f00d"
+      },
+      {
+        "name": "countrywomanchri00pohl_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753196971",
+        "size": "3203",
+        "md5": "9c7e0ba52fd17061282570b6946183d4",
+        "crc32": "19f165e7",
+        "sha1": "d4baa2970f307fe8fd2c2e58f2caaf9bd619f2be"
+      },
+      {
+        "name": "countrywomanchri00pohl_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "df628bbce1b9b2ecbb9360dda2833795",
+        "mtime": "1260997947",
+        "size": "398",
+        "crc32": "129eff34",
+        "sha1": "ff3c7f1a60568da0503adc47dd8b58a7b06239d1"
+      },
+      {
+        "name": "countrywomanchri00pohl_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "bbf08be3490047aab9e3c3379fc5bd8c",
+        "mtime": "1261504067",
+        "size": "124538880",
+        "crc32": "2c2138fe",
+        "sha1": "2b4124ab7cfd35d8445d08f83c9616630b6e66e0",
+        "private": "true",
+        "filecount": "128"
+      },
+      {
+        "name": "countrywomanchri00pohl_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "95",
+        "format": "Page Numbers JSON",
+        "original": "countrywomanchri00pohl_hocr.html",
+        "mtime": "1719243043",
+        "size": "20205",
+        "md5": "2dd30865ca3fdb72aa9d3ac1fef3eecf",
+        "crc32": "eb26f469",
+        "sha1": "f83ba941ec068fa9171acc826d94e556d6b56b57",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00pohl_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "123c1a1f93a0cd22f4a9829691624536",
+        "mtime": "1669692305",
+        "size": "68918",
+        "crc32": "e800678c",
+        "sha1": "7e021f1f2a29b2a4c62940b433004990ef7264ed"
+      },
+      {
+        "name": "countrywomanchri00pohl_xisbn.json",
+        "source": "original",
+        "mtime": "1454184270",
+        "size": "314",
+        "md5": "d4becdad5063dee376113f719892a501",
+        "crc32": "c01631a2",
+        "sha1": "15e9d0ef327203d9d6b338af15c223b05d6720a3",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753196971,
+    "item_size": 352853120,
+    "metadata": {
+      "title": "Country woman Christmas, 1997",
+      "creator": "Pohl, Kathy",
+      "subject": [
+        "Christmas stories",
+        "Christmas cookery",
+        "Christmas crafts"
+      ],
+      "publisher": "Greendale WI Reiman Publications, L.P",
+      "date": "1997-01-01",
+      "language": "eng",
+      "isbn": [
+        "0898212111",
+        "9780898212112"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA104701",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "la",
+      "mediatype": "texts",
+      "updatedate": "2009-12-16 21:12:27",
+      "updater": "LineK",
+      "identifier": "countrywomanchri00pohl",
+      "uploader": "line@archive.org",
+      "addeddate": "2009-12-16 21:12:36",
+      "publicdate": "2009-12-16 21:12:40",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-jon-cunningham@archive.org",
+      "scanner": "scribe5.la.archive.org",
+      "scandate": "20091222173712",
+      "imagecount": "124",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/countrywomanchri00pohl",
+      "identifier-ark": "ark:/13960/t9w09pc4w",
+      "bookplateleaf": "0002",
+      "notes": "No margins.",
+      "curation": "[curator]kellycritch@archive.org[/curator][date]20100104213418[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:countrywomanchri00pohl:pdf:df0f1311-7026-4db2-bb11-59909415ad44",
+        "urn:acs6:countrywomanchri00pohl:epub:e12235ca-bdfe-4ee1-9a4e-e21332c64002",
+        "urn:oclc:record:1028564456",
+        "urn:lcp:countrywomanchri00pohl:lcpdf:863f746e-8b74-4b8c-ab4f-411d6d00177e",
+        "urn:lcp:countrywomanchri00pohl:epub:23c59965-c8ec-4d9f-8653-98520563b8c5"
+      ],
+      "boxid_2": "CH112901",
+      "donor": "alibris",
+      "city": "Greendale WI",
+      "oclc-id": "37889695",
+      "backup_location": "ia903604_19",
+      "loans__status__status": "UNAVAILABLE",
+      "loans__status__num_loans": "1",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-07-29T21:44:31Z",
+      "openlibrary_edition": "OL24204230M",
+      "openlibrary_work": "OL15136804W",
+      "loans__status__num_history": "22",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 21:47:41 UTC 2020",
+        "Wed Apr 3 0:11:34 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "95",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601500.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "denverpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780898212112"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2019-03-20 14:21:02.959207"
+        }
+      }
+    },
+    "uniq": 1261951250,
+    "workable_servers": [
+      "ia601500.us.archive.org",
+      "ia801500.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/37889695?referer=xid"
+          ],
+          "publisher": "Reiman Publications, L.P.",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Greendale WI",
+          "author": "Kathy Pohl, senior editor.",
+          "year": "1997",
+          "isbn": [
+            "0898212111"
+          ],
+          "title": "Country woman Christmas, 1997",
+          "oclcnum": [
+            "37889695"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Pohl, Kathy",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,516 @@
+{
+  "source": "internet_archive",
+  "identifier": "cocinaalairelibr0000unse",
+  "title": "Cocina al aire libre",
+  "creator": null,
+  "year": 2007,
+  "subject": [
+    "Barbecuing",
+    "Outdoor cooking"
+  ],
+  "description": [
+    "144 pages : 21 cm",
+    "\"Marabout.\"",
+    "\"Recetas para hacer de tu parrillada algo único\"--Cover",
+    "Título original: BBQ 100 ricette per il barbecue",
+    "Introducción -- Carnes y aves -- Pescados y mariscos -- Verduras -- Quesos -- Frutas -- Otras guarniciones y acompañamientos -- Índice de recetas",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/cocinaalairelibr0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/cocinaalairelibr0000unse"
+        }
+      ]
+    },
+    "created": 1758556286,
+    "d1": "ia601708.us.archive.org",
+    "d2": "ia801708.us.archive.org",
+    "dir": "/35/items/cocinaalairelibr0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659757483",
+        "size": "20324",
+        "md5": "8dcacbdafc237269e3b8a6f877022e2b",
+        "crc32": "6ff728c8",
+        "sha1": "4bd2e80bd5b30cc69a933dfb73d1233335598caa",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "cocinaalairelibr0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "cocinaalairelibr0000unse_hocr.html",
+        "mtime": "1753160924",
+        "size": "44391971",
+        "private": "true",
+        "md5": "f7240daad829b3f56bc099831c162039",
+        "crc32": "318c20ce",
+        "sha1": "c708c805054df15761d230733dcc9e3f6924ab7f"
+      },
+      {
+        "name": "cocinaalairelibr0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "cocinaalairelibr0000unse.pdf",
+        "mtime": "1753160781",
+        "size": "10792725",
+        "md5": "2569d199ef3eb3676ca8adc0f3e64b65",
+        "crc32": "a2b9ce15",
+        "sha1": "94d5927b938abb905ff1029ccb7bc47fc7217f0a"
+      },
+      {
+        "name": "cocinaalairelibr0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "cocinaalairelibr0000unse_page_numbers.json",
+        "mtime": "1718730857",
+        "size": "10464472",
+        "md5": "f2ea98ccb0d29c120298c6df1958490c",
+        "crc32": "c8ad00fb",
+        "sha1": "0a54e6c03a013c1b5e026f361fd307db1f34e33f",
+        "private": "true"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "cocinaalairelibr0000unse_jp2.zip",
+        "mtime": "1603197426",
+        "size": "1766849",
+        "md5": "bbc24da6cc04950c8dd74186b92dec8e",
+        "crc32": "8d3743b9",
+        "sha1": "38857442648e0fc69c11ff206ce4420aa866f491",
+        "private": "true"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "cocinaalairelibr0000unse_abbyy.gz",
+        "mtime": "1659757314",
+        "size": "1463459",
+        "md5": "9ce6a6145de1739067315dbe08586923",
+        "crc32": "63704553",
+        "sha1": "9cc79333082403e8e467fc51a06b0f6ee977c6ea",
+        "private": "true"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "cocinaalairelibr0000unse_scandata.xml",
+        "mtime": "1669603291",
+        "size": "789",
+        "md5": "c3a774db6a49998d748de109dff07157",
+        "crc32": "45158b4e",
+        "sha1": "bcbed76c3460976185aaab84ae71a2c73cabdebf",
+        "private": "true"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1603192747",
+        "size": "1177",
+        "md5": "dcf8ba1ae28a0d5326ccb944711f2366",
+        "crc32": "a25714ba",
+        "sha1": "1ee717d7a10f2aa116ebe83adfdc666ba939e7c4"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "cocinaalairelibr0000unse_djvu.xml",
+        "mtime": "1659757479",
+        "size": "136254",
+        "md5": "ef917bdef41b1c286832695add433261",
+        "crc32": "390cd6ed",
+        "sha1": "98c4fa5b70d9a2a60a2238fc6ce311e225d01efc",
+        "private": "true"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "cocinaalairelibr0000unse_hocr.html",
+        "mtime": "1659757417",
+        "size": "1707792",
+        "md5": "9456d474d539b2111e95d9cad794db58",
+        "crc32": "0b9d12c8",
+        "sha1": "69b4c0a083f12cea5dd448a4d82d81490100205c",
+        "private": "true"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "cocinaalairelibr0000unse_abbyy.gz",
+        "mtime": "1603197539",
+        "size": "7267651",
+        "md5": "9ef51bb29e7bf39cbb6d39f7a317649f",
+        "crc32": "aa868c12",
+        "sha1": "99f8374c8d3a9e7ab300eca34ac8c8926a0738f8"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "cocinaalairelibr0000unse.pdf",
+        "mtime": "1718730948",
+        "size": "10382485",
+        "md5": "6555934f4d8aabf5dd9736755489d391",
+        "crc32": "648d6966",
+        "sha1": "9cb59881e6d217054fa42614ecc14af18b3126ea"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_events.json",
+        "source": "original",
+        "mtime": "1603192253",
+        "size": "58",
+        "md5": "faf6ee362940da2e4ca3c76d41d068c1",
+        "crc32": "76e5a77d",
+        "sha1": "73a62da5ca846d66b49c949c304c3be58dbf312a",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "ef1a6d4f592a4fc77fc3baa480c97f75",
+        "summation": "md5"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "cocinaalairelibr0000unse_chocr.html.gz",
+        "mtime": "1659757404",
+        "size": "3521912",
+        "md5": "f41275587990346ca0c84338c75ba847",
+        "crc32": "51d23085",
+        "sha1": "337322a54de6a5125e3a9d0dd53b2da40d901227",
+        "private": "true"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "cocinaalairelibr0000unse_hocr.html",
+        "mtime": "1659757434",
+        "size": "1586",
+        "md5": "49f193ed862c685309c06bfe5faccb25",
+        "crc32": "27cfd1cb",
+        "sha1": "a50a01e24c4251b468af3222db0e958bc34e46c0",
+        "private": "true"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "342",
+        "word_conf_11_20": "100",
+        "word_conf_21_30": "198",
+        "word_conf_31_40": "314",
+        "word_conf_41_50": "380",
+        "word_conf_51_60": "578",
+        "word_conf_61_70": "1150",
+        "word_conf_71_80": "2700",
+        "word_conf_81_90": "4487",
+        "word_conf_91_100": "9601",
+        "format": "OCR Search Text",
+        "original": "cocinaalairelibr0000unse_hocr.html",
+        "mtime": "1659757465",
+        "size": "37204",
+        "md5": "fedd87815fefcc5fd41593a6538c83d3",
+        "crc32": "8b738129",
+        "sha1": "c3e7a7516dd7f915d35148f6cb25d77e0654f8ad",
+        "private": "true"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "cocinaalairelibr0000unse_orig_jp2.tar",
+        "mtime": "1603196549",
+        "size": "79357338",
+        "md5": "6861eacc25344e4941930299b0d79943",
+        "crc32": "1fcabf92",
+        "sha1": "2a8c1a97e2da8a521efa1ee1e64ca5a248b2ac70",
+        "private": "true",
+        "filecount": "150"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "cocinaalairelibr0000unse.epub",
+        "mtime": "1753161185",
+        "size": "44531829",
+        "md5": "730cd6392705de8b0e10af86e59699be",
+        "crc32": "768ef393",
+        "sha1": "ca9b60ebb3360a7ad498b1084fdc629c9b750ccd"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1603090559",
+        "size": "4554",
+        "md5": "bd50c7d3c7b911d453f53ed92e3362ef",
+        "crc32": "70b07c3e",
+        "sha1": "a886ca88b2a5859dfd3f75c823453c889fd7c0e5",
+        "format": "MARC"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1603090553",
+        "size": "1460",
+        "md5": "9a79bcb3e8d0eb8e97030c8370b7a1c3",
+        "crc32": "b1971113",
+        "sha1": "9fd069f11288882025fef3a4d21e7892338546e9",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1603192361",
+        "size": "19456",
+        "md5": "a8e9424be958b41dbcdc7ef438dbdff2",
+        "crc32": "f1485bf3",
+        "sha1": "c5477bb18667a9a510bc655f134d115aa7614de1",
+        "format": "Metadata"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753161186",
+        "size": "3276",
+        "md5": "fbfdcff5ec63085e43695fe12b56f9ac",
+        "crc32": "f55e157b",
+        "sha1": "187a0ea5742b7dd4aa0e1edb82f40a931c019e5b",
+        "format": "Metadata"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1603192361",
+        "size": "249825280",
+        "md5": "b46be92e193cd059c6c9d2f96d5c3491",
+        "crc32": "5cad235d",
+        "sha1": "14d22b821f108f08d6449d7f5f94d7be2859052d",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "150"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "cocinaalairelibr0000unse_hocr.html",
+        "mtime": "1718730857",
+        "size": "25161",
+        "md5": "0514d507ea68252c5b0a9bb799624d36",
+        "crc32": "df7f3a8b",
+        "sha1": "563b462a0f708df870fb637f8547c32f8d85b71c",
+        "private": "true"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1669603291",
+        "size": "153509",
+        "md5": "b3d079c27bd2a974a695900112e91b9b",
+        "crc32": "a0687c13",
+        "sha1": "41b3a6cae2f9cc7da809be3c1a7a97bb34043eef",
+        "format": "Scandata"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_slip.png",
+        "source": "original",
+        "mtime": "1603083771",
+        "size": "38518",
+        "md5": "e3e37386c75024bf6e1913d7bb63d0a2",
+        "crc32": "b456b354",
+        "sha1": "09d482f9467af8e84d9721a81e3742d33cc7e974",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "cocinaalairelibr0000unse_slip.png",
+        "mtime": "1603192762",
+        "size": "5470",
+        "md5": "c39e35f372fdf228fe82532320c45e5d",
+        "crc32": "b264b863",
+        "sha1": "a61d569014f157bcfade0f5ede744eabd9acf4e5",
+        "private": "true"
+      },
+      {
+        "name": "cocinaalairelibr0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "cocinaalairelibr0000unse_djvu.xml",
+        "mtime": "1669602941",
+        "size": "659",
+        "md5": "0c134ec04419c36b9c3434b9ffacd19a",
+        "crc32": "144113b3",
+        "sha1": "5793350d8cf9959a7e350db6a0a2d50dc8d65a7b",
+        "private": "true"
+      },
+      {
+        "name": "logs/cocinaalairelibr0000unse_iabdash_2020-10-1914:56:00.log",
+        "source": "original",
+        "mtime": "1603090563",
+        "size": "1347",
+        "md5": "cc4127cefc07d7041d436ad7feb72284",
+        "crc32": "bb48142b",
+        "sha1": "948cd71eb363672bf4c082ea9d9930e72d3efd11",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/cocinaalairelibr0000unse_scanning_2020-10-1914:56:14.log",
+        "source": "original",
+        "mtime": "1603090577",
+        "size": "499846",
+        "md5": "e6c350cf8028a246acd6d1d83fc36449",
+        "crc32": "8963ed81",
+        "sha1": "b6a8d21679350e3d5e5810b400c273b821a1fd0b",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/cocinaalairelibr0000unse_status_history_2020-10-1914:56:04.log",
+        "source": "original",
+        "mtime": "1603090570",
+        "size": "406",
+        "md5": "b292934231bb48745b243323906550e4",
+        "crc32": "35fbedc8",
+        "sha1": "db9b9dfb5562a3307f606b3260fb97d897fb174f",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753161186,
+    "item_size": 466424817,
+    "metadata": {
+      "identifier": "cocinaalairelibr0000unse",
+      "boxid": "IA1981510",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2007-01-01",
+      "description": [
+        "144 pages : 21 cm",
+        "\"Marabout.\"",
+        "\"Recetas para hacer de tu parrillada algo único\"--Cover",
+        "Título original: BBQ 100 ricette per il barbecue",
+        "Introducción -- Carnes y aves -- Pescados y mariscos -- Verduras -- Quesos -- Frutas -- Otras guarniciones y acompañamientos -- Índice de recetas",
+        "Includes index"
+      ],
+      "isbn": [
+        "9789702220275",
+        "9702220270"
+      ],
+      "language": "spa",
+      "mediatype": "texts",
+      "old_pallet": "IA19558",
+      "operator": "associate-daisy-francis@archive.org",
+      "ppi": "300",
+      "publisher": "México, D.F. : E.L., S.A. de C.V.",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station34.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9789702220275",
+      "subject": [
+        "Barbecuing",
+        "Outdoor cooking"
+      ],
+      "title": "Cocina al aire libre",
+      "tts_version": "4.0-initial-155-gbba175a5",
+      "uploader": "station34.cebu@archive.org",
+      "publicdate": "2020-10-19 05:03:11",
+      "access-restricted-item": "true",
+      "notes": "obscured text back cover.<br />",
+      "imagecount": "150",
+      "scandate": "20201019075420",
+      "republisher_operator": "associate-jayanne-esdrelon@archive.org",
+      "republisher_date": "20201020191024",
+      "republisher_time": "462",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/cocinaalairelibr0000unse",
+      "identifier-ark": "ark:/13960/t87j13v10",
+      "external-identifier": [
+        "urn:acs6:cocinaalairelibr0000unse:epub:97082075-2fe0-4da5-943c-9f85f870af50",
+        "urn:acs6:cocinaalairelibr0000unse:pdf:7eeb16e1-8c3c-4bcf-96dc-706ecc5e7602",
+        "urn:oclc:record:1204325639",
+        "urn:lcp:cocinaalairelibr0000unse:lcpdf:b9946e3b-fca5-49b0-80a9-949e6e49d679",
+        "urn:lcp:cocinaalairelibr0000unse:epub:e034c2e0-cba1-4371-9711-e4afa4653ced"
+      ],
+      "page_number_confidence": "100",
+      "addeddate": "2020-10-20 13:00:53",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20201031",
+      "openlibrary_work": "OL24255392W",
+      "openlibrary_edition": "OL32086715M",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801708.us.archive.org",
+    "uniq": 1963799147,
+    "workable_servers": [
+      "ia801708.us.archive.org",
+      "ia601708.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

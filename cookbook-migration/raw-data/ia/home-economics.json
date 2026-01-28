@@ -1,0 +1,278 @@
+{
+  "source": "internet_archive",
+  "identifier": "home-economics",
+  "title": "Iowa State College of Argiculture and Mechanic Arts--Home Economics",
+  "creator": "R. K. Bliss",
+  "year": 1917,
+  "subject": [
+    "Home economics",
+    "cooking"
+  ],
+  "description": "Iowa State College of Agriculture and Mechanic Arts Agricultural Extension Department Home Economics Short Course Class Notes, No. 21 (Revised, 1917-1918) R. K. Bliss, Director, Ames, Iowa.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720001.ca.archive.org",
+          "dir": "/0/items/home-economics"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720001.ca.archive.org",
+          "dir": "/0/items/home-economics"
+        }
+      ]
+    },
+    "created": 1758335784,
+    "d1": "ia601506.us.archive.org",
+    "d2": "ia801506.us.archive.org",
+    "dir": "/17/items/home-economics",
+    "files": [
+      {
+        "name": "Home Economics.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.18",
+        "format": "Text PDF",
+        "original": "Home Economics_page_numbers.json",
+        "mtime": "1657596655",
+        "size": "1134260",
+        "md5": "a12ea139407572d8b26a3206434d8b8d",
+        "crc32": "d58f7097",
+        "sha1": "a2eb197a853d3d6f04932401197d4ed0132c20e3"
+      },
+      {
+        "name": "Home Economics_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.1.0-1-ge935",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.16",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Home Economics_jp2.zip",
+        "mtime": "1657596524",
+        "size": "253489",
+        "md5": "7d58da7b4a3dc9a4ca95ad9fed027260",
+        "crc32": "62a2c78d",
+        "sha1": "b2d32de465477bcdef28f9443090fa30fc67a4f8"
+      },
+      {
+        "name": "Home Economics_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Home Economics_djvu.xml",
+        "mtime": "1657596583",
+        "size": "17823",
+        "md5": "ab947e5a0b48ba18baaccf648beb6db2",
+        "crc32": "3b5c79f9",
+        "sha1": "e10603c2f2f48127b210b62378bfc89112c00f72"
+      },
+      {
+        "name": "Home Economics_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Home Economics_hocr.html",
+        "mtime": "1657596555",
+        "size": "255451",
+        "md5": "69ce4d243909a0198535b44151cf0a8d",
+        "crc32": "22e132fe",
+        "sha1": "f1400e62feb3c7f1914107c5dbcb8ec34a7dca30"
+      },
+      {
+        "name": "Home Economics_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.16",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Home Economics_chocr.html.gz",
+        "mtime": "1657596547",
+        "size": "496161",
+        "md5": "c9d94ef17b0fdc2c213a84b7f1083757",
+        "crc32": "6e416d8e",
+        "sha1": "a64def12416c69739f2058c411aeddd05ab7eec1"
+      },
+      {
+        "name": "Home Economics_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "Home Economics_hocr.html",
+        "mtime": "1657596563",
+        "size": "125",
+        "md5": "1dd13b5c3080a40e332c61c9cb18e414",
+        "crc32": "a9617b9b",
+        "sha1": "03f4113e329eb3dc7b73bde88467021df96ea815"
+      },
+      {
+        "name": "Home Economics_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "25",
+        "word_conf_11_20": "11",
+        "word_conf_21_30": "21",
+        "word_conf_31_40": "26",
+        "word_conf_41_50": "28",
+        "word_conf_51_60": "27",
+        "word_conf_61_70": "36",
+        "word_conf_71_80": "40",
+        "word_conf_81_90": "116",
+        "word_conf_91_100": "2670",
+        "format": "OCR Search Text",
+        "original": "Home Economics_hocr.html",
+        "mtime": "1657596576",
+        "size": "7067",
+        "md5": "efa1e9d6bc29846f3645967533c93790",
+        "crc32": "e4550e54",
+        "sha1": "24edbe9da07a43a196c6282889cca487f1c1e258"
+      },
+      {
+        "name": "Home Economics_images.zip",
+        "source": "original",
+        "mtime": "1657596335",
+        "size": "11754384",
+        "md5": "2f4f1b03b9f785432148a087579e50bb",
+        "crc32": "b9c68fc2",
+        "sha1": "85c1119c932f84ea6d6b6b11fc4c0f3fa777a5ec",
+        "format": "Generic Raw Book Zip"
+      },
+      {
+        "name": "Home Economics_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Home Economics_images.zip",
+        "mtime": "1657596399",
+        "size": "3204010",
+        "md5": "3524249eac80f6336b78d51fc29a03be",
+        "crc32": "70f0e117",
+        "sha1": "1a6c771c68badb51d926fc9bd97c1fd4270c5271"
+      },
+      {
+        "name": "Home Economics_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "Home Economics_djvu.xml",
+        "mtime": "1657596591",
+        "size": "1311",
+        "md5": "0be42d47fda0bad4fcbc2703da36f763",
+        "crc32": "918b48f6",
+        "sha1": "2889652f6ff7c235328ffa0b919997c8ffa3714e"
+      },
+      {
+        "name": "Home Economics_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Home Economics_djvu.xml",
+        "mtime": "1657596589",
+        "size": "2758",
+        "md5": "a6a47ad168ea0e2fb60fe799940ca350",
+        "crc32": "1e303bb1",
+        "sha1": "373a4da410570f6f195d593907da24c619f493c3"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1657596673",
+        "size": "13157",
+        "md5": "dbdd35d84427c62906260812d53998a5",
+        "crc32": "038ac512",
+        "sha1": "f2e012ca7b7afed3db69597b25662b6b6e919336",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "home-economics_archive.torrent",
+        "source": "metadata",
+        "btih": "2a1b74dd0147a88a9a666d3cf3f1cb3636f07de7",
+        "mtime": "1657596674",
+        "size": "4272",
+        "md5": "82854c7408543a963fc72aeb00859fdc",
+        "crc32": "b0308959",
+        "sha1": "1d5dfebf2040de4bea4a8221b3691cc88d110192",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "home-economics_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "d5736782f620f32c0209bf84996ae335",
+        "summation": "md5"
+      },
+      {
+        "name": "home-economics_meta.sqlite",
+        "source": "original",
+        "mtime": "1657596339",
+        "size": "20480",
+        "md5": "67aa3d504a38822da62e81310b75e879",
+        "crc32": "cbd47c05",
+        "sha1": "757cb86ac4168cb277e6e8be7ecd968139341f70",
+        "format": "Metadata"
+      },
+      {
+        "name": "home-economics_meta.xml",
+        "source": "original",
+        "mtime": "1657596660",
+        "size": "1718",
+        "md5": "5d16f41220d6f2d6e1c75cd02811cc9a",
+        "crc32": "681a3d48",
+        "sha1": "c32d02f9ff676014a77b1a0d65cb558e77d0e30d",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1657596674,
+    "item_size": 17166466,
+    "metadata": {
+      "identifier": "home-economics",
+      "mediatype": "texts",
+      "collection": [
+        "opensource",
+        "community"
+      ],
+      "creator": "R. K. Bliss",
+      "date": "1917-01-01",
+      "description": "<div>Iowa State College of Agriculture and Mechanic Arts</div><div>Agricultural Extension Department</div><div>Home Economics</div><div>Short Course Class Notes, No. 21 (Revised, 1917-1918)</div><div>R. K. Bliss, Director, Ames, Iowa.<br /></div>",
+      "language": "eng",
+      "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+      "subject": [
+        "Home economics",
+        "cooking"
+      ],
+      "title": "Iowa State College of Argiculture and Mechanic Arts--Home Economics",
+      "uploader": "whengreg@emhsoft.com",
+      "publicdate": "2022-07-12 02:28:21",
+      "addeddate": "2022-07-12 02:28:21",
+      "curation": "[curator]validator@archive.org[/curator][date]20220712023358[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/home-economics",
+      "identifier-ark": "ark:/13960/s23169r5550",
+      "ocr": "tesseract 5.1.0-1-ge935",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.16",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "pdf_module_version": "0.0.18",
+      "normalized_dates": [
+        "1917-01-01"
+      ]
+    },
+    "server": "ia801506.us.archive.org",
+    "uniq": 1785381499,
+    "workable_servers": [
+      "ia801506.us.archive.org",
+      "ia601506.us.archive.org"
+    ]
+  }
+}

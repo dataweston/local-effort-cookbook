@@ -1,0 +1,453 @@
+{
+  "source": "internet_archive",
+  "identifier": "centuryofamerica0000unse",
+  "title": "A Century of America's favorite foods",
+  "creator": null,
+  "year": 2003,
+  "subject": "Cooking, American",
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/centuryofamerica0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/centuryofamerica0000unse"
+        }
+      ]
+    },
+    "created": 1758556557,
+    "d1": "ia601205.us.archive.org",
+    "d2": "ia801205.us.archive.org",
+    "dir": "/5/items/centuryofamerica0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659717520",
+        "size": "17602",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "396047aaba13cb5030565f07c7613ad0",
+        "crc32": "2c8a47e3",
+        "sha1": "0dc640f2f2316e3fd23ac4afe617ec297f2b5d34"
+      },
+      {
+        "name": "centuryofamerica0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "centuryofamerica0000unse_hocr.html",
+        "mtime": "1755463749",
+        "size": "32876646",
+        "private": "true",
+        "md5": "97bae185878422d834813484b07404be",
+        "crc32": "4f557957",
+        "sha1": "758c4e421845977a930c8bd56835b54805fe634c"
+      },
+      {
+        "name": "centuryofamerica0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "centuryofamerica0000unse.pdf",
+        "mtime": "1755463376",
+        "size": "13613323",
+        "md5": "df8271f8934b23784dc7e1506dc70c80",
+        "crc32": "3e9bb4ab",
+        "sha1": "9f7b44cc02df37b69d2efca3e40eb32b7156221b"
+      },
+      {
+        "name": "centuryofamerica0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "centuryofamerica0000unse_page_numbers.json",
+        "mtime": "1718480569",
+        "size": "12984324",
+        "md5": "8c2d94f95e63bba4867f8629c098764d",
+        "crc32": "13cbfe7b",
+        "sha1": "348989f1b20622617efc45a5a1c53ea5a3eddd72",
+        "private": "true"
+      },
+      {
+        "name": "centuryofamerica0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "centuryofamerica0000unse_jp2.zip",
+        "mtime": "1518090909",
+        "size": "2702653",
+        "md5": "1d92195261eeaa6bcc764f649b766d5d",
+        "crc32": "daedf326",
+        "sha1": "334de1b2f35b0313f02671684d2070f09ee76fd4",
+        "private": "true"
+      },
+      {
+        "name": "centuryofamerica0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "centuryofamerica0000unse_abbyy.gz",
+        "mtime": "1659717247",
+        "size": "2265746",
+        "md5": "d797f0d12632a14ffc5a7690ae7172c3",
+        "crc32": "fd8b8cc8",
+        "sha1": "5fa1a8b2993d170e50c122d982c47887126ca757",
+        "private": "true"
+      },
+      {
+        "name": "centuryofamerica0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "centuryofamerica0000unse_scandata.xml",
+        "mtime": "1669544554",
+        "size": "788",
+        "md5": "2a33e99bddc11a10370c13030683bcc0",
+        "crc32": "ae878d98",
+        "sha1": "8e43d98a39c0c81f0d30273b86a790dd11521207",
+        "private": "true"
+      },
+      {
+        "name": "centuryofamerica0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1518084644",
+        "size": "908",
+        "md5": "adb3f63210e6566b1744ed4513aeeda1",
+        "crc32": "a12b9af9",
+        "sha1": "5bdb5c11788f1c59c565edf4d6db6bf7940f1d2e"
+      },
+      {
+        "name": "centuryofamerica0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "centuryofamerica0000unse_djvu.xml",
+        "mtime": "1659717513",
+        "size": "197104",
+        "md5": "1039f7dc6f91c45b9b7edd43aded35a7",
+        "crc32": "153665de",
+        "sha1": "c92f05ea5e87d72cd15edfef97ccc97a86bfd402",
+        "private": "true"
+      },
+      {
+        "name": "centuryofamerica0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "centuryofamerica0000unse_hocr.html",
+        "mtime": "1659717415",
+        "size": "2468120",
+        "md5": "59a43fef1ae6c89b418491a75f59eb45",
+        "crc32": "8ca26890",
+        "sha1": "3a6a9a3e4de7aa8cc6d87ee3e747c71827b97a2c",
+        "private": "true"
+      },
+      {
+        "name": "centuryofamerica0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "centuryofamerica0000unse_abbyy.gz",
+        "mtime": "1518091892",
+        "size": "2254",
+        "md5": "653ad523b3bc4006e358d69e2b977017",
+        "crc32": "ef97e26a",
+        "sha1": "22a08db5c0c12635642f47e6ebf29392f505ae96"
+      },
+      {
+        "name": "centuryofamerica0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "centuryofamerica0000unse.pdf",
+        "mtime": "1718480936",
+        "size": "12895481",
+        "md5": "30e14692f1c9fbd325b3f8dde5bfd730",
+        "crc32": "d3e673df",
+        "sha1": "6158274a2ce6d7c24e36a461e15ceb94c41db0ba"
+      },
+      {
+        "name": "centuryofamerica0000unse_events.json",
+        "source": "original",
+        "mtime": "1518078327",
+        "size": "51",
+        "md5": "4eaf53a0b97b50472057c0534d4dd40f",
+        "crc32": "c628626b",
+        "sha1": "b5435cedb422a45e43488df16a9e3c69f1a9f9b0",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "centuryofamerica0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "12a02b988625403ce7c859ba302f8a48",
+        "summation": "md5"
+      },
+      {
+        "name": "centuryofamerica0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "centuryofamerica0000unse_chocr.html.gz",
+        "mtime": "1659717394",
+        "size": "5243526",
+        "md5": "5061289ea732c8b1ea9a7f9cbb19b403",
+        "crc32": "b63644d1",
+        "sha1": "1af90559b0b9284563146ca46b10265080bf0087",
+        "private": "true"
+      },
+      {
+        "name": "centuryofamerica0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "centuryofamerica0000unse_hocr.html",
+        "mtime": "1659717440",
+        "size": "1818",
+        "md5": "c3594d7687c0658aba175b8f94cb7ba4",
+        "crc32": "1b97b3c0",
+        "sha1": "a199d9a33b82ceb97c6d6910ba59d9df7153279c",
+        "private": "true"
+      },
+      {
+        "name": "centuryofamerica0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "887",
+        "word_conf_11_20": "327",
+        "word_conf_21_30": "442",
+        "word_conf_31_40": "587",
+        "word_conf_41_50": "811",
+        "word_conf_51_60": "1273",
+        "word_conf_61_70": "2285",
+        "word_conf_71_80": "4287",
+        "word_conf_81_90": "6413",
+        "word_conf_91_100": "11265",
+        "format": "OCR Search Text",
+        "original": "centuryofamerica0000unse_hocr.html",
+        "mtime": "1659717489",
+        "size": "66040",
+        "md5": "d47d062a311c1b3684fc3eb7be77d391",
+        "crc32": "72eda5c2",
+        "sha1": "205e036f13a5cd297d835832442ed69ccb9dcb0c",
+        "private": "true"
+      },
+      {
+        "name": "centuryofamerica0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "centuryofamerica0000unse_orig_jp2.tar",
+        "mtime": "1518089628",
+        "size": "129790313",
+        "md5": "bef1e552bb3f5d4db86637c256192561",
+        "crc32": "cc8e56fc",
+        "sha1": "073fbef9b568ae6ed34c1481caab806b79ebce0e",
+        "private": "true",
+        "filecount": "156"
+      },
+      {
+        "name": "centuryofamerica0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "centuryofamerica0000unse.epub",
+        "mtime": "1755463904",
+        "size": "33373636",
+        "md5": "df653c7e941e450a69dd9af87847825a",
+        "crc32": "ee8b36a5",
+        "sha1": "e7eba518d0e50fb5e1e33145608b4cf264a735c4"
+      },
+      {
+        "name": "centuryofamerica0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1518084644",
+        "size": "3987",
+        "format": "MARC",
+        "md5": "9aaf8f59b6d235243d66ccc0fbffb6bf",
+        "crc32": "ce20505f",
+        "sha1": "5ce2d0108e2186a39a8e3a5cff4693c9cf8a5e3a"
+      },
+      {
+        "name": "centuryofamerica0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1517671494",
+        "size": "1081",
+        "md5": "3240a7be7c39842e16da95c8c73aa281",
+        "crc32": "c2c02f0b",
+        "sha1": "8b089cccc63cefb8b6843f078cdbedc963db6b02",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "centuryofamerica0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1518084519",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "713761b1414a11c4d0f765c6f08d9abf",
+        "crc32": "99c6ee2e",
+        "sha1": "48601de14771e7aa45a54aa8482009838892cc16"
+      },
+      {
+        "name": "centuryofamerica0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1755463912",
+        "size": "2829",
+        "format": "Metadata",
+        "md5": "92e705501373c2e4810a527733c780ac",
+        "crc32": "c31e5f81",
+        "sha1": "3029a9dc1da2cc67296cef723cd283e8262dae91"
+      },
+      {
+        "name": "centuryofamerica0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1518084519",
+        "size": "328632320",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "2f50d4707be0e404475532490a77e895",
+        "crc32": "f34403fe",
+        "sha1": "10ff8d792941a63aa6bc236df49dfa6b416fdac6",
+        "filecount": "156"
+      },
+      {
+        "name": "centuryofamerica0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "98",
+        "format": "Page Numbers JSON",
+        "original": "centuryofamerica0000unse_hocr.html",
+        "mtime": "1718480568",
+        "size": "25830",
+        "md5": "f7b5fb8fcd61ccc429f5db2108f09d0d",
+        "crc32": "2e977c50",
+        "sha1": "4429f35eb31696bbb14817e0ba68859118e65cdf",
+        "private": "true"
+      },
+      {
+        "name": "centuryofamerica0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1669544554",
+        "size": "159572",
+        "format": "Scandata",
+        "md5": "b3ca7cdd82b72b96fd5364942a5a32b1",
+        "crc32": "5d1dafa8",
+        "sha1": "ebbc1a9ec03f2dde02a3a741895eef132d96d114"
+      },
+      {
+        "name": "logs/centuryofamerica0000unse_iabdash_2018-02-03232434.log",
+        "source": "original",
+        "mtime": "1517671484",
+        "size": "354",
+        "md5": "664541b6d85d28f1f692701456796bb0",
+        "crc32": "89177e54",
+        "sha1": "4c4d66c5092baa0962399cc1de982f1c471f6c40",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/centuryofamerica0000unse_scanning_2018-02-03232428.log",
+        "source": "original",
+        "mtime": "1517671478",
+        "size": "202766",
+        "md5": "a2d7a8dcfcf273a216f4305eea4dd2b1",
+        "crc32": "668809cd",
+        "sha1": "a3fa41bb039e7fea049ebfa36c79cd78172a5006",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 28,
+    "item_last_updated": 1755463912,
+    "item_size": 577545456,
+    "metadata": {
+      "identifier": "centuryofamerica0000unse",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "date": "2003-01-01",
+      "isbn": [
+        "156383149X",
+        "9781563831492"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-nini-chen@archive.org",
+      "ppi": "300",
+      "printer": "DYMO_LabelWriter_450_Turbo",
+      "publisher": "Waverly, IA : CQ Products",
+      "repub_state": "22",
+      "scanner": "ttscribe5.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "A Century of America's favorite foods",
+      "tts_version": "v1.57-initial-82-g2b8ab4d",
+      "publicdate": "2018-02-03 15:24:22",
+      "uploader": "ttscribe5.hongkong@archive.org",
+      "addeddate": "2018-02-03 15:24:22",
+      "imagecount": "156",
+      "scandate": "20180203161800",
+      "subject": [
+        "Cooking, American",
+        "Cooking, American"
+      ],
+      "lccn": "2004296042",
+      "description": "Includes index",
+      "republisher_operator": "associate-nura-alam@archive.org",
+      "republisher_date": "20180208142513",
+      "republisher_time": "553",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/centuryofamerica0000unse",
+      "identifier-ark": "ark:/13960/t5p90rm8h",
+      "bookplateleaf": "0008",
+      "external-identifier": [
+        "urn:acs6:centuryofamerica0000unse:epub:92aa603f-f66b-47bc-9567-2db780cc9399",
+        "urn:acs6:centuryofamerica0000unse:pdf:f8875597-00a3-4117-9d70-4d5b677e3cca",
+        "urn:oclc:record:1041786046",
+        "urn:lcp:centuryofamerica0000unse:lcpdf:05ba3eda-58da-43fa-a345-237eb1d24f11",
+        "urn:lcp:centuryofamerica0000unse:epub:06accda2-a594-46ec-83a8-9e5a93c8c474"
+      ],
+      "scanfee": "15",
+      "invoice": "1213",
+      "boxid": "IA1165722",
+      "sponsordate": "20180331",
+      "openlibrary_edition": "OL3323366M",
+      "openlibrary_work": "OL17838738W",
+      "backup_location": "ia906607_28",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "98",
+      "filesxml": "Tue Apr 2 23:10:33 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801205.us.archive.org",
+    "uniq": 453652309,
+    "workable_servers": [
+      "ia801205.us.archive.org",
+      "ia601205.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

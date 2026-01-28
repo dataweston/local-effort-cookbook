@@ -1,0 +1,516 @@
+{
+  "source": "internet_archive",
+  "identifier": "savoringseasonso0000dool",
+  "title": "Savoring the seasons of the northern heartland",
+  "creator": "Dooley, Beth",
+  "year": 2004,
+  "subject": [
+    "Cooking, American -- Midwestern style",
+    "Cooking -- Middle West",
+    "Middle West -- Social life and customs"
+  ],
+  "description": [
+    "xvi, 391 p. : 25 cm",
+    "Originally published: New York : Knopf, 1994",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720006.ca.archive.org",
+          "dir": "/0/items/savoringseasonso0000dool"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720006.ca.archive.org",
+          "dir": "/0/items/savoringseasonso0000dool"
+        }
+      ]
+    },
+    "created": 1758337523,
+    "d1": "ia904508.us.archive.org",
+    "d2": "ia804508.us.archive.org",
+    "dir": "/12/items/savoringseasonso0000dool",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661021145",
+        "size": "15399",
+        "md5": "362ce35a2d4370d47a97b1b2b912d79e",
+        "crc32": "9ae06741",
+        "sha1": "2e69828908351fda92579cee683cdfe20a8b6d7f",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/savoringseasonso0000dool_iabdash_2021-09-2712:31:53.log",
+        "source": "original",
+        "mtime": "1632717116",
+        "size": "2710",
+        "md5": "dd58d85db537c4012d168fb60ae24f49",
+        "crc32": "e901d7e3",
+        "sha1": "23eb47bd60e23aed7b66b5ef427d239321dbc0fb",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/savoringseasonso0000dool_scanning_2021-09-2712:32:01.log",
+        "source": "original",
+        "mtime": "1632717128",
+        "size": "1941582",
+        "md5": "d3e3a3fd6bbc64eef205d137f36261bb",
+        "crc32": "66992ae9",
+        "sha1": "b10aa3c98f0cce8cf851bb4d0acaa6374caccdb6",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/savoringseasonso0000dool_status_history_2021-09-2712:31:57.log",
+        "source": "original",
+        "mtime": "1632717120",
+        "size": "409",
+        "md5": "b0b9c9dc036cdad64e7ff3bf514de474",
+        "crc32": "cabf809f",
+        "sha1": "841bf911a888d02f2fe52e47b26a9676e33584e2",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "savoringseasonso0000dool.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "savoringseasonso0000dool_hocr.html",
+        "mtime": "1758283256",
+        "size": "1286207",
+        "private": "true",
+        "md5": "23281aa0104cb684e14b537cdb1370ae",
+        "crc32": "df549074",
+        "sha1": "1ddf8d464f47ccb326a0cf81002430644eb2cf62"
+      },
+      {
+        "name": "savoringseasonso0000dool.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "savoringseasonso0000dool.pdf",
+        "mtime": "1758283160",
+        "size": "24728817",
+        "md5": "112bb2a31f3d6457401b0d9f943e117a",
+        "crc32": "57c8c0c2",
+        "sha1": "07be529ba5d9b837006686da775b034fb3059926"
+      },
+      {
+        "name": "savoringseasonso0000dool.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "savoringseasonso0000dool_page_numbers.json",
+        "mtime": "1722740574",
+        "size": "24422801",
+        "md5": "2a0310b585d6ebda518b9ccd48a0dbe3",
+        "crc32": "2d8a099b",
+        "sha1": "651ff1b5e4d6a4a13e985f017ec8b1dc4a805541",
+        "private": "true"
+      },
+      {
+        "name": "savoringseasonso0000dool_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-beta-20210815",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9909",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "savoringseasonso0000dool_jp2.zip",
+        "mtime": "1632970102",
+        "size": "7380102",
+        "md5": "3ff38c0dc324789012c8e5382fb0d754",
+        "crc32": "9c81ea2a",
+        "sha1": "fb271175fae06f3c032ddda77905494b236517aa",
+        "private": "true"
+      },
+      {
+        "name": "savoringseasonso0000dool_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "savoringseasonso0000dool_scandata.xml",
+        "mtime": "1671172286",
+        "size": "787",
+        "md5": "08bb7c09f684a950e9ba801abe874e4a",
+        "crc32": "06ba0afe",
+        "sha1": "809ccde4750feaf1b19ae0facf68b0e5f6701f76",
+        "private": "true"
+      },
+      {
+        "name": "savoringseasonso0000dool_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1632960967",
+        "size": "1298",
+        "md5": "1099b68d333f718b7de52551f44bb0d2",
+        "crc32": "e3a63d25",
+        "sha1": "3696916cbb9f0027cb771b0cb1b6366bc5ca5095"
+      },
+      {
+        "name": "savoringseasonso0000dool_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "savoringseasonso0000dool_djvu.xml",
+        "mtime": "1632970606",
+        "size": "542363",
+        "md5": "2e4b681eb4151e4fb2c7a2944e4ac9ab",
+        "crc32": "94491a2f",
+        "sha1": "55e66f78baa4763fcfff6c0f21d0bc3ab992e6f2",
+        "private": "true"
+      },
+      {
+        "name": "savoringseasonso0000dool_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "savoringseasonso0000dool_hocr.html",
+        "mtime": "1632970314",
+        "size": "7268294",
+        "md5": "d3d2ede71e549053a63d728f559b92e4",
+        "crc32": "7e374dc0",
+        "sha1": "3d45e6099924a49f11944bd0158b28fba6dba3cb",
+        "private": "true"
+      },
+      {
+        "name": "savoringseasonso0000dool_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "savoringseasonso0000dool.pdf",
+        "mtime": "1722741001",
+        "size": "24320061",
+        "md5": "52d021f7e503f55e0f3bdb7602cf0a34",
+        "crc32": "2a424ad4",
+        "sha1": "6a2d677116f07b41d8f6f8507754b319c181aba3"
+      },
+      {
+        "name": "savoringseasonso0000dool_events.json",
+        "source": "original",
+        "mtime": "1632960738",
+        "size": "57",
+        "md5": "036df54ef74b54d4aa3c6bfb33fdaf93",
+        "crc32": "e9f980fc",
+        "sha1": "c5a9a0987dd13de4e3c2e72840d67dc8ecbd7b23",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "savoringseasonso0000dool_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "929481e2146887d28a8ddd0459a4d5b3",
+        "summation": "md5"
+      },
+      {
+        "name": "savoringseasonso0000dool_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9909",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "savoringseasonso0000dool_chocr.html.gz",
+        "mtime": "1632970275",
+        "size": "13621739",
+        "md5": "53fd004e9c1eed78a70e880ad975394d",
+        "crc32": "4653bb6c",
+        "sha1": "5c3d231f54569f87c0013ea3adcee59ba58e1185",
+        "private": "true"
+      },
+      {
+        "name": "savoringseasonso0000dool_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "savoringseasonso0000dool_hocr.html",
+        "mtime": "1632970426",
+        "size": "4867",
+        "md5": "0f333fcb019bcfeeca5320812a206f57",
+        "crc32": "7e5f4212",
+        "sha1": "3f94eb3123a32527a3db8f180a97749271442dbf",
+        "private": "true"
+      },
+      {
+        "name": "savoringseasonso0000dool_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "528",
+        "word_conf_11_20": "168",
+        "word_conf_21_30": "216",
+        "word_conf_31_40": "302",
+        "word_conf_41_50": "334",
+        "word_conf_51_60": "427",
+        "word_conf_61_70": "499",
+        "word_conf_71_80": "763",
+        "word_conf_81_90": "1777",
+        "word_conf_91_100": "84374",
+        "format": "OCR Search Text",
+        "original": "savoringseasonso0000dool_hocr.html",
+        "mtime": "1632970580",
+        "size": "182404",
+        "md5": "a4ab32b941cd9b536d0c575c9372afdd",
+        "crc32": "c1cfd593",
+        "sha1": "9c2d739d972ee25880fde4001ccbb5a87868e146",
+        "private": "true"
+      },
+      {
+        "name": "savoringseasonso0000dool_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "savoringseasonso0000dool_orig_jp2.tar",
+        "mtime": "1632967992",
+        "size": "189658511",
+        "md5": "cc1f2580c51559d4dfefd0fe4ff9de26",
+        "crc32": "e330dc34",
+        "sha1": "179d027dc9532d41fb2e125d238071a7b653c854",
+        "private": "true",
+        "filecount": "412"
+      },
+      {
+        "name": "savoringseasonso0000dool_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "savoringseasonso0000dool.epub",
+        "mtime": "1758283491",
+        "size": "1309204",
+        "md5": "32006cae018658c6315bea0a7480cd14",
+        "crc32": "02ec364e",
+        "sha1": "688103873e487cd6c77b29321045336dc4f6f02a"
+      },
+      {
+        "name": "savoringseasonso0000dool_marc.xml",
+        "source": "original",
+        "mtime": "1632717110",
+        "size": "3327",
+        "md5": "dda4f2ebacfab46086d09b77f5c730bd",
+        "crc32": "64725258",
+        "sha1": "3e2b73243cdd2a09889adac3f67ed2120622dd1c",
+        "format": "MARC"
+      },
+      {
+        "name": "savoringseasonso0000dool_meta.mrc",
+        "source": "original",
+        "mtime": "1632717106",
+        "size": "1043",
+        "md5": "ba6928a99dbd86afeb6453112fb4fb83",
+        "crc32": "5cf05652",
+        "sha1": "4da8f7fbb06b496de451901583d297c906809a7d",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "savoringseasonso0000dool_meta.sqlite",
+        "source": "original",
+        "mtime": "1632960808",
+        "size": "45056",
+        "md5": "d5a923630a98b954974ff2f5c3310370",
+        "crc32": "44ba438f",
+        "sha1": "6e42b14cb4d5ab4aa7e74fa10801ef0ea9d60cdf",
+        "format": "Metadata"
+      },
+      {
+        "name": "savoringseasonso0000dool_meta.xml",
+        "source": "original",
+        "mtime": "1758283491",
+        "size": "3399",
+        "md5": "c73a858a05d8dc85b198a8c9d2b9db13",
+        "crc32": "f8c89304",
+        "sha1": "cec65f7b7571dfbb8d3174d1c54897629950e341",
+        "format": "Metadata"
+      },
+      {
+        "name": "savoringseasonso0000dool_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1632960807",
+        "size": "625674240",
+        "md5": "b57ca4574f743bcdbe54df8c87f3e666",
+        "crc32": "0f5bdd88",
+        "sha1": "ad45ae7ff3b121aeb97634ab011425fe2be4bd34",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "412"
+      },
+      {
+        "name": "savoringseasonso0000dool_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "96",
+        "format": "Page Numbers JSON",
+        "original": "savoringseasonso0000dool_hocr.html",
+        "mtime": "1722740574",
+        "size": "68768",
+        "md5": "586c9642faf031c50623c96c13e8632a",
+        "crc32": "819a08da",
+        "sha1": "926d81335bc02a445c58e9c826537641d66a7d59",
+        "private": "true"
+      },
+      {
+        "name": "savoringseasonso0000dool_scandata.xml",
+        "source": "original",
+        "mtime": "1671172286",
+        "size": "445896",
+        "md5": "233568603381ffb1f79bb42e86515aec",
+        "crc32": "dee95ac3",
+        "sha1": "6069069d73f0273f09d52d085525bd0006d9f9d1",
+        "format": "Scandata"
+      },
+      {
+        "name": "savoringseasonso0000dool_slip.png",
+        "source": "original",
+        "mtime": "1632709778",
+        "size": "40113",
+        "md5": "4ab62fd5cca7b7afd1e9dd46d3c2f8c0",
+        "crc32": "ac36a015",
+        "sha1": "26152185275e39581cbdcdffa1d466f043236d69",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "savoringseasonso0000dool_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "savoringseasonso0000dool_slip.png",
+        "mtime": "1632960971",
+        "size": "8633",
+        "md5": "8094fa324f1237dfb88949db469adf0d",
+        "crc32": "e382ab79",
+        "sha1": "a8e04d71c21d28fcb381283447e05e8bc4ded9dc",
+        "private": "true"
+      },
+      {
+        "name": "savoringseasonso0000dool_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "savoringseasonso0000dool_djvu.xml",
+        "mtime": "1671172151",
+        "size": "593",
+        "md5": "3e772d047be99cf8f2b2b5bc461323ff",
+        "crc32": "4d827a3f",
+        "sha1": "f9258c0e75ba0f6757946199a676fad79f0b0017",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1758283491,
+    "item_size": 922978680,
+    "metadata": {
+      "identifier": "savoringseasonso0000dool",
+      "associated-names": "Watson, Lucia",
+      "boxid": "IA40247907",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Dooley, Beth",
+      "date": "2004-01-01",
+      "description": [
+        "xvi, 391 p. : 25 cm",
+        "Originally published: New York : Knopf, 1994",
+        "Includes index"
+      ],
+      "isbn": [
+        "0816645744",
+        "9780816645749"
+      ],
+      "language": "eng",
+      "lccn": "2004013040",
+      "mediatype": "texts",
+      "old_pallet": "IA-NS-1300219",
+      "openlibrary_edition": "OL3293490M",
+      "openlibrary_work": "OL3467964W",
+      "operator": "associate-legimae-codilla@archive.org",
+      "publisher": "Minneapolis : University of Minnesota Press",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station40.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780816645749",
+      "sponsor": "The Arcadia Fund",
+      "subject": [
+        "Cooking, American -- Midwestern style",
+        "Cooking -- Middle West",
+        "Middle West -- Social life and customs"
+      ],
+      "title": "Savoring the seasons of the northern heartland",
+      "tts_version": "4.5-initial-77-gb148eb45",
+      "uploader": "station40.cebu@archive.org",
+      "publicdate": "2021-09-27 02:29:52",
+      "access-restricted-item": "true",
+      "imagecount": "412",
+      "scandate": "20210927052306",
+      "ppi": "360",
+      "republisher_operator": "associate-mavanessa-cando@archive.org",
+      "republisher_date": "20210930081214",
+      "republisher_time": "386",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/savoringseasonso0000dool",
+      "identifier-ark": "ark:/13960/t07x8v934",
+      "ocr": "tesseract 5.0.0-beta-20210815",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.13",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9909",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "96",
+      "pdf_module_version": "0.0.15",
+      "external-identifier": [
+        "urn:acs6:savoringseasonso0000dool:pdf:ee25cbe1-5a0b-4eb6-ba6e-5e1c3452a7b3",
+        "urn:oclc:record:1285744206",
+        "urn:lcp:savoringseasonso0000dool:lcpdf:feb542fd-d81c-416f-b015-f85142424000",
+        "urn:lcp:savoringseasonso0000dool:epub:7b79cf75-a4f8-48fd-9292-5c6fb3ca0795"
+      ],
+      "scanfee": "2000;0;0",
+      "invoice": "1605",
+      "addeddate": "2021-09-30 04:06:06",
+      "sponsordate": "20220331",
+      "grant_report": "Arcadia #4081",
+      "source": "removed",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "2004-01-01"
+      ]
+    },
+    "server": "ia904508.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "dartmouthlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780816645749"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 00:33:51.52853"
+        }
+      }
+    },
+    "uniq": 1537270146,
+    "workable_servers": [
+      "ia904508.us.archive.org",
+      "ia804508.us.archive.org"
+    ]
+  }
+}

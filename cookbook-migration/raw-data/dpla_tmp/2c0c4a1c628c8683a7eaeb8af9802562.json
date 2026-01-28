@@ -1,0 +1,95 @@
+{
+  "source": "dpla",
+  "id": "2c0c4a1c628c8683a7eaeb8af9802562",
+  "identifier": "2c0c4a1c628c8683a7eaeb8af9802562",
+  "title": "Morton community cook book",
+  "subject": [
+    "Cooking, American--Illinois"
+  ],
+  "spatial": [
+    "Illinois"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/102204854",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1923,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/2c0c4a1c628c8683a7eaeb8af9802562#SourceResource",
+      "date": [
+        {
+          "begin": "1923",
+          "displayDate": "1923",
+          "end": "1923"
+        }
+      ],
+      "extent": [
+        "96 p. : 22 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-uiuc1783221",
+        "uil00011596",
+        "(OCoLC)77179186",
+        "Hathi: 102204854"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Morton, Ill."
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American--Illinois"
+        }
+      ],
+      "title": [
+        "Morton community cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1923-01-01",
+      "normalized_dates": [
+        "1923-01-01"
+      ],
+      "date_range": {
+        "begin": "1923-01-01",
+        "end": "1923-01-01"
+      }
+    }
+  },
+  "data": {
+    "isShownAt": "http://catalog.hathitrust.org/Record/102204854"
+  },
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

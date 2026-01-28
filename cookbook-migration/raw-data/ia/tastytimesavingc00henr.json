@@ -1,0 +1,503 @@
+{
+  "source": "internet_archive",
+  "identifier": "tastytimesavingc00henr",
+  "title": "Tasty timesaving cooking",
+  "creator": "Henry, Linda",
+  "year": 1988,
+  "subject": "Quick and easy cookery",
+  "description": [
+    "At head of title: Better homes and gardens",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/tastytimesavingc00henr"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/tastytimesavingc00henr"
+        }
+      ]
+    },
+    "created": 1758337542,
+    "d1": "ia600208.us.archive.org",
+    "d2": "ia800208.us.archive.org",
+    "dir": "/24/items/tastytimesavingc00henr",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661145670",
+        "size": "19853",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "037a6f31eb421802f4ad42e7ace05b87",
+        "crc32": "d15c147d",
+        "sha1": "8cb196fb7296099430558f2c8d34296204cea4fb"
+      },
+      {
+        "name": "tastytimesavingc00henr.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "tastytimesavingc00henr_jp2.zip",
+        "md5": "8a93a94d9f312fee9f65d6829200a2ee",
+        "mtime": "1272321124",
+        "size": "232635",
+        "crc32": "f0022902",
+        "sha1": "1987ab706493fc7ff76544d633d077e11145f70e"
+      },
+      {
+        "name": "tastytimesavingc00henr.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "tastytimesavingc00henr.pdf",
+        "mtime": "1720975541",
+        "size": "20001659",
+        "md5": "f811b9ce658d699d296d13c5f961f00a",
+        "crc32": "a11de2d7",
+        "sha1": "7218af80641b161c66b3e74042bd1b2fc88a0a74"
+      },
+      {
+        "name": "tastytimesavingc00henr.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "tastytimesavingc00henr_page_numbers.json",
+        "mtime": "1720973946",
+        "size": "19319382",
+        "md5": "5c566b904cee28f322fa3985460c37c5",
+        "crc32": "a06b864d",
+        "sha1": "462fb7206577fc0f6bee14d30a00f4afbb1b3c36",
+        "private": "true"
+      },
+      {
+        "name": "tastytimesavingc00henr_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "tastytimesavingc00henr_jp2.zip",
+        "md5": "761a8380c027c2517ff56d6c37935485",
+        "mtime": "1272327234",
+        "size": "6201293",
+        "crc32": "656ce90f",
+        "sha1": "0ecbb5afa514b32ebbab7d7618a9b5a3320e4a6a",
+        "private": "true"
+      },
+      {
+        "name": "tastytimesavingc00henr_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "tastytimesavingc00henr_abbyy.gz",
+        "mtime": "1661145381",
+        "size": "5131254",
+        "md5": "1bf01c063668f5d2e82eb272935afbc4",
+        "crc32": "de25bc97",
+        "sha1": "ebdb3487bfbd7e95d24b735fd8626b1fac37e556",
+        "private": "true"
+      },
+      {
+        "name": "tastytimesavingc00henr_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "tastytimesavingc00henr_scandata.xml",
+        "mtime": "1671417161",
+        "size": "778",
+        "md5": "147450ef859396dbc43a2559dbb856f9",
+        "crc32": "bbd7eba7",
+        "sha1": "f5b7152c7b4576f6161fc4d44040130b86b49563",
+        "private": "true"
+      },
+      {
+        "name": "tastytimesavingc00henr_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "e005945cd5c1585a0008fd2c46d27f55",
+        "mtime": "1270491758",
+        "size": "669",
+        "crc32": "4cee27a9",
+        "sha1": "c3aa0840568c879862875829e443e05ca6d6a94a"
+      },
+      {
+        "name": "tastytimesavingc00henr_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "tastytimesavingc00henr_djvu.xml",
+        "mtime": "1720974982",
+        "size": "481152",
+        "md5": "f47d1e367476792b71ee08e366cf5eae",
+        "crc32": "6e1f1566",
+        "sha1": "69ba06d8b9638e86967f71456c14e8b37e08f8b4",
+        "private": "true"
+      },
+      {
+        "name": "tastytimesavingc00henr_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "tastytimesavingc00henr_hocr.html",
+        "mtime": "1720966595",
+        "size": "5624620",
+        "md5": "76414a664e7e3793f512f57f5b5c2ffd",
+        "crc32": "d746ba9a",
+        "sha1": "8c86dbf85deea496fc2ee4f1e130ef2113c53f99",
+        "private": "true"
+      },
+      {
+        "name": "tastytimesavingc00henr_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "tastytimesavingc00henr.pdf",
+        "mtime": "1720974986",
+        "size": "19256212",
+        "md5": "625f10cb5dcb2881881f59e1d196c89b",
+        "crc32": "e77e85b2",
+        "sha1": "634406f53eb7e7e6b02ad76e4831b55d11ff7252"
+      },
+      {
+        "name": "tastytimesavingc00henr_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "37ef394d6a30ee42f8806302f7db2ae7",
+        "summation": "md5"
+      },
+      {
+        "name": "tastytimesavingc00henr_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "tastytimesavingc00henr_chocr.html.gz",
+        "mtime": "1661145508",
+        "size": "11600336",
+        "md5": "85f686da6700566dc5879ff2ef9b794f",
+        "crc32": "4e3def8f",
+        "sha1": "f8c22080d6786e77412d0bdb8503ad357c929845",
+        "private": "true"
+      },
+      {
+        "name": "tastytimesavingc00henr_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "tastytimesavingc00henr_hocr.html",
+        "mtime": "1661145569",
+        "size": "2894",
+        "md5": "ab306ac911c932de682c6ebef6204655",
+        "crc32": "ed8af423",
+        "sha1": "31d5077a22e4dd2b2200ae9c82b2be529f2e886e",
+        "private": "true"
+      },
+      {
+        "name": "tastytimesavingc00henr_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2899",
+        "word_conf_11_20": "1503",
+        "word_conf_21_30": "5154",
+        "word_conf_31_40": "3529",
+        "word_conf_41_50": "8880",
+        "word_conf_51_60": "11152",
+        "word_conf_61_70": "14398",
+        "word_conf_71_80": "9604",
+        "word_conf_81_90": "2746",
+        "word_conf_91_100": "6746",
+        "format": "OCR Search Text",
+        "original": "tastytimesavingc00henr_hocr.html",
+        "mtime": "1661145623",
+        "size": "119875",
+        "md5": "33d84c919f92038768c11a35f7680974",
+        "crc32": "d4b490a4",
+        "sha1": "82dd004ae348dfd61df5b7510f8c40ac1e4c8f86",
+        "private": "true"
+      },
+      {
+        "name": "tastytimesavingc00henr_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "tastytimesavingc00henr_orig_jp2.tar",
+        "md5": "90e2358de9bafb37be66ed032c378f40",
+        "mtime": "1272321087",
+        "size": "95992492",
+        "crc32": "5788b4b4",
+        "sha1": "2c96f36bd5944e554fee2c599c8f876291f83485",
+        "private": "true",
+        "filecount": "254"
+      },
+      {
+        "name": "tastytimesavingc00henr_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "tastytimesavingc00henr_hocr.html",
+        "mtime": "1671416010",
+        "size": "36697123",
+        "md5": "a10d47b4ba224877680179fb68d966b9",
+        "crc32": "69eb8c88",
+        "sha1": "b1e19377a9e76a0d758810da1784533ca0accc64"
+      },
+      {
+        "name": "tastytimesavingc00henr_loans.json",
+        "source": "original",
+        "mtime": "1593023344",
+        "size": "1057",
+        "format": "JSON",
+        "private": "true",
+        "md5": "c72611a53340faad56784d899682df96",
+        "crc32": "3448e8c1",
+        "sha1": "c5a5b87926ab5fe2514361ee4931b1754c826bcf"
+      },
+      {
+        "name": "tastytimesavingc00henr_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "60582f38d054a25b20e695b73a0e9316",
+        "mtime": "1270491758",
+        "size": "3954",
+        "crc32": "c845f970",
+        "sha1": "1ea87009348ba0e3af9c683f571c99575dd4a3f1"
+      },
+      {
+        "name": "tastytimesavingc00henr_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "tastytimesavingc00henr_xisbn.json",
+        "mtime": "1454774055",
+        "size": "368",
+        "md5": "b9f215c1c850f9011616674c41258de5",
+        "crc32": "b4e13c1d",
+        "sha1": "324f4984e733e7e650320a9d0bb09584e2c2e909",
+        "private": "true"
+      },
+      {
+        "name": "tastytimesavingc00henr_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "9e08597ef73c93fac366401c3194e2ec",
+        "mtime": "1270491758",
+        "size": "1136",
+        "crc32": "ef503176",
+        "sha1": "ebc6d5c4baf402e76319b10818954673606a4f3f"
+      },
+      {
+        "name": "tastytimesavingc00henr_meta.sqlite",
+        "source": "original",
+        "mtime": "1462918013",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "f0c174b37e2ee176e9edf6fccd82c093",
+        "crc32": "d3f39898",
+        "sha1": "cbeae3b47b7b9a5eb6dd6d0016f51ff7d334962f"
+      },
+      {
+        "name": "tastytimesavingc00henr_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1724929347",
+        "size": "3071",
+        "md5": "ca5a8a67885056a6779742d16e767de0",
+        "crc32": "9c965e69",
+        "sha1": "3e63a49873ab724869e768bff785ee86fe4e1c9f"
+      },
+      {
+        "name": "tastytimesavingc00henr_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "ecc60b6d567d178949cec942929ae06c",
+        "mtime": "1270491758",
+        "size": "411",
+        "crc32": "b53bb0f8",
+        "sha1": "5791ad363454a2891b4ea0d7a2617c01fee49959"
+      },
+      {
+        "name": "tastytimesavingc00henr_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "19d315c7b03f49d3a72a637f308b3b7c",
+        "mtime": "1272316127",
+        "size": "134809600",
+        "crc32": "7ca2185e",
+        "sha1": "b6aa1fa800e10509c744df307654dae95cf8677a",
+        "private": "true",
+        "filecount": "254"
+      },
+      {
+        "name": "tastytimesavingc00henr_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "tastytimesavingc00henr_hocr.html",
+        "mtime": "1720968255",
+        "size": "42043",
+        "md5": "3daeb141d892f68b22da38f21f63592e",
+        "crc32": "b72726db",
+        "sha1": "90c53eba9c7be2b4658eeb9742097ffe72887609",
+        "private": "true"
+      },
+      {
+        "name": "tastytimesavingc00henr_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "63a9515520a8da89482564719b8df76c",
+        "mtime": "1671417161",
+        "size": "131861",
+        "crc32": "bef8345d",
+        "sha1": "321bd719793a82a0828862904ea3cf18f9d94b1f"
+      },
+      {
+        "name": "tastytimesavingc00henr_xisbn.json",
+        "source": "original",
+        "mtime": "1454771732",
+        "size": "359",
+        "md5": "1a979c60fd062087582102cc2f872257",
+        "crc32": "426f089e",
+        "sha1": "b7780f1e2b69df6e02dfa246c2758db62f4d3473",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 28,
+    "item_last_updated": 1724929347,
+    "item_size": 355682231,
+    "metadata": {
+      "title": "Tasty timesaving cooking",
+      "creator": "Henry, Linda",
+      "subject": "Quick and easy cookery",
+      "description": [
+        "At head of title: Better homes and gardens",
+        "Includes index"
+      ],
+      "publisher": "Des Moines, Iowa : Meredith Corporation",
+      "date": "1988-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696017504",
+        "9780696017506"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA115918",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sfdowntown",
+      "mediatype": "texts",
+      "updatedate": "2010-04-05 18:22:38",
+      "updater": "loader-DanaB",
+      "identifier": "tastytimesavingc00henr",
+      "uploader": "scanner-dana-base@archive.org",
+      "addeddate": "2010-04-05 18:22:41",
+      "publicdate": "2010-04-05 18:22:44",
+      "ppi": "400",
+      "camera": "Canon 5D",
+      "operator": "scanner-kian-tan@archive.org",
+      "scanner": "scribe9.sfdowntown.archive.org",
+      "scandate": "20100426210306",
+      "imagecount": "252",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/tastytimesavingc00henr",
+      "identifier-ark": "ark:/13960/t88g9952n",
+      "bookplateleaf": "0003",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20100505161527[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:tastytimesavingc00henr:pdf:48af275f-3dff-453c-b345-8f893e28e8a8",
+        "urn:acs6:tastytimesavingc00henr:epub:77b9de0b-48f9-45db-bfe2-92479eb7ad39",
+        "urn:oclc:record:1036976200",
+        "urn:lcp:tastytimesavingc00henr:lcpdf:fdffe6ee-3efc-41d7-880f-e18e064f3257",
+        "urn:lcp:tastytimesavingc00henr:epub:f30f5c99-a225-436d-a406-50130b6e7252"
+      ],
+      "donor": "alibris",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": [
+        "18629455",
+        "858027362"
+      ],
+      "lccn": "87063201",
+      "backup_location": "ia903605_6",
+      "openlibrary_edition": "OL2412357M",
+      "openlibrary_work": "OL15164300W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Sat Dec 26 10:44:01 UTC 2020",
+        "Wed Apr 3 14:48:54 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25",
+      "normalized_dates": [
+        "1988-01-01"
+      ]
+    },
+    "server": "ia800208.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "phillipsacademy-preview": {
+          "notes": {
+            "isbn": [
+              "9780696017506"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2019-02-18 01:47:23.292965"
+        }
+      }
+    },
+    "uniq": 958526855,
+    "workable_servers": [
+      "ia800208.us.archive.org",
+      "ia600208.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/18629455?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "87063201"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editors, Linda Henry et al.].",
+          "ed": "1st ed.",
+          "year": "1988",
+          "isbn": [
+            "0696017504"
+          ],
+          "title": "Tasty timesaving cooking",
+          "oclcnum": [
+            "18629455",
+            "858027362"
+          ]
+        }
+      ]
+    }
+  }
+}

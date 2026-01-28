@@ -1,0 +1,446 @@
+{
+  "source": "internet_archive",
+  "identifier": "michigancookingo00eber",
+  "title": "Michigan cooking -- and other things",
+  "creator": "Eberly, Carole",
+  "year": 1985,
+  "subject": [
+    "Cookery, American",
+    "Cookery"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/michigancookingo00eber"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/michigancookingo00eber"
+        }
+      ]
+    },
+    "created": 1758556537,
+    "d1": "ia601609.us.archive.org",
+    "d2": "ia801609.us.archive.org",
+    "dir": "/8/items/michigancookingo00eber",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660661329",
+        "size": "25858",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "885db8a3e46d759510f4365308b11acf",
+        "crc32": "ec09fba6",
+        "sha1": "7c11197e937c33279ca31dc5fa15619187b782af"
+      },
+      {
+        "name": "michigancookingo00eber.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "michigancookingo00eber_hocr.html",
+        "mtime": "1757059280",
+        "size": "2962073",
+        "private": "true",
+        "md5": "50442e7417fd59e467af9fe84cf242eb",
+        "crc32": "1e0865d5",
+        "sha1": "9088ba11c64e53f93aa3d937217d910feca33399"
+      },
+      {
+        "name": "michigancookingo00eber.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "michigancookingo00eber_jp2.zip",
+        "md5": "cfed8bdab24a2288705159009c4f835d",
+        "mtime": "1276195913",
+        "size": "346650",
+        "crc32": "114b4045",
+        "sha1": "1d89f13359f42ca00c9a8d86cb3a6ac29494e08e"
+      },
+      {
+        "name": "michigancookingo00eber.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "michigancookingo00eber.pdf",
+        "mtime": "1757059125",
+        "size": "4294976",
+        "md5": "572f07bdbf2ae5f0e97e913bc4f6d48c",
+        "crc32": "a0f7de48",
+        "sha1": "dc7cd0460fa456daa7b7938e70117b0734ec8421"
+      },
+      {
+        "name": "michigancookingo00eber.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "michigancookingo00eber_page_numbers.json",
+        "mtime": "1715883531",
+        "size": "3881658",
+        "md5": "ce00db0648804985222d309030fc16ad",
+        "crc32": "4ed699c4",
+        "sha1": "4ac66bf378961c0d92b867865615350d24d26e16",
+        "private": "true"
+      },
+      {
+        "name": "michigancookingo00eber_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "michigancookingo00eber_jp2.zip",
+        "md5": "a6557e4479be7eac5ed8f2a74d729e23",
+        "mtime": "1276202757",
+        "size": "1641884",
+        "crc32": "9e3e5e28",
+        "sha1": "d5ce38198f2ee670496a6a8e4a52af1d3877481d",
+        "private": "true"
+      },
+      {
+        "name": "michigancookingo00eber_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "michigancookingo00eber_page_numbers.json",
+        "mtime": "1715883531",
+        "size": "2634208",
+        "md5": "dcb4d22887113431a3699f9c12d8c925",
+        "crc32": "a2f51d92",
+        "sha1": "5c99068c1f3bf99b66f15eeaca85b3523e0dc359",
+        "private": "true"
+      },
+      {
+        "name": "michigancookingo00eber_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "michigancookingo00eber_abbyy.gz",
+        "mtime": "1660660745",
+        "size": "1396072",
+        "md5": "be49feeb58c832ae7561a7b46c28c90b",
+        "crc32": "6b6b56ed",
+        "sha1": "7909fb13c2b2bcfe2bce7cb89cfe1276bb1c090f",
+        "private": "true"
+      },
+      {
+        "name": "michigancookingo00eber_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "michigancookingo00eber_scandata.xml",
+        "mtime": "1670664843",
+        "size": "779",
+        "md5": "93a641eec86ae2bef5ec929913dc5666",
+        "crc32": "158cd7be",
+        "sha1": "1955a9eb692bcd66a52f5f061235153c119840da",
+        "private": "true"
+      },
+      {
+        "name": "michigancookingo00eber_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "e485f820317cb4cb5285d852592d4fc5",
+        "mtime": "1651898649",
+        "size": "615",
+        "crc32": "4e47fdb9",
+        "sha1": "8b223f1144d8da2601b1c4597dc7285c16908f1b"
+      },
+      {
+        "name": "michigancookingo00eber_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "michigancookingo00eber_djvu.xml",
+        "mtime": "1719626294",
+        "size": "129467",
+        "md5": "38320fe6079ea8a533fca359cde5c05d",
+        "crc32": "17853e57",
+        "sha1": "afedc558fb96523be21a0db1869bb9425cb0910c",
+        "private": "true"
+      },
+      {
+        "name": "michigancookingo00eber_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "michigancookingo00eber_hocr.html",
+        "mtime": "1719626292",
+        "size": "1634807",
+        "md5": "73721802d010d0d1af0a6bc5dbf66b88",
+        "crc32": "9aa746bd",
+        "sha1": "d7cb87a510d9e5f2f5fc36d0ff6fc3060efc43d8",
+        "private": "true"
+      },
+      {
+        "name": "michigancookingo00eber_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "michigancookingo00eber.pdf",
+        "mtime": "1715883601",
+        "size": "3861667",
+        "md5": "e4dea3a951e52495e6963e378a82c938",
+        "crc32": "0a8617d2",
+        "sha1": "cc331c3942efe7033a000be5b540cd09651b46dd"
+      },
+      {
+        "name": "michigancookingo00eber_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "d400d7a2c81ccade88d874760382dceb",
+        "summation": "md5"
+      },
+      {
+        "name": "michigancookingo00eber_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "michigancookingo00eber_chocr.html.gz",
+        "mtime": "1660660997",
+        "size": "3220361",
+        "md5": "3830e4b261e2c4f9216d7d0561ef7da7",
+        "crc32": "50033e59",
+        "sha1": "b559a350e13ff581a3481a8a42741436c50e9095",
+        "private": "true"
+      },
+      {
+        "name": "michigancookingo00eber_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "michigancookingo00eber_hocr.html",
+        "mtime": "1660661080",
+        "size": "1373",
+        "md5": "7417187c971956569a91deffae76804c",
+        "crc32": "2ae09fe8",
+        "sha1": "1c6312b243423e7168d5f858c6492e8ceac88141",
+        "private": "true"
+      },
+      {
+        "name": "michigancookingo00eber_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "644",
+        "word_conf_11_20": "353",
+        "word_conf_21_30": "1746",
+        "word_conf_31_40": "999",
+        "word_conf_41_50": "2611",
+        "word_conf_51_60": "3701",
+        "word_conf_61_70": "4391",
+        "word_conf_71_80": "2360",
+        "word_conf_81_90": "667",
+        "word_conf_91_100": "2120",
+        "format": "OCR Search Text",
+        "original": "michigancookingo00eber_hocr.html",
+        "mtime": "1660661274",
+        "size": "41345",
+        "md5": "4e6f2515de831398e4dbe6d6ffce13f9",
+        "crc32": "e64d2fe1",
+        "sha1": "2d4737bc64fcc3485bf9f200132640294057ccc1",
+        "private": "true"
+      },
+      {
+        "name": "michigancookingo00eber_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "michigancookingo00eber_orig_jp2.tar",
+        "md5": "3944d8bbf2befe13f0fabd8f9b758258",
+        "mtime": "1276195845",
+        "size": "41415601",
+        "crc32": "e18a3ee9",
+        "sha1": "0001193fe3c764b69bc4279a39c4fcf6f75d0306",
+        "private": "true",
+        "filecount": "122"
+      },
+      {
+        "name": "michigancookingo00eber_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "michigancookingo00eber.epub",
+        "mtime": "1757059464",
+        "size": "2981208",
+        "md5": "2d311889f017d7aa883e0003bb9962fe",
+        "crc32": "1216a948",
+        "sha1": "d74ecb6d1682c51c1a89ba6b73df79ffdddf18b8"
+      },
+      {
+        "name": "michigancookingo00eber_loans.json",
+        "source": "original",
+        "mtime": "1594099694",
+        "size": "4098",
+        "format": "JSON",
+        "private": "true",
+        "md5": "d76dca6a78c279d0081c4e5605beed94",
+        "crc32": "60bfd1a2",
+        "sha1": "7889b8fa63cfa8d95eb16816b11bffa6cf5f4647"
+      },
+      {
+        "name": "michigancookingo00eber_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "350a9c31b85b976cfc7908adbeab5396",
+        "mtime": "1274472761",
+        "size": "2051",
+        "crc32": "d86a397b",
+        "sha1": "8cfe341532f90955d8c4acf2300481b405997fa9"
+      },
+      {
+        "name": "michigancookingo00eber_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "e5807800297b1135ff17c3bfb6c94c6e",
+        "mtime": "1274472761",
+        "size": "623",
+        "crc32": "59167d3c",
+        "sha1": "91e4b53a087d81caa2dc872c0d100d07b3424ef4"
+      },
+      {
+        "name": "michigancookingo00eber_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1757059464",
+        "size": "2758",
+        "md5": "11739f180a66830abf73f2aaa31cb5dc",
+        "crc32": "4248e17d",
+        "sha1": "19c5758a8b87cab8681cc11b33e8cab8d5992b7b"
+      },
+      {
+        "name": "michigancookingo00eber_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "5c36f7cc7382ae6139882dbb8bdfa7e8",
+        "mtime": "1274472761",
+        "size": "789",
+        "crc32": "4b80fe8c",
+        "sha1": "73226614f519b402c5327df8403de9b7a7ee4232"
+      },
+      {
+        "name": "michigancookingo00eber_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "e46004ac345a313e96ba10c71e93ec5b",
+        "mtime": "1276121469",
+        "size": "102686720",
+        "crc32": "316188c7",
+        "sha1": "4dd3985146a94323cf0a14a9b0d5329c54aa4b86",
+        "private": "true",
+        "filecount": "122"
+      },
+      {
+        "name": "michigancookingo00eber_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "90",
+        "format": "Page Numbers JSON",
+        "original": "michigancookingo00eber_hocr.html",
+        "mtime": "1715883530",
+        "size": "19510",
+        "md5": "6ba70ca951395ae483b5e1b1a8953439",
+        "crc32": "a246b4a4",
+        "sha1": "de6c6f07de5eb33648cfd50e0bfe26aa672bad69",
+        "private": "true"
+      },
+      {
+        "name": "michigancookingo00eber_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "b9fd3e564b98aafe2dacb0fdf5193f69",
+        "mtime": "1670664843",
+        "size": "63496",
+        "crc32": "1a7da7b7",
+        "sha1": "734a1cd166eaf71e09c008037e5db2b9ce896917"
+      }
+    ],
+    "files_count": 27,
+    "item_last_updated": 1757059464,
+    "item_size": 173250647,
+    "metadata": {
+      "title": "Michigan cooking -- and other things",
+      "creator": "Eberly, Carole",
+      "subject": [
+        "Cookery, American",
+        "Cookery"
+      ],
+      "description": "Includes index",
+      "publisher": "East Lansing, MI : Eberly",
+      "date": "1985-01-01",
+      "language": "eng",
+      "page-progression": "lr",
+      "boxid": "IA110714",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "la",
+      "mediatype": "texts",
+      "updatedate": "2010-05-21 20:12:41",
+      "updater": "PhanS",
+      "identifier": "michigancookingo00eber",
+      "uploader": "phan@archive.org",
+      "addeddate": "2010-05-21 20:12:43",
+      "publicdate": "2010-05-21 20:12:47",
+      "ppi": "400",
+      "camera": "Canon 5D",
+      "operator": "scanner-arturo-rojo@archive.org",
+      "scanner": "scribe7.la.archive.org",
+      "scandate": "20100609220004",
+      "imagecount": "120",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/michigancookingo00eber",
+      "identifier-ark": "ark:/13960/t9j39fv84",
+      "bookplateleaf": "0006",
+      "notes": "very tight margins",
+      "curation": "[curator]kellycritch@archive.org[/curator][date]20100614194224[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:michigancookingo00eber:pdf:5e9e1f89-106a-4481-975e-8852e9aa27a5",
+        "urn:acs6:michigancookingo00eber:epub:9e9f62ff-c9b6-4dc7-ba70-f4883a511b88",
+        "urn:oclc:record:1036696949",
+        "urn:lcp:michigancookingo00eber:lcpdf:97e3a28c-4b1b-4a76-84f9-d24bbc42587f",
+        "urn:lcp:michigancookingo00eber:epub:abfd2e9b-65b2-414d-b6bc-29b53133f86e"
+      ],
+      "donor": "alibris",
+      "backup_location": "ia903605_17",
+      "openlibrary_edition": "OL24381247M",
+      "openlibrary_work": "OL15410961W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Fri Dec 25 7:48:04 UTC 2020",
+        "Wed Apr 3 9:12:17 UTC 2024"
+      ],
+      "oclc-id": "35923778",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "90",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia601609.us.archive.org",
+    "uniq": 162946188,
+    "workable_servers": [
+      "ia601609.us.archive.org",
+      "ia801609.us.archive.org"
+    ]
+  },
+  "institution": "Eberly, Carole",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

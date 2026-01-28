@@ -1,0 +1,565 @@
+{
+  "source": "internet_archive",
+  "identifier": "greatgrilling00linc",
+  "title": "Great grilling",
+  "creator": "Lincolnwood, IL : Publications International",
+  "year": 2005,
+  "subject": [
+    "Barbecue cookery",
+    "Cookery, American"
+  ],
+  "description": null,
+  "metadata": {
+    "created": 1758558674,
+    "d1": "ia601703.us.archive.org",
+    "d2": "ia801703.us.archive.org",
+    "dir": "/4/items/greatgrilling00linc",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660099465",
+        "size": "25056",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "c09ef6cd4d7992d12ac6ef37ed4bd4e6",
+        "crc32": "d974fcc1",
+        "sha1": "93fa7bb63f583e7886deb8b68b9da283172361cb"
+      },
+      {
+        "name": "greatgrilling00linc.djvu",
+        "source": "derivative",
+        "format": "DjVu",
+        "original": "greatgrilling00linc_djvu.xml",
+        "md5": "f2cf6f660d56e208a97d3ad7b868a315",
+        "mtime": "1272418227",
+        "size": "1644416",
+        "crc32": "7f2c94b3",
+        "sha1": "d23370a431087b6669851ac787fcde6794d8a4c1",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "greatgrilling00linc_hocr.html",
+        "mtime": "1756058705",
+        "size": "11047646",
+        "private": "true",
+        "md5": "0132cec06031ae81168b3053d9aeaf5f",
+        "crc32": "797b28d6",
+        "sha1": "82d495a9828340c95c65454c7dcf34e2bca7e749"
+      },
+      {
+        "name": "greatgrilling00linc.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "greatgrilling00linc_jp2.zip",
+        "md5": "058cc4c1e80b66298ced519d9849b351",
+        "mtime": "1272414116",
+        "size": "223571",
+        "crc32": "dedd1fa1",
+        "sha1": "35b3fcc5aa93099c90115157139c3ace81a40d5d"
+      },
+      {
+        "name": "greatgrilling00linc.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "greatgrilling00linc.pdf",
+        "mtime": "1756058589",
+        "size": "2968025",
+        "md5": "d3c5e5b13d0717ee6be85eb2755407ea",
+        "crc32": "8f9dd491",
+        "sha1": "ff087e136315ac95f24134598c90393c1cadaa03"
+      },
+      {
+        "name": "greatgrilling00linc.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "greatgrilling00linc_page_numbers.json",
+        "mtime": "1723854424",
+        "size": "2609567",
+        "md5": "ba8222af8cb6acb20e51fc62a0c62a09",
+        "crc32": "7f2d3d46",
+        "sha1": "24090b37e9f9133d0772f69ffdccf77c18970a54",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "greatgrilling00linc_jp2.zip",
+        "md5": "df7a0fdf3839984feadaccd20319936a",
+        "mtime": "1272418062",
+        "size": "318912",
+        "crc32": "74a73219",
+        "sha1": "568e5f28e607c89075736a0d272c7e67b9d1a89e",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "greatgrilling00linc_page_numbers.json",
+        "mtime": "1723854429",
+        "size": "1969736",
+        "md5": "9f94733d776f2a3b68c1f86408dd14c1",
+        "crc32": "aed3e9b1",
+        "sha1": "009bad846bea8c6420707e4de11f4737c5782a94",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "greatgrilling00linc_abbyy.gz",
+        "mtime": "1660098558",
+        "size": "262834",
+        "md5": "7296c06e00165dedfd0f1111b600c2aa",
+        "crc32": "97e78175",
+        "sha1": "e692dece38ee509252b1fc666167ea0aa6f2069a",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "greatgrilling00linc_scandata.xml",
+        "mtime": "1670091285",
+        "size": "767",
+        "md5": "1158e85e087e1d1dab4d07babf1edcbc",
+        "crc32": "f1ec1a05",
+        "sha1": "15b47153e1212c91c92687aa9aeb35b3d8fcee9f",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "5c909e08e2c5c7385102ad67ebbc1c9a",
+        "mtime": "1270562798",
+        "size": "533",
+        "crc32": "974c74c2",
+        "sha1": "ddfac1c8a000bbd99a12aafa108c99d3cbcb7997"
+      },
+      {
+        "name": "greatgrilling00linc_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "greatgrilling00linc_djvu.xml",
+        "mtime": "1660099459",
+        "size": "23693",
+        "md5": "81e70ffa9c5dff427a349fc15ee455de",
+        "crc32": "5956bf69",
+        "sha1": "1c018c2b267775bceea3699013cc183b10ef0032",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "greatgrilling00linc_hocr.html",
+        "mtime": "1660098900",
+        "size": "288695",
+        "md5": "19fe46e25cdb400e7ddb197a902cf1a4",
+        "crc32": "a88284c8",
+        "sha1": "944d56c0f5adabaf0b4f87591b06f6d583515909",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "greatgrilling00linc_jpg.pdf",
+        "mtime": "1509144318",
+        "size": "653368",
+        "md5": "9bd93ac374c5003969913ed27ee24167",
+        "crc32": "cfd559ff",
+        "sha1": "ddff6771d92bf69c6d3d1047c62c36c916f0dc6c"
+      },
+      {
+        "name": "greatgrilling00linc_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "greatgrilling00linc.pdf",
+        "mtime": "1723854809",
+        "size": "2604294",
+        "md5": "eb2a86933d26cf10c017c70f26041ac5",
+        "crc32": "362231cb",
+        "sha1": "097601d160cb97a771d2eec1dc080ec1809fe938"
+      },
+      {
+        "name": "greatgrilling00linc_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "8b38742a57166d2ffdac64b06a94f474",
+        "summation": "md5"
+      },
+      {
+        "name": "greatgrilling00linc_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "greatgrilling00linc_chocr.html.gz",
+        "mtime": "1660098882",
+        "size": "577069",
+        "md5": "37bcdde86ba41606acc9f75e51d7a5c2",
+        "crc32": "9921aed9",
+        "sha1": "f14d0454f29368c9b773e54d46effcf73153ccd4",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "greatgrilling00linc_hocr.html",
+        "mtime": "1660099248",
+        "size": "402",
+        "md5": "482f5cb9e9a5a1a388f580a08d77880b",
+        "crc32": "d7004f7c",
+        "sha1": "46a2f30204220cdb121cc3684c3b1d09cbd06812",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "375",
+        "word_conf_11_20": "165",
+        "word_conf_21_30": "295",
+        "word_conf_31_40": "202",
+        "word_conf_41_50": "486",
+        "word_conf_51_60": "495",
+        "word_conf_61_70": "543",
+        "word_conf_71_80": "400",
+        "word_conf_81_90": "116",
+        "word_conf_91_100": "280",
+        "format": "OCR Search Text",
+        "original": "greatgrilling00linc_hocr.html",
+        "mtime": "1660099427",
+        "size": "7618",
+        "md5": "39f06d1798457dd7e635018ad56c17e5",
+        "crc32": "265a6dd0",
+        "sha1": "afb868fe36d8373b0fc115b5dbe7a40781ac8f88",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "greatgrilling00linc_orig_jp2.tar",
+        "md5": "9d2e3808a5c5222b2e1692f7d4c536bd",
+        "mtime": "1272414062",
+        "size": "22376939",
+        "crc32": "4efc87f4",
+        "sha1": "e77069c0a324e5a3c001cd420eaa39fa8a16b6bf",
+        "private": "true",
+        "filecount": "38"
+      },
+      {
+        "name": "greatgrilling00linc_jpg.pdf",
+        "source": "derivative",
+        "format": "JPEG-Compressed PDF",
+        "original": "greatgrilling00linc_djvu.xml",
+        "md5": "1543b4592cefd5e4ab56dd63ec348bdd",
+        "mtime": "1284820614",
+        "size": "4383065",
+        "crc32": "d0058c8b",
+        "sha1": "f02f26ad0047d3209683cd7d2927f1dd453a4444",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "greatgrilling00linc.epub",
+        "mtime": "1756058881",
+        "size": "11061559",
+        "md5": "d0127b01b13a4f194240f0cc386bbb88",
+        "crc32": "d5565690",
+        "sha1": "226d897996fef25024ba2e4a311c92b2a4e13cf7"
+      },
+      {
+        "name": "greatgrilling00linc_loans.json",
+        "source": "original",
+        "mtime": "1593069175",
+        "size": "1033",
+        "format": "JSON",
+        "private": "true",
+        "md5": "e6f56c0e9a5a905bdf7159dd7b1f6a97",
+        "crc32": "2bb79a82",
+        "sha1": "9259f91ab97b74ae79b92b0ddac9fe925fae4742"
+      },
+      {
+        "name": "greatgrilling00linc_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "82b89e7ac574df3ae83b01dca33fb894",
+        "mtime": "1270562798",
+        "size": "2055",
+        "crc32": "4d9aa048",
+        "sha1": "21723dfa5deab65085cd854eb8ad8fe9650ae1bd"
+      },
+      {
+        "name": "greatgrilling00linc_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "greatgrilling00linc_xisbn.json",
+        "mtime": "1454461602",
+        "size": "412",
+        "md5": "7a27da0c0daca4ec72e83e1dcd74175c",
+        "crc32": "ad81bdd3",
+        "sha1": "f0591007a98b5e68cb417d8c02b8d0d75f00f97e",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "a7cc44a9cf3648d4580a4f91aa52703e",
+        "mtime": "1270562798",
+        "size": "618",
+        "crc32": "5c13d0dc",
+        "sha1": "57ae1b6e9a0b54e74f697218cc83c5344ec75da2"
+      },
+      {
+        "name": "greatgrilling00linc_meta.sqlite",
+        "source": "original",
+        "mtime": "1462336273",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "912dbc7fa5ce165b965e7bc9634a6372",
+        "crc32": "2e7cb722",
+        "sha1": "4d980fe200ce7c05b35e3736c86b042969b6058c"
+      },
+      {
+        "name": "greatgrilling00linc_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1756058883",
+        "size": "3017",
+        "md5": "72617a710fdb3e5fc60e61b20430a379",
+        "crc32": "268c736b",
+        "sha1": "04058b5952c2f3e605941893fa7ae2f0b72aaf6c"
+      },
+      {
+        "name": "greatgrilling00linc_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "637cb2a6a748d5e3b6a1b86a9c0dbda3",
+        "mtime": "1270562798",
+        "size": "456",
+        "crc32": "b51c0420",
+        "sha1": "3aa9eab7c6e0759b5be4d7110a1e1ab80edb37fe"
+      },
+      {
+        "name": "greatgrilling00linc_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "85fddfb3515351dfcb7121f0c7679562",
+        "mtime": "1272407755",
+        "size": "47779840",
+        "crc32": "44bda424",
+        "sha1": "bffd7ea65fbb4306bea28866ae27855bcc162897",
+        "private": "true",
+        "filecount": "38"
+      },
+      {
+        "name": "greatgrilling00linc_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "greatgrilling00linc_hocr.html",
+        "mtime": "1723854419",
+        "size": "5555",
+        "md5": "e10c3d2d2e2c11685125200c0cb52ce9",
+        "crc32": "0fb93273",
+        "sha1": "16f77431004cca0c1c145908cf3397619e909e35",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "b1e6896f6481dc1c33c2233037a5524e",
+        "mtime": "1670091285",
+        "size": "20386",
+        "crc32": "05c67412",
+        "sha1": "a89bf9de7740d4846548604ac257751bf4953435"
+      },
+      {
+        "name": "greatgrilling00linc_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "greatgrilling00linc_djvu.xml",
+        "mtime": "1670091260",
+        "size": "546",
+        "md5": "822a07f04a01d85e6405102501161dc7",
+        "crc32": "5e745ff8",
+        "sha1": "b297625ed411788213aa04dc4803783e349c15a9",
+        "private": "true"
+      },
+      {
+        "name": "greatgrilling00linc_xisbn.json",
+        "source": "original",
+        "mtime": "1454460540",
+        "size": "534",
+        "md5": "b2316e55c815f24f8b508069e6cd1b7e",
+        "crc32": "5c3637d6",
+        "sha1": "4a603126afcaf5cae2b898c65d19400934de4528",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 34,
+    "item_last_updated": 1756058883,
+    "item_size": 110868361,
+    "metadata": {
+      "title": "Great grilling",
+      "creator": "Lincolnwood, IL : Publications International",
+      "subject": [
+        "Barbecue cookery",
+        "Cookery, American"
+      ],
+      "publisher": "Lincolnwood, IL : Publications International",
+      "date": "2005-01-01",
+      "language": "eng",
+      "isbn": [
+        "1412722047",
+        "9781412722049"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA115815",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sanfrancisco",
+      "mediatype": "texts",
+      "updatedate": "2010-04-06 14:06:38",
+      "updater": "sf-loaders@archive.org",
+      "identifier": "greatgrilling00linc",
+      "uploader": "sf-loaders@archive.org",
+      "addeddate": "2010-04-06 14:06:40",
+      "publicdate": "2010-04-06 14:06:43",
+      "ppi": "400",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-fatu-haines@archive.org",
+      "scanner": "scribe10.sanfrancisco.archive.org",
+      "scandate": "20100427222539",
+      "imagecount": "36",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/greatgrilling00linc",
+      "identifier-ark": "ark:/13960/t4th95z7x",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20100430184032[/date][state]approved[/state]",
+      "repub_state": "4",
+      "boxid_2": "CH112901",
+      "donor": "alibris",
+      "city": "Lincolnwood, IL",
+      "oclc-id": "401678304",
+      "related-external-id": [
+        "urn:isbn:0785361189",
+        "urn:lccn:2001094979",
+        "urn:oclc:51655665"
+      ],
+      "backup_location": "ia903605_6",
+      "external-identifier": [
+        "urn:acs6:greatgrilling00linc:pdf:ce356dba-7ce8-4295-a960-c2f13d08d645",
+        "urn:acs6:greatgrilling00linc:epub:51a11929-7524-49a0-b746-e4048d95ccc4",
+        "urn:oclc:record:1035368089",
+        "urn:lcp:greatgrilling00linc:lcpdf:e35f03e7-5467-4a86-a9c9-5210cd4f019e",
+        "urn:lcp:greatgrilling00linc:epub:451540c8-33fd-4983-be54-854c94850545"
+      ],
+      "openlibrary_edition": "OL11715797M",
+      "openlibrary_work": "OL15160673W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Thu Dec 24 12:00:06 UTC 2020",
+        "Wed Apr 3 3:46:41 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801703.us.archive.org",
+    "uniq": 1748651052,
+    "workable_servers": [
+      "ia801703.us.archive.org",
+      "ia601703.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "publisher": "Publications International",
+          "url": [
+            "http://www.worldcat.org/oclc/401678304?referer=xid"
+          ],
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "2005",
+          "isbn": [
+            "1412722047"
+          ],
+          "title": "Great grilling.",
+          "oclcnum": [
+            "401678304"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/51655665?referer=xid"
+          ],
+          "publisher": "Publications International",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2001094979"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "2002",
+          "isbn": [
+            "0785361189"
+          ],
+          "title": "Great grilling.",
+          "oclcnum": [
+            "51655665"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Lincolnwood, IL : Publications International",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

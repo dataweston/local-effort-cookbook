@@ -1,0 +1,536 @@
+{
+  "source": "internet_archive",
+  "identifier": "roccosreallifere0000disp",
+  "title": "Rocco's real-life recipes",
+  "creator": "DiSpirito, Rocco",
+  "year": 2007,
+  "subject": [
+    "Cooking, American",
+    "Cooking, Italian"
+  ],
+  "description": [
+    "240 p. : 24 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/roccosreallifere0000disp"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/roccosreallifere0000disp"
+        }
+      ]
+    },
+    "created": 1758558693,
+    "d1": "ia601908.us.archive.org",
+    "d2": "ia801908.us.archive.org",
+    "dir": "/33/items/roccosreallifere0000disp",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661004712",
+        "size": "17869",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "1495a14f6d8c824e06e92f83328385ca",
+        "crc32": "f0ce5d38",
+        "sha1": "1c005fa1fef93f3f7c28637bf65f02990e3c3e12"
+      },
+      {
+        "name": "logs/roccosreallifere0000disp_iabdash_2020-01-0410:11:10.log",
+        "source": "original",
+        "mtime": "1578103875",
+        "size": "1686",
+        "md5": "3d9731d981a39766ede1b167d37aee78",
+        "crc32": "280978c6",
+        "sha1": "eccf5b49223222589b871b463b21dab01eeffe18",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/roccosreallifere0000disp_scanning_2020-01-0410:11:16.log",
+        "source": "original",
+        "mtime": "1578103879",
+        "size": "692801",
+        "md5": "c725ea047915b78cb37fb89d7db51a92",
+        "crc32": "00030b1d",
+        "sha1": "ad992b92c5dc8fb1b2b75235eb13c056b2517b25",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "roccosreallifere0000disp_hocr.html",
+        "mtime": "1758259803",
+        "size": "44171964",
+        "private": "true",
+        "md5": "d94e3043bfd4ca58994c31a9b4d3e349",
+        "crc32": "99b04122",
+        "sha1": "e92654e2bf4f52b03511a9b192272804fc007506"
+      },
+      {
+        "name": "roccosreallifere0000disp.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "roccosreallifere0000disp.pdf",
+        "mtime": "1758259548",
+        "size": "13242983",
+        "md5": "f8a0d21187df76c0e75ee3118f7f4392",
+        "crc32": "c18593ff",
+        "sha1": "ddf2181acc639880e7860e40a82a309d85794ea6"
+      },
+      {
+        "name": "roccosreallifere0000disp.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "roccosreallifere0000disp_page_numbers.json",
+        "mtime": "1722354263",
+        "size": "12945834",
+        "md5": "6a5a0f015143e1997b9ad284db8ad428",
+        "crc32": "f6cf0011",
+        "sha1": "ddcfeace7256cdcb39445e527a2b2def66c3e546",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "roccosreallifere0000disp_jp2.zip",
+        "mtime": "1578460106",
+        "size": "5494788",
+        "md5": "acf7945b88eea278fd3698260501528a",
+        "crc32": "79837e5d",
+        "sha1": "cc9a0ff98250f73d185b018611caed3772791a09",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "roccosreallifere0000disp_abbyy.gz",
+        "mtime": "1661004426",
+        "size": "4526191",
+        "md5": "924d01e3873f46db4cc3caba0ee8a57b",
+        "crc32": "6a2437a1",
+        "sha1": "bf2a9c1e8caae1b15308324d29e730304c6925f3",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "roccosreallifere0000disp_scandata.xml",
+        "mtime": "1671139606",
+        "size": "789",
+        "md5": "c04e190f5379041fd49790e3a0f92a76",
+        "crc32": "ee74e4b8",
+        "sha1": "1a6eea8e69a9f6b1a1ff90d14b56ac43ebc2e7fd",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1578454840",
+        "size": "955",
+        "md5": "f2595d9110aaaae789cf96c367236963",
+        "crc32": "6fd60610",
+        "sha1": "b46508c821ba4ba40f891576d397179bd8600afa"
+      },
+      {
+        "name": "roccosreallifere0000disp_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "roccosreallifere0000disp_djvu.xml",
+        "mtime": "1661004707",
+        "size": "394897",
+        "md5": "92d849067a42362cb5b111d898e295fd",
+        "crc32": "a7a3ab8a",
+        "sha1": "ddf6feb746307a6479a2db22b8639d67b7fe79b0",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "roccosreallifere0000disp_hocr.html",
+        "mtime": "1661004604",
+        "size": "4999985",
+        "md5": "27a96b445d30de335be3e9a7f6ca36bb",
+        "crc32": "09f92f35",
+        "sha1": "a6b1acb371840c2a88e8dfcd1ca0d754f96bbf83",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "roccosreallifere0000disp_abbyy.gz",
+        "mtime": "1578460207",
+        "size": "4640583",
+        "md5": "60f455f30930d49c47c4e983071b8e17",
+        "crc32": "17e708d7",
+        "sha1": "d143ed86fc0641f249f75c5bc0e8f2e5811ce37b"
+      },
+      {
+        "name": "roccosreallifere0000disp_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "roccosreallifere0000disp.pdf",
+        "mtime": "1722354723",
+        "size": "12745589",
+        "md5": "8d131a5939038e0ff719d1bed3db2736",
+        "crc32": "0b08b4ff",
+        "sha1": "9b5bfe8474010a7805dd49a719b741ba8c03475e"
+      },
+      {
+        "name": "roccosreallifere0000disp_events.json",
+        "source": "original",
+        "mtime": "1578454782",
+        "size": "55",
+        "md5": "2e18dd5a51f4ce5fdd3bedd5c701fa74",
+        "crc32": "509e5038",
+        "sha1": "983880da47bc3b5851821d15c05a43b38aab8911",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "e68417885efb9cde7d69f6342e91ed6f",
+        "summation": "md5"
+      },
+      {
+        "name": "roccosreallifere0000disp_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "roccosreallifere0000disp_chocr.html.gz",
+        "mtime": "1661004576",
+        "size": "10775370",
+        "md5": "038ed3d94612fbdb25e7583516515797",
+        "crc32": "eb0ace93",
+        "sha1": "76f41b6f6d7678c7e1eff4df8f8eb96c78530ecb",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "roccosreallifere0000disp_hocr.html",
+        "mtime": "1661004624",
+        "size": "2783",
+        "md5": "ea5f92257804e76c84db4a1dfdccd56f",
+        "crc32": "c6f95c8e",
+        "sha1": "cadb8b5e4c019f72cf0386f0ced554019d8e2fbe",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "878",
+        "word_conf_11_20": "326",
+        "word_conf_21_30": "594",
+        "word_conf_31_40": "871",
+        "word_conf_41_50": "1328",
+        "word_conf_51_60": "2506",
+        "word_conf_61_70": "5605",
+        "word_conf_71_80": "11231",
+        "word_conf_81_90": "16105",
+        "word_conf_91_100": "18311",
+        "format": "OCR Search Text",
+        "original": "roccosreallifere0000disp_hocr.html",
+        "mtime": "1661004684",
+        "size": "103735",
+        "md5": "9ece8e9256642448e0548ef24e3e8ab2",
+        "crc32": "b6576f03",
+        "sha1": "94341010122e40df3f0d56b42d318381f998acf9",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "roccosreallifere0000disp_orig_jp2.tar",
+        "mtime": "1578459177",
+        "size": "97475862",
+        "md5": "51a4624319d535413b23dd8df935f12a",
+        "crc32": "ca323248",
+        "sha1": "72cd759f3c0fe5152cc00ac9d514f3abed90ce10",
+        "private": "true",
+        "filecount": "246"
+      },
+      {
+        "name": "roccosreallifere0000disp_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "roccosreallifere0000disp.epub",
+        "mtime": "1758259965",
+        "size": "44566793",
+        "md5": "e3c36e792b7a3e8a92b28b176a1a0ecc",
+        "crc32": "1513548d",
+        "sha1": "f70346a9a70dc000dbab8db3087ba057a845dad5"
+      },
+      {
+        "name": "roccosreallifere0000disp_loans.json",
+        "source": "original",
+        "mtime": "1593072711",
+        "size": "2226",
+        "format": "JSON",
+        "private": "true",
+        "md5": "b9886da0e55c473f49f42550389dc0d9",
+        "crc32": "5080954a",
+        "sha1": "ba8411eadf38986013fb0195aa653311d344a309"
+      },
+      {
+        "name": "roccosreallifere0000disp_marc.xml",
+        "source": "original",
+        "mtime": "1578454840",
+        "size": "2390",
+        "format": "MARC",
+        "md5": "9423f567ad320c531290af10fd6db647",
+        "crc32": "b4b081d2",
+        "sha1": "eaaadaa4302d4717245db1097bef3840f2be3691"
+      },
+      {
+        "name": "roccosreallifere0000disp_meta.mrc",
+        "source": "original",
+        "mtime": "1578103870",
+        "size": "711",
+        "md5": "fec62b4b51bd75009df3c345eb56bbb7",
+        "crc32": "c0d15151",
+        "sha1": "66f08e2e7a71426017baf797242b5ff94e00bb11",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "roccosreallifere0000disp_meta.sqlite",
+        "source": "original",
+        "mtime": "1578454813",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "65887f2819b33ec160869f6430cef56a",
+        "crc32": "166f6109",
+        "sha1": "0ab7f2dbd30c4cfdfac12e7006d65259fcd77609"
+      },
+      {
+        "name": "roccosreallifere0000disp_meta.xml",
+        "source": "original",
+        "mtime": "1758259965",
+        "size": "2964",
+        "format": "Metadata",
+        "md5": "1c012f029d3d79f1aec9969d41e5d881",
+        "crc32": "42593d57",
+        "sha1": "23a4abd20e90d59c60cab6a2ddedad4eedf09404"
+      },
+      {
+        "name": "roccosreallifere0000disp_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1578454812",
+        "size": "305162240",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "0f71bea982be4e596c485f5716376c80",
+        "crc32": "2b92a6bb",
+        "sha1": "81eb75b5853268ec77a2a35d50e862e6095d3c75",
+        "filecount": "246"
+      },
+      {
+        "name": "roccosreallifere0000disp_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "roccosreallifere0000disp_hocr.html",
+        "mtime": "1722354262",
+        "size": "41385",
+        "md5": "43ea40262ee3192fdf34cbc7959b9d56",
+        "crc32": "3dc2c86f",
+        "sha1": "369c72706f64840addf1d0aed6a6ebbb0deba9f8",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp_scandata.xml",
+        "source": "original",
+        "mtime": "1671139606",
+        "size": "251578",
+        "format": "Scandata",
+        "md5": "d35a5ef8f8dec0b45f0297715a9e4651",
+        "crc32": "b594f67e",
+        "sha1": "1aa7aec2ba9fb0c7d3c01fd3cac3fa0463c1ba3e"
+      },
+      {
+        "name": "roccosreallifere0000disp_slip.png",
+        "source": "original",
+        "mtime": "1578100670",
+        "size": "39129",
+        "md5": "808d35f0695faf765d573d5109577bcd",
+        "crc32": "e655e2cc",
+        "sha1": "e4e662393c0f32607131665864cb284a7660d32a",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "roccosreallifere0000disp_slip.png",
+        "mtime": "1578454843",
+        "size": "5472",
+        "md5": "ff0c58e976514e8d5ec669833bd220fd",
+        "crc32": "34ceb9ed",
+        "sha1": "5ef4c1a3bff9f97ce32d56abc1cc527a3585b84a",
+        "private": "true"
+      },
+      {
+        "name": "roccosreallifere0000disp_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "roccosreallifere0000disp_djvu.xml",
+        "mtime": "1671139530",
+        "size": "524",
+        "md5": "9c3d8ed8335b113c7fb15e4c3543ab70",
+        "crc32": "d891cfc5",
+        "sha1": "b74b25c5397f2b686ddf52e168d201d52b956dc1",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1758259965,
+    "item_size": 562328563,
+    "metadata": {
+      "identifier": "roccosreallifere0000disp",
+      "boxid": "IA1758124",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "DiSpirito, Rocco",
+      "date": "2007-01-01",
+      "description": [
+        "240 p. : 24 cm",
+        "Includes index"
+      ],
+      "isbn": "9780696237034",
+      "language": "eng",
+      "lccn": "2007921722",
+      "mediatype": "texts",
+      "old_pallet": "IA17513",
+      "openlibrary_edition": "OL9508353M",
+      "openlibrary_work": "OL5757137W",
+      "operator": "associate-cleir-umpad@archive.org",
+      "ppi": "300",
+      "publisher": "Des Moines, IA : Meredith Books",
+      "repub_state": "19",
+      "scanner": "station28.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780696237034",
+      "subject": [
+        "Cooking, American",
+        "Cooking, Italian"
+      ],
+      "title": "Rocco's real-life recipes",
+      "tts_version": "3.3-initial-48-g3d6bf5d",
+      "uploader": "station28.cebu@archive.org",
+      "publicdate": "2020-01-04 01:18:01",
+      "access-restricted-item": "true",
+      "imagecount": "246",
+      "scandate": "20200104025458",
+      "notes": "some pages are tight binding and margin<br />",
+      "republisher_operator": "associate-anarose-ytang@archive.org",
+      "republisher_date": "20200108113938",
+      "republisher_time": "746",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/roccosreallifere0000disp",
+      "identifier-ark": "ark:/13960/t20d36b6g",
+      "external-identifier": [
+        "urn:acs6:roccosreallifere0000disp:epub:329c5f71-0a5f-4050-9d5c-fc01a8f573ae",
+        "urn:acs6:roccosreallifere0000disp:pdf:ee9399df-ea35-4cb7-a010-c5fce1862ce5",
+        "urn:oclc:record:1151142554",
+        "urn:lcp:roccosreallifere0000disp:lcpdf:e6496fab-86ee-49da-b25d-68bd277c241c",
+        "urn:lcp:roccosreallifere0000disp:epub:4fbcbd97-1aaa-488b-b00f-32c195d3792e"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "addeddate": "2020-01-04 01:18:01",
+      "sponsordate": "20200131",
+      "backup_location": "ia907100_32",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801908.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "delawarecountydistrictlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780696237034"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-10-29 03:28:00.960605"
+        },
+        "hamiltonpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780696237034"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-10-29 04:58:25.016438"
+        }
+      }
+    },
+    "uniq": 1441985225,
+    "workable_servers": [
+      "ia801908.us.archive.org",
+      "ia601908.us.archive.org"
+    ]
+  },
+  "institution": "DiSpirito, Rocco",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

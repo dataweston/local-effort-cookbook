@@ -1,0 +1,123 @@
+{
+  "source": "dpla",
+  "id": "3fc0ada9795109883fb09f9e8753bcaa",
+  "identifier": "3fc0ada9795109883fb09f9e8753bcaa",
+  "title": "Miss Parloa's new cook book a guide to marketing and cooking",
+  "subject": [
+    "Cooking, American"
+  ],
+  "spatial": [
+    "United States Massachusetts Boston publication place",
+    "United States Illinois Chicago publication place"
+  ],
+  "description": "Blank leaves at end for additional recipes.",
+  "isShownAt": "https://id.lib.harvard.edu/curiosity/women-working-1800-1930/45-990022077050203941",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/harvard",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q3232931"
+    ],
+    "name": "Harvard Library"
+  },
+  "institution": "Harvard Library",
+  "year": 1881,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/3fc0ada9795109883fb09f9e8753bcaa#SourceResource",
+      "collection": [
+        {
+          "title": "Women Working, 1800-1930"
+        }
+      ],
+      "contributor": [
+        "Estes & Lauriat",
+        "Jansen, McClurg, and Company"
+      ],
+      "creator": [
+        "Parloa, Maria, 1843-1909"
+      ],
+      "date": [
+        {
+          "begin": "1881",
+          "displayDate": "1881",
+          "end": "1881"
+        }
+      ],
+      "description": [
+        "Blank leaves at end for additional recipes.",
+        "Includes index."
+      ],
+      "extent": [
+        "430 p. : ill. (1 col.) ; 20 cm."
+      ],
+      "format": [
+        "Prospectuses.",
+        "Cookbooks."
+      ],
+      "identifier": [
+        "990022077050203941",
+        "^^^04010653^",
+        "4074444"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Estes and Lauriat"
+      ],
+      "relation": [
+        "Open Collections Program at Harvard University Women and work",
+        "Open Collections Program at Harvard University. 00408 Women and work. Preservation microfilm collection"
+      ],
+      "rights": [
+        "Held in the collections of Harvard University."
+      ],
+      "spatial": [
+        {
+          "name": "United States Massachusetts Boston publication place"
+        },
+        {
+          "name": "United States Illinois Chicago publication place"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        }
+      ],
+      "title": [
+        "Miss Parloa's new cook book a guide to marketing and cooking"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1881-01-01",
+      "normalized_dates": [
+        "1881-01-01"
+      ],
+      "date_range": {
+        "begin": "1881-01-01",
+        "end": "1881-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://ids.lib.harvard.edu/ids/iiif/1816131/full/,150/0/default.jpg",
+    "isShownAt": "https://id.lib.harvard.edu/curiosity/women-working-1800-1930/45-990022077050203941"
+  },
+  "iiif_manifest": "https://ids.lib.harvard.edu/ids/iiif/1816131/full/,150/0/default.jpg",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

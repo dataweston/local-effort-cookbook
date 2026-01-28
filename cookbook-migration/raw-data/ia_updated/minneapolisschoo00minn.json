@@ -1,0 +1,457 @@
+{
+  "source": "internet_archive",
+  "identifier": "minneapolisschoo00minn",
+  "title": "Minneapolis Schoolmasters Wives' cookbook",
+  "creator": "Minneapolis Schoolmasters Wives' Club (Minneapolis, Minn.)",
+  "year": 1966,
+  "subject": [
+    "Cookery, American",
+    "Cookery"
+  ],
+  "description": [
+    "Title from cover",
+    "Compiled by the Minneapolis Schoolmasters Wives' Club. Cf. p. [1]"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/minneapolisschoo00minn"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/minneapolisschoo00minn"
+        }
+      ]
+    },
+    "created": 1758555557,
+    "d1": "ia601708.us.archive.org",
+    "d2": "ia801708.us.archive.org",
+    "dir": "/22/items/minneapolisschoo00minn",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660679057",
+        "size": "17207",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "120b290346e62a2866ea8a2de6362063",
+        "crc32": "8a82f46d",
+        "sha1": "b834e9da3b9ae0bc5fe76029354a37105bd67621"
+      },
+      {
+        "name": "minneapolisschoo00minn.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "minneapolisschoo00minn_hocr.html",
+        "mtime": "1753650554",
+        "size": "1431908",
+        "private": "true",
+        "md5": "29c8e5fe923732a00ddd15705a47edb8",
+        "crc32": "fa389be2",
+        "sha1": "7559c95ab68fb851212d57df573bad5d24f0ebe6"
+      },
+      {
+        "name": "minneapolisschoo00minn.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "minneapolisschoo00minn_jp2.zip",
+        "md5": "107ecba7b414ae633ead0b590f44d756",
+        "mtime": "1264066991",
+        "size": "246640",
+        "crc32": "3846a88d",
+        "sha1": "dfec9beb9da51d46970b47ca2f8157c83ee547f8"
+      },
+      {
+        "name": "minneapolisschoo00minn.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "minneapolisschoo00minn.pdf",
+        "mtime": "1753650470",
+        "size": "10787863",
+        "md5": "5a5fcc1a7ffac3c899180bf357a62f80",
+        "crc32": "630d47e6",
+        "sha1": "721adffd0e36f15caf7e65e0e4aa8aea6a334806"
+      },
+      {
+        "name": "minneapolisschoo00minn.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "minneapolisschoo00minn_page_numbers.json",
+        "mtime": "1716165820",
+        "size": "10501588",
+        "md5": "13eab79a1ccf29b3aa466fb793753bad",
+        "crc32": "6ba0e684",
+        "sha1": "80178bc55e2543df35983a94193f83ed2fb6194f",
+        "private": "true"
+      },
+      {
+        "name": "minneapolisschoo00minn_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "minneapolisschoo00minn_jp2.zip",
+        "md5": "4ff45189bb05cf6ed5b3e5564b58d0c7",
+        "mtime": "1264069916",
+        "size": "4016857",
+        "crc32": "a0e20667",
+        "sha1": "3ecae2d841288a293f9e08d4f8b725f65b289a82",
+        "private": "true"
+      },
+      {
+        "name": "minneapolisschoo00minn_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "minneapolisschoo00minn_page_numbers.json",
+        "mtime": "1716165821",
+        "size": "7643648",
+        "md5": "fb806a4b3601b15e5a814270354ec351",
+        "crc32": "e96c6ade",
+        "sha1": "d297169e028a60a0f9a589733dde6d3f42a9803c",
+        "private": "true"
+      },
+      {
+        "name": "minneapolisschoo00minn_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "minneapolisschoo00minn_abbyy.gz",
+        "mtime": "1660678592",
+        "size": "3242129",
+        "md5": "6510975f33de1ab3cd945a1cd00e9639",
+        "crc32": "7e0b6dac",
+        "sha1": "e03718897ce7f7c1414ce0b0f23954fe6814ec60",
+        "private": "true"
+      },
+      {
+        "name": "minneapolisschoo00minn_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "minneapolisschoo00minn_scandata.xml",
+        "mtime": "1670680785",
+        "size": "781",
+        "md5": "e414e2040cb34b2b464379eb23f5f6fa",
+        "crc32": "7d3cc146",
+        "sha1": "3257f71be9fafe1c3b0ab5d8a461f3463df8e24a",
+        "private": "true"
+      },
+      {
+        "name": "minneapolisschoo00minn_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "13737807f72c27ce3cde0aeaa52cb56e",
+        "mtime": "1651901423",
+        "size": "766",
+        "crc32": "ba264071",
+        "sha1": "b43277405fb7a70727b73c2d2df53f3e20fe82fc"
+      },
+      {
+        "name": "minneapolisschoo00minn_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "minneapolisschoo00minn_djvu.xml",
+        "mtime": "1719064528",
+        "size": "288355",
+        "md5": "8c3ea5869b61278f2dfd30b942e8a962",
+        "crc32": "38cf88b4",
+        "sha1": "d4be2a2f0f6ed5e2fbf9277e088cad167bcb4d49",
+        "private": "true"
+      },
+      {
+        "name": "minneapolisschoo00minn_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "minneapolisschoo00minn_hocr.html",
+        "mtime": "1719064525",
+        "size": "3719887",
+        "md5": "562a584a07c8fc13f45be1e9faa09507",
+        "crc32": "6721b743",
+        "sha1": "08a40c7244ee86422a51f9572578cdfa113e660f",
+        "private": "true"
+      },
+      {
+        "name": "minneapolisschoo00minn_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "minneapolisschoo00minn.pdf",
+        "mtime": "1716166419",
+        "size": "10460491",
+        "md5": "134b87c1beaf33974c841e77a9007f3b",
+        "crc32": "4d9a8e37",
+        "sha1": "8c965aa515356d5556ddd08a63df3403955fe292"
+      },
+      {
+        "name": "minneapolisschoo00minn_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "0700dd84044f3cdd5d8a16b9ab1dc270",
+        "summation": "md5"
+      },
+      {
+        "name": "minneapolisschoo00minn_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "minneapolisschoo00minn_chocr.html.gz",
+        "mtime": "1660678815",
+        "size": "7270585",
+        "md5": "1aeba5b270af272c7b98bf5883afac24",
+        "crc32": "974debf2",
+        "sha1": "87ae8284084a90db06dc8256e735e37bd89f2160",
+        "private": "true"
+      },
+      {
+        "name": "minneapolisschoo00minn_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "minneapolisschoo00minn_hocr.html",
+        "mtime": "1660678948",
+        "size": "2856",
+        "md5": "131a584c96e3bedb68067951a0e2132f",
+        "crc32": "b50e6dfe",
+        "sha1": "75f13e3138a08fcc79d515acdef481b66e7f27d9",
+        "private": "true"
+      },
+      {
+        "name": "minneapolisschoo00minn_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "7408",
+        "word_conf_11_20": "3945",
+        "word_conf_21_30": "6622",
+        "word_conf_31_40": "4811",
+        "word_conf_41_50": "6240",
+        "word_conf_51_60": "5908",
+        "word_conf_61_70": "4718",
+        "word_conf_71_80": "2148",
+        "word_conf_81_90": "701",
+        "word_conf_91_100": "1398",
+        "format": "OCR Search Text",
+        "original": "minneapolisschoo00minn_hocr.html",
+        "mtime": "1660679003",
+        "size": "90133",
+        "md5": "5e4e8967c54f914b933b7c679099a82a",
+        "crc32": "60fb294a",
+        "sha1": "74e60087037ab08b4ed7bb1fc8a81140b4f9699c",
+        "private": "true"
+      },
+      {
+        "name": "minneapolisschoo00minn_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "minneapolisschoo00minn_orig_jp2.tar",
+        "md5": "dacb4c8896999e7aa809ec35fdc00d4d",
+        "mtime": "1264066955",
+        "size": "72990720",
+        "crc32": "3bf56251",
+        "sha1": "2a14c81ba65b4e415023f348b635cd749e48b3d5",
+        "private": "true",
+        "filecount": "244"
+      },
+      {
+        "name": "minneapolisschoo00minn_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "minneapolisschoo00minn.epub",
+        "mtime": "1753650885",
+        "size": "1469062",
+        "md5": "e20876882edaf64804e0d913bc0966e8",
+        "crc32": "2c87d425",
+        "sha1": "3660e5b85ac331db25e312380b4df2ad8111ad91"
+      },
+      {
+        "name": "minneapolisschoo00minn_loans.json",
+        "source": "original",
+        "mtime": "1593067968",
+        "size": "4728",
+        "format": "JSON",
+        "private": "true",
+        "md5": "85eae6cb3975d84b89e99013dcf7bd80",
+        "crc32": "ca15a9b9",
+        "sha1": "249c6dfcb33ca81a3ac2fd2073c70133e58d9a53"
+      },
+      {
+        "name": "minneapolisschoo00minn_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "b103fc72758b37f7a3994677435967ff",
+        "mtime": "1263582311",
+        "size": "2453",
+        "crc32": "4343d0c1",
+        "sha1": "a77b91233285f481d2a3df23099bf9dab9e35d10"
+      },
+      {
+        "name": "minneapolisschoo00minn_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "d01aa5bb578809387a4c889e8df4f45d",
+        "mtime": "1263582311",
+        "size": "785",
+        "crc32": "b3fbf406",
+        "sha1": "c6152b2d095bbef54ce48eeee0dd84765f111cdf"
+      },
+      {
+        "name": "minneapolisschoo00minn_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753650885",
+        "size": "3117",
+        "md5": "6538172b024951ab9d24e7ccb4e48717",
+        "crc32": "71a4ef63",
+        "sha1": "e44f221221f60146b73069cbae46349531008f53"
+      },
+      {
+        "name": "minneapolisschoo00minn_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "b28ce894b7b2f4f00bb008dfd37e7d23",
+        "mtime": "1263582311",
+        "size": "520",
+        "crc32": "10c2b162",
+        "sha1": "22b4c49cdc723f1a6dc8f5b4378d4fab3088371c"
+      },
+      {
+        "name": "minneapolisschoo00minn_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "b334f7182f9494c8437e09d3538602a0",
+        "mtime": "1264060390",
+        "size": "143513600",
+        "crc32": "adaba820",
+        "sha1": "b31fde78e72ed1a7612bcd174f3770f5e421d7de",
+        "private": "true",
+        "filecount": "244"
+      },
+      {
+        "name": "minneapolisschoo00minn_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "57",
+        "format": "Page Numbers JSON",
+        "original": "minneapolisschoo00minn_hocr.html",
+        "mtime": "1716165820",
+        "size": "40917",
+        "md5": "d7bfda3377e4b3d0fd71c3544dda20c3",
+        "crc32": "ec5c99ef",
+        "sha1": "c6d8f82d81c67b87acc8cd0a67b4e0640712774f",
+        "private": "true"
+      },
+      {
+        "name": "minneapolisschoo00minn_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "9c7a41b93dc575e084f175b73a2ec3b8",
+        "mtime": "1670680785",
+        "size": "126274",
+        "crc32": "8f73a861",
+        "sha1": "363786f8660c3276a30e951825163561157834f5"
+      }
+    ],
+    "files_count": 27,
+    "item_last_updated": 1753650885,
+    "item_size": 277873870,
+    "metadata": {
+      "title": "Minneapolis Schoolmasters Wives' cookbook",
+      "creator": "Minneapolis Schoolmasters Wives' Club (Minneapolis, Minn.)",
+      "subject": [
+        "Cookery, American",
+        "Cookery"
+      ],
+      "description": [
+        "Title from cover",
+        "Compiled by the Minneapolis Schoolmasters Wives' Club. Cf. p. [1]"
+      ],
+      "publisher": "[Minnesota : s.n]",
+      "date": "1966-01-01",
+      "language": "eng",
+      "page-progression": "lr",
+      "boxid": "IA109214",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sfdowntown",
+      "mediatype": "texts",
+      "updatedate": "2010-01-15 19:05:11",
+      "updater": "Phillip.L",
+      "identifier": "minneapolisschoo00minn",
+      "uploader": "philip.l@archive.org",
+      "addeddate": "2010-01-15 19:05:13",
+      "publicdate": "2010-01-15 19:05:20",
+      "ppi": "400",
+      "camera": "Canon 5D",
+      "operator": "scanner-nicole-salazar@archive.org",
+      "scanner": "scribe9.sfdowntown.archive.org",
+      "scandate": "20100121072645",
+      "imagecount": "242",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/minneapolisschoo00minn",
+      "identifier-ark": "ark:/13960/t5k93tb5h",
+      "bookplateleaf": "0006",
+      "notes": "words in the gutters",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20100208064837[/date][state]approved[/state][comment]109[/comment]",
+      "repub_state": "4",
+      "possible-copyright-status": "lendinglibrary_oop",
+      "external-identifier": [
+        "urn:acs6:minneapolisschoo00minn:pdf:fc7028cc-7190-4d83-98b4-8b908e804f4a",
+        "urn:acs6:minneapolisschoo00minn:epub:21307368-08c6-402e-95ff-d6302936a587",
+        "urn:oclc:record:1036692435",
+        "urn:lcp:minneapolisschoo00minn:lcpdf:c4c195b4-6c23-47fb-a52d-868e32e94e17",
+        "urn:lcp:minneapolisschoo00minn:epub:493ec5ea-87d8-4c47-9e35-4cbef7a6d0ab"
+      ],
+      "donor": "alibris",
+      "backup_location": "ia903604_25",
+      "openlibrary_edition": "OL24214078M",
+      "openlibrary_work": "OL15146539W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Fri Dec 25 8:08:24 UTC 2020",
+        "Wed Apr 3 9:18:54 UTC 2024"
+      ],
+      "oclc-id": "309370503",
+      "associated-names": "Minneapolis Schoolmasters Wives' Club (Minneapolis, Minn.)",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "57",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia801708.us.archive.org",
+    "uniq": 171043287,
+    "workable_servers": [
+      "ia801708.us.archive.org",
+      "ia601708.us.archive.org"
+    ]
+  },
+  "institution": "Minneapolis Schoolmasters Wives' Club (Minneapolis, Minn.)",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Minnesota",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 7,
+    "has_digital_assets": true,
+    "matched_community": [
+      "School"
+    ]
+  },
+  "curation_notes": "State match: Minnesota; Community markers: School; Digitized scan available"
+}

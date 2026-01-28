@@ -1,0 +1,515 @@
+{
+  "source": "internet_archive",
+  "identifier": "quicksimmeringso0000unse",
+  "title": "Quick simmering soups",
+  "creator": null,
+  "year": 1998,
+  "subject": [
+    "Soups",
+    "Quick and easy cooking"
+  ],
+  "description": [
+    "96 p. : 25 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/quicksimmeringso0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/quicksimmeringso0000unse"
+        }
+      ]
+    },
+    "created": 1758559383,
+    "d1": "ia904604.us.archive.org",
+    "d2": "ia804604.us.archive.org",
+    "dir": "/17/items/quicksimmeringso0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660963797",
+        "size": "16712",
+        "md5": "808c616ea267b4f375949465143dcd25",
+        "crc32": "fbe8ba46",
+        "sha1": "b692bf7e9bc33ae30b31e95f7ead29f1b55e5c37",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/quicksimmeringso0000unse_iabdash_2021-12-2612:47:09.log",
+        "source": "original",
+        "mtime": "1640494033",
+        "size": "2366",
+        "md5": "4123a6a2d2eaa83c4c99598c701a212e",
+        "crc32": "36559907",
+        "sha1": "2d0e2772005b0c5b533badfba4f279b1d9691511",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/quicksimmeringso0000unse_scanning_2021-12-2612:47:18.log",
+        "source": "original",
+        "mtime": "1640494041",
+        "size": "898912",
+        "md5": "7585eaa436c6f6ae1a833e34d28c19de",
+        "crc32": "27c9a373",
+        "sha1": "ce70456970b6dfda6c15c36fb331a6a9adfaa16c",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/quicksimmeringso0000unse_status_history_2021-12-2612:47:14.log",
+        "source": "original",
+        "mtime": "1640494037",
+        "size": "409",
+        "md5": "26e88fe5fb17342e59cd9e7817643562",
+        "crc32": "bb7fc7d6",
+        "sha1": "1c791dfa6f6b56a0d0fbbfe8fec411404ec63840",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "quicksimmeringso0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "quicksimmeringso0000unse_hocr.html",
+        "mtime": "1758191831",
+        "size": "1056675",
+        "private": "true",
+        "md5": "2cc4868f7bfed608b6b0589d33d49834",
+        "crc32": "b31eee3b",
+        "sha1": "7ce0c7fd6523da11d3a41cf738fba283ae88c36b"
+      },
+      {
+        "name": "quicksimmeringso0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "quicksimmeringso0000unse.pdf",
+        "mtime": "1758191718",
+        "size": "10477936",
+        "md5": "005165d7fcf638702d26d3d1330031b6",
+        "crc32": "570fee0b",
+        "sha1": "a66f55fec2405e10dd95505c01b9e08b4a4b7bb0"
+      },
+      {
+        "name": "quicksimmeringso0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "quicksimmeringso0000unse_page_numbers.json",
+        "mtime": "1720711241",
+        "size": "10076702",
+        "md5": "42bd291ec218ff3c91e10a9d2b78ca91",
+        "crc32": "0c558772",
+        "sha1": "b0703a992291887aa223901c34cf166a7c860a2d",
+        "private": "true"
+      },
+      {
+        "name": "quicksimmeringso0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-1-g862e",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9071",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "quicksimmeringso0000unse_jp2.zip",
+        "mtime": "1640663393",
+        "size": "1568141",
+        "md5": "9a5a898eeb5608ce2ac9f26d3b66cc79",
+        "crc32": "d72ab44b",
+        "sha1": "3f8246aa9fcd274bbd2f7b2727d6a26f6e48c0a8",
+        "private": "true"
+      },
+      {
+        "name": "quicksimmeringso0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "quicksimmeringso0000unse_scandata.xml",
+        "mtime": "1671049572",
+        "size": "789",
+        "md5": "8f2d63ebab96e9b5935de360826acebc",
+        "crc32": "19b317cd",
+        "sha1": "88c17ffb84efcbb50a548b7cc6a0822723db4bf0",
+        "private": "true"
+      },
+      {
+        "name": "quicksimmeringso0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1640661402",
+        "size": "962",
+        "md5": "647db9696b0128c0dd9b555b546c5c3f",
+        "crc32": "a769751c",
+        "sha1": "bb3409360d495ee6894b566f4114ace7fe1256b2"
+      },
+      {
+        "name": "quicksimmeringso0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "quicksimmeringso0000unse_djvu.xml",
+        "mtime": "1640663441",
+        "size": "115119",
+        "md5": "0316108fc050a17ad53c69951c392258",
+        "crc32": "8d9d6b36",
+        "sha1": "a783b1b6578eab74cde95a04cdf781b70aedb5bf",
+        "private": "true"
+      },
+      {
+        "name": "quicksimmeringso0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "quicksimmeringso0000unse_hocr.html",
+        "mtime": "1640663419",
+        "size": "1627829",
+        "md5": "e3a9fd28b75a0e139f06f91f9053f668",
+        "crc32": "0e2ac32e",
+        "sha1": "94c3bd9b26143460155aafe52f193a74292177e3",
+        "private": "true"
+      },
+      {
+        "name": "quicksimmeringso0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "quicksimmeringso0000unse.pdf",
+        "mtime": "1720711466",
+        "size": "10051533",
+        "md5": "264d7f0e5fcbba86d6a39f6bc9d61089",
+        "crc32": "7f00c8a2",
+        "sha1": "b83bc327a933c81caed1e5e85c2b70533fa5a911"
+      },
+      {
+        "name": "quicksimmeringso0000unse_events.json",
+        "source": "original",
+        "mtime": "1640661316",
+        "size": "59",
+        "md5": "e6dc07d83af67f27f9198b10313a4fb1",
+        "crc32": "6f9a4781",
+        "sha1": "f4a2eb5eaeb7a9403217569623e1357ee9cbccf7",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "quicksimmeringso0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "1854c117492457427ac7ce17230f66a3",
+        "summation": "md5"
+      },
+      {
+        "name": "quicksimmeringso0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9071",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "quicksimmeringso0000unse_chocr.html.gz",
+        "mtime": "1640663410",
+        "size": "3078008",
+        "md5": "a71a8018cecc1824326c1ea589649771",
+        "crc32": "ea753889",
+        "sha1": "297cad353095580ddebda71921c560dfb935e482",
+        "private": "true"
+      },
+      {
+        "name": "quicksimmeringso0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "quicksimmeringso0000unse_hocr.html",
+        "mtime": "1640663424",
+        "size": "1121",
+        "md5": "40cd621abd9e1cbfc26bb4db142fc8d8",
+        "crc32": "78c97e4d",
+        "sha1": "528efbf00bd5638bd9adaaa4b57fa22f08b91b20",
+        "private": "true"
+      },
+      {
+        "name": "quicksimmeringso0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "165",
+        "word_conf_11_20": "78",
+        "word_conf_21_30": "70",
+        "word_conf_31_40": "76",
+        "word_conf_41_50": "83",
+        "word_conf_51_60": "86",
+        "word_conf_61_70": "72",
+        "word_conf_71_80": "152",
+        "word_conf_81_90": "627",
+        "word_conf_91_100": "17333",
+        "format": "OCR Search Text",
+        "original": "quicksimmeringso0000unse_hocr.html",
+        "mtime": "1640663434",
+        "size": "31979",
+        "md5": "fe83caffc1d8ea34e9ace084ff89460a",
+        "crc32": "b0ef35bb",
+        "sha1": "9199b04c7f24680641acff69ed862ea463147dfd",
+        "private": "true"
+      },
+      {
+        "name": "quicksimmeringso0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "quicksimmeringso0000unse_orig_jp2.tar",
+        "mtime": "1640662738",
+        "size": "69622376",
+        "md5": "0b74b89993d07ca3dc925978adc18c72",
+        "crc32": "5ca14229",
+        "sha1": "e05222d664f0b0dc10812fb6049b6dcb5d3b99f2",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "quicksimmeringso0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "quicksimmeringso0000unse.epub",
+        "mtime": "1758192112",
+        "size": "1063937",
+        "md5": "731df18f529315c14a5d66e319c47149",
+        "crc32": "dfde841e",
+        "sha1": "acb67ebf1cb9b9975132c2ba8820328d4f4874a1"
+      },
+      {
+        "name": "quicksimmeringso0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1640494026",
+        "size": "2380",
+        "md5": "07045cacceb73cc69a3df906ca0d9ee2",
+        "crc32": "e4251c3d",
+        "sha1": "3473faca54b6387aaea3514d1ed3ca81074196fd",
+        "format": "MARC"
+      },
+      {
+        "name": "quicksimmeringso0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1640494022",
+        "size": "739",
+        "md5": "cb2d24cbc616573592e7d2cd4c12d284",
+        "crc32": "241827f3",
+        "sha1": "dc556bc7b2c51f8ef1ad75f89fcfe15eb0f19294",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "quicksimmeringso0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1640661380",
+        "size": "45056",
+        "md5": "d666745d6268927ea180f8e6fe4c657d",
+        "crc32": "616cd57f",
+        "sha1": "22c957ff662abd4ad2b914fa200ae88e2762345f",
+        "format": "Metadata"
+      },
+      {
+        "name": "quicksimmeringso0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1758192112",
+        "size": "3123",
+        "md5": "71fda01c5971b7068c10fa64cb46ba7d",
+        "crc32": "351e319e",
+        "sha1": "e77ae092da8ed121c0cc06f6039bda00be38adf1",
+        "format": "Metadata"
+      },
+      {
+        "name": "quicksimmeringso0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1640661379",
+        "size": "180090880",
+        "md5": "231e3738645978e0b81d4348ba03f13b",
+        "crc32": "55a9fa3a",
+        "sha1": "499f24cef4f9875d98f6107df60d70b2c3b9eea4",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "quicksimmeringso0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "78",
+        "format": "Page Numbers JSON",
+        "original": "quicksimmeringso0000unse_hocr.html",
+        "mtime": "1720711240",
+        "size": "16934",
+        "md5": "d567fb3b82c01fe0afff6c5a8ff880cd",
+        "crc32": "57684423",
+        "sha1": "64835efd50362846c165f1c6999c6e6916566e4f",
+        "private": "true"
+      },
+      {
+        "name": "quicksimmeringso0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671049572",
+        "size": "110734",
+        "md5": "91e41de8b792f2324c79cc3f238e2c15",
+        "crc32": "bf7fb476",
+        "sha1": "4a8cbe0faa746044a886920d382367ed9916308a",
+        "format": "Scandata"
+      },
+      {
+        "name": "quicksimmeringso0000unse_slip.png",
+        "source": "original",
+        "mtime": "1640490867",
+        "size": "41740",
+        "md5": "4c8f6ec8ea14996af354231afcbef87c",
+        "crc32": "512212b6",
+        "sha1": "6fd6bae83192e1c2143c447899bc7b6d0578e319",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "quicksimmeringso0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "quicksimmeringso0000unse_slip.png",
+        "mtime": "1640661404",
+        "size": "8520",
+        "md5": "f0451ed630a9eb2b897729f2aff67d4b",
+        "crc32": "7f2f5cf5",
+        "sha1": "18c26483aedccd388295e5f554cfa43e34bbacb3",
+        "private": "true"
+      },
+      {
+        "name": "quicksimmeringso0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "quicksimmeringso0000unse_djvu.xml",
+        "mtime": "1671049389",
+        "size": "565",
+        "md5": "63a2c643af85ad7f7b2ad3f3bb2417a7",
+        "crc32": "7ac5b6f4",
+        "sha1": "466619f440aafcb892d6da58a6ba2d3ea87a2aae",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1758192112,
+    "item_size": 290012236,
+    "metadata": {
+      "identifier": "quicksimmeringso0000unse",
+      "associated-names": "Thomas, Kristi M",
+      "boxid": "IA40319020",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "1998-01-01",
+      "description": [
+        "96 p. : 25 cm",
+        "Includes index"
+      ],
+      "isbn": "0696208547",
+      "language": "eng",
+      "lccn": "98066250",
+      "mediatype": "texts",
+      "old_pallet": "IA-WL-1200087",
+      "openlibrary_edition": "OL392113M",
+      "openlibrary_work": "OL19230467W",
+      "operator": "associate-creselyn-molle@archive.org",
+      "publisher": "Des Moines, Iowa : Better Homes and Gardens Books",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station42.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780696208546",
+      "subject": [
+        "Soups",
+        "Quick and easy cooking"
+      ],
+      "title": "Quick simmering soups",
+      "tts_version": "4.5-initial-80-gce32ee1e",
+      "uploader": "station42.cebu@archive.org",
+      "publicdate": "2021-12-26 03:54:40",
+      "access-restricted-item": "true",
+      "imagecount": "102",
+      "scandate": "20211226053442",
+      "ppi": "360",
+      "republisher_operator": "associate-jonebell-enriquez@archive.org",
+      "republisher_date": "20211228111506",
+      "republisher_time": "121",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/quicksimmeringso0000unse",
+      "identifier-ark": "ark:/13960/s2n7nfsfnd1",
+      "ocr": "tesseract 5.0.0-1-g862e",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.14",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9071",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "78",
+      "pdf_module_version": "0.0.17",
+      "external-identifier": [
+        "urn:acs6:quicksimmeringso0000unse:pdf:744f3768-9277-4b76-b39c-f1fb0896dd3d",
+        "urn:oclc:record:1311050754",
+        "urn:lcp:quicksimmeringso0000unse:lcpdf:47aa2d90-e2f2-4f37-83d9-9f33a4e51220",
+        "urn:lcp:quicksimmeringso0000unse:epub:d716f0d1-fbfd-49f2-b7ad-7d06de2e7ea4"
+      ],
+      "addeddate": "2021-12-28 04:15:20",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "year": "1998",
+      "notes": "obscured text",
+      "sponsordate": "20211231",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia904604.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40590705"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 10:58:00.833752"
+        }
+      }
+    },
+    "uniq": 1947406315,
+    "workable_servers": [
+      "ia904604.us.archive.org",
+      "ia804604.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

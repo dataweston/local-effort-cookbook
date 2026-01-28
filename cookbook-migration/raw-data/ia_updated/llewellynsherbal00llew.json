@@ -1,0 +1,494 @@
+{
+  "source": "internet_archive",
+  "identifier": "llewellynsherbal00llew",
+  "title": "Llewellyn's herbal almanac 2008",
+  "creator": "Llewellyn Publications",
+  "year": 2007,
+  "subject": [
+    "Herb gardening",
+    "Herbs",
+    "Medicinal plants"
+  ],
+  "description": [
+    "\"Herbs for cooking & crafts, health & beauty herbs, growing & gathering, history, myth & lore\"--Cover",
+    "Includes bibliographical references"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/llewellynsherbal00llew"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/llewellynsherbal00llew"
+        }
+      ]
+    },
+    "created": 1758557099,
+    "d1": "ia903101.us.archive.org",
+    "d2": "ia803101.us.archive.org",
+    "dir": "/8/items/llewellynsherbal00llew",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660513743",
+        "size": "26385",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "778fbca9e144f21c2f0d91ac9946ad91",
+        "crc32": "90bc67d0",
+        "sha1": "8763f0bfe9a28a75488d6df31548ae08f8a65c23"
+      },
+      {
+        "name": "llewellynsherbal00llew.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "llewellynsherbal00llew_hocr.html",
+        "mtime": "1756951635",
+        "size": "11174934",
+        "private": "true",
+        "md5": "78a9e2b0a79670a42f8bf8fd595ce3e4",
+        "crc32": "ec9f81b8",
+        "sha1": "6b02788a064def7d84936a4d34d9214813d92cc6"
+      },
+      {
+        "name": "llewellynsherbal00llew.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "llewellynsherbal00llew.pdf",
+        "mtime": "1756951531",
+        "size": "19529152",
+        "md5": "17fc9bd9879041cb98d65aa53349708d",
+        "crc32": "0203af9c",
+        "sha1": "51a6845a0bb043f8cc85d8ebd6bc7bbddb868449"
+      },
+      {
+        "name": "llewellynsherbal00llew.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "llewellynsherbal00llew_page_numbers.json",
+        "mtime": "1714745546",
+        "size": "19063455",
+        "md5": "1511d1b6ce86ab0315cfb37c83c6a0b5",
+        "crc32": "0b58d32a",
+        "sha1": "c89a2c2b83e656d009c16357bad26013fa45b62c",
+        "private": "true"
+      },
+      {
+        "name": "llewellynsherbal00llew_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "llewellynsherbal00llew_jp2.zip",
+        "mtime": "1523552153",
+        "size": "7229184",
+        "md5": "2b85c003fa0cfa4312de0b1ea2d10ea1",
+        "crc32": "df1702ee",
+        "sha1": "d0a365157b3e0f947ffb102f68e5bbd1b4ad9764",
+        "private": "true"
+      },
+      {
+        "name": "llewellynsherbal00llew_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "llewellynsherbal00llew_abbyy.gz",
+        "mtime": "1660513599",
+        "size": "6306986",
+        "md5": "89286865f4f7a02740efa5166b31e779",
+        "crc32": "0c925ebc",
+        "sha1": "03b6beeff61aeebc8ca31528d8c3a25d0ded64a3",
+        "private": "true"
+      },
+      {
+        "name": "llewellynsherbal00llew_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "llewellynsherbal00llew_scandata.xml",
+        "mtime": "1670562326",
+        "size": "780",
+        "md5": "03b9cef5d65a4d8106cfe3f676128bb0",
+        "crc32": "2815c5fd",
+        "sha1": "72b96b9613d496ba28dbbd6d52d5ee690c7d8073",
+        "private": "true"
+      },
+      {
+        "name": "llewellynsherbal00llew_dc.xml",
+        "source": "original",
+        "mtime": "1523376385",
+        "size": "1027",
+        "md5": "7e0e213beae127a7c3a362be33c2bcea",
+        "crc32": "bc1c4d42",
+        "sha1": "a559b0d8d5dfb80ff298b52745f1de7ecf13379e",
+        "format": "Dublin Core"
+      },
+      {
+        "name": "llewellynsherbal00llew_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "llewellynsherbal00llew_djvu.xml",
+        "mtime": "1660513734",
+        "size": "591223",
+        "md5": "7c03fbd64efcaa8e6f19c62942b95c7e",
+        "crc32": "ad46b183",
+        "sha1": "eb7a80dfc330da1c13cc388d0f90a48a2c2f5324",
+        "private": "true"
+      },
+      {
+        "name": "llewellynsherbal00llew_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "llewellynsherbal00llew_hocr.html",
+        "mtime": "1660513691",
+        "size": "7006040",
+        "md5": "1d04c3d78ff6f9a8fb6019ee71d598dc",
+        "crc32": "a9583a09",
+        "sha1": "dd0c6de3113e4e7582188ef45930c8def9ed9e52",
+        "private": "true"
+      },
+      {
+        "name": "llewellynsherbal00llew_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "llewellynsherbal00llew_abbyy.gz",
+        "mtime": "1528774741",
+        "size": "2582119",
+        "md5": "03e11e839d3b9532ff5820dc6f5e65b5",
+        "crc32": "5ebab4fe",
+        "sha1": "f1c3a9d062c669ade67b6bb5d23c86c0e795fe4e"
+      },
+      {
+        "name": "llewellynsherbal00llew_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "llewellynsherbal00llew.pdf",
+        "mtime": "1714745620",
+        "size": "18891155",
+        "md5": "ce5744aa3ff4eb28f411ed60e48a1b6e",
+        "crc32": "059e0cf3",
+        "sha1": "9e725bca7d58cabc5d265ea287b26c66e2d5b6ff"
+      },
+      {
+        "name": "llewellynsherbal00llew_events.json",
+        "source": "original",
+        "mtime": "1523544583",
+        "size": "58",
+        "md5": "a4ca45089806df18a6644a70456441ff",
+        "crc32": "8dd637f6",
+        "sha1": "fdd858f7bfd5cdf8483809317ab3f45c8186b7f0",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "llewellynsherbal00llew_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "304f20dcb264cf10dc720faf41730c58",
+        "summation": "md5"
+      },
+      {
+        "name": "llewellynsherbal00llew_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "llewellynsherbal00llew_chocr.html.gz",
+        "mtime": "1660513666",
+        "size": "14338496",
+        "md5": "18f47a559d36cea7bf24935e71a17a2f",
+        "crc32": "fb570f0a",
+        "sha1": "25a8409ca1cf73e01dce1a0ce3509f7693d9f6be",
+        "private": "true"
+      },
+      {
+        "name": "llewellynsherbal00llew_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "llewellynsherbal00llew_hocr.html",
+        "mtime": "1660513705",
+        "size": "3787",
+        "md5": "f9e56e4a338b3a208773b4951c329a51",
+        "crc32": "c833f6b3",
+        "sha1": "67ed3d4506fcbb23a22ae00ffbaae235d054b1cc",
+        "private": "true"
+      },
+      {
+        "name": "llewellynsherbal00llew_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "652",
+        "word_conf_11_20": "121",
+        "word_conf_21_30": "173",
+        "word_conf_31_40": "238",
+        "word_conf_41_50": "349",
+        "word_conf_51_60": "758",
+        "word_conf_61_70": "2256",
+        "word_conf_71_80": "6473",
+        "word_conf_81_90": "16551",
+        "word_conf_91_100": "58190",
+        "format": "OCR Search Text",
+        "original": "llewellynsherbal00llew_hocr.html",
+        "mtime": "1660513724",
+        "size": "197725",
+        "md5": "878a2f6d3c45dee9736733b49ec5bc7b",
+        "crc32": "5e98a660",
+        "sha1": "0c17290d7ed030150f3c3aebcd25324d437b39da",
+        "private": "true"
+      },
+      {
+        "name": "llewellynsherbal00llew_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "llewellynsherbal00llew_orig_jp2.tar",
+        "mtime": "1523549400",
+        "size": "192908462",
+        "md5": "47837f3d60110aa9a68aea76874f7e24",
+        "crc32": "7d388039",
+        "sha1": "3b81c8fe00492813cb9644349fb844d3c84f0b09",
+        "private": "true",
+        "filecount": "318"
+      },
+      {
+        "name": "llewellynsherbal00llew_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "llewellynsherbal00llew.epub",
+        "mtime": "1756951664",
+        "size": "11426919",
+        "md5": "8435e054db3a71a53197a1ab6d9e2709",
+        "crc32": "493b1f72",
+        "sha1": "7b271f7a40922d2307cbe7df584688368cbc2d4b"
+      },
+      {
+        "name": "llewellynsherbal00llew_loans.json",
+        "source": "original",
+        "mtime": "1594033260",
+        "size": "6933",
+        "format": "JSON",
+        "private": "true",
+        "md5": "b811f064eafe4211e3d15ce0827ae8ca",
+        "crc32": "00d0613f",
+        "sha1": "96a65cd41342bae6514523333bb9729fd1da6ccd"
+      },
+      {
+        "name": "llewellynsherbal00llew_marc.xml",
+        "source": "original",
+        "mtime": "1523376385",
+        "size": "6118",
+        "md5": "cbeb25abfa5e461b260a6167794f5640",
+        "crc32": "84edb94d",
+        "sha1": "c849c56fcc0d46cf0a6ab54cee4a3d01ef3ea2e7",
+        "format": "MARC"
+      },
+      {
+        "name": "llewellynsherbal00llew_meta.mrc",
+        "source": "original",
+        "mtime": "1523376385",
+        "size": "1778",
+        "md5": "d01f9472b71737a7ead5b340ee942b3b",
+        "crc32": "af6ca30b",
+        "sha1": "34304abc5c9fcf3ded8c3dfbb220ffa1bd47d84b",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "llewellynsherbal00llew_meta.sqlite",
+        "source": "original",
+        "mtime": "1523544656",
+        "size": "13312",
+        "format": "Metadata",
+        "md5": "cd1a3efdb57f5cbbd9fa30cb1b4c4de6",
+        "crc32": "83fb15b1",
+        "sha1": "52ce6734b7be955e8c6380d3c21078f931905e44"
+      },
+      {
+        "name": "llewellynsherbal00llew_meta.xml",
+        "source": "original",
+        "mtime": "1756951714",
+        "size": "3330",
+        "format": "Metadata",
+        "md5": "f70170f5c3dad79e003acf1f02526c31",
+        "crc32": "7ab22548",
+        "sha1": "0920fb6c02af1233165e4616bdce1e75d7ce7f3c"
+      },
+      {
+        "name": "llewellynsherbal00llew_metasource.xml",
+        "source": "original",
+        "mtime": "1523376385",
+        "size": "425",
+        "md5": "7e39b0a384178cfc23cc03358fa42617",
+        "crc32": "040cacf3",
+        "sha1": "ff8fc2304ff8069392e2b6738cb1f37bcf709ee5",
+        "format": "MARC Source"
+      },
+      {
+        "name": "llewellynsherbal00llew_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1523544656",
+        "size": "586240000",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "75cb1cdd7bdfbcc829848caf22456298",
+        "crc32": "3384312f",
+        "sha1": "d662fd9627dcb43cc52f5542b80e93d7477023a0",
+        "filecount": "318"
+      },
+      {
+        "name": "llewellynsherbal00llew_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "llewellynsherbal00llew_hocr.html",
+        "mtime": "1714745546",
+        "size": "53395",
+        "md5": "1d92d95827f84a70076c704affe0da7a",
+        "crc32": "9469350d",
+        "sha1": "0036ae5776b15d0a93a884de4c7aa75c346b4637",
+        "private": "true"
+      },
+      {
+        "name": "llewellynsherbal00llew_scandata.xml",
+        "source": "original",
+        "mtime": "1670562326",
+        "size": "324654",
+        "format": "Scandata",
+        "md5": "90191d523416d1759d73083feccd2708",
+        "crc32": "a0eb039b",
+        "sha1": "ddc27679569b4e9c3dbb19117b98011b7417adbe"
+      },
+      {
+        "name": "logs/llewellynsherbal00llew_iabdash_2018-04-11134040.log",
+        "source": "original",
+        "mtime": "1523468451",
+        "size": "358",
+        "md5": "28ea6c0061fcb1333e69079d2616548f",
+        "crc32": "2daec58f",
+        "sha1": "7ff9565c98a5a78677fd2f3af0b0df8fae80bfe0",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/llewellynsherbal00llew_scanning_2018-04-11134034.log",
+        "source": "original",
+        "mtime": "1523468440",
+        "size": "647318",
+        "md5": "09601630a44366e6dc0c32b24860f0cc",
+        "crc32": "59fc4e1b",
+        "sha1": "b2bc61189dcf7bf86fa04d93370b340c044b8ac7",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1756951714,
+    "item_size": 898575508,
+    "metadata": {
+      "title": "Llewellyn's herbal almanac 2008",
+      "creator": "Llewellyn Publications",
+      "subject": [
+        "Herb gardening",
+        "Herbs",
+        "Herbs",
+        "Medicinal plants",
+        "Herb gardening",
+        "Herbs",
+        "Herbs",
+        "Medicinal plants"
+      ],
+      "description": [
+        "\"Herbs for cooking & crafts, health & beauty herbs, growing & gathering, history, myth & lore\"--Cover",
+        "Includes bibliographical references"
+      ],
+      "publisher": "Woodbury, MN : Llewellyn Worldwide",
+      "date": "2007-01-01",
+      "language": "eng",
+      "isbn": [
+        "9780738705545",
+        "0738705543"
+      ],
+      "page-progression": "lr",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "indiana",
+      "mediatype": "texts",
+      "shiptracking": "MDB41",
+      "repub_state": "19",
+      "updatedate": "2018-04-10 16:06:25",
+      "updater": "Emilee Smits",
+      "identifier": "llewellynsherbal00llew",
+      "uploader": "associate-emilee-smits@archive.org",
+      "addeddate": "2018-04-10 16:06:27",
+      "publicdate": "2018-04-10 16:06:33",
+      "scanner": "scribe6.indiana.archive.org",
+      "operator": "associate-christine-calhoun@archive.org",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "imagecount": "318",
+      "scandate": "20180411192613",
+      "notes": "Copyright on title page.<br /><br />",
+      "ppi": "300",
+      "republisher_operator": "associate-ladonna-hartmann@archive.org",
+      "republisher_date": "20180412104930",
+      "republisher_time": "376",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/llewellynsherbal00llew",
+      "identifier-ark": "ark:/13960/t3c02vg4b",
+      "bookplateleaf": "0010",
+      "external-identifier": [
+        "urn:acs6:llewellynsherbal00llew:pdf:b82a5bc2-fdf0-44a3-87e1-10bdb49d5189",
+        "urn:acs6:llewellynsherbal00llew:epub:45fb32cc-ee03-4c69-b5e2-eeb0545910b2",
+        "urn:oclc:record:1150219953",
+        "urn:lcp:llewellynsherbal00llew:lcpdf:d99e8ced-798d-4e4f-b331-59aecc579217",
+        "urn:lcp:llewellynsherbal00llew:epub:66ddad56-1388-4a37-a58a-0d549a3abffe"
+      ],
+      "scanfee": "300;10;200",
+      "invoice": "11",
+      "openlibrary_edition": "OL7911399M",
+      "openlibrary_work": "OL8268929W",
+      "boxid": "IA1622806",
+      "backup_location": "ia906702_33",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "filesxml": "Wed Apr 3 8:14:49 UTC 2024",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia803101.us.archive.org",
+    "uniq": 573476814,
+    "workable_servers": [
+      "ia803101.us.archive.org",
+      "ia903101.us.archive.org"
+    ]
+  },
+  "institution": "Llewellyn Publications",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

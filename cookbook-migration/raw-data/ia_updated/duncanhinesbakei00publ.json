@@ -1,0 +1,512 @@
+{
+  "source": "internet_archive",
+  "identifier": "duncanhinesbakei00publ",
+  "title": "Duncan Hines bake it easy",
+  "creator": null,
+  "year": 1998,
+  "subject": [
+    "Desserts",
+    "Baking",
+    "Cooking"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/duncanhinesbakei00publ"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/duncanhinesbakei00publ"
+        }
+      ]
+    },
+    "created": 1758556878,
+    "d1": "ia600301.us.archive.org",
+    "d2": "ia800301.us.archive.org",
+    "dir": "/3/items/duncanhinesbakei00publ",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659905017",
+        "size": "25897",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "9d9798df63a44179ed90b05f631cf1e1",
+        "crc32": "088b89fa",
+        "sha1": "ffa6cd48289689b4989cc6dfab43fcd9060b7b7b"
+      },
+      {
+        "name": "duncanhinesbakei00publ.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "duncanhinesbakei00publ_hocr.html",
+        "mtime": "1753254358",
+        "size": "21061585",
+        "private": "true",
+        "md5": "23ba0d43c42991f7cd358c3d4b1d3e80",
+        "crc32": "8fd90cfa",
+        "sha1": "95440e64df9c0f7d23a094d4b8fdb8594697b301"
+      },
+      {
+        "name": "duncanhinesbakei00publ.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "duncanhinesbakei00publ_jp2.zip",
+        "mtime": "1344893408",
+        "size": "262601",
+        "md5": "06d9bcf139fbeeb411a35c4fcfbf9d68",
+        "crc32": "2dcdefcc",
+        "sha1": "b8ca46942d739de1afc61e4f6821f269540d8291"
+      },
+      {
+        "name": "duncanhinesbakei00publ.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "duncanhinesbakei00publ.pdf",
+        "mtime": "1753254272",
+        "size": "8247592",
+        "md5": "e14d45641ec82e1347c7b26e18ef7c9d",
+        "crc32": "91449ef3",
+        "sha1": "a444d032ff4a4c7ff64a98377014a5b393bb4121"
+      },
+      {
+        "name": "duncanhinesbakei00publ.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "duncanhinesbakei00publ_page_numbers.json",
+        "mtime": "1720217296",
+        "size": "7906518",
+        "md5": "a72ca26cfc66d8c903e3afa7e3ede1f5",
+        "crc32": "5ad19f97",
+        "sha1": "1c8dbefc75da00f16692b33ff8d6ec2cb44b2b01",
+        "private": "true"
+      },
+      {
+        "name": "duncanhinesbakei00publ_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "duncanhinesbakei00publ_jp2.zip",
+        "mtime": "1344894149",
+        "size": "1305792",
+        "md5": "eaa439b38310e613595704c7ac0def46",
+        "crc32": "c4469a98",
+        "sha1": "b37d7f04d8e5ccf656de85aea867a7f5ce911f13",
+        "private": "true"
+      },
+      {
+        "name": "duncanhinesbakei00publ_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "duncanhinesbakei00publ_abbyy.gz",
+        "mtime": "1659904966",
+        "size": "1102023",
+        "md5": "9e92c680dafc1bebce4e779f40c6e786",
+        "crc32": "98d5d4da",
+        "sha1": "7b975e0e367ac52db9c360ba3e959352687eea28",
+        "private": "true"
+      },
+      {
+        "name": "duncanhinesbakei00publ_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "duncanhinesbakei00publ_scandata.xml",
+        "mtime": "1667061653",
+        "size": "779",
+        "md5": "81c6d59c498b7383a7e5684549d536ba",
+        "crc32": "abd08ccf",
+        "sha1": "c362e679e69f42b9d24c32c62763d52eb6236723",
+        "private": "true"
+      },
+      {
+        "name": "duncanhinesbakei00publ_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1505026439",
+        "size": "978",
+        "md5": "e9f1fff66636e06fd6e097b0596a5e97",
+        "crc32": "f17f8fcc",
+        "sha1": "5b962988b130424a6234d503ef9276c12d10ea09"
+      },
+      {
+        "name": "duncanhinesbakei00publ_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "duncanhinesbakei00publ_djvu.xml",
+        "mtime": "1667061717",
+        "size": "98404",
+        "md5": "b86de1caa23cc36effa3e811b0e041cf",
+        "crc32": "ce480e01",
+        "sha1": "8a125afc1789a6e56935e665335873e223c2bb3c",
+        "private": "true"
+      },
+      {
+        "name": "duncanhinesbakei00publ_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "duncanhinesbakei00publ_hocr.html",
+        "mtime": "1667061537",
+        "size": "1224400",
+        "md5": "e893cc84e93df4616c88691abfc84f17",
+        "crc32": "31d17db6",
+        "sha1": "9372d6a48112cc6c4e83764347dbce02a9a63d30",
+        "private": "true"
+      },
+      {
+        "name": "duncanhinesbakei00publ_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "duncanhinesbakei00publ.pdf",
+        "mtime": "1720217777",
+        "size": "7882367",
+        "md5": "13f21f8639c15bf370c8a9c151ba1160",
+        "crc32": "3ae8721b",
+        "sha1": "b3c1c3d4ceccc7bb4e95b54175117a236824702a"
+      },
+      {
+        "name": "duncanhinesbakei00publ_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "ee67da25f451cd762345906e64eead83",
+        "summation": "md5"
+      },
+      {
+        "name": "duncanhinesbakei00publ_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "duncanhinesbakei00publ_chocr.html.gz",
+        "mtime": "1659904987",
+        "size": "2602461",
+        "md5": "416e1f43d1094d06c681a761480f85ec",
+        "crc32": "f2a8bf87",
+        "sha1": "b57253cdee8211b64c6f88ef536fcc2f34304240",
+        "private": "true"
+      },
+      {
+        "name": "duncanhinesbakei00publ_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "duncanhinesbakei00publ_hocr.html",
+        "mtime": "1659904997",
+        "size": "1046",
+        "md5": "778af9df3bfd38443abde40c21c894b9",
+        "crc32": "bb651734",
+        "sha1": "4135ff57270e5156d71f3472742e51623d2e9ca4",
+        "private": "true"
+      },
+      {
+        "name": "duncanhinesbakei00publ_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "765",
+        "word_conf_11_20": "392",
+        "word_conf_21_30": "855",
+        "word_conf_31_40": "884",
+        "word_conf_41_50": "1910",
+        "word_conf_51_60": "2388",
+        "word_conf_61_70": "2856",
+        "word_conf_71_80": "1639",
+        "word_conf_81_90": "648",
+        "word_conf_91_100": "1423",
+        "format": "OCR Search Text",
+        "original": "duncanhinesbakei00publ_hocr.html",
+        "mtime": "1659905005",
+        "size": "22209",
+        "md5": "eff8f64631c06a1e8f737a13e66cea3d",
+        "crc32": "396779a2",
+        "sha1": "a70ce8270c0dc46e48d38f363323dd69d570f83d",
+        "private": "true"
+      },
+      {
+        "name": "duncanhinesbakei00publ_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "duncanhinesbakei00publ_orig_jp2.tar",
+        "mtime": "1344893365",
+        "size": "38909346",
+        "md5": "ada1713bceefba3c10cac623a42e01c8",
+        "crc32": "d99844ec",
+        "sha1": "cbd5aee8069f6f1a9cd3d2c801e3bb9d9a88f5c3",
+        "private": "true",
+        "filecount": "100"
+      },
+      {
+        "name": "duncanhinesbakei00publ_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "duncanhinesbakei00publ.epub",
+        "mtime": "1753254411",
+        "size": "21216864",
+        "md5": "e47580ae59cdc65fb359fe251251b48e",
+        "crc32": "ff9a23ed",
+        "sha1": "a5881c564fb54edbdc3677ec6f176599f72249f2"
+      },
+      {
+        "name": "duncanhinesbakei00publ_loans.json",
+        "source": "original",
+        "mtime": "1593498553",
+        "size": "7846",
+        "format": "JSON",
+        "private": "true",
+        "md5": "bf713c268d7fe84568a0312c3edc0391",
+        "crc32": "54de86ef",
+        "sha1": "996c25dc149615543548be8f4af0efb89e6c0264"
+      },
+      {
+        "name": "duncanhinesbakei00publ_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1505026439",
+        "size": "3247",
+        "md5": "372bc45e063b79592279878ac08935a2",
+        "crc32": "270cf4f8",
+        "sha1": "149021b4cd52ecfee75b3731e4b71575f6a96281"
+      },
+      {
+        "name": "duncanhinesbakei00publ_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "duncanhinesbakei00publ_xisbn.json",
+        "mtime": "1454267123",
+        "size": "245",
+        "md5": "7cb917974f78fe5ecbbcef5815ee2e24",
+        "crc32": "35e0813b",
+        "sha1": "db52a3863075bcb3e86e436637e02145ecc0df94",
+        "private": "true"
+      },
+      {
+        "name": "duncanhinesbakei00publ_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454267122",
+        "size": "910",
+        "md5": "0117b9e47a71baed1994e790a2b240d8",
+        "crc32": "220e421b",
+        "sha1": "5b072768fa3ee5ce25721e21626d599931b2f5bb"
+      },
+      {
+        "name": "duncanhinesbakei00publ_meta.sqlite",
+        "source": "original",
+        "mtime": "1464967093",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "47d77187f9f04d3191a0eafd5b49bd21",
+        "crc32": "4640a5f7",
+        "sha1": "cfa2dacc3268da3f517d6808e846792482a97631"
+      },
+      {
+        "name": "duncanhinesbakei00publ_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753254412",
+        "size": "3200",
+        "md5": "de1909836100199d98d4d0cf196f83c5",
+        "crc32": "7c023b4d",
+        "sha1": "656d4fbc15bdcdb5a6d855294a8f124ecc123d2f"
+      },
+      {
+        "name": "duncanhinesbakei00publ_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1333124212",
+        "size": "296",
+        "md5": "6f43f8fb1abeb01e45741cd317ab7410",
+        "crc32": "c8808ce1",
+        "sha1": "2e1fc345694407fa16e095ff2c67e4d60ecd8fde"
+      },
+      {
+        "name": "duncanhinesbakei00publ_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1343791097",
+        "size": "82421760",
+        "md5": "064812b85934f91f5c9230d4aa40da22",
+        "crc32": "7b52f19b",
+        "sha1": "6b992d85108c3f07c06f3903f364de1d1575292e",
+        "private": "true",
+        "filecount": "100"
+      },
+      {
+        "name": "duncanhinesbakei00publ_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "duncanhinesbakei00publ_hocr.html",
+        "mtime": "1720217296",
+        "size": "16374",
+        "md5": "856c34ad8c676b5eea859b4f95344961",
+        "crc32": "bc47ff45",
+        "sha1": "9a06f23820dfda6dd2d9b6e8905a4d11350ef9df",
+        "private": "true"
+      },
+      {
+        "name": "duncanhinesbakei00publ_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1667061653",
+        "size": "100072",
+        "md5": "cb23fd9f601888b48c86ba352fd74e6a",
+        "crc32": "932d4993",
+        "sha1": "aa01f081cb733c3ad46ec2358a7d7ad4330c326d"
+      },
+      {
+        "name": "duncanhinesbakei00publ_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "duncanhinesbakei00publ_djvu.xml",
+        "mtime": "1667061754",
+        "size": "4722",
+        "md5": "d175ab1d371b5a9632704c91ebc313fd",
+        "crc32": "0630bd6b",
+        "sha1": "d30e25d8d9a78c5bf8f813a53ce8acfb1af76c62",
+        "private": "true"
+      },
+      {
+        "name": "duncanhinesbakei00publ_xisbn.json",
+        "source": "original",
+        "mtime": "1454239479",
+        "size": "282",
+        "md5": "0a7dad0bd2e91170c217897d0f20ef9a",
+        "crc32": "760a25ba",
+        "sha1": "e9c13dc99e46f37daa672abedebf7e886802b046",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753254412,
+    "item_size": 194435960,
+    "metadata": {
+      "publisher": "Lincolnwood, IL : Publications International, Ltd",
+      "openlibrary": "OL21086500M",
+      "title": "Duncan Hines bake it easy",
+      "notes": "Includes index.",
+      "language": "eng",
+      "isbn": [
+        "0785328440",
+        "9780785328445"
+      ],
+      "date": "1998-01-01",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "subject": [
+        "Desserts",
+        "Baking",
+        "Cooking"
+      ],
+      "updatedate": "2012-03-30 16:16:46",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "F0113",
+      "identifier": "duncanhinesbakei00publ",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2012-03-30 16:16:54",
+      "publicdate": "2012-03-30 16:16:57",
+      "scanner": "scribe23.shenzhen.archive.org",
+      "boxid": "IA107014",
+      "repub_seconds": "936",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-cop@archive.org",
+      "scandate": "20120731113101",
+      "republisher": "scanner-shenzhen-lori@archive.org",
+      "imagecount": "98",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/duncanhinesbakei00publ",
+      "identifier-ark": "ark:/13960/t5m91ds7w",
+      "bookplateleaf": "0002",
+      "scanfee": "150",
+      "donor": "alibris",
+      "sponsordate": "not to be invoiced-past billing period",
+      "external-identifier": [
+        "urn:acs6:duncanhinesbakei00publ:pdf:467a58bc-37ee-4563-86b7-32d35426f818",
+        "urn:acs6:duncanhinesbakei00publ:epub:79bc79a0-86f6-470f-b7e6-ac1ef08a24c7",
+        "urn:oclc:record:1033573493",
+        "urn:lcp:duncanhinesbakei00publ:lcpdf:41ecaedc-2b35-4314-9854-d6b49ee60ff3",
+        "urn:lcp:duncanhinesbakei00publ:epub:6da559ee-8afc-442b-8549-3646307325e7"
+      ],
+      "description": "Includes index",
+      "city": "Lincolnwood, IL",
+      "oclc-id": "42846582",
+      "backup_location": "ia903801_1",
+      "republisher_operator": "scanner-shenzhen-lori@archive.org",
+      "republisher_date": "20120801030247",
+      "openlibrary_edition": "OL21086500M",
+      "openlibrary_work": "OL18144053W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "pdf_module_version": "0.0.20",
+      "filesxml": "Wed Apr 3 1:27:27 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800301.us.archive.org",
+    "uniq": 1031668774,
+    "workable_servers": [
+      "ia800301.us.archive.org",
+      "ia600301.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "publisher": "Publications International, Ltd",
+          "url": [
+            "http://www.worldcat.org/oclc/42846582?referer=xid"
+          ],
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "1998",
+          "isbn": [
+            "0785328440"
+          ],
+          "title": "Duncan Hines bake it easy.",
+          "oclcnum": [
+            "42846582"
+          ]
+        }
+      ]
+    }
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

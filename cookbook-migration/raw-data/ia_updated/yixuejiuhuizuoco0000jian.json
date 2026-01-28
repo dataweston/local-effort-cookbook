@@ -1,0 +1,511 @@
+{
+  "source": "internet_archive",
+  "identifier": "yixuejiuhuizuoco0000jian",
+  "title": "Yi xue jiu hui zuo cong you bing dan bing",
+  "creator": "Jiang, Lizhu",
+  "year": 2005,
+  "subject": [
+    "Pancakes, waffles, etc. -- China",
+    "Cooking, Chinese",
+    "Pancakes, waffles, etc",
+    "China"
+  ],
+  "description": [
+    "30 pages : 24 cm",
+    "\"15 dao mei wei bai fen bai de jian bing liao li mi jue da pu guang!\""
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/yixuejiuhuizuoco0000jian"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/yixuejiuhuizuoco0000jian"
+        }
+      ]
+    },
+    "created": 1758557275,
+    "d1": "ia601804.us.archive.org",
+    "d2": "ia801804.us.archive.org",
+    "dir": "/0/items/yixuejiuhuizuoco0000jian",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661341155",
+        "size": "18012",
+        "md5": "c6d9c6b52c386e0d1ee9234528f00185",
+        "crc32": "f0a8ff79",
+        "sha1": "3d4c5b885f3144d8cbb4ddd2adb4d23e25c98b39",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/yixuejiuhuizuoco0000jian_iabdash_2021-02-1606:23:09.log",
+        "source": "original",
+        "mtime": "1613427793",
+        "size": "666",
+        "md5": "6e7b6dc4290875dcd204b2468247ce2f",
+        "crc32": "6ffe9a48",
+        "sha1": "ef9890d28aa9a1afea8fc3c2857279456a435824",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/yixuejiuhuizuoco0000jian_scanning_2021-02-1606:23:18.log",
+        "source": "original",
+        "mtime": "1613427801",
+        "size": "291529",
+        "md5": "c3909efed90dbd233dc8ad25d153166e",
+        "crc32": "fd48aae3",
+        "sha1": "f34e96c0b46961f1dc8f0d904eb612aab5c16655",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/yixuejiuhuizuoco0000jian_status_history_2021-02-1606:23:15.log",
+        "source": "original",
+        "mtime": "1613427797",
+        "size": "409",
+        "md5": "288f9237b815ddf68fa8410c3d273b1d",
+        "crc32": "dafc132d",
+        "sha1": "6815260e829917079cd1b3cd94bcde7303d4860f",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "yixuejiuhuizuoco0000jian_hocr.html",
+        "mtime": "1754183295",
+        "size": "360094",
+        "private": "true",
+        "md5": "d01fb835ad394e0fddb62f50507007ad",
+        "crc32": "a9ff3365",
+        "sha1": "6b87908cc2a2add06535b7bee6c9a6ba360445f7"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "yixuejiuhuizuoco0000jian.pdf",
+        "mtime": "1754183055",
+        "size": "3676214",
+        "md5": "29e343692fd67ba485d56abc66d03f86",
+        "crc32": "5671aaf0",
+        "sha1": "69e7aa6b394a3698e31fcde1f248fc48a11cce7b"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "yixuejiuhuizuoco0000jian_page_numbers.json",
+        "mtime": "1728532541",
+        "size": "3456826",
+        "md5": "cc69ad8e30bb8becd6fedbec0849a488",
+        "crc32": "fe72eb8a",
+        "sha1": "e3612bbb13440b5ee67aa3fe32b8454aa22fc2a4",
+        "private": "true"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 4.1.1",
+        "ocr_parameters": "-l chi_sim",
+        "ocr_module_version": "0.0.11",
+        "ocr_detected_script": "Han",
+        "ocr_detected_script_conf": "0.8792",
+        "ocr_detected_lang": "zh",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "yixuejiuhuizuoco0000jian_jp2.zip",
+        "mtime": "1613711126",
+        "size": "359726",
+        "md5": "490813e7e493151307999075b6085fc9",
+        "crc32": "831a00d6",
+        "sha1": "481ac7f408cd5f1bb08322328c5b8ecd49c93d92",
+        "private": "true"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "yixuejiuhuizuoco0000jian_scandata.xml",
+        "mtime": "1671906758",
+        "size": "788",
+        "md5": "4d94e5c0f408672cb2627384ade3a09d",
+        "crc32": "fc41348a",
+        "sha1": "31198fe23a5a3dc4c9c22a5f189d9f5a7a81227e",
+        "private": "true"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1613637453",
+        "size": "950",
+        "md5": "740c06c55e291bb9957d1709a542a72a",
+        "crc32": "770ccaad",
+        "sha1": "4d30dabe5608bcaa0d20738188c4bdd3714f4ccc"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "yixuejiuhuizuoco0000jian_djvu.xml",
+        "mtime": "1613711200",
+        "size": "43979",
+        "md5": "b4d27f0c3f6fd894b1c5bd656d44bb65",
+        "crc32": "400b79c7",
+        "sha1": "760a144e25afbcda2e9b0ce8ee1bb560de17af1d",
+        "private": "true"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "yixuejiuhuizuoco0000jian_hocr.html",
+        "mtime": "1613711162",
+        "size": "798004",
+        "md5": "2b738709ea9102ec2a83b2cacedcd95a",
+        "crc32": "ecb8569c",
+        "sha1": "21c9010310ef2f22f84631d1e6bf723ba55d9a1a",
+        "private": "true"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "yixuejiuhuizuoco0000jian.pdf",
+        "mtime": "1728535194",
+        "size": "3439756",
+        "md5": "05bc05a270d36b0185e5755bd52f4485",
+        "crc32": "5a28b538",
+        "sha1": "aa32f1a997a069a7a6bd4f27e54134f154ebcf27"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_events.json",
+        "source": "original",
+        "mtime": "1613708578",
+        "size": "117",
+        "md5": "d4bc2350cb1b82717fd55551424a3608",
+        "crc32": "67a28d3b",
+        "sha1": "96be2e16e98e4df6e2333d34ee70a49216056fc5",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "cc8d37abb58cef5b80964ad39a959c95",
+        "summation": "md5"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.1",
+        "ocr_parameters": "-l chi_sim",
+        "ocr_module_version": "0.0.11",
+        "ocr_detected_script": "Han",
+        "ocr_detected_script_conf": "0.8792",
+        "ocr_detected_lang": "zh",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "yixuejiuhuizuoco0000jian_chocr.html.gz",
+        "mtime": "1613711150",
+        "size": "1560988",
+        "md5": "a16b9fe010400129e37fe37630bfaa35",
+        "crc32": "a9d27516",
+        "sha1": "0cfd5fdbf4f18ab69f3bc4e587aea74c48ad0276",
+        "private": "true"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "yixuejiuhuizuoco0000jian_hocr.html",
+        "mtime": "1613711171",
+        "size": "754",
+        "md5": "91fc0a0d866bbebf37cd5a39d89949af",
+        "crc32": "cdc53d9d",
+        "sha1": "96ed56f5fa62c18956280c8620a0135f54958c79",
+        "private": "true"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.0.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "1214",
+        "word_conf_11_20": "213",
+        "word_conf_21_30": "221",
+        "word_conf_31_40": "232",
+        "word_conf_41_50": "264",
+        "word_conf_51_60": "278",
+        "word_conf_61_70": "339",
+        "word_conf_71_80": "454",
+        "word_conf_81_90": "1088",
+        "word_conf_91_100": "5585",
+        "format": "OCR Search Text",
+        "original": "yixuejiuhuizuoco0000jian_hocr.html",
+        "mtime": "1613711185",
+        "size": "17729",
+        "md5": "a29cb2390dc4f313daecd0ff2370c68d",
+        "crc32": "767fbdc3",
+        "sha1": "0357b7afe4eecde738a3c444692e9d102b08022b",
+        "private": "true"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "yixuejiuhuizuoco0000jian_orig_jp2.tar",
+        "mtime": "1613710542",
+        "size": "18725718",
+        "md5": "5d65d2c69af1d666729efd508260f6ce",
+        "crc32": "172780ae",
+        "sha1": "b5d6cfc922615ac46936c72894e7350d68a6507e",
+        "private": "true",
+        "filecount": "70"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "yixuejiuhuizuoco0000jian.epub",
+        "mtime": "1754183693",
+        "size": "366074",
+        "md5": "74d5638b0d45105eca216bc89ba8321e",
+        "crc32": "fe051424",
+        "sha1": "30571546330853f75bcd557ff8d56e1654a200c1"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_marc.xml",
+        "source": "original",
+        "mtime": "1613427786",
+        "size": "6565",
+        "md5": "8a1897db81f66f3aa26ff5eb487d1d8b",
+        "crc32": "1eaf59b9",
+        "sha1": "b753e8ed68913f5c778998feb751e0b630815370",
+        "format": "MARC"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_meta.mrc",
+        "source": "original",
+        "mtime": "1613427777",
+        "size": "2030",
+        "md5": "6003f4208141e5859694202c1f1e63cd",
+        "crc32": "1fd9117e",
+        "sha1": "13569f301a9767b98e9836688f59da7b95c46b87",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_meta.sqlite",
+        "source": "original",
+        "mtime": "1613708624",
+        "size": "19456",
+        "md5": "84e292425f5cc282cf53994a8b83685b",
+        "crc32": "8d26d1cd",
+        "sha1": "4feb47538d64ebd33fc3abfdb6fd78e7494b6dfb",
+        "format": "Metadata"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_meta.xml",
+        "source": "original",
+        "mtime": "1754183693",
+        "size": "3554",
+        "md5": "1bc3f7277e9aa3cbae53d36cb9ec11aa",
+        "crc32": "3297db03",
+        "sha1": "6b04cafd95855355e2342e460e27d42b038555b8",
+        "format": "Metadata"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1613708623",
+        "size": "74106880",
+        "md5": "e54c0a4cf2a46f423ee003dfa324c380",
+        "crc32": "f9e254df",
+        "sha1": "03af9be71a1576831ef1eeace697a176e7e370ee",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "70"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "85",
+        "format": "Page Numbers JSON",
+        "original": "yixuejiuhuizuoco0000jian_hocr.html",
+        "mtime": "1728532526",
+        "size": "11563",
+        "md5": "d71be0ecc32266599511c1263536c3fc",
+        "crc32": "bf8ac557",
+        "sha1": "c81dce6dfde2c6d93a40da8aabeabb0ebf955b41",
+        "private": "true"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_scandata.xml",
+        "source": "original",
+        "mtime": "1671906758",
+        "size": "76697",
+        "md5": "ea09d98d58155d0c06b9d24b5180c51f",
+        "crc32": "cdfac32b",
+        "sha1": "a20bf3aa048ca991e70476cd136151809c4ec802",
+        "format": "Scandata"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_slip.png",
+        "source": "original",
+        "mtime": "1613427060",
+        "size": "40110",
+        "md5": "eae94531e0c481b49b74e7ed727a19df",
+        "crc32": "d63fd35e",
+        "sha1": "65fb791d92bef80b844d40f95d5cd15d6f211e97",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "yixuejiuhuizuoco0000jian_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "yixuejiuhuizuoco0000jian_slip.png",
+        "mtime": "1613708665",
+        "size": "5730",
+        "md5": "38b16f07b5a1712c6b84acab8d630c1c",
+        "crc32": "9094b9ce",
+        "sha1": "9a83430b466f255b8089eb983f3699b25e647c9b",
+        "private": "true"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1754183693,
+    "item_size": 107390918,
+    "metadata": {
+      "identifier": "yixuejiuhuizuoco0000jian",
+      "boxid": "IA40062311",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Jiang, Lizhu",
+      "creator-alt-script": "江丽珠",
+      "date": "2005-01-01",
+      "description": [
+        "30 pages : 24 cm",
+        "\"15 dao mei wei bai fen bai de jian bing liao li mi jue da pu guang!\""
+      ],
+      "isbn": [
+        "7810369490",
+        "9787810369497"
+      ],
+      "language": "chi",
+      "mediatype": "texts",
+      "old_pallet": "IA-NS-0000412",
+      "openlibrary_edition": "OL23087916M",
+      "openlibrary_work": "OL12791834W",
+      "operator": "associate-gina-lanoy@archive.org",
+      "publisher": "Guangdong Sheng Shantou Shi : Shantou da xue chu ban she",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station17.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9787810369497",
+      "subject": [
+        "Pancakes, waffles, etc. -- China",
+        "Cooking, Chinese",
+        "Pancakes, waffles, etc",
+        "China"
+      ],
+      "title": "Yi xue jiu hui zuo cong you bing dan bing",
+      "title-alt-script": "一学就会做葱油饼蛋饼",
+      "tts_version": "4.3-initial-118-g32926113",
+      "uploader": "station17.cebu@archive.org",
+      "publicdate": "2021-02-15 22:11:41",
+      "access-restricted-item": "true",
+      "imagecount": "70",
+      "scandate": "20210215233859",
+      "ppi": "360",
+      "republisher_operator": "associate-liezelann-postanes@archive.org;associate-ritzell-pardillo@archive.org",
+      "republisher_date": "20210219122212",
+      "republisher_time": "560",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/yixuejiuhuizuoco0000jian",
+      "identifier-ark": "ark:/13960/t6h236j2j",
+      "page_number_confidence": "85",
+      "external-identifier": [
+        "urn:acs6:yixuejiuhuizuoco0000jian:pdf:702646b3-c883-40b8-ace8-6b7101cf1464",
+        "urn:oclc:record:1245995193",
+        "urn:lcp:yixuejiuhuizuoco0000jian:lcpdf:d20cd37a-ef9e-4281-bf6e-0640aabf940d",
+        "urn:lcp:yixuejiuhuizuoco0000jian:epub:481ab901-7511-4aa7-9fff-f79a022c1150"
+      ],
+      "addeddate": "2021-02-18 10:01:16",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "curation": "[curator]associate-jye-afamasaga@archive.org[/curator][date]20210219164938[/date][state]approved[/state][comment]Fixed by Innodata[/comment]",
+      "ocr": "tesseract 4.1.1",
+      "ocr_parameters": "-l chi_sim",
+      "ocr_module_version": "0.0.11",
+      "ocr_detected_script": "Han",
+      "ocr_detected_script_conf": "0.8792",
+      "ocr_detected_lang": "zh",
+      "ocr_detected_lang_conf": "1.0000",
+      "pdf_module_version": "0.0.7",
+      "sponsordate": "20210228",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601804.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40121010"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-08-08 22:15:20.51263"
+        }
+      }
+    },
+    "uniq": 44315994,
+    "workable_servers": [
+      "ia601804.us.archive.org",
+      "ia801804.us.archive.org"
+    ]
+  },
+  "institution": "Jiang, Lizhu",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

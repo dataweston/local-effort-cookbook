@@ -1,0 +1,488 @@
+{
+  "source": "internet_archive",
+  "identifier": "classichomecooki0000publ",
+  "title": "Classic home cooking appetizers",
+  "creator": "Publications International, Ltd",
+  "year": 2002,
+  "subject": "Appetizers",
+  "description": [
+    "Includes index",
+    "62 pages : 21 cm"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/classichomecooki0000publ"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/classichomecooki0000publ"
+        }
+      ]
+    },
+    "created": 1758556894,
+    "d1": "ia902800.us.archive.org",
+    "d2": "ia802800.us.archive.org",
+    "dir": "/5/items/classichomecooki0000publ",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659751735",
+        "size": "19656",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "a398a9df68059509c068cc4b93c4807e",
+        "crc32": "e7ed7107",
+        "sha1": "e3db4057921daa24ce8181e4091373ce688a715a"
+      },
+      {
+        "name": "classichomecooki0000publ.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "classichomecooki0000publ_hocr.html",
+        "mtime": "1753156304",
+        "size": "90282664",
+        "private": "true",
+        "md5": "a33a6cf88922e0b340ce4661e26f2a70",
+        "crc32": "18619161",
+        "sha1": "afbc0897e7c07bd6daad21e544e298753636b135"
+      },
+      {
+        "name": "classichomecooki0000publ.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "classichomecooki0000publ.pdf",
+        "mtime": "1753156068",
+        "size": "24155384",
+        "md5": "3775e81e6b304dd189e1d233c013e211",
+        "crc32": "6b832944",
+        "sha1": "d31ac0b5d43181e1416ae87a685f04e37869d7b3"
+      },
+      {
+        "name": "classichomecooki0000publ.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "classichomecooki0000publ_page_numbers.json",
+        "mtime": "1718699659",
+        "size": "23420015",
+        "md5": "de6e503f32ee65173c0adbcc05037223",
+        "crc32": "e8c938b9",
+        "sha1": "691a1296b462bdee7230c3a99a6331d162a2b32c",
+        "private": "true"
+      },
+      {
+        "name": "classichomecooki0000publ_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "classichomecooki0000publ_jp2.zip",
+        "mtime": "1524186874",
+        "size": "787974",
+        "md5": "395f2f3deb428f363f06fda1a5c8140a",
+        "crc32": "a4ab07f4",
+        "sha1": "85e624bacc16d60384ea08528f25af92dd53d0dc",
+        "private": "true"
+      },
+      {
+        "name": "classichomecooki0000publ_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "classichomecooki0000publ_abbyy.gz",
+        "mtime": "1659751147",
+        "size": "644197",
+        "md5": "e16e8206d317f218c14859eac19722dc",
+        "crc32": "65dc36d9",
+        "sha1": "e165fd0719134777669e2ba17381cfd3a5cad067",
+        "private": "true"
+      },
+      {
+        "name": "classichomecooki0000publ_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "classichomecooki0000publ_scandata.xml",
+        "mtime": "1669594902",
+        "size": "785",
+        "md5": "657b828b2ea6c0c32db1ce355089ccd9",
+        "crc32": "d6caca38",
+        "sha1": "d59e8932a3e5ed6044afeee926aeb1914c038653",
+        "private": "true"
+      },
+      {
+        "name": "classichomecooki0000publ_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1528180493",
+        "size": "1033",
+        "md5": "f3513b5283f80d579c3a849fec8cac62",
+        "crc32": "11c0306c",
+        "sha1": "d378e4d1dcfb21d7832a8712bdc9ce8bc96e4754"
+      },
+      {
+        "name": "classichomecooki0000publ_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "classichomecooki0000publ_djvu.xml",
+        "mtime": "1659751730",
+        "size": "56624",
+        "md5": "b6480ed2101261db1fcc80019761b552",
+        "crc32": "3bde7cfa",
+        "sha1": "ade51aaef3b9713793e3867f64061c4db6c0b39b",
+        "private": "true"
+      },
+      {
+        "name": "classichomecooki0000publ_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "classichomecooki0000publ_hocr.html",
+        "mtime": "1659751504",
+        "size": "733356",
+        "md5": "316307983061cbda6769a513b68628c9",
+        "crc32": "cd00f6fe",
+        "sha1": "b71fcf299b5c4ce7969c4657e5debe7c311a24e8",
+        "private": "true"
+      },
+      {
+        "name": "classichomecooki0000publ_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "classichomecooki0000publ_abbyy.gz",
+        "mtime": "1528180539",
+        "size": "6504376",
+        "md5": "51652356d923f162d154c3f49f2a5219",
+        "crc32": "c778fd55",
+        "sha1": "a9704159fd324a9aa31eee95a1e68ba942fd298c"
+      },
+      {
+        "name": "classichomecooki0000publ_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "classichomecooki0000publ.pdf",
+        "mtime": "1718699854",
+        "size": "23380289",
+        "md5": "345f8e9b81a7b33634327a1fb49342c0",
+        "crc32": "20eb4679",
+        "sha1": "025ea27490c048336f99de20df979ce836eb5b85"
+      },
+      {
+        "name": "classichomecooki0000publ_events.json",
+        "source": "original",
+        "mtime": "1524185184",
+        "size": "51",
+        "md5": "630efd54d107d7df25037efe2cf78f13",
+        "crc32": "119e9224",
+        "sha1": "83e64791f164fbb7eaed41f88f2c4e8ab5a9d87b",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "classichomecooki0000publ_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "97db4eb6104896f33be06f288fc7ff07",
+        "summation": "md5"
+      },
+      {
+        "name": "classichomecooki0000publ_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "classichomecooki0000publ_chocr.html.gz",
+        "mtime": "1659751484",
+        "size": "1643936",
+        "md5": "ffff7926ef260f3cb294effedf602c73",
+        "crc32": "7d779f1a",
+        "sha1": "9ab9f99f52b2c95a380876e736c734dd33fe9469",
+        "private": "true"
+      },
+      {
+        "name": "classichomecooki0000publ_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "classichomecooki0000publ_hocr.html",
+        "mtime": "1659751586",
+        "size": "682",
+        "md5": "881bd6293f36438b462de6e26d45fb9d",
+        "crc32": "947017cb",
+        "sha1": "74e6711addf492b052b3c63e6781d870eb8e59e5",
+        "private": "true"
+      },
+      {
+        "name": "classichomecooki0000publ_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "115",
+        "word_conf_11_20": "32",
+        "word_conf_21_30": "61",
+        "word_conf_31_40": "45",
+        "word_conf_41_50": "56",
+        "word_conf_51_60": "193",
+        "word_conf_61_70": "209",
+        "word_conf_71_80": "479",
+        "word_conf_81_90": "1634",
+        "word_conf_91_100": "5430",
+        "format": "OCR Search Text",
+        "original": "classichomecooki0000publ_hocr.html",
+        "mtime": "1659751708",
+        "size": "17562",
+        "md5": "e2ff227f3a734c19a8d7e2f58e0a5711",
+        "crc32": "acdf43b2",
+        "sha1": "3380f798fc54589e5c5e1d71a87fe41606916cf9",
+        "private": "true"
+      },
+      {
+        "name": "classichomecooki0000publ_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "classichomecooki0000publ_orig_jp2.tar",
+        "mtime": "1524185935",
+        "size": "122848626",
+        "md5": "c5a84c5d6f50ffa5bdce67c906a3f037",
+        "crc32": "5c183dad",
+        "sha1": "3d9744f5e360a0dc2e51b21fe6e9a4fa94fb06ea",
+        "private": "true",
+        "filecount": "66"
+      },
+      {
+        "name": "classichomecooki0000publ_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "classichomecooki0000publ.epub",
+        "mtime": "1753156584",
+        "size": "90288286",
+        "md5": "a4689dcf33fae0673ac7728a403173f4",
+        "crc32": "147e5a37",
+        "sha1": "601138d9c7b45bd17bbe5f9908bf81659b369399"
+      },
+      {
+        "name": "classichomecooki0000publ_loans.json",
+        "source": "original",
+        "mtime": "1592896227",
+        "size": "2616",
+        "format": "JSON",
+        "private": "true",
+        "md5": "98a90d1ee30676fde59babd83722dfb5",
+        "crc32": "c98adcd6",
+        "sha1": "5f0529a3150725a981c6c2176288166e4ed01b4c"
+      },
+      {
+        "name": "classichomecooki0000publ_marc.xml",
+        "source": "original",
+        "mtime": "1528180493",
+        "size": "3834",
+        "format": "MARC",
+        "md5": "6fd7dafb6092dd85ff4a78762968afc1",
+        "crc32": "0e4bdba6",
+        "sha1": "ff828cbafa5b86d6fc8b343ffd5b616d1ec2e9c3"
+      },
+      {
+        "name": "classichomecooki0000publ_meta.mrc",
+        "source": "original",
+        "mtime": "1523168304",
+        "size": "1065",
+        "md5": "34959b4c0f04936c104f124e055e63d2",
+        "crc32": "0fb64730",
+        "sha1": "2695dc0ec8aa1619830a330d268b2366be006017",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "classichomecooki0000publ_meta.sqlite",
+        "source": "original",
+        "mtime": "1524185218",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "5c6c4fc6f30d893034db9913c242d6a1",
+        "crc32": "f4080dce",
+        "sha1": "b772981e73ead6621b29212b64f65255d67088c1"
+      },
+      {
+        "name": "classichomecooki0000publ_meta.xml",
+        "source": "original",
+        "mtime": "1753156584",
+        "size": "2972",
+        "format": "Metadata",
+        "md5": "6d91b9b300bdb2e8befca204ff34bca6",
+        "crc32": "8490783d",
+        "sha1": "b8ad7749c2eb85906ad63465670faa02a96a98f0"
+      },
+      {
+        "name": "classichomecooki0000publ_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1524185218",
+        "size": "266526720",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "7dd7e7665a5c76872f6ebd4637325ff7",
+        "crc32": "6fe4e34f",
+        "sha1": "13975ec870ede4beb0debf703444b98972908d85",
+        "filecount": "66"
+      },
+      {
+        "name": "classichomecooki0000publ_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "classichomecooki0000publ_hocr.html",
+        "mtime": "1718699654",
+        "size": "10968",
+        "md5": "65262c92ad2294c143772497d9c44015",
+        "crc32": "9b9f7e22",
+        "sha1": "f82038455538bcabd31b75406267a8aa5fb8daf3",
+        "private": "true"
+      },
+      {
+        "name": "classichomecooki0000publ_scandata.xml",
+        "source": "original",
+        "mtime": "1669594902",
+        "size": "67522",
+        "format": "Scandata",
+        "md5": "92301a02dd6ae30cf1b68a29cfe4fbd9",
+        "crc32": "a73fc6b5",
+        "sha1": "5696424497939d5811ad9a29266d2cf5160b9149"
+      },
+      {
+        "name": "logs/classichomecooki0000publ_iabdash_2018-04-08141917.log",
+        "source": "original",
+        "mtime": "1523168296",
+        "size": "357",
+        "md5": "ba24d9f30fc4a7104842772476788449",
+        "crc32": "d4228539",
+        "sha1": "b85160c5d455c6031fdd38f1cf372f1992383af1",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/classichomecooki0000publ_scanning_2018-04-08141913.log",
+        "source": "original",
+        "mtime": "1523168292",
+        "size": "137752",
+        "md5": "9e1280b1bfb1032ea667e7a9fd49a62a",
+        "crc32": "1d137871",
+        "sha1": "e5e5ee21ea9812a7f043291c891a3d398c1b10f7",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1753156584,
+    "item_size": 651555686,
+    "metadata": {
+      "identifier": "classichomecooki0000publ",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Publications International, Ltd",
+      "date": "2002-01-01",
+      "isbn": [
+        "0785378030",
+        "9780785378037"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-tszying-cheng@archive.org",
+      "ppi": "300",
+      "printer": "DYMO_LabelWriter_450_Turbo",
+      "publisher": "Lincolnwood, IL : Publications International",
+      "repub_state": "22",
+      "scanner": "ttscribe1.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "Classic home cooking appetizers",
+      "tts_version": "v1.58-final-5-g8c4c1bd",
+      "publicdate": "2018-04-08 06:17:58",
+      "uploader": "ttscribe1.hongkong@archive.org",
+      "addeddate": "2018-04-08 06:17:58",
+      "imagecount": "66",
+      "scandate": "20180408064343",
+      "lccn": "2004556303",
+      "description": [
+        "Includes index",
+        "62 pages : 21 cm"
+      ],
+      "republisher_operator": "republisher8.yunnan@archive.org",
+      "republisher_date": "20180420084614",
+      "republisher_time": "774",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/classichomecooki0000publ",
+      "identifier-ark": "ark:/13960/t7gr3m05n",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:classichomecooki0000publ:pdf:0be5ceca-49b8-4fd4-ac7f-a66e1ff8ca99",
+        "urn:acs6:classichomecooki0000publ:epub:dc0358f8-912e-4818-a2b9-3e768b18f4bd",
+        "urn:oclc:record:1040019732",
+        "urn:lcp:classichomecooki0000publ:lcpdf:b6d226d9-dcf9-4188-b8a3-51d318ef2b04",
+        "urn:lcp:classichomecooki0000publ:epub:263e14f2-f3ec-41a9-847d-26cdfde07ec9"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "openlibrary_edition": "OL11035475M",
+      "openlibrary_work": "OL17859572W",
+      "boxid": "IA1187907",
+      "sponsordate": "20180430",
+      "subject": "Appetizers",
+      "associated-names": "Publications International, Ltd",
+      "backup_location": "ia906702_26",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "0",
+      "filesxml": "Tue Apr 2 23:33:21 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia902800.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40086302"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-08-01 22:06:04.465962"
+        }
+      }
+    },
+    "uniq": 2118476129,
+    "workable_servers": [
+      "ia902800.us.archive.org",
+      "ia802800.us.archive.org"
+    ]
+  },
+  "institution": "Publications International, Ltd",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Home Cook"
+    ]
+  },
+  "curation_notes": "Community markers: Home Cook; Digitized scan available"
+}

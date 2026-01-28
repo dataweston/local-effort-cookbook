@@ -1,0 +1,97 @@
+{
+  "source": "dpla",
+  "id": "cbced3595d72af040397f50c1d3a25f9",
+  "identifier": "cbced3595d72af040397f50c1d3a25f9",
+  "title": "Cook book",
+  "subject": [
+    "Community cookbooks",
+    "Cooking",
+    "Cooking, American"
+  ],
+  "spatial": [
+    "Michigan",
+    "Grosse Pointe"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5tb11w7n",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1916,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/cbced3595d72af040397f50c1d3a25f9#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "creator": [
+        "Order of the Eastern Star. Grosse Pointe Chapter No. 432"
+      ],
+      "date": [
+        {
+          "displayDate": "1916/"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Grosse Pointe"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Community cookbooks"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Cooking, American"
+        }
+      ],
+      "title": [
+        "Cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1916-01-01",
+      "normalized_dates": [
+        "1916-01-01"
+      ]
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5tb11w7n/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5tb11w7n"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

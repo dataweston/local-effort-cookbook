@@ -1,0 +1,506 @@
+{
+  "source": "internet_archive",
+  "identifier": "steaksribschopsa0000unse",
+  "title": "Steaks, ribs, chops and all the fixin's that make 'em great",
+  "creator": null,
+  "year": 1998,
+  "subject": [
+    "Cooking (Meat)",
+    "Barbecuing"
+  ],
+  "description": [
+    "120 p. : 25 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/steaksribschopsa0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/steaksribschopsa0000unse"
+        }
+      ]
+    },
+    "created": 1758556457,
+    "d1": "ia903106.us.archive.org",
+    "d2": "ia803106.us.archive.org",
+    "dir": "/2/items/steaksribschopsa0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661126583",
+        "size": "17762",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "18dcf456c2aea5a3c711d3186e946f5a",
+        "crc32": "cb5b321d",
+        "sha1": "714875360676dd5c0f30c2f9bdc9726918e3a2e6"
+      },
+      {
+        "name": "logs/steaksribschopsa0000unse_iabdash_2019-11-1416:57:05.log",
+        "source": "original",
+        "mtime": "1573721828",
+        "size": "1369",
+        "md5": "38fe7af124fb70681122c90f8ea1191d",
+        "crc32": "1c1953cf",
+        "sha1": "0f92011324984e93b48adade0d648c67dec9fa56",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/steaksribschopsa0000unse_scanning_2019-11-1416:57:09.log",
+        "source": "original",
+        "mtime": "1573721833",
+        "size": "311243",
+        "md5": "500691eae871f13353338022658efa4e",
+        "crc32": "479446b9",
+        "sha1": "015e83b3f33917932ac186cb926a3c24bda1bdf1",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "steaksribschopsa0000unse_hocr.html",
+        "mtime": "1754080420",
+        "size": "104180051",
+        "private": "true",
+        "md5": "cbdb33ccb0781806a2113c27bccf61b3",
+        "crc32": "7c9e231f",
+        "sha1": "7e91d5a03db5b0fb5a6a0c7377d02e6fb8a3ab97"
+      },
+      {
+        "name": "steaksribschopsa0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "steaksribschopsa0000unse.pdf",
+        "mtime": "1754080193",
+        "size": "15492745",
+        "md5": "6e76dc2641e7b7e65733ddc56894a9dc",
+        "crc32": "62083132",
+        "sha1": "0efa0d9b3508e451ddafaa585a529c6a9db35ae1"
+      },
+      {
+        "name": "steaksribschopsa0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "steaksribschopsa0000unse_page_numbers.json",
+        "mtime": "1724524161",
+        "size": "15130651",
+        "md5": "f590677e0b4b3a4f53c8536d847c2f68",
+        "crc32": "bf37f706",
+        "sha1": "6d0dc48a002bd2b709173b1e41683023d0e4b651",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "steaksribschopsa0000unse_jp2.zip",
+        "mtime": "1573896757",
+        "size": "2822457",
+        "md5": "34387e10cbf00cdaa34a0e1bba7acaa1",
+        "crc32": "f9b07ecb",
+        "sha1": "14abd1e010b793a5cfddb46c55e6a9e4be484cd1",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "steaksribschopsa0000unse_abbyy.gz",
+        "mtime": "1661123036",
+        "size": "2250454",
+        "md5": "c52684482d9fc3465553252a34874f4d",
+        "crc32": "de997a6b",
+        "sha1": "adf1c231100e753971ab6c27b385fa770ec59ece",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "steaksribschopsa0000unse_scandata.xml",
+        "mtime": "1671351229",
+        "size": "789",
+        "md5": "f31bc47f60983d410bc52e98a70027b9",
+        "crc32": "1094c753",
+        "sha1": "053dcd30e91c9c44fc1c84a56dc0cc004b91ae32",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1573892273",
+        "size": "1162",
+        "md5": "4d2151842011ca8bb3ec13c05016d5df",
+        "crc32": "71b9a085",
+        "sha1": "5861e397bfb832c141d5e53de76039beba512359"
+      },
+      {
+        "name": "steaksribschopsa0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "steaksribschopsa0000unse_djvu.xml",
+        "mtime": "1661126576",
+        "size": "195241",
+        "md5": "89ca5840a5c607cd0a1dd47ddb7c74c8",
+        "crc32": "04069e44",
+        "sha1": "743f7419df685e3035f5dbafc9a01410f39bf1ee",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "steaksribschopsa0000unse_hocr.html",
+        "mtime": "1661126551",
+        "size": "2338925",
+        "md5": "55161cc97ac458f235760cb22002f081",
+        "crc32": "aa6c8856",
+        "sha1": "8f81c1192d470ead17c81e14a3825cbd6927adb5",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "steaksribschopsa0000unse_abbyy.gz",
+        "mtime": "1573898087",
+        "size": "10531207",
+        "md5": "7cb8e9cf99d58fbc527ff5bcdc93c3dd",
+        "crc32": "25d4fbbe",
+        "sha1": "f03c68c095f13e024ae319ba6b139cab3994ca02"
+      },
+      {
+        "name": "steaksribschopsa0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "steaksribschopsa0000unse.pdf",
+        "mtime": "1724524580",
+        "size": "15053753",
+        "md5": "94dd8e79a8b9b27760a1e53948a3a28f",
+        "crc32": "993bf2e2",
+        "sha1": "8705a43c9025a1c16c47a11c22778bdfa4f165ed"
+      },
+      {
+        "name": "steaksribschopsa0000unse_events.json",
+        "source": "original",
+        "mtime": "1573892100",
+        "size": "54",
+        "md5": "809154c0309569ea4a322a8ac8f73f16",
+        "crc32": "344fab30",
+        "sha1": "feb242e7c256608c7fb1857b5beeca72c06f8913",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "53fb72245d32f82f2fe62253c819dc59",
+        "summation": "md5"
+      },
+      {
+        "name": "steaksribschopsa0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "steaksribschopsa0000unse_chocr.html.gz",
+        "mtime": "1661126535",
+        "size": "5079513",
+        "md5": "9d0c3ff73b1c467c9d06e17e13e85d70",
+        "crc32": "a07d40f2",
+        "sha1": "4aa1c1ba8b2ad8f5ccbbb5f12fa711eb6943dfed",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "steaksribschopsa0000unse_hocr.html",
+        "mtime": "1661126557",
+        "size": "1420",
+        "md5": "10bf8549e79067030c5fb65e322f406c",
+        "crc32": "4d8ce187",
+        "sha1": "624971e50b3c161c444c4794c5423c4b7cba17a7",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "275",
+        "word_conf_11_20": "224",
+        "word_conf_21_30": "241",
+        "word_conf_31_40": "393",
+        "word_conf_41_50": "510",
+        "word_conf_51_60": "627",
+        "word_conf_61_70": "1372",
+        "word_conf_71_80": "3865",
+        "word_conf_81_90": "8482",
+        "word_conf_91_100": "12142",
+        "format": "OCR Search Text",
+        "original": "steaksribschopsa0000unse_hocr.html",
+        "mtime": "1661126569",
+        "size": "50481",
+        "md5": "a3a549a41b00d2a3114f1302876dd4e0",
+        "crc32": "e1c0c797",
+        "sha1": "f12518657d92349090152368965a373ff04cee2f",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "steaksribschopsa0000unse_orig_jp2.tar",
+        "mtime": "1573895533",
+        "size": "134126606",
+        "md5": "d6ea99fc96c2501a543f864c1062bfac",
+        "crc32": "5a4a7af3",
+        "sha1": "947a50eca1e705ced6ce5a1d749d0e0cf0c901f8",
+        "private": "true",
+        "filecount": "126"
+      },
+      {
+        "name": "steaksribschopsa0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "steaksribschopsa0000unse.epub",
+        "mtime": "1754080629",
+        "size": "105169550",
+        "md5": "e5f74934b8168859116f324443ecc466",
+        "crc32": "349ef3ad",
+        "sha1": "0b8c029f7849b0adae876d37ac905aace4fdad05"
+      },
+      {
+        "name": "steaksribschopsa0000unse_loans.json",
+        "source": "original",
+        "mtime": "1594494810",
+        "size": "1771",
+        "format": "JSON",
+        "private": "true",
+        "md5": "ff327a9b58dc705f20c1058d99977558",
+        "crc32": "9f59633e",
+        "sha1": "81021f1b14feaae5c6b122e0b8fb0526a6d3e85b"
+      },
+      {
+        "name": "steaksribschopsa0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1573892273",
+        "size": "3052",
+        "format": "MARC",
+        "md5": "51ad3073bb47fbcc6eb31657a40ba09a",
+        "crc32": "5a8d7c0d",
+        "sha1": "7578cd4d7fc9118b1944bc9cd5869e262b9c2212"
+      },
+      {
+        "name": "steaksribschopsa0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1573721825",
+        "size": "1002",
+        "md5": "bac50f04a288243e0fb5311fa554ac22",
+        "crc32": "1092ab40",
+        "sha1": "b67bcc53474ceb2608caae79b25ccf46d447c771",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "steaksribschopsa0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1573892194",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "c04e87a10c441c17a8537ec2dafdab72",
+        "crc32": "d77382cc",
+        "sha1": "d0705c9b27e3b1683ed89dd4c90274056e0b897f"
+      },
+      {
+        "name": "steaksribschopsa0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1754080630",
+        "size": "2989",
+        "format": "Metadata",
+        "md5": "a373b0d06ce0a27458f1f6805c723e7d",
+        "crc32": "864c184e",
+        "sha1": "6fd8cee6f3ebc427771a90fd68bd36b5a1ea1355"
+      },
+      {
+        "name": "steaksribschopsa0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1573892193",
+        "size": "240250880",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "b123b5344a5c7ce33e1bcfd25abb6f52",
+        "crc32": "b7945bb6",
+        "sha1": "48b735e38e8a09f40a9489f48da563c0b36cf7a7",
+        "filecount": "126"
+      },
+      {
+        "name": "steaksribschopsa0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "57",
+        "format": "Page Numbers JSON",
+        "original": "steaksribschopsa0000unse_hocr.html",
+        "mtime": "1724524161",
+        "size": "21291",
+        "md5": "0e24ad94a8993d7b640ae6e99e9c26b4",
+        "crc32": "ca94f5e3",
+        "sha1": "57356ba4c3c28b89a581ed23d89fc96f76aef803",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671351229",
+        "size": "129163",
+        "format": "Scandata",
+        "md5": "a157b17d4be1c8215df2c927e00139ab",
+        "crc32": "9f4303a9",
+        "sha1": "2bab5e59af0c3987d0534662a9d3c3fe9b7e3eff"
+      },
+      {
+        "name": "steaksribschopsa0000unse_slip.png",
+        "source": "original",
+        "mtime": "1573720177",
+        "size": "41838",
+        "md5": "f612f84d32eebee9f1ca06243f170607",
+        "crc32": "bed1722e",
+        "sha1": "a2f448dc57e106fe3e0f48c9b3adedc89d393423",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "steaksribschopsa0000unse_slip.png",
+        "mtime": "1573892277",
+        "size": "5683",
+        "md5": "7f91f3fd9b662cd517f1aaa7a24c0465",
+        "crc32": "bd68fcad",
+        "sha1": "12fc238f95b8886653dac5919e4620b353b1adc9",
+        "private": "true"
+      },
+      {
+        "name": "steaksribschopsa0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "steaksribschopsa0000unse_djvu.xml",
+        "mtime": "1671351133",
+        "size": "843",
+        "md5": "8a5610587251d6a9c9253adeefbb34ab",
+        "crc32": "994e3d14",
+        "sha1": "06ffd6cafe7e38cd811c4f1a9c0448866de6d7a5",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1754080630,
+    "item_size": 653232377,
+    "metadata": {
+      "identifier": "steaksribschopsa0000unse",
+      "associated-names": "Thomas, Kristi M; Better Homes and Gardens Books (Firm)",
+      "boxid": "IA1696406",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "1998-01-01",
+      "description": [
+        "120 p. : 25 cm",
+        "Includes index"
+      ],
+      "isbn": "0696208288",
+      "language": "eng",
+      "lccn": "97075853",
+      "mediatype": "texts",
+      "old_pallet": "IA15382",
+      "openlibrary_edition": "OL7760668M",
+      "openlibrary_work": "OL8243241W",
+      "operator": "associate-louisdavid-randoy@archive.org",
+      "ppi": "300",
+      "publisher": "Des Moines, Iowa : Better Homes and Gardens Books",
+      "repub_state": "19",
+      "scanner": "station41.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780696208287",
+      "subject": [
+        "Cooking (Meat)",
+        "Barbecuing"
+      ],
+      "title": "Steaks, ribs, chops and all the fixin's that make 'em great",
+      "tts_version": "3.0-initial-170-gdf78d52",
+      "uploader": "station41.cebu@archive.org",
+      "addeddate": "2019-11-14 08:29:38",
+      "publicdate": "2019-11-14 08:29:58",
+      "access-restricted-item": "true",
+      "imagecount": "126",
+      "scandate": "20191114100640",
+      "republisher_operator": "associate-cecelia-atil@archive.org",
+      "republisher_date": "20191116161455",
+      "republisher_time": "401",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/steaksribschopsa0000unse",
+      "identifier-ark": "ark:/13960/t9h49sh2x",
+      "external-identifier": [
+        "urn:acs6:steaksribschopsa0000unse:epub:4ff2e9dd-5f95-4960-aa85-24baea29ef67",
+        "urn:acs6:steaksribschopsa0000unse:pdf:bf5ebff4-0901-4935-9884-d6c1a9dedd44",
+        "urn:oclc:record:1151340761",
+        "urn:lcp:steaksribschopsa0000unse:lcpdf:8da2d6c0-d4b4-49e2-badb-dab8e0afe511",
+        "urn:lcp:steaksribschopsa0000unse:epub:600a461b-a641-4e43-bd24-4dcc211a6c38"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191130",
+      "backup_location": "ia907006_12",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "57",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia903106.us.archive.org",
+    "uniq": 231505062,
+    "workable_servers": [
+      "ia903106.us.archive.org",
+      "ia803106.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

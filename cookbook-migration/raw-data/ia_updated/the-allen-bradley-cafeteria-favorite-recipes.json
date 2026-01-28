@@ -1,0 +1,296 @@
+{
+  "source": "internet_archive",
+  "identifier": "the-allen-bradley-cafeteria-favorite-recipes",
+  "title": "The Allen Bradley Cafeteria Favorite Recipes",
+  "creator": "Allen-Bradley",
+  "year": 1992,
+  "subject": [
+    "a-b",
+    "allen-bradley",
+    "cafeteria recipies",
+    "cookbook"
+  ],
+  "description": "The Allen Bradley Cafeteria Favorite Recipes is a cookbook that commemorates the 1992 renovation of the A-B cafeteria originally built in 1956 in their Milwaukee, Wisconsin headquarters.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721904.ca.archive.org",
+          "dir": "/0/items/the-allen-bradley-cafeteria-favorite-recipes"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721904.ca.archive.org",
+          "dir": "/0/items/the-allen-bradley-cafeteria-favorite-recipes"
+        }
+      ]
+    },
+    "created": 1758557254,
+    "d1": "ia601201.us.archive.org",
+    "d2": "ia801201.us.archive.org",
+    "dir": "/21/items/the-allen-bradley-cafeteria-favorite-recipes",
+    "files": [
+      {
+        "name": "The Allen-Bradley Cafeteria Favorite Recipes.pdf",
+        "source": "original",
+        "mtime": "1699908602",
+        "size": "5512161",
+        "md5": "ee98a88997f66823ed3b26feb7eea07b",
+        "crc32": "5cf33b61",
+        "sha1": "b854afc5f0c7fb598996ed4f27f1ac998a3090cf",
+        "format": "Image Container PDF",
+        "viruscheck": "1699908949"
+      },
+      {
+        "name": "The Allen-Bradley Cafeteria Favorite Recipes_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9199",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "The Allen-Bradley Cafeteria Favorite Recipes_jp2.zip",
+        "mtime": "1699909152",
+        "size": "490883",
+        "md5": "eca8ea60ef1452cb93bd59ba1c1f4b9d",
+        "crc32": "f3abb751",
+        "sha1": "10240f2d0070e8ddd6786c4befee5423438e4819"
+      },
+      {
+        "name": "The Allen-Bradley Cafeteria Favorite Recipes_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "The Allen-Bradley Cafeteria Favorite Recipes_djvu.xml",
+        "mtime": "1699909227",
+        "size": "36612",
+        "md5": "4246f4af3dc3b426f57b81b08d42c39f",
+        "crc32": "242ec2d6",
+        "sha1": "a22af45ab2007d9046668c05c764d35c520993f7"
+      },
+      {
+        "name": "The Allen-Bradley Cafeteria Favorite Recipes_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "The Allen-Bradley Cafeteria Favorite Recipes_hocr.html",
+        "mtime": "1699909203",
+        "size": "527288",
+        "md5": "3cd03b67c8882240ab0a9f7d556e1ebb",
+        "crc32": "64b523e4",
+        "sha1": "89cc6d7c1a3947e7fea108b9eacc8b2c3623d0dd"
+      },
+      {
+        "name": "The Allen-Bradley Cafeteria Favorite Recipes_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.2.0",
+        "hocr_char_to_word_hocr_version": "1.1.45",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9199",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "The Allen-Bradley Cafeteria Favorite Recipes_chocr.html.gz",
+        "mtime": "1699909171",
+        "size": "1058575",
+        "md5": "aac08e5ceffad8711e25efd1d634bd28",
+        "crc32": "65527acc",
+        "sha1": "1b069adc7a1f48f1bc1bf5d8fb3a9c6efb3b8966"
+      },
+      {
+        "name": "The Allen-Bradley Cafeteria Favorite Recipes_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "The Allen-Bradley Cafeteria Favorite Recipes_hocr.html",
+        "mtime": "1699909209",
+        "size": "409",
+        "md5": "fc06a43dc0f3873182a3ddc71e02c636",
+        "crc32": "92195844",
+        "sha1": "3681c94ce0cb8ab41a0e9f7bb5be19be7fbd9895"
+      },
+      {
+        "name": "The Allen-Bradley Cafeteria Favorite Recipes_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "37",
+        "word_conf_11_20": "19",
+        "word_conf_21_30": "38",
+        "word_conf_31_40": "58",
+        "word_conf_41_50": "64",
+        "word_conf_51_60": "74",
+        "word_conf_61_70": "111",
+        "word_conf_71_80": "161",
+        "word_conf_81_90": "336",
+        "word_conf_91_100": "4864",
+        "format": "OCR Search Text",
+        "original": "The Allen-Bradley Cafeteria Favorite Recipes_hocr.html",
+        "mtime": "1699909221",
+        "size": "12564",
+        "md5": "7389268537b581499e62bf35294f6e00",
+        "crc32": "9008001a",
+        "sha1": "d25703a1b49afffd968910f01b75b2c92b79b6c8"
+      },
+      {
+        "name": "The Allen-Bradley Cafeteria Favorite Recipes_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "The Allen-Bradley Cafeteria Favorite Recipes.pdf",
+        "mtime": "1699909042",
+        "size": "5134653",
+        "md5": "cb1a43965d634110e4571af626c2a9fc",
+        "crc32": "3ad32f1e",
+        "sha1": "82b0f480460d96a6983c1885498d1d9999e968b1",
+        "filecount": "36"
+      },
+      {
+        "name": "The Allen-Bradley Cafeteria Favorite Recipes_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.3",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "The Allen-Bradley Cafeteria Favorite Recipes_hocr.html",
+        "mtime": "1699909278",
+        "size": "6255",
+        "md5": "69a70814d2a61587cf278796cf087c70",
+        "crc32": "462d8deb",
+        "sha1": "5d127acd99c6c9a462213f753b0a0d9e23a31765"
+      },
+      {
+        "name": "The Allen-Bradley Cafeteria Favorite Recipes_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "The Allen-Bradley Cafeteria Favorite Recipes_djvu.xml",
+        "mtime": "1699909278",
+        "size": "11806",
+        "md5": "9300c4556d411eeb46c0f8e031baffc8",
+        "crc32": "eda59daa",
+        "sha1": "12dcad23403d430db3be2a7e54720117c728e241"
+      },
+      {
+        "name": "The Allen-Bradley Cafeteria Favorite Recipes_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Additional Text PDF",
+        "original": "The Allen-Bradley Cafeteria Favorite Recipes_page_numbers.json",
+        "mtime": "1699909364",
+        "size": "1301625",
+        "md5": "be0c0ed27eb6b053d617f18193370d03",
+        "crc32": "e9e32c25",
+        "sha1": "4f5babe9a93f729ec0e9bcc48c15e6c3532896f0"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1699909413",
+        "size": "7595",
+        "md5": "ce4e2226ef6e3c4417c955dcd28fffe4",
+        "crc32": "92e6c976",
+        "sha1": "e078a9c3576e919ee73189255b1d91115f897d2a",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "the-allen-bradley-cafeteria-favorite-recipes_archive.torrent",
+        "source": "metadata",
+        "btih": "95527750ee8cf690dfeb84bd528065c253918e9e",
+        "mtime": "1699918621",
+        "size": "4781",
+        "md5": "50e4d6a7983a51b0de79380ebe833688",
+        "crc32": "fb22ff83",
+        "sha1": "06e2cb93a67c21f5d5a650937ad1e5c1c5982391",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "the-allen-bradley-cafeteria-favorite-recipes_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "4cca0f8d45c4851139f089351b763fe2",
+        "summation": "md5"
+      },
+      {
+        "name": "the-allen-bradley-cafeteria-favorite-recipes_meta.sqlite",
+        "source": "original",
+        "mtime": "1699908629",
+        "size": "20480",
+        "md5": "e6bb5a78062d71fb6a905688049546be",
+        "crc32": "86e2d248",
+        "sha1": "2fc06a34dededc7f173f43b8a2fe38522e06d6ce",
+        "format": "Metadata"
+      },
+      {
+        "name": "the-allen-bradley-cafeteria-favorite-recipes_meta.xml",
+        "source": "original",
+        "mtime": "1699918620",
+        "size": "1738",
+        "md5": "e82f992cf1c62eb025e731fed0320fc2",
+        "crc32": "2450be31",
+        "sha1": "a7160ae91993633de58628f63382b72144782d23",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1699918621,
+    "item_size": 14127425,
+    "metadata": {
+      "identifier": "the-allen-bradley-cafeteria-favorite-recipes",
+      "mediatype": "texts",
+      "collection": "opensource",
+      "creator": "Allen-Bradley",
+      "date": "1992-01-01",
+      "description": "The Allen Bradley Cafeteria Favorite Recipes is a cookbook that commemorates the 1992 renovation of the A-B cafeteria originally built in 1956 in their Milwaukee, Wisconsin headquarters.",
+      "language": "eng",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "a-b",
+        "allen-bradley",
+        "cafeteria recipies",
+        "cookbook"
+      ],
+      "title": "The Allen Bradley Cafeteria Favorite Recipes",
+      "uploader": "conrad.kite@gmail.com",
+      "publicdate": "2023-11-13 20:50:21",
+      "addeddate": "2023-11-13 20:50:21",
+      "curation": "[curator]validator@archive.org[/curator][date]20231113205549[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/the-allen-bradley-cafeteria-favorite-recipes",
+      "identifier-ark": "ark:/13960/s2pzjmpdprq",
+      "ppi": "200",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9199",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.3",
+      "pdf_module_version": "0.0.23",
+      "year": "1992"
+    },
+    "server": "ia601201.us.archive.org",
+    "uniq": 1699199855,
+    "workable_servers": [
+      "ia601201.us.archive.org",
+      "ia801201.us.archive.org"
+    ]
+  },
+  "institution": "Allen-Bradley",
+  "pdf_url": "https://archive.org/download/the-allen-bradley-cafeteria-favorite-recipes/The Allen-Bradley Cafeteria Favorite Recipes.pdf",
+  "location": {
+    "state": "Wisconsin",
+    "city": "Milwaukee"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Wisconsin; Digitized scan available"
+}

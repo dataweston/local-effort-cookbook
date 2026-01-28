@@ -1,0 +1,511 @@
+{
+  "source": "internet_archive",
+  "identifier": "scandinavianfeas0000ojak_d8r8",
+  "title": "Scandinavian feasts : celebrating traditions throughout the year",
+  "creator": "Ojakangas, Beatrice A",
+  "year": 2001,
+  "subject": "Cookery, Scandinavian",
+  "description": [
+    "p. cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/scandinavianfeas0000ojak_d8r8"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/scandinavianfeas0000ojak_d8r8"
+        }
+      ]
+    },
+    "created": 1758556752,
+    "d1": "ia904509.us.archive.org",
+    "d2": "ia804509.us.archive.org",
+    "dir": "/19/items/scandinavianfeas0000ojak_d8r8",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661021650",
+        "size": "17784",
+        "md5": "1eeaf2291a11d6f0a6df8fd575d83a8d",
+        "crc32": "8852b0fa",
+        "sha1": "6fa75256f380f561095d543f10ce9c05886d8b4a",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/scandinavianfeas0000ojak_d8r8_iabdash_2021-07-2319:48:46.log",
+        "source": "original",
+        "mtime": "1627040929",
+        "size": "1388",
+        "md5": "b308204cc9a57c6ff9e2263d8bf4ee00",
+        "crc32": "dad174c8",
+        "sha1": "97512e39cf41e978815e6cbeb937febe4e3c1f9e",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/scandinavianfeas0000ojak_d8r8_scanning_2021-07-2319:48:52.log",
+        "source": "original",
+        "mtime": "1627040936",
+        "size": "960169",
+        "md5": "483c44ed9eb0c8f95562aecc09565dd5",
+        "crc32": "24e57d24",
+        "sha1": "190b9312032daf023226b84f9d432f8cb897be6a",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/scandinavianfeas0000ojak_d8r8_status_history_2021-07-2319:48:49.log",
+        "source": "original",
+        "mtime": "1627040932",
+        "size": "408",
+        "md5": "da61d6ff0323e63d42b565d66122c6f4",
+        "crc32": "524c0837",
+        "sha1": "6311cd0b1666ae4a028b73b4e69ec5a4dce9ad3e",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "scandinavianfeas0000ojak_d8r8_hocr.html",
+        "mtime": "1758284183",
+        "size": "823677",
+        "private": "true",
+        "md5": "55cb449c29513d45be34e1af24c26e2f",
+        "crc32": "f9b442a5",
+        "sha1": "0b0107748df7edec02e67862a3062582c30833dc"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "scandinavianfeas0000ojak_d8r8.pdf",
+        "mtime": "1758284087",
+        "size": "10331271",
+        "md5": "5ad89b6d2907bc5fb550be2b6af6d04a",
+        "crc32": "a933070a",
+        "sha1": "f1987d83dc60ee974f009eb7d4122e23cf4de21b"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "scandinavianfeas0000ojak_d8r8_page_numbers.json",
+        "mtime": "1722801839",
+        "size": "10078687",
+        "md5": "59638c398bfb9062c79bc09b055c92d2",
+        "crc32": "c2b620af",
+        "sha1": "68df23d029d509b941ac056c2ef526cccb90c315",
+        "private": "true"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.7924",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "scandinavianfeas0000ojak_d8r8_jp2.zip",
+        "mtime": "1627376569",
+        "size": "4682878",
+        "md5": "b464b0850edac5f79a158397ea7b1cac",
+        "crc32": "d7e5d571",
+        "sha1": "c3b73723624b10867a14fd2753855fa53fc0aa46",
+        "private": "true"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "scandinavianfeas0000ojak_d8r8_scandata.xml",
+        "mtime": "1671173305",
+        "size": "808",
+        "md5": "268ba36877ccf764fd90f586481c61f1",
+        "crc32": "de12bf98",
+        "sha1": "c0c0a98a264ef892b4b026a4b5f26b50331699fa",
+        "private": "true"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1627371152",
+        "size": "943",
+        "md5": "21d07ee8ef9be9775dc85ddc287499dc",
+        "crc32": "ff6a4567",
+        "sha1": "bfa78f2cee1a3cb0ca2cd31b4501e8ab9d0ce180"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "scandinavianfeas0000ojak_d8r8_djvu.xml",
+        "mtime": "1627376802",
+        "size": "339015",
+        "md5": "82fa8b5852eabd11195f88308dece24d",
+        "crc32": "2b206660",
+        "sha1": "6384f121d663b42c1a980a3da3d6c609e0d65700",
+        "private": "true"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "scandinavianfeas0000ojak_d8r8_hocr.html",
+        "mtime": "1627376695",
+        "size": "4757935",
+        "md5": "5ff47f1c1adcc8fbffbf581389193e59",
+        "crc32": "d09177b7",
+        "sha1": "8b628a341fb1582f9b128e02068b7840702a53db",
+        "private": "true"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "scandinavianfeas0000ojak_d8r8.pdf",
+        "mtime": "1722802457",
+        "size": "10001444",
+        "md5": "c25c8018d81b89dc78c7d83b9eeb60f2",
+        "crc32": "ce55e27c",
+        "sha1": "706ec65f0f5eec4e5234b3bac922d1021b867e55"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_events.json",
+        "source": "original",
+        "mtime": "1627371071",
+        "size": "58",
+        "md5": "03fb628499aba6365dc5874efaf8c3fa",
+        "crc32": "04539c12",
+        "sha1": "9789342773bdd55843ae1abcde524d843f0b8df7",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "ed8f103504628956b88710708f038cc6",
+        "summation": "md5"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.7924",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "scandinavianfeas0000ojak_d8r8_chocr.html.gz",
+        "mtime": "1627376676",
+        "size": "9063520",
+        "md5": "ba15edf8e52cb3012c1ece51fd95ea23",
+        "crc32": "4a3d9bfd",
+        "sha1": "641aa7844a5a7fd30a5800eec0e3f6050a9374ba",
+        "private": "true"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "scandinavianfeas0000ojak_d8r8_hocr.html",
+        "mtime": "1627376727",
+        "size": "3618",
+        "md5": "3638687b7f8d5777542082c4701cdcc2",
+        "crc32": "033bec6b",
+        "sha1": "fa0021914bccfbd64ffb0c57eeda2a1d9dca1284",
+        "private": "true"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "2192",
+        "word_conf_11_20": "771",
+        "word_conf_21_30": "1013",
+        "word_conf_31_40": "971",
+        "word_conf_41_50": "825",
+        "word_conf_51_60": "559",
+        "word_conf_61_70": "390",
+        "word_conf_71_80": "322",
+        "word_conf_81_90": "948",
+        "word_conf_91_100": "50130",
+        "format": "OCR Search Text",
+        "original": "scandinavianfeas0000ojak_d8r8_hocr.html",
+        "mtime": "1627376781",
+        "size": "119811",
+        "md5": "54237da2103e8db1009c021b7178e289",
+        "crc32": "b92a201c",
+        "sha1": "55b4207a591093b514feff2bd76c863ff2cd78d3",
+        "private": "true"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "scandinavianfeas0000ojak_d8r8_orig_jp2.tar",
+        "mtime": "1627375310",
+        "size": "80833937",
+        "md5": "591395a2a4ec7f9faba445cbae0ccc06",
+        "crc32": "2796992e",
+        "sha1": "cc3ff52b40beca5367e8a0baba1193ee0c102f25",
+        "private": "true",
+        "filecount": "310"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "scandinavianfeas0000ojak_d8r8.epub",
+        "mtime": "1758284467",
+        "size": "841257",
+        "md5": "ab54f6936f385c10351458e8775fc05c",
+        "crc32": "1293ee33",
+        "sha1": "56fbebb5cedd24d8f12006a008890c1fc6505235"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_marc.xml",
+        "source": "original",
+        "mtime": "1627040923",
+        "size": "2297",
+        "md5": "7fe43bbdcb38e26a628fe29954ef54dc",
+        "crc32": "e7833249",
+        "sha1": "b53b8b24f6707d820000d7ac0b6ab69f09321966",
+        "format": "MARC"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_meta.mrc",
+        "source": "original",
+        "mtime": "1627040920",
+        "size": "722",
+        "md5": "109ec15ca91792f5572c73d5189c52f3",
+        "crc32": "c4e9f554",
+        "sha1": "0d69d3e246f55826a724b257aca342e687017a5c",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_meta.sqlite",
+        "source": "original",
+        "mtime": "1627371125",
+        "size": "45056",
+        "md5": "5396b5e633741d0263e3e8097c9bb803",
+        "crc32": "c07f3d2b",
+        "sha1": "d642cbb3763c471ca3cf7dd044d051cf3f003a0d",
+        "format": "Metadata"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_meta.xml",
+        "source": "original",
+        "mtime": "1758284467",
+        "size": "3177",
+        "md5": "a0bd926d647fef70ea9ab21e8b7c00df",
+        "crc32": "92fd8b33",
+        "sha1": "4cc2870ba722acd0f9857d312aaf1e279b4a49f4",
+        "format": "Metadata"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1627371124",
+        "size": "285235200",
+        "md5": "e448e7c4f7bf09ef863ce59d4ea0acf8",
+        "crc32": "639f091d",
+        "sha1": "7e26ce7717d9ac64df2eb1a103cd45fbc0a8cbdf",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "310"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "97",
+        "format": "Page Numbers JSON",
+        "original": "scandinavianfeas0000ojak_d8r8_hocr.html",
+        "mtime": "1722801838",
+        "size": "52058",
+        "md5": "a000aef303d6901fb5cc698940d256a5",
+        "crc32": "751ac071",
+        "sha1": "5ce52b4efb70eb110853ae0856e9dfadff28b4fd",
+        "private": "true"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_scandata.xml",
+        "source": "original",
+        "mtime": "1671173305",
+        "size": "336640",
+        "md5": "b4a5a2a11be8fcc4133b1f70cbd7029d",
+        "crc32": "bf887747",
+        "sha1": "621d0c029af51272f17883b193a9c2da08b97e95",
+        "format": "Scandata"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_slip.png",
+        "source": "original",
+        "mtime": "1627039928",
+        "size": "43329",
+        "md5": "1b021321626888287dbdf24a18b8f316",
+        "crc32": "a3aed7f6",
+        "sha1": "0443bcadfeb2710c12dae45ba001e7661cf8f46d",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "scandinavianfeas0000ojak_d8r8_slip.png",
+        "mtime": "1627371155",
+        "size": "8827",
+        "md5": "d6741546cbd8a6bb3797d7434a7b5afb",
+        "crc32": "b184dc07",
+        "sha1": "a2ce009fd7ee49980cf1450ad0d5f61df6757774",
+        "private": "true"
+      },
+      {
+        "name": "scandinavianfeas0000ojak_d8r8_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "scandinavianfeas0000ojak_d8r8_djvu.xml",
+        "mtime": "1671173251",
+        "size": "672",
+        "md5": "4c12be2217698b533dc882583b762cc5",
+        "crc32": "b03b759c",
+        "sha1": "dfd40072fa4ccdbee53d379e9d0833bd31623f58",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1758284467,
+    "item_size": 418586586,
+    "metadata": {
+      "identifier": "scandinavianfeas0000ojak_d8r8",
+      "boxid": "IA40194107",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Ojakangas, Beatrice A",
+      "date": "2001-01-01",
+      "description": [
+        "p. cm",
+        "Includes index"
+      ],
+      "isbn": "0816637458",
+      "language": "eng",
+      "lccn": "00047408",
+      "mediatype": "texts",
+      "old_pallet": "IA-WL-2000053",
+      "openlibrary_edition": "OL6788639M",
+      "openlibrary_work": "OL18242037W",
+      "operator": "associate-rossbie-mondejar@archive.org",
+      "publisher": "Minneapolis : University of Minnesota Press",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station12.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780816637454",
+      "sponsor": "The Arcadia Fund",
+      "subject": "Cookery, Scandinavian",
+      "title": "Scandinavian feasts : celebrating traditions throughout the year",
+      "tts_version": "4.5-initial-63-g7e8faad7",
+      "uploader": "station12.cebu@archive.org",
+      "publicdate": "2021-07-23 11:32:19",
+      "access-restricted-item": "true",
+      "imagecount": "310",
+      "scandate": "20210723124058",
+      "ppi": "360",
+      "republisher_operator": "associate-jhelynmae-gabate@archive.org",
+      "republisher_date": "20210727152852",
+      "republisher_time": "327",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/scandinavianfeas0000ojak_d8r8",
+      "identifier-ark": "ark:/13960/t3d05861q",
+      "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.13",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.7924",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "97",
+      "pdf_module_version": "0.0.15",
+      "external-identifier": [
+        "urn:acs6:scandinavianfeas0000ojak_d8r8:pdf:df43db0e-ce2e-4129-a6ab-ac45c5de3594",
+        "urn:oclc:record:228146272",
+        "urn:lcp:scandinavianfeas0000ojak_d8r8:lcpdf:c0725063-51b2-4b80-9f6e-a1c11eba628f",
+        "urn:lcp:scandinavianfeas0000ojak_d8r8:epub:6e89c68e-d328-4897-a062-f7a970f82e92"
+      ],
+      "addeddate": "2021-07-27 10:01:07",
+      "scanfee": "2000;0;0",
+      "invoice": "1605",
+      "sponsordate": "20220331",
+      "grant_report": "Arcadia #4081",
+      "source": "removed",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia904509.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "dartmouthlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780816637454"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 00:33:41.913878"
+        }
+      }
+    },
+    "uniq": 719960655,
+    "workable_servers": [
+      "ia904509.us.archive.org",
+      "ia804509.us.archive.org"
+    ]
+  },
+  "institution": "Ojakangas, Beatrice A",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Minnesota",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Minnesota; Digitized scan available"
+}

@@ -1,0 +1,505 @@
+{
+  "source": "internet_archive",
+  "identifier": "classicrecipecol0000unse",
+  "title": "Classic recipe collection",
+  "creator": "None",
+  "year": 2002,
+  "subject": [
+    "Cooking, American",
+    "Brand name products"
+  ],
+  "description": [
+    "383 pages : 29 cm",
+    "Create incredible appetizers, entrees, desserts and more with recipes from your favorite brand name companies",
+    "At head of title: Favorite brand name",
+    "Includes index",
+    "Meat entrees -- Poultry -- Catch of the day -- Meatless entrees -- Soups and salads -- Accompaniments -- Bread Basket -- Cakes & pies -- Sweet Endings -- Cookies & Candies"
+  ],
+  "metadata": {
+    "created": 1758557023,
+    "d1": "ia601700.us.archive.org",
+    "d2": "ia801700.us.archive.org",
+    "dir": "/10/items/classicrecipecol0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659751131",
+        "size": "27355",
+        "md5": "bef00289ebb14265e39b0673d5b690cc",
+        "crc32": "2e79d25e",
+        "sha1": "5eda066ee1afbb19ad7ed5a6eb5641ad86b7168e",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "classicrecipecol0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "classicrecipecol0000unse_hocr.html",
+        "mtime": "1753156771",
+        "size": "208911282",
+        "private": "true",
+        "md5": "c7638b0d42549729ae9e28dd1d5e6a88",
+        "crc32": "917c3fe1",
+        "sha1": "35b620f12d0dc2c4a01b944cb0871797fd1c3941"
+      },
+      {
+        "name": "classicrecipecol0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "classicrecipecol0000unse.pdf",
+        "mtime": "1753156241",
+        "size": "48643456",
+        "md5": "3a6c150a76ee5158277862cb8f18b6dd",
+        "crc32": "2a1b090c",
+        "sha1": "536fe3f70bc149096325d8939fea7fc21d15ecd6"
+      },
+      {
+        "name": "classicrecipecol0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "classicrecipecol0000unse_page_numbers.json",
+        "mtime": "1718699716",
+        "size": "47920551",
+        "md5": "3fe6c428deeb4a1417649d000fc14885",
+        "crc32": "461daec4",
+        "sha1": "60d694ee811644e23cb356479b48326f6ef64c60",
+        "private": "true"
+      },
+      {
+        "name": "classicrecipecol0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "classicrecipecol0000unse_jp2.zip",
+        "mtime": "1539174264",
+        "size": "7899637",
+        "md5": "6d3bed6df4e4da6286a799a6d6c8fa6d",
+        "crc32": "8879ae2d",
+        "sha1": "0c356e4813515cac88243633faf9fbf8951a63b8",
+        "private": "true"
+      },
+      {
+        "name": "classicrecipecol0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "classicrecipecol0000unse_abbyy.gz",
+        "mtime": "1659750989",
+        "size": "6184460",
+        "md5": "b24994f78fe8e47d44e4244aac2bcb98",
+        "crc32": "4ef13f66",
+        "sha1": "df0bbf19fece3fab0a2f0aa26fe9634f3ae5bab4",
+        "private": "true"
+      },
+      {
+        "name": "classicrecipecol0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "classicrecipecol0000unse_scandata.xml",
+        "mtime": "1669595187",
+        "size": "789",
+        "md5": "af6dace454a3e89a75e2103bb9f7618f",
+        "crc32": "86695356",
+        "sha1": "7cf89e3844a62649f3f79bf365c1668c376e307d",
+        "private": "true"
+      },
+      {
+        "name": "classicrecipecol0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1659750932",
+        "size": "1629",
+        "md5": "d99830114d3cc42bd39b3946904a853f",
+        "crc32": "896b8923",
+        "sha1": "66fa817f07c116b0e89ed9ba1cb9a5600785f183"
+      },
+      {
+        "name": "classicrecipecol0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "classicrecipecol0000unse_djvu.xml",
+        "mtime": "1659751124",
+        "size": "538460",
+        "md5": "287398e7b07c37aab852e5b93d9ab083",
+        "crc32": "89b6f8eb",
+        "sha1": "358b72220a1234c46a1057ed183e0f89ce001b57",
+        "private": "true"
+      },
+      {
+        "name": "classicrecipecol0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "classicrecipecol0000unse_hocr.html",
+        "mtime": "1659751045",
+        "size": "6496979",
+        "md5": "1c00572ec54eeeb937dffe07105625c8",
+        "crc32": "19863dc2",
+        "sha1": "1ec22fdf8d295da7c6482bea3d85b1ee12b41ade",
+        "private": "true"
+      },
+      {
+        "name": "classicrecipecol0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "classicrecipecol0000unse_abbyy.gz",
+        "mtime": "1539177905",
+        "size": "3449275",
+        "md5": "4f3a0c8a2e9ed5ea2db8db9e3cfbd8bd",
+        "crc32": "5756a7d4",
+        "sha1": "a3855c0c771f793ac475e26242dd2fb421c05461"
+      },
+      {
+        "name": "classicrecipecol0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "classicrecipecol0000unse.pdf",
+        "mtime": "1718700061",
+        "size": "47663209",
+        "md5": "7c65f7abd7e009c3d71ebd606ff5aa03",
+        "crc32": "a2a6e6da",
+        "sha1": "ae9779788d7a1fb30954ac7a65e5414da4954870"
+      },
+      {
+        "name": "classicrecipecol0000unse_events.json",
+        "source": "original",
+        "mtime": "1539164284",
+        "size": "53",
+        "md5": "f8c20089634cb9f30d31a115d2a16221",
+        "crc32": "612d56ff",
+        "sha1": "10f2d3c19d7635acc9aa78091f45d68baf4c87a9",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "classicrecipecol0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "a9c1b9c82c4960b209e465a88a52ba18",
+        "summation": "md5"
+      },
+      {
+        "name": "classicrecipecol0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "classicrecipecol0000unse_chocr.html.gz",
+        "mtime": "1659751033",
+        "size": "14079557",
+        "md5": "195cca543915fb3bd12191bd036eb45c",
+        "crc32": "6b6f2070",
+        "sha1": "be76781311aae425ac3b70ff282b0e4ad956be56",
+        "private": "true"
+      },
+      {
+        "name": "classicrecipecol0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "classicrecipecol0000unse_hocr.html",
+        "mtime": "1659751051",
+        "size": "4211",
+        "md5": "b7f1ab3a21dfdd6fb3fd85e6ce293257",
+        "crc32": "e71cd193",
+        "sha1": "daaf607097330aa4da212d3282b5c5116a20f036",
+        "private": "true"
+      },
+      {
+        "name": "classicrecipecol0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1203",
+        "word_conf_11_20": "553",
+        "word_conf_21_30": "835",
+        "word_conf_31_40": "1136",
+        "word_conf_41_50": "1583",
+        "word_conf_51_60": "2475",
+        "word_conf_61_70": "5235",
+        "word_conf_71_80": "11644",
+        "word_conf_81_90": "22094",
+        "word_conf_91_100": "28606",
+        "format": "OCR Search Text",
+        "original": "classicrecipecol0000unse_hocr.html",
+        "mtime": "1659751103",
+        "size": "139358",
+        "md5": "9cce6776bd62f5829b6837eee3d61d62",
+        "crc32": "c04fa819",
+        "sha1": "715072e4c08a92bd2414e71c433547e96a636e4a",
+        "private": "true"
+      },
+      {
+        "name": "classicrecipecol0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "classicrecipecol0000unse_orig_jp2.tar",
+        "mtime": "1539171462",
+        "size": "293988746",
+        "md5": "018fdda828d77a66938881a8d854b324",
+        "crc32": "75bbc876",
+        "sha1": "b25c235b5d7304f2cbcf94469e6e5a99523735d9",
+        "private": "true",
+        "filecount": "394"
+      },
+      {
+        "name": "classicrecipecol0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "classicrecipecol0000unse.epub",
+        "mtime": "1753157074",
+        "size": "209721658",
+        "md5": "139d3031b0a11855ecf3a6057b03bbba",
+        "crc32": "aa6ee44a",
+        "sha1": "00e1a9c682994ac4ffdd29d152d420e060b6a245"
+      },
+      {
+        "name": "classicrecipecol0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593478893",
+        "size": "2644",
+        "format": "JSON",
+        "private": "true",
+        "md5": "7c3cc21de374bef09be397d05273265c",
+        "crc32": "df517ef6",
+        "sha1": "b93a98b4499dee76bc29d8dfc31ac5b4886eaab3"
+      },
+      {
+        "name": "classicrecipecol0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1659750932",
+        "size": "4802",
+        "format": "MARC",
+        "md5": "db4556c2f4d1a87df1232c7390290fff",
+        "crc32": "23cf1d79",
+        "sha1": "7f47dac3f8dc7709ba21aa2017fac21a0b36f65e"
+      },
+      {
+        "name": "classicrecipecol0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1537845008",
+        "size": "1542",
+        "md5": "30791e28cbcf7ded3f3303f6b30f01f7",
+        "crc32": "c7d55b0f",
+        "sha1": "118f318c87f76b2efb5d5ffb01fee8d8a86c117e",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "classicrecipecol0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1539164503",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "814fd70556455799d9d5b862eb4b7f24",
+        "crc32": "dbc268f1",
+        "sha1": "34f2f4541d0a392765d1bbd19f2fdf734d75bb15"
+      },
+      {
+        "name": "classicrecipecol0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753157464",
+        "size": "3500",
+        "format": "Metadata",
+        "md5": "b11317b2287348eae304ceffb59a72fb",
+        "crc32": "747293dd",
+        "sha1": "72323bf362657f812b04fedd83168ff24649bdd6"
+      },
+      {
+        "name": "classicrecipecol0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1539164502",
+        "size": "777635840",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "a54441bcf787347c299e1ec09661f787",
+        "crc32": "1f09e2d4",
+        "sha1": "db877b54f8e6367d348f1ed6fd2851a043971a45",
+        "filecount": "394"
+      },
+      {
+        "name": "classicrecipecol0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "72",
+        "format": "Page Numbers JSON",
+        "original": "classicrecipecol0000unse_hocr.html",
+        "mtime": "1718699715",
+        "size": "67301",
+        "md5": "31c38a6790378796d4e8058c2cd867ea",
+        "crc32": "3fa091fd",
+        "sha1": "550db187862466211dda97ea5cdb7b89bc88092f",
+        "private": "true"
+      },
+      {
+        "name": "classicrecipecol0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1669595187",
+        "size": "401682",
+        "format": "Scandata",
+        "md5": "925600cd03e6d2dc4a68d56b3b857dc6",
+        "crc32": "3886e635",
+        "sha1": "e4fc24578ce611b48fa02ecd8746501bac7a3666"
+      },
+      {
+        "name": "classicrecipecol0000unse_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "classicrecipecol0000unse_djvu.xml",
+        "mtime": "1669595158",
+        "size": "8501",
+        "md5": "b422fc3179716758557a2cac21ba7ec4",
+        "crc32": "1f261d03",
+        "sha1": "f18cdb8876a642d66aca0835050aa97f20e59a3c",
+        "private": "true"
+      },
+      {
+        "name": "logs/classicrecipecol0000unse_iabdash_2018-09-2511:06:56.log",
+        "source": "original",
+        "mtime": "1537844824",
+        "size": "691",
+        "md5": "8522cacfd6f944dd929a289ff95c7fe8",
+        "crc32": "4b61e6cc",
+        "sha1": "f1187674e3d55e340807f7a536b7888ab65e31b0",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/classicrecipecol0000unse_scanning_2018-09-2511:06:50.log",
+        "source": "original",
+        "mtime": "1537844817",
+        "size": "1216726",
+        "md5": "038488a0a2b92f389823c5edc9724d6b",
+        "crc32": "e6da4f2b",
+        "sha1": "3877b924743479a03e8343a85b7e075e3c25bbe6",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753157464,
+    "item_size": 1675031302,
+    "metadata": {
+      "identifier": "classicrecipecol0000unse",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "None",
+      "creator-alt-script": "None",
+      "date": "2002-01-01",
+      "description": [
+        "383 pages : 29 cm",
+        "Create incredible appetizers, entrees, desserts and more with recipes from your favorite brand name companies",
+        "At head of title: Favorite brand name",
+        "Includes index",
+        "Meat entrees -- Poultry -- Catch of the day -- Meatless entrees -- Soups and salads -- Accompaniments -- Bread Basket -- Cakes & pies -- Sweet Endings -- Cookies & Candies"
+      ],
+      "isbn": [
+        "0785376070",
+        "9780785376071",
+        "0785368701",
+        "9780785368700"
+      ],
+      "language": "eng",
+      "lccn": "2002104418",
+      "mediatype": "texts",
+      "operator": "associate-law-chiyeung@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International",
+      "repub_state": "22",
+      "scanner": "ttscribe17.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "subject": [
+        "Cooking, American",
+        "Brand name products",
+        "Brand name products",
+        "Cooking, American"
+      ],
+      "title": "Classic recipe collection",
+      "title-alt-script": "None",
+      "tts_version": "v1.60-1-g2f920ca",
+      "uploader": "ttscribe17.hongkong@archive.org",
+      "addeddate": "2018-09-25 02:25:10",
+      "publicdate": "2018-09-25 02:25:45",
+      "imagecount": "394",
+      "scandate": "20180925033138",
+      "republisher_operator": "republisher7.dhaka@archive.org;republisher5.shenzhen@archive.org",
+      "republisher_date": "20181010173757",
+      "republisher_time": "787",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/classicrecipecol0000unse",
+      "identifier-ark": "ark:/13960/t2x422j39",
+      "external-identifier": [
+        "urn:acs6:classicrecipecol0000unse:epub:e638ce30-f821-45c6-983c-ea22bcdae85b",
+        "urn:acs6:classicrecipecol0000unse:pdf:23c48ac7-1382-4478-ba70-5011b3b4088c",
+        "urn:lcp:classicrecipecol0000unse:lcpdf:3aef6def-1110-43d0-9f77-a61fec63fb6b",
+        "urn:lcp:classicrecipecol0000unse:epub:575fc7dd-1391-437b-8ae2-d82a4640249c"
+      ],
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20181010184512[/date]",
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "boxid": "IA1396920",
+      "sponsordate": "20181231",
+      "openlibrary_edition": "OL11035415M",
+      "openlibrary_work": "OL18155009W",
+      "access-restricted-item": "true",
+      "backup_location": "ia906802_11",
+      "oclc-id": "51051159",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "72",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801700.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA-MC-1200026",
+              "IA-MC-1300040",
+              "IA-MC-1200031",
+              "IA-MC-0000136",
+              "IA-MC-0000049",
+              "IA-MC-1300041"
+            ],
+            "num_copies": 6
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 04:37:36.49156"
+        }
+      }
+    },
+    "uniq": 1980592413,
+    "workable_servers": [
+      "ia801700.us.archive.org",
+      "ia601700.us.archive.org"
+    ]
+  },
+  "institution": "None",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

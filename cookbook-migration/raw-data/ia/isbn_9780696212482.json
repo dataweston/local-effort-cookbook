@@ -1,0 +1,597 @@
+{
+  "source": "internet_archive",
+  "identifier": "isbn_9780696212482",
+  "title": "Better Homes and Gardens all-time favorites",
+  "creator": "Better Homes and Gardens Editors",
+  "year": 1999,
+  "subject": "Cooking, American",
+  "description": [
+    "\"70 years of best-loved recipes from America's best-selling cookbook\"--Cover",
+    "Includes index",
+    "Snacks & beverages -- Main dishes -- Side dishes -- Breads -- Desserts",
+    "70 years of best-loved recipes from America's best-selling cookbook"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/isbn_9780696212482"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/isbn_9780696212482"
+        }
+      ]
+    },
+    "created": 1758335557,
+    "d1": "ia903106.us.archive.org",
+    "d2": "ia803106.us.archive.org",
+    "dir": "/33/items/isbn_9780696212482",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660353289",
+        "size": "22245",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "502c412dd9cb778cddc083b6f2a88109",
+        "crc32": "3e8651d2",
+        "sha1": "6ecc7d06d6aa01d1c09c3abc7a7f09db9d385c72"
+      },
+      {
+        "name": "isbn_9780696212482.cdx.gz",
+        "source": "original",
+        "mtime": "1454567592",
+        "size": "6302",
+        "md5": "91e44615cf576576759fea66f7e597fc",
+        "crc32": "5cb3616b",
+        "sha1": "49df97789464867147f43235a5418b7e53b3a3ac",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482.cdx.idx",
+        "source": "original",
+        "mtime": "1454567592",
+        "size": "34",
+        "md5": "9f0edc7592a8d1e479b692acf43299a1",
+        "crc32": "d9736f26",
+        "sha1": "5448a0aab7b650a4842566f739df10086aa79dfa",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "isbn_9780696212482_hocr.html",
+        "mtime": "1753540801",
+        "size": "6451106",
+        "private": "true",
+        "md5": "0013f1e9f6d2bd83add6dbd657929d75",
+        "crc32": "286c14c4",
+        "sha1": "9106550124e04945ab4754810ff3f37aae6c280f"
+      },
+      {
+        "name": "isbn_9780696212482.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "isbn_9780696212482_jp2.zip",
+        "mtime": "1342294786",
+        "size": "274974",
+        "md5": "b06b0ae201aac657c2c0ec9f346753c7",
+        "crc32": "9ca344a7",
+        "sha1": "ff93195ec0070c6ce8abd34999f6b5940c50a8a8"
+      },
+      {
+        "name": "isbn_9780696212482.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "isbn_9780696212482.pdf",
+        "mtime": "1753540678",
+        "size": "9061961",
+        "md5": "b5305ba783e8159aac87bd14b1dc7f18",
+        "crc32": "40a4c256",
+        "sha1": "6530187dd751d5df9d675d50080387aa05c73b61"
+      },
+      {
+        "name": "isbn_9780696212482.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "isbn_9780696212482_page_numbers.json",
+        "mtime": "1722531661",
+        "size": "8593826",
+        "md5": "d1b8b4584df38688f9676538ab46b01e",
+        "crc32": "8e38ed0a",
+        "sha1": "af6b859fc962f989a13cb31cb65a801561d4d494",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482.warc.gz",
+        "source": "original",
+        "mtime": "1354762186",
+        "size": "537145",
+        "md5": "f16b050e26e3e38d32ed1740f7147c28",
+        "crc32": "e641049f",
+        "sha1": "d02a897c394cba52ac30bdc91da00ca3568fa0b3",
+        "format": "Web ARChive GZ"
+      },
+      {
+        "name": "isbn_9780696212482.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "isbn_9780696212482.warc.gz",
+        "mtime": "1454567572",
+        "size": "6457",
+        "md5": "de263810b9649ae49a8b51bd059b9c39",
+        "crc32": "9de1be07",
+        "sha1": "237e5c7678430676c977c688b77805bf56946c2f",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "isbn_9780696212482_jp2.zip",
+        "mtime": "1342295601",
+        "size": "2944101",
+        "md5": "139977be9c92a1bad8cb5f67ae6fbe67",
+        "crc32": "578eecb8",
+        "sha1": "427cd62046e1d002548af37fb64ad1b7a8ad0381",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "isbn_9780696212482_abbyy.gz",
+        "mtime": "1660351967",
+        "size": "2471700",
+        "md5": "0a7b5c5c26022c19764307d7ce5c1870",
+        "crc32": "024f96f0",
+        "sha1": "f0134e9a4038e1a862cb8cb4d5b4a8718358455e",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "isbn_9780696212482_scandata.xml",
+        "mtime": "1670373206",
+        "size": "764",
+        "md5": "d2cf3e7c405c4d54211d13f7f511d00f",
+        "crc32": "306dd2f3",
+        "sha1": "d99b19b57cdcf7d9aa26a91dc2f9aa1aa80e9e1c",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1504104054",
+        "size": "1487",
+        "md5": "693aaa04bf8dd4b388cf59788642fc5f",
+        "crc32": "c53aeb09",
+        "sha1": "05d21fa889093490ee5763f942ffc5e88337e2d2"
+      },
+      {
+        "name": "isbn_9780696212482_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "isbn_9780696212482_djvu.xml",
+        "mtime": "1722531678",
+        "size": "227084",
+        "md5": "9764ff5b9cf1537b21a392634d6cd243",
+        "crc32": "50ca1fe9",
+        "sha1": "17c8bebce096fc0f20f645660d003d058e55f539",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "isbn_9780696212482_hocr.html",
+        "mtime": "1722531085",
+        "size": "2787003",
+        "md5": "96b792a8ee25797e63d641706eb08bf8",
+        "crc32": "e6cd6009",
+        "sha1": "9037bcd9893ee1bc7ff019ba2e8d2873ff6b68a5",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "isbn_9780696212482.pdf",
+        "mtime": "1722531681",
+        "size": "8568516",
+        "md5": "bd34eb06cff163a87cd579d3b868751e",
+        "crc32": "db26e104",
+        "sha1": "0c71d2302f9b23b955aa62c8d196c357ade66e18"
+      },
+      {
+        "name": "isbn_9780696212482_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "db3b2609842d92a42e9ef3906ed4eb41",
+        "summation": "md5"
+      },
+      {
+        "name": "isbn_9780696212482_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "isbn_9780696212482_chocr.html.gz",
+        "mtime": "1660352900",
+        "size": "5651714",
+        "md5": "7f064095a4f4cc4cda4c91d0e45c63c4",
+        "crc32": "ddfbc1a5",
+        "sha1": "5739a5e809fc521ac894b131e1999208242afbe9",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "isbn_9780696212482_hocr.html",
+        "mtime": "1660353076",
+        "size": "1213",
+        "md5": "a8a0d7bc85abe4e07ba06337bcc2c848",
+        "crc32": "49df982d",
+        "sha1": "c342e9809989b999c28ae10f202cfee95a60e63e",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1468",
+        "word_conf_11_20": "803",
+        "word_conf_21_30": "2886",
+        "word_conf_31_40": "2413",
+        "word_conf_41_50": "5421",
+        "word_conf_51_60": "6065",
+        "word_conf_61_70": "6291",
+        "word_conf_71_80": "3337",
+        "word_conf_81_90": "1541",
+        "word_conf_91_100": "2629",
+        "format": "OCR Search Text",
+        "original": "isbn_9780696212482_hocr.html",
+        "mtime": "1660353232",
+        "size": "59999",
+        "md5": "891cdf4f8534f31bd2f25604694a538d",
+        "crc32": "ee24ddbf",
+        "sha1": "1b86050c7308cae7b4f6e63ca2aa52bcb86e8f81",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "isbn_9780696212482_orig_jp2.tar",
+        "mtime": "1342294729",
+        "size": "39215181",
+        "md5": "d6704b6d7f34b22500cb05266776d055",
+        "crc32": "d4c193f2",
+        "sha1": "56c69db88248cf6322628de8d6b572a308f101c9",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "isbn_9780696212482_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "isbn_9780696212482.epub",
+        "mtime": "1753541009",
+        "size": "6527115",
+        "md5": "e39a6612f43027db425fa89fd048b41d",
+        "crc32": "25e6b5fd",
+        "sha1": "fa730065f65a051e39794cefa824133618b4fada"
+      },
+      {
+        "name": "isbn_9780696212482_loans.json",
+        "source": "original",
+        "mtime": "1596472598",
+        "size": "16706",
+        "format": "JSON",
+        "private": "true",
+        "md5": "83d1f05cca7fcf427a872d7676dec218",
+        "crc32": "1778f540",
+        "sha1": "f553150a54b3ba8bbfc52968120f4b04f652ed37"
+      },
+      {
+        "name": "isbn_9780696212482_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1504104054",
+        "size": "5528",
+        "md5": "be7a82701d398e4b2e9466c8bda29401",
+        "crc32": "ad5440e3",
+        "sha1": "b703d0f6faedd855eb7d02c4f1d63cf7a77f8cc4"
+      },
+      {
+        "name": "isbn_9780696212482_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "isbn_9780696212482_xisbn.json",
+        "mtime": "1454567573",
+        "size": "436",
+        "md5": "3c27020a7ede8b8f8925ea113c81a7c5",
+        "crc32": "345ae653",
+        "sha1": "c8408c08f635f157a8cb20a01704fe1d990e1aec",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454567569",
+        "size": "1678",
+        "md5": "59c22492f70a2eb4f56985610a8ec499",
+        "crc32": "20522a52",
+        "sha1": "2d743466d86b61335143e3ba4c4f1c2b27d9e61f"
+      },
+      {
+        "name": "isbn_9780696212482_meta.sqlite",
+        "source": "original",
+        "mtime": "1464932451",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "6f3b518fe65c4cfafd54dfb6153ec170",
+        "crc32": "36a71051",
+        "sha1": "d231553d372f793cb38ff83eb6bf7ca4dea28a7b"
+      },
+      {
+        "name": "isbn_9780696212482_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753541197",
+        "size": "4118",
+        "md5": "ef87d92536a01461e68b650f55311000",
+        "crc32": "e9cbdf85",
+        "sha1": "034bb85a0b88a1623c154998f6af1c90e1173dda"
+      },
+      {
+        "name": "isbn_9780696212482_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1331155007",
+        "size": "295",
+        "md5": "572a06a5d69be1b1d46782e63e105533",
+        "crc32": "9c0309d2",
+        "sha1": "435ee55eebd0d9899cf4a564e02d6303e9659123"
+      },
+      {
+        "name": "isbn_9780696212482_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1341556162",
+        "size": "64880640",
+        "md5": "11e01d709460170593fcc30500775631",
+        "crc32": "45c5b478",
+        "sha1": "9fb14536a99371fca5da3e6a4ab49870b55b2ba9",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "isbn_9780696212482_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "93",
+        "format": "Page Numbers JSON",
+        "original": "isbn_9780696212482_hocr.html",
+        "mtime": "1722531101",
+        "size": "16794",
+        "md5": "8aaddc0bbe7fa85531b73993604be417",
+        "crc32": "ee551897",
+        "sha1": "2462c5c39313ba799f3ae710bf81af7001af35e0",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696212482_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670373206",
+        "size": "134478",
+        "md5": "1ab049a8cb1d4d02ba5a02ab1bba3eb0",
+        "crc32": "d810bd1a",
+        "sha1": "59e9f3c7d4130333c499ef77026ee523cb5f2e27"
+      },
+      {
+        "name": "isbn_9780696212482_xisbn.json",
+        "source": "original",
+        "mtime": "1454565182",
+        "size": "652",
+        "md5": "1c79d09073af6742ddb943835452e6d3",
+        "crc32": "2486054a",
+        "sha1": "d704d24bad99e35eb4a8adfde361584ca97f9082",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 33,
+    "item_last_updated": 1753541197,
+    "item_size": 158477396,
+    "metadata": {
+      "isbn": [
+        "0696211289",
+        "9780696211287",
+        "069621248X",
+        "9780696212482"
+      ],
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-03-07 21:16:45",
+      "updater": "associate-lotu-tii@archive.org",
+      "boxid": "IA179501",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "shenzhen",
+      "sponsor": "Internet Archive",
+      "identifier": "isbn_9780696212482",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2012-03-07 21:16:49",
+      "publicdate": "2012-03-07 21:16:53",
+      "scanner": "scribe8.shenzhen.archive.org",
+      "repub_seconds": "2977",
+      "ppi": "300",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-lina@archive.org",
+      "scandate": "20120706021523",
+      "republisher": "scanner-shenzhen-thomas@archive.org",
+      "imagecount": "102",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/isbn_9780696212482",
+      "identifier-ark": "ark:/13960/t7vm5f366",
+      "scanfee": "125",
+      "boxid_2": "CH109501",
+      "title": "Better Homes and Gardens all-time favorites",
+      "publisher": "Des Moines, Iowa : Better Homes and Gardens Books",
+      "creator": "Better Homes and Gardens Editors",
+      "date": "1999-01-01",
+      "donor": "alibris",
+      "sponsordate": "not to be invoiced-past billing period",
+      "external-identifier": [
+        "urn:acs6:isbn_9780696212482:pdf:df16f662-b33e-440d-9b38-da80b274e708",
+        "urn:acs6:isbn_9780696212482:epub:991b78f7-b76b-4e31-9f87-6a5b81a95ba7",
+        "urn:oclc:record:1035679141",
+        "urn:lcp:isbn_9780696212482:lcpdf:7e020963-1f9c-4821-a959-2550ea5c5eb8",
+        "urn:lcp:isbn_9780696212482:epub:95237efb-aa25-45bb-b220-f1258af9f165"
+      ],
+      "lccn": "2004296212",
+      "description": [
+        "\"70 years of best-loved recipes from America's best-selling cookbook\"--Cover",
+        "Includes index",
+        "Snacks & beverages -- Main dishes -- Side dishes -- Breads -- Desserts",
+        "70 years of best-loved recipes from America's best-selling cookbook"
+      ],
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": "43639134",
+      "related-external-id": [
+        "urn:isbn:0696211289",
+        "urn:lccn:2004296212",
+        "urn:oclc:43639134"
+      ],
+      "backup_location": "ia903709_33",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-07-20T00:21:16Z",
+      "loans__status__last_waitlist_date": "2019-04-03T04:21:59Z",
+      "subject": "Cooking, American",
+      "republisher_operator": "scanner-shenzhen-thomas@archive.org",
+      "republisher_date": "20120706062745",
+      "loans__status__num_history": "39",
+      "openlibrary_edition": "OL7760780M",
+      "openlibrary_work": "OL18167089W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "93",
+      "filesxml": "Wed Apr 3 6:02:35 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25",
+      "normalized_dates": [
+        "1999-01-01"
+      ]
+    },
+    "server": "ia803106.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "denverpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780696211287"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2019-03-20 09:57:55.940581"
+        }
+      }
+    },
+    "uniq": 629240438,
+    "workable_servers": [
+      "ia803106.us.archive.org",
+      "ia903106.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43639134?referer=xid"
+          ],
+          "publisher": "Better Homes and Gardens Books",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "2004296212"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "ed": "1st ed.",
+          "year": "1999",
+          "isbn": [
+            "069621248X"
+          ],
+          "title": "Better Homes and Gardens all-time favorites.",
+          "oclcnum": [
+            "43639134"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43639134?referer=xid"
+          ],
+          "publisher": "Better Homes and Gardens Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2004296212"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "ed": "1st ed.",
+          "year": "1999",
+          "isbn": [
+            "0696211289"
+          ],
+          "title": "Better Homes and Gardens all-time favorites.",
+          "oclcnum": [
+            "43639134"
+          ]
+        }
+      ]
+    }
+  }
+}

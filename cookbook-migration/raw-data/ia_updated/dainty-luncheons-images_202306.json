@@ -1,0 +1,288 @@
+{
+  "source": "internet_archive",
+  "identifier": "dainty-luncheons-images_202306",
+  "title": "Dainty Luncheons. How to Prepare Them",
+  "creator": "Woolverton Printing & Publishing Co.",
+  "year": 1900,
+  "subject": "cookbook",
+  "description": "Dainty Luncheons. How to prepare them. Osage, Iowa: Woolverton Printing & Publishing Co. ca. 1900.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721804.ca.archive.org",
+          "dir": "/0/items/dainty-luncheons-images_202306"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721804.ca.archive.org",
+          "dir": "/0/items/dainty-luncheons-images_202306"
+        }
+      ]
+    },
+    "created": 1758555765,
+    "d1": "ia601401.us.archive.org",
+    "d2": "ia801401.us.archive.org",
+    "dir": "/2/items/dainty-luncheons-images_202306",
+    "files": [
+      {
+        "name": "Dainty Luncheons.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.22",
+        "format": "Text PDF",
+        "original": "Dainty Luncheons_page_numbers.json",
+        "mtime": "1685975677",
+        "size": "3147854",
+        "md5": "4510c9c24210e426ec3040733c0e5372",
+        "crc32": "e15082ff",
+        "sha1": "7bfa6b3f2d581c7d529d33532b20989b75205afa"
+      },
+      {
+        "name": "Dainty Luncheons_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-3-g9920",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9691",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Dainty Luncheons_jp2.zip",
+        "mtime": "1685975422",
+        "size": "385345",
+        "md5": "a75b9976d654da06cb02f86a2acc61a7",
+        "crc32": "8392afb4",
+        "sha1": "77081727905d6a527fed2144669845c51b9a7abf"
+      },
+      {
+        "name": "Dainty Luncheons_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Dainty Luncheons_djvu.xml",
+        "mtime": "1685975493",
+        "size": "26282",
+        "md5": "e4c5f19e3486b64e28ff0ac9a5575dbc",
+        "crc32": "9c92d7fd",
+        "sha1": "635d3c165fee76c0d17bd2a535eba4c874be9a2c"
+      },
+      {
+        "name": "Dainty Luncheons_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Dainty Luncheons_hocr.html",
+        "mtime": "1685975462",
+        "size": "370583",
+        "md5": "7364383dfadd5233a313b163a065ec05",
+        "crc32": "99ca3439",
+        "sha1": "dad7cf29e438f2a94f8d84dec1fb785a9f41e65d"
+      },
+      {
+        "name": "Dainty Luncheons_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9691",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Dainty Luncheons_chocr.html.gz",
+        "mtime": "1685975450",
+        "size": "711559",
+        "md5": "caee83bceec499b1fc806b403c8366e7",
+        "crc32": "534a0f14",
+        "sha1": "bbccc01a8306f6f9d80bdca30691ee583267ba47"
+      },
+      {
+        "name": "Dainty Luncheons_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "Dainty Luncheons_hocr.html",
+        "mtime": "1685975471",
+        "size": "244",
+        "md5": "81efd0bf8c1db36638942d210533c944",
+        "crc32": "ec4375d9",
+        "sha1": "23f15c3bc9824292ea6dca8f7f8ac58b1562c87f"
+      },
+      {
+        "name": "Dainty Luncheons_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "52",
+        "word_conf_11_20": "25",
+        "word_conf_21_30": "43",
+        "word_conf_31_40": "39",
+        "word_conf_41_50": "28",
+        "word_conf_51_60": "34",
+        "word_conf_61_70": "28",
+        "word_conf_71_80": "48",
+        "word_conf_81_90": "130",
+        "word_conf_91_100": "4091",
+        "format": "OCR Search Text",
+        "original": "Dainty Luncheons_hocr.html",
+        "mtime": "1685975481",
+        "size": "10166",
+        "md5": "a7e63ffe516cb58456095b2bc846f6e1",
+        "crc32": "15fdc6f2",
+        "sha1": "1e09923d83483f7afacbb807644ff6f720599634"
+      },
+      {
+        "name": "Dainty Luncheons_images.zip",
+        "source": "original",
+        "mtime": "1685974619",
+        "size": "21527617",
+        "md5": "c5069d5fa6b05e56706e0bf9fe6ee9b5",
+        "crc32": "2d533bf2",
+        "sha1": "ebe10f3256e5ad1a2de83b7ab9e5699403b666b6",
+        "format": "Generic Raw Book Zip",
+        "filecount": "40"
+      },
+      {
+        "name": "Dainty Luncheons_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Dainty Luncheons_images.zip",
+        "mtime": "1685975154",
+        "size": "6788307",
+        "md5": "3d2843b34aa2fa3adaa06be8c6a481d2",
+        "crc32": "bab38e2c",
+        "sha1": "ee505bd89a270cb713c170b3a5f61e76989287e8",
+        "filecount": "20"
+      },
+      {
+        "name": "Dainty Luncheons_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "Dainty Luncheons_djvu.xml",
+        "mtime": "1685975546",
+        "size": "3592",
+        "md5": "b7b7220a4348800c4887b16a74a0af94",
+        "crc32": "59d04fa3",
+        "sha1": "ae705419053a5389ebe809ce81b364992e5e5a21"
+      },
+      {
+        "name": "Dainty Luncheons_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Dainty Luncheons_djvu.xml",
+        "mtime": "1685975546",
+        "size": "7029",
+        "md5": "1e3dd0da3ca64cb8587bf53b96595e2f",
+        "crc32": "aff356c1",
+        "sha1": "4a21537332a4584acbe7a454ef911cc28c97f3db"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1685975730",
+        "size": "21865",
+        "md5": "836d032da50b6357679cbb5f9f6a9bf1",
+        "crc32": "71f526e9",
+        "sha1": "145080e1a940bf62e5ca9e6bdb819e09484f9209",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "dainty-luncheons-images_202306_archive.torrent",
+        "source": "metadata",
+        "btih": "f999d4ff7fe0c71aae4c905cf084f4c985528aa3",
+        "mtime": "1716130396",
+        "size": "5068",
+        "md5": "f9e1f293304ea6e16e55373397642a1e",
+        "crc32": "889c52e3",
+        "sha1": "5a6117928074748bdd412a1a249a11405b80e333",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "dainty-luncheons-images_202306_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "407b616a9f8a6e1edb3c4f61ae3a2669",
+        "summation": "md5"
+      },
+      {
+        "name": "dainty-luncheons-images_202306_meta.sqlite",
+        "source": "original",
+        "mtime": "1685974799",
+        "size": "20480",
+        "md5": "429039eb2575d43fcf1441445de8a495",
+        "crc32": "f565af22",
+        "sha1": "cd6c519b604c5a8d019e3aa6faf57e139f6bdd1f",
+        "format": "Metadata"
+      },
+      {
+        "name": "dainty-luncheons-images_202306_meta.xml",
+        "source": "original",
+        "mtime": "1716130395",
+        "size": "1751",
+        "md5": "787600296612c56b3731be1da4e94b5a",
+        "crc32": "004dbfdf",
+        "sha1": "03757948a4199eb77e2dbfb6f36188de09d7f5e9",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1716130396,
+    "item_size": 33027742,
+    "metadata": {
+      "identifier": "dainty-luncheons-images_202306",
+      "mediatype": "texts",
+      "collection": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "creator": "Woolverton Printing & Publishing Co.",
+      "date": "1900-01-01",
+      "description": "Dainty Luncheons. How to prepare them. Osage, Iowa: Woolverton Printing &amp; Publishing Co. ca. 1900. <br />",
+      "language": "eng",
+      "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": "cookbook",
+      "title": "Dainty Luncheons. How to Prepare Them",
+      "uploader": "valoise@gmail.com",
+      "publicdate": "2023-06-05 14:18:16",
+      "addeddate": "2023-06-05 14:18:16",
+      "curation": "[curator]validator@archive.org[/curator][date]20230605142141[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/dainty-luncheons-images_202306",
+      "identifier-ark": "ark:/13960/s25x5w9jzxr",
+      "ocr": "tesseract 5.3.0-3-g9920",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9691",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "68.42",
+      "pdf_module_version": "0.0.22",
+      "collection_added": [
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia601401.us.archive.org",
+    "uniq": 1011949898,
+    "workable_servers": [
+      "ia601401.us.archive.org",
+      "ia801401.us.archive.org"
+    ]
+  },
+  "institution": "Woolverton Printing & Publishing Co.",
+  "pdf_url": "https://archive.org/download/dainty-luncheons-images_202306/Dainty Luncheons.pdf",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

@@ -1,0 +1,478 @@
+{
+  "source": "internet_archive",
+  "identifier": "quicksoupssimple0000unse",
+  "title": "Quick soups, simple salads",
+  "creator": "None",
+  "year": 1999,
+  "subject": [
+    "Soups",
+    "Salads"
+  ],
+  "description": [
+    "190 pages : 26 cm",
+    "\"Special edition for the Cooking Club of America cooking arts collection.\""
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/quicksoupssimple0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/quicksoupssimple0000unse"
+        }
+      ]
+    },
+    "created": 1758558986,
+    "d1": "ia601605.us.archive.org",
+    "d2": "ia801605.us.archive.org",
+    "dir": "/18/items/quicksoupssimple0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660964118",
+        "size": "13796",
+        "md5": "1bbee21500dafc83e3cd9e0411bad7a2",
+        "crc32": "a5884335",
+        "sha1": "def4390ad92e1c6d62577074210daf4f3b0441cf",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/quicksoupssimple0000unse_iabdash_2018-10-2015:31:08.log",
+        "source": "original",
+        "mtime": "1540020679",
+        "size": "1342",
+        "md5": "5e2a2a8181b8a37226d15257e4793982",
+        "crc32": "19a65f25",
+        "sha1": "c121af671589fb585583aa63f5bd17856b52bec1",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/quicksoupssimple0000unse_scanning_2018-10-2015:31:00.log",
+        "source": "original",
+        "mtime": "1540020672",
+        "size": "353313",
+        "md5": "fbe649ffc4e8ae7fb7a7c32e16233161",
+        "crc32": "59f020a1",
+        "sha1": "8e6c9575689d80811395812a3464b6f6e76e2c49",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "quicksoupssimple0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "quicksoupssimple0000unse_hocr.html",
+        "mtime": "1758191422",
+        "size": "37775568",
+        "private": "true",
+        "md5": "045b66128bb1dea3e39f9ceb584e8f03",
+        "crc32": "2611404a",
+        "sha1": "fb2cbc6533efe2ed5f517345e839323a21c2cace"
+      },
+      {
+        "name": "quicksoupssimple0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "quicksoupssimple0000unse.pdf",
+        "mtime": "1758191324",
+        "size": "11123778",
+        "md5": "8ac5c5efbca3a3452d37f88d491fff7e",
+        "crc32": "645109b6",
+        "sha1": "7c71a3a1ec4ee3f1b154c04c1f67a8e23a5ac06c"
+      },
+      {
+        "name": "quicksoupssimple0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "quicksoupssimple0000unse_page_numbers.json",
+        "mtime": "1660964131",
+        "size": "10653590",
+        "md5": "8e5d3ece6450b742ff90788bd21cb3da",
+        "crc32": "73b96fa1",
+        "sha1": "121e3f49650fe7ff19db58f8bffd5d4a9368de8e",
+        "private": "true"
+      },
+      {
+        "name": "quicksoupssimple0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "quicksoupssimple0000unse_jp2.zip",
+        "mtime": "1540348421",
+        "size": "3524907",
+        "md5": "0c2293d15d0d4cb7deee0e985d2b216d",
+        "crc32": "f8b70b54",
+        "sha1": "a247706a83bf7e326a0441380bcca1c821bf660a",
+        "private": "true"
+      },
+      {
+        "name": "quicksoupssimple0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "quicksoupssimple0000unse_abbyy.gz",
+        "mtime": "1660963868",
+        "size": "2875791",
+        "md5": "a95eb8017ea803479a90d131d6fad325",
+        "crc32": "bce65722",
+        "sha1": "0521bc5c3c8a7d0d55f2bed6130733aa4d5f5490",
+        "private": "true"
+      },
+      {
+        "name": "quicksoupssimple0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "quicksoupssimple0000unse_scandata.xml",
+        "mtime": "1671049394",
+        "size": "789",
+        "md5": "6ac09412e4931aed6f1b515c298345ec",
+        "crc32": "7eeab4e1",
+        "sha1": "d132db46fcf1eeaf882bab82fb069d3861958da8",
+        "private": "true"
+      },
+      {
+        "name": "quicksoupssimple0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660963682",
+        "size": "1134",
+        "md5": "54ed20046bff7c8650443eb7f3292261",
+        "crc32": "9b04d7e0",
+        "sha1": "dcfb3ad81a3da1c450219bae36786a07a654c765"
+      },
+      {
+        "name": "quicksoupssimple0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "quicksoupssimple0000unse_djvu.xml",
+        "mtime": "1660964113",
+        "size": "260394",
+        "md5": "a12fe6edf0166a244fa040cf4278e030",
+        "crc32": "a5d5d085",
+        "sha1": "b842d66c62dac5894217f77b5fdec9d0731f651c",
+        "private": "true"
+      },
+      {
+        "name": "quicksoupssimple0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "quicksoupssimple0000unse_hocr.html",
+        "mtime": "1660964033",
+        "size": "3261219",
+        "md5": "7014893ca7074757ee58b4956d32c4e4",
+        "crc32": "a27fc0c1",
+        "sha1": "9162719acacf2e6309d4da54120cfc07d609cb18",
+        "private": "true"
+      },
+      {
+        "name": "quicksoupssimple0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "quicksoupssimple0000unse_abbyy.gz",
+        "mtime": "1540349222",
+        "size": "2729307",
+        "md5": "c41cc91bfd0d49909a3739bc0a2f2aec",
+        "crc32": "1918b97e",
+        "sha1": "9d17a21aefcedd48b4147ea0c57e5af0251aaf38"
+      },
+      {
+        "name": "quicksoupssimple0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "quicksoupssimple0000unse.pdf",
+        "mtime": "1671049167",
+        "size": "10653930",
+        "md5": "f953443610190a365487d65117e0b740",
+        "crc32": "adc7fc5b",
+        "sha1": "fe6a5909ec2ef0273688e6a0e98d1feefa5d7a9e"
+      },
+      {
+        "name": "quicksoupssimple0000unse_events.json",
+        "source": "original",
+        "mtime": "1540343689",
+        "size": "54",
+        "md5": "f093663c438e4ac0fcecd51c8eb7e8a5",
+        "crc32": "b17e93e7",
+        "sha1": "278051504e74911eb14529d1ff9dc5c144d2b4c1",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "quicksoupssimple0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "f02b3e049da5446cc3e87c4430608efc",
+        "summation": "md5"
+      },
+      {
+        "name": "quicksoupssimple0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "quicksoupssimple0000unse_chocr.html.gz",
+        "mtime": "1660964003",
+        "size": "6806507",
+        "md5": "a3bacdc9f5ccd8b0589577d9c5e7f321",
+        "crc32": "c7e06be8",
+        "sha1": "14dd38ddf812406e8a4853cb98a05e0829a02efa",
+        "private": "true"
+      },
+      {
+        "name": "quicksoupssimple0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "quicksoupssimple0000unse_hocr.html",
+        "mtime": "1660964074",
+        "size": "2200",
+        "md5": "d58f8ee28b9a7ef8d3ec8452c2725b9b",
+        "crc32": "fb2d8b5a",
+        "sha1": "85795bfd254a7be61d9ae97c8de4314ba34a1564",
+        "private": "true"
+      },
+      {
+        "name": "quicksoupssimple0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "404",
+        "word_conf_11_20": "237",
+        "word_conf_21_30": "323",
+        "word_conf_31_40": "623",
+        "word_conf_41_50": "993",
+        "word_conf_51_60": "1532",
+        "word_conf_61_70": "2736",
+        "word_conf_71_80": "4719",
+        "word_conf_81_90": "7902",
+        "word_conf_91_100": "18163",
+        "format": "OCR Search Text",
+        "original": "quicksoupssimple0000unse_hocr.html",
+        "mtime": "1660964104",
+        "size": "62590",
+        "md5": "3a9836c9b70e6016b6ca4d3783665717",
+        "crc32": "90c5da4c",
+        "sha1": "8fa82f61c6ffe521f699aa2be44a5b2c55902f6a",
+        "private": "true"
+      },
+      {
+        "name": "quicksoupssimple0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "quicksoupssimple0000unse_orig_jp2.tar",
+        "mtime": "1540347545",
+        "size": "71414356",
+        "md5": "db5fdb72026256e545b2a28ae2534c9d",
+        "crc32": "e384e0fe",
+        "sha1": "4934db71b3c0fbae91840a084f581c901663990d",
+        "private": "true",
+        "filecount": "202"
+      },
+      {
+        "name": "quicksoupssimple0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "quicksoupssimple0000unse.epub",
+        "mtime": "1758191464",
+        "size": "38205688",
+        "md5": "0195853eef3d458730221fb207568608",
+        "crc32": "0d78b1a8",
+        "sha1": "45a583592a16249ed9a2dea433bc901362e19dff"
+      },
+      {
+        "name": "quicksoupssimple0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1660963682",
+        "size": "4046",
+        "format": "MARC",
+        "md5": "112370e817e2b3fc8a1b32c8d6541146",
+        "crc32": "36f7c673",
+        "sha1": "d30a53c37df1eea5f667d1bb884dea2cd24795e6"
+      },
+      {
+        "name": "quicksoupssimple0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1540020692",
+        "size": "1159",
+        "md5": "967a999a67a912b9386f8089aceb8397",
+        "crc32": "abae3ab7",
+        "sha1": "49a91b56423102eb7f5abfd24cf840a85498abdd",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "quicksoupssimple0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1540344531",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "fc000daac42ff73d7400b4495a79f85b",
+        "crc32": "9e8f14da",
+        "sha1": "19d82175430bfd29e94167ed3f6c716abf80b18e"
+      },
+      {
+        "name": "quicksoupssimple0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1758191464",
+        "size": "2979",
+        "format": "Metadata",
+        "md5": "67811d4316eaca1cde0092a5d7da643d",
+        "crc32": "9738ffe0",
+        "sha1": "e29fb0e3a1da02c0b52562d89917dda7ba3fa227"
+      },
+      {
+        "name": "quicksoupssimple0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1540344531",
+        "size": "168468480",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "d82fe201da25c74a12c40ed69ed885ee",
+        "crc32": "6fdcda72",
+        "sha1": "dfcf7a2f2804e5b7ef9b2732b9f7d55a0f44e5b6",
+        "filecount": "202"
+      },
+      {
+        "name": "quicksoupssimple0000unse_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "quicksoupssimple0000unse_djvu.xml",
+        "mtime": "1660964114",
+        "size": "36338",
+        "md5": "8f75904c9633ad64db12392c50e1f16d",
+        "crc32": "dcf09fa6",
+        "sha1": "1e10f0d87b53746a12ccd345f023c5b71f3d6be1",
+        "private": "true"
+      },
+      {
+        "name": "quicksoupssimple0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671049394",
+        "size": "205639",
+        "format": "Scandata",
+        "md5": "029702581cf38f873e84da5fee95560c",
+        "crc32": "60b372c0",
+        "sha1": "1aaadacdf23c2c564a261e3a1c6f71ed4616e244"
+      },
+      {
+        "name": "quicksoupssimple0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "quicksoupssimple0000unse_djvu.xml",
+        "mtime": "1671049293",
+        "size": "523",
+        "md5": "199b2374e88ed28d5276f1d3d8a47fd2",
+        "crc32": "bcef30e8",
+        "sha1": "2506558db3dd5f65198f95cdb10316423bc14ca0",
+        "private": "true"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1758191464,
+    "item_size": 368455801,
+    "metadata": {
+      "identifier": "quicksoupssimple0000unse",
+      "associated-names": "Cooking Club of America",
+      "boxid": "IA1361313",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "None",
+      "creator-alt-script": "None",
+      "date": "1999-01-01",
+      "description": [
+        "190 pages : 26 cm",
+        "\"Special edition for the Cooking Club of America cooking arts collection.\""
+      ],
+      "isbn": [
+        "0696211696",
+        "9780696211690"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA15452",
+      "operator": "associate-ria-gargoles@archive.org",
+      "ppi": "300",
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "repub_state": "19",
+      "scanner": "station01.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "subject": [
+        "Soups",
+        "Salads",
+        "Salads",
+        "Soups"
+      ],
+      "title": "Quick soups, simple salads",
+      "title-alt-script": "None",
+      "tts_version": "v1.61-final",
+      "uploader": "station01.cebu@archive.org",
+      "addeddate": "2018-10-20 07:30:51",
+      "publicdate": "2018-10-20 07:31:26",
+      "imagecount": "202",
+      "scandate": "20181020084614",
+      "republisher_operator": "associate-janice-capul@archive.org",
+      "republisher_date": "20181024091441",
+      "republisher_time": "529",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/quicksoupssimple0000unse",
+      "identifier-ark": "ark:/13960/t7fr75z13",
+      "bookplateleaf": "0004",
+      "external-identifier": [
+        "urn:acs6:quicksoupssimple0000unse:epub:ccdeefd6-db50-4dc7-96b2-23f76dd45c6a",
+        "urn:acs6:quicksoupssimple0000unse:pdf:3a107a56-d65d-4dcb-9fb5-165d33d28d8b",
+        "urn:lcp:quicksoupssimple0000unse:lcpdf:bb9945e4-3407-4deb-9288-296d46525527",
+        "urn:lcp:quicksoupssimple0000unse:epub:b446d419-eedc-4461-84ed-cb662339a661"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20181031",
+      "openlibrary_edition": "OL7760750M",
+      "openlibrary_work": "OL18177109W",
+      "access-restricted-item": "true",
+      "backup_location": "ia906803_10",
+      "oclc-id": [
+        "43847282",
+        "731435110"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "49.45",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia801605.us.archive.org",
+    "uniq": 243548578,
+    "workable_servers": [
+      "ia801605.us.archive.org",
+      "ia601605.us.archive.org"
+    ]
+  },
+  "institution": "None",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

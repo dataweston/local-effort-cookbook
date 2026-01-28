@@ -1,0 +1,132 @@
+{
+  "source": "dpla",
+  "id": "d7941c03fc04b3a80926f00bfe8ee33f",
+  "identifier": "d7941c03fc04b3a80926f00bfe8ee33f",
+  "title": "Letter, 1986, Barbara Gephart to Augusta Baker",
+  "subject": [
+    "Baker, Augusta, 1911-1998--Correspondence",
+    "African American women librarians",
+    "Children's librarians",
+    "African American librarians",
+    "Women librarians",
+    "Gephart, Barbara--Correspondence"
+  ],
+  "spatial": [
+    "United States",
+    "Kentucky",
+    "Jefferson County",
+    "Louisville",
+    "38.25424, -85.75941"
+  ],
+  "description": "Letter from Barbara Gephart, Coordinator, to Augusta Baker, requesting a recipe for the Corn Island Cookbook.",
+  "isShownAt": "http://cdm17173.contentdm.oclc.org/cdm/ref/collection/abaker/id/3886",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/dlg",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q5275908"
+    ],
+    "name": "Digital Library of Georgia"
+  },
+  "institution": "Digital Library of Georgia",
+  "year": 1986,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/d7941c03fc04b3a80926f00bfe8ee33f#SourceResource",
+      "collection": [
+        {
+          "title": "Augusta Baker papers, 1911-1998"
+        }
+      ],
+      "contributor": [
+        "Baker, Augusta, 1911-1998"
+      ],
+      "creator": [
+        "Gephart, Barbara"
+      ],
+      "date": [
+        {
+          "displayDate": "1986-03-05"
+        }
+      ],
+      "description": [
+        "Letter from Barbara Gephart, Coordinator, to Augusta Baker, requesting a recipe for the Corn Island Cookbook."
+      ],
+      "extent": [
+        "1 item"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Columbia, S.C. : University of South Carolina. South Caroliniana Library"
+      ],
+      "rights": [
+        "Copyright Not Evaluated. For further information please contact The University of South Carolina, South Caroliniana Library, Columbia, SC 29208."
+      ],
+      "spatial": [
+        {
+          "name": "United States"
+        },
+        {
+          "name": "Kentucky"
+        },
+        {
+          "name": "Jefferson County"
+        },
+        {
+          "coordinates": "38.25424, -85.75941",
+          "name": "Louisville"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Baker, Augusta, 1911-1998--Correspondence"
+        },
+        {
+          "name": "African American women librarians"
+        },
+        {
+          "name": "Children's librarians"
+        },
+        {
+          "name": "African American librarians"
+        },
+        {
+          "name": "Women librarians"
+        },
+        {
+          "name": "Gephart, Barbara--Correspondence"
+        }
+      ],
+      "title": [
+        "Letter, 1986, Barbara Gephart to Augusta Baker"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1986-03-05",
+      "normalized_dates": [
+        "1986-03-05"
+      ]
+    }
+  },
+  "data": {
+    "object": "https://dlg.galileo.usg.edu/do-th:suc_abaker_3886",
+    "isShownAt": "http://cdm17173.contentdm.oclc.org/cdm/ref/collection/abaker/id/3886"
+  },
+  "location": {
+    "state": "Ia",
+    "county": "Jefferson County"
+  },
+  "curation": {
+    "score": 8,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "County match: Jefferson County; Digitized scan available"
+}

@@ -1,0 +1,561 @@
+{
+  "source": "internet_archive",
+  "identifier": "chefbobosgoodfoo00chef",
+  "title": "Chef Bobo's good food cookbook : smart recipes for happy, healthy kids",
+  "creator": "Chef Bobo",
+  "year": 2004,
+  "subject": [
+    "Cooking",
+    "Children"
+  ],
+  "description": "Fresh Herbs for Fresh Flavor -- Salads: A Refresher Course -- Garden Variety Soups -- Well-Bread Sandwiches -- The Dinner Bell -- Sensationally Seasoned Veggies -- Simply Sweet",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/chefbobosgoodfoo00chef"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/chefbobosgoodfoo00chef"
+        }
+      ]
+    },
+    "created": 1758555638,
+    "d1": "ia601608.us.archive.org",
+    "d2": "ia801608.us.archive.org",
+    "dir": "/29/items/chefbobosgoodfoo00chef",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659730992",
+        "size": "20392",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "da093efd3a8ebd62a689ddb0006b71bc",
+        "crc32": "6eba2eb4",
+        "sha1": "d8a7b7958d332c9e27ac376fba85044b603b8342"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "chefbobosgoodfoo00chef_hocr.html",
+        "mtime": "1753141764",
+        "size": "41275662",
+        "private": "true",
+        "md5": "90d337edc2179d6076845f91ab3e30b7",
+        "crc32": "ae1c5b53",
+        "sha1": "0d7f857f422b7f63ae9d56f3cc483dbd47a40c7a"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "chefbobosgoodfoo00chef_jp2.zip",
+        "mtime": "1302169834",
+        "size": "245477",
+        "md5": "0a84979565e94b084c2f010a82ace2fd",
+        "crc32": "60cb07e3",
+        "sha1": "ac792792fbbae72d700dfa0a04842108f8317ee7"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "chefbobosgoodfoo00chef.pdf",
+        "mtime": "1753141308",
+        "size": "14958714",
+        "md5": "adec5e0203c7ad60c2d23ab37db63be4",
+        "crc32": "4a90e6e8",
+        "sha1": "ce55998843c69964c01848177eb353f0600b6202"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "chefbobosgoodfoo00chef_page_numbers.json",
+        "mtime": "1718549902",
+        "size": "14659282",
+        "md5": "4a9a3bec8735c348aa18597df184ab13",
+        "crc32": "a3fe547c",
+        "sha1": "d89363e55f40e70704f760e5348d32a8fd751466",
+        "private": "true"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "chefbobosgoodfoo00chef_jp2.zip",
+        "mtime": "1302183202",
+        "size": "4325944",
+        "md5": "b3d1f568cd8d5139b8af1589f7aad42f",
+        "crc32": "9a57d9b7",
+        "sha1": "6477d54ee4f5f85704ca79f4413425dcabadee34",
+        "private": "true"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "chefbobosgoodfoo00chef_page_numbers.json",
+        "mtime": "1718549903",
+        "size": "10562637",
+        "md5": "91410c3cc0abe0105fd2ea173d09e132",
+        "crc32": "47b6bea2",
+        "sha1": "77f2698482123efa24f6ba83db7ad6e8f94073ca",
+        "private": "true"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "chefbobosgoodfoo00chef_abbyy.gz",
+        "mtime": "1659729836",
+        "size": "3543340",
+        "md5": "2fd40c5e233a9fd491b8e42627324213",
+        "crc32": "473b4d13",
+        "sha1": "cae988caf944bc649d0a2252daa8ba7c28ef237f",
+        "private": "true"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "chefbobosgoodfoo00chef_scandata.xml",
+        "mtime": "1669572719",
+        "size": "780",
+        "md5": "2c2e703467b095ab739545f1fbb0c07a",
+        "crc32": "ff19f652",
+        "sha1": "ce2fb37979ae280621a80afc48b07fdae2724746",
+        "private": "true"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1290113784",
+        "size": "816",
+        "md5": "76a5529741c78f8bb2395b6f63a37ddd",
+        "crc32": "7652f5",
+        "sha1": "23c383205e4fc60e9c0b2745aee0a1331d9a4aea"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "chefbobosgoodfoo00chef_djvu.xml",
+        "mtime": "1722137832",
+        "size": "328641",
+        "md5": "85ee706f4efdc02129e826df3d5b80ef",
+        "crc32": "e5c03358",
+        "sha1": "92431b4239fd222d9c941f19679cc7a00585dc39",
+        "private": "true"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "chefbobosgoodfoo00chef_hocr.html",
+        "mtime": "1722137825",
+        "size": "4018088",
+        "md5": "1b058bb33db60b2fc898476075adf82e",
+        "crc32": "4723ef9c",
+        "sha1": "0200dc2de4c5d291af8cf13de90a56ca6c88ed91",
+        "private": "true"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "chefbobosgoodfoo00chef.pdf",
+        "mtime": "1718550081",
+        "size": "14619597",
+        "md5": "edaa8460f0101aa5d9d2e09272f31905",
+        "crc32": "53027012",
+        "sha1": "94ee29a26ed0d45ae6cb478d7e90a2529df11cac"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "55023c91abed09d180e27563ed86bbb0",
+        "summation": "md5"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "chefbobosgoodfoo00chef_chocr.html.gz",
+        "mtime": "1659730437",
+        "size": "7574218",
+        "md5": "7e50e26b8de9c996bdb3cb79c5201578",
+        "crc32": "a3b7f98c",
+        "sha1": "1dd75581cf3a420beee61bf6c9d9305e5f3c4e0d",
+        "private": "true"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "chefbobosgoodfoo00chef_hocr.html",
+        "mtime": "1659730715",
+        "size": "2635",
+        "md5": "8fd79e544fa9888cf3f3e6ca2f4a9953",
+        "crc32": "f18c2a4b",
+        "sha1": "a66d69774fb1cea5a31d32b59363fcf0cf9a9373",
+        "private": "true"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "4181",
+        "word_conf_11_20": "3149",
+        "word_conf_21_30": "5100",
+        "word_conf_31_40": "5283",
+        "word_conf_41_50": "8075",
+        "word_conf_51_60": "8362",
+        "word_conf_61_70": "7430",
+        "word_conf_71_80": "3684",
+        "word_conf_81_90": "1020",
+        "word_conf_91_100": "2016",
+        "format": "OCR Search Text",
+        "original": "chefbobosgoodfoo00chef_hocr.html",
+        "mtime": "1659730961",
+        "size": "88835",
+        "md5": "2b03017c756750961c79e185fe04d979",
+        "crc32": "52814207",
+        "sha1": "ebd001bfdfee2005634464aed4614e360a10fee8",
+        "private": "true"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "chefbobosgoodfoo00chef_orig_jp2.tar",
+        "mtime": "1302169292",
+        "size": "88511467",
+        "md5": "03bef1c1cf3021a9185ca7a1ee5761f7",
+        "crc32": "4a59c3c0",
+        "sha1": "787def411aa8c3bafd3b77dcf9fba1994afc82e9",
+        "private": "true",
+        "filecount": "236"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "chefbobosgoodfoo00chef.epub",
+        "mtime": "1753142724",
+        "size": "41790189",
+        "md5": "5ab8e34ff74b62f09d50a3c637dce03d",
+        "crc32": "c4a54ecb",
+        "sha1": "68b734b94de18340a6c8648d0a0e115e049fc109"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_loans.json",
+        "source": "original",
+        "mtime": "1597703426",
+        "size": "2837",
+        "format": "JSON",
+        "private": "true",
+        "md5": "a9b972dd3ea58d83716c77463660d8fe",
+        "crc32": "b3b537c1",
+        "sha1": "6e7f8bcd393e201b3cbf7218302892b4fe2def85"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1290113784",
+        "size": "3399",
+        "md5": "c026929ad50aabd360ea3deeeebc466f",
+        "crc32": "28cac13a",
+        "sha1": "9ac45de50cbd8d24ce45b149d1c4916cd015de63"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "chefbobosgoodfoo00chef_xisbn.json",
+        "mtime": "1454279673",
+        "size": "345",
+        "md5": "db58e966d304dc3474b7e0c4897b6159",
+        "crc32": "48c2b163",
+        "sha1": "dea0200231a3169aa27412c00860dfbcdc515f7e",
+        "private": "true"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1290113784",
+        "size": "1074",
+        "md5": "b5595dac41d0f464e40228da8dcea262",
+        "crc32": "2a41bc70",
+        "sha1": "dde036601e65267140de4d37b52aa96bda9ea10e"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_meta.sqlite",
+        "source": "original",
+        "mtime": "1466614088",
+        "size": "8192",
+        "format": "Metadata",
+        "md5": "8b476aa5251f5479513200a4d88ac147",
+        "crc32": "f71674eb",
+        "sha1": "907fb49d815a7bac5f2647745d7bd0ae910b226c"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753142724",
+        "size": "3522",
+        "md5": "37cad7313c7d3241ee7c750eb6f443fe",
+        "crc32": "1d2d74fc",
+        "sha1": "5cd4cef65631a87ddc79247c97a95295478cf4c5"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1290113784",
+        "size": "462",
+        "md5": "a0f872631ee3cad3fc4018a86217cbc3",
+        "crc32": "5c0d8bde",
+        "sha1": "d2d801c60c95be672a0caa4e19a304c23a9e3f24"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_mets.xml",
+        "source": "original",
+        "mtime": "1439345520",
+        "size": "1636",
+        "md5": "6d0f0a519cbefb52f69e819551328519",
+        "crc32": "a0a43d7d",
+        "sha1": "3f1492888d836d29ff5c64cf0cf47b4d27be9caf",
+        "format": "METS",
+        "private": "true"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1301361636",
+        "size": "144445440",
+        "md5": "f9ebca94ca9548206f565cc604e3a947",
+        "crc32": "c7e73a49",
+        "sha1": "1e2722391ff524b5ef0c42a1dc22c2322614ac3f",
+        "private": "true",
+        "filecount": "236"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "chefbobosgoodfoo00chef_hocr.html",
+        "mtime": "1718549898",
+        "size": "39491",
+        "md5": "b76c813884dda6b3789360f553cca19b",
+        "crc32": "5f355c87",
+        "sha1": "56ce87c49140de68a6361971b68165a0b3aff8dd",
+        "private": "true"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669572719",
+        "size": "234360",
+        "md5": "9afc0339eabdc786dcfc2d009c46fe60",
+        "crc32": "6b07862c",
+        "sha1": "b96f14b219933ec97bdf4fedf1a8ed9657a18451"
+      },
+      {
+        "name": "chefbobosgoodfoo00chef_xisbn.json",
+        "source": "original",
+        "mtime": "1454142007",
+        "size": "337",
+        "md5": "d071a1f64aae9d3aebea039ecb612098",
+        "crc32": "9c66ba17",
+        "sha1": "1ed355d9d9c5e991d3ff2110218d43981ff00b6f",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753142724,
+    "item_size": 391267809,
+    "metadata": {
+      "title": "Chef Bobo's good food cookbook : smart recipes for happy, healthy kids",
+      "creator": "Chef Bobo",
+      "subject": [
+        "Cooking",
+        "Children"
+      ],
+      "description": "Fresh Herbs for Fresh Flavor -- Salads: A Refresher Course -- Garden Variety Soups -- Well-Bread Sandwiches -- The Dinner Bell -- Sensationally Seasoned Veggies -- Simply Sweet",
+      "publisher": "Des Moines, Iowa : Meredith",
+      "date": "2004-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696221500",
+        "9780696221507"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA135312",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-11-18 20:56:25",
+      "updater": "Francis Ong",
+      "identifier": "chefbobosgoodfoo00chef",
+      "uploader": "francis@archive.org",
+      "addeddate": "2010-11-18 20:56:27",
+      "publicdate": "2010-11-18 20:56:36",
+      "scanner": "scribe5.shenzhen.archive.org",
+      "repub_seconds": "80842",
+      "ppi": "386",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-amy@archive.org",
+      "scandate": "20110329012028",
+      "imagecount": "234",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/chefbobosgoodfoo00chef",
+      "identifier-ark": "ark:/13960/t3xs6jx3c",
+      "curation": "[curator]scanner-shenzhen-leo@archive.org[/curator][date]20110614175700[/date][state]approved[/state][comment]199[/comment]",
+      "scanfee": "10",
+      "curatenote": "shipped",
+      "sponsordate": "sent20110421",
+      "donor": "belvederetiburonlibrary",
+      "external-identifier": [
+        "urn:acs6:chefbobosgoodfoo00chef:pdf:7dc36f01-e831-452f-b3b5-717888aff2ef",
+        "urn:acs6:chefbobosgoodfoo00chef:epub:c921e8d4-9a2c-4fc9-a4df-0466c8d991dd",
+        "urn:oclc:record:1029271499",
+        "urn:lcp:chefbobosgoodfoo00chef:lcpdf:df5f74f8-8f79-4050-8b45-c34d3a08c890",
+        "urn:lcp:chefbobosgoodfoo00chef:epub:4f469b7b-8ac6-4f55-8ef9-f7bfba9f92d7"
+      ],
+      "city": "Des Moines, Iowa",
+      "oclc-id": [
+        "56625762",
+        "56647710"
+      ],
+      "lccn": "2004103862",
+      "backup_location": "ia903607_11",
+      "openlibrary_edition": "OL24628972M",
+      "openlibrary_work": "OL15705224W",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-08-17T22:27:52Z",
+      "loans__status__num_history": "9",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 18:00:30 UTC 2020",
+        "Tue Apr 2 23:16:26 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601608.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "cnusd-ol": {
+          "notes": {
+            "isbn": [
+              "9780696221507"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-06-25 05:17:45.672125"
+        },
+        "denverpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780696221507"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2019-03-20 09:58:13.013726"
+        }
+      }
+    },
+    "uniq": 244387979,
+    "workable_servers": [
+      "ia601608.us.archive.org",
+      "ia801608.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/56625762?referer=xid"
+          ],
+          "publisher": "Meredith Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2004103862"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[by Robert W. Surles].",
+          "year": "2004",
+          "isbn": [
+            "0696221500"
+          ],
+          "title": "Chef Bobo's good food cookbook",
+          "oclcnum": [
+            "56625762",
+            "56647710"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Chef Bobo",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

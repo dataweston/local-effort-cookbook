@@ -1,0 +1,279 @@
+{
+  "source": "internet_archive",
+  "identifier": "van-kooten-family-cookbook",
+  "title": "Van Kooten Family Cookbook",
+  "creator": null,
+  "year": 2010,
+  "subject": [
+    "Cookbook",
+    "History",
+    "Genealogy",
+    "Family History"
+  ],
+  "description": "A cookbook from the Van Kooten family descendants that came to America and settled in Iowa in 1910. The recipes are all contributions from different family members. There are also several memories and history of the family of their life in Holland and then later when they arrived near Pella, Iowa.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn710206.ca.archive.org",
+          "dir": "/0/items/van-kooten-family-cookbook"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn710206.ca.archive.org",
+          "dir": "/0/items/van-kooten-family-cookbook"
+        }
+      ]
+    },
+    "created": 1758555094,
+    "d1": "ia903200.us.archive.org",
+    "d2": "ia803200.us.archive.org",
+    "dir": "/34/items/van-kooten-family-cookbook",
+    "files": [
+      {
+        "name": "Van.Kooten_Family.Cookbook.pdf",
+        "source": "original",
+        "mtime": "1682544702",
+        "size": "29379905",
+        "md5": "ded3bb48138595b4bf294dea4e699dd4",
+        "crc32": "58171435",
+        "sha1": "190c394a39ea05fd2d2a18b052a97302ed51dde9",
+        "format": "Text PDF",
+        "viruscheck": "1682546711"
+      },
+      {
+        "name": "Van.Kooten_Family.Cookbook_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-3-g9920",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9616",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Van.Kooten_Family.Cookbook_jp2.zip",
+        "mtime": "1682549544",
+        "size": "4677054",
+        "md5": "0e91d09ff1c5a13b9818b4b863744b58",
+        "crc32": "0e892295",
+        "sha1": "6ff89acceaec5558ead37b6355635278c9ac4b49"
+      },
+      {
+        "name": "Van.Kooten_Family.Cookbook_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Van.Kooten_Family.Cookbook_djvu.xml",
+        "mtime": "1682549781",
+        "size": "328854",
+        "md5": "cc34be8540f491af45c812f2575ce251",
+        "crc32": "e0367f18",
+        "sha1": "ec798c3f5c87350690f5eab129fce2ee677cb004"
+      },
+      {
+        "name": "Van.Kooten_Family.Cookbook_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Van.Kooten_Family.Cookbook_hocr.html",
+        "mtime": "1682549681",
+        "size": "4805726",
+        "md5": "a4d3f10817560ffa5d63aa5120036368",
+        "crc32": "c50cfd0f",
+        "sha1": "386647769f9a64b8a120dad04d09bd8d3c13d89f"
+      },
+      {
+        "name": "Van.Kooten_Family.Cookbook_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9616",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Van.Kooten_Family.Cookbook_chocr.html.gz",
+        "mtime": "1682549659",
+        "size": "9389670",
+        "md5": "6c275ed7d09e2aa8f6580d28929926d9",
+        "crc32": "5b17a2ed",
+        "sha1": "cfbb4e78f226dbfff2868ce2dbae5a833c8235ed"
+      },
+      {
+        "name": "Van.Kooten_Family.Cookbook_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "Van.Kooten_Family.Cookbook_hocr.html",
+        "mtime": "1682549703",
+        "size": "3434",
+        "md5": "caa2e2e46008fc7b0c678052f32e926a",
+        "crc32": "2cc6a8e2",
+        "sha1": "d02900ebda4d420bfad7f96d3540b4ef95723f2e"
+      },
+      {
+        "name": "Van.Kooten_Family.Cookbook_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "901",
+        "word_conf_11_20": "396",
+        "word_conf_21_30": "404",
+        "word_conf_31_40": "414",
+        "word_conf_41_50": "352",
+        "word_conf_51_60": "284",
+        "word_conf_61_70": "284",
+        "word_conf_71_80": "377",
+        "word_conf_81_90": "1160",
+        "word_conf_91_100": "49188",
+        "format": "OCR Search Text",
+        "original": "Van.Kooten_Family.Cookbook_hocr.html",
+        "mtime": "1682549769",
+        "size": "104105",
+        "md5": "9d3f8cb7d3dd21a137ff6124e7811e47",
+        "crc32": "fc2f2107",
+        "sha1": "3e11d3f6d62afd085019c3d9131b3a44116f65d9"
+      },
+      {
+        "name": "Van.Kooten_Family.Cookbook_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Van.Kooten_Family.Cookbook.pdf",
+        "mtime": "1682547971",
+        "size": "260720344",
+        "md5": "a19811b23851cdcf1062ab45534829c9",
+        "crc32": "344d10fa",
+        "sha1": "287ce40c8f9f0388301b84e918e86811c598ec80",
+        "filecount": "292"
+      },
+      {
+        "name": "Van.Kooten_Family.Cookbook_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "Van.Kooten_Family.Cookbook_djvu.xml",
+        "mtime": "1682549882",
+        "size": "55954",
+        "md5": "cb34e6415caf4264c1cd2641ee69feee",
+        "crc32": "43f444f9",
+        "sha1": "fff7961df100edefb9060400d4626a0f0c601d2e"
+      },
+      {
+        "name": "Van.Kooten_Family.Cookbook_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Van.Kooten_Family.Cookbook_djvu.xml",
+        "mtime": "1682549882",
+        "size": "103738",
+        "md5": "57aa4a1e49ae9848449bcd7465375155",
+        "crc32": "ff748065",
+        "sha1": "8b37ebbf5da90dd337be5b5e0373664ca0b056a5"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1682549890",
+        "size": "19552",
+        "md5": "490509cb296365a115f3fa67f6bea643",
+        "crc32": "c90bfccb",
+        "sha1": "e95ddd9790f72c757f781ec4281860c8056fea50",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "van-kooten-family-cookbook_archive.torrent",
+        "source": "metadata",
+        "btih": "9c28958cf0a5fb7ae68c5569188c16f54c059048",
+        "mtime": "1682549894",
+        "size": "15490",
+        "md5": "321ebaa1ddb6caa9642b3eda5390cbb0",
+        "crc32": "c6e64bd5",
+        "sha1": "56873e890854ca2bf037b1540df45551094dbec7",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "van-kooten-family-cookbook_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "aee0e556187c90bfcb34567b25527f17",
+        "summation": "md5"
+      },
+      {
+        "name": "van-kooten-family-cookbook_meta.sqlite",
+        "source": "original",
+        "mtime": "1682546363",
+        "size": "20480",
+        "md5": "e9c54a51c092da8f0e500a3aac6f088b",
+        "crc32": "f9212061",
+        "sha1": "110936dc72f60b6e99382cd6055e3e090b2e22db",
+        "format": "Metadata"
+      },
+      {
+        "name": "van-kooten-family-cookbook_meta.xml",
+        "source": "original",
+        "mtime": "1682549769",
+        "size": "1718",
+        "md5": "96d0e563a092a969b7ddbcd350399ed2",
+        "crc32": "d451e06a",
+        "sha1": "7c2100805b55490f3c0687e57988302efd348882",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1682549894,
+    "item_size": 309626024,
+    "metadata": {
+      "identifier": "van-kooten-family-cookbook",
+      "mediatype": "texts",
+      "collection": [
+        "opensource",
+        "community"
+      ],
+      "date": "2010-01-01",
+      "description": "A cookbook from the Van Kooten family descendants that came to America and settled in Iowa in 1910. The recipes are all contributions from different family members. There are also several memories and history of the family of their life in Holland and then later when they arrived near Pella, Iowa.",
+      "language": "eng",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "Cookbook",
+        "History",
+        "Genealogy",
+        "Family History"
+      ],
+      "title": "Van Kooten Family Cookbook",
+      "uploader": "trashinthegutter@gmail.com",
+      "publicdate": "2023-04-26 20:21:29",
+      "addeddate": "2023-04-26 20:21:29",
+      "curation": "[curator]validator@archive.org[/curator][date]20230426202146[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/van-kooten-family-cookbook",
+      "identifier-ark": "ark:/13960/s2jn6dwx47g",
+      "ppi": "600",
+      "page_number_confidence": "97.94",
+      "pdf_module_version": "0.0.22",
+      "ocr": "tesseract 5.3.0-3-g9920",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9616",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000"
+    },
+    "server": "ia803200.us.archive.org",
+    "uniq": 245436823,
+    "workable_servers": [
+      "ia803200.us.archive.org",
+      "ia903200.us.archive.org"
+    ]
+  },
+  "pdf_url": "https://archive.org/download/van-kooten-family-cookbook/Van.Kooten_Family.Cookbook.pdf",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

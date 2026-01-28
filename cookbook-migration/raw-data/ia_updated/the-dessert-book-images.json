@@ -1,0 +1,288 @@
+{
+  "source": "internet_archive",
+  "identifier": "the-dessert-book-images",
+  "title": "The Dessert Book",
+  "creator": "Woolverton Printing & Publishing Co.",
+  "year": 1900,
+  "subject": "cookbook",
+  "description": "The Dessert Book . Osage, Iowa: Woolverton Printing & Publishing Co. ca. 1900.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720005.ca.archive.org",
+          "dir": "/0/items/the-dessert-book-images"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720005.ca.archive.org",
+          "dir": "/0/items/the-dessert-book-images"
+        }
+      ]
+    },
+    "created": 1758556961,
+    "d1": "ia601505.us.archive.org",
+    "d2": "ia801505.us.archive.org",
+    "dir": "/14/items/the-dessert-book-images",
+    "files": [
+      {
+        "name": "The Dessert Book.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.20",
+        "format": "Text PDF",
+        "original": "The Dessert Book_page_numbers.json",
+        "mtime": "1666017346",
+        "size": "3952151",
+        "md5": "f49730f505489cf38b8acbc7b91426e9",
+        "crc32": "06400e78",
+        "sha1": "bee096a66ff6b7e349afe73866dfd92caa6c5976"
+      },
+      {
+        "name": "The Dessert Book_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.2.0-1-gc42a",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9303",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "The Dessert Book_jp2.zip",
+        "mtime": "1666016931",
+        "size": "493071",
+        "md5": "cf30dbfff1b876794235f7fc1319d188",
+        "crc32": "8cdf0ce8",
+        "sha1": "44c1a17046b03c383a784e9d9102677c9683543a"
+      },
+      {
+        "name": "The Dessert Book_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "The Dessert Book_djvu.xml",
+        "mtime": "1666017172",
+        "size": "33797",
+        "md5": "e5dc675f4b27d4a4bcbd49908c0a742a",
+        "crc32": "63b49844",
+        "sha1": "312052f61e702df4bfdbb6fb45cc9e6acdaa599d"
+      },
+      {
+        "name": "The Dessert Book_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "The Dessert Book_hocr.html",
+        "mtime": "1666017043",
+        "size": "477155",
+        "md5": "d227bd5127aa89703b9d85ec8d0cddc6",
+        "crc32": "cc3da8a3",
+        "sha1": "bed98247519f1c44f16414e59e2cd868a3d3c315"
+      },
+      {
+        "name": "The Dessert Book_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9303",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "The Dessert Book_chocr.html.gz",
+        "mtime": "1666017027",
+        "size": "894469",
+        "md5": "85e6d1f8a254b4001bb8e516d985298c",
+        "crc32": "4ff354ee",
+        "sha1": "e69ad1617e8ba226c18622e956731cbc4c663267"
+      },
+      {
+        "name": "The Dessert Book_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "The Dessert Book_hocr.html",
+        "mtime": "1666017107",
+        "size": "247",
+        "md5": "af0a17b6f05bcb4a554000451cc79410",
+        "crc32": "3841965d",
+        "sha1": "a6c211e3e4104e519b52b01b49cfa589054531e1"
+      },
+      {
+        "name": "The Dessert Book_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "32",
+        "word_conf_11_20": "9",
+        "word_conf_21_30": "18",
+        "word_conf_31_40": "14",
+        "word_conf_41_50": "25",
+        "word_conf_51_60": "31",
+        "word_conf_61_70": "30",
+        "word_conf_71_80": "35",
+        "word_conf_81_90": "161",
+        "word_conf_91_100": "5678",
+        "format": "OCR Search Text",
+        "original": "The Dessert Book_hocr.html",
+        "mtime": "1666017147",
+        "size": "10820",
+        "md5": "4fce01cb0ee7865a870a4bc8a015648a",
+        "crc32": "256d1d17",
+        "sha1": "52b9136406080f80fd03c12fdc872fb8da827d5e"
+      },
+      {
+        "name": "The Dessert Book_images.zip",
+        "source": "original",
+        "mtime": "1666016492",
+        "size": "27718313",
+        "md5": "7e641209300827570498872c4b49e2b4",
+        "crc32": "2fe1a68a",
+        "sha1": "28a19f81018a1c6f16ccfbdb7a84baff13cee946",
+        "format": "Generic Raw Book Zip",
+        "filecount": "42"
+      },
+      {
+        "name": "The Dessert Book_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "The Dessert Book_images.zip",
+        "mtime": "1666016683",
+        "size": "8989799",
+        "md5": "d371dc139d7e6de552b5e892e339994a",
+        "crc32": "1278dd44",
+        "sha1": "cf369bc209a0c80bb056e2ce770cd05d718b058d",
+        "filecount": "20"
+      },
+      {
+        "name": "The Dessert Book_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "The Dessert Book_djvu.xml",
+        "mtime": "1666017191",
+        "size": "3500",
+        "md5": "82b811a8c0d2e3688b535d1e17ffe8e5",
+        "crc32": "8a73b3df",
+        "sha1": "e75c9d1a5a5ce2455d129dda09bd843408f3f8d0"
+      },
+      {
+        "name": "The Dessert Book_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "The Dessert Book_djvu.xml",
+        "mtime": "1666017191",
+        "size": "7056",
+        "md5": "14cb392148f4bb3ae004716c1029d2e4",
+        "crc32": "f582e316",
+        "sha1": "1525942386f78018ffe8f23a4a99b61e0041d931"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1666017381",
+        "size": "17834",
+        "md5": "b493f6e858b9ae4b69a54b0bd355d3fb",
+        "crc32": "e233583f",
+        "sha1": "c16583bda40410688bd794c4bfd60720a4cf8545",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "the-dessert-book-images_archive.torrent",
+        "source": "metadata",
+        "btih": "62673640632ece89c62d3a4024bc2810519d28fa",
+        "mtime": "1716130415",
+        "size": "5387",
+        "md5": "ae14d176365dc3438ba74e62ebf4e7a0",
+        "crc32": "9c13078e",
+        "sha1": "3ddef8cfd3c98c60aa0f9364a91f20cee712f8a4",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "the-dessert-book-images_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "83730d4f0d68ee276f15daf58c7e9e86",
+        "summation": "md5"
+      },
+      {
+        "name": "the-dessert-book-images_meta.sqlite",
+        "source": "original",
+        "mtime": "1666016522",
+        "size": "20480",
+        "md5": "346f826380caff13473482665fba807c",
+        "crc32": "2bc9bf7c",
+        "sha1": "fc77cdc432d68a824350a5c20d14494744c72a03",
+        "format": "Metadata"
+      },
+      {
+        "name": "the-dessert-book-images_meta.xml",
+        "source": "original",
+        "mtime": "1716130413",
+        "size": "1703",
+        "md5": "f85e53a2e9e13898a83a1ff93bd135bb",
+        "crc32": "0bc1fd7c",
+        "sha1": "d9cfa2472987af50d036c81f601e51ea6649fc66",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1716130415,
+    "item_size": 42625782,
+    "metadata": {
+      "identifier": "the-dessert-book-images",
+      "mediatype": "texts",
+      "collection": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "creator": "Woolverton Printing & Publishing Co.",
+      "date": "1900-01-01",
+      "description": "<i>The Dessert Book</i>. Osage, Iowa: Woolverton Printing &amp; Publishing Co. ca.  1900.\n",
+      "language": "eng",
+      "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": "cookbook",
+      "title": "The Dessert Book",
+      "uploader": "valoise@gmail.com",
+      "publicdate": "2022-10-17 14:21:56",
+      "addeddate": "2022-10-17 14:21:56",
+      "curation": "[curator]validator@archive.org[/curator][date]20221017142213[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/the-dessert-book-images",
+      "identifier-ark": "ark:/13960/s28cqr7nn37",
+      "ocr": "tesseract 5.2.0-1-gc42a",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.18",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9303",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "73.68",
+      "pdf_module_version": "0.0.20",
+      "collection_added": [
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia801505.us.archive.org",
+    "uniq": 1358057009,
+    "workable_servers": [
+      "ia801505.us.archive.org",
+      "ia601505.us.archive.org"
+    ]
+  },
+  "institution": "Woolverton Printing & Publishing Co.",
+  "pdf_url": "https://archive.org/download/the-dessert-book-images/The Dessert Book.pdf",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

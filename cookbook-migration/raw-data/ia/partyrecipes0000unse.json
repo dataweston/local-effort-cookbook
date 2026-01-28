@@ -1,0 +1,463 @@
+{
+  "source": "internet_archive",
+  "identifier": "partyrecipes0000unse",
+  "title": "Party recipes",
+  "creator": "None",
+  "year": 1987,
+  "subject": "Cooking",
+  "description": [
+    "47 pages : 28 cm",
+    "At head of title: Better homes and gardens"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/partyrecipes0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/partyrecipes0000unse"
+        }
+      ]
+    },
+    "created": 1758335843,
+    "d1": "ia601501.us.archive.org",
+    "d2": "ia801501.us.archive.org",
+    "dir": "/16/items/partyrecipes0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660865085",
+        "size": "23922",
+        "md5": "bcb07da6c01de934c4be9f5ce0383d78",
+        "crc32": "435e05bb",
+        "sha1": "1a5a60ba4f970d575d6b392180c2c0063e05c3d3",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/partyrecipes0000unse_iabdash_2018-12-1915:20:16.log",
+        "source": "original",
+        "mtime": "1545204024",
+        "size": "1335",
+        "md5": "21f96cff82f6e1f25ffbea21f33e94cd",
+        "crc32": "88b38c5f",
+        "sha1": "a6e52e3d07e1eace2804c3d7a534d885b162436b",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/partyrecipes0000unse_scanning_2018-12-1915:20:09.log",
+        "source": "original",
+        "mtime": "1545204018",
+        "size": "130264",
+        "md5": "d7521a7984430bab60628a5a9bbb2e4f",
+        "crc32": "b95acdb5",
+        "sha1": "62db31d6ebb2b9ff5d6475ffeb2bb2d26337c1c8",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "partyrecipes0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "partyrecipes0000unse_hocr.html",
+        "mtime": "1753730339",
+        "size": "39222247",
+        "private": "true",
+        "md5": "d4430ba36bf134f981e096d68f3864ae",
+        "crc32": "8bf08ce5",
+        "sha1": "f84308eaabd8e1d15a1b77639f29fda4d02c16e7"
+      },
+      {
+        "name": "partyrecipes0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "partyrecipes0000unse.pdf",
+        "mtime": "1753730303",
+        "size": "9453143",
+        "md5": "fe44cef49ae835ebdfd54593d0e8ba99",
+        "crc32": "b0ed7519",
+        "sha1": "7f0c31e619a6b84e0f438a23a83c3d52bd4b4ef6"
+      },
+      {
+        "name": "partyrecipes0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "partyrecipes0000unse_page_numbers.json",
+        "mtime": "1718637922",
+        "size": "8764075",
+        "md5": "66e617c8b729f7f2c1790ebd46d0f04f",
+        "crc32": "ebd3488e",
+        "sha1": "377d950fd6d15ab87926dc015d482efc4280ce8b",
+        "private": "true"
+      },
+      {
+        "name": "partyrecipes0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "partyrecipes0000unse_jp2.zip",
+        "mtime": "1545889236",
+        "size": "1340091",
+        "md5": "f3c539bd11d9ef72f808910e55e67fa3",
+        "crc32": "27b61c63",
+        "sha1": "427965b09775c4c31df7263a63270e09f04c09aa",
+        "private": "true"
+      },
+      {
+        "name": "partyrecipes0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "partyrecipes0000unse_abbyy.gz",
+        "mtime": "1660864911",
+        "size": "1048124",
+        "md5": "c7d076fee57b3bffaf72fabe628fa821",
+        "crc32": "01e80f36",
+        "sha1": "9b63845a82aa8dc274b5dd94fbd1db16fecff4d4",
+        "private": "true"
+      },
+      {
+        "name": "partyrecipes0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "partyrecipes0000unse_scandata.xml",
+        "mtime": "1670837117",
+        "size": "771",
+        "md5": "3a1b436a6d23f40b508bfe126d8f4d07",
+        "crc32": "a9bd7d4a",
+        "sha1": "251128aa703ff3bfa91112148de684a17946a860",
+        "private": "true"
+      },
+      {
+        "name": "partyrecipes0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660864874",
+        "size": "956",
+        "md5": "624cfd190b5d6448ad30598deb184348",
+        "crc32": "73353b37",
+        "sha1": "69b205ed15bd5d99198095203870ce9c31516b1e"
+      },
+      {
+        "name": "partyrecipes0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "partyrecipes0000unse_djvu.xml",
+        "mtime": "1660865080",
+        "size": "89808",
+        "md5": "dcad3a9a25ab6b711af318eaf7ad2b61",
+        "crc32": "5fadce6d",
+        "sha1": "7bc25a46ab9ab05fddfd633d2d96fd2b6fc49caa",
+        "private": "true"
+      },
+      {
+        "name": "partyrecipes0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "partyrecipes0000unse_hocr.html",
+        "mtime": "1660865002",
+        "size": "1097496",
+        "md5": "0d8e24e02f49e09784cea9a5b8cb9a15",
+        "crc32": "9323be11",
+        "sha1": "37975b2117235c7ce565bd91f8df74de2f4f1c8d",
+        "private": "true"
+      },
+      {
+        "name": "partyrecipes0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "partyrecipes0000unse_abbyy.gz",
+        "mtime": "1545889691",
+        "size": "2328568",
+        "md5": "655eed397f9a118b17ca5ebd4632c47b",
+        "crc32": "4a593222",
+        "sha1": "e52189958ce46f46809d8aa662efb774b2d760be"
+      },
+      {
+        "name": "partyrecipes0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "partyrecipes0000unse.pdf",
+        "mtime": "1718638408",
+        "size": "8729996",
+        "md5": "f09fa705e0791e99037667a9557658a8",
+        "crc32": "e1f2498e",
+        "sha1": "88fb16a10eaa559f37dc304a04ab6431c8610ad0"
+      },
+      {
+        "name": "partyrecipes0000unse_events.json",
+        "source": "original",
+        "mtime": "1545887736",
+        "size": "59",
+        "md5": "7840383862d9805c8d45dceb28714921",
+        "crc32": "f2d27195",
+        "sha1": "ba30b7c7c920bb8022316f3da85b2a6675a03f0b",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "partyrecipes0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "28e3e40565244b95e1077f97097f0435",
+        "summation": "md5"
+      },
+      {
+        "name": "partyrecipes0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "partyrecipes0000unse_chocr.html.gz",
+        "mtime": "1660864987",
+        "size": "2448381",
+        "md5": "e5e1b4b610d199391f4b1ffe8e6cbf07",
+        "crc32": "2c6bf1e4",
+        "sha1": "c3b7f96645f6a3234bc232eedf9c84c766598b82",
+        "private": "true"
+      },
+      {
+        "name": "partyrecipes0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "partyrecipes0000unse_hocr.html",
+        "mtime": "1660865029",
+        "size": "606",
+        "md5": "92a993f7d1d710f44ba315632875872b",
+        "crc32": "5fd087d7",
+        "sha1": "f72c00873c79eb60d9e5755fe3492b937f13db00",
+        "private": "true"
+      },
+      {
+        "name": "partyrecipes0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "118",
+        "word_conf_11_20": "48",
+        "word_conf_21_30": "122",
+        "word_conf_31_40": "229",
+        "word_conf_41_50": "313",
+        "word_conf_51_60": "629",
+        "word_conf_61_70": "1523",
+        "word_conf_71_80": "3041",
+        "word_conf_81_90": "3700",
+        "word_conf_91_100": "3106",
+        "format": "OCR Search Text",
+        "original": "partyrecipes0000unse_hocr.html",
+        "mtime": "1660865070",
+        "size": "29013",
+        "md5": "9c9429e65375425d18b6b9ee60147e87",
+        "crc32": "380dc90e",
+        "sha1": "fbd0d1a33684e324a4741ac1082d1954b464a0e4",
+        "private": "true"
+      },
+      {
+        "name": "partyrecipes0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "partyrecipes0000unse_orig_jp2.tar",
+        "mtime": "1545888804",
+        "size": "64504937",
+        "md5": "37ad8956f0d0fbe9b4da9d971eaf3f70",
+        "crc32": "00e28e84",
+        "sha1": "fdbb0f83d380ab826a7a6a6d914292094de568f5",
+        "private": "true",
+        "filecount": "54"
+      },
+      {
+        "name": "partyrecipes0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "partyrecipes0000unse.epub",
+        "mtime": "1753730355",
+        "size": "39369747",
+        "md5": "8d29a77c8a7b8267dc062bc59c133cb4",
+        "crc32": "7f819f48",
+        "sha1": "fbb08c421e6ea96bf76a324bc436bc563e89c697"
+      },
+      {
+        "name": "partyrecipes0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1660864873",
+        "size": "4429",
+        "format": "MARC",
+        "md5": "e211716980be9580c59b9459549bc607",
+        "crc32": "ca8a5745",
+        "sha1": "d4c3b217235cbb5db9060c099cdf30096b5a89d3"
+      },
+      {
+        "name": "partyrecipes0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1545204035",
+        "size": "1185",
+        "md5": "2bb35ff0f2aeeadef6796c425fbcf79a",
+        "crc32": "9092f248",
+        "sha1": "5d32918f4ede46620ce2b35dea7aa7917ab0ba92",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "partyrecipes0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1545887758",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "4783ccf9ee42c51b8a927c539c7d6d5f",
+        "crc32": "804e7a65",
+        "sha1": "64df96bcc08151bfa432693002fda08428b1151c"
+      },
+      {
+        "name": "partyrecipes0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753730355",
+        "size": "2839",
+        "format": "Metadata",
+        "md5": "014039b9471bb2123fe0aada07fc3ae1",
+        "crc32": "160d2a2d",
+        "sha1": "cb4e9bff438ca9951a4f975ad2b3521bdd7438bd"
+      },
+      {
+        "name": "partyrecipes0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1545887757",
+        "size": "124825600",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "471b74ca3df95e0a3322a2964d8b5af5",
+        "crc32": "136c41d8",
+        "sha1": "6e12aa03440d171b381652f71500868ee9d88e6b",
+        "filecount": "54"
+      },
+      {
+        "name": "partyrecipes0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "partyrecipes0000unse_hocr.html",
+        "mtime": "1718637922",
+        "size": "8936",
+        "md5": "fce34cdc60cd154e09167f6e06afc647",
+        "crc32": "4e44abc2",
+        "sha1": "84716adbc5ead4f54635e4251ae9479d9d221cf9",
+        "private": "true"
+      },
+      {
+        "name": "partyrecipes0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670837117",
+        "size": "55182",
+        "format": "Scandata",
+        "md5": "d1e031b42ac841ef33a4f91d72aa208b",
+        "crc32": "c27891eb",
+        "sha1": "65074ef2fc25846df8d8e7021b43e9bb81527f54"
+      },
+      {
+        "name": "partyrecipes0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "partyrecipes0000unse_djvu.xml",
+        "mtime": "1670836987",
+        "size": "547",
+        "md5": "6b289feff86c2861f1ec43d7346413bb",
+        "crc32": "e7b58c55",
+        "sha1": "23a3119ed7098c8d26c65b2e348c631dd94182c5",
+        "private": "true"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1753730355,
+    "item_size": 303498641,
+    "metadata": {
+      "identifier": "partyrecipes0000unse",
+      "boxid": "IA1514621",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "None",
+      "creator-alt-script": "None",
+      "date": "1987-01-01",
+      "description": [
+        "47 pages : 28 cm",
+        "At head of title: Better homes and gardens"
+      ],
+      "isbn": [
+        "0696017156",
+        "9780696017155"
+      ],
+      "language": "eng",
+      "lccn": "89108931",
+      "mediatype": "texts",
+      "old_pallet": "IA114539",
+      "operator": "associate-markriel-dingcong@archive.org",
+      "ppi": "300",
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "repub_state": "19",
+      "scanner": "station04.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "subject": "Cooking",
+      "title": "Party recipes",
+      "title-alt-script": "None",
+      "tts_version": "1.62-final-1-g921a33f",
+      "uploader": "station04.cebu@archive.org",
+      "addeddate": "2018-12-19 07:20:02",
+      "publicdate": "2018-12-19 07:20:31",
+      "imagecount": "54",
+      "scandate": "20181219082857",
+      "republisher_operator": "associate-markriel-dingcong@archive.org",
+      "republisher_date": "20181227131526",
+      "republisher_time": "253",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/partyrecipes0000unse",
+      "identifier-ark": "ark:/13960/t8sc1hw62",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:partyrecipes0000unse:epub:59f995dd-5446-4773-b5f9-c0d106d72b5b",
+        "urn:acs6:partyrecipes0000unse:pdf:2816968b-d1a5-40d6-93bb-4903dbd36b10",
+        "urn:lcp:partyrecipes0000unse:lcpdf:3ea13c7f-2b8f-4431-8e44-fa69cc07ef0e",
+        "urn:lcp:partyrecipes0000unse:epub:e752edbb-cd30-406a-a688-2ec91c1318cd"
+      ],
+      "openlibrary_edition": "OL2238279M",
+      "openlibrary_work": "OL18145698W",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20181231",
+      "access-restricted-item": "true",
+      "backup_location": "ia906805_20",
+      "oclc-id": "17155744",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "0",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "1987-01-01"
+      ]
+    },
+    "server": "ia601501.us.archive.org",
+    "uniq": 2119542235,
+    "workable_servers": [
+      "ia601501.us.archive.org",
+      "ia801501.us.archive.org"
+    ]
+  }
+}

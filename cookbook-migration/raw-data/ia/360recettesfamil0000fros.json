@@ -1,0 +1,503 @@
+{
+  "source": "internet_archive",
+  "identifier": "360recettesfamil0000fros",
+  "title": "360 recettes familiales",
+  "creator": "Frost, Emma Jane",
+  "year": 2012,
+  "subject": [
+    "Quick and easy cooking",
+    "Dinners and dining"
+  ],
+  "description": [
+    "287 pages : 20 cm",
+    "Choisir sa recette en fonction du temps qu'on a pour la faire! Vous aviez prévu de faire des cuisses de poulet frit à la crème fraîche citronnée avec des légumes verts, mais finalement vous êtes rentré trop tard à la maison? Ce n'est pas grave, vous pouvez vous rabbatre sur des tagliatelles au poulet sauce crème fraîche citron et basilique, prêtes en 20 minutes ; et si vraiment il faut passer à table rapidement, voici une recette express pour du poulet câpres, ail et citron prêt en 10 minutes! 360 recettes pour la cuisine familiale de tous les jours : des petits snacks, des plats de viande, des plats de poisson, des légumes et des desserts",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/360recettesfamil0000fros"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/360recettesfamil0000fros"
+        }
+      ]
+    },
+    "created": 1758558181,
+    "d1": "ia904502.us.archive.org",
+    "d2": "ia804502.us.archive.org",
+    "dir": "/0/items/360recettesfamil0000fros",
+    "files": [
+      {
+        "name": "360recettesfamil0000fros.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "360recettesfamil0000fros_hocr.html",
+        "mtime": "1754517573",
+        "size": "1060004",
+        "private": "true",
+        "md5": "a59e71f7159b1041ec3a9fc93593f218",
+        "crc32": "2fef4d53",
+        "sha1": "89e51c48acc12fcbda9dce3a43afca4610563b95"
+      },
+      {
+        "name": "360recettesfamil0000fros.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "360recettesfamil0000fros.pdf",
+        "mtime": "1754517553",
+        "size": "21387942",
+        "md5": "971883ca3308c539f1ebd80dffd573d0",
+        "crc32": "65986607",
+        "sha1": "86463516586db28b6699381649149bf926cb363a"
+      },
+      {
+        "name": "360recettesfamil0000fros.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "360recettesfamil0000fros_page_numbers.json",
+        "mtime": "1713418708",
+        "size": "20932733",
+        "md5": "7416e9c281917c3945ee5521a86b5be3",
+        "crc32": "6e969d2a",
+        "sha1": "26599879587330beb0e49e7ed937509e3ab91266",
+        "private": "true"
+      },
+      {
+        "name": "360recettesfamil0000fros_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l fra",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "fr",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "360recettesfamil0000fros_jp2.zip",
+        "mtime": "1620023875",
+        "size": "4832711",
+        "md5": "058f5c9f59b54f3d3fe87b66bed41ee1",
+        "crc32": "a472e67d",
+        "sha1": "4e9ca75fc3bbf29a4912bc5e50a4bf4a2166bfb9",
+        "private": "true"
+      },
+      {
+        "name": "360recettesfamil0000fros_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "360recettesfamil0000fros_scandata.xml",
+        "mtime": "1658084177",
+        "size": "789",
+        "md5": "07afb53e32483cecc17dadb8e8337564",
+        "crc32": "894e73fc",
+        "sha1": "0476e006dc9032e8c70a20afe7f91f377b1656d5",
+        "private": "true"
+      },
+      {
+        "name": "360recettesfamil0000fros_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1620014424",
+        "size": "1736",
+        "md5": "970c2d471ef3d29ebe1db69d4e5d7035",
+        "crc32": "5a11e90d",
+        "sha1": "9ef25bad8b7c0d423087e3b7616b8de7aa3aff95"
+      },
+      {
+        "name": "360recettesfamil0000fros_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "360recettesfamil0000fros_djvu.xml",
+        "mtime": "1620024006",
+        "size": "360178",
+        "md5": "1e3961e9fee8f6be6f4b3bff4f5b33a8",
+        "crc32": "c3d60bae",
+        "sha1": "f0b6e282d3fadb5480cbd750fff238913d0f8539",
+        "private": "true"
+      },
+      {
+        "name": "360recettesfamil0000fros_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "360recettesfamil0000fros_hocr.html",
+        "mtime": "1620023954",
+        "size": "5138162",
+        "md5": "4a71c403c2fa72c2e8a00f4e08444a4c",
+        "crc32": "8851b0f1",
+        "sha1": "a6efd896af254f689624ef1b7b092288d9a65c6a",
+        "private": "true"
+      },
+      {
+        "name": "360recettesfamil0000fros_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "360recettesfamil0000fros.pdf",
+        "mtime": "1713419176",
+        "size": "20859417",
+        "md5": "ef9b210a071f52dd3de06cc67282cfbb",
+        "crc32": "2b00ef75",
+        "sha1": "7e13ebe558925db0a36a65b96c1e2c97b8d0565a"
+      },
+      {
+        "name": "360recettesfamil0000fros_events.json",
+        "source": "original",
+        "mtime": "1620010173",
+        "size": "56",
+        "md5": "6d92af5c5b0d6d27b819c3cb45c390fe",
+        "crc32": "8e9fdb8b",
+        "sha1": "64115c210f26dd33aea10d9c3df0859772628bc2",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "360recettesfamil0000fros_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "e427d7301b053bcd266c76321979ab81",
+        "summation": "md5"
+      },
+      {
+        "name": "360recettesfamil0000fros_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l fra",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "fr",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "360recettesfamil0000fros_chocr.html.gz",
+        "mtime": "1620023930",
+        "size": "10171093",
+        "md5": "696b88c3d077434228db16d0243efa7a",
+        "crc32": "13f0132a",
+        "sha1": "e95941d6f8cbc128cf528aed5030477d73c17e74",
+        "private": "true"
+      },
+      {
+        "name": "360recettesfamil0000fros_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "360recettesfamil0000fros_hocr.html",
+        "mtime": "1620023971",
+        "size": "3162",
+        "md5": "6ba17537f1572754835687b9ff8f8b3d",
+        "crc32": "c4015c7b",
+        "sha1": "172a1e29c1c3e463a9e893fbd808a1d9263cf95e",
+        "private": "true"
+      },
+      {
+        "name": "360recettesfamil0000fros_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "155",
+        "word_conf_11_20": "100",
+        "word_conf_21_30": "169",
+        "word_conf_31_40": "263",
+        "word_conf_41_50": "396",
+        "word_conf_51_60": "603",
+        "word_conf_61_70": "793",
+        "word_conf_71_80": "1414",
+        "word_conf_81_90": "4294",
+        "word_conf_91_100": "52404",
+        "format": "OCR Search Text",
+        "original": "360recettesfamil0000fros_hocr.html",
+        "mtime": "1620023996",
+        "size": "80654",
+        "md5": "65647f36964a98d223023b1f8df81df9",
+        "crc32": "98eacf69",
+        "sha1": "b9c986a07a59a35676a4d337af9062ea52814516",
+        "private": "true"
+      },
+      {
+        "name": "360recettesfamil0000fros_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "360recettesfamil0000fros_orig_jp2.tar",
+        "mtime": "1620021679",
+        "size": "155113623",
+        "md5": "03d4eb8aecb20791bdd59caa504e9e74",
+        "crc32": "6b9c1ab5",
+        "sha1": "dbdb92c4995712ec151b212fdbb7b69a45cd5580",
+        "private": "true",
+        "filecount": "294"
+      },
+      {
+        "name": "360recettesfamil0000fros_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "360recettesfamil0000fros.epub",
+        "mtime": "1754517596",
+        "size": "1077927",
+        "md5": "92785c0b7077a2d1063d35ec97330c00",
+        "crc32": "5f4a4025",
+        "sha1": "136d2890780e1b5a10565f113a2b04975881bb13"
+      },
+      {
+        "name": "360recettesfamil0000fros_marc.xml",
+        "source": "original",
+        "mtime": "1619112985",
+        "size": "5758",
+        "md5": "cf0e7cc51cbc9c34076d6864400a12fb",
+        "crc32": "8557baa6",
+        "sha1": "2edefd93ffc146e4b7b71e60aba4b23b99f40651",
+        "format": "MARC"
+      },
+      {
+        "name": "360recettesfamil0000fros_meta.mrc",
+        "source": "original",
+        "mtime": "1619112979",
+        "size": "2187",
+        "md5": "b7d33d13e881552ea8d93141abb1cc5a",
+        "crc32": "52c484bb",
+        "sha1": "22e0f5ba3042a5bd8f038faf06589db4dc290ff8",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "360recettesfamil0000fros_meta.sqlite",
+        "source": "original",
+        "mtime": "1620014371",
+        "size": "20480",
+        "md5": "7ff8ec7a0b825066c52a3b37eed76252",
+        "crc32": "9db64034",
+        "sha1": "ed6c4f4a296d24ecf0b6ae83bd6f09558e1eee93",
+        "format": "Metadata"
+      },
+      {
+        "name": "360recettesfamil0000fros_meta.xml",
+        "source": "original",
+        "mtime": "1754517596",
+        "size": "3872",
+        "md5": "a11e57975abb2a9118cb88f348c1167a",
+        "crc32": "fa10346c",
+        "sha1": "0eccc4dd8a045a296a2eeb7e880f2254c2bfd94e",
+        "format": "Metadata"
+      },
+      {
+        "name": "360recettesfamil0000fros_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1620014370",
+        "size": "678952960",
+        "md5": "7fdabb3d820d2fc1bbc3133331497cdf",
+        "crc32": "a3795027",
+        "sha1": "d4b5262a4733e7ace4848580fe52c7142cdad0cd",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "294"
+      },
+      {
+        "name": "360recettesfamil0000fros_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "98",
+        "format": "Page Numbers JSON",
+        "original": "360recettesfamil0000fros_hocr.html",
+        "mtime": "1713418708",
+        "size": "49682",
+        "md5": "2ab84acf745c79a95ed9895b102918ac",
+        "crc32": "0a163758",
+        "sha1": "b9bdf37483fbda39c72fe6abb04e1765c961b2f0",
+        "private": "true"
+      },
+      {
+        "name": "360recettesfamil0000fros_scandata.xml",
+        "source": "original",
+        "mtime": "1658084177",
+        "size": "319567",
+        "md5": "b3dc057d951beecb4a7a8e4afa9a6431",
+        "crc32": "3f788bc8",
+        "sha1": "256b25e05f07382e18e8732a6b03ef6b1853f177",
+        "format": "Scandata"
+      },
+      {
+        "name": "360recettesfamil0000fros_slip.png",
+        "source": "original",
+        "mtime": "1619064951",
+        "size": "40959",
+        "md5": "a731fb903f5faebf46f3b35c9879d69b",
+        "crc32": "d21a5fb5",
+        "sha1": "d7ac0afcb21367d44ea5520a87dafff4e32bcbe3",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "360recettesfamil0000fros_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "360recettesfamil0000fros_slip.png",
+        "mtime": "1620014434",
+        "size": "5574",
+        "md5": "cd4939d0c023ede4e8fe02ff8aa02097",
+        "crc32": "1fdeaef2",
+        "sha1": "0dd7f3ea17acaf09c8704e2e0e6a75068a1f7619",
+        "private": "true"
+      },
+      {
+        "name": "360recettesfamil0000fros_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "360recettesfamil0000fros_djvu.xml",
+        "mtime": "1658084131",
+        "size": "565",
+        "md5": "ff1e06b9baea4cc02fb44e4f2a8da1df",
+        "crc32": "5b4228e0",
+        "sha1": "3fcf9750b2b973a6d981b2dc7964683dbaacde4a",
+        "private": "true"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658084222",
+        "size": "18884",
+        "md5": "84c218c61c13d7079d221db1cddc3d34",
+        "crc32": "375b4fc5",
+        "sha1": "a78c13a58e38d2ce7bd80f64146d1bff28543721",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/360recettesfamil0000fros_iabdash_2021-04-2301:36:27.log",
+        "source": "original",
+        "mtime": "1619112990",
+        "size": "1347",
+        "md5": "0de374c5c91d5947634557548b9c9c98",
+        "crc32": "972b61c2",
+        "sha1": "e6c3df17861997212afe01081d764298b3f9c972",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/360recettesfamil0000fros_scanning_2021-04-2301:36:35.log",
+        "source": "original",
+        "mtime": "1619113000",
+        "size": "903076",
+        "md5": "41c53af4691d7501e8fe3badb80b4f52",
+        "crc32": "737ca945",
+        "sha1": "e37324b3a2d9d51c93e76a6f52eab94a1070aa89",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/360recettesfamil0000fros_status_history_2021-04-2301:36:31.log",
+        "source": "original",
+        "mtime": "1619112994",
+        "size": "409",
+        "md5": "d8785fd7126e2a2117d9d3eacba54a90",
+        "crc32": "c6e07811",
+        "sha1": "7327245a2313bc45a2e05fd91f6a8fb1a136810f",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1754517596,
+    "item_size": 921345507,
+    "metadata": {
+      "identifier": "360recettesfamil0000fros",
+      "associated-names": "Morizot, Valentine, translator; Levaux, Anne-Claire, translator",
+      "boxid": "IA40098816",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Frost, Emma Jane",
+      "date": "2012-01-01",
+      "description": [
+        "287 pages : 20 cm",
+        "Choisir sa recette en fonction du temps qu'on a pour la faire! Vous aviez prévu de faire des cuisses de poulet frit à la crème fraîche citronnée avec des légumes verts, mais finalement vous êtes rentré trop tard à la maison? Ce n'est pas grave, vous pouvez vous rabbatre sur des tagliatelles au poulet sauce crème fraîche citron et basilique, prêtes en 20 minutes ; et si vraiment il faut passer à table rapidement, voici une recette express pour du poulet câpres, ail et citron prêt en 10 minutes! 360 recettes pour la cuisine familiale de tous les jours : des petits snacks, des plats de viande, des plats de poisson, des légumes et des desserts",
+        "Includes index"
+      ],
+      "isbn": [
+        "9782501077286",
+        "2501077288"
+      ],
+      "language": "fre",
+      "mediatype": "texts",
+      "old_pallet": "IA-NS-2000262",
+      "operator": "associate-lizelmae-capa@archive.org",
+      "publisher": "[Paris] : Marabout",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station36.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9782501077286",
+      "subject": [
+        "Quick and easy cooking",
+        "Dinners and dining"
+      ],
+      "title": "360 recettes familiales",
+      "tts_version": "4.4-initial-129-g57db8e10",
+      "uploader": "station36.cebu@archive.org",
+      "publicdate": "2021-04-22 04:16:03",
+      "access-restricted-item": "true",
+      "imagecount": "294",
+      "scandate": "20210422234825",
+      "ppi": "360",
+      "republisher_operator": "associate-loriejean-ebua@archive.org",
+      "republisher_date": "20210503104925",
+      "republisher_time": "402",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/360recettesfamil0000fros",
+      "identifier-ark": "ark:/13960/t2k758h5c",
+      "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+      "ocr_parameters": "-l fra",
+      "ocr_module_version": "0.0.13",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "fr",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "98",
+      "pdf_module_version": "0.0.12",
+      "external-identifier": [
+        "urn:acs6:360recettesfamil0000fros:pdf:2bf6199a-8c3c-4cdd-ae9d-d4bc6d57c910",
+        "urn:oclc:record:1255759558",
+        "urn:lcp:360recettesfamil0000fros:lcpdf:ef396f0f-784a-4873-a2a9-3e99b3c456ce",
+        "urn:lcp:360recettesfamil0000fros:epub:a0c7ef3c-dbd5-4afe-aed1-85c3fef7d491"
+      ],
+      "addeddate": "2021-05-03 08:00:41",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20210430",
+      "openlibrary_edition": "OL32367863M",
+      "openlibrary_work": "OL24437757W",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ]
+    },
+    "server": "ia804502.us.archive.org",
+    "uniq": 36674702,
+    "workable_servers": [
+      "ia804502.us.archive.org",
+      "ia904502.us.archive.org"
+    ]
+  },
+  "institution": "Frost, Emma Jane",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

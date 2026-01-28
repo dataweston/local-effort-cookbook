@@ -1,0 +1,3229 @@
+{
+  "source": "internet_archive",
+  "identifier": "WVOF_88_5_FM_20191204_190000",
+  "title": "WVOF 88.5 FM [Fairfield University Radio] : December 04, 2019 02:00PM-03:00PM EST",
+  "creator": null,
+  "year": 2019,
+  "subject": [
+    "Radio Program",
+    "McDonald's High School All-Americans",
+    "Winter traditions",
+    "African-American basketball players",
+    "Sportspeople from California",
+    "Wisconsin Badgers football players",
+    "Basketball players from California",
+    "American rock guitarists",
+    "American male singers",
+    "Rock and Roll Hall of Fame inductees"
+  ],
+  "description": null,
+  "metadata": {
+    "created": 1758319916,
+    "d1": "ia903102.us.archive.org",
+    "d2": "ia803102.us.archive.org",
+    "dir": "/34/items/WVOF_88_5_FM_20191204_190000",
+    "ffmpeg": {
+      "streams": [
+        {
+          "codec_tag": "0x0000",
+          "codec_name": "mp3",
+          "codec_tag_string": "[0][0][0][0]",
+          "bits_per_sample": 0,
+          "codec_time_base": "1/44100",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "codec_type": "audio",
+          "codec_long_name": "MP3 (MPEG audio layer 3)",
+          "disposition": {
+            "comment": 0,
+            "dub": 0,
+            "attached_pic": 0,
+            "original": 0,
+            "clean_effects": 0,
+            "hearing_impaired": 0,
+            "default": 0,
+            "forced": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "visual_impaired": 0
+          },
+          "index": 0,
+          "avg_frame_rate": "0/0",
+          "sample_fmt": "s16p",
+          "start_time": "0.000000",
+          "sample_rate": "44100",
+          "time_base": "1/14112000",
+          "bit_rate": "96000",
+          "channel_layout": "stereo",
+          "start_pts": 0
+        }
+      ],
+      "format": {
+        "nb_programs": 0,
+        "tags": {
+          "StreamTitle": "",
+          "icy-br": "96",
+          "icy-pub": "1",
+          "icy-url": "http://www.rogueamoeba.com/nicecast/",
+          "icy-name": "WVOF FM Studio"
+        },
+        "format_long_name": "MP2/3 (MPEG audio layer 2/3)",
+        "start_time": "0.000000",
+        "probe_score": 50,
+        "nb_streams": 1,
+        "bit_rate": "96000",
+        "format_name": "mp3",
+        "filename": "http://fmstudio.fairfield.edu:8000/listen"
+      }
+    },
+    "files": [
+      {
+        "name": "WVOF_88_5_FM_20191204_190000.asr.js",
+        "source": "original",
+        "format": "ASR",
+        "mtime": "1575495304",
+        "size": "712649",
+        "md5": "dd7fac544d5c026ce394651a2bd7fafd",
+        "crc32": "9efa77e6",
+        "sha1": "d18e0a8e70e75e983c0bb8549318b6bcecbe9857"
+      },
+      {
+        "name": "WVOF_88_5_FM_20191204_190000.asr.srt",
+        "source": "original",
+        "format": "SubRip",
+        "mtime": "1575495302",
+        "size": "42598",
+        "md5": "b81180c1fd27b4851a5ba419876266e6",
+        "crc32": "f5bbc453",
+        "sha1": "79019243cd6cc870ed93957b1bb407a054f03384"
+      },
+      {
+        "name": "WVOF_88_5_FM_20191204_190000.asr.vtt",
+        "source": "original",
+        "format": "Web Video Text Tracks",
+        "mtime": "1575495303",
+        "size": "43561",
+        "md5": "4e4055892303d1dad2c93bdedb8bcf8b",
+        "crc32": "f96424d4",
+        "sha1": "937c914dac9249c29c068cd00091db65ba25bd5d",
+        "private": "true"
+      },
+      {
+        "name": "WVOF_88_5_FM_20191204_190000.m4a",
+        "source": "derivative",
+        "bitrate": "96",
+        "format": "MPEG-4 Audio",
+        "original": "WVOF_88_5_FM_20191204_190000.mp3",
+        "mtime": "1631968904",
+        "size": "41064623",
+        "md5": "492c9b4282264c439d35d08fb2c32188",
+        "crc32": "c9533ea1",
+        "sha1": "c47d2c1ebc8d063e2f7f461cf00f30c69821cf48",
+        "length": "3569.03"
+      },
+      {
+        "name": "WVOF_88_5_FM_20191204_190000.mp3",
+        "source": "original",
+        "mtime": "1575490554",
+        "size": "42827776",
+        "md5": "2feab1e3d27c6e274c80b0ace296060f",
+        "crc32": "d95adf39",
+        "sha1": "951a19fe74441a5e4abeddd4a392f07812d909c1",
+        "format": "VBR MP3",
+        "length": "3568.96",
+        "height": "0",
+        "width": "0",
+        "track": "01"
+      },
+      {
+        "name": "WVOF_88_5_FM_20191204_190000.png",
+        "source": "derivative",
+        "format": "PNG",
+        "original": "WVOF_88_5_FM_20191204_190000.mp3",
+        "mtime": "1631968948",
+        "size": "39130",
+        "md5": "11d9d52fdc0482e09a24a462ac4d28a8",
+        "crc32": "c686a0cc",
+        "sha1": "c9481ee26ec59150bc48ff284978a8bab543d280"
+      },
+      {
+        "name": "WVOF_88_5_FM_20191204_190000_ffmpeg.json",
+        "source": "original",
+        "mtime": "1575490566",
+        "size": "1636",
+        "md5": "2aa62e38ecb913f486e2a614a3b6f23b",
+        "crc32": "04f7d15b",
+        "sha1": "aea5694bb00fd925d74838a8eaeaa6ebb278ace7",
+        "format": "JSON"
+      },
+      {
+        "name": "WVOF_88_5_FM_20191204_190000_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "e6708ee7bcd4fd1535a712385e6785d9",
+        "summation": "md5"
+      },
+      {
+        "name": "WVOF_88_5_FM_20191204_190000_meta.sqlite",
+        "source": "original",
+        "mtime": "1575490577",
+        "size": "14336",
+        "format": "Metadata",
+        "md5": "d5811b88d95863e8e79e0329a2351d00",
+        "crc32": "29f28d4e",
+        "sha1": "6c49857a12550e279442d9f34b80cf620d8a15e2"
+      },
+      {
+        "name": "WVOF_88_5_FM_20191204_190000_meta.xml",
+        "source": "original",
+        "mtime": "1631968968",
+        "size": "2246",
+        "format": "Metadata",
+        "md5": "18d426690a6293bd7031abd2b2c16eec",
+        "crc32": "1eab6e8e",
+        "sha1": "7d523b59675e9145783f9993f43c23af96ba3513"
+      },
+      {
+        "name": "WVOF_88_5_FM_20191204_190000_speech_confidence.json",
+        "source": "derivative",
+        "format": "Speech Confidence JSON",
+        "original": "WVOF_88_5_FM_20191204_190000.mp3",
+        "mtime": "1575567921",
+        "size": "128760",
+        "private": "true",
+        "md5": "025f25f3422e25ad23d6c8c2e8c9460a",
+        "crc32": "ba2248f9",
+        "sha1": "3778bb5ded429a5e5c910b33f74f5334cefc196a"
+      },
+      {
+        "name": "WVOF_88_5_FM_20191204_190000_speech_vs_music.json",
+        "source": "derivative",
+        "format": "Speech VS Music JSON",
+        "original": "WVOF_88_5_FM_20191204_190000_speech_confidence.json",
+        "mtime": "1575567921",
+        "size": "1315",
+        "private": "true",
+        "md5": "f1153686c9cbb67cfa12a885cf1a13a8",
+        "crc32": "57a70b7a",
+        "sha1": "35e482ad9dc5df296d820a4aee3f9807999984c1"
+      },
+      {
+        "name": "WVOF_88_5_FM_20191204_190000_speech_vs_music_asr.json",
+        "source": "derivative",
+        "format": "JSON SRT",
+        "original": "WVOF_88_5_FM_20191204_190000.asr.srt",
+        "mtime": "1575567948",
+        "size": "54350",
+        "md5": "117142adf418656e74f6a3683d03700e",
+        "crc32": "ebddf222",
+        "sha1": "01da1461d30a55069ffbfa805c84182900abb47b"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1631968969",
+        "size": "3603",
+        "md5": "ee5844162f724c1508b7d552f2d77106",
+        "crc32": "5bf162aa",
+        "sha1": "de9a78b18e9055701d12027f08bdc227899421c8",
+        "format": "Item Tile",
+        "rotation": "0"
+      }
+    ],
+    "files_count": 14,
+    "item_last_updated": 1631968969,
+    "item_size": 84936583,
+    "metadata": {
+      "identifier": "WVOF_88_5_FM_20191204_190000",
+      "audio_codec": "mp3",
+      "audio_sample_rate": "96000",
+      "collection": [
+        "Radio-WVOF-88-5-FM",
+        "stream_only",
+        "radio",
+        "radioprograms"
+      ],
+      "contributor": "WVOF 88.5 FM [Fairfield University Radio]",
+      "coverage": [
+        "US",
+        "US-CT"
+      ],
+      "date": "2019-12-04",
+      "language": "eng",
+      "mediatype": "audio",
+      "notes": "This material may be protected by copyright law (Title 17 U.S. Code).",
+      "num_recording_errors": "0",
+      "previous": "WVOF_88_5_FM_20191204_180000",
+      "runtime": "01:00:00",
+      "scandate": "20191204190000",
+      "scanner": "researcher7.fnf.archive.org",
+      "scanningcenter": "San Francisco, CA, USA",
+      "software_version": "Radio Recorder Version 20191102.01",
+      "sound": "sound",
+      "source_url": "http://fmstudio.fairfield.edu:8000/listen",
+      "sponsor": "Internet Archive",
+      "start_localtime": "2019-12-04 14:00:00",
+      "start_time": "2019-12-04 19:00:00",
+      "stop_time": "2019-12-04 20:00:00",
+      "subject": [
+        "Radio Program",
+        "McDonald's High School All-Americans",
+        "Winter traditions",
+        "African-American basketball players",
+        "Sportspeople from California",
+        "Wisconsin Badgers football players",
+        "Basketball players from California",
+        "American rock guitarists",
+        "American male singers",
+        "Rock and Roll Hall of Fame inductees"
+      ],
+      "title": "WVOF 88.5 FM [Fairfield University Radio] : December 04, 2019 02:00PM-03:00PM EST",
+      "utc_offset": "-500",
+      "year": "2019",
+      "uploader": "arkiver@archive.org",
+      "addeddate": "2019-12-04 20:15:55",
+      "publicdate": "2019-12-04 20:16:08",
+      "access-restricted-item": "true",
+      "next": "WVOF_88_5_FM_20191204_200000",
+      "backup_location": "ia907008_4",
+      "bad_audio": "false",
+      "normalized_dates": [
+        "2019-12-04"
+      ]
+    },
+    "server": "ia803102.us.archive.org",
+    "speech_vs_music_asr": [
+      {
+        "end": 3.033,
+        "id": 1,
+        "is_music": false,
+        "start": 0.067,
+        "text": "I know we had one listener that was"
+      },
+      {
+        "end": 8.099,
+        "id": 2,
+        "is_music": false,
+        "start": 3.034,
+        "text": "a little tone I don't know he big big news on Thanksgiving Day we should all be"
+      },
+      {
+        "end": 10.064,
+        "id": 3,
+        "is_music": false,
+        "start": 9,
+        "text": "thankful Khan"
+      },
+      {
+        "end": 14.088,
+        "id": 4,
+        "is_music": false,
+        "start": 10.065,
+        "text": "a murderer is fighting again and he's fighting Cowboys for owning cowboy and it's"
+      },
+      {
+        "end": 16.018,
+        "id": 5,
+        "is_music": false,
+        "start": 14.089,
+        "text": "going to be how we measure because of"
+      },
+      {
+        "end": 20.098,
+        "id": 6,
+        "is_music": false,
+        "start": 16.019,
+        "text": "a great fight and so me on January 18th in Las Vegas will be will be the law back"
+      },
+      {
+        "end": 24.05,
+        "id": 7,
+        "is_music": false,
+        "start": 21.091,
+        "text": "yeah you know it's going to be"
+      },
+      {
+        "end": 30.014,
+        "id": 8,
+        "is_music": false,
+        "start": 24.051,
+        "text": "a good fight for him so basically for those who don't know he's planning to fight 3"
+      },
+      {
+        "end": 36.094,
+        "id": 9,
+        "is_music": false,
+        "start": 30.015,
+        "text": "times and he plans on fighting Jorge Mas but all next. And he's fighting at $170.00"
+      },
+      {
+        "end": 41.09,
+        "id": 10,
+        "is_music": false,
+        "start": 36.095,
+        "text": "pounds which is bigger than he normally is so we were no he's accused usually Oh"
+      },
+      {
+        "end": 42.05,
+        "id": 11,
+        "is_music": false,
+        "start": 42.019,
+        "text": "well that's"
+      },
+      {
+        "end": 46.092,
+        "id": 12,
+        "is_music": false,
+        "start": 42.051,
+        "text": "a welterweight has won 70 he usually won $55.00 which is why I thought he for once"
+      },
+      {
+        "end": 53.045,
+        "id": 13,
+        "is_music": false,
+        "start": 46.093,
+        "text": "went before he has only to fight name Ok so now he that the theory is that he's"
+      },
+      {
+        "end": 59.005,
+        "id": 14,
+        "is_music": false,
+        "start": 53.046,
+        "text": "fighting out $170.00 against Rony get his feet back like whatever he's fighting as"
+      },
+      {
+        "end": 63.003,
+        "id": 15,
+        "is_music": false,
+        "start": 59.006,
+        "text": "well to wait against Yeah that's 17 And yeah I don't so he's going to do you know"
+      },
+      {
+        "end": 68.004,
+        "id": 16,
+        "is_music": false,
+        "start": 63.008,
+        "text": "so he's going to do that whole you know he's going to do that I play that again and"
+      },
+      {
+        "end": 72.05,
+        "id": 17,
+        "is_music": false,
+        "start": 68.005,
+        "text": "then there's talk of him fighting mobs but all Naxal is going to be Nate but Nate"
+      },
+      {
+        "end": 78.025,
+        "id": 18,
+        "is_music": false,
+        "start": 72.051,
+        "text": "lost and they are tired at the moment to moment and then the guys and the idea."
+      },
+      {
+        "end": 82.08,
+        "id": 19,
+        "is_music": false,
+        "start": 79.034,
+        "text": "Yeah at the end this is where they're going to kill him and market will know they"
+      },
+      {
+        "end": 89.066,
+        "id": 20,
+        "is_music": false,
+        "start": 82.081,
+        "text": "will know they love him hold you don't understand no no no no he. Is"
+      },
+      {
+        "end": 95.049,
+        "id": 21,
+        "is_music": false,
+        "start": 89.067,
+        "text": "not club Russian He's Dagestani and. If it's"
+      },
+      {
+        "end": 101.018,
+        "id": 22,
+        "is_music": false,
+        "start": 95.05,
+        "text": "a real if he goes if he goes the Dagestani region they would kill him Ok they would"
+      },
+      {
+        "end": 107.002,
+        "id": 23,
+        "is_music": false,
+        "start": 101.019,
+        "text": "murder him if he's in the region if he's in Austria if he's in Russia like it's"
+      },
+      {
+        "end": 113.002,
+        "id": 24,
+        "is_music": false,
+        "start": 107.003,
+        "text": "different if you are close to. Refind it's whiles quick little quick little"
+      },
+      {
+        "end": 119.081,
+        "id": 25,
+        "is_music": false,
+        "start": 113.003,
+        "text": "a playoff machine. You're going to make republic of Dagestan. That's not"
+      },
+      {
+        "end": 123.09,
+        "id": 26,
+        "is_music": false,
+        "start": 119.082,
+        "text": "a real place notice yes federal subject of Russia so I'm excited Oh it's the"
+      },
+      {
+        "end": 129.089,
+        "id": 27,
+        "is_music": false,
+        "start": 123.091,
+        "text": "Caucasus Mountains caucused mountains Yeah they rustle bears they do da."
+      },
+      {
+        "end": 134.093,
+        "id": 28,
+        "is_music": false,
+        "start": 131.097,
+        "text": "Whatever it is you have to look at it's got it's kind of near the top of the Black"
+      },
+      {
+        "end": 139.089,
+        "id": 29,
+        "is_music": false,
+        "start": 134.094,
+        "text": "Sea I think I think it's good really good sports it's good to have him back I think"
+      },
+      {
+        "end": 144.071,
+        "id": 30,
+        "is_music": false,
+        "start": 139.09,
+        "text": "where he was I got I'm only watching back his fights I became"
+      },
+      {
+        "end": 149.074,
+        "id": 31,
+        "is_music": false,
+        "start": 144.072,
+        "text": "a fan of his. Right before he won the lightning sites the Caspian Sea I'm sorry"
+      },
+      {
+        "end": 153.054,
+        "id": 32,
+        "is_music": false,
+        "start": 149.075,
+        "text": "yeah right before he won the lightweight fight against Eddie Alvarez"
+      },
+      {
+        "end": 158.002,
+        "id": 33,
+        "is_music": false,
+        "start": 153.055,
+        "text": "a couple years ago so we haven't really seen him fight since and he hasn't been"
+      },
+      {
+        "end": 162.03,
+        "id": 34,
+        "is_music": false,
+        "start": 158.003,
+        "text": "that successful so hopefully this would be his last chance of coming back he"
+      },
+      {
+        "end": 167.021,
+        "id": 35,
+        "is_music": false,
+        "start": 162.031,
+        "text": "doesn't need to fight but he's going to and I'm very excited and g.d.p."
+      },
+      {
+        "end": 167.053,
+        "id": 36,
+        "is_music": false,
+        "start": 167.022,
+        "text": "Is for"
+      },
+      {
+        "end": 173.058,
+        "id": 37,
+        "is_music": false,
+        "start": 167.054,
+        "text": "a very. Well you're going to economically are all I think I mean I think it's good"
+      },
+      {
+        "end": 178.082,
+        "id": 38,
+        "is_music": false,
+        "start": 173.059,
+        "text": "I think there's any I well I think that's what we're all I hope it's an energy I"
+      },
+      {
+        "end": 182.098,
+        "id": 39,
+        "is_music": false,
+        "start": 178.083,
+        "text": "mean it will be I mean the 2 of them are kind of crazy sell and it's"
+      },
+      {
+        "end": 189.005,
+        "id": 40,
+        "is_music": false,
+        "start": 182.099,
+        "text": "a cowboy sponsored by Budweiser's for the brand they are already had some really"
+      },
+      {
+        "end": 194.066,
+        "id": 41,
+        "is_music": false,
+        "start": 189.006,
+        "text": "cool artwork of Budweiser proper 12 there's not but I think we can always count"
+      },
+      {
+        "end": 196.03,
+        "id": 42,
+        "is_music": false,
+        "start": 194.067,
+        "text": "boys Budweiser that's not"
+      },
+      {
+        "end": 200.072,
+        "id": 43,
+        "is_music": false,
+        "start": 196.031,
+        "text": "a conflict of interest so why do you like Conor he's fighting to essentially fight"
+      },
+      {
+        "end": 204.024,
+        "id": 44,
+        "is_music": false,
+        "start": 200.073,
+        "text": "he put like he's not fighting he's fighting"
+      },
+      {
+        "end": 209.035,
+        "id": 45,
+        "is_music": false,
+        "start": 205.006,
+        "text": "a joint thing they're going to make money off of it oh oh oh Ok yeah I was."
+      },
+      {
+        "end": 213.025,
+        "id": 46,
+        "is_music": false,
+        "start": 210.089,
+        "text": "Probably do like oh I like a Budweiser and"
+      },
+      {
+        "end": 217.014,
+        "id": 47,
+        "is_music": false,
+        "start": 213.026,
+        "text": "a shot of proper 12 they'll do like Par things with that they do that now with like"
+      },
+      {
+        "end": 218.089,
+        "id": 48,
+        "is_music": false,
+        "start": 217.015,
+        "text": "Jim Beam looking at a beer and"
+      },
+      {
+        "end": 224.022,
+        "id": 49,
+        "is_music": false,
+        "start": 218.09,
+        "text": "a shot and I'll run promos like nice so they'll probably do it for the Cowboys and"
+      },
+      {
+        "end": 229.029,
+        "id": 50,
+        "is_music": false,
+        "start": 224.026,
+        "text": "so what it was and go do it maybe find American establishment of O'Malley's. What"
+      },
+      {
+        "end": 232.088,
+        "id": 51,
+        "is_music": false,
+        "start": 229.03,
+        "text": "you think they'll do in Moscow that's just like motor oil one like I don't know and"
+      },
+      {
+        "end": 236.087,
+        "id": 52,
+        "is_music": false,
+        "start": 232.089,
+        "text": "I don't know if they drink in Russia you know he released proper 12 and yeah."
+      },
+      {
+        "end": 242.007,
+        "id": 53,
+        "is_music": false,
+        "start": 238.001,
+        "text": "That's when he and I. That he was fighting again aka it's going to be wild I think"
+      },
+      {
+        "end": 244.079,
+        "id": 54,
+        "is_music": false,
+        "start": 242.025,
+        "text": "if he if he has to be cowboy and he has to do"
+      },
+      {
+        "end": 249.069,
+        "id": 55,
+        "is_music": false,
+        "start": 244.08,
+        "text": "a pretty handily and then if he does that you know but he has to win the 1st one"
+      },
+      {
+        "end": 254.068,
+        "id": 56,
+        "is_music": false,
+        "start": 249.07,
+        "text": "1st now why don't I read I was waiting for him that I don't think that all I don't"
+      },
+      {
+        "end": 257.03,
+        "id": 57,
+        "is_music": false,
+        "start": 254.069,
+        "text": "think about is that all this good as I think he's"
+      },
+      {
+        "end": 262.024,
+        "id": 58,
+        "is_music": false,
+        "start": 257.031,
+        "text": "a lot of hype as well to see. It's all in Carmelo Anthony."
+      },
+      {
+        "end": 271.013,
+        "id": 59,
+        "is_music": false,
+        "start": 264.013,
+        "text": "First off 1st 1st or 1st award of the year Guess who's back yeah. Yeah"
+      },
+      {
+        "end": 276.049,
+        "id": 60,
+        "is_music": false,
+        "start": 271.017,
+        "text": "he should not have won clearly. When James Harden is averaging almost like you know"
+      },
+      {
+        "end": 279.086,
+        "id": 61,
+        "is_music": false,
+        "start": 276.05,
+        "text": "I mean James Harden is like the bit like he's the best corner in the league and"
+      },
+      {
+        "end": 284.071,
+        "id": 62,
+        "is_music": false,
+        "start": 279.087,
+        "text": "we're going to Canelo because you were because he's not playing like garbage. We"
+      },
+      {
+        "end": 291.015,
+        "id": 63,
+        "is_music": false,
+        "start": 284.072,
+        "text": "play well. Play well and we've got to start I want to now like to give Carmelo"
+      },
+      {
+        "end": 296.031,
+        "id": 64,
+        "is_music": false,
+        "start": 291.019,
+        "text": "a little bit of credit here it's 230 What's my opinion on it you should go make"
+      },
+      {
+        "end": 302.076,
+        "id": 65,
+        "is_music": false,
+        "start": 296.032,
+        "text": "50000000 in China and shut up dude do Rimando he's really she can't go to China"
+      },
+      {
+        "end": 310.005,
+        "id": 66,
+        "is_music": false,
+        "start": 303.079,
+        "text": "he's hoping they go to China. To China what with Rocky go to China well you know"
+      },
+      {
+        "end": 314.002,
+        "id": 67,
+        "is_music": false,
+        "start": 310.006,
+        "text": "the brunt of this he just he starts screaming their national anthem but you know"
+      },
+      {
+        "end": 318.079,
+        "id": 68,
+        "is_music": false,
+        "start": 314.003,
+        "text": "that I know I don't ever talk about Yeah no look I think I'm the problem because I"
+      },
+      {
+        "end": 321.1,
+        "id": 69,
+        "is_music": false,
+        "start": 318.08,
+        "text": "think the Melos helping this team I think it's good for him I'm happy for him so"
+      },
+      {
+        "end": 323.049,
+        "id": 70,
+        "is_music": false,
+        "start": 322.004,
+        "text": "there's 7 games he's 30 minutes"
+      },
+      {
+        "end": 330.043,
+        "id": 71,
+        "is_music": false,
+        "start": 323.05,
+        "text": "a night and 16 points so bad. Some players are weak it's not"
+      },
+      {
+        "end": 337.015,
+        "id": 72,
+        "is_music": false,
+        "start": 330.044,
+        "text": "like Carmelo's back he's not he's he's doing fine. So"
+      },
+      {
+        "end": 343.083,
+        "id": 73,
+        "is_music": false,
+        "start": 337.016,
+        "text": "he's right he's very own par 1st courage 44 percent from the field right. For 337"
+      },
+      {
+        "end": 347.058,
+        "id": 74,
+        "is_music": false,
+        "start": 343.084,
+        "text": "percent which is kind of on par not really he doesn't know he doesn't she doesn't"
+      },
+      {
+        "end": 352.085,
+        "id": 75,
+        "is_music": false,
+        "start": 347.059,
+        "text": "help teams when he's hoping poorly when. No he does weather stature but look at the"
+      },
+      {
+        "end": 356.093,
+        "id": 76,
+        "is_music": false,
+        "start": 352.086,
+        "text": "sky I'm kind of like I know the staff look at look at Portland's record since they"
+      },
+      {
+        "end": 363.015,
+        "id": 77,
+        "is_music": false,
+        "start": 356.094,
+        "text": "got him I will hope I don't add blocking your computer I don't use live with has"
+      },
+      {
+        "end": 367.004,
+        "id": 78,
+        "is_music": false,
+        "start": 363.016,
+        "text": "all the time Oh I do ads I don't know about that surfaced in the West"
+      },
+      {
+        "end": 372.026,
+        "id": 79,
+        "is_music": false,
+        "start": 367.024,
+        "text": "a different order from there let me he showed up 33 there in 38 Ok he showed up"
+      },
+      {
+        "end": 377.08,
+        "id": 80,
+        "is_music": false,
+        "start": 372.027,
+        "text": "against Orleans right there 5 in 10 right my wrong week you got his year in"
+      },
+      {
+        "end": 384.032,
+        "id": 81,
+        "is_music": false,
+        "start": 377.081,
+        "text": "a double 0 Yes Yeah the Cavs did it with Kevin Love and Berman you're so right"
+      },
+      {
+        "end": 390.087,
+        "id": 82,
+        "is_music": false,
+        "start": 384.062,
+        "text": "number 10 no give Number 7 stay mellow have sex they know yes right but he chose"
+      },
+      {
+        "end": 396.088,
+        "id": 83,
+        "is_music": false,
+        "start": 390.088,
+        "text": "doubles your I mean my hold on right now. So what email so he shows up there 5 in"
+      },
+      {
+        "end": 402.059,
+        "id": 84,
+        "is_music": false,
+        "start": 396.089,
+        "text": "time Ok they were they lose they caused Dillard's out against walking and so on"
+      },
+      {
+        "end": 405.032,
+        "id": 85,
+        "is_music": false,
+        "start": 402.06,
+        "text": "they lose again since we were just come back the 3 into"
+      },
+      {
+        "end": 412.017,
+        "id": 86,
+        "is_music": false,
+        "start": 405.033,
+        "text": "a coma with losses to Cleveland and the Clippers. Yeah dude they're going to the"
+      },
+      {
+        "end": 417.042,
+        "id": 87,
+        "is_music": false,
+        "start": 412.018,
+        "text": "possibility will be in the playoffs. The city will be in the playoffs you know"
+      },
+      {
+        "end": 422.019,
+        "id": 88,
+        "is_music": false,
+        "start": 417.043,
+        "text": "Shaun white side yes it is just I guess she code in to get he is very good to go"
+      },
+      {
+        "end": 427.046,
+        "id": 89,
+        "is_music": false,
+        "start": 422.064,
+        "text": "yeah I see what it what you want to give us of what it would do I move on to right"
+      },
+      {
+        "end": 428.064,
+        "id": 90,
+        "is_music": false,
+        "start": 427.047,
+        "text": "now I want to go most"
+      },
+      {
+        "end": 433.059,
+        "id": 91,
+        "is_music": false,
+        "start": 428.065,
+        "text": "a year I real quick just big game tonight Celtics heat heat well."
+      },
+      {
+        "end": 441.093,
+        "id": 92,
+        "is_music": false,
+        "start": 437.081,
+        "text": "They're 15 in 5 awesome 6 point favorites 14 and I was ridiculous are most of their"
+      },
+      {
+        "end": 447.085,
+        "id": 93,
+        "is_music": false,
+        "start": 441.094,
+        "text": "members of the year. Job you're sort of software you give us a smart ass with"
+      },
+      {
+        "end": 448.05,
+        "id": 94,
+        "is_music": false,
+        "start": 447.086,
+        "text": "a lot of great stuff"
+      },
+      {
+        "end": 453.045,
+        "id": 95,
+        "is_music": false,
+        "start": 448.051,
+        "text": "a top of the share like I mean look so we started this sort of this thing. Let's"
+      },
+      {
+        "end": 458.013,
+        "id": 96,
+        "is_music": false,
+        "start": 453.046,
+        "text": "see let's go back to the extreme start of this thing in February right I think it"
+      },
+      {
+        "end": 464.099,
+        "id": 97,
+        "is_music": false,
+        "start": 458.014,
+        "text": "was the. Supposed to really be the big 3 and then like the producer so really like"
+      },
+      {
+        "end": 469.091,
+        "id": 98,
+        "is_music": false,
+        "start": 465,
+        "text": "a port we had we had out all going to tag along I tagged along I wanted to see what"
+      },
+      {
+        "end": 474.066,
+        "id": 99,
+        "is_music": false,
+        "start": 469.095,
+        "text": "it was all about him and also was going to be able to do it and then I joined the"
+      },
+      {
+        "end": 477.01,
+        "id": 100,
+        "is_music": false,
+        "start": 474.067,
+        "text": "family hey look man it's been it's been"
+      },
+      {
+        "end": 482,
+        "id": 101,
+        "is_music": false,
+        "start": 477.011,
+        "text": "a rush of time our 1st ever 1st show our 1st 2nd ever show I set up"
+      },
+      {
+        "end": 487.017,
+        "id": 102,
+        "is_music": false,
+        "start": 482.001,
+        "text": "a show well the 1st show was last April like the 1st verse like 1st like 6 or 7 law"
+      },
+      {
+        "end": 490.047,
+        "id": 103,
+        "is_music": false,
+        "start": 487.018,
+        "text": "and the 1st shows are lost tapes as we call it right now you have to listen we"
+      },
+      {
+        "end": 496.009,
+        "id": 104,
+        "is_music": false,
+        "start": 491.01,
+        "text": "called it out record and she put it up after nobody listens offers I still I still"
+      },
+      {
+        "end": 502.015,
+        "id": 105,
+        "is_music": false,
+        "start": 496.01,
+        "text": "remember I think my favorite memory was about like I was like at the end of last"
+      },
+      {
+        "end": 509.002,
+        "id": 106,
+        "is_music": false,
+        "start": 502.016,
+        "text": "year and it was when we used to get like 15 callers walking out when I welcome back"
+      },
+      {
+        "end": 515.076,
+        "id": 107,
+        "is_music": false,
+        "start": 509.003,
+        "text": "to the dorm you. Have and this could really be something. So."
+      },
+      {
+        "end": 523.042,
+        "id": 108,
+        "is_music": false,
+        "start": 517.007,
+        "text": "Hard like I just couldn't stop and say they're great great save I love my Fairmont"
+      },
+      {
+        "end": 528.056,
+        "id": 109,
+        "is_music": false,
+        "start": 523.064,
+        "text": "I told you the spores were do most of us well we could my dear woman Try think we"
+      },
+      {
+        "end": 535.008,
+        "id": 110,
+        "is_music": false,
+        "start": 528.057,
+        "text": "got really big. Me argue this with. I. Know you can relate your work oh what you"
+      },
+      {
+        "end": 539.068,
+        "id": 111,
+        "is_music": false,
+        "start": 535.009,
+        "text": "better McCarthy called She's on like live on air yes that was great well I would"
+      },
+      {
+        "end": 544.011,
+        "id": 112,
+        "is_music": false,
+        "start": 539.069,
+        "text": "say that I don't think so I don't think no but it was it was great concert it was"
+      },
+      {
+        "end": 550.016,
+        "id": 113,
+        "is_music": false,
+        "start": 544.012,
+        "text": "very good. Back in the Webster's Yeah the wetsuit. Right after."
+      },
+      {
+        "end": 557.091,
+        "id": 114,
+        "is_music": false,
+        "start": 551.072,
+        "text": "Funny oh my god that was great oh yeah that was really great. Only one of the best"
+      },
+      {
+        "end": 564.072,
+        "id": 115,
+        "is_music": false,
+        "start": 558.003,
+        "text": "it's hard to like go back and think about it I'm I think an episode after"
+      },
+      {
+        "end": 570.074,
+        "id": 116,
+        "is_music": false,
+        "start": 564.096,
+        "text": "the after the Daniel Jones. Those music I like those we always did"
+      },
+      {
+        "end": 575.043,
+        "id": 117,
+        "is_music": false,
+        "start": 570.075,
+        "text": "a good job with the mock draft ya the Majuba the matchable mock draft they're"
+      },
+      {
+        "end": 580.041,
+        "id": 118,
+        "is_music": false,
+        "start": 575.044,
+        "text": "fantastic and I remember one time we were so we were like going to go 1232 we got"
+      },
+      {
+        "end": 582.025,
+        "id": 119,
+        "is_music": false,
+        "start": 580.042,
+        "text": "to like pick 10 it was like a half hour in"
+      },
+      {
+        "end": 587.078,
+        "id": 120,
+        "is_music": false,
+        "start": 582.026,
+        "text": "a minute you're like oh yeah we did this movie like no no I tried to claim war on"
+      },
+      {
+        "end": 590.087,
+        "id": 121,
+        "is_music": false,
+        "start": 588.06,
+        "text": "actually you know you've That's"
+      },
+      {
+        "end": 595.003,
+        "id": 122,
+        "is_music": false,
+        "start": 590.088,
+        "text": "a public enemy number one hey try another project Polycom and it was his way what"
+      },
+      {
+        "end": 600.007,
+        "id": 123,
+        "is_music": false,
+        "start": 595.004,
+        "text": "a strike his mock drafts were so wrong too and that's just bother me it's like I"
+      },
+      {
+        "end": 600.077,
+        "id": 124,
+        "is_music": false,
+        "start": 600.008,
+        "text": "feel like this is such"
+      },
+      {
+        "end": 605.063,
+        "id": 125,
+        "is_music": false,
+        "start": 600.078,
+        "text": "a waste of time because it never would have any was actually correct like it wasn't"
+      },
+      {
+        "end": 609.067,
+        "id": 126,
+        "is_music": false,
+        "start": 605.064,
+        "text": "even close then we did it after I'm glad you brought that up or I'm going to go"
+      },
+      {
+        "end": 616.016,
+        "id": 127,
+        "is_music": false,
+        "start": 609.068,
+        "text": "right now Ok and we did I can't be like that Ga you fools are saying We Did It We"
+      },
+      {
+        "end": 616.066,
+        "id": 128,
+        "is_music": false,
+        "start": 616.02,
+        "text": "Did It We did"
+      },
+      {
+        "end": 623.051,
+        "id": 129,
+        "is_music": false,
+        "start": 616.067,
+        "text": "a show live with our suits on after the crew for. I think my watch was you and I"
+      },
+      {
+        "end": 629.007,
+        "id": 130,
+        "is_music": false,
+        "start": 623.052,
+        "text": "awkwardly announcing yes that's baseball going to look I think group of people in"
+      },
+      {
+        "end": 634.051,
+        "id": 131,
+        "is_music": false,
+        "start": 629.008,
+        "text": "the press that that could have been fun in the right scenario and I was so just not"
+      },
+      {
+        "end": 640.007,
+        "id": 132,
+        "is_music": false,
+        "start": 634.052,
+        "text": "into that I could tell I carried the branch and these 2 didn't show up I had class"
+      },
+      {
+        "end": 645.011,
+        "id": 133,
+        "is_music": false,
+        "start": 640.008,
+        "text": "Yeah. You did not have class you have class you were going to come and you didn't"
+      },
+      {
+        "end": 648.088,
+        "id": 134,
+        "is_music": false,
+        "start": 645.012,
+        "text": "come I was sick I remember I was like I want nothing to do with you know if I'll be"
+      },
+      {
+        "end": 653.028,
+        "id": 135,
+        "is_music": false,
+        "start": 648.089,
+        "text": "Iowa. I would talk to him solo but we hosted sports industry night probably the"
+      },
+      {
+        "end": 657.089,
+        "id": 136,
+        "is_music": false,
+        "start": 653.029,
+        "text": "most fun I was down you know how we got that gig Yeah I was there Shadow must never"
+      },
+      {
+        "end": 660.061,
+        "id": 137,
+        "is_music": false,
+        "start": 657.09,
+        "text": "make it big time I saw this year on Linked In It's"
+      },
+      {
+        "end": 664.083,
+        "id": 138,
+        "is_music": false,
+        "start": 660.062,
+        "text": "a lot more put together than we had Yeah I guess it was like you had to pay to get"
+      },
+      {
+        "end": 670.039,
+        "id": 139,
+        "is_music": false,
+        "start": 664.084,
+        "text": "in we didn't click on the resume charge we should add what was working and."
+      },
+      {
+        "end": 676.018,
+        "id": 140,
+        "is_music": false,
+        "start": 671.07,
+        "text": "We had those Ok Ok carry on there now Ok so one so he was already going to take to"
+      },
+      {
+        "end": 679.095,
+        "id": 141,
+        "is_music": false,
+        "start": 677.009,
+        "text": "you we're just we're just just look at the mock draft and look at the actual tell"
+      },
+      {
+        "end": 684.044,
+        "id": 142,
+        "is_music": false,
+        "start": 679.096,
+        "text": "me a picture right. Not too many I got by like 6 I think that's"
+      },
+      {
+        "end": 691.028,
+        "id": 143,
+        "is_music": false,
+        "start": 684.045,
+        "text": "a bad you know so it's like what I said 32 yes it was 20 percent or 256"
+      },
+      {
+        "end": 697.026,
+        "id": 144,
+        "is_music": false,
+        "start": 691.029,
+        "text": "about 3218 points of the last 20 I thought I saw kind of collar post."
+      },
+      {
+        "end": 704.026,
+        "id": 145,
+        "is_music": false,
+        "start": 698.059,
+        "text": "White. Sean Taylor was drafted by the Jaguars just not at the 11th pick in the 2nd"
+      },
+      {
+        "end": 711.024,
+        "id": 146,
+        "is_music": false,
+        "start": 704.027,
+        "text": "round the Broncos the true ark. Like this I thought that the one correct pick No it"
+      },
+      {
+        "end": 711.078,
+        "id": 147,
+        "is_music": false,
+        "start": 711.025,
+        "text": "doesn't have"
+      },
+      {
+        "end": 718.013,
+        "id": 148,
+        "is_music": false,
+        "start": 711.079,
+        "text": "a Bush like in the 11 slot that's correct Ok I'll give you that kind of guess. Yes"
+      },
+      {
+        "end": 724.095,
+        "id": 149,
+        "is_music": false,
+        "start": 718.014,
+        "text": "but not but they try if he was straight up that is. Yeah that's about it and how"
+      },
+      {
+        "end": 730.098,
+        "id": 150,
+        "is_music": false,
+        "start": 724.096,
+        "text": "many did you have in the 1st round and that going in like the 2nd round to Ok 3 top"
+      },
+      {
+        "end": 737.091,
+        "id": 151,
+        "is_music": false,
+        "start": 730.099,
+        "text": "riser No 4 earth Smith. On. It's going to be one"
+      },
+      {
+        "end": 744.089,
+        "id": 152,
+        "is_music": false,
+        "start": 737.092,
+        "text": "more at least one more. 5 par Murphy. I'm not even going"
+      },
+      {
+        "end": 745.06,
+        "id": 153,
+        "is_music": false,
+        "start": 744.09,
+        "text": "to 60 k."
+      },
+      {
+        "end": 748.081,
+        "id": 154,
+        "is_music": false,
+        "start": 745.061,
+        "text": "McCann I don't agree Williams moneymen account Murphy who is like the 1st pick in"
+      },
+      {
+        "end": 755.078,
+        "id": 155,
+        "is_music": false,
+        "start": 748.082,
+        "text": "the 2nd round. On. A true luck Jesus"
+      },
+      {
+        "end": 761.085,
+        "id": 156,
+        "is_music": false,
+        "start": 755.079,
+        "text": "you. See me all right I have teacher the 1st I didn't know that well I will see the"
+      },
+      {
+        "end": 767.067,
+        "id": 157,
+        "is_music": false,
+        "start": 762.01,
+        "text": "next some respect will get We're almost at the it's almost time for met you in"
+      },
+      {
+        "end": 774.012,
+        "id": 158,
+        "is_music": false,
+        "start": 767.068,
+        "text": "March of 2 point 0 Don't be started we'll get there. One actually I might say I'm"
+      },
+      {
+        "end": 778.035,
+        "id": 159,
+        "is_music": false,
+        "start": 774.013,
+        "text": "going to come I think I think might for my best sports moment over the past year."
+      },
+      {
+        "end": 786.008,
+        "id": 160,
+        "is_music": false,
+        "start": 779.045,
+        "text": "And I think you might agree. To be Tiger for me and yeah that's got to be it I mean"
+      },
+      {
+        "end": 789.011,
+        "id": 161,
+        "is_music": false,
+        "start": 786.009,
+        "text": "you might say the Pats I know those who it was"
+      },
+      {
+        "end": 795.071,
+        "id": 162,
+        "is_music": false,
+        "start": 789.012,
+        "text": "a horrible yeah I was terrible cerebral You know so I didn't like that all around"
+      },
+      {
+        "end": 800.084,
+        "id": 163,
+        "is_music": false,
+        "start": 796.069,
+        "text": "the record after that you know we started I don't think I don't there yeah I don't"
+      },
+      {
+        "end": 805.063,
+        "id": 164,
+        "is_music": false,
+        "start": 800.085,
+        "text": "think we're starting things but yeah the Tigers are good for me it's gonna be tired"
+      },
+      {
+        "end": 808.078,
+        "id": 165,
+        "is_music": false,
+        "start": 805.067,
+        "text": "I think I'm going to go tiger to only think we've had"
+      },
+      {
+        "end": 814.079,
+        "id": 166,
+        "is_music": false,
+        "start": 808.079,
+        "text": "a good sportsman in the past yeah yeah in terms of in terms of like my team Yeah"
+      },
+      {
+        "end": 819.09,
+        "id": 167,
+        "is_music": false,
+        "start": 814.08,
+        "text": "really seen much can you update me why is there no drones being his razor yankers"
+      },
+      {
+        "end": 824.036,
+        "id": 168,
+        "is_music": false,
+        "start": 819.091,
+        "text": "hard to play Yeah he has now or he's got"
+      },
+      {
+        "end": 827.004,
+        "id": 169,
+        "is_music": false,
+        "start": 824.037,
+        "text": "a in every model what you're what you're what you put your foot what your favorite"
+      },
+      {
+        "end": 831.062,
+        "id": 170,
+        "is_music": false,
+        "start": 827.005,
+        "text": "sports moment there and said Tiger I got to go tiger but I also got to go what I"
+      },
+      {
+        "end": 836.035,
+        "id": 171,
+        "is_music": false,
+        "start": 831.063,
+        "text": "told you can't be tigers how far Picton. If I told you I was really good actually"
+      },
+      {
+        "end": 839.099,
+        "id": 172,
+        "is_music": false,
+        "start": 836.052,
+        "text": "but I told what if I told you what I read you 3 Idiots signed up on"
+      },
+      {
+        "end": 840.082,
+        "id": 173,
+        "is_music": false,
+        "start": 840,
+        "text": "a form to start"
+      },
+      {
+        "end": 846.086,
+        "id": 174,
+        "is_music": false,
+        "start": 840.083,
+        "text": "a show yeah but I told you the better man this is not the moment I think. So."
+      },
+      {
+        "end": 849.053,
+        "id": 175,
+        "is_music": false,
+        "start": 848.013,
+        "text": "My voice I'm going to say that"
+      },
+      {
+        "end": 855.089,
+        "id": 176,
+        "is_music": false,
+        "start": 850.016,
+        "text": "a lot longer as it would if I told you. You know you know I want to you know."
+      },
+      {
+        "end": 864.051,
+        "id": 177,
+        "is_music": false,
+        "start": 857.061,
+        "text": "I think growing radio. Stop line. To What's yours my"
+      },
+      {
+        "end": 871.019,
+        "id": 178,
+        "is_music": false,
+        "start": 864.052,
+        "text": "1st person ever there. I mean I haven't no idea I mean nothing is better than the"
+      },
+      {
+        "end": 875.069,
+        "id": 179,
+        "is_music": false,
+        "start": 871.02,
+        "text": "pages when the Supreme wash really we weren't we weren't like tall we were we were"
+      },
+      {
+        "end": 879.014,
+        "id": 180,
+        "is_music": false,
+        "start": 875.07,
+        "text": "I mean even though I know I'm big on the vengeance stuff like that and proving"
+      },
+      {
+        "end": 884.035,
+        "id": 181,
+        "is_music": false,
+        "start": 879.015,
+        "text": "anybody wrong I love looking. Watching 1st take after the pictures one and just"
+      },
+      {
+        "end": 888.062,
+        "id": 182,
+        "is_music": false,
+        "start": 884.036,
+        "text": "like yeah I think I like the hard arm and I thought I was great I think Hard Knocks"
+      },
+      {
+        "end": 894.064,
+        "id": 183,
+        "is_music": false,
+        "start": 888.063,
+        "text": "this year old though you know I had the whole my 1st part of the year. Ever ever"
+      },
+      {
+        "end": 897.071,
+        "id": 184,
+        "is_music": false,
+        "start": 894.065,
+        "text": "ever seen like that in our life ever again I was pretty beat maybe I'd be"
+      },
+      {
+        "end": 900.02,
+        "id": 185,
+        "is_music": false,
+        "start": 897.072,
+        "text": "a free agency for my I was wild I was"
+      },
+      {
+        "end": 907.02,
+        "id": 186,
+        "is_music": false,
+        "start": 900.021,
+        "text": "a law. That will happen while I watch while I watch as I said. Abraham"
+      },
+      {
+        "end": 913.067,
+        "id": 187,
+        "is_music": false,
+        "start": 907.021,
+        "text": "got the clay Feld thing wrong. For Aria Brown were John Clay in from e.s.p.n."
+      },
+      {
+        "end": 917.055,
+        "id": 188,
+        "is_music": false,
+        "start": 913.068,
+        "text": "And he's still there I don't think not to be like I always knew that he has"
+      },
+      {
+        "end": 924.033,
+        "id": 189,
+        "is_music": false,
+        "start": 917.056,
+        "text": "a show on history you. Like. They just stay he was you sad to see."
+      },
+      {
+        "end": 931.057,
+        "id": 190,
+        "is_music": false,
+        "start": 925.035,
+        "text": "The love John Cleese. Said scoops Oh yeah former reporter for e.s.p.n."
+      },
+      {
+        "end": 938.028,
+        "id": 191,
+        "is_music": false,
+        "start": 931.057,
+        "text": ". He now works I don't know where he works now yeah I think he's"
+      },
+      {
+        "end": 939.033,
+        "id": 192,
+        "is_music": false,
+        "start": 938.029,
+        "text": "retired now he has"
+      },
+      {
+        "end": 945.006,
+        "id": 193,
+        "is_music": false,
+        "start": 939.034,
+        "text": "a yeah he's done for John Cleese All right so you want to go you want to go to the"
+      },
+      {
+        "end": 949.097,
+        "id": 194,
+        "is_music": false,
+        "start": 945.075,
+        "text": "14 preview Oh my God Yeah yeah yeah I would describe the Scots So this guy said"
+      },
+      {
+        "end": 952.028,
+        "id": 195,
+        "is_music": false,
+        "start": 949.098,
+        "text": "that I'll move the song a little bit this guy this is"
+      },
+      {
+        "end": 956.032,
+        "id": 196,
+        "is_music": false,
+        "start": 952.029,
+        "text": "a discussion that Clay held was going to get fired he deleted the tweeted that he"
+      },
+      {
+        "end": 958.005,
+        "id": 197,
+        "is_music": false,
+        "start": 956.033,
+        "text": "didn't write the story so I saw a guy wrote"
+      },
+      {
+        "end": 961.037,
+        "id": 198,
+        "is_music": false,
+        "start": 958.006,
+        "text": "a story you know you really do have it in the gamble I hate this guy yes you know"
+      },
+      {
+        "end": 966.031,
+        "id": 199,
+        "is_music": false,
+        "start": 961.038,
+        "text": "gambling Well it's getting late there boys were also i would you still I don't know"
+      },
+      {
+        "end": 967.094,
+        "id": 200,
+        "is_music": false,
+        "start": 966.032,
+        "text": "go to school work like"
+      },
+      {
+        "end": 974.079,
+        "id": 201,
+        "is_music": false,
+        "start": 967.095,
+        "text": "a nerd I have class. You know we really were going or were again all right so class"
+      },
+      {
+        "end": 976.012,
+        "id": 202,
+        "is_music": false,
+        "start": 974.08,
+        "text": "and we were Jewish so I was off with"
+      },
+      {
+        "end": 982.045,
+        "id": 203,
+        "is_music": false,
+        "start": 976.013,
+        "text": "a favor the week before just which would be 40 I favor the week museums on. My"
+      },
+      {
+        "end": 984.023,
+        "id": 204,
+        "is_music": false,
+        "start": 982.046,
+        "text": "fever it was"
+      },
+      {
+        "end": 989.058,
+        "id": 205,
+        "is_music": false,
+        "start": 984.024,
+        "text": "a terrible slide I don't I like I like this lady games we got this week I said slot"
+      },
+      {
+        "end": 991.04,
+        "id": 206,
+        "is_music": false,
+        "start": 989.059,
+        "text": "Slate Do you mean my favorite"
+      },
+      {
+        "end": 998.04,
+        "id": 207,
+        "is_music": false,
+        "start": 991.041,
+        "text": "a week. Oh absolutely foreign burner pipette there's Falcon"
+      },
+      {
+        "end": 1004.074,
+        "id": 208,
+        "is_music": false,
+        "start": 999.023,
+        "text": "but he got Lana mightest demise to have given the Vikings the Vikings minus 13 to"
+      },
+      {
+        "end": 1010.085,
+        "id": 209,
+        "is_music": false,
+        "start": 1004.075,
+        "text": "touch on favorites over the lines of David La. Like usual when. Covered by"
+      },
+      {
+        "end": 1017.063,
+        "id": 210,
+        "is_music": false,
+        "start": 1010.086,
+        "text": "discourse. Yes there were ever own you going to want me to go I'm going to"
+      },
+      {
+        "end": 1023.045,
+        "id": 211,
+        "is_music": false,
+        "start": 1018.015,
+        "text": "upset real quick because it just makes too much sense when the Rams are not good"
+      },
+      {
+        "end": 1028.054,
+        "id": 212,
+        "is_music": false,
+        "start": 1023.049,
+        "text": "they always beat the Seahawks and they're right I was going to I'm going Rams over"
+      },
+      {
+        "end": 1032.031,
+        "id": 213,
+        "is_music": false,
+        "start": 1028.055,
+        "text": "Seahawks I was in the times plus one I was going to Death is not the big something"
+      },
+      {
+        "end": 1036.057,
+        "id": 214,
+        "is_music": false,
+        "start": 1032.032,
+        "text": "I was going to dabble to Seahawks minus one is my favorite I thought I was going to"
+      },
+      {
+        "end": 1041.068,
+        "id": 215,
+        "is_music": false,
+        "start": 1036.058,
+        "text": "take the minus one I don't bet against Russell Wilson. I like the Falcons You know"
+      },
+      {
+        "end": 1045.037,
+        "id": 216,
+        "is_music": false,
+        "start": 1041.069,
+        "text": "it could be an absolutely incredible amount you got want to know I thought you were"
+      },
+      {
+        "end": 1050.052,
+        "id": 217,
+        "is_music": false,
+        "start": 1045.038,
+        "text": "going for when I know he aren't so I'll go away from the Seahawks Rams. There's 2 I"
+      },
+      {
+        "end": 1052.032,
+        "id": 218,
+        "is_music": false,
+        "start": 1050.053,
+        "text": "like Steelers minus 2 and"
+      },
+      {
+        "end": 1057.093,
+        "id": 219,
+        "is_music": false,
+        "start": 1052.033,
+        "text": "a half against the Cardinals I think Arizona I mean colors I was 900 percent those"
+      },
+      {
+        "end": 1064.042,
+        "id": 220,
+        "is_music": false,
+        "start": 1057.094,
+        "text": "tickets $159.00 was no way no sure you can go to the Jaguar g I like and I like the"
+      },
+      {
+        "end": 1070.045,
+        "id": 221,
+        "is_music": false,
+        "start": 1064.043,
+        "text": "Dolphins over that yeah yeah I sort of like it's good to as an underdog let me give"
+      },
+      {
+        "end": 1070.058,
+        "id": 222,
+        "is_music": false,
+        "start": 1070.046,
+        "text": "you"
+      },
+      {
+        "end": 1077.055,
+        "id": 223,
+        "is_music": false,
+        "start": 1070.059,
+        "text": "a ticket to that game $14.00 tickets in my life it's embarrassing as my underdog game"
+      },
+      {
+        "end": 1081.082,
+        "id": 224,
+        "is_music": false,
+        "start": 1078.008,
+        "text": "let's go in my underdog of the week I'm going to go with the Colts plus 2 and"
+      },
+      {
+        "end": 1087.09,
+        "id": 225,
+        "is_music": false,
+        "start": 1081.083,
+        "text": "a half over the Fox Look Colts are healthy people like I mean I just think the Bucs"
+      },
+      {
+        "end": 1093.014,
+        "id": 226,
+        "is_music": false,
+        "start": 1087.091,
+        "text": "are not very good the Colts are better so I go I got the Steelers mice to have the"
+      },
+      {
+        "end": 1093.094,
+        "id": 227,
+        "is_music": false,
+        "start": 1093.015,
+        "text": "cold plus 2 and"
+      },
+      {
+        "end": 1102.018,
+        "id": 228,
+        "is_music": false,
+        "start": 1093.095,
+        "text": "a half Jubilee got you on and off for us underdog. My mother oh my. Bengals"
+      },
+      {
+        "end": 1107.017,
+        "id": 229,
+        "is_music": false,
+        "start": 1102.019,
+        "text": "won by playing the last bill is going to beat the Packers plainly Well I got one"
+      },
+      {
+        "end": 1112.006,
+        "id": 230,
+        "is_music": false,
+        "start": 1107.046,
+        "text": "before and you know look Falcons over but I think I should go to the Falcons I can"
+      },
+      {
+        "end": 1117.005,
+        "id": 231,
+        "is_music": false,
+        "start": 1112.007,
+        "text": "surmise to have found Terrell and minus 2 but especially with the new coach coming"
+      },
+      {
+        "end": 1122.095,
+        "id": 232,
+        "is_music": false,
+        "start": 1117.006,
+        "text": "in late that's what I think. Wait no it isn't ice I'm I had that that the Panthers"
+      },
+      {
+        "end": 1129.052,
+        "id": 233,
+        "is_music": false,
+        "start": 1122.096,
+        "text": "were I got away I don't when I want to go. To Planet Money I got my mother"
+      },
+      {
+        "end": 1133.092,
+        "id": 234,
+        "is_music": false,
+        "start": 1129.068,
+        "text": "really. Too but I guess that's not really and I plan to go with it you pick the ups"
+      },
+      {
+        "end": 1139.078,
+        "id": 235,
+        "is_music": false,
+        "start": 1133.093,
+        "text": "at the start you flipped it because you picked the. Dolphin the Dolphins are just"
+      },
+      {
+        "end": 1140.07,
+        "id": 236,
+        "is_music": false,
+        "start": 1139.079,
+        "text": "like you're really begins"
+      },
+      {
+        "end": 1145.028,
+        "id": 237,
+        "is_music": false,
+        "start": 1140.071,
+        "text": "a really bad game this is global game just week I'm excited to watch the Chargers"
+      },
+      {
+        "end": 1152.025,
+        "id": 238,
+        "is_music": false,
+        "start": 1145.029,
+        "text": "Jaguars What's that. Minus 3. Mr Mayor one last time. All"
+      },
+      {
+        "end": 1158.09,
+        "id": 239,
+        "is_music": false,
+        "start": 1152.026,
+        "text": "right so Juba's got the Jag plus 3 and the Vikings minus 13 I have the"
+      },
+      {
+        "end": 1159.083,
+        "id": 240,
+        "is_music": false,
+        "start": 1158.091,
+        "text": "Colts plus 2 and"
+      },
+      {
+        "end": 1166.035,
+        "id": 241,
+        "is_music": false,
+        "start": 1159.084,
+        "text": "a half and the Steelers my steward half Rimando has to be the Dolphins plus 5 and"
+      },
+      {
+        "end": 1168.048,
+        "id": 242,
+        "is_music": false,
+        "start": 1166.036,
+        "text": "a half in the Falcons minus 2 and"
+      },
+      {
+        "end": 1174.041,
+        "id": 243,
+        "is_music": false,
+        "start": 1168.049,
+        "text": "a half Oh and has the who he got. I got the Rams just"
+      },
+      {
+        "end": 1177.083,
+        "id": 244,
+        "is_music": false,
+        "start": 1174.042,
+        "text": "a response when you know if. Titans was to have that's it that's"
+      },
+      {
+        "end": 1184.081,
+        "id": 245,
+        "is_music": false,
+        "start": 1177.084,
+        "text": "a goal of. The Pats or 3.0 It's not my favorites. And favorites I really like"
+      },
+      {
+        "end": 1186.046,
+        "id": 246,
+        "is_music": false,
+        "start": 1185.047,
+        "text": "and so this is really is"
+      },
+      {
+        "end": 1192.094,
+        "id": 247,
+        "is_music": false,
+        "start": 1186.047,
+        "text": "a horrible Schley Yeah whoa exactly large got the bag 5 years 100 mil from from"
+      },
+      {
+        "end": 1198.087,
+        "id": 248,
+        "is_music": false,
+        "start": 1193.015,
+        "text": "the Ga already led Philadelphia Phillies are you sure got back the trap and you"
+      },
+      {
+        "end": 1203.008,
+        "id": 249,
+        "is_music": false,
+        "start": 1198.088,
+        "text": "know what Zach really got 5 years 100 mil from the Philadelphia Phillies it's"
+      },
+      {
+        "end": 1209.031,
+        "id": 250,
+        "is_music": false,
+        "start": 1203.009,
+        "text": "a lot of money so. I think we I don't even see the yet we thought he got that right"
+      },
+      {
+        "end": 1215.057,
+        "id": 251,
+        "is_music": false,
+        "start": 1209.079,
+        "text": "what somebody. Think. That person like"
+      },
+      {
+        "end": 1217.037,
+        "id": 252,
+        "is_music": false,
+        "start": 1215.058,
+        "text": "a minute ago Ok but signs on"
+      },
+      {
+        "end": 1222.088,
+        "id": 253,
+        "is_music": false,
+        "start": 1217.038,
+        "text": "a tear right now looming and I move Cole Hamels to the to the bridge"
+      },
+      {
+        "end": 1229.065,
+        "id": 254,
+        "is_music": false,
+        "start": 1222.089,
+        "text": "a one year 18 mill big deal for him no more than one thing yeah I mean they're"
+      },
+      {
+        "end": 1233.098,
+        "id": 255,
+        "is_music": false,
+        "start": 1229.066,
+        "text": "known for it could be well the I heard they were in on Bumgarner I still and I"
+      },
+      {
+        "end": 1238,
+        "id": 256,
+        "is_music": false,
+        "start": 1233.099,
+        "text": "think Hamilton is the better I don't think Bumgarner So it's good as people think"
+      },
+      {
+        "end": 1241.015,
+        "id": 257,
+        "is_music": false,
+        "start": 1238.001,
+        "text": "you know I just want to say I'm starting you know I manning this week in my fantasy"
+      },
+      {
+        "end": 1244.068,
+        "id": 258,
+        "is_music": false,
+        "start": 1241.016,
+        "text": "kind of solution to that bracket hey look you know the shot was getting the start"
+      },
+      {
+        "end": 1250.07,
+        "id": 259,
+        "is_music": false,
+        "start": 1244.069,
+        "text": "of Russell Wilson Oh it's 2231 place out one last time for the semester on the bus"
+      },
+      {
+        "end": 1256.022,
+        "id": 260,
+        "is_music": false,
+        "start": 1250.071,
+        "text": "ride. Let me think of something all right well I'll keep all keep it going here."
+      },
+      {
+        "end": 1264.035,
+        "id": 261,
+        "is_music": false,
+        "start": 1257.089,
+        "text": "Yes actually $100000000.00 who can't believe that close to our it's just 19118396"
+      },
+      {
+        "end": 1264.068,
+        "id": 262,
+        "is_music": false,
+        "start": 1264.036,
+        "text": "you are"
+      },
+      {
+        "end": 1271.053,
+        "id": 263,
+        "is_music": false,
+        "start": 1264.069,
+        "text": "a. Brain doesn't listen to any strikeouts. That's not very not so I can live"
+      },
+      {
+        "end": 1273.092,
+        "id": 264,
+        "is_music": false,
+        "start": 1271.054,
+        "text": "off the amend the desperate they need any"
+      },
+      {
+        "end": 1280.061,
+        "id": 265,
+        "is_music": false,
+        "start": 1273.093,
+        "text": "a good sports teams are. Somehow underwhelm in Philadelphia will burn but Phil is"
+      },
+      {
+        "end": 1284.068,
+        "id": 266,
+        "is_music": false,
+        "start": 1280.062,
+        "text": "going to burn about what I know is pretty much burning already at the Phillies I'm"
+      },
+      {
+        "end": 1284.074,
+        "id": 267,
+        "is_music": false,
+        "start": 1284.069,
+        "text": "in"
+      },
+      {
+        "end": 1295.067,
+        "id": 268,
+        "is_music": false,
+        "start": 1284.075,
+        "text": "a good year I just. General. A"
+      },
+      {
+        "end": 1302.032,
+        "id": 269,
+        "is_music": false,
+        "start": 1295.097,
+        "text": "bug's bit but I'll ride this Mr Big big. Strides for."
+      },
+      {
+        "end": 1303.096,
+        "id": 270,
+        "is_music": false,
+        "start": 1303.066,
+        "text": "Me got me"
+      },
+      {
+        "end": 1310.085,
+        "id": 271,
+        "is_music": false,
+        "start": 1303.097,
+        "text": "a couple last tapes but I see couple last listeners. Could actually simply"
+      },
+      {
+        "end": 1314.078,
+        "id": 272,
+        "is_music": false,
+        "start": 1310.086,
+        "text": "call the listeners would say I got so good to get one of."
+      },
+      {
+        "end": 1323.023,
+        "id": 273,
+        "is_music": false,
+        "start": 1318.016,
+        "text": "Those I. Called. The we lost some of that but then we got it back."
+      },
+      {
+        "end": 1332.031,
+        "id": 274,
+        "is_music": false,
+        "start": 1325.041,
+        "text": "As. He I don't think I am fairly good certainty I we lost Allan."
+      },
+      {
+        "end": 1340.098,
+        "id": 275,
+        "is_music": false,
+        "start": 1334.019,
+        "text": "To lot of. Yeah yeah. You know"
+      },
+      {
+        "end": 1344.004,
+        "id": 276,
+        "is_music": false,
+        "start": 1341.073,
+        "text": "it's been how special rides shots of friends"
+      },
+      {
+        "end": 1348.027,
+        "id": 277,
+        "is_music": false,
+        "start": 1344.005,
+        "text": "a program absolutely jack from Philly look out for looking for 2nd special we're"
+      },
+      {
+        "end": 1355.021,
+        "id": 278,
+        "is_music": false,
+        "start": 1348.028,
+        "text": "going to theory. Before if we're doing we're doing big because"
+      },
+      {
+        "end": 1358.079,
+        "id": 279,
+        "is_music": false,
+        "start": 1355.022,
+        "text": "part that's actually because I might look out for the other faults of midnight slot"
+      },
+      {
+        "end": 1360.076,
+        "id": 280,
+        "is_music": false,
+        "start": 1359.059,
+        "text": "so I make much of"
+      },
+      {
+        "end": 1367.066,
+        "id": 281,
+        "is_music": false,
+        "start": 1360.077,
+        "text": "a power the match the Majuba power hour. Could be the works I'm working on for"
+      },
+      {
+        "end": 1373.06,
+        "id": 282,
+        "is_music": false,
+        "start": 1367.067,
+        "text": "what shows if you. See Dallas appeal to me would be politics."
+      },
+      {
+        "end": 1374.091,
+        "id": 283,
+        "is_music": false,
+        "start": 1374.075,
+        "text": "To be"
+      },
+      {
+        "end": 1381.068,
+        "id": 284,
+        "is_music": false,
+        "start": 1374.092,
+        "text": "a part of bullshit Matthew was about nothing but your life honestly. The manifesto"
+      },
+      {
+        "end": 1388.04,
+        "id": 285,
+        "is_music": false,
+        "start": 1381.072,
+        "text": "Yeah. Yeah sure so we'll keep everybody posted especially to those who"
+      },
+      {
+        "end": 1394.044,
+        "id": 286,
+        "is_music": false,
+        "start": 1388.041,
+        "text": "care. Well our plan is for one head across the pond or you can just tell your."
+      },
+      {
+        "end": 1405.056,
+        "id": 287,
+        "is_music": false,
+        "start": 1398.06,
+        "text": "Thank you. Guys for my copy all McCarthy Majuba final time."
+      },
+      {
+        "end": 1410.032,
+        "id": 288,
+        "is_music": false,
+        "start": 1408.059,
+        "text": "Off the pig 3."
+      },
+      {
+        "end": 1422.048,
+        "id": 289,
+        "is_music": false,
+        "start": 1421.092,
+        "text": "Days given."
+      },
+      {
+        "end": 1436.053,
+        "id": 290,
+        "is_music": false,
+        "start": 1433.065,
+        "text": "Absolutely."
+      },
+      {
+        "end": 1512.4549659864,
+        "id": 291,
+        "is_music": true,
+        "start": 1433.8786394558,
+        "text": ""
+      },
+      {
+        "end": 1522.054,
+        "id": 292,
+        "is_music": false,
+        "start": 1522.046,
+        "text": "To."
+      },
+      {
+        "end": 1538.014,
+        "id": 293,
+        "is_music": false,
+        "start": 1531.061,
+        "text": "Defeat. Them. To. Get."
+      },
+      {
+        "end": 1544.091,
+        "id": 294,
+        "is_music": false,
+        "start": 1540.042,
+        "text": "Them. To kill."
+      },
+      {
+        "end": 1553.033,
+        "id": 295,
+        "is_music": false,
+        "start": 1548.042,
+        "text": "Them to get. Them to."
+      },
+      {
+        "end": 1793.8808163265,
+        "id": 296,
+        "is_music": true,
+        "start": 1551.4644897959,
+        "text": ""
+      },
+      {
+        "end": 1835.033,
+        "id": 297,
+        "is_music": false,
+        "start": 1834.097,
+        "text": "Me."
+      },
+      {
+        "end": 1880.2590476191,
+        "id": 298,
+        "is_music": true,
+        "start": 1834.0048979592,
+        "text": ""
+      },
+      {
+        "end": 1929.04,
+        "id": 299,
+        "is_music": false,
+        "start": 1923.069,
+        "text": "Tom. Told the."
+      },
+      {
+        "end": 1966.6372789116,
+        "id": 300,
+        "is_music": true,
+        "start": 1898.6492517007,
+        "text": ""
+      },
+      {
+        "end": 1986.002,
+        "id": 301,
+        "is_music": false,
+        "start": 1979.008,
+        "text": "the man to. Kill was"
+      },
+      {
+        "end": 1991.087,
+        "id": 302,
+        "is_music": false,
+        "start": 1986.02,
+        "text": "Tom Abbott. The."
+      },
+      {
+        "end": 1997.062,
+        "id": 303,
+        "is_music": false,
+        "start": 1993.087,
+        "text": "Long. Leg."
+      },
+      {
+        "end": 2004.001,
+        "id": 304,
+        "is_music": false,
+        "start": 2000.049,
+        "text": "The law has lagged."
+      },
+      {
+        "end": 2013.012,
+        "id": 305,
+        "is_music": false,
+        "start": 2012.067,
+        "text": "Ma."
+      },
+      {
+        "end": 2032.008,
+        "id": 306,
+        "is_music": false,
+        "start": 2025.083,
+        "text": "Ma. Ma ma ma ma ma. Ma."
+      },
+      {
+        "end": 2034.002,
+        "id": 307,
+        "is_music": false,
+        "start": 2033.083,
+        "text": "Play."
+      },
+      {
+        "end": 2277.5989115646,
+        "id": 308,
+        "is_music": true,
+        "start": 2051.900952381,
+        "text": ""
+      },
+      {
+        "end": 2282.008,
+        "id": 309,
+        "is_music": false,
+        "start": 2282.006,
+        "text": "C"
+      },
+      {
+        "end": 2545.0927891157,
+        "id": 310,
+        "is_music": true,
+        "start": 2279.2707482993,
+        "text": ""
+      },
+      {
+        "end": 2589.084,
+        "id": 311,
+        "is_music": false,
+        "start": 2589.028,
+        "text": "But the."
+      },
+      {
+        "end": 2615.8672108844,
+        "id": 312,
+        "is_music": true,
+        "start": 2550.6655782313,
+        "text": ""
+      },
+      {
+        "end": 2617.005,
+        "id": 313,
+        "is_music": false,
+        "start": 2611.008,
+        "text": "Merry Christmas. List."
+      },
+      {
+        "end": 2625.069,
+        "id": 314,
+        "is_music": false,
+        "start": 2625.038,
+        "text": "You're"
+      },
+      {
+        "end": 2634.079,
+        "id": 315,
+        "is_music": false,
+        "start": 2625.07,
+        "text": "a mean one Mr Grinch. Your"
+      },
+      {
+        "end": 2635.086,
+        "id": 316,
+        "is_music": false,
+        "start": 2634.08,
+        "text": "as cuddly as"
+      },
+      {
+        "end": 2642.054,
+        "id": 317,
+        "is_music": false,
+        "start": 2635.087,
+        "text": "a cactus your as charming as Mr. Bush your up."
+      },
+      {
+        "end": 2660.049,
+        "id": 318,
+        "is_music": false,
+        "start": 2655.063,
+        "text": "Your own monster. Mr Green. Your."
+      },
+      {
+        "end": 2669.076,
+        "id": 319,
+        "is_music": false,
+        "start": 2662.096,
+        "text": "Home. Is full of spiders you've got garlic in your soul Mr."
+      },
+      {
+        "end": 2676.01,
+        "id": 320,
+        "is_music": false,
+        "start": 2673,
+        "text": "I wouldn't touch you. 39 and"
+      },
+      {
+        "end": 2682.022,
+        "id": 321,
+        "is_music": false,
+        "start": 2676.011,
+        "text": "a half with home. Your old file on. Mr Green."
+      },
+      {
+        "end": 2689.091,
+        "id": 322,
+        "is_music": false,
+        "start": 2683.05,
+        "text": "Key You have. Your smile. You have all the tender"
+      },
+      {
+        "end": 2690.083,
+        "id": 323,
+        "is_music": false,
+        "start": 2689.092,
+        "text": "sweetness of"
+      },
+      {
+        "end": 2697.065,
+        "id": 324,
+        "is_music": false,
+        "start": 2690.084,
+        "text": "a sea sick crocodile Mr. Bush given the choice between the"
+      },
+      {
+        "end": 2701.074,
+        "id": 325,
+        "is_music": false,
+        "start": 2697.066,
+        "text": "2 of you I'd take the specific I."
+      },
+      {
+        "end": 2706.007,
+        "id": 326,
+        "is_music": false,
+        "start": 2705.073,
+        "text": "Know"
+      },
+      {
+        "end": 2712.099,
+        "id": 327,
+        "is_music": false,
+        "start": 2706.008,
+        "text": "a follow on Mr Grinch to your nasty. Nasty"
+      },
+      {
+        "end": 2719.094,
+        "id": 328,
+        "is_music": false,
+        "start": 2713,
+        "text": "skunk. Oxys full of unwashed socks you'll soul is full of junk Mr"
+      },
+      {
+        "end": 2726.048,
+        "id": 329,
+        "is_music": false,
+        "start": 2719.095,
+        "text": "Curry. Look 3 words that best describe you are as follows"
+      },
+      {
+        "end": 2730.066,
+        "id": 330,
+        "is_music": false,
+        "start": 2726.065,
+        "text": "and I quote Think Tank."
+      },
+      {
+        "end": 2739.049,
+        "id": 331,
+        "is_music": false,
+        "start": 2733.039,
+        "text": "Your rocker. Mr Green. Your the king of the sea"
+      },
+      {
+        "end": 2746.068,
+        "id": 332,
+        "is_music": false,
+        "start": 2740.009,
+        "text": "a full size. Your pipes are dead to Maple splotched remove the purple spots"
+      },
+      {
+        "end": 2752.027,
+        "id": 333,
+        "is_music": false,
+        "start": 2746.087,
+        "text": "Mr. Bush your soul is an appalling dump"
+      },
+      {
+        "end": 2757.046,
+        "id": 334,
+        "is_music": false,
+        "start": 2753.025,
+        "text": "overflowing with the most discreet spill assortment of deplorable rubbish"
+      },
+      {
+        "end": 2764.033,
+        "id": 335,
+        "is_music": false,
+        "start": 2757.047,
+        "text": "imaginable mangled up in. You"
+      },
+      {
+        "end": 2771.003,
+        "id": 336,
+        "is_music": false,
+        "start": 2764.034,
+        "text": "know. Mr. SUV."
+      },
+      {
+        "end": 2776.048,
+        "id": 337,
+        "is_music": false,
+        "start": 2773.091,
+        "text": "Look at jerky Shockey and you drive"
+      },
+      {
+        "end": 2781.084,
+        "id": 338,
+        "is_music": false,
+        "start": 2776.049,
+        "text": "a crook at home Mr. Bush. Your"
+      },
+      {
+        "end": 2784.051,
+        "id": 339,
+        "is_music": false,
+        "start": 2781.085,
+        "text": "a 3 decker sauerkraut and toadstools."
+      },
+      {
+        "end": 2983.671292517,
+        "id": 340,
+        "is_music": true,
+        "start": 2785.28,
+        "text": ""
+      },
+      {
+        "end": 3005.093,
+        "id": 341,
+        "is_music": false,
+        "start": 3000.067,
+        "text": "Live. Live."
+      },
+      {
+        "end": 3176.4897959184,
+        "id": 342,
+        "is_music": true,
+        "start": 2994.2595918367,
+        "text": ""
+      },
+      {
+        "end": 3186.073,
+        "id": 343,
+        "is_music": false,
+        "start": 3182.094,
+        "text": "Welcome back to Christmas coverage and and holiday coverage of w v"
+      },
+      {
+        "end": 3193.074,
+        "id": 344,
+        "is_music": false,
+        "start": 3186.074,
+        "text": "o f I'm here joined with station manager Mike came by Mike I know you were very"
+      },
+      {
+        "end": 3195.033,
+        "id": 345,
+        "is_music": false,
+        "start": 3193.075,
+        "text": "tired today studying"
+      },
+      {
+        "end": 3200.008,
+        "id": 346,
+        "is_music": false,
+        "start": 3195.034,
+        "text": "a lot you know it's not timely or even though Nick you're absolutely right it's"
+      },
+      {
+        "end": 3205.027,
+        "id": 347,
+        "is_music": false,
+        "start": 3200.009,
+        "text": "that time of year I'm just I can smell the holly in the mistletoe in the air I'm"
+      },
+      {
+        "end": 3209.065,
+        "id": 348,
+        "is_music": false,
+        "start": 3205.028,
+        "text": "just ready to get done with exams so I can go home and enjoy this nice holiday"
+      },
+      {
+        "end": 3216,
+        "id": 349,
+        "is_music": false,
+        "start": 3209.066,
+        "text": "season. You know Mike I absolutely agree with you and the studio is looking great"
+      },
+      {
+        "end": 3220.081,
+        "id": 350,
+        "is_music": false,
+        "start": 3216.001,
+        "text": "a lot of Christmas decorations so many We've got that the wreath hanging up here in"
+      },
+      {
+        "end": 3225.097,
+        "id": 351,
+        "is_music": false,
+        "start": 3220.082,
+        "text": "the studio we've got the holly the whole 9 yards you know I'm looking forward to"
+      },
+      {
+        "end": 3231.077,
+        "id": 352,
+        "is_music": false,
+        "start": 3226.001,
+        "text": "seeing the holiday lights. The studio to the holiday lights and my personal"
+      },
+      {
+        "end": 3236.036,
+        "id": 353,
+        "is_music": false,
+        "start": 3231.078,
+        "text": "favorite is the figgy pudding we keep on the table in the studio as well and the"
+      },
+      {
+        "end": 3242.016,
+        "id": 354,
+        "is_music": false,
+        "start": 3236.037,
+        "text": "hot cocoa on to. Appear in the studio for all of our deejays"
+      },
+      {
+        "end": 3249.033,
+        "id": 355,
+        "is_music": false,
+        "start": 3243.013,
+        "text": "staff members. Let me ask you this question let's hear what do you"
+      },
+      {
+        "end": 3256.049,
+        "id": 356,
+        "is_music": false,
+        "start": 3249.09,
+        "text": "want for Christmas. Ok. So."
+      },
+      {
+        "end": 3263.093,
+        "id": 357,
+        "is_music": false,
+        "start": 3258,
+        "text": "The main thing I want. Is for. That's really nice community"
+      },
+      {
+        "end": 3270.001,
+        "id": 358,
+        "is_music": false,
+        "start": 3264.078,
+        "text": "togetherness unity unity unity group RINGBACK That's right you need"
+      },
+      {
+        "end": 3276.048,
+        "id": 359,
+        "is_music": false,
+        "start": 3270.002,
+        "text": "a groove. But yes you know I want my"
+      },
+      {
+        "end": 3282.03,
+        "id": 360,
+        "is_music": false,
+        "start": 3276.049,
+        "text": "family. And want to have a good time like we always do on Christmas it's always"
+      },
+      {
+        "end": 3288.005,
+        "id": 361,
+        "is_music": false,
+        "start": 3282.031,
+        "text": "a great time and watching the basketball games Oh yeah also Christmas Day good ones"
+      },
+      {
+        "end": 3291.089,
+        "id": 362,
+        "is_music": false,
+        "start": 3288.006,
+        "text": "on Christmas Day this year oh there it is I'm looking forward to it there's nothing"
+      },
+      {
+        "end": 3295.084,
+        "id": 363,
+        "is_music": false,
+        "start": 3291.09,
+        "text": "like it you know there's just nothing like the holidays there's nothing like"
+      },
+      {
+        "end": 3302.01,
+        "id": 364,
+        "is_music": false,
+        "start": 3295.085,
+        "text": "a great cup of hot cocoa and watch and I'm sitting mine right now me till right"
+      },
+      {
+        "end": 3307,
+        "id": 365,
+        "is_music": false,
+        "start": 3302.011,
+        "text": "here in the studio and shout outs whoever's giving us hot cocoa on tap I don't know"
+      },
+      {
+        "end": 3308.064,
+        "id": 366,
+        "is_music": false,
+        "start": 3307.001,
+        "text": "where it came from it must be"
+      },
+      {
+        "end": 3314.042,
+        "id": 367,
+        "is_music": false,
+        "start": 3308.081,
+        "text": "a little Christmas miracle that's right. But I'm great we're finally do on our"
+      },
+      {
+        "end": 3321.009,
+        "id": 368,
+        "is_music": false,
+        "start": 3314.043,
+        "text": "holiday coverage here on. Long overdue long overdue and for many years to come we"
+      },
+      {
+        "end": 3327.088,
+        "id": 369,
+        "is_music": false,
+        "start": 3321.01,
+        "text": "will now have 5 on the 5 For people would hear our voices and also live on line it"
+      },
+      {
+        "end": 3331.003,
+        "id": 370,
+        "is_music": false,
+        "start": 3327.092,
+        "text": "w b o f does org forward slash f.m."
+      },
+      {
+        "end": 3336.044,
+        "id": 371,
+        "is_music": false,
+        "start": 3331.004,
+        "text": "Life. Absolutely and Webb wife and Webb line there you go there you go either way"
+      },
+      {
+        "end": 3342.085,
+        "id": 372,
+        "is_music": false,
+        "start": 3337.029,
+        "text": "Ok so what do you what do you want for Christmas right well you know what. Is is"
+      },
+      {
+        "end": 3347.097,
+        "id": 373,
+        "is_music": false,
+        "start": 3342.086,
+        "text": "world peace too much to ask or. It shouldn't be and it shouldn't be should not in"
+      },
+      {
+        "end": 3353.086,
+        "id": 374,
+        "is_music": false,
+        "start": 3347.098,
+        "text": "2019 it shouldn't be too much to ask for I just want everyone to get along no more"
+      },
+      {
+        "end": 3359.047,
+        "id": 375,
+        "is_music": false,
+        "start": 3353.086,
+        "text": ". No more world hunger no more wars organizer good friend."
+      },
+      {
+        "end": 3367.041,
+        "id": 376,
+        "is_music": false,
+        "start": 3361.021,
+        "text": "Bob Dylan Bob Dylan yes. I think he said that one time. So well that's"
+      },
+      {
+        "end": 3374.011,
+        "id": 377,
+        "is_music": false,
+        "start": 3367.042,
+        "text": "a song too yeah yeah yeah of course happy Christmas as it was over exactly by. Bob"
+      },
+      {
+        "end": 3376.012,
+        "id": 378,
+        "is_music": false,
+        "start": 3374.012,
+        "text": "Dylan potentially probably not a lot"
+      },
+      {
+        "end": 3379.001,
+        "id": 379,
+        "is_music": false,
+        "start": 3376.013,
+        "text": "a lot of people do sing that song and oh yeah he might have covered"
+      },
+      {
+        "end": 3385.05,
+        "id": 380,
+        "is_music": false,
+        "start": 3379.002,
+        "text": "a different one point I don't get. That song Welles. The"
+      },
+      {
+        "end": 3391.087,
+        "id": 381,
+        "is_music": false,
+        "start": 3385.051,
+        "text": "Beatles. That doesn't mean Courtney there are go there it is there at all McCartney"
+      },
+      {
+        "end": 3397.004,
+        "id": 382,
+        "is_music": false,
+        "start": 3391.088,
+        "text": "already actually has some good Christmas songs he does he does actually and that's"
+      },
+      {
+        "end": 3401.065,
+        "id": 383,
+        "is_music": false,
+        "start": 3397.005,
+        "text": "one of them that's one of them I think and you're going to hear it right now on the"
+      },
+      {
+        "end": 3403.028,
+        "id": 384,
+        "is_music": false,
+        "start": 3401.066,
+        "text": "radio I have he"
+      },
+      {
+        "end": 3409.064,
+        "id": 385,
+        "is_music": false,
+        "start": 3403.029,
+        "text": "a point 5 The Beast and from all of us here at Central. Happy holiday happy"
+      },
+      {
+        "end": 3410.018,
+        "id": 386,
+        "is_music": false,
+        "start": 3409.065,
+        "text": "holidays."
+      },
+      {
+        "end": 3421.064,
+        "id": 387,
+        "is_music": false,
+        "start": 3417.098,
+        "text": "We hope you're enjoying the Christmas music live on w v"
+      },
+      {
+        "end": 3427.002,
+        "id": 388,
+        "is_music": false,
+        "start": 3421.065,
+        "text": "o I feel good thanks Christmas music Alex when I tell you about the kids in the"
+      },
+      {
+        "end": 3432.007,
+        "id": 389,
+        "is_music": false,
+        "start": 3427.003,
+        "text": "microphone seriously who just wasn't an ice cold Coca-Cola on Christmas day got me"
+      },
+      {
+        "end": 3435.09,
+        "id": 390,
+        "is_music": false,
+        "start": 3432.008,
+        "text": "a Glasgow Tickle And that's what my dad always gets every Thanksgiving and"
+      },
+      {
+        "end": 3437.026,
+        "id": 391,
+        "is_music": false,
+        "start": 3435.091,
+        "text": "Christmas party gets"
+      },
+      {
+        "end": 3441.028,
+        "id": 392,
+        "is_music": false,
+        "start": 3437.027,
+        "text": "a bunch of glass Cokes for us I was that is not one of the Santa kids it looks like"
+      },
+      {
+        "end": 3444.071,
+        "id": 393,
+        "is_music": false,
+        "start": 3441.029,
+        "text": "it I'm going to pour in a glass right now for you know not like"
+      },
+      {
+        "end": 3451.067,
+        "id": 394,
+        "is_music": false,
+        "start": 3444.072,
+        "text": "a glass bottle or cocoa. I'm so sick of taps right behind you oh my god you got."
+      },
+      {
+        "end": 3457.018,
+        "id": 395,
+        "is_music": false,
+        "start": 3453.003,
+        "text": "The holiday lights in the studio I do I like how they celebrate Dave Dave decorated"
+      },
+      {
+        "end": 3459.043,
+        "id": 396,
+        "is_music": false,
+        "start": 3457.019,
+        "text": "the b.c.c. Outside of us to we have"
+      },
+      {
+        "end": 3464.004,
+        "id": 397,
+        "is_music": false,
+        "start": 3459.044,
+        "text": "a night we have 2 trees I was saying we might on the table right there we did"
+      },
+      {
+        "end": 3466.014,
+        "id": 398,
+        "is_music": false,
+        "start": 3464.005,
+        "text": "a little one put the star up on Cringely had"
+      },
+      {
+        "end": 3470.021,
+        "id": 399,
+        "is_music": false,
+        "start": 3466.015,
+        "text": "a great idea put the put the fireplace on the on the t.v."
+      },
+      {
+        "end": 3473.054,
+        "id": 400,
+        "is_music": false,
+        "start": 3470.053,
+        "text": "That's a they have a thing on Netflix so that we have"
+      },
+      {
+        "end": 3478.098,
+        "id": 401,
+        "is_music": false,
+        "start": 3473.055,
+        "text": "a show on that place such just the fireplace Yeah really but. I'm pretty sure that"
+      },
+      {
+        "end": 3481.048,
+        "id": 402,
+        "is_music": false,
+        "start": 3478.099,
+        "text": "you don't need to find this right now next that is just not"
+      },
+      {
+        "end": 3485.049,
+        "id": 403,
+        "is_music": false,
+        "start": 3481.049,
+        "text": "a problem definitely realize I'm I don't doubt it's real."
+      },
+      {
+        "end": 3494.059,
+        "id": 404,
+        "is_music": false,
+        "start": 3489.041,
+        "text": "Searching for the buyer that's true but what do I know I'm just your average"
+      },
+      {
+        "end": 3501.022,
+        "id": 405,
+        "is_music": false,
+        "start": 3494.06,
+        "text": "everyday good looking accountant but secretly right. I'm"
+      },
+      {
+        "end": 3502.062,
+        "id": 406,
+        "is_music": false,
+        "start": 3501.023,
+        "text": "a radio d.j."
+      },
+      {
+        "end": 3509.06,
+        "id": 407,
+        "is_music": false,
+        "start": 3503.009,
+        "text": "No no no I'm babbling. I'm the guy had all right is it not that Luke not now so"
+      },
+      {
+        "end": 3514.02,
+        "id": 408,
+        "is_music": false,
+        "start": 3509.067,
+        "text": "yesterday was Cyber Monday. Right and Alex I know you have"
+      },
+      {
+        "end": 3520.023,
+        "id": 409,
+        "is_music": false,
+        "start": 3514.021,
+        "text": "a lot being shipped to the house I do actually I won't specify but because I want"
+      },
+      {
+        "end": 3527.018,
+        "id": 410,
+        "is_music": false,
+        "start": 3520.024,
+        "text": "to isn't going to give us. Obviously Where else would they listen. Of"
+      },
+      {
+        "end": 3533.055,
+        "id": 411,
+        "is_music": false,
+        "start": 3527.019,
+        "text": "course is there any other channel that exists I don't think so my presets go 85."
+      },
+      {
+        "end": 3540.012,
+        "id": 412,
+        "is_music": false,
+        "start": 3534.01,
+        "text": "And then. With all of the stations Ok so do you do most of your Christmas shopping"
+      },
+      {
+        "end": 3547.008,
+        "id": 413,
+        "is_music": false,
+        "start": 3540.013,
+        "text": "now online Oh you want to present. I think all of it actually. I actually"
+      },
+      {
+        "end": 3552.011,
+        "id": 414,
+        "is_music": false,
+        "start": 3547.009,
+        "text": "know most of my Christmas shopping in the store and do really well because the only"
+      },
+      {
+        "end": 3557.021,
+        "id": 415,
+        "is_music": false,
+        "start": 3552.012,
+        "text": "people I really shop for is if I'm doing a secret Santa which then I don't have"
+      },
+      {
+        "end": 3559.042,
+        "id": 416,
+        "is_music": false,
+        "start": 3557.022,
+        "text": "a good enough idea to go. To"
+      },
+      {
+        "end": 3565.075,
+        "id": 417,
+        "is_music": false,
+        "start": 3559.043,
+        "text": "a store and see everything Yeah exactly and then my dad. I always go to the store"
+      },
+      {
+        "end": 3568.095,
+        "id": 418,
+        "is_music": false,
+        "start": 3565.076,
+        "text": "get a funny story actually it was his birthday on Friday after the."
+      }
+    ],
+    "uniq": 1118238565,
+    "workable_servers": [
+      "ia803102.us.archive.org",
+      "ia903102.us.archive.org"
+    ]
+  }
+}

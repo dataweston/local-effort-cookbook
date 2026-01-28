@@ -1,0 +1,315 @@
+{
+  "source": "internet_archive",
+  "identifier": "cacmal_000089",
+  "title": "Honorable Discharge Certificate Awarded To Gammey, 1945",
+  "creator": "United States Armed Forces",
+  "year": 1945,
+  "subject": [
+    "californiarevealed",
+    "World War, 1939-1945",
+    "Gammey, Joseph"
+  ],
+  "description": "Please visit the California Revealed website to see the most complete and up-to-date version of this object: https://repository.californiarevealed.org/node/327830 . Certain military identification information is blacked out. Orange stains are visible. Joseph W. Gammy is a veteran of World War II. He was born on March 3, 1918 in Florence, Wisconsin and passed away on December 30, 1989. He enlisted and served from August 1940 to November 1945 in the Army Air Corps. His highest rank was Master Sergeant he served in the 824th Air Engineers Squadron in Europe. He also was involved with the Photographic Reconnaissance, Photo Supply Section and Technical Sergeant Air Corps. Awards for his service include the American Theatre Medal, European-African-Middle Eastern Theatre Medal, American Defense Service Medal, three Overseas Service Bars and Four Days Lost Under AW 107.",
+  "metadata": {
+    "access_page_numbers": {
+      "identifier": "cacmal_000089",
+      "format-version": "2",
+      "archive-hocr-tools-version": "1.1.54",
+      "confidence": 0,
+      "pages": [
+        {
+          "leafNum": 0,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        }
+      ]
+    },
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721600.ca.archive.org",
+          "dir": "/0/items/cacmal_000089"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721600.ca.archive.org",
+          "dir": "/0/items/cacmal_000089"
+        }
+      ]
+    },
+    "created": 1758318891,
+    "d1": "ia600308.us.archive.org",
+    "d2": "ia800308.us.archive.org",
+    "dir": "/9/items/cacmal_000089",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1741132624",
+        "size": "12791",
+        "md5": "1258a27ae704738e981fb742aeb02ed1",
+        "crc32": "e43c9f08",
+        "sha1": "e0708d8428eb856ab24e8dddb60eaa9e08557e2e",
+        "format": "Item Tile"
+      },
+      {
+        "name": "cacmal_000089_access.pdf",
+        "source": "original",
+        "mtime": "1741735792",
+        "size": "7190514",
+        "md5": "5ff05d2f8f38696b81d0c7cd3ff44c83",
+        "crc32": "287da869",
+        "sha1": "ea7445a40ed9bea04eac3a829f58c9386e5da9e3",
+        "format": "Text PDF"
+      },
+      {
+        "name": "cacmal_000089_access_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Japanese",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "cacmal_000089_access_jp2.zip",
+        "mtime": "1741735893",
+        "size": "10174",
+        "md5": "800d9070563a71cd3988d1d585877101",
+        "crc32": "8b99bd85",
+        "sha1": "572c6acf6c6ada42ccee24c20324e66b320e7d97"
+      },
+      {
+        "name": "cacmal_000089_access_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "cacmal_000089_access_djvu.xml",
+        "mtime": "1741735945",
+        "size": "577",
+        "md5": "1d0a0a7f562fa0debfb45092cdfee3cd",
+        "crc32": "69a77f6b",
+        "sha1": "86ea2be852c80c1f9ef88c31e0856a9ed2900015"
+      },
+      {
+        "name": "cacmal_000089_access_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "cacmal_000089_access_hocr.html",
+        "mtime": "1741735914",
+        "size": "10274",
+        "md5": "4df01f405c726b08db8f9a4a07877723",
+        "crc32": "7e71574e",
+        "sha1": "b80b5b9d828bbadda79d9fbcaec8bfe3d1547152"
+      },
+      {
+        "name": "cacmal_000089_access_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Japanese",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "cacmal_000089_access_chocr.html.gz",
+        "mtime": "1741735906",
+        "size": "20267",
+        "md5": "155940cc8b57fb754aa1d7c20ebfc7c6",
+        "crc32": "c1f485d5",
+        "sha1": "8321ce6c84720eeb27d3e1ffe9310aaca2613bb7"
+      },
+      {
+        "name": "cacmal_000089_access_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "cacmal_000089_access_hocr.html",
+        "mtime": "1741735919",
+        "size": "42",
+        "md5": "df6bb02600dd10159fa695fc162be266",
+        "crc32": "946517fb",
+        "sha1": "825edbe0bf8d1c00f09bad27ae8447788e2694f0"
+      },
+      {
+        "name": "cacmal_000089_access_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "16",
+        "word_conf_11_20": "15",
+        "word_conf_21_30": "10",
+        "word_conf_31_40": "15",
+        "word_conf_41_50": "9",
+        "word_conf_51_60": "11",
+        "word_conf_61_70": "7",
+        "word_conf_71_80": "9",
+        "word_conf_81_90": "11",
+        "word_conf_91_100": "11",
+        "format": "OCR Search Text",
+        "original": "cacmal_000089_access_hocr.html",
+        "mtime": "1741735937",
+        "size": "423",
+        "md5": "955f8b6cc82baf146222f391dff5e88b",
+        "crc32": "d6dfe89d",
+        "sha1": "04ab1164ba8aa79aa82d2afe21939ea9690e4469"
+      },
+      {
+        "name": "cacmal_000089_access_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "cacmal_000089_access.pdf",
+        "mtime": "1741735863",
+        "size": "2551082",
+        "md5": "26e620356a6a434adbab1ef6808096bc",
+        "crc32": "951ce545",
+        "sha1": "3e29309dabb032d0f90c572d9ea342115fea1fad",
+        "filecount": "1"
+      },
+      {
+        "name": "cacmal_000089_access_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "cacmal_000089_access_hocr.html",
+        "mtime": "1741735953",
+        "size": "318",
+        "md5": "e3de4645d414b9e7b4665f1c45c08bc7",
+        "crc32": "ef914aab",
+        "sha1": "0e8afdd1ac13270fa6b710d307ce5c28cdfd2138"
+      },
+      {
+        "name": "cacmal_000089_access_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "cacmal_000089_access_djvu.xml",
+        "mtime": "1741735953",
+        "size": "584",
+        "md5": "c9e837de28371fea55950e36a7bb5467",
+        "crc32": "ba6a09cb",
+        "sha1": "dc3726086a4c5756dc9435e39a497a5c7d9c7726"
+      },
+      {
+        "name": "cacmal_000089_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "fae1db227c31f630bdefbdf1fcfff89f",
+        "summation": "md5"
+      },
+      {
+        "name": "cacmal_000089_meta.sqlite",
+        "source": "original",
+        "mtime": "1741735808",
+        "size": "25600",
+        "format": "Metadata",
+        "md5": "c67828edbc23b4f4b2201229b508ddd3",
+        "crc32": "d7951eb7",
+        "sha1": "b79eae1cfeb31ce4dc5bdd109947c87e1aa957e0"
+      },
+      {
+        "name": "cacmal_000089_meta.xml",
+        "source": "original",
+        "mtime": "1741735953",
+        "size": "3759",
+        "format": "Metadata",
+        "md5": "d1c8f22fa7e951bc17d077fd0f0e0b63",
+        "crc32": "32b9ad43",
+        "sha1": "a59299bd4b4646b9d84f43f0ad0f5b2ba4b8bb2f"
+      },
+      {
+        "name": "cacmal_000089_metadata.xml",
+        "source": "original",
+        "mtime": "1741734054",
+        "size": "6785",
+        "md5": "d4dec54d333666397068cb75289dc5a6",
+        "crc32": "1e9490b7",
+        "sha1": "ae744de4b35803e8553d57298a1fbb7e311dd011",
+        "format": "Metadata"
+      },
+      {
+        "name": "history/files/cacmal_000089_access.pdf.~1~",
+        "source": "original",
+        "mtime": "1741155603",
+        "size": "7190514",
+        "md5": "5ff05d2f8f38696b81d0c7cd3ff44c83",
+        "crc32": "287da869",
+        "sha1": "ea7445a40ed9bea04eac3a829f58c9386e5da9e3",
+        "format": "Text PDF",
+        "old_version": "true"
+      },
+      {
+        "name": "history/files/cacmal_000089_metadata.xml.~1~",
+        "source": "original",
+        "mtime": "1741153900",
+        "size": "6785",
+        "md5": "d4dec54d333666397068cb75289dc5a6",
+        "crc32": "1e9490b7",
+        "sha1": "ae744de4b35803e8553d57298a1fbb7e311dd011",
+        "format": "Metadata",
+        "old_version": "true"
+      }
+    ],
+    "files_count": 17,
+    "item_last_updated": 1741735953,
+    "item_size": 17030489,
+    "metadata": {
+      "identifier": "cacmal_000089",
+      "collection": [
+        "calimesalibraryriverside",
+        "californiarevealed",
+        "stream_only",
+        "americana"
+      ],
+      "mediatype": "image",
+      "scanner": "Internet Archive Python library 1.8.4",
+      "title": "Honorable Discharge Certificate Awarded To Gammey, 1945",
+      "publicdate": "2019-08-14 19:00:07",
+      "uploader": "team@californiarevealed.org",
+      "addeddate": "2019-08-14 19:00:07",
+      "acknowledgment": "Source material provided by Calimesa Library. Managed by <a href=\"https://californiarevealed.org\">California Revealed</a>.",
+      "rights": "Copyrighted. Rights are owned by Riverside County Library System. Copyright Holder has given Institution permission to provide access to the digitized work online. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the Copyright Holder. In addition, the reproduction of some materials may be restricted by terms of gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.",
+      "description": "<b>Please visit the California Revealed website to see the most complete and up-to-date version of this object: <a href=\"https://repository.californiarevealed.org/node/327830\" rel=\"ugc nofollow\">https://repository.californiarevealed.org/node/327830</a>.</b>Certain military identification information is blacked out. Orange stains are visible. Joseph W. Gammy is a veteran of World War II. He was born on March 3, 1918 in Florence, Wisconsin and passed away on December 30, 1989. He enlisted and served from August 1940 to November 1945 in the Army Air Corps. His highest rank was Master Sergeant he served in the 824th Air Engineers Squadron in Europe. He also was involved with the Photographic Reconnaissance, Photo Supply Section and Technical Sergeant Air Corps. Awards for his service include the American Theatre Medal, European-African-Middle Eastern Theatre Medal, American Defense Service Medal, three Overseas Service Bars and Four Days Lost Under AW 107.",
+      "creator": "United States Armed Forces",
+      "source": "Manuscript: 1 page",
+      "contact": "Calimesa Library\n974 Calimesa Blvd\nCalimesa, CA 92320\nUnited States, (909) 795-9807, https://rivlib.net/branch/calimesa",
+      "date": "1945-11-02",
+      "projectidentifier": "caps00004195",
+      "subject": [
+        "californiarevealed",
+        "World War, 1939-1945",
+        "Gammey, Joseph"
+      ],
+      "backup_location": "ia906909_7",
+      "access-restricted-item": "true",
+      "title-series": "The War Comes Home, Joseph Gammey",
+      "sponsor": "California Revealed is supported by the U.S. Institute of Museum and Library Services under the provisions of the Library Services and Technology Act, administered in California by the State Librarian.",
+      "ppi": "240",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Japanese",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "normalized_dates": [
+        "1945-11-02"
+      ]
+    },
+    "server": "ia800308.us.archive.org",
+    "uniq": 1155771333,
+    "workable_servers": [
+      "ia800308.us.archive.org",
+      "ia600308.us.archive.org"
+    ]
+  }
+}

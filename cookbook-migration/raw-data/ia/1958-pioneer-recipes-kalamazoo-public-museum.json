@@ -1,0 +1,293 @@
+{
+  "source": "internet_archive",
+  "identifier": "1958-pioneer-recipes-kalamazoo-public-museum",
+  "title": "1958 Pioneer Recipes Kalamazoo Public Museum Kalamazoo, MI",
+  "creator": null,
+  "year": 1958,
+  "subject": "Community Cookbook",
+  "description": "Community Cookbook Pioneer Recipes Compiled by Kalamazoo Public Museum Kalamazoo, MI 1958 No Copyright Given in Text",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721809.ca.archive.org",
+          "dir": "/0/items/1958-pioneer-recipes-kalamazoo-public-museum"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721809.ca.archive.org",
+          "dir": "/0/items/1958-pioneer-recipes-kalamazoo-public-museum"
+        }
+      ]
+    },
+    "created": 1758558433,
+    "d1": "ia600402.us.archive.org",
+    "d2": "ia800402.us.archive.org",
+    "dir": "/15/items/1958-pioneer-recipes-kalamazoo-public-museum",
+    "files": [
+      {
+        "name": "1958-pioneer-recipes-kalamazoo-public-museum_archive.torrent",
+        "source": "metadata",
+        "btih": "8f89e2c8ec2e607d0e3dc020e458af767cae5680",
+        "mtime": "1746406728",
+        "size": "4483",
+        "md5": "bea9a204e1ef561ba6a917a11a7c2afc",
+        "crc32": "701768af",
+        "sha1": "4fe18324407cca52e6b1d16a7a9bd05283ac93f4",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "1958-pioneer-recipes-kalamazoo-public-museum_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "e4fe9d7af2a85be390fd32085d05913a",
+        "summation": "md5"
+      },
+      {
+        "name": "1958-pioneer-recipes-kalamazoo-public-museum_meta.sqlite",
+        "source": "original",
+        "mtime": "1728488684",
+        "size": "20480",
+        "md5": "f612ca2e0f85b460f64c8fcacd3a7135",
+        "crc32": "b0a938b1",
+        "sha1": "ee54afccabcc07fd4dd84757717fa9b67b22f67a",
+        "format": "Metadata"
+      },
+      {
+        "name": "1958-pioneer-recipes-kalamazoo-public-museum_meta.xml",
+        "source": "original",
+        "mtime": "1746406726",
+        "size": "2023",
+        "md5": "be852203e0f0ed4cc982111fa5d3fa3e",
+        "crc32": "feb84fe6",
+        "sha1": "09d3dfebc725ce70818ebf49e67b4bd593c124f9",
+        "format": "Metadata"
+      },
+      {
+        "name": "1958PioneerRecipesKalamazooPublicMuseum.pdf",
+        "source": "original",
+        "mtime": "1728488654",
+        "size": "2638131",
+        "md5": "e4979f19c0930d223ee13701b1b917cd",
+        "crc32": "60717854",
+        "sha1": "e54592512735910bc8e14b37c948fb5e53949f73",
+        "format": "Image Container PDF",
+        "viruscheck": "1728489001"
+      },
+      {
+        "name": "1958PioneerRecipesKalamazooPublicMuseum_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "1958PioneerRecipesKalamazooPublicMuseum_jp2.zip",
+        "mtime": "1728489439",
+        "size": "195518",
+        "md5": "edd15d25a190959733127516d2f369cc",
+        "crc32": "e4dedfa9",
+        "sha1": "1aafcf286ca81dcb6e5f6adf216e86a61cff37bc"
+      },
+      {
+        "name": "1958PioneerRecipesKalamazooPublicMuseum_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "1958PioneerRecipesKalamazooPublicMuseum_djvu.xml",
+        "mtime": "1728490594",
+        "size": "14232",
+        "md5": "c1b3675bb823e3d36c654028c1fd2b9a",
+        "crc32": "6dd29251",
+        "sha1": "85ba8591d491effba8b3f79afe4f30f7c74e75f3"
+      },
+      {
+        "name": "1958PioneerRecipesKalamazooPublicMuseum_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "1958PioneerRecipesKalamazooPublicMuseum_hocr.html",
+        "mtime": "1728490105",
+        "size": "204617",
+        "md5": "0027e30298e82df7e8fe9c1627287c07",
+        "crc32": "94207b06",
+        "sha1": "dd8412271b519dc033d8698db2750d693e0beab0"
+      },
+      {
+        "name": "1958PioneerRecipesKalamazooPublicMuseum_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "1958PioneerRecipesKalamazooPublicMuseum_chocr.html.gz",
+        "mtime": "1728490051",
+        "size": "375744",
+        "md5": "e0fc850272da3b4ad4269714854f54e7",
+        "crc32": "44e01a2f",
+        "sha1": "850f05d3911b9175f55ca8fbbf3d847b3342be7d"
+      },
+      {
+        "name": "1958PioneerRecipesKalamazooPublicMuseum_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "1958PioneerRecipesKalamazooPublicMuseum_hocr.html",
+        "mtime": "1728490258",
+        "size": "200",
+        "md5": "9971e071990389f10dfb34b93d45858b",
+        "crc32": "cf9ba4b3",
+        "sha1": "c5a559c0ca090b76d4bc2aed1867053ed62d26bc"
+      },
+      {
+        "name": "1958PioneerRecipesKalamazooPublicMuseum_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "2",
+        "word_conf_11_20": "1",
+        "word_conf_21_30": "3",
+        "word_conf_31_40": "2",
+        "word_conf_41_50": "2",
+        "word_conf_51_60": "3",
+        "word_conf_61_70": "15",
+        "word_conf_71_80": "38",
+        "word_conf_81_90": "92",
+        "word_conf_91_100": "2289",
+        "format": "OCR Search Text",
+        "original": "1958PioneerRecipesKalamazooPublicMuseum_hocr.html",
+        "mtime": "1728490470",
+        "size": "5499",
+        "md5": "6828e6c9b3a6f33c7027e376c95442d1",
+        "crc32": "95679d22",
+        "sha1": "4549c46ee633992cdc7e7ecadfad0ae7d37ce8d2"
+      },
+      {
+        "name": "1958PioneerRecipesKalamazooPublicMuseum_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "1958PioneerRecipesKalamazooPublicMuseum.pdf",
+        "mtime": "1728489201",
+        "size": "2717134",
+        "md5": "f1f7984dd22f76b67d25fb4a1803b899",
+        "crc32": "5ac19243",
+        "sha1": "97ccab50c5b5ba2557b65b9265a6c73fb6379ce3",
+        "filecount": "17"
+      },
+      {
+        "name": "1958PioneerRecipesKalamazooPublicMuseum_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "47",
+        "format": "Page Numbers JSON",
+        "original": "1958PioneerRecipesKalamazooPublicMuseum_hocr.html",
+        "mtime": "1728490738",
+        "size": "3032",
+        "md5": "d5d652b4d0148042698c00d855dd4c21",
+        "crc32": "bab6ecfe",
+        "sha1": "44863a4b94a2342b9e6bd1c038b47919490cb877"
+      },
+      {
+        "name": "1958PioneerRecipesKalamazooPublicMuseum_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "1958PioneerRecipesKalamazooPublicMuseum_djvu.xml",
+        "mtime": "1728490738",
+        "size": "5975",
+        "md5": "a0e66009e42cd68191291301c700aec2",
+        "crc32": "6e65aa36",
+        "sha1": "cad1671f92856b0eb0691dc8e6c2b77749cf1f00"
+      },
+      {
+        "name": "1958PioneerRecipesKalamazooPublicMuseum_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Additional Text PDF",
+        "original": "1958PioneerRecipesKalamazooPublicMuseum_page_numbers.json",
+        "mtime": "1728491234",
+        "size": "1615045",
+        "md5": "9f9c98f03ae927803472adb433617f4a",
+        "crc32": "b5bf06e7",
+        "sha1": "2ff80579b45e0849da5cd9f83245451c9b5990a2"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1728491970",
+        "size": "4572",
+        "md5": "a432438fc01975a4d9f458cb67859132",
+        "crc32": "6336fba1",
+        "sha1": "7de0a9eb16c1aed0c476e357a7bbe0729b754b74",
+        "format": "Item Tile"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1746406728,
+    "item_size": 7806685,
+    "metadata": {
+      "identifier": "1958-pioneer-recipes-kalamazoo-public-museum",
+      "mediatype": "texts",
+      "collection": [
+        "communitycookbooks",
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "date": "1958-01-01",
+      "description": "Community Cookbook<div>Pioneer Recipes</div><div>Compiled by Kalamazoo Public Museum</div><div>Kalamazoo, MI</div><div>1958</div><div>No Copyright Given in Text</div>",
+      "language": "eng",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": "Community Cookbook",
+      "title": "1958 Pioneer Recipes Kalamazoo Public Museum Kalamazoo, MI",
+      "uploader": "therecipegraveyard@gmail.com",
+      "publicdate": "2024-10-09 15:44:38",
+      "addeddate": "2024-10-09 15:44:38",
+      "curation": "[curator]validator@archive.org[/curator][date]20241009155001[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/1958-pioneer-recipes-kalamazoo-public-museum",
+      "identifier-ark": "ark:/13960/s23cwcn9cjm",
+      "ppi": "72",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "47",
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25",
+      "collection_added": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia600402.us.archive.org",
+    "uniq": 2075736599,
+    "workable_servers": [
+      "ia600402.us.archive.org",
+      "ia800402.us.archive.org"
+    ]
+  },
+  "pdf_url": "https://archive.org/download/1958-pioneer-recipes-kalamazoo-public-museum/1958PioneerRecipesKalamazooPublicMuseum.pdf",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

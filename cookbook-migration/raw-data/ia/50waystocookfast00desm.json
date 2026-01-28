@@ -1,0 +1,582 @@
+{
+  "source": "internet_archive",
+  "identifier": "50waystocookfast00desm",
+  "title": "50 ways to cook fast",
+  "creator": "Better Homes and Gardens.",
+  "year": 1990,
+  "subject": "Quick and easy cookery",
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/50waystocookfast00desm"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/50waystocookfast00desm"
+        }
+      ]
+    },
+    "created": 1758559472,
+    "d1": "ia601504.us.archive.org",
+    "d2": "ia801504.us.archive.org",
+    "dir": "/5/items/50waystocookfast00desm",
+    "files": [
+      {
+        "name": "50waystocookfast00desm.cdx.gz",
+        "source": "original",
+        "mtime": "1397851601",
+        "size": "6333",
+        "md5": "b04b3e992e24e5305ff644cc9e96adde",
+        "crc32": "48439199",
+        "sha1": "49c4ff428d12ae1738a9f6f83021645d87f0a33f",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm.cdx.idx",
+        "source": "original",
+        "mtime": "1397851601",
+        "size": "38",
+        "md5": "9817ca6a37784a4d8ac249dc1ba48cb0",
+        "crc32": "aa986db2",
+        "sha1": "fa96e015003596fb3735516afb813dd957900c23",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "50waystocookfast00desm_hocr.html",
+        "mtime": "1752990454",
+        "size": "26875667",
+        "private": "true",
+        "md5": "aa147e49a873462aad9fe43c32fae0dc",
+        "crc32": "92ac5432",
+        "sha1": "fe372a79e8cb9ea16f81c90d11369700b1972296"
+      },
+      {
+        "name": "50waystocookfast00desm.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "50waystocookfast00desm_jp2.zip",
+        "mtime": "1397849073",
+        "size": "167950",
+        "md5": "8b2b30c716782d2cba63ad82b091de40",
+        "crc32": "bd74d67f",
+        "sha1": "33d230ae2869a5ee69d53ef3b91ecb1080b2ed14"
+      },
+      {
+        "name": "50waystocookfast00desm.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "50waystocookfast00desm.pdf",
+        "mtime": "1752990251",
+        "size": "8874815",
+        "md5": "6415509dd6af28027719e3b2fe045af0",
+        "crc32": "82d893fe",
+        "sha1": "2df68518000aa072ec7a330fa2951c91e28042f3"
+      },
+      {
+        "name": "50waystocookfast00desm.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "50waystocookfast00desm_page_numbers.json",
+        "mtime": "1713436907",
+        "size": "8447489",
+        "md5": "5cb9fc636e9ca7890aa69e8c4e0c9caa",
+        "crc32": "7aa9c93d",
+        "sha1": "a15b8322e4300e3766d0f5f0fa5fe44f384a0c61",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1355265069",
+        "size": "525141",
+        "md5": "5fa180d9ee48e36c411b23358940f88d",
+        "crc32": "4d27e7fc",
+        "sha1": "4acecfb378ddf36d5615c11487e39685c391fcbc"
+      },
+      {
+        "name": "50waystocookfast00desm.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "50waystocookfast00desm.warc.gz",
+        "mtime": "1397846766",
+        "size": "6486",
+        "md5": "7bd92d16b11d2bae457e66bd2d6347ba",
+        "crc32": "1b1df990",
+        "sha1": "7518f1d57b38c1a4d2b2a86f80b3e24d2757685a",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "50waystocookfast00desm_jp2.zip",
+        "mtime": "1397849844",
+        "size": "1649548",
+        "md5": "dc4a4174718d76296590ca2ca123c8a4",
+        "crc32": "5126af7e",
+        "sha1": "5ec80d72ee7bb1737f73ebf4a547371ca66570da",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "50waystocookfast00desm_abbyy.gz",
+        "mtime": "1658095120",
+        "size": "1480804",
+        "md5": "eee3f36f9d45f54d4a68906fc50c4af9",
+        "crc32": "9188b762",
+        "sha1": "0defbfc23cd5a1d3db69a3e7720b0d501429e2ae",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "50waystocookfast00desm_scandata.xml",
+        "mtime": "1658095368",
+        "size": "779",
+        "md5": "31aca46cda4a7a910beae7fa7d91b1e0",
+        "crc32": "977f03f9",
+        "sha1": "2c1cc7b04dd16aab4a62c409a6b685e2f49aa678",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1355265069",
+        "size": "831",
+        "md5": "094b64346f0998fcdbfe72c08d42564f",
+        "crc32": "84ef743f",
+        "sha1": "686959f570f5592e50e2064fc39e9618e0f39643"
+      },
+      {
+        "name": "50waystocookfast00desm_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "50waystocookfast00desm_djvu.xml",
+        "mtime": "1722714802",
+        "size": "133993",
+        "md5": "768d1db4e73a0b5ca7f5b346354685bf",
+        "crc32": "059983b0",
+        "sha1": "44b4cdb526fac4510724233fe6ab1ffb15e1bd29",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "50waystocookfast00desm_hocr.html",
+        "mtime": "1722714800",
+        "size": "1610293",
+        "md5": "e72c155aa06af26536cc352a04823f0f",
+        "crc32": "ecb05cbf",
+        "sha1": "834f6259538b4ac38cd155b28240be10c3fe5cb2",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "50waystocookfast00desm.pdf",
+        "mtime": "1713437190",
+        "size": "8426316",
+        "md5": "7b6f4a1423b68b6187f2448f4412f55f",
+        "crc32": "956ae680",
+        "sha1": "97ce60eea4efb7fe340ad37843e6a9c9edd3bdbd"
+      },
+      {
+        "name": "50waystocookfast00desm_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "f120ca1a034b78db113f2d8ca77a263d",
+        "summation": "md5"
+      },
+      {
+        "name": "50waystocookfast00desm_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "50waystocookfast00desm_chocr.html.gz",
+        "mtime": "1658095411",
+        "size": "3038550",
+        "md5": "fe33e08b90411e336c005778d52de5c5",
+        "crc32": "42e6dc6a",
+        "sha1": "0ee1521091355edacf4e0322dbaa612dc5391353",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "50waystocookfast00desm_hocr.html",
+        "mtime": "1658095551",
+        "size": "962",
+        "md5": "6ebc99950b3cab05843404c1ad85629f",
+        "crc32": "9412d740",
+        "sha1": "1dee66d980b531980b7b9fd00535d0659004d656",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "421",
+        "word_conf_11_20": "162",
+        "word_conf_21_30": "390",
+        "word_conf_31_40": "775",
+        "word_conf_41_50": "1447",
+        "word_conf_51_60": "2044",
+        "word_conf_61_70": "2781",
+        "word_conf_71_80": "3018",
+        "word_conf_81_90": "2664",
+        "word_conf_91_100": "5199",
+        "format": "OCR Search Text",
+        "original": "50waystocookfast00desm_hocr.html",
+        "mtime": "1658095717",
+        "size": "38273",
+        "md5": "547c04f7d00ad1f95ffb72852e05993c",
+        "crc32": "487ba203",
+        "sha1": "2cd4403035f928ea04e9d1213ddee0c1959eaf7a",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "50waystocookfast00desm_orig_jp2.tar",
+        "mtime": "1397849006",
+        "size": "52589863",
+        "md5": "385d4c880e5eda6dc6582c6d88eac405",
+        "crc32": "4550ea2a",
+        "sha1": "0035056f63cba40985689c3da806cc52db28971f",
+        "private": "true",
+        "filecount": "86"
+      },
+      {
+        "name": "50waystocookfast00desm_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "50waystocookfast00desm.epub",
+        "mtime": "1752990561",
+        "size": "26972051",
+        "md5": "eb1fd13d10df4044bf69f6dc782152c4",
+        "crc32": "6ed520b8",
+        "sha1": "4484a1ba39bda4cc9b7fff3f6bed0ede00dc596e"
+      },
+      {
+        "name": "50waystocookfast00desm_loans.json",
+        "source": "original",
+        "mtime": "1593118280",
+        "size": "3202",
+        "format": "JSON",
+        "private": "true",
+        "md5": "16ed17656a2352cd25f554cc55c3e368",
+        "crc32": "babaff78",
+        "sha1": "b4405dcebc9dbfd5ee3a42b2823e5f6d926650bc"
+      },
+      {
+        "name": "50waystocookfast00desm_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1355265069",
+        "size": "2266",
+        "md5": "f6d6f0a38de3359b548c3ada24be5203",
+        "crc32": "1ddb5878",
+        "sha1": "c736c27841b39167fd68d71e2d658330af5a8cdc"
+      },
+      {
+        "name": "50waystocookfast00desm_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "50waystocookfast00desm_xisbn.json",
+        "mtime": "1454314730",
+        "size": "548",
+        "md5": "42cf7c405fc86ff762e21ce2f30f3d7a",
+        "crc32": "4f8285d5",
+        "sha1": "98f780b2f9aa9c7b21b244140bec5d52c598cf3a",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1355265069",
+        "size": "700",
+        "md5": "bca183250db28462558665ce35891a2c",
+        "crc32": "6e8e1c82",
+        "sha1": "ad175243554019c7ba63e182127193b8d0129528"
+      },
+      {
+        "name": "50waystocookfast00desm_meta.sqlite",
+        "source": "original",
+        "mtime": "1464332988",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "943a121feaec4e893469bce33666d571",
+        "crc32": "6669ef95",
+        "sha1": "a9e3482b11a771f36b715398effb4374a4fb5252"
+      },
+      {
+        "name": "50waystocookfast00desm_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1752990562",
+        "size": "3661",
+        "md5": "665debc544c00990fded4c334ea99b71",
+        "crc32": "6195a16b",
+        "sha1": "0a32ab20360e8e6ee76690ad679af2997f6ca838"
+      },
+      {
+        "name": "50waystocookfast00desm_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1355265069",
+        "size": "295",
+        "md5": "5db6bbad254c8d357551dff8bf737c31",
+        "crc32": "95212528",
+        "sha1": "c2bf1ce300a8f43fdfda4113232a3b5c2f36786f"
+      },
+      {
+        "name": "50waystocookfast00desm_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1397846583",
+        "size": "93409280",
+        "md5": "e5366534b0ea872824ef8fd8109360c3",
+        "crc32": "e477369f",
+        "sha1": "bc577b388d2aeea2980af636379d4cf8cde2e701",
+        "private": "true",
+        "filecount": "86"
+      },
+      {
+        "name": "50waystocookfast00desm_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "50waystocookfast00desm_hocr.html",
+        "mtime": "1713436906",
+        "size": "14227",
+        "md5": "04535114db03d2e900748f21abdfe84a",
+        "crc32": "0f5235d5",
+        "sha1": "2137abbabd862344a96ae511364ad9640dfd4843",
+        "private": "true"
+      },
+      {
+        "name": "50waystocookfast00desm_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1658095368",
+        "size": "112975",
+        "md5": "194ca0c3451b4b9d5bbbfe418687b14d",
+        "crc32": "95c4bbee",
+        "sha1": "a540c3570d1444234bc9f24c8c4ada372a847235"
+      },
+      {
+        "name": "50waystocookfast00desm_xisbn.json",
+        "source": "original",
+        "mtime": "1454006942",
+        "size": "674",
+        "md5": "3407861c09c30ed1c40d709dd3706d9e",
+        "crc32": "882ec4bc",
+        "sha1": "7f76e44703b4a31d71f64b36003fc58320bc405e",
+        "format": "OCLC xISBN JSON"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658102479",
+        "size": "25512",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "a2be62e7f79703415d3dec61eb18eab3",
+        "crc32": "16bd87df",
+        "sha1": "28936d15e5d1c8d0b194ec39cd03aa9e2bde9b70"
+      }
+    ],
+    "files_count": 33,
+    "item_last_updated": 1752990562,
+    "item_size": 234425666,
+    "metadata": {
+      "title": "50 ways to cook fast",
+      "publisher": "Des Moines, Iowa : Meredith",
+      "date": "1990-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696018950",
+        "9780696018954",
+        "0696018969"
+      ],
+      "openlibrary": "OL2224258M",
+      "subject": "Quick and easy cookery",
+      "lccn": "89063152",
+      "description": "Includes index",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-12-11 22:31:01",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sanfrancisco",
+      "shiptracking": "f0182",
+      "boxid": "IA1629708",
+      "identifier": "50waystocookfast00desm",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2012-12-11 22:31:11",
+      "publicdate": "2012-12-11 22:31:15",
+      "donor": "blogistics",
+      "scanner": "scribe1.sanfrancisco.archive.org",
+      "repub_seconds": "901",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "associate-veronica-romero@archive.org",
+      "scandate": "20140417215110",
+      "republisher": "associate-veronica-romero@archive.org",
+      "imagecount": "86",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/50waystocookfast00desm",
+      "identifier-ark": "ark:/13960/t8df9c43d",
+      "bookplateleaf": "0002",
+      "ocr": "ABBYY FineReader 9.0",
+      "scanfee": "150",
+      "invoice": "11",
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20140421175948[/date][state]approved[/state][comment]161[/comment]",
+      "external-identifier": [
+        "urn:acs6:50waystocookfast00desm:pdf:2fe87805-239d-4028-a474-0845add0b930",
+        "urn:acs6:50waystocookfast00desm:epub:025cb097-f271-48ae-830b-d0fe184d9738",
+        "urn:oclc:record:1023785538",
+        "urn:lcp:50waystocookfast00desm:lcpdf:6bda1b50-cb1f-4e79-b50c-e06cdc0b983f",
+        "urn:lcp:50waystocookfast00desm:epub:28c67a6b-6f29-4ba3-8444-bbe56d3c4fcb"
+      ],
+      "creator": "Better Homes and Gardens.",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": [
+        "21376561",
+        "319800434"
+      ],
+      "related-external-id": [
+        "urn:isbn:0696018969",
+        "urn:lccn:89063152",
+        "urn:oclc:123105436",
+        "urn:oclc:21376561"
+      ],
+      "backup_location": "ia905602_34",
+      "openlibrary_edition": "OL2224258M",
+      "openlibrary_work": "OL17025007W",
+      "republisher_operator": "associate-veronica-romero@archive.org",
+      "republisher_date": "20140418184142",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "pdf_module_version": "0.0.18",
+      "filesxml": "Tue Apr 2 20:35:07 UTC 2024",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia801504.us.archive.org",
+    "uniq": 1231497496,
+    "workable_servers": [
+      "ia801504.us.archive.org",
+      "ia601504.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/21376561?referer=xid"
+          ],
+          "publisher": "Meredith",
+          "form": [
+            "BB"
+          ],
+          "lccn": [
+            "89063152"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "Better Homes and Gardens.",
+          "ed": "1st ed.",
+          "year": "1990",
+          "isbn": [
+            "0696018950"
+          ],
+          "title": "50 ways to cook fast",
+          "oclcnum": [
+            "21376561",
+            "319800434"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/123105436?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "89063152"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "Better Homes and Gardens.",
+          "ed": "1st ed.",
+          "year": "1989",
+          "isbn": [
+            "0696018969"
+          ],
+          "title": "Decks, patios, fences, walks.",
+          "oclcnum": [
+            "123105436",
+            "21376561"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Better Homes and Gardens.",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

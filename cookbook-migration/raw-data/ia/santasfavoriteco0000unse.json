@@ -1,0 +1,510 @@
+{
+  "source": "internet_archive",
+  "identifier": "santasfavoriteco0000unse",
+  "title": "Santa's favorite cookies : sweet treats for the Christmas season",
+  "creator": null,
+  "year": 1999,
+  "subject": [
+    "Cookies",
+    "Christmas cooking"
+  ],
+  "description": [
+    "30 pages : 29 cm",
+    "How to make sweet treats for Christmas and the holidays"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/santasfavoriteco0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/santasfavoriteco0000unse"
+        }
+      ]
+    },
+    "created": 1758558296,
+    "d1": "ia903107.us.archive.org",
+    "d2": "ia803107.us.archive.org",
+    "dir": "/33/items/santasfavoriteco0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661018840",
+        "size": "23598",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "8737c8babaed6a5985f37bc48f2f33f7",
+        "crc32": "68971d05",
+        "sha1": "52373ba3e2fd5546969a56e1ff220a81fdf09d76"
+      },
+      {
+        "name": "logs/santasfavoriteco0000unse_iabdash_2019-11-0910:44:05.log",
+        "source": "original",
+        "mtime": "1573267449",
+        "size": "1353",
+        "md5": "12d5b3ee505d96b1b59b8a0b2a411fff",
+        "crc32": "b41f9be2",
+        "sha1": "2962eb8ccdc4dcb8516cd73687dd71b3d64ab261",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/santasfavoriteco0000unse_scanning_2019-11-0910:44:10.log",
+        "source": "original",
+        "mtime": "1573267454",
+        "size": "93870",
+        "md5": "da1f0ec2e7ac1904b75c1d4550203935",
+        "crc32": "9442fd83",
+        "sha1": "d4f3bcfc6080b833419237ea89d90dc9edd76d75",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "santasfavoriteco0000unse_hocr.html",
+        "mtime": "1758281088",
+        "size": "23961217",
+        "private": "true",
+        "md5": "70af493c1aea5b43bebf7de9e0a73ba2",
+        "crc32": "85d57a70",
+        "sha1": "c3ed408eb74e124c810ecce3fa9ecaaa6698ac3b"
+      },
+      {
+        "name": "santasfavoriteco0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "santasfavoriteco0000unse.pdf",
+        "mtime": "1758280907",
+        "size": "5274536",
+        "md5": "73a993f9a14c570c7aca70ee76fa1eac",
+        "crc32": "d9f988f5",
+        "sha1": "25eccaa8fc78efbab482398c019571e88a778421"
+      },
+      {
+        "name": "santasfavoriteco0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "santasfavoriteco0000unse_page_numbers.json",
+        "mtime": "1722709542",
+        "size": "4759878",
+        "md5": "63c4804091bc8a990cd97f93b0c6378a",
+        "crc32": "56798175",
+        "sha1": "5e0b0fa69de8f92687c421d7fe1265aa89d35d7e",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "santasfavoriteco0000unse_jp2.zip",
+        "mtime": "1573554351",
+        "size": "555531",
+        "md5": "1e446bbf368ed788c5f6cde0437d53f1",
+        "crc32": "bc1a5da2",
+        "sha1": "f0107eed3e1818286c58e5372a954523dc615557",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "santasfavoriteco0000unse_abbyy.gz",
+        "mtime": "1661018636",
+        "size": "449599",
+        "md5": "9b7d77c387e0e9cd3dde8f46341502d0",
+        "crc32": "9adde22d",
+        "sha1": "4e98ebae918a440adeda00314a4a457892d69f2c",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "santasfavoriteco0000unse_scandata.xml",
+        "mtime": "1671168049",
+        "size": "787",
+        "md5": "8fa5a8ebef5858cd656b18f8645f4ba2",
+        "crc32": "f7ca5eb8",
+        "sha1": "c9d4cb7364905d1123a70651fed3d255788de76c",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1661018630",
+        "size": "1216",
+        "md5": "6405c807d27eb3595f214f4a5e47ed4c",
+        "crc32": "b350fbde",
+        "sha1": "e94c44a4ed508699717fd5f659b6f70ef3875067"
+      },
+      {
+        "name": "santasfavoriteco0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "santasfavoriteco0000unse_djvu.xml",
+        "mtime": "1661018836",
+        "size": "39224",
+        "md5": "86fdcb89d27ce4023909c807408878c5",
+        "crc32": "d3b9b334",
+        "sha1": "fd74f112ef7a7ad3777278901835ede5f1b77c91",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "santasfavoriteco0000unse_hocr.html",
+        "mtime": "1661018683",
+        "size": "480421",
+        "md5": "472f80826edd54d6f509a253240710e1",
+        "crc32": "93b7b727",
+        "sha1": "b841378ab2aa8ba3f3bce769724d199f670fbd21",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "santasfavoriteco0000unse_abbyy.gz",
+        "mtime": "1573554702",
+        "size": "1483084",
+        "md5": "b7c6f64c7d0438259ca848641cc36d78",
+        "crc32": "12e0705f",
+        "sha1": "36c1e32035dd208f45629c9201c40f6ccf77bd7a"
+      },
+      {
+        "name": "santasfavoriteco0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "santasfavoriteco0000unse.pdf",
+        "mtime": "1722710488",
+        "size": "4739604",
+        "md5": "306ed41b18a5349a191269abc2a971d1",
+        "crc32": "8a6cca11",
+        "sha1": "78c2dfe1277bfde99e70a9b94058e9891d9a1f46"
+      },
+      {
+        "name": "santasfavoriteco0000unse_events.json",
+        "source": "original",
+        "mtime": "1573551765",
+        "size": "57",
+        "md5": "29423579e3717a2c82b9f3b6cff50ede",
+        "crc32": "88d7f059",
+        "sha1": "798eba01426dae2dfac9b6b6d75df9286f8a7f7c",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "f8c041f66657c7a64182fa5f6f5da1bc",
+        "summation": "md5"
+      },
+      {
+        "name": "santasfavoriteco0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "santasfavoriteco0000unse_chocr.html.gz",
+        "mtime": "1661018673",
+        "size": "1097214",
+        "md5": "b31e8255946dfe2f08e7f455fe73b061",
+        "crc32": "df8a1989",
+        "sha1": "327a6b5d7c06256b1f5e2fe9f3ef9951e1052aae",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "santasfavoriteco0000unse_hocr.html",
+        "mtime": "1661018729",
+        "size": "352",
+        "md5": "fc74d070c5479564b3d251ddfa34939b",
+        "crc32": "e353a208",
+        "sha1": "47c85ed26052f8485829125627007c91389a0a3c",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "58",
+        "word_conf_11_20": "31",
+        "word_conf_21_30": "53",
+        "word_conf_31_40": "49",
+        "word_conf_41_50": "72",
+        "word_conf_51_60": "105",
+        "word_conf_61_70": "235",
+        "word_conf_71_80": "482",
+        "word_conf_81_90": "1161",
+        "word_conf_91_100": "3360",
+        "format": "OCR Search Text",
+        "original": "santasfavoriteco0000unse_hocr.html",
+        "mtime": "1661018801",
+        "size": "11105",
+        "md5": "6a934630a07d0b671976177ff3388ad5",
+        "crc32": "d981b4af",
+        "sha1": "340ef50dfbe3525fc71ee38b62dabb58408dbfaf",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "santasfavoriteco0000unse_orig_jp2.tar",
+        "mtime": "1573553891",
+        "size": "38354915",
+        "md5": "0761a9c56a22556913fa38e6947401eb",
+        "crc32": "7f9ad7fe",
+        "sha1": "6360e5a0797bcf0b5941737de2723faed201887a",
+        "private": "true",
+        "filecount": "34"
+      },
+      {
+        "name": "santasfavoriteco0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "santasfavoriteco0000unse.epub",
+        "mtime": "1758281403",
+        "size": "24149936",
+        "md5": "091cd2f41a2366c2421a49249f240f5c",
+        "crc32": "96612b22",
+        "sha1": "797854d6dfa1564393cdaab37b622441ebe1031e"
+      },
+      {
+        "name": "santasfavoriteco0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593234737",
+        "size": "1082",
+        "format": "JSON",
+        "private": "true",
+        "md5": "d11d02926019bc006965abe9a8fc508b",
+        "crc32": "f0b3d690",
+        "sha1": "0d538e6e7dcb55078bd47ae6475ae96bc695ebbf"
+      },
+      {
+        "name": "santasfavoriteco0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1661018629",
+        "size": "3935",
+        "format": "MARC",
+        "md5": "e4d980337993e7fea729dae7cd512c1e",
+        "crc32": "4daedced",
+        "sha1": "27d8633376062bc0e17342ce7950bb58636c8048"
+      },
+      {
+        "name": "santasfavoriteco0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1573267444",
+        "size": "1137",
+        "md5": "81b4a080f2f894fc38aff90edee649e6",
+        "crc32": "d4f4963c",
+        "sha1": "3126b6be253be8abea79e15e44130eef924c1171",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "santasfavoriteco0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1573551785",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "e43285b17e4f3d45641000975b2a8fb7",
+        "crc32": "a79d53aa",
+        "sha1": "8f8cd5f6454b253a26cc7d3f4f365f075cad8826"
+      },
+      {
+        "name": "santasfavoriteco0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1758281403",
+        "size": "2923",
+        "format": "Metadata",
+        "md5": "aa196ae1b87ea37c6c7a30c8bb1c94d8",
+        "crc32": "d41a5e2a",
+        "sha1": "e722cca34e4a02d0f27ea562d37ffb2769ea9feb"
+      },
+      {
+        "name": "santasfavoriteco0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1573551785",
+        "size": "63068160",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "53eaf221921114d2802f72e9c7ec262e",
+        "crc32": "f65e10bb",
+        "sha1": "dd5998fde78da1f62f1bb5a46df1ed2c9fa9ee31",
+        "filecount": "34"
+      },
+      {
+        "name": "santasfavoriteco0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "santasfavoriteco0000unse_hocr.html",
+        "mtime": "1722709541",
+        "size": "5560",
+        "md5": "6881e9e26d089b831d1ab27c3fc22dbe",
+        "crc32": "187f4082",
+        "sha1": "2ab19745d32830b5e4f43eff8419abdb054d4a34",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671168049",
+        "size": "34983",
+        "format": "Scandata",
+        "md5": "db91c77d092644c0c510bd4f8b89e9bc",
+        "crc32": "288d9429",
+        "sha1": "f4a1a82d2c665cb83e11d0d81ff9f427ffd17f6b"
+      },
+      {
+        "name": "santasfavoriteco0000unse_slip.png",
+        "source": "original",
+        "mtime": "1573267275",
+        "size": "40275",
+        "md5": "ea9386f74decaf489106e72ab2a326ca",
+        "crc32": "b408081c",
+        "sha1": "715497e10f00ac9c8ea8c6e9bda3eeb8a3a70a7a",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "santasfavoriteco0000unse_slip.png",
+        "mtime": "1573551863",
+        "size": "5708",
+        "md5": "abec116741a5daf3ca81f531ab778354",
+        "crc32": "df8924bf",
+        "sha1": "662edc34706dc368f0302101a5695f7ff00456e1",
+        "private": "true"
+      },
+      {
+        "name": "santasfavoriteco0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "santasfavoriteco0000unse_djvu.xml",
+        "mtime": "1671167880",
+        "size": "655",
+        "md5": "8dd3960a88157d38347a93e8d17efd79",
+        "crc32": "a5f59e21",
+        "sha1": "b95cf16d9710e2e6026ea8c4a2c395ed40a34242",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1758281403,
+    "item_size": 168660347,
+    "metadata": {
+      "identifier": "santasfavoriteco0000unse",
+      "boxid": "IA1693318",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "1999-01-01",
+      "description": [
+        "30 pages : 29 cm",
+        "How to make sweet treats for Christmas and the holidays"
+      ],
+      "isbn": [
+        "9781412721431",
+        "1412721431"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA15248",
+      "openlibrary_edition": "OL8432590M",
+      "openlibrary_work": "OL15019696W",
+      "operator": "associate-shahoney-cabahug@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Louis Weber Press",
+      "repub_state": "19",
+      "scanner": "station36.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781412721431",
+      "subject": [
+        "Cookies",
+        "Christmas cooking"
+      ],
+      "title": "Santa's favorite cookies : sweet treats for the Christmas season",
+      "tts_version": "3.0-initial-170-gdf78d52",
+      "uploader": "station36.cebu@archive.org",
+      "addeddate": "2019-11-09 02:41:16",
+      "publicdate": "2019-11-09 02:41:26",
+      "access-restricted-item": "true",
+      "imagecount": "34",
+      "scandate": "20191109032034",
+      "republisher_operator": "associate-jerelyn-gonzaga@archive.org",
+      "republisher_date": "20191112174238",
+      "republisher_time": "302",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/santasfavoriteco0000unse",
+      "identifier-ark": "ark:/13960/t6647sh50",
+      "external-identifier": [
+        "urn:acs6:santasfavoriteco0000unse:epub:daabf152-c4f2-4300-b118-2cfdbe7acbba",
+        "urn:acs6:santasfavoriteco0000unse:pdf:c0939057-0b87-4017-bc68-750744b8b345",
+        "urn:lcp:santasfavoriteco0000unse:lcpdf:183029e6-6e97-4a42-85da-2a36177ca809",
+        "urn:lcp:santasfavoriteco0000unse:epub:8fedb879-4083-4bc3-9355-0baa56c4db2b"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191130",
+      "backup_location": "ia907005_32",
+      "oclc-id": [
+        "732935347",
+        "59004639"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia803107.us.archive.org",
+    "uniq": 1067364008,
+    "workable_servers": [
+      "ia803107.us.archive.org",
+      "ia903107.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

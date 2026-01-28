@@ -1,0 +1,108 @@
+{
+  "source": "dpla",
+  "id": "dd72c808628c9dd650627cb875ca423a",
+  "identifier": "dd72c808628c9dd650627cb875ca423a",
+  "title": "Woman's City Club cook book",
+  "subject": [
+    "Cookery--Illinois--Chicago",
+    "Cookery, American"
+  ],
+  "spatial": [
+    "Illinois",
+    "Chicago"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/008724331",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1923,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/dd72c808628c9dd650627cb875ca423a#SourceResource",
+      "contributor": [
+        "Woman's City Club of Chicago (Ill.). Library Committee"
+      ],
+      "date": [
+        {
+          "begin": "1923",
+          "displayDate": "1923",
+          "end": "1923"
+        }
+      ],
+      "extent": [
+        "73 p. ; 20 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-uiuc5363707",
+        "(OCoLC)154110111",
+        "Hathi: 008724331"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Chicago, Ill. : [s.n.]"
+      ],
+      "relation": [
+        "Original. (IU)30112073138080"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        },
+        {
+          "name": "Chicago"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cookery--Illinois--Chicago"
+        },
+        {
+          "name": "Cookery, American"
+        }
+      ],
+      "title": [
+        "Woman's City Club cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1923-01-01",
+      "normalized_dates": [
+        "1923-01-01"
+      ],
+      "date_range": {
+        "begin": "1923-01-01",
+        "end": "1923-01-01"
+      }
+    }
+  },
+  "data": {
+    "isShownAt": "http://catalog.hathitrust.org/Record/008724331"
+  },
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

@@ -1,0 +1,524 @@
+{
+  "source": "internet_archive",
+  "identifier": "easyentertaining00desm",
+  "title": "Easy entertaining",
+  "creator": "Tone Brothers",
+  "year": 1998,
+  "subject": [
+    "Cookery",
+    "Brand name products"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/easyentertaining00desm"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/easyentertaining00desm"
+        }
+      ]
+    },
+    "created": 1758337274,
+    "d1": "ia601303.us.archive.org",
+    "d2": "ia801303.us.archive.org",
+    "dir": "/25/items/easyentertaining00desm",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659909264",
+        "size": "15381",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "f3fde6f8ef99bae086a8f6c7e8087a0d",
+        "crc32": "232e0186",
+        "sha1": "85432d86a57ba71ed86a880c5c78a5d4b068b8fe"
+      },
+      {
+        "name": "easyentertaining00desm.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "easyentertaining00desm_hocr.html",
+        "mtime": "1755794171",
+        "size": "7850598",
+        "private": "true",
+        "md5": "27efd123d982a85221774551b7efc49d",
+        "crc32": "d94283e9",
+        "sha1": "f1c9fc74533ccc22c6b60e9a014edd6dd9d30b9b"
+      },
+      {
+        "name": "easyentertaining00desm.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "easyentertaining00desm_jp2.zip",
+        "md5": "12f428b1dbf63d6223e75b9f4c983b7f",
+        "mtime": "1265667644",
+        "size": "258130",
+        "crc32": "5f647e9f",
+        "sha1": "afa116d7d3609fdf0c9e383496f731d7b9b63b76"
+      },
+      {
+        "name": "easyentertaining00desm.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "easyentertaining00desm.pdf",
+        "mtime": "1755794038",
+        "size": "4294438",
+        "md5": "bb9a2efb37cd3b81bfe68803e324277b",
+        "crc32": "eb5758de",
+        "sha1": "ebfb57eb3c76d93a1ecf3df5a1443147417c3325"
+      },
+      {
+        "name": "easyentertaining00desm.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "easyentertaining00desm_page_numbers.json",
+        "mtime": "1720289848",
+        "size": "3928151",
+        "md5": "9966caecb8933d5885276a8c84f1848b",
+        "crc32": "c2f29aab",
+        "sha1": "b114cb457b88915d7a5ada4ff3bea19c2205f79a",
+        "private": "true"
+      },
+      {
+        "name": "easyentertaining00desm_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "easyentertaining00desm_jp2.zip",
+        "md5": "520336084e4d8b421a08b3df5683ef74",
+        "mtime": "1265669667",
+        "size": "1803044",
+        "crc32": "850643b0",
+        "sha1": "af8f4afaa28717dc0edcdfc5c583936b7addc532",
+        "private": "true"
+      },
+      {
+        "name": "easyentertaining00desm_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "easyentertaining00desm_page_numbers.json",
+        "mtime": "1720289850",
+        "size": "3378159",
+        "md5": "b395186988b51fcecf1e01a57b7990df",
+        "crc32": "a6bcfdaf",
+        "sha1": "eaf3c6684d6c805a53633b72917ea3f5a0098d8f",
+        "private": "true"
+      },
+      {
+        "name": "easyentertaining00desm_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "easyentertaining00desm_abbyy.gz",
+        "mtime": "1659909173",
+        "size": "1490243",
+        "md5": "6275a546d89da96885100c709267f484",
+        "crc32": "f12e99d7",
+        "sha1": "9e55eb3ab64962e345e35bfd2b016ba3a124c3e9",
+        "private": "true"
+      },
+      {
+        "name": "easyentertaining00desm_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "easyentertaining00desm_scandata.xml",
+        "mtime": "1669842466",
+        "size": "780",
+        "md5": "82b129cc2498f0b2550f33e95f9234b2",
+        "crc32": "232b1fb8",
+        "sha1": "17a21d83f38d11001d0e7510441a94412ebf0d74",
+        "private": "true"
+      },
+      {
+        "name": "easyentertaining00desm_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "fea130f35ba1a0fd310f66613bf3027e",
+        "mtime": "1265137084",
+        "size": "583",
+        "crc32": "c76254ad",
+        "sha1": "c26e2782c08d23665b4e529d1fcb8315830e2100"
+      },
+      {
+        "name": "easyentertaining00desm_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "easyentertaining00desm_djvu.xml",
+        "mtime": "1722522883",
+        "size": "135699",
+        "md5": "34c48cbf14f7b40e8abad7a101b26720",
+        "crc32": "bb6a39ca",
+        "sha1": "7282d167b80c8a5a055433345ee7eaf3a5afb920",
+        "private": "true"
+      },
+      {
+        "name": "easyentertaining00desm_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "easyentertaining00desm_hocr.html",
+        "mtime": "1722522880",
+        "size": "1605963",
+        "md5": "321eab3b38235514a8918b61f8982919",
+        "crc32": "e334b816",
+        "sha1": "ecfef1e99fdb9d517065b1d7a8d5c2c626623801",
+        "private": "true"
+      },
+      {
+        "name": "easyentertaining00desm_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "easyentertaining00desm.pdf",
+        "mtime": "1720290290",
+        "size": "3910489",
+        "md5": "18c55cb117ce8d1d0a681c030c08deb4",
+        "crc32": "c2a24f5d",
+        "sha1": "15b9711d4d44f6a651e00c8e2f2709f7fb9bcdf3"
+      },
+      {
+        "name": "easyentertaining00desm_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "4e8e5e82ec29d157ada9de63c1f11da0",
+        "summation": "md5"
+      },
+      {
+        "name": "easyentertaining00desm_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "easyentertaining00desm_chocr.html.gz",
+        "mtime": "1659909207",
+        "size": "3113285",
+        "md5": "b52b82e28e8f870f40d0f23339cd6fd2",
+        "crc32": "e9570d75",
+        "sha1": "56a93296961801b547633d97c71f446d6aa1294d",
+        "private": "true"
+      },
+      {
+        "name": "easyentertaining00desm_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "easyentertaining00desm_hocr.html",
+        "mtime": "1659909231",
+        "size": "1236",
+        "md5": "7f39b6e5324ebfdd6eb0b07d5fa46545",
+        "crc32": "6fbb953b",
+        "sha1": "673f0fb69df9d098bb0b3efb508bbae03fbefb8b",
+        "private": "true"
+      },
+      {
+        "name": "easyentertaining00desm_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1961",
+        "word_conf_11_20": "923",
+        "word_conf_21_30": "1758",
+        "word_conf_31_40": "2077",
+        "word_conf_41_50": "3498",
+        "word_conf_51_60": "3260",
+        "word_conf_61_70": "3296",
+        "word_conf_71_80": "1703",
+        "word_conf_81_90": "604",
+        "word_conf_91_100": "860",
+        "format": "OCR Search Text",
+        "original": "easyentertaining00desm_hocr.html",
+        "mtime": "1659909249",
+        "size": "35068",
+        "md5": "51dc397607cc7e99d6b083a2a1ad5faf",
+        "crc32": "6a8fe853",
+        "sha1": "bb6582b1886f095d7216cdaf00a0c6e1386601b8",
+        "private": "true"
+      },
+      {
+        "name": "easyentertaining00desm_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "easyentertaining00desm_orig_jp2.tar",
+        "md5": "fd1fd1439383a162854cb3293bcc1f8e",
+        "mtime": "1265667609",
+        "size": "23111841",
+        "crc32": "f5acf04a",
+        "sha1": "8e35995ddbb45d43b116d2bf12bac14f6610d839",
+        "private": "true",
+        "filecount": "112"
+      },
+      {
+        "name": "easyentertaining00desm_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "easyentertaining00desm.epub",
+        "mtime": "1755794564",
+        "size": "7932475",
+        "md5": "f2dc85091a231afb95efb9d113883fc7",
+        "crc32": "b1253480",
+        "sha1": "94a9e7091c26f3c5731221736421b285631e3ade"
+      },
+      {
+        "name": "easyentertaining00desm_loans.json",
+        "source": "original",
+        "mtime": "1593339554",
+        "size": "2137",
+        "format": "JSON",
+        "private": "true",
+        "md5": "2ed1a449dd3847d94d103fe961b1e426",
+        "crc32": "5c477ec9",
+        "sha1": "e1b9caa4b612002ab1a2949615685ad8b8a52f6b"
+      },
+      {
+        "name": "easyentertaining00desm_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "7dc5a4cfaf4e33251c5302a11d5897ce",
+        "mtime": "1265137084",
+        "size": "2627",
+        "crc32": "c46fd892",
+        "sha1": "39a8b58515e150e7b06dea7bd1bdd8f914bf4705"
+      },
+      {
+        "name": "easyentertaining00desm_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "easyentertaining00desm_xisbn.json",
+        "mtime": "1454265835",
+        "size": "448",
+        "md5": "2266e52209a8a5dfe39525661a6d937d",
+        "crc32": "7b1634b5",
+        "sha1": "918559babb586107832e77ff3919c40f7716e642",
+        "private": "true"
+      },
+      {
+        "name": "easyentertaining00desm_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "d3466e7a073208a2f763f755bc09c364",
+        "mtime": "1265137084",
+        "size": "758",
+        "crc32": "cd2eb3da",
+        "sha1": "c120c0fd4b2513bc40d629ca0d60c05c1f903f31"
+      },
+      {
+        "name": "easyentertaining00desm_meta.sqlite",
+        "source": "original",
+        "mtime": "1463600016",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "33c2eee6f8eacd610543cef2578a15eb",
+        "crc32": "7380ba22",
+        "sha1": "abb37d21156295d6557e93c8e31ee6697441c49e"
+      },
+      {
+        "name": "easyentertaining00desm_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1755794565",
+        "size": "2969",
+        "md5": "cfab85793d454f330df565a196dced2a",
+        "crc32": "ad88b09b",
+        "sha1": "ca814e8831e6dd7a3da10d3603b0454ac9c2e23b"
+      },
+      {
+        "name": "easyentertaining00desm_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "780a8775d21ab70c6498b629a9841a41",
+        "mtime": "1265137084",
+        "size": "456",
+        "crc32": "9da561e6",
+        "sha1": "a947b8f92076b0414cb896eff89e0d1fe5d001c1"
+      },
+      {
+        "name": "easyentertaining00desm_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "bf9e53bb639dac001870e831e711265e",
+        "mtime": "1265665760",
+        "size": "41512960",
+        "crc32": "6db05cb1",
+        "sha1": "47cc7348b09653d5652184f4410dfba7b83d09ee",
+        "private": "true",
+        "filecount": "112"
+      },
+      {
+        "name": "easyentertaining00desm_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "69",
+        "format": "Page Numbers JSON",
+        "original": "easyentertaining00desm_hocr.html",
+        "mtime": "1720289842",
+        "size": "17748",
+        "md5": "20ac27ad83066d77db9184b7a5a947ce",
+        "crc32": "3fee891c",
+        "sha1": "f78c8b830e5094b15a3236d26eb2df493993d54a",
+        "private": "true"
+      },
+      {
+        "name": "easyentertaining00desm_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "49d4cef88dd3b7d89f26011315b3166c",
+        "mtime": "1669842466",
+        "size": "58449",
+        "crc32": "f36b4d08",
+        "sha1": "b38d7b83aa2a642f00c78b92cfd430060e34e02b"
+      },
+      {
+        "name": "easyentertaining00desm_xisbn.json",
+        "source": "original",
+        "mtime": "1454242576",
+        "size": "513",
+        "md5": "38b16161e6c6a41dc5311fc18c62656b",
+        "crc32": "9a1574b6",
+        "sha1": "f77911fd4c28d9c8098938ea6ab38cedd0d5a3ce",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1755794565,
+    "item_size": 104470772,
+    "metadata": {
+      "title": "Easy entertaining",
+      "creator": "Tone Brothers",
+      "subject": [
+        "Cookery",
+        "Brand name products"
+      ],
+      "description": "Includes index",
+      "publisher": "Des Moines, Iowa : Meredith Integrated Marketing",
+      "date": "1998-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696209500",
+        "9780696209505"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA109919",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sfdowntown",
+      "mediatype": "texts",
+      "updatedate": "2010-02-02 18:58:04",
+      "updater": "Francis Ong",
+      "identifier": "easyentertaining00desm",
+      "uploader": "francis@archive.org",
+      "addeddate": "2010-02-02 18:59:48",
+      "publicdate": "2010-02-02 19:00:21",
+      "ppi": "500",
+      "camera": "Canon 5D",
+      "operator": "scanner-kian-tan@archive.org",
+      "scanner": "scribe19.sfdowntown.archive.org",
+      "scandate": "20100208213830",
+      "imagecount": "108",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/easyentertaining00desm",
+      "identifier-ark": "ark:/13960/t1zc8jx85",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20100312145140[/date][state]approved[/state][comment]199[/comment]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:easyentertaining00desm:pdf:7429ab49-965e-4dbe-9b1e-6cc9c333b681",
+        "urn:acs6:easyentertaining00desm:epub:be43bd90-c062-4936-89ff-e57410e83dd8",
+        "urn:oclc:record:1033574346",
+        "urn:lcp:easyentertaining00desm:lcpdf:c625cbe2-efd5-4d2a-b499-28d100428eca",
+        "urn:lcp:easyentertaining00desm:epub:e8ca6e22-eb2e-401b-a464-49349d11ae74"
+      ],
+      "donor": "alibris",
+      "city": "Des Moines, Iowa",
+      "oclc-id": "40683074",
+      "lccn": "98067488",
+      "related-external-id": [
+        "urn:isbn:075372216X",
+        "urn:oclc:819981283"
+      ],
+      "backup_location": "ia903604_27",
+      "openlibrary_edition": "OL24205851M",
+      "openlibrary_work": "OL15138401W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Thu Dec 24 3:06:46 UTC 2020",
+        "Wed Apr 3 1:31:42 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "69",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "1998-01-01"
+      ]
+    },
+    "server": "ia801303.us.archive.org",
+    "uniq": 437730872,
+    "workable_servers": [
+      "ia801303.us.archive.org",
+      "ia601303.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/40683074?referer=xid"
+          ],
+          "publisher": "Meredith Integrated Marketing",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "98067488"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "year": "1998",
+          "isbn": [
+            "0696209500"
+          ],
+          "title": "Easy entertaining.",
+          "oclcnum": [
+            "40683074"
+          ]
+        },
+        {
+          "publisher": "Bounty",
+          "url": [
+            "http://www.worldcat.org/oclc/819981283?referer=xid"
+          ],
+          "form": [
+            "BC"
+          ],
+          "lang": "eng",
+          "city": "London",
+          "year": "2011",
+          "isbn": [
+            "075372216X"
+          ],
+          "title": "Easy entertaining.",
+          "oclcnum": [
+            "819981283"
+          ]
+        }
+      ]
+    }
+  }
+}

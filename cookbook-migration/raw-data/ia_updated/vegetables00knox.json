@@ -1,0 +1,506 @@
+{
+  "source": "internet_archive",
+  "identifier": "vegetables00knox",
+  "title": "Vegetables",
+  "creator": "Knox, Gerald M",
+  "year": 1987,
+  "subject": "Cooking (Vegetables)",
+  "description": [
+    "At head of title: Better homes and gardens",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/vegetables00knox"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/vegetables00knox"
+        }
+      ]
+    },
+    "created": 1758557139,
+    "d1": "ia904607.us.archive.org",
+    "d2": "ia804607.us.archive.org",
+    "dir": "/21/items/vegetables00knox",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661235681",
+        "size": "14370",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "3462007eaf6285da0d31ee12e5756f2f",
+        "crc32": "f20790a9",
+        "sha1": "69b977c10d17eba39594a3bd0c3c9fb4d1d95bd5"
+      },
+      {
+        "name": "vegetables00knox.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "vegetables00knox_hocr.html",
+        "mtime": "1758498652",
+        "size": "14291868",
+        "private": "true",
+        "md5": "b2bbab9563e50d7275eb98f6b625335e",
+        "crc32": "19f5e92c",
+        "sha1": "20d0e3650b1cca260fc49103205ca3759bc02460"
+      },
+      {
+        "name": "vegetables00knox.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "vegetables00knox_jp2.zip",
+        "mtime": "1348826809",
+        "size": "239409",
+        "md5": "a7e0311794fe1fab2f353eb2e900ab27",
+        "crc32": "29f9db1c",
+        "sha1": "fdef62344728952a7557bca9da6ca0fecb0ed796"
+      },
+      {
+        "name": "vegetables00knox.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "vegetables00knox.pdf",
+        "mtime": "1758498458",
+        "size": "14390534",
+        "md5": "16250ad92bb2599e352184da4044530f",
+        "crc32": "0fcec330",
+        "sha1": "2e015057cdfdf7200dd71d764b973bf06c52f2e9"
+      },
+      {
+        "name": "vegetables00knox.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "vegetables00knox_page_numbers.json",
+        "mtime": "1715579004",
+        "size": "14210003",
+        "md5": "67a94ae6e0cc70e76111fdc81a9916e2",
+        "crc32": "e0791d2c",
+        "sha1": "32a270ceb7b40506d4c9e9758f1ada65f368ab5f",
+        "private": "true"
+      },
+      {
+        "name": "vegetables00knox_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "vegetables00knox_jp2.zip",
+        "mtime": "1348828033",
+        "size": "2692648",
+        "md5": "9c6fd39f934715e080b7d7794c5894b4",
+        "crc32": "e057d4b4",
+        "sha1": "366d718bf7f4e744cb436e6986a9f3ae54cc58de",
+        "private": "true"
+      },
+      {
+        "name": "vegetables00knox_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "vegetables00knox_abbyy.gz",
+        "mtime": "1661235413",
+        "size": "2228959",
+        "md5": "22f851a48414ecd18c7bee6b25102cde",
+        "crc32": "2f501b94",
+        "sha1": "3c358801b5b32921fd57bfdcd5c10b45ff6d3594",
+        "private": "true"
+      },
+      {
+        "name": "vegetables00knox_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "vegetables00knox_scandata.xml",
+        "mtime": "1671616563",
+        "size": "754",
+        "md5": "9d7bf9e9df045cef1d4eb1446e75ddfb",
+        "crc32": "7ae7f387",
+        "sha1": "773fd79a77501fecb0ada92b73915b49ab3cd505",
+        "private": "true"
+      },
+      {
+        "name": "vegetables00knox_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1323280658",
+        "size": "863",
+        "md5": "54ebff2689c70d605be0cf3c586320d1",
+        "crc32": "f58a94ba",
+        "sha1": "9318a3c24d516e67fa9753cdb594795d85db9d89"
+      },
+      {
+        "name": "vegetables00knox_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "vegetables00knox_djvu.xml",
+        "mtime": "1715579016",
+        "size": "199395",
+        "md5": "8fb7a22aa72a677f46cc9ac08f317e10",
+        "crc32": "cc2b4e5b",
+        "sha1": "8fa8587a40b516fc1e6e4f084cc70f8f8ed0bd31",
+        "private": "true"
+      },
+      {
+        "name": "vegetables00knox_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "vegetables00knox_hocr.html",
+        "mtime": "1715578459",
+        "size": "2552649",
+        "md5": "fe11bd4154d746c40d1ec21b2cd0ddb7",
+        "crc32": "bc3f2240",
+        "sha1": "b291a27ae0b436d9e939773dd2348a2593c84060",
+        "private": "true"
+      },
+      {
+        "name": "vegetables00knox_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "vegetables00knox.pdf",
+        "mtime": "1715579020",
+        "size": "14175438",
+        "md5": "e3f305ec6d9fb4fccdbdf30526217665",
+        "crc32": "d2a12219",
+        "sha1": "ebc3f6d5e728adeddce81a7ba447b2785048d1fb"
+      },
+      {
+        "name": "vegetables00knox_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "1e7302f5a59fae72f189eba0cf7e6001",
+        "summation": "md5"
+      },
+      {
+        "name": "vegetables00knox_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "vegetables00knox_chocr.html.gz",
+        "mtime": "1661235506",
+        "size": "5340547",
+        "md5": "fca0d7c996f5c792d30d7a5f9e6f491e",
+        "crc32": "c234388e",
+        "sha1": "830fac01bc5a5d352cf28190e9a8a65928fc5f94",
+        "private": "true"
+      },
+      {
+        "name": "vegetables00knox_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "vegetables00knox_hocr.html",
+        "mtime": "1661235554",
+        "size": "1561",
+        "md5": "9d39b4c36796a2b148e5d547e6f80c24",
+        "crc32": "3c17976b",
+        "sha1": "d7d1e56ca24656ad1a9e172337a5563c9484fa8e",
+        "private": "true"
+      },
+      {
+        "name": "vegetables00knox_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1941",
+        "word_conf_11_20": "1487",
+        "word_conf_21_30": "3685",
+        "word_conf_31_40": "4064",
+        "word_conf_41_50": "5443",
+        "word_conf_51_60": "4697",
+        "word_conf_61_70": "3281",
+        "word_conf_71_80": "1313",
+        "word_conf_81_90": "681",
+        "word_conf_91_100": "2300",
+        "format": "OCR Search Text",
+        "original": "vegetables00knox_hocr.html",
+        "mtime": "1661235652",
+        "size": "54150",
+        "md5": "e4e84ef6ff86d26af2abb9e3948baf6c",
+        "crc32": "60b9e128",
+        "sha1": "bd1ba29709fcd7540e647d6de2edd5edabe6243e",
+        "private": "true"
+      },
+      {
+        "name": "vegetables00knox_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "vegetables00knox_orig_jp2.tar",
+        "mtime": "1348826708",
+        "size": "51768130",
+        "md5": "d4adc515b5a0bb9b8333d36c03feb791",
+        "crc32": "abe4ffe9",
+        "sha1": "2c97fecd94569506e1c9932a5489bd1435968f77",
+        "private": "true",
+        "filecount": "138"
+      },
+      {
+        "name": "vegetables00knox_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "vegetables00knox.epub",
+        "mtime": "1758498781",
+        "size": "14915950",
+        "md5": "da31bd300fe5d6fa4b4e5a44c2b1fa6d",
+        "crc32": "44d3a68d",
+        "sha1": "1aa1b8f68c93492611819b062ed78663a6143549"
+      },
+      {
+        "name": "vegetables00knox_loans.json",
+        "source": "original",
+        "mtime": "1593054081",
+        "size": "3066",
+        "format": "JSON",
+        "private": "true",
+        "md5": "09657d347d2c7870eb5be2211c7782e9",
+        "crc32": "46e5229b",
+        "sha1": "da9b37819c2c39b9b2718eac9868f40d82306b4a"
+      },
+      {
+        "name": "vegetables00knox_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1323280658",
+        "size": "2495",
+        "md5": "e5794350d308ef5e6bf8fe362a890390",
+        "crc32": "53e22c2b",
+        "sha1": "404a3e81180e1339bd109779ff159317f6e85787"
+      },
+      {
+        "name": "vegetables00knox_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "vegetables00knox_xisbn.json",
+        "mtime": "1454803370",
+        "size": "360",
+        "md5": "9e110ebbfe8b9462789fb13dba8e84d4",
+        "crc32": "1364e3b6",
+        "sha1": "c12c117a6ec81c08d03492ec5a36d079bd5085ac",
+        "private": "true"
+      },
+      {
+        "name": "vegetables00knox_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1323280658",
+        "size": "779",
+        "md5": "d67469292287e74ad09d1b50cc946cbd",
+        "crc32": "eacd9bbe",
+        "sha1": "3fdd49e246f20f5939526d530f330dab71576181"
+      },
+      {
+        "name": "vegetables00knox_meta.sqlite",
+        "source": "original",
+        "mtime": "1463222335",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "c278344f6d3290d0508699c789f00762",
+        "crc32": "ede2d688",
+        "sha1": "88b0375af8726fa6d500ac42d862870cb1885dea"
+      },
+      {
+        "name": "vegetables00knox_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1758498781",
+        "size": "3162",
+        "md5": "93f68805e9893bb6be77fcf4f652c391",
+        "crc32": "aea404ee",
+        "sha1": "e5019b6335e8b61fbd3489cda7df7718340b262c"
+      },
+      {
+        "name": "vegetables00knox_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1323280658",
+        "size": "281",
+        "md5": "8aa5241a3cede2e802c3a13a7c5d23d3",
+        "crc32": "815d4e9c",
+        "sha1": "4d3341da28c1c4b4d0ddb48554ddf627ed31d5eb"
+      },
+      {
+        "name": "vegetables00knox_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1347919889",
+        "size": "68014080",
+        "md5": "35be841de892417c8643b312ddf1ec95",
+        "crc32": "89d02fc1",
+        "sha1": "cbc87ce6f89796cdbbbb0245656fa93f5efc7243",
+        "private": "true",
+        "filecount": "138"
+      },
+      {
+        "name": "vegetables00knox_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "82",
+        "format": "Page Numbers JSON",
+        "original": "vegetables00knox_hocr.html",
+        "mtime": "1715578469",
+        "size": "23256",
+        "md5": "30f7efd5ffe6108c97082bd2d68c34a0",
+        "crc32": "fa69616b",
+        "sha1": "3fb4172a01af4c38f212bde7cc23c6933c9fa34d",
+        "private": "true"
+      },
+      {
+        "name": "vegetables00knox_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1671616562",
+        "size": "179477",
+        "md5": "8778e3752562a1d53e0220431f1167eb",
+        "crc32": "56a780dc",
+        "sha1": "911c4c8bf37d0cec915bc8457b4b4dd291acfca1"
+      },
+      {
+        "name": "vegetables00knox_xisbn.json",
+        "source": "original",
+        "mtime": "1454803079",
+        "size": "358",
+        "md5": "9530607f3e8203d13d232ba65c9624dd",
+        "crc32": "bc56f2b6",
+        "sha1": "552385927c9625d641127bb332bd58708290c301",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1758498781,
+    "item_size": 205310686,
+    "metadata": {
+      "title": "Vegetables",
+      "creator": "Knox, Gerald M",
+      "isbn": "0696022001",
+      "openlibrary": "OL2743833M",
+      "subject": "Cooking (Vegetables)",
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "date": "1987-01-01",
+      "language": "eng",
+      "description": [
+        "At head of title: Better homes and gardens",
+        "Includes index"
+      ],
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2011-12-07 17:57:30",
+      "updater": "associate-lotu-tii@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "f0067",
+      "boxid": "IA157213",
+      "identifier": "vegetables00knox",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2011-12-07 17:57:40",
+      "publicdate": "2011-12-07 17:57:45",
+      "scanner": "scribe2.shenzhen.archive.org",
+      "repub_seconds": "673",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-sen@archive.org",
+      "scandate": "20120917130534",
+      "republisher": "scanner-shenzhen-thomas@archive.org",
+      "imagecount": "138",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/vegetables00knox",
+      "identifier-ark": "ark:/13960/t8sb5bb41",
+      "scanfee": "125",
+      "external-identifier": [
+        "urn:acs6:vegetables00knox:pdf:03c8ba6f-a881-42f1-a7d0-7cdde0a9a605",
+        "urn:acs6:vegetables00knox:epub:677b6ff0-db7b-45ce-a564-bb391eb3e8b4",
+        "urn:oclc:record:1036975898",
+        "urn:lcp:vegetables00knox:lcpdf:19c3679f-8fe7-4f21-b2b3-faad52cc62b4",
+        "urn:lcp:vegetables00knox:epub:a617f5e1-7303-4af1-839c-51a9ac4bd9c3"
+      ],
+      "donor": "friendsofthesanfranciscopubliclibrary",
+      "sponsordate": "not to be invoiced-past billing period",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": [
+        "15999221",
+        "17508502"
+      ],
+      "lccn": "86061614",
+      "backup_location": "ia903706_13",
+      "openlibrary_edition": "OL2743833M",
+      "openlibrary_work": "OL16322824W",
+      "republisher_operator": "scanner-shenzhen-thomas@archive.org",
+      "republisher_date": "20120917220025",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "82",
+      "filesxml": "Wed Apr 3 16:04:22 UTC 2024",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia804607.us.archive.org",
+    "uniq": 1823549418,
+    "workable_servers": [
+      "ia804607.us.archive.org",
+      "ia904607.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/15999221?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "86061614"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Maureen Powers].",
+          "ed": "1st ed.",
+          "year": "1987",
+          "isbn": [
+            "0696022001"
+          ],
+          "title": "Better homes and gardens vegetables",
+          "oclcnum": [
+            "15999221",
+            "17508502"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Knox, Gerald M",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

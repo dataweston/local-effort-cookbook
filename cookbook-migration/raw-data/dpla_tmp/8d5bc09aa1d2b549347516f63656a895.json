@@ -1,0 +1,99 @@
+{
+  "source": "dpla",
+  "id": "8d5bc09aa1d2b549347516f63656a895",
+  "identifier": "8d5bc09aa1d2b549347516f63656a895",
+  "title": "Three Rivers cook book",
+  "subject": [
+    "Community cookbooks",
+    "Cooking, American"
+  ],
+  "spatial": [
+    "Michigan",
+    "Three Rivers"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5nk39626",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1896,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/8d5bc09aa1d2b549347516f63656a895#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "creator": [
+        "International Order of the King's Daughters and Sons. Michigan. Three Rivers"
+      ],
+      "date": [
+        {
+          "begin": "1896",
+          "displayDate": "1896",
+          "end": "1896"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Three Rivers"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Community cookbooks"
+        },
+        {
+          "name": "Cooking, American"
+        }
+      ],
+      "title": [
+        "Three Rivers cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1896-01-01",
+      "normalized_dates": [
+        "1896-01-01"
+      ],
+      "date_range": {
+        "begin": "1896-01-01",
+        "end": "1896-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5nk39626/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5nk39626"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

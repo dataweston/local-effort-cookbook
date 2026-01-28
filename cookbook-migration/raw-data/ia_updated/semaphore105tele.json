@@ -1,0 +1,685 @@
+{
+  "source": "internet_archive",
+  "identifier": "semaphore105tele",
+  "title": "Telegraph Hill Semaphore",
+  "creator": "Telegraph Hill Dwellers",
+  "year": 1988,
+  "subject": [
+    "David Wise",
+    "parking garage",
+    "412 Broadway",
+    "open space",
+    "Crissy Field",
+    "Churchill Alley",
+    "CYA Architects",
+    "Safeway",
+    "Lorenzo Petroni",
+    "Romolo",
+    "368 Lombard",
+    "San Francisco Bay Club",
+    "trees",
+    "Caffe Roma",
+    "water",
+    "Muni",
+    "map",
+    "1981",
+    "height limitations",
+    "Maggie Baylis",
+    "Pasticci",
+    "561 Broadway",
+    "Ill Pollaio",
+    "Jose Castellucci",
+    "Il Fiore Flowers",
+    "Theresa Flores",
+    "Gira Polli",
+    "659 Union",
+    "Jumbucks",
+    "Amelio's Restaurant",
+    "1630 Powell",
+    "Jacky Robert",
+    "Chris Shearman",
+    "Venice Pharmacy",
+    "Sal Reina",
+    "Ristorante Firenze",
+    "1429 Stockton",
+    "Il Padrino",
+    "633 Green Street",
+    "Northern Nights",
+    "256 Columbus",
+    "North Beach Fair",
+    "Cafe Greco",
+    "Columbus Produce",
+    "900 Columbus",
+    "Liquor Connection",
+    "801 Columbus",
+    "Northpoint Shopping Center",
+    "crime",
+    "fox",
+    "police",
+    "Mission Bay",
+    "Marsha Garland",
+    "High Living cookbook"
+  ],
+  "description": "A publication of the Telegraph Hill Dwellers for its members.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721301.ca.archive.org",
+          "dir": "/0/items/semaphore105tele"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721301.ca.archive.org",
+          "dir": "/0/items/semaphore105tele"
+        }
+      ]
+    },
+    "created": 1758555996,
+    "d1": "ia600707.us.archive.org",
+    "d2": "ia800707.us.archive.org",
+    "dir": "/14/items/semaphore105tele",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1693277256",
+        "size": "16815",
+        "md5": "a2f0ea9b6fefdbbf9aa4e5b05c89c239",
+        "crc32": "8560e3c1",
+        "sha1": "d593f3b4263b415e4f264059c7392b4487b9d7a3",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/semaphore105tele_iabdash_2019-03-1313:13:34.log",
+        "source": "original",
+        "mtime": "1552507830",
+        "size": "684",
+        "md5": "0a68632b5d9a432e0dae2e7421350745",
+        "crc32": "be2bab2f",
+        "sha1": "43f56cae71619ccbada524856924a81ed55bdca8",
+        "format": "Log"
+      },
+      {
+        "name": "logs/semaphore105tele_scanning_2019-03-1313:13:38.log",
+        "source": "original",
+        "mtime": "1552507834",
+        "size": "108963",
+        "md5": "01bcf508e2767b6e510556e9d6da4157",
+        "crc32": "7b71bac2",
+        "sha1": "175ea1c2b597a6cad63b3586e5b0cd89db9481f2",
+        "format": "Log"
+      },
+      {
+        "name": "semaphore105tele.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "semaphore105tele_page_numbers.json",
+        "mtime": "1702682816",
+        "size": "2794134",
+        "md5": "3ca324e1c96a20eeb9be0528f1bc10b5",
+        "crc32": "d108f3b4",
+        "sha1": "a7af863df0961edf0ede77949211f371efc00967"
+      },
+      {
+        "name": "semaphore105tele_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "semaphore105tele_jp2.zip",
+        "mtime": "1552610686",
+        "size": "916649",
+        "md5": "59c2262159edbc9555ac4206efbaa2aa",
+        "crc32": "c4e36f00",
+        "sha1": "6bd7c1f9050703f0c5287126f8191f00a296d275"
+      },
+      {
+        "name": "semaphore105tele_archive.torrent",
+        "source": "metadata",
+        "btih": "70dee9278bb0a367b8ea87695f83dca96157ccbb",
+        "mtime": "1723094509",
+        "size": "6494",
+        "md5": "10b8fba572da394f80ceea233178735e",
+        "crc32": "6e439a80",
+        "sha1": "11d653ff29977d2c24a3e7f8956752c931a7d5f9",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "semaphore105tele_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.21",
+        "ocr_converted": "abbyy-to-hocr 1.1.37",
+        "format": "chOCR",
+        "original": "semaphore105tele_abbyy.gz",
+        "mtime": "1702682687",
+        "size": "743557",
+        "md5": "920c574fab4799af506bfe36864ee900",
+        "crc32": "0c52aa9f",
+        "sha1": "75bafce0575643db90f1b2bb3003fd1dc61cdf42"
+      },
+      {
+        "name": "semaphore105tele_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "2.1",
+        "format": "Cloth Cover Detection Log",
+        "original": "semaphore105tele_scandata.xml",
+        "mtime": "1702682949",
+        "size": "1452",
+        "md5": "cf3e3c3f3cf3d51fd2d7872c08b4d171",
+        "crc32": "2501d242",
+        "sha1": "8f792bdb4033f295f0f427254020261cca77462a"
+      },
+      {
+        "name": "semaphore105tele_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "semaphore105tele_djvu.xml",
+        "mtime": "1702682766",
+        "size": "64970",
+        "md5": "a9667a8253bda7a2d403d42a30497c83",
+        "crc32": "8d4e218b",
+        "sha1": "74568cf2c1be8b36508043f2d2563bc808c121eb"
+      },
+      {
+        "name": "semaphore105tele_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "semaphore105tele_hocr.html",
+        "mtime": "1702682716",
+        "size": "771650",
+        "md5": "4214190ea82536e29dee3e89093538f8",
+        "crc32": "6c33f069",
+        "sha1": "f38023e26396581cb5260c5f2fafac3b31296739"
+      },
+      {
+        "name": "semaphore105tele_events.json",
+        "source": "original",
+        "mtime": "1552609870",
+        "size": "58",
+        "md5": "94850a4e0e6c9306d79c5ca3d4426722",
+        "crc32": "efc3fd28",
+        "sha1": "065400e9e817a7c22d54b30175c71a4e226ad3ca",
+        "format": "JSON"
+      },
+      {
+        "name": "semaphore105tele_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "e4bba13e84b5755b2816927bfc8cd8de",
+        "summation": "md5"
+      },
+      {
+        "name": "semaphore105tele_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.2.0",
+        "hocr_char_to_word_hocr_version": "1.1.45",
+        "ocr_module_version": "0.0.21",
+        "ocr_converted": "abbyy-to-hocr 1.1.37",
+        "format": "hOCR",
+        "original": "semaphore105tele_chocr.html.gz",
+        "mtime": "1702682708",
+        "size": "1673829",
+        "md5": "397ed47c2891388cacce46b60023dcce",
+        "crc32": "cdeef0e9",
+        "sha1": "e03300b0cb39af0b9d845e3ee08de53a12ef794f"
+      },
+      {
+        "name": "semaphore105tele_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "semaphore105tele_hocr.html",
+        "mtime": "1702682721",
+        "size": "358",
+        "md5": "35ac19c18a1bc2bb095cd8d8ba987ee9",
+        "crc32": "a7c737bf",
+        "sha1": "dd72bb268f70de9be963f45a797b2697f9398e87"
+      },
+      {
+        "name": "semaphore105tele_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "108",
+        "word_conf_11_20": "47",
+        "word_conf_21_30": "60",
+        "word_conf_31_40": "97",
+        "word_conf_41_50": "173",
+        "word_conf_51_60": "252",
+        "word_conf_61_70": "584",
+        "word_conf_71_80": "1269",
+        "word_conf_81_90": "2553",
+        "word_conf_91_100": "3997",
+        "format": "OCR Search Text",
+        "original": "semaphore105tele_hocr.html",
+        "mtime": "1702682743",
+        "size": "25957",
+        "md5": "e5a07269bd4bad70365ffa664ae96c18",
+        "crc32": "bdb8b130",
+        "sha1": "67b8d835f2c5034513674e1e107a69d2f6c76695"
+      },
+      {
+        "name": "semaphore105tele_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "semaphore105tele_orig_jp2.tar",
+        "mtime": "1552610301",
+        "size": "35958875",
+        "md5": "a4c382c487d731f34a70fb7b06b033ce",
+        "crc32": "e5835917",
+        "sha1": "1d5880bdf2a6591ed28f03797cf0c118c5588b93",
+        "filecount": "30"
+      },
+      {
+        "name": "semaphore105tele_meta.sqlite",
+        "source": "original",
+        "mtime": "1552609884",
+        "size": "13312",
+        "format": "Metadata",
+        "md5": "c7307552d55099717a2029616ddb8311",
+        "crc32": "df1aa0c5",
+        "sha1": "d5a4a2c4e4899bf72bd611fde173c3f21820fa22"
+      },
+      {
+        "name": "semaphore105tele_meta.xml",
+        "source": "original",
+        "mtime": "1723094502",
+        "size": "4019",
+        "format": "Metadata",
+        "md5": "ec979f36ce38e24fe5524f97d2112eb2",
+        "crc32": "c216603a",
+        "sha1": "a758c6d4ea83837e176ce49d9f8f173b610ee011"
+      },
+      {
+        "name": "semaphore105tele_metasource.xml",
+        "source": "original",
+        "mtime": "1552488616",
+        "size": "229",
+        "md5": "36512a6c1efccd23fad7f5820b645341",
+        "crc32": "212dd2fd",
+        "sha1": "3649e4b7ce37ac255e9c16aba87a714be8db4b4e",
+        "format": "MARC Source"
+      },
+      {
+        "name": "semaphore105tele_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1552609884",
+        "size": "58490880",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "e1a7052fd6507301f5227300d5abfee4",
+        "crc32": "4e201a9e",
+        "sha1": "cfa2ecc721c3862546bd57a501127c9630d8f561",
+        "filecount": "30"
+      },
+      {
+        "name": "semaphore105tele_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.3",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "96",
+        "format": "Page Numbers JSON",
+        "original": "semaphore105tele_hocr.html",
+        "mtime": "1702682756",
+        "size": "4801",
+        "md5": "f0769c042a4ded17f5c0c737c44507f2",
+        "crc32": "c4fb3902",
+        "sha1": "151a327a1c09a7431bd214fc8db426b0be49d9ca"
+      },
+      {
+        "name": "semaphore105tele_scandata.xml",
+        "source": "original",
+        "mtime": "1702682949",
+        "size": "30733",
+        "format": "Scandata",
+        "md5": "df996803921be94b6ecccd859de57d53",
+        "crc32": "14b1a6e7",
+        "sha1": "010c58ca73a52ea24cf13cb49591ead949ae8a88"
+      },
+      {
+        "name": "semaphore105tele_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "semaphore105tele_djvu.xml",
+        "mtime": "1702682866",
+        "size": "578",
+        "md5": "7b1816a9ae568b2fe8889050086fc802",
+        "crc32": "f920c5aa",
+        "sha1": "2c2a9c4707ca6f5414e70c2f5e1a643b0b6d4d5a"
+      }
+    ],
+    "files_count": 23,
+    "item_last_updated": 1723094509,
+    "item_size": 101628997,
+    "metadata": {
+      "language": "eng",
+      "scanningcenter": "sanfrancisco",
+      "sponsor": "Internet Archive",
+      "contributor": "A collaborative of San Francisco neighborhood history groups",
+      "date": "1988-01-01",
+      "subject": [
+        "David Wise",
+        "parking garage",
+        "412 Broadway",
+        "open space",
+        "Crissy Field",
+        "Churchill Alley",
+        "CYA Architects",
+        "Safeway",
+        "Lorenzo Petroni",
+        "Romolo",
+        "368 Lombard",
+        "San Francisco Bay Club",
+        "trees",
+        "Caffe Roma",
+        "water",
+        "Muni",
+        "map",
+        "1981",
+        "height limitations",
+        "Maggie Baylis",
+        "Pasticci",
+        "561 Broadway",
+        "Ill Pollaio",
+        "Jose Castellucci",
+        "Il Fiore Flowers",
+        "Theresa Flores",
+        "Gira Polli",
+        "659 Union",
+        "Jumbucks",
+        "Amelio's Restaurant",
+        "1630 Powell",
+        "Jacky Robert",
+        "Chris Shearman",
+        "Venice Pharmacy",
+        "Sal Reina",
+        "Ristorante Firenze",
+        "1429 Stockton",
+        "Il Padrino",
+        "633 Green Street",
+        "Northern Nights",
+        "256 Columbus",
+        "North Beach Fair",
+        "Cafe Greco",
+        "Columbus Produce",
+        "900 Columbus",
+        "Liquor Connection",
+        "801 Columbus",
+        "Northpoint Shopping Center",
+        "crime",
+        "fox",
+        "police",
+        "Mission Bay",
+        "Marsha Garland",
+        "High Living cookbook"
+      ],
+      "title": "Telegraph Hill Semaphore",
+      "creator": "Telegraph Hill Dwellers",
+      "collection": [
+        "telegraphhillpapers",
+        "americana",
+        "sanfrancisconewspapers"
+      ],
+      "shiptracking": "com99004",
+      "publisher": "Telegraph Hill Dwellers",
+      "pub_date": "October 1988",
+      "description": "A publication of the Telegraph Hill Dwellers for its members.",
+      "volume": "No. 105",
+      "year": "1988",
+      "source": "scribe",
+      "repub_state": "19",
+      "page-progression": "lr",
+      "publicdate": "2019-03-13 13:50:03",
+      "mediatype": "texts",
+      "updatedate": "2019-03-13 14:50:16",
+      "updater": "associate-eliza-zhang@archive.org",
+      "identifier": "semaphore105tele",
+      "uploader": "associate-eliza-zhang@archive.org",
+      "addeddate": "2019-03-13 14:50:18",
+      "operator": "volunteer-lisaruth-elliott@archive.org",
+      "tts_version": "2.1-initial-192-g48f6e58",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "scanner": "station1.sanfrancisco.archive.org",
+      "imagecount": "30",
+      "scandate": "20190313212608",
+      "ppi": "300",
+      "republisher_operator": "volunteer-lisaruth-elliott@archive.org",
+      "republisher_date": "20190314173106",
+      "republisher_time": "351",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/semaphore105tele",
+      "identifier-ark": "ark:/13960/t9481xr2n",
+      "scanfee": "300;10;200",
+      "invoice": "11",
+      "backup_location": "ia906808_35",
+      "ocr_module_version": "0.0.21",
+      "ocr_converted": "abbyy-to-hocr 1.1.37",
+      "page_number_confidence": "96",
+      "page_number_module_version": "1.0.3"
+    },
+    "page_numbers": {
+      "identifier": "semaphore105tele",
+      "format-version": "2",
+      "archive-hocr-tools-version": "1.1.54",
+      "confidence": 96,
+      "pages": [
+        {
+          "leafNum": 1,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 2,
+          "confidence": 90,
+          "pageNumber": "2",
+          "pageProb": 80,
+          "wordConf": 100
+        },
+        {
+          "leafNum": 3,
+          "confidence": 98,
+          "pageNumber": "3",
+          "pageProb": 88,
+          "wordConf": 30
+        },
+        {
+          "leafNum": 4,
+          "confidence": 94,
+          "pageNumber": "4",
+          "pageProb": 84,
+          "wordConf": 100
+        },
+        {
+          "leafNum": 5,
+          "confidence": 98,
+          "pageNumber": "5",
+          "pageProb": 88,
+          "wordConf": 64
+        },
+        {
+          "leafNum": 6,
+          "confidence": 92,
+          "pageNumber": "6",
+          "pageProb": 82,
+          "wordConf": 100
+        },
+        {
+          "leafNum": 7,
+          "confidence": null,
+          "pageNumber": "7",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 8,
+          "confidence": 100,
+          "pageNumber": "8",
+          "pageProb": 90,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 9,
+          "confidence": 93,
+          "pageNumber": "9",
+          "pageProb": 83,
+          "wordConf": 100
+        },
+        {
+          "leafNum": 10,
+          "confidence": null,
+          "pageNumber": "10",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 11,
+          "confidence": 97,
+          "pageNumber": "11",
+          "pageProb": 87,
+          "wordConf": 100
+        },
+        {
+          "leafNum": 12,
+          "confidence": 98,
+          "pageNumber": "12",
+          "pageProb": 88,
+          "wordConf": 100
+        },
+        {
+          "leafNum": 13,
+          "confidence": 98,
+          "pageNumber": "13",
+          "pageProb": 88,
+          "wordConf": 100
+        },
+        {
+          "leafNum": 14,
+          "confidence": 93,
+          "pageNumber": "14",
+          "pageProb": 83,
+          "wordConf": 100
+        },
+        {
+          "leafNum": 15,
+          "confidence": 96,
+          "pageNumber": "15",
+          "pageProb": 86,
+          "wordConf": 100
+        },
+        {
+          "leafNum": 16,
+          "confidence": 98,
+          "pageNumber": "16",
+          "pageProb": 88,
+          "wordConf": 100
+        },
+        {
+          "leafNum": 17,
+          "confidence": 97,
+          "pageNumber": "17",
+          "pageProb": 87,
+          "wordConf": 71
+        },
+        {
+          "leafNum": 18,
+          "confidence": 95,
+          "pageNumber": "18",
+          "pageProb": 85,
+          "wordConf": 98
+        },
+        {
+          "leafNum": 19,
+          "confidence": 98,
+          "pageNumber": "19",
+          "pageProb": 88,
+          "wordConf": 100
+        },
+        {
+          "leafNum": 20,
+          "confidence": 97,
+          "pageNumber": "20",
+          "pageProb": 87,
+          "wordConf": 51
+        },
+        {
+          "leafNum": 21,
+          "confidence": 98,
+          "pageNumber": "21",
+          "pageProb": 88,
+          "wordConf": 100
+        },
+        {
+          "leafNum": 22,
+          "confidence": null,
+          "pageNumber": "22",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 23,
+          "confidence": 98,
+          "pageNumber": "23",
+          "pageProb": 88,
+          "wordConf": 89
+        },
+        {
+          "leafNum": 24,
+          "confidence": 93,
+          "pageNumber": "24",
+          "pageProb": 83,
+          "wordConf": 100
+        },
+        {
+          "leafNum": 25,
+          "confidence": 98,
+          "pageNumber": "25",
+          "pageProb": 88,
+          "wordConf": 76
+        },
+        {
+          "leafNum": 26,
+          "confidence": 97,
+          "pageNumber": "26",
+          "pageProb": 87,
+          "wordConf": 99
+        },
+        {
+          "leafNum": 27,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 28,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        }
+      ]
+    },
+    "server": "ia600707.us.archive.org",
+    "uniq": 439163608,
+    "workable_servers": [
+      "ia600707.us.archive.org",
+      "ia800707.us.archive.org"
+    ]
+  },
+  "institution": "Telegraph Hill Dwellers",
+  "pdf_url": "https://archive.org/download/semaphore105tele/semaphore105tele.pdf",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church"
+    ]
+  },
+  "curation_notes": "Community markers: Church; Digitized scan available"
+}

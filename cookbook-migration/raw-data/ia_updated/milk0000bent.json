@@ -1,0 +1,486 @@
+{
+  "source": "internet_archive",
+  "identifier": "milk0000bent",
+  "title": "Milk",
+  "creator": "Bentley, Joyce",
+  "year": 2006,
+  "subject": [
+    "Milk -- Juvenile literature",
+    "Cooking (Milk) -- Juvenile literature",
+    "Cookery (Milk)",
+    "Milk",
+    "Cooking (Milk)"
+  ],
+  "description": [
+    "32 pages : 28 cm",
+    "Simple text and photographs explain basic scientific processes, the way we use milk around the world, and why it is good for you",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/milk0000bent"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/milk0000bent"
+        }
+      ]
+    },
+    "created": 1758556393,
+    "d1": "ia903104.us.archive.org",
+    "d2": "ia803104.us.archive.org",
+    "dir": "/25/items/milk0000bent",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660674656",
+        "size": "17213",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "e3ec9b7cb2e76cb2bfff3da2b56fc262",
+        "crc32": "a8a76205",
+        "sha1": "5ab8da1e5ff2bae14e6f448d7bec729ec75d03ec"
+      },
+      {
+        "name": "logs/milk0000bent_iabdash_2018-06-04134527.log",
+        "source": "original",
+        "mtime": "1528091143",
+        "size": "341",
+        "md5": "48cfe2f1c2ce104a821ce00a7f5e9542",
+        "crc32": "a86ae489",
+        "sha1": "e0c52c67db993111584757cd2a6275ea62dfc04e",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/milk0000bent_scanning_2018-06-04134523.log",
+        "source": "original",
+        "mtime": "1528091138",
+        "size": "88085",
+        "md5": "3ef35c40338109b65db47364f9bfaaba",
+        "crc32": "cf23c4ab",
+        "sha1": "31f018ad890abd95ce6fb9340aa5f806cac6696e",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "milk0000bent.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "milk0000bent_hocr.html",
+        "mtime": "1757073226",
+        "size": "24675292",
+        "private": "true",
+        "md5": "31864591664c0e88b10504021e441efa",
+        "crc32": "9348da0a",
+        "sha1": "b5f493075e452736f566de4ef4d6f712ad8bb96d"
+      },
+      {
+        "name": "milk0000bent.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "milk0000bent.pdf",
+        "mtime": "1757072870",
+        "size": "5195707",
+        "md5": "488d260ee2d3cb480dc935dea2d95cad",
+        "crc32": "6ff19ffb",
+        "sha1": "47c8330c7462608a296fc9d02e2d5c7968b0e0cc"
+      },
+      {
+        "name": "milk0000bent.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "milk0000bent_page_numbers.json",
+        "mtime": "1716041513",
+        "size": "4513244",
+        "md5": "3c8bfe36058bf05f28cb7afe081586fa",
+        "crc32": "cdc9683d",
+        "sha1": "e64c9fe1b8d2f0b043a601c5fd331dc6f29b2bb1",
+        "private": "true"
+      },
+      {
+        "name": "milk0000bent_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "milk0000bent_jp2.zip",
+        "mtime": "1528179850",
+        "size": "209774",
+        "md5": "82149bc4a085b9beb7e5ee2a45183a41",
+        "crc32": "0b942708",
+        "sha1": "ecfbd02da6341152528d7f7cd30dc69393975903",
+        "private": "true"
+      },
+      {
+        "name": "milk0000bent_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "milk0000bent_abbyy.gz",
+        "mtime": "1660674013",
+        "size": "156396",
+        "md5": "a36625a9961008ed8f37d39493810ec1",
+        "crc32": "8ceead0b",
+        "sha1": "4effc4bdde68832716be7c87a4e3ac8d5fb3c809",
+        "private": "true"
+      },
+      {
+        "name": "milk0000bent_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "milk0000bent_scandata.xml",
+        "mtime": "1670676007",
+        "size": "739",
+        "md5": "887bb5b27a97881fddf2569a6018fb08",
+        "crc32": "37f1f4f2",
+        "sha1": "a943e164e481ea7977097c56230b76a1d59abd44",
+        "private": "true"
+      },
+      {
+        "name": "milk0000bent_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1528178504",
+        "size": "1592",
+        "md5": "244f62765397dc715dd08394bc266e19",
+        "crc32": "6f65b7d7",
+        "sha1": "22d301151e0792fde1bd110f3d79256f707e55bd"
+      },
+      {
+        "name": "milk0000bent_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "milk0000bent_djvu.xml",
+        "mtime": "1721027933",
+        "size": "13067",
+        "md5": "24ee68cae06eac5c5d0e83e93e89bd79",
+        "crc32": "9b08c21d",
+        "sha1": "8ed6607cea0432fb410e23684e6591154bf949da",
+        "private": "true"
+      },
+      {
+        "name": "milk0000bent_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "milk0000bent_hocr.html",
+        "mtime": "1721027931",
+        "size": "182933",
+        "md5": "1a40c4c4d43670523cb222dd94c8a681",
+        "crc32": "844341be",
+        "sha1": "38ac6d5a23987ccd5447c2b693e10b67f3391d3e",
+        "private": "true"
+      },
+      {
+        "name": "milk0000bent_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "milk0000bent_abbyy.gz",
+        "mtime": "1528180098",
+        "size": "2610618",
+        "md5": "4e1e9fb0b29db55ea7a909a59bf9931e",
+        "crc32": "16efaee1",
+        "sha1": "ea6b0e4180ad79e578eda6feb40a6eb0c9f63c67"
+      },
+      {
+        "name": "milk0000bent_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "milk0000bent.pdf",
+        "mtime": "1716041888",
+        "size": "4497569",
+        "md5": "b9f7ac3c46c3d9949dffeb37963323d2",
+        "crc32": "f0f66afb",
+        "sha1": "5c804e950953f7dddeef9b0baaaaaa1a4e3e49f0"
+      },
+      {
+        "name": "milk0000bent_events.json",
+        "source": "original",
+        "mtime": "1528178201",
+        "size": "51",
+        "md5": "43cf0231051a51498f7017986a53bce9",
+        "crc32": "f242efff",
+        "sha1": "960e38e88d2e615045af060529851880352912ff",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "milk0000bent_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "18235d7655786c7878a12970b61d6457",
+        "summation": "md5"
+      },
+      {
+        "name": "milk0000bent_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "milk0000bent_chocr.html.gz",
+        "mtime": "1660674343",
+        "size": "406103",
+        "md5": "6330ffff5dd55191f8173a603669c63a",
+        "crc32": "bff9956c",
+        "sha1": "ca30335fedba7242ca6a27b050855b469108a9bc",
+        "private": "true"
+      },
+      {
+        "name": "milk0000bent_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "milk0000bent_hocr.html",
+        "mtime": "1660674409",
+        "size": "433",
+        "md5": "0d69b15b1502c27e29c9dd49de09e694",
+        "crc32": "ab9dec02",
+        "sha1": "3167cc924bed65899f32c6dbe202f65d665c9108",
+        "private": "true"
+      },
+      {
+        "name": "milk0000bent_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "32",
+        "word_conf_11_20": "18",
+        "word_conf_21_30": "14",
+        "word_conf_31_40": "37",
+        "word_conf_41_50": "45",
+        "word_conf_51_60": "108",
+        "word_conf_61_70": "145",
+        "word_conf_71_80": "190",
+        "word_conf_81_90": "290",
+        "word_conf_91_100": "1057",
+        "format": "OCR Search Text",
+        "original": "milk0000bent_hocr.html",
+        "mtime": "1660674475",
+        "size": "5261",
+        "md5": "e53f9393f0514a4d4990b1904a98f5e4",
+        "crc32": "a933cb10",
+        "sha1": "a90c2418c795bdeae49ad960b027ce53ac7f0990",
+        "private": "true"
+      },
+      {
+        "name": "milk0000bent_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "milk0000bent_orig_jp2.tar",
+        "mtime": "1528179547",
+        "size": "42081471",
+        "md5": "585b919f25699c7963ecee1902fb089a",
+        "crc32": "b7b92175",
+        "sha1": "b43a2767dc0bf9dd0783dde5b40c7e3d97ba99a7",
+        "private": "true",
+        "filecount": "42"
+      },
+      {
+        "name": "milk0000bent_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "milk0000bent.epub",
+        "mtime": "1757073514",
+        "size": "24914761",
+        "md5": "6322abdc3e3dfa991f6ac79a1026836a",
+        "crc32": "8b571305",
+        "sha1": "b23a00358fd67af0c71dc95d75b6ebacfcb3d390"
+      },
+      {
+        "name": "milk0000bent_loans.json",
+        "source": "original",
+        "mtime": "1594104553",
+        "size": "1292",
+        "format": "JSON",
+        "private": "true",
+        "md5": "07295c58ca703dd9832a3707f344a72f",
+        "crc32": "6ae4dcb5",
+        "sha1": "96575ec2013fcdc3be0acf1b7ce182705d34ed89"
+      },
+      {
+        "name": "milk0000bent_marc.xml",
+        "source": "original",
+        "mtime": "1528178504",
+        "size": "6284",
+        "format": "MARC",
+        "md5": "6a8a1097f215fec20f002eb9bbd5faa0",
+        "crc32": "f627f0a8",
+        "sha1": "0981bb6caa7a0f9a07eddd681d60602f7b7e9bbd"
+      },
+      {
+        "name": "milk0000bent_meta.mrc",
+        "source": "original",
+        "mtime": "1528091152",
+        "size": "1753",
+        "md5": "da98481d3c6c69126a18504d0d0e890e",
+        "crc32": "242c6275",
+        "sha1": "0e219568378f736e52dd85c59c801b1b1d30e112",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "milk0000bent_meta.sqlite",
+        "source": "original",
+        "mtime": "1528178462",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "eb905885f0011d49540adad7baf5dde8",
+        "crc32": "917776ea",
+        "sha1": "e8438457c7e1385b1616c8001d29dec0fe31299a"
+      },
+      {
+        "name": "milk0000bent_meta.xml",
+        "source": "original",
+        "mtime": "1757073514",
+        "size": "3350",
+        "format": "Metadata",
+        "md5": "9b44fb1122c41765a6c1fbcd6278f56d",
+        "crc32": "5b0e876b",
+        "sha1": "79c0eb43470ba317723fca25978408de62a4dc4d"
+      },
+      {
+        "name": "milk0000bent_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1528178461",
+        "size": "94351360",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "46068f18be0dfc918ae092e1558303b2",
+        "crc32": "2d44f8d5",
+        "sha1": "5a95da6d44bb837d47a8b92bd85644fd34edfade",
+        "filecount": "42"
+      },
+      {
+        "name": "milk0000bent_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "91",
+        "format": "Page Numbers JSON",
+        "original": "milk0000bent_hocr.html",
+        "mtime": "1716041513",
+        "size": "6812",
+        "md5": "0b89dcda086370eb7a02e49d187780c9",
+        "crc32": "ee2631a2",
+        "sha1": "cea492ef303d56bc070bde9c2f2e551f1eeee166",
+        "private": "true"
+      },
+      {
+        "name": "milk0000bent_scandata.xml",
+        "source": "original",
+        "mtime": "1670676007",
+        "size": "43091",
+        "format": "Scandata",
+        "md5": "4cc2ce31119f18bf11e3c4087d9bde08",
+        "crc32": "a3d13953",
+        "sha1": "8fd636929b1111088ef6ab8e42c4a250c4b57ebb"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1757073514,
+    "item_size": 204000976,
+    "metadata": {
+      "identifier": "milk0000bent",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Bentley, Joyce",
+      "date": "2006-01-01",
+      "isbn": [
+        "1593892160",
+        "9781593892166"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-peter-lau@archive.org",
+      "ppi": "300",
+      "publisher": "North Mankato, MN : Chrysalis Education",
+      "repub_state": "22",
+      "scanner": "ttscribe3.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "Milk ",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "uploader": "ttscribe3.hongkong@archive.org",
+      "addeddate": "2018-06-04 05:45:23",
+      "publicdate": "2018-06-04 05:45:59",
+      "imagecount": "42",
+      "scandate": "20180604060906",
+      "subject": [
+        "Milk -- Juvenile literature",
+        "Cooking (Milk) -- Juvenile literature",
+        "Cookery (Milk)",
+        "Milk",
+        "Cooking (Milk)",
+        "Milk"
+      ],
+      "lccn": "2004108793",
+      "description": [
+        "32 pages : 28 cm",
+        "Simple text and photographs explain basic scientific processes, the way we use milk around the world, and why it is good for you",
+        "Includes index",
+        "Simple text and photographs explain basic scientific processes, the way we use milk around the world, and why it is good for you"
+      ],
+      "republisher_operator": "republisher14.dhaka@archive.org",
+      "republisher_date": "20180605115639",
+      "republisher_time": "156",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/milk0000bent",
+      "identifier-ark": "ark:/13960/t3nw69f7p",
+      "bookplateleaf": "0004",
+      "external-identifier": [
+        "urn:acs6:milk0000bent:epub:4891bee3-6496-4539-b110-170c66932462",
+        "urn:acs6:milk0000bent:pdf:c43e3d19-168a-4f96-bd1c-30129bc2005c",
+        "urn:oclc:record:1150800023",
+        "urn:lcp:milk0000bent:lcpdf:54e25f48-0c99-498f-a12e-ad7efe728516",
+        "urn:lcp:milk0000bent:epub:064337d0-5ebf-4f52-8c9b-72999e43e60f"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "curation": "[curator]associate-francis-boyer@archive.org[/curator][date]20180606203237[/date]",
+      "boxid": "IA1247915",
+      "sponsordate": "20180630",
+      "openlibrary_edition": "OL12432533M",
+      "openlibrary_work": "OL5360688W",
+      "backup_location": "ia906706_10",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "91",
+      "filesxml": "Wed Apr 3 9:16:30 UTC 2024",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia803104.us.archive.org",
+    "uniq": 2076815388,
+    "workable_servers": [
+      "ia803104.us.archive.org",
+      "ia903104.us.archive.org"
+    ]
+  },
+  "institution": "Bentley, Joyce",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Mankato"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

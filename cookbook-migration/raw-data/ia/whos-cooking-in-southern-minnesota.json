@@ -1,0 +1,298 @@
+{
+  "source": "internet_archive",
+  "identifier": "whos-cooking-in-southern-minnesota",
+  "title": "Who's Cooking In Southern Minnesota?",
+  "creator": "Friends and Staff of Wm. Budd Elementary School",
+  "year": 1993,
+  "subject": [
+    "cookbooks",
+    "recipes",
+    "schools",
+    "libraries",
+    "fundraisers"
+  ],
+  "description": "This is a scan of a 1993 cookbook filled with donated recipes. The cookbook was sold to raise funds to buy library books for the William Budd Elementary School library in Fairmont, Minnesota. William Budd School was built in 1950 and named after one of Fairmont's earliest and most prominent citizens. It originally housed 232 students in seven classrooms, kindergarten through sixth grade. In 1960 an addition was built. As of 1992 the school housed 476 students in kindergarten through second grade. The school closed in 2012.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720005.ca.archive.org",
+          "dir": "/0/items/whos-cooking-in-southern-minnesota"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720005.ca.archive.org",
+          "dir": "/0/items/whos-cooking-in-southern-minnesota"
+        }
+      ]
+    },
+    "created": 1758337451,
+    "d1": "ia904609.us.archive.org",
+    "d2": "ia804609.us.archive.org",
+    "dir": "/22/items/whos-cooking-in-southern-minnesota",
+    "files": [
+      {
+        "name": "Who's Cooking in Southern Minnesota.pdf",
+        "source": "original",
+        "mtime": "1638915899",
+        "size": "19500211",
+        "md5": "d0b9075979139165ff80b9da7cfedc01",
+        "crc32": "86a2bbbe",
+        "sha1": "64763ed7987e831b25ffdbe21adcfd4af9704716",
+        "format": "Text PDF",
+        "viruscheck": "1638918212"
+      },
+      {
+        "name": "Who's Cooking in Southern Minnesota_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-1-g862e",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Who's Cooking in Southern Minnesota_jp2.zip",
+        "mtime": "1638920336",
+        "size": "8029549",
+        "md5": "e8f3b00d5e528046c8758c19f42db6e5",
+        "crc32": "e21a45df",
+        "sha1": "8ab645b13c01158c6316183a330075ee06953d53"
+      },
+      {
+        "name": "Who's Cooking in Southern Minnesota_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Who's Cooking in Southern Minnesota_djvu.xml",
+        "mtime": "1638920589",
+        "size": "557393",
+        "md5": "f1405cd0811b3f02e730c0b3e0f49321",
+        "crc32": "f669824f",
+        "sha1": "1157fceb7c3f4f3ce0cfed93f8a21ea52c91e999"
+      },
+      {
+        "name": "Who's Cooking in Southern Minnesota_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Who's Cooking in Southern Minnesota_hocr.html",
+        "mtime": "1638920442",
+        "size": "7919009",
+        "md5": "3521247558bd5495a21bf354a7f23203",
+        "crc32": "ed2d0f81",
+        "sha1": "73353a8e8e2527a4160aaaf3033b7faf942c97c0"
+      },
+      {
+        "name": "Who's Cooking in Southern Minnesota_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Who's Cooking in Southern Minnesota_chocr.html.gz",
+        "mtime": "1638920415",
+        "size": "14902222",
+        "md5": "891f41c3203a797c02acd29b3ba87197",
+        "crc32": "e42040b1",
+        "sha1": "96280507918058bd2c33f728dab0ee80b8c99bbe"
+      },
+      {
+        "name": "Who's Cooking in Southern Minnesota_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "Who's Cooking in Southern Minnesota_hocr.html",
+        "mtime": "1638920504",
+        "size": "4811",
+        "md5": "01b8f37a6e3b11a98e2bdd50efc0c3b9",
+        "crc32": "32a5cd59",
+        "sha1": "865decfe23ad31416982669601913b1ec2cff6b1"
+      },
+      {
+        "name": "Who's Cooking in Southern Minnesota_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "1098",
+        "word_conf_11_20": "474",
+        "word_conf_21_30": "662",
+        "word_conf_31_40": "822",
+        "word_conf_41_50": "980",
+        "word_conf_51_60": "1207",
+        "word_conf_61_70": "1811",
+        "word_conf_71_80": "3464",
+        "word_conf_81_90": "7760",
+        "word_conf_91_100": "76756",
+        "format": "OCR Search Text",
+        "original": "Who's Cooking in Southern Minnesota_hocr.html",
+        "mtime": "1638920566",
+        "size": "182849",
+        "md5": "ed83875900b3ea9917c7fb00c39bba72",
+        "crc32": "60d240d5",
+        "sha1": "216ce048dd47b0c7ff7df94151251153d1b05f21"
+      },
+      {
+        "name": "Who's Cooking in Southern Minnesota_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Who's Cooking in Southern Minnesota.pdf",
+        "mtime": "1638918084",
+        "size": "229163854",
+        "md5": "8013fca1962fa1b45bcb4fcbe560721f",
+        "crc32": "34ee5a27",
+        "sha1": "e4539388cf321d2f171f2a6ef121bed38b6c139b",
+        "filecount": "402"
+      },
+      {
+        "name": "Who's Cooking in Southern Minnesota_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "Who's Cooking in Southern Minnesota_djvu.xml",
+        "mtime": "1638920796",
+        "size": "57366",
+        "md5": "f620e51f8da3653e377e12d4ccb14c03",
+        "crc32": "ca1539af",
+        "sha1": "157fac95b5e0270c4bdcb45367e148c36691f818"
+      },
+      {
+        "name": "Who's Cooking in Southern Minnesota_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Who's Cooking in Southern Minnesota_djvu.xml",
+        "mtime": "1638920792",
+        "size": "129179",
+        "md5": "29e5d44e1bfd8fbe1dbdcef4e938abbb",
+        "crc32": "34ed1994",
+        "sha1": "a68c26efadac487ded7b24a472a9a43e85cb9f66"
+      },
+      {
+        "name": "WhosCooking.jpg",
+        "source": "original",
+        "mtime": "1638916785",
+        "size": "71688",
+        "md5": "7c88359b87cee2bbde05fb4b9a0c72b7",
+        "crc32": "4f1406d7",
+        "sha1": "8b09962687336efd5dfd333837e03d6d167cd7de",
+        "format": "JPEG",
+        "rotation": "0"
+      },
+      {
+        "name": "WhosCooking_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "WhosCooking.jpg",
+        "mtime": "1638918278",
+        "size": "8819",
+        "md5": "abc2cbefe7d135d0637eca6a35f4a307",
+        "crc32": "8fe5d257",
+        "sha1": "a7787d4bda193cb9fc96ba23e74c947956868fd2"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1676947984",
+        "size": "22557",
+        "md5": "d154aa5c369c01b2ec8e9380757ba21b",
+        "crc32": "d7ddd0be",
+        "sha1": "c6c12da1dc98879958a267add4ed5ed9351cafab",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "whos-cooking-in-southern-minnesota_archive.torrent",
+        "source": "metadata",
+        "btih": "6cdef83a8fc8c6d19c1bed3ef0e1d45fb3aa3f39",
+        "mtime": "1678000731",
+        "size": "14899",
+        "md5": "9a2609c368b8414a571639b273b8afa9",
+        "crc32": "d3f696d0",
+        "sha1": "5887f4dbdecdc315069d578d3a0370b4c11f8387",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "whos-cooking-in-southern-minnesota_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "22474437eaf273e974399cce054adf3d",
+        "summation": "md5"
+      },
+      {
+        "name": "whos-cooking-in-southern-minnesota_meta.sqlite",
+        "source": "original",
+        "mtime": "1638918191",
+        "size": "20480",
+        "md5": "dd6aaa47cca9e197bf7d3b53d0e93995",
+        "crc32": "9aa2a358",
+        "sha1": "fb560885c6c00a8af4294d3b5ff03a6da7bd5da8",
+        "format": "Metadata"
+      },
+      {
+        "name": "whos-cooking-in-southern-minnesota_meta.xml",
+        "source": "original",
+        "mtime": "1678000728",
+        "size": "2120",
+        "md5": "27ad719882dd5455c974d8638960e9e6",
+        "crc32": "8d3402f9",
+        "sha1": "c1e464c94982b8978505300c0a2b963f5856313c",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 17,
+    "item_last_updated": 1678000731,
+    "item_size": 280587006,
+    "metadata": {
+      "identifier": "whos-cooking-in-southern-minnesota",
+      "mediatype": "texts",
+      "collection": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "creator": "Friends and Staff of Wm. Budd Elementary School",
+      "date": "1993-03-01",
+      "description": "This is a scan of a 1993 cookbook filled with donated recipes. The cookbook was sold to raise funds to buy library books for the William Budd Elementary School library in Fairmont, Minnesota. William Budd School was built in 1950 and named after one of Fairmont's earliest and most prominent citizens. It originally housed 232 students in seven classrooms, kindergarten through sixth grade. In 1960 an addition was built. As of 1992 the school housed 476 students in kindergarten through second grade. The school closed in 2012.",
+      "language": "eng",
+      "licenseurl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+      "subject": [
+        "cookbooks",
+        "recipes",
+        "schools",
+        "libraries",
+        "fundraisers"
+      ],
+      "title": "Who's Cooking In Southern Minnesota?",
+      "uploader": "tanquist@gmx.com",
+      "publicdate": "2021-12-07 21:39:28",
+      "addeddate": "2021-12-07 21:39:28",
+      "curation": "[curator]validator@archive.org[/curator][date]20211207213932[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/whos-cooking-in-southern-minnesota",
+      "identifier-ark": "ark:/13960/s2wm7zgx23m",
+      "ppi": "600",
+      "ocr": "tesseract 5.0.0-1-g862e",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.14",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "year": "1993",
+      "normalized_dates": [
+        "1993-03-01"
+      ]
+    },
+    "server": "ia804609.us.archive.org",
+    "uniq": 1014559086,
+    "workable_servers": [
+      "ia804609.us.archive.org",
+      "ia904609.us.archive.org"
+    ]
+  }
+}

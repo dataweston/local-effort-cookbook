@@ -1,0 +1,559 @@
+{
+  "source": "internet_archive",
+  "identifier": "celebrateseason200mere",
+  "title": "Celebrate the season 2005",
+  "creator": null,
+  "year": 2005,
+  "subject": [
+    "Holiday decorations",
+    "Handicraft",
+    "Holiday cooking"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/celebrateseason200mere"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/celebrateseason200mere"
+        }
+      ]
+    },
+    "created": 1758556441,
+    "d1": "ia601901.us.archive.org",
+    "d2": "ia801901.us.archive.org",
+    "dir": "/1/items/celebrateseason200mere",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659716620",
+        "size": "30956",
+        "md5": "b43864a2ea9546a6a97d6d60ced31813",
+        "crc32": "1ceba805",
+        "sha1": "1e8ef59b46b9427fc2d0f59a77d4b61d091c4d86",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "celebrateseason200mere.cdx.gz",
+        "source": "original",
+        "mtime": "1392937083",
+        "size": "6793",
+        "md5": "e7f7fa14341e951308ec03774f571b6d",
+        "crc32": "0fdd3a1a",
+        "sha1": "f50cc15c9f7c486cd52d89660939d3f77ad67c97",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere.cdx.idx",
+        "source": "original",
+        "mtime": "1392937083",
+        "size": "38",
+        "md5": "261114ddfaa817778b1d7d0ae9a84171",
+        "crc32": "342d1c52",
+        "sha1": "324f56a42e9dc2ce3db18634593ff4694a553fb6",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "celebrateseason200mere_hocr.html",
+        "mtime": "1753137218",
+        "size": "173706171",
+        "private": "true",
+        "md5": "2690d7b9754b84cd137e1cde6b0ebf62",
+        "crc32": "bc2f0bed",
+        "sha1": "312f677a6f13f0bdf5a141192be563cf892888aa"
+      },
+      {
+        "name": "celebrateseason200mere.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "celebrateseason200mere_jp2.zip",
+        "mtime": "1392931916",
+        "size": "248596",
+        "md5": "ab42da4fdfd8ee82dff39a142befe582",
+        "crc32": "abdaea05",
+        "sha1": "4c391cb4cb08543967179ec44c4ced197f9ac26c"
+      },
+      {
+        "name": "celebrateseason200mere.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "celebrateseason200mere.pdf",
+        "mtime": "1753136822",
+        "size": "41566098",
+        "md5": "da130da8496dea0d20bf96c1e191b713",
+        "crc32": "c6020b64",
+        "sha1": "ea263710c00807d97c436462d1f3746daa403dd9"
+      },
+      {
+        "name": "celebrateseason200mere.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "celebrateseason200mere_page_numbers.json",
+        "mtime": "1718452626",
+        "size": "40778946",
+        "md5": "e5be4cf56d6d5566feade0feec79b45f",
+        "crc32": "f5c71ff3",
+        "sha1": "0e297ed59b43def364b3b9589b70ad73082ceaad",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1356735943",
+        "size": "547405",
+        "md5": "f615faa7d35025136a438810776c303d",
+        "crc32": "8e5b7ec2",
+        "sha1": "ada9b03f6c5bab59039889229f8950fb0274f26f"
+      },
+      {
+        "name": "celebrateseason200mere.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "celebrateseason200mere.warc.gz",
+        "mtime": "1392929844",
+        "size": "6932",
+        "md5": "771f223110e85605ce56882481b6b1b4",
+        "crc32": "1a26e247",
+        "sha1": "e4381cf65c726cce509b66bb0c6894c8f6830b8c",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "celebrateseason200mere_jp2.zip",
+        "mtime": "1392933262",
+        "size": "3688658",
+        "md5": "e57734eccdbacfb93c67bb656233c51c",
+        "crc32": "844e676b",
+        "sha1": "3111dab3237fd2d9df87b6613bc78529c95dd76f",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "celebrateseason200mere_abbyy.gz",
+        "mtime": "1659712916",
+        "size": "3324681",
+        "md5": "6ff442ddabf8df2e92362033a1892106",
+        "crc32": "1bbc5dff",
+        "sha1": "1544f5cd5807b695b08ca75800da4579cee74466",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "celebrateseason200mere_scandata.xml",
+        "mtime": "1669540908",
+        "size": "780",
+        "md5": "c1a84fa1f75bd1d87da67eafe56c5bc6",
+        "crc32": "580b72f0",
+        "sha1": "2d01eeb55b0227b3452467c4734d4d412d60a571",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1454280372",
+        "size": "780",
+        "md5": "4aff6c20d48cf872886d91ac1d6ef865",
+        "crc32": "6bf9fe18",
+        "sha1": "7f74b76fb4b45c2827341b519e225bcc54fe42fa"
+      },
+      {
+        "name": "celebrateseason200mere_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "celebrateseason200mere_djvu.xml",
+        "mtime": "1721645842",
+        "size": "303722",
+        "md5": "e3f5a538ec7463d3bd08481023a68a91",
+        "crc32": "d2e17193",
+        "sha1": "587feed7eb780c2091041a3ac74e9f5ae07dc8a5",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "celebrateseason200mere_hocr.html",
+        "mtime": "1721645833",
+        "size": "3675554",
+        "md5": "8df49a5481c0c9214eb760de62a6949b",
+        "crc32": "11b814c4",
+        "sha1": "b6819988691a11294d346ad3e2624863a33b4b49",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "celebrateseason200mere_abbyy.gz",
+        "mtime": "1531015038",
+        "size": "45931749",
+        "md5": "fbb32f9e43ad6013d00c103adef18483",
+        "crc32": "3cbfa29f",
+        "sha1": "cb635c2dd0fbdb6383fc41a5d37fbe9c6ae5e1ea"
+      },
+      {
+        "name": "celebrateseason200mere_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "celebrateseason200mere.pdf",
+        "mtime": "1718453003",
+        "size": "40752683",
+        "md5": "fb5bccfe27894afd5648a450bef9de5a",
+        "crc32": "ad78a75b",
+        "sha1": "8fd63dbd0234a4904608a97927fb9be31efdc7e5"
+      },
+      {
+        "name": "celebrateseason200mere_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "80d95fe5c2fe71f8fa0ee02fcf5ff4e4",
+        "summation": "md5"
+      },
+      {
+        "name": "celebrateseason200mere_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "celebrateseason200mere_chocr.html.gz",
+        "mtime": "1659713277",
+        "size": "7000761",
+        "md5": "1b264f8c18de0be6aa02c4b28187ef23",
+        "crc32": "14e3848b",
+        "sha1": "9ca3fee2b1ef59763d7721e39a6b786c1f665221",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "celebrateseason200mere_hocr.html",
+        "mtime": "1659715875",
+        "size": "1850",
+        "md5": "9aa43397145b8125a5ba06147a50b84e",
+        "crc32": "e72ced6b",
+        "sha1": "22049ec152b57774cc1e84a0080aa3a8294a070b",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2314",
+        "word_conf_11_20": "2114",
+        "word_conf_21_30": "3373",
+        "word_conf_31_40": "5345",
+        "word_conf_41_50": "6806",
+        "word_conf_51_60": "6966",
+        "word_conf_61_70": "6234",
+        "word_conf_71_80": "4787",
+        "word_conf_81_90": "2599",
+        "word_conf_91_100": "3765",
+        "format": "OCR Search Text",
+        "original": "celebrateseason200mere_hocr.html",
+        "mtime": "1659716578",
+        "size": "94284",
+        "md5": "ef9b9b93b8209a2049c9d1c380c04e34",
+        "crc32": "5ca51198",
+        "sha1": "9f4ad8174d6ac06757279b64c478a710e14856da",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "celebrateseason200mere_orig_jp2.tar",
+        "mtime": "1392931879",
+        "size": "324449227",
+        "md5": "bd91bb018d792c54f011c7c1a63e808b",
+        "crc32": "7a9d3d8a",
+        "sha1": "92da7d094a855d4410a7f102542b63232aa64763",
+        "private": "true",
+        "filecount": "170"
+      },
+      {
+        "name": "celebrateseason200mere_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "celebrateseason200mere.epub",
+        "mtime": "1753137543",
+        "size": "173809651",
+        "md5": "da8c7ec19ae6acb5f83a5321a1c06db6",
+        "crc32": "95dfe8b4",
+        "sha1": "20338a268428481f44e7b182e9c8c78c7a24ed77"
+      },
+      {
+        "name": "celebrateseason200mere_loans.json",
+        "source": "original",
+        "mtime": "1592842281",
+        "size": "2218",
+        "format": "JSON",
+        "private": "true",
+        "md5": "5bb22ba34d2f48ddfb7db17e52c072c1",
+        "crc32": "128f8a40",
+        "sha1": "a8f4605bbf843b443643953decdd5dc61ef7c7f1"
+      },
+      {
+        "name": "celebrateseason200mere_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1454280372",
+        "size": "3706",
+        "md5": "66b3c2d7b3c2c3f506ab2c14fba9e497",
+        "crc32": "790c5e72",
+        "sha1": "37b16c83e6afd5c939f08a687a0dd39b2cafffea"
+      },
+      {
+        "name": "celebrateseason200mere_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "celebrateseason200mere_xisbn.json",
+        "mtime": "1454280374",
+        "size": "271",
+        "md5": "f283957e6cb370e7b276badd786668e8",
+        "crc32": "0bdfd0aa",
+        "sha1": "4c329cdceead2673b4100216d98edce046609d4f",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454280372",
+        "size": "1072",
+        "md5": "1bd001e38767409ca3a71341f23e289d",
+        "crc32": "f74e7008",
+        "sha1": "e496f837c824b8502ab697c731735a60c16760fb"
+      },
+      {
+        "name": "celebrateseason200mere_meta.sqlite",
+        "source": "original",
+        "mtime": "1466637382",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "02a6f9a8df486fb0b3985a085ba429d4",
+        "crc32": "9a0bd73b",
+        "sha1": "267bd09b7f166a43744b0b0f6eef8d2e2d574d1d"
+      },
+      {
+        "name": "celebrateseason200mere_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753137544",
+        "size": "3411",
+        "md5": "168f64b697dbcf53cb0eea98764dd0b8",
+        "crc32": "909c89cd",
+        "sha1": "89a24ab769f6ae8bc81754a494cee4e15f37d8f3"
+      },
+      {
+        "name": "celebrateseason200mere_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1356735943",
+        "size": "296",
+        "md5": "ccf14d6cb0da03fecba162cf3ba0d20c",
+        "crc32": "81f747cd",
+        "sha1": "7555b1c2cdf68b250e3fb69c1efc91a20c033740"
+      },
+      {
+        "name": "celebrateseason200mere_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1392929125",
+        "size": "421806080",
+        "md5": "3102e0601197d569ee4f8a381f031580",
+        "crc32": "1fdedf60",
+        "sha1": "60e1b237a0470f9ef32304f17fc4aa8e281cd12d",
+        "private": "true",
+        "filecount": "170"
+      },
+      {
+        "name": "celebrateseason200mere_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "celebrateseason200mere_hocr.html",
+        "mtime": "1718452626",
+        "size": "28611",
+        "md5": "7c6bf10f1ff51857205faf6f55ec7d24",
+        "crc32": "b8e77185",
+        "sha1": "b244fb31d6e142788711b54c5a730e3ecd4bc1c8",
+        "private": "true"
+      },
+      {
+        "name": "celebrateseason200mere_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669540908",
+        "size": "169809",
+        "md5": "1494fb0f570bb66d7a86af53a97836d4",
+        "crc32": "63e51b00",
+        "sha1": "d80f8058ba59b0fa59cc8a749b26f7952f0f766b"
+      },
+      {
+        "name": "celebrateseason200mere_xisbn.json",
+        "source": "original",
+        "mtime": "1454135999",
+        "size": "281",
+        "md5": "694d9fb6e8fbf9e67e91644e7476e625",
+        "crc32": "ccd5e61c",
+        "sha1": "570dedf49876216ec26d877d80faba06bed93c32",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 34,
+    "item_last_updated": 1753137544,
+    "item_size": 1281948214,
+    "metadata": {
+      "publisher": "Des Moines, Iowa : Meredith Books",
+      "isbn": [
+        "0696224070",
+        "9780696224072"
+      ],
+      "date": "2005-01-01",
+      "openlibrary": "OL11184234M",
+      "title": "Celebrate the season 2005",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-12-28 23:05:37",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sanfrancisco",
+      "shiptracking": "f0182",
+      "boxid": "IA122601",
+      "language": "eng",
+      "identifier": "celebrateseason200mere",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2012-12-28 23:05:45",
+      "publicdate": "2012-12-28 23:05:48",
+      "donor": "blogistics",
+      "scanner": "scribe2.sanfrancisco.archive.org",
+      "notes": "some content may be lost due to the binding of the book.",
+      "repub_seconds": "1526",
+      "ppi": "500",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "associate-lan-zhu@archive.org",
+      "scandate": "20140219235533",
+      "republisher": "associate-karina-martinez@archive.org",
+      "imagecount": "170",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/celebrateseason200mere",
+      "identifier-ark": "ark:/13960/t3wt17x9p",
+      "bookplateleaf": "0004",
+      "curation": "[curator]associate-aisha-harris@archive.org[/curator][date]20140221215120[/date][state]approved[/state][comment]199[/comment]",
+      "scanfee": "100",
+      "invoice": "11",
+      "subject": [
+        "Holiday decorations",
+        "Handicraft",
+        "Holiday cooking",
+        "Handicraft",
+        "Holiday cooking",
+        "Holiday decorations"
+      ],
+      "description": "Includes index",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": "62368377",
+      "backup_location": "ia905603_32",
+      "republisher_operator": "associate-karina-martinez@archive.org",
+      "republisher_date": "20140220203853",
+      "external-identifier": [
+        "urn:acs6:celebrateseason200mere:pdf:88e6bc11-7ea2-4b24-b02a-d46788d18d48",
+        "urn:acs6:celebrateseason200mere:epub:2306d288-40d0-44fc-b15d-5f8e13751e52",
+        "urn:oclc:record:1148202854",
+        "urn:lcp:celebrateseason200mere:lcpdf:cff3b47f-5df6-4077-94d5-f8a31269b01e",
+        "urn:lcp:celebrateseason200mere:epub:80816bbf-b9d1-4770-b07b-12ac9efd2751"
+      ],
+      "openlibrary_edition": "OL11184234M",
+      "openlibrary_work": "OL17776159W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801901.us.archive.org",
+    "servers_unavailable": true,
+    "uniq": 574976880,
+    "workable_servers": [
+      "ia801901.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/62368377?referer=xid"
+          ],
+          "publisher": "Meredith Books",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "ed": "1st ed.",
+          "year": "2005",
+          "isbn": [
+            "0696224070"
+          ],
+          "title": "Celebrate the season 2005.",
+          "oclcnum": [
+            "62368377"
+          ]
+        }
+      ]
+    }
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

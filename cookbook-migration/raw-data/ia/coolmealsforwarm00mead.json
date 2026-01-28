@@ -1,0 +1,572 @@
+{
+  "source": "internet_archive",
+  "identifier": "coolmealsforwarm00mead",
+  "title": "Cool meals for warm days",
+  "creator": "Meade, Mary, 1909-1991, author",
+  "year": 1950,
+  "subject": [
+    "Cooking, American -- Midwestern style",
+    "Menus",
+    "Cuisine américaine du Midwest"
+  ],
+  "description": [
+    "7 unnumbered leaves ; 28 x 22 cm folded to 22 x 14 cm",
+    "Cover title",
+    "Fourteen menus, 12 of which include recipes"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720108.ca.archive.org",
+          "dir": "/0/items/coolmealsforwarm00mead"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720108.ca.archive.org",
+          "dir": "/0/items/coolmealsforwarm00mead"
+        }
+      ]
+    },
+    "created": 1758337328,
+    "d1": "ia600204.us.archive.org",
+    "d2": "ia800204.us.archive.org",
+    "dir": "/8/items/coolmealsforwarm00mead",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1727111290",
+        "size": "15558",
+        "md5": "7ed16d09c8f67047533d00ef2c2b21f2",
+        "crc32": "d50c281b",
+        "sha1": "04740a0e27980823d81f478af3ecc6ca2929e42d",
+        "format": "Item Tile"
+      },
+      {
+        "name": "coolmealsforwarm00mead.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "coolmealsforwarm00mead_page_numbers.json",
+        "mtime": "1727111152",
+        "size": "2678521",
+        "md5": "9112a247e18ccbfccb2d20d4f375c557",
+        "crc32": "2e0856f5",
+        "sha1": "99e6b323135034f827c01a2db2c3f00ff6f8228b"
+      },
+      {
+        "name": "coolmealsforwarm00mead_archive.torrent",
+        "source": "metadata",
+        "btih": "46d44e0f43fde0f2699e1541b7e3fc10b6271674",
+        "mtime": "1745933597",
+        "size": "6272",
+        "md5": "e41d48809af434c29840b8a1bd62f16e",
+        "crc32": "3807217a",
+        "sha1": "7cf56b101a736b0feb7481165e193abdafaa23b1",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "coolmealsforwarm00mead_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Arabic",
+        "ocr_detected_script_conf": "0.8853",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "coolmealsforwarm00mead_jp2.zip",
+        "mtime": "1727105249",
+        "size": "292240",
+        "md5": "757d903ff9ff28668382d33bcd5da53c",
+        "crc32": "41d3b17b",
+        "sha1": "abcaf239e7e4d38ac5e6370edc3c53bb3e445cbf"
+      },
+      {
+        "name": "coolmealsforwarm00mead_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "2.1.4",
+        "format": "Cloth Cover Detection Log",
+        "original": "coolmealsforwarm00mead_scandata.xml",
+        "mtime": "1727105807",
+        "size": "1066",
+        "md5": "0e0b263770795eae395d799fe7848a91",
+        "crc32": "9a3a87ad",
+        "sha1": "8a5b29778231906c71605e7ee908d30af247c50b"
+      },
+      {
+        "name": "coolmealsforwarm00mead_dc.xml",
+        "source": "original",
+        "mtime": "1711029702",
+        "size": "2848",
+        "md5": "c73f74953f9fa3050d19f8b74b5a4108",
+        "crc32": "04f681b9",
+        "sha1": "7923bba15078d36ecc46536e13f6a7a0be45c087",
+        "format": "Dublin Core"
+      },
+      {
+        "name": "coolmealsforwarm00mead_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "coolmealsforwarm00mead_djvu.xml",
+        "mtime": "1727111283",
+        "size": "20048",
+        "md5": "d4e33e282f989babdc4a1193869cc133",
+        "crc32": "1d82eb99",
+        "sha1": "b6184dbd9d6db7efb3d0c9eff97320865f9a3e7e"
+      },
+      {
+        "name": "coolmealsforwarm00mead_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "coolmealsforwarm00mead_hocr.html",
+        "mtime": "1727106772",
+        "size": "278561",
+        "md5": "c13707c723e742d95ad99d017add6479",
+        "crc32": "f3e5b298",
+        "sha1": "5a67102e7a97d4e7478f5b8ef30ad1e02686e8d2"
+      },
+      {
+        "name": "coolmealsforwarm00mead_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "summation": "md5",
+        "md5": "228bbda42ff21449c288eb8ae4802d2a"
+      },
+      {
+        "name": "coolmealsforwarm00mead_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Arabic",
+        "ocr_detected_script_conf": "0.8853",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "coolmealsforwarm00mead_chocr.html.gz",
+        "mtime": "1727105998",
+        "size": "556964",
+        "md5": "ad8548706fbe40a74b3dd04b0cd233ea",
+        "crc32": "f16f8911",
+        "sha1": "75d1740eb9a3972416b5a04df4438d0798459b3e"
+      },
+      {
+        "name": "coolmealsforwarm00mead_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "coolmealsforwarm00mead_hocr.html",
+        "mtime": "1727107085",
+        "size": "221",
+        "md5": "ae061529875aeac3e7b621b8b6b429a7",
+        "crc32": "bb6e32b3",
+        "sha1": "a77c64ebfc00104bcced7a3c3369d849ef99795f"
+      },
+      {
+        "name": "coolmealsforwarm00mead_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "66",
+        "word_conf_11_20": "23",
+        "word_conf_21_30": "41",
+        "word_conf_31_40": "35",
+        "word_conf_41_50": "43",
+        "word_conf_51_60": "36",
+        "word_conf_61_70": "70",
+        "word_conf_71_80": "77",
+        "word_conf_81_90": "235",
+        "word_conf_91_100": "2572",
+        "format": "OCR Search Text",
+        "original": "coolmealsforwarm00mead_hocr.html",
+        "mtime": "1727107686",
+        "size": "7803",
+        "md5": "074bc2c3571f53f9892c5b6c3f397ce0",
+        "crc32": "f3af1750",
+        "sha1": "b9f8b11b2dc8fd5c6b07f02ed9b74a2a346e04b5"
+      },
+      {
+        "name": "coolmealsforwarm00mead_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "coolmealsforwarm00mead_orig_jp2.tar",
+        "mtime": "1727104619",
+        "size": "14009982",
+        "md5": "1eb498ae88e2fd4cc25930d2e8a460ba",
+        "crc32": "6a9b1df7",
+        "sha1": "e9377d6ed5f1b3718ec0b5440e7052a112609dfd",
+        "filecount": "20"
+      },
+      {
+        "name": "coolmealsforwarm00mead_marc.xml",
+        "source": "original",
+        "mtime": "1711029702",
+        "size": "6654",
+        "md5": "077ec1be24856f937849994345c37b8d",
+        "crc32": "65f08922",
+        "sha1": "157ffcd73dc874da46bd299e8e9bc865e1f53629",
+        "format": "MARC"
+      },
+      {
+        "name": "coolmealsforwarm00mead_meta.mrc",
+        "source": "original",
+        "mtime": "1711029702",
+        "size": "1967",
+        "md5": "534499096eb1a6c2479af95a3131d9de",
+        "crc32": "e525df0e",
+        "sha1": "e104d0c5f369090fe3031214781a9d5c76110aa6",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "coolmealsforwarm00mead_meta.sqlite",
+        "source": "original",
+        "mtime": "1727104313",
+        "size": "32768",
+        "md5": "66b39e2bad1267c9d2e453b61671f64b",
+        "crc32": "c5fde89f",
+        "sha1": "0df69368776f4d248964da29591b227f7e96a2fe",
+        "format": "Metadata"
+      },
+      {
+        "name": "coolmealsforwarm00mead_meta.xml",
+        "source": "original",
+        "mtime": "1745933594",
+        "size": "3468",
+        "md5": "a2784479fe145d57ce75c99c25bf77fa",
+        "crc32": "1683fc21",
+        "sha1": "ac6b75d2c29837b608d6b1ff4ad84b93f148c847",
+        "format": "Metadata"
+      },
+      {
+        "name": "coolmealsforwarm00mead_metasource.xml",
+        "source": "original",
+        "mtime": "1711029702",
+        "size": "324",
+        "md5": "ce889389c8b8154eb32c5dd0b402cc07",
+        "crc32": "d461e816",
+        "sha1": "57cce15a1e38cce8d402ebfe8823c5e93fe9ff9c",
+        "format": "MARC Source"
+      },
+      {
+        "name": "coolmealsforwarm00mead_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "original": "coolmealsforwarm00mead_preimage.zip",
+        "mtime": "1727104311",
+        "size": "33034240",
+        "md5": "e4ffe18f520834849e31ef57b6919cb2",
+        "crc32": "50454b8c",
+        "sha1": "8d4d7972f6b79cde0630b49e682d6798b65b3ddb",
+        "filecount": "20"
+      },
+      {
+        "name": "coolmealsforwarm00mead_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "28",
+        "format": "Page Numbers JSON",
+        "original": "coolmealsforwarm00mead_hocr.html",
+        "mtime": "1727108053",
+        "size": "3196",
+        "md5": "cf6906c40d9f3374877d6449de980485",
+        "crc32": "5cd1b064",
+        "sha1": "74ef987ebd1d377f8e6014f40be577a8a94bfe21"
+      },
+      {
+        "name": "coolmealsforwarm00mead_repub_final.log",
+        "source": "derivative",
+        "republisher_deriver_version": "0.0.17",
+        "confidence_accurate": "True",
+        "crops_accurate": "False",
+        "initial_crop_confidence": "0",
+        "format": "RePublisher Final Processing Log",
+        "original": "coolmealsforwarm00mead_scandata.xml",
+        "mtime": "1727106678",
+        "size": "5788",
+        "md5": "4520a1c1b64219456a09fe477553cc52",
+        "crc32": "9cde185d",
+        "sha1": "6c2f9913e7766706e5821b2f4beb983804ebdd7e"
+      },
+      {
+        "name": "coolmealsforwarm00mead_repub_initial.log",
+        "source": "derivative",
+        "republisher_deriver_version": "0.0.17",
+        "format": "RePublisher Initial Processing Log",
+        "original": "coolmealsforwarm00mead_preimage.zip",
+        "mtime": "1726679461",
+        "size": "27",
+        "md5": "08ec62964ef5fd9ce32e032e552b9d58",
+        "crc32": "2960f426",
+        "sha1": "40d9163175b1d24f4b2d6c4c44067eb0bf6af787"
+      },
+      {
+        "name": "coolmealsforwarm00mead_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "original": "coolmealsforwarm00mead_preimage.zip",
+        "mtime": "1727105807",
+        "size": "20946",
+        "crc32": "20b31752",
+        "sha1": "1de9a6e40be894963e86a665e2f3be430fb20995",
+        "md5": "48ea8789ec14512ba761d44c442ffd53"
+      },
+      {
+        "name": "logs/coolmealsforwarm00mead_iabdash_2024-09-1809:53:43.log",
+        "source": "original",
+        "mtime": "1726671228",
+        "size": "630",
+        "md5": "613836965064c433ef2df02b05dc49e0",
+        "crc32": "34954ea6",
+        "sha1": "3838fc81b158092d7ab9c6f08c93ea7b321ca049",
+        "format": "Log"
+      },
+      {
+        "name": "logs/coolmealsforwarm00mead_scanning_2024-09-1809:53:51.log",
+        "source": "original",
+        "mtime": "1726671234",
+        "size": "114594",
+        "md5": "ac5568ef54567af74e9ef059795b719b",
+        "crc32": "f316c369",
+        "sha1": "e7bd8949a8f0611eaa91ddfb67eaa9102d6d098e",
+        "format": "Log"
+      },
+      {
+        "name": "logs/coolmealsforwarm00mead_status_history_2024-09-1809:53:49.log",
+        "source": "original",
+        "mtime": "1726671231",
+        "size": "556",
+        "md5": "017d83069fe8fe3e728fbddd1da04a56",
+        "crc32": "0d556de7",
+        "sha1": "91b32017e00625de9b11fc15e4edd77b2a877018",
+        "format": "Log"
+      }
+    ],
+    "files_count": 26,
+    "item_last_updated": 1745933597,
+    "item_size": 51095242,
+    "metadata": {
+      "language": "eng",
+      "scanningcenter": "il",
+      "sponsor": "University of Illinois Urbana-Champaign Alternates",
+      "contributor": "University of Illinois Urbana-Champaign",
+      "date": "1950-01-01",
+      "subject": [
+        "Cooking, American -- Midwestern style",
+        "Menus",
+        "Cuisine américaine du Midwest",
+        "Menus",
+        "Cooking, American -- Midwestern style"
+      ],
+      "title": "Cool meals for warm days",
+      "creator": "Meade, Mary, 1909-1991, author",
+      "collection": [
+        "university_of_illinois_urbana-champaign",
+        "americana"
+      ],
+      "shiptracking": "ST016454",
+      "entry_number": "2024_IA_CART_0220_CMS_OAK-076",
+      "barcode": "30112115699370",
+      "copyright_statement": "Public domain. Published 1923-1989 with no printed notice of copyright and no subsequent registration.  Contact digicc@library.illinois.edu for more information.",
+      "page-progression": "lr",
+      "local_id": "99828421012205899",
+      "publisher": "[Chicago] : Chicago Tribune",
+      "oclc-id": "982698840",
+      "associated-names": "Chicago Tribune (Firm), issuing body",
+      "description": [
+        "7 unnumbered leaves ; 28 x 22 cm folded to 22 x 14 cm",
+        "Cover title",
+        "Fourteen menus, 12 of which include recipes"
+      ],
+      "mediatype": "texts",
+      "repub_state": "19",
+      "updatedate": "2024-03-21 14:01:42",
+      "updater": "associate-lauretta-doellman@archive.org",
+      "identifier": "coolmealsforwarm00mead",
+      "uploader": "associate-lauretta-doellman@archive.org",
+      "publicdate": "2024-03-21 14:01:45",
+      "scanner": "scribe3.il.archive.org",
+      "notes": "Irregular pagination. No table of contents or copyright page. Title information listed on cover.",
+      "operator": "stu-stewart@archive.org",
+      "tts_version": "6.9-initial-199-g95e2f04f",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "identifier-access": "http://archive.org/details/coolmealsforwarm00mead",
+      "identifier-ark": "ark:/13960/s2340nqn4zc",
+      "scandate": "20240918171059",
+      "imagecount": "20",
+      "autocrop_version": "0.0.17_books-serials-20230720-0.3",
+      "ppi": "400",
+      "republisher_operator": "associate-mae-mirafuentes@archive.org",
+      "republisher_date": "20240923231131",
+      "republisher_time": "278",
+      "foldoutcount": "0",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Arabic",
+      "ocr_detected_script_conf": "0.8853",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "28",
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25",
+      "addeddate": "2024-09-23 17:08:43",
+      "scanfee": "300;14;270",
+      "invoice": "1112",
+      "sponsordate": "20240930",
+      "openlibrary_edition": "OL58781822M",
+      "openlibrary_work": "OL43160266W",
+      "normalized_dates": [
+        "1950-01-01"
+      ]
+    },
+    "page_numbers": {
+      "identifier": "coolmealsforwarm00mead",
+      "format-version": "2",
+      "archive-hocr-tools-version": "1.1.54",
+      "confidence": 28,
+      "pages": [
+        {
+          "leafNum": 1,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 2,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 3,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 4,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 5,
+          "confidence": 75,
+          "pageNumber": "1/4",
+          "pageProb": 65,
+          "wordConf": 92
+        },
+        {
+          "leafNum": 6,
+          "confidence": null,
+          "pageNumber": "1/5",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 7,
+          "confidence": null,
+          "pageNumber": "1/6",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 8,
+          "confidence": null,
+          "pageNumber": "1/7",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 9,
+          "confidence": 70,
+          "pageNumber": "1/8",
+          "pageProb": 60,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 10,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 11,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 12,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 13,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 14,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 15,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 16,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 17,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 18,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        }
+      ]
+    },
+    "server": "ia600204.us.archive.org",
+    "uniq": 860351121,
+    "workable_servers": [
+      "ia600204.us.archive.org",
+      "ia800204.us.archive.org"
+    ]
+  }
+}

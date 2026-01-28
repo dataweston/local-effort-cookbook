@@ -1,0 +1,519 @@
+{
+  "source": "internet_archive",
+  "identifier": "receiptsofpastry0000kidd",
+  "title": "Receipts of pastry & cookery : for the use of his scholars",
+  "creator": "Kidder, E. (Edward), 1665 or 6-1739",
+  "year": 1993,
+  "subject": "Cooking, English -- Early works to 1800",
+  "description": [
+    "xi, 179 p. : 22 cm",
+    "Edited version of: E. Kidder's receipts of pastry and cookery. London? : 1740?",
+    "Includes bibliographical references (p. xi) and index"
+  ],
+  "metadata": {
+    "created": 1758556707,
+    "d1": "ia601704.us.archive.org",
+    "d2": "ia801704.us.archive.org",
+    "dir": "/11/items/receiptsofpastry0000kidd",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660976455",
+        "size": "19483",
+        "md5": "df894570c65ac37e0cc5053506333812",
+        "crc32": "a31d881e",
+        "sha1": "0e32119fa48d85f45c2e5184c1e00d6f654b1ef1",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/receiptsofpastry0000kidd_iabdash_2020-10-0507:41:05.log",
+        "source": "original",
+        "mtime": "1601854870",
+        "size": "1370",
+        "md5": "3201303395aec56cf151c4d796530a69",
+        "crc32": "e2213f47",
+        "sha1": "8ea0ab0868a494f37155e6769e3354a64eac35aa",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/receiptsofpastry0000kidd_scanning_2020-10-0507:41:15.log",
+        "source": "original",
+        "mtime": "1601854880",
+        "size": "652813",
+        "md5": "e6808c9d60ffa79c9036c340e6383092",
+        "crc32": "15a16ddf",
+        "sha1": "46473bea586ff17ff69222ec22857d89d3992194",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/receiptsofpastry0000kidd_status_history_2020-10-0507:41:11.log",
+        "source": "original",
+        "mtime": "1601854874",
+        "size": "409",
+        "md5": "cbf80c203d8f3cf13151af6cd11872b8",
+        "crc32": "37ac6dd1",
+        "sha1": "ecfd8c1db1ea3de1513072ae5f7118a6e314132b",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "receiptsofpastry0000kidd_hocr.html",
+        "mtime": "1758219770",
+        "size": "30622222",
+        "private": "true",
+        "md5": "db8ab9b9072f8743ba9ce57aa01aef5c",
+        "crc32": "f2400546",
+        "sha1": "445c29e48e4bbdd0ed67d277313525470753bdcb"
+      },
+      {
+        "name": "receiptsofpastry0000kidd.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "receiptsofpastry0000kidd.pdf",
+        "mtime": "1758219558",
+        "size": "11196260",
+        "md5": "bd826d219fa8903cdea39f56fb58c8fc",
+        "crc32": "518816ea",
+        "sha1": "9e84f83e5aa09d6430e7bf7aa3e89db18b38437e"
+      },
+      {
+        "name": "receiptsofpastry0000kidd.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "receiptsofpastry0000kidd_page_numbers.json",
+        "mtime": "1721750409",
+        "size": "10752284",
+        "md5": "526e39e153069f0d557ceea3fc703ef0",
+        "crc32": "ad261543",
+        "sha1": "79ea4f33b5c58e212c3f7947f8eb101a0e5b42ef",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "receiptsofpastry0000kidd_jp2.zip",
+        "mtime": "1602049445",
+        "size": "2315432",
+        "md5": "4c1ea78eb89b34eb8624cb6126531191",
+        "crc32": "431b6c96",
+        "sha1": "64c8ef150591c9a5d1a432d15fbd866b9d73f23c",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "receiptsofpastry0000kidd_abbyy.gz",
+        "mtime": "1660975914",
+        "size": "1726855",
+        "md5": "b9b2318d3595f91d97695beb0385983a",
+        "crc32": "88349970",
+        "sha1": "ff04b199c2a831e9e1149c251402f7888a8b3364",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "receiptsofpastry0000kidd_scandata.xml",
+        "mtime": "1671077661",
+        "size": "788",
+        "md5": "27ca1c2872c99130f1a29a655e4101ee",
+        "crc32": "ad3ba4f2",
+        "sha1": "8498883d4c04ade4f21b8c2a2fdc84639799c2a7",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1602043625",
+        "size": "1324",
+        "md5": "d0da5b3671e5d41887ef6b964fe8fd28",
+        "crc32": "277b0920",
+        "sha1": "d58f8a589438806866c92fbb2803b868d65e0210"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "receiptsofpastry0000kidd_djvu.xml",
+        "mtime": "1660976421",
+        "size": "152291",
+        "md5": "4e129a3a09512beb80a8b99d0978e5de",
+        "crc32": "f4b3c0f8",
+        "sha1": "9d8e6e6a0d949dda0d114cecf47c03f18575717f",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "receiptsofpastry0000kidd_hocr.html",
+        "mtime": "1660976272",
+        "size": "2110708",
+        "md5": "c054175d7c3e211c71fb1d78d18195d4",
+        "crc32": "9f2a5f41",
+        "sha1": "303d98396ece258fdbecaa246b4ca50b85499650",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "receiptsofpastry0000kidd_abbyy.gz",
+        "mtime": "1602049686",
+        "size": "3126722",
+        "md5": "8acf4cf0502d0d383bc95493aac8dfd4",
+        "crc32": "10ac73b3",
+        "sha1": "0d8d1f125e9ddbacd599cd428bb83ced67479f5c"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "receiptsofpastry0000kidd.pdf",
+        "mtime": "1721751318",
+        "size": "10644001",
+        "md5": "c3da98eb3a3732a76b0713761d79bca3",
+        "crc32": "f4fd9ff5",
+        "sha1": "b6151dd3cc245b5ef46c44f159571018e2c0704d"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_events.json",
+        "source": "original",
+        "mtime": "1602039774",
+        "size": "64",
+        "md5": "1afe0d0624b2a4bf6075f61cae6c567b",
+        "crc32": "4a08492b",
+        "sha1": "62080bd0b62e2c16476c070c06b5a8a9b9991b50",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "55d09d3faaa27577c7a529d26716357e",
+        "summation": "md5"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "receiptsofpastry0000kidd_chocr.html.gz",
+        "mtime": "1660976246",
+        "size": "4428370",
+        "md5": "55afeaf7047d02f71571df0ad7bc20b9",
+        "crc32": "e085dccf",
+        "sha1": "8fdeb15553ffe82e11946d1091322be0c7d9b907",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "receiptsofpastry0000kidd_hocr.html",
+        "mtime": "1660976343",
+        "size": "2212",
+        "md5": "8c8707f0836175c6dd335e56bd4e5a8e",
+        "crc32": "d3d6a299",
+        "sha1": "0468db1ea509622764bf699b47958b3485312a4f",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "4597",
+        "word_conf_11_20": "959",
+        "word_conf_21_30": "554",
+        "word_conf_31_40": "396",
+        "word_conf_41_50": "310",
+        "word_conf_51_60": "418",
+        "word_conf_61_70": "888",
+        "word_conf_71_80": "2011",
+        "word_conf_81_90": "4716",
+        "word_conf_91_100": "9390",
+        "format": "OCR Search Text",
+        "original": "receiptsofpastry0000kidd_hocr.html",
+        "mtime": "1660976400",
+        "size": "57674",
+        "md5": "553832569ef4e08c3f6e9e93eb82eaec",
+        "crc32": "917dba9e",
+        "sha1": "44773fe902f8df482386d09065548a821bd57a9b",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "receiptsofpastry0000kidd_orig_jp2.tar",
+        "mtime": "1602047334",
+        "size": "88058145",
+        "md5": "22bd24b56fec2927873f176f4582c221",
+        "crc32": "e0f99161",
+        "sha1": "e3016277adf5d9b113e47562b5297d758cb0f408",
+        "private": "true",
+        "filecount": "202"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "receiptsofpastry0000kidd.epub",
+        "mtime": "1758220097",
+        "size": "31033405",
+        "md5": "f532c7ecb70d10015d43e2d330cbe6c8",
+        "crc32": "bbb4fcb6",
+        "sha1": "4110d0da9fab6b5bbddd08f8a3279d7b81e2a2bb"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_marc.xml",
+        "source": "original",
+        "mtime": "1601854864",
+        "size": "3122",
+        "md5": "8870a7058adbfa802c0be61702fb3c24",
+        "crc32": "8a26e87d",
+        "sha1": "3b14c801947b787e57f6565d2eadc8322cde8294",
+        "format": "MARC"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_meta.mrc",
+        "source": "original",
+        "mtime": "1601854858",
+        "size": "1086",
+        "md5": "d667522afe05e7874c8584762d92ccfc",
+        "crc32": "90462f58",
+        "sha1": "a6cf73cc71c507cc8adc5c4358d76e8343ec8c5a",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_meta.sqlite",
+        "source": "original",
+        "mtime": "1602043483",
+        "size": "19456",
+        "md5": "6370033d6056ca78a6fba52534342b23",
+        "crc32": "4560662e",
+        "sha1": "1ef0b6453711b2674a564b61a15a0990736fc615",
+        "format": "Metadata"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_meta.xml",
+        "source": "original",
+        "mtime": "1758220097",
+        "size": "3325",
+        "md5": "5a0b4595821aafe6f95d8e065b6ce30b",
+        "crc32": "6f7e6b1f",
+        "sha1": "a08a257739848ea5a0ac2fa076e278ce86c399b5",
+        "format": "Metadata"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1602043479",
+        "size": "342272000",
+        "md5": "8cbc5bd3a3bdec8c291205e9ec835b3c",
+        "crc32": "05108ffb",
+        "sha1": "ca5435ed3e14c403944351b1a7bcd2c928c4eb06",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "202"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "66",
+        "format": "Page Numbers JSON",
+        "original": "receiptsofpastry0000kidd_hocr.html",
+        "mtime": "1721750409",
+        "size": "34317",
+        "md5": "4c9075645532bfd12b71b841812a46de",
+        "crc32": "5a9a8a62",
+        "sha1": "8ced489d7fb097f7a87d349577537ca3cc37593e",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_scandata.xml",
+        "source": "original",
+        "mtime": "1671077661",
+        "size": "206597",
+        "md5": "5baa7f8190cf9326e5dd30e799a1171f",
+        "crc32": "eae7ec25",
+        "sha1": "b7dfe60ed5ed81ac21535dc6b73ed794ed562df4",
+        "format": "Scandata"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_slip.png",
+        "source": "original",
+        "mtime": "1601850006",
+        "size": "43544",
+        "md5": "6476a3d7c9eb8eff01f9bb413974bf5c",
+        "crc32": "f35b2138",
+        "sha1": "7b5ec68cd6c1eae5096bfead2b68d37800f3e79c",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "receiptsofpastry0000kidd_slip.png",
+        "mtime": "1602043630",
+        "size": "5949",
+        "md5": "457b55858a6b4eb72f7e6e90faf002d4",
+        "crc32": "175f1196",
+        "sha1": "d090e9990aad5e561ea798b270ef84e77d62f060",
+        "private": "true"
+      },
+      {
+        "name": "receiptsofpastry0000kidd_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "receiptsofpastry0000kidd_djvu.xml",
+        "mtime": "1671077571",
+        "size": "699",
+        "md5": "4ffff9aaac68052184dac31dc1bd1338",
+        "crc32": "0a0caa0e",
+        "sha1": "5080d3da0117c0f586fc0acdffe010a22c0ec52f",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1758220097,
+    "item_size": 539492927,
+    "metadata": {
+      "identifier": "receiptsofpastry0000kidd",
+      "associated-names": "Schoonover, David E; Kidder, E. (Edward), 1665 or 6-1739. E. Kidder's receipts of pastry and cookery",
+      "boxid": "IA1960907",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Kidder, E. (Edward), 1665 or 6-1739",
+      "date": "1993-01-01",
+      "description": [
+        "xi, 179 p. : 22 cm",
+        "Edited version of: E. Kidder's receipts of pastry and cookery. London? : 1740?",
+        "Includes bibliographical references (p. xi) and index"
+      ],
+      "isbn": "0877454108",
+      "language": "eng",
+      "lccn": "92045739",
+      "mediatype": "texts",
+      "old_pallet": "IA19376",
+      "openlibrary_edition": "OL1740072M",
+      "openlibrary_work": "OL4317393W",
+      "operator": "associate-kristel-talandron@archive.org",
+      "ppi": "300",
+      "publisher": "Iowa City : University of Iowa Press",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station32.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780877454106",
+      "subject": "Cooking, English -- Early works to 1800",
+      "title": "Receipts of pastry & cookery : for the use of his scholars",
+      "tts_version": "4.0-initial-155-gbba175a5",
+      "uploader": "station32.cebu@archive.org",
+      "publicdate": "2020-10-04 22:20:31",
+      "access-restricted-item": "true",
+      "imagecount": "202",
+      "scandate": "20201005001115",
+      "notes": "cut off text due to tight binding<br />obscured text back cover<br /><br />",
+      "republisher_operator": "associate-noreenangelika-saberon@archive.org",
+      "republisher_date": "20201007110208",
+      "republisher_time": "438",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/receiptsofpastry0000kidd",
+      "identifier-ark": "ark:/13960/t2m70zt0p",
+      "external-identifier": [
+        "urn:acs6:receiptsofpastry0000kidd:epub:84c5a7d3-fe46-44c8-aeae-2eddc55d1601",
+        "urn:acs6:receiptsofpastry0000kidd:pdf:73b3f9d2-6aee-4c16-a968-8a49c7bb6c09",
+        "urn:oclc:record:1200559204",
+        "urn:lcp:receiptsofpastry0000kidd:lcpdf:481422a6-6043-45fb-893b-4b80c60e4b91",
+        "urn:lcp:receiptsofpastry0000kidd:epub:5a86bf56-89a2-4635-a5d3-414fe13b7a11"
+      ],
+      "page_number_confidence": "66",
+      "addeddate": "2020-10-07 07:11:18",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20201031",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601704.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "winterthurlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780877454106"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-06-10 02:16:34.917248"
+        },
+        "wrlc-ol": {
+          "notes": {
+            "isbn": [
+              "9780877454106"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-06-10 04:50:18.567958"
+        }
+      }
+    },
+    "uniq": 576305748,
+    "workable_servers": [
+      "ia601704.us.archive.org",
+      "ia801704.us.archive.org"
+    ]
+  },
+  "institution": "Kidder, E. (Edward), 1665 or 6-1739",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

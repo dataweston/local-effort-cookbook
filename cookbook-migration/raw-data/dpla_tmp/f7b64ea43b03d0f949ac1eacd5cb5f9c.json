@@ -1,0 +1,96 @@
+{
+  "source": "dpla",
+  "id": "f7b64ea43b03d0f949ac1eacd5cb5f9c",
+  "identifier": "f7b64ea43b03d0f949ac1eacd5cb5f9c",
+  "title": "Home economy, etc.",
+  "subject": [],
+  "spatial": [
+    "Salt Lake City, Salt Lake County, Utah"
+  ],
+  "description": "Content warning: this item contains racist or offensive language. Second edition of a book on home economics and recipes compiled and edited by P. P. Pratt.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/101",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "year": 1895,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/f7b64ea43b03d0f949ac1eacd5cb5f9c#SourceResource",
+      "collection": [
+        {
+          "title": "DeGolyer Library Cookbook Collection"
+        }
+      ],
+      "creator": [
+        "Pratt, Parley P. (Parley Parker), 1807-1857"
+      ],
+      "date": [
+        {
+          "begin": "1895",
+          "displayDate": "1895",
+          "end": "1895"
+        }
+      ],
+      "description": [
+        "Content warning: this item contains racist or offensive language. Second edition of a book on home economics and recipes compiled and edited by P. P. Pratt."
+      ],
+      "identifier": [
+        "TX153 .H66 1895"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "DeGolyer Library"
+      ],
+      "rights": [
+        "Please cite DeGolyer Library, Southern Methodist University as the source of this file. A high-resolution version of this file may be obtained for a fee. For details, see the https://www.smu.edu/libraries/degolyer/using/images web page. For more information, contact degolyer@smu.edu."
+      ],
+      "spatial": [
+        {
+          "name": "Salt Lake City, Salt Lake County, Utah"
+        }
+      ],
+      "title": [
+        "Home economy, etc."
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1895-01-01",
+      "normalized_dates": [
+        "1895-01-01"
+      ],
+      "date_range": {
+        "begin": "1895-01-01",
+        "end": "1895-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/101",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/101"
+  },
+  "location": {
+    "state": "Wi",
+    "county": "Lake County"
+  },
+  "curation": {
+    "score": 9,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Methodist"
+    ]
+  },
+  "curation_notes": "County match: Lake County; Community markers: Methodist; Digitized scan available"
+}

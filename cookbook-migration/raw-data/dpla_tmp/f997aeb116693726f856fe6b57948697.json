@@ -1,0 +1,129 @@
+{
+  "source": "dpla",
+  "id": "f997aeb116693726f856fe6b57948697",
+  "identifier": "f997aeb116693726f856fe6b57948697",
+  "title": "The yellow and blue cook book : a choice collection of choice recipes",
+  "subject": [
+    "Presbyterian Church in the U.S.A--Michigan--Ann Arbor",
+    "First Presbyterian Church (Ann Arbor, Mich.)",
+    "Cooking",
+    "Ann Arbor (Mich.)--Religion"
+  ],
+  "spatial": [
+    "Ann Arbor (Mich.)",
+    "Michigan",
+    "Ann Arbor"
+  ],
+  "description": "Includes index.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/003136507",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1923,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/f997aeb116693726f856fe6b57948697#SourceResource",
+      "contributor": [
+        "First Presbyterian Church (Ann Arbor, Mich.). Women's Auxiliary"
+      ],
+      "date": [
+        {
+          "begin": "1923",
+          "displayDate": "1923",
+          "end": "1923"
+        }
+      ],
+      "description": [
+        "Includes index.",
+        "Includes advertisements.",
+        "Compilers' foreword signed: The Executive Committee of the Women's Auxiliary of the Presbyterian Church."
+      ],
+      "extent": [
+        "160 p. ; 22 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "(MiU)003136507",
+        "sdr-miu003136507",
+        "(OCoLC)21833860",
+        "Hathi: 003136507"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Ann Arbor, Mich. : Women's Auxiliary to the University of Michigan Presbyterian Corporation of the First Presbyterian Church"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Ann Arbor (Mich.)"
+        },
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Ann Arbor"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Presbyterian Church in the U.S.A--Michigan--Ann Arbor"
+        },
+        {
+          "name": "First Presbyterian Church (Ann Arbor, Mich.)"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Ann Arbor (Mich.)--Religion"
+        }
+      ],
+      "title": [
+        "The yellow and blue cook book : a choice collection of choice recipes"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1923-01-01",
+      "normalized_dates": [
+        "1923-01-01"
+      ],
+      "date_range": {
+        "begin": "1923-01-01",
+        "end": "1923-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=gkLiAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/003136507"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Auxiliary",
+      "Church",
+      "Women'S Auxiliary",
+      "Presbyterian"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Auxiliary, Church, Women'S Auxiliary, Presbyterian; Digitized scan available"
+}

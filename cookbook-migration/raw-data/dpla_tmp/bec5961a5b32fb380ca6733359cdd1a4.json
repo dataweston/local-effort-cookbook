@@ -1,0 +1,95 @@
+{
+  "source": "dpla",
+  "id": "bec5961a5b32fb380ca6733359cdd1a4",
+  "identifier": "bec5961a5b32fb380ca6733359cdd1a4",
+  "title": "Cookery",
+  "subject": [],
+  "spatial": [
+    "Sioux City, Woodbury County, Iowa"
+  ],
+  "description": "Cookbook containing recipes compiled by members of the Woman's Christian Association of Sioux City, Iowa.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/100",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "year": 1883,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/bec5961a5b32fb380ca6733359cdd1a4#SourceResource",
+      "collection": [
+        {
+          "title": "DeGolyer Library Cookbook Collection"
+        }
+      ],
+      "creator": [
+        "Woman's Christian Association of Sioux City, Iowa"
+      ],
+      "date": [
+        {
+          "begin": "1883",
+          "displayDate": "1883",
+          "end": "1883"
+        }
+      ],
+      "description": [
+        "Cookbook containing recipes compiled by members of the Woman's Christian Association of Sioux City, Iowa."
+      ],
+      "identifier": [
+        "TX715 .C66 1883"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "DeGolyer Library"
+      ],
+      "rights": [
+        "Please cite DeGolyer Library, Southern Methodist University as the source of this file. A high-resolution version of this file may be obtained for a fee. For details, see the https://www.smu.edu/libraries/degolyer/using/images web page. For more information, contact degolyer@smu.edu."
+      ],
+      "spatial": [
+        {
+          "name": "Sioux City, Woodbury County, Iowa"
+        }
+      ],
+      "title": [
+        "Cookery"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1883-01-01",
+      "normalized_dates": [
+        "1883-01-01"
+      ],
+      "date_range": {
+        "begin": "1883-01-01",
+        "end": "1883-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/100",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/100"
+  },
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Methodist"
+    ]
+  },
+  "curation_notes": "State match: Iowa; Community markers: Methodist; Digitized scan available"
+}

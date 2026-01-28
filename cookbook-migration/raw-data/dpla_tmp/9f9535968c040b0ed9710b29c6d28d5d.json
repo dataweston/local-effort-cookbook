@@ -1,0 +1,154 @@
+{
+  "source": "dpla",
+  "id": "9f9535968c040b0ed9710b29c6d28d5d",
+  "identifier": "9f9535968c040b0ed9710b29c6d28d5d",
+  "title": "Metropolitan cook book",
+  "subject": [
+    "Janice Bluestein Longone Culinary Archive",
+    "Charity cookbooks--Michigan--Detroit",
+    "Cooking",
+    "Chafing dish cooking",
+    "International cooking",
+    "Cooking--Middle West",
+    "Cooking, American--Midwestern style",
+    "Cooking--Michigan--Detroit"
+  ],
+  "spatial": [
+    "Michigan",
+    "Detroit",
+    "Middle West"
+  ],
+  "description": "Includes chafing dish recipes; household hints; recpies for French, English, Spanish, Chinese, Italian, and Jewish dishes. Sample recipes: Cafiltha [i.e. Gefilte] fish, Fruit salad, Floating island.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/008983767",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1922,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/9f9535968c040b0ed9710b29c6d28d5d#SourceResource",
+      "contributor": [
+        "Kresge, Anna E., former owner",
+        "Metropolitan Methodist Episcopal Church (Detroit, Mich.). Ladies' Aid Society"
+      ],
+      "date": [
+        {
+          "begin": "1922",
+          "displayDate": "1922",
+          "end": "1922"
+        }
+      ],
+      "description": [
+        "Includes chafing dish recipes; household hints; recpies for French, English, Spanish, Chinese, Italian, and Jewish dishes. Sample recipes: Cafiltha [i.e. Gefilte] fish, Fruit salad, Floating island.",
+        "\"Some recipes that men call good\": p. 171-174.",
+        "Advertisements throughout text; blank pages at end.",
+        "Includes index.",
+        "Illustration of the Metropolitan Methodist Episcopal Church on t.p.",
+        "Recipes are attributed.",
+        "Olive cloth; upper cover printed in brown.",
+        "Inscription: Anna E. Kresge, Detroit, Mich.",
+        "Ms. recipes on p. 158, 193.",
+        "ACQ: 35669; Janice B. Longone; Gift; 6/21/2001."
+      ],
+      "extent": [
+        "199 p. : 24 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "(MiU)008983767",
+        "sdr-miu008983767",
+        "(OCoLC)145734049",
+        "Hathi: 008983767"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Detroit, Mich. : The Society"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Detroit"
+        },
+        {
+          "name": "Middle West"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Janice Bluestein Longone Culinary Archive"
+        },
+        {
+          "name": "Charity cookbooks--Michigan--Detroit"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Chafing dish cooking"
+        },
+        {
+          "name": "International cooking"
+        },
+        {
+          "name": "Cooking--Middle West"
+        },
+        {
+          "name": "Cooking, American--Midwestern style"
+        },
+        {
+          "name": "Cooking--Michigan--Detroit"
+        }
+      ],
+      "title": [
+        "Metropolitan cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1922-01-01",
+      "normalized_dates": [
+        "1922-01-01"
+      ],
+      "date_range": {
+        "begin": "1922-01-01",
+        "end": "1922-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=t-k9AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/008983767"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 7,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Ladies' Aid",
+      "Episcopal",
+      "Jewish",
+      "Methodist"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church, Ladies' Aid, Episcopal, Jewish, Methodist; Digitized scan available"
+}

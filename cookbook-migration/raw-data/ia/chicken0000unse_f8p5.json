@@ -1,0 +1,560 @@
+{
+  "source": "internet_archive",
+  "identifier": "chicken0000unse_f8p5",
+  "title": "Chicken",
+  "creator": null,
+  "year": 2003,
+  "subject": [
+    "Cooking (Chicken)",
+    "Entrées (Cooking)"
+  ],
+  "description": [
+    "288 pages : 29 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/chicken0000unse_f8p5"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/chicken0000unse_f8p5"
+        }
+      ]
+    },
+    "created": 1758337281,
+    "d1": "ia600407.us.archive.org",
+    "d2": "ia800407.us.archive.org",
+    "dir": "/11/items/chicken0000unse_f8p5",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1654814521",
+        "size": "20584",
+        "md5": "d4b56ffd95ecf80df9aa436a74e06486",
+        "crc32": "cd11f25e",
+        "sha1": "26a8791166717424dab9368f039042f148f6fc48",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "chicken0000unse_f8p5.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "chicken0000unse_f8p5_hocr.html",
+        "mtime": "1755477389",
+        "size": "1674207",
+        "private": "true",
+        "md5": "f3e38801a4747a31c6f757b3e4afa7d8",
+        "crc32": "8399e659",
+        "sha1": "40639d2bb44567234a6ea5cda550f25e3ed283be"
+      },
+      {
+        "name": "chicken0000unse_f8p5.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "chicken0000unse_f8p5.pdf",
+        "mtime": "1755477274",
+        "size": "22937987",
+        "md5": "4ee19ed6401758c009a9ad8163762558",
+        "crc32": "3a596e64",
+        "sha1": "2da457ea3972d12c273db001ff97d1134608140f"
+      },
+      {
+        "name": "chicken0000unse_f8p5.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "chicken0000unse_f8p5_page_numbers.json",
+        "mtime": "1718559251",
+        "size": "22516297",
+        "md5": "52f2ef71d7534777c319c8063d147e0c",
+        "crc32": "b61485ae",
+        "sha1": "b85f50a46619bee15bfb8dafe055efa78ed32904",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-1-g862e",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.15",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9683",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "chicken0000unse_f8p5_jp2.zip",
+        "mtime": "1652519174",
+        "size": "6491856",
+        "md5": "fa530b9a71a479d36ec7ff665dfbddb2",
+        "crc32": "b7d1e33c",
+        "sha1": "c186f6538863f6a5240e6241ffdf2cd13b0e4f79",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.1",
+        "format": "Cloth Cover Detection Log",
+        "original": "chicken0000unse_f8p5_scandata.xml",
+        "mtime": "1652525245",
+        "size": "772",
+        "md5": "429ba170ea29f6f9ff56cfe40f239a63",
+        "crc32": "8f75524f",
+        "sha1": "5be2cc86eec9a3e644eec036b186aecca8553e3e",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1652471342",
+        "size": "863",
+        "md5": "badf69495ed4d46303c4d62a46cb2f5d",
+        "crc32": "f470fd0a",
+        "sha1": "277a0865a3f5438d0abc92c60f6b9fdffc296f35"
+      },
+      {
+        "name": "chicken0000unse_f8p5_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "chicken0000unse_f8p5_djvu.xml",
+        "mtime": "1652520085",
+        "size": "479665",
+        "md5": "b6415181dc3c14ea9bdbdca31e5b39b0",
+        "crc32": "835c7231",
+        "sha1": "440566bf35be447528c30065ccf1d24ca7d240ae",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "chicken0000unse_f8p5_hocr.html",
+        "mtime": "1652519695",
+        "size": "6526139",
+        "md5": "b5c8abcc4bc8387f1ed3d0bca95cc17d",
+        "crc32": "c6498300",
+        "sha1": "bd9ac89a714e179aa8e43bfb1461c47fb3db3d65",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "chicken0000unse_f8p5.pdf",
+        "mtime": "1718560766",
+        "size": "22441981",
+        "md5": "c2508cadac2700f0bd4ba23fd31ce611",
+        "crc32": "9c50e3a6",
+        "sha1": "d1b88f4e3da86165eb84265301cb946c0404272e"
+      },
+      {
+        "name": "chicken0000unse_f8p5_events.json",
+        "source": "original",
+        "mtime": "1652510611",
+        "size": "58",
+        "md5": "22945d5320423f0fcc3af8cb9fa5f285",
+        "crc32": "6fbe4c5a",
+        "sha1": "ce9d88e80d78f35e2925f0fe5466705937bf244c",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "965f8bf7bb0b76d06be6bbc8841bcc2f",
+        "summation": "md5"
+      },
+      {
+        "name": "chicken0000unse_f8p5_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.15",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9683",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "chicken0000unse_f8p5_chocr.html.gz",
+        "mtime": "1652519625",
+        "size": "12779054",
+        "md5": "281d7d991e210a212f34e3cf10030bb3",
+        "crc32": "d22c5c36",
+        "sha1": "064e0ad46d48300304adb67d8826258b5fbde553",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "chicken0000unse_f8p5_hocr.html",
+        "mtime": "1652519834",
+        "size": "3531",
+        "md5": "014d7797c4a0c88c0f1ff88d11dab1f1",
+        "crc32": "b25f6bd0",
+        "sha1": "69e808637e149932ac988921ceb149ef6a362059",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "586",
+        "word_conf_11_20": "286",
+        "word_conf_21_30": "354",
+        "word_conf_31_40": "457",
+        "word_conf_41_50": "483",
+        "word_conf_51_60": "528",
+        "word_conf_61_70": "581",
+        "word_conf_71_80": "895",
+        "word_conf_81_90": "2028",
+        "word_conf_91_100": "70875",
+        "format": "OCR Search Text",
+        "original": "chicken0000unse_f8p5_hocr.html",
+        "mtime": "1652519891",
+        "size": "109453",
+        "md5": "a2714b64bc57f60d3ace85bfdcbc8421",
+        "crc32": "e5d60582",
+        "sha1": "665a850a324549522d3fefe041356a7e29fd7612",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "chicken0000unse_f8p5_orig_jp2.tar",
+        "mtime": "1652517135",
+        "size": "163098675",
+        "md5": "42847a604999115397d0fcfed15df377",
+        "crc32": "d2486abc",
+        "sha1": "802969f86398a5bc891d6d7773b0f6803d8fca28",
+        "private": "true",
+        "filecount": "298"
+      },
+      {
+        "name": "chicken0000unse_f8p5_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "chicken0000unse_f8p5.epub",
+        "mtime": "1755477573",
+        "size": "1690714",
+        "md5": "5801eb87bd08096adf66801dadb31417",
+        "crc32": "7497f000",
+        "sha1": "40ba35b4e672b26a2eefb8462873339e0cc9cfe6"
+      },
+      {
+        "name": "chicken0000unse_f8p5_marc.xml",
+        "source": "original",
+        "mtime": "1652458760",
+        "size": "6153",
+        "md5": "e3666c68e036af011cbc6e9cb84efdb0",
+        "crc32": "3e7c2662",
+        "sha1": "c4684cd97abbeeed8762ce195efb13e5972f27a9",
+        "format": "MARC"
+      },
+      {
+        "name": "chicken0000unse_f8p5_meta.mrc",
+        "source": "original",
+        "mtime": "1652458757",
+        "size": "1732",
+        "md5": "8e99a6498fca8013428ec3dcd64dca23",
+        "crc32": "0ce5e60a",
+        "sha1": "36639f312aba4653aebd61de8cf52e4a1bfef34b",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "chicken0000unse_f8p5_meta.sqlite",
+        "source": "original",
+        "mtime": "1652511982",
+        "size": "45056",
+        "md5": "eb589dea8578c5c03489de646a4f5a73",
+        "crc32": "825d78a4",
+        "sha1": "cde1699598024e982c736560dc87348f64e94fcb",
+        "format": "Metadata"
+      },
+      {
+        "name": "chicken0000unse_f8p5_meta.xml",
+        "source": "original",
+        "mtime": "1755477573",
+        "size": "3296",
+        "md5": "923645e9591ecf260a9a52734b109541",
+        "crc32": "ca609226",
+        "sha1": "4d62e76be28cb4a2f359eb5fcdb956433f39c7eb",
+        "format": "Metadata"
+      },
+      {
+        "name": "chicken0000unse_f8p5_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "original": "chicken0000unse_f8p5_preimage.zip",
+        "mtime": "1652511979",
+        "size": "429137920",
+        "md5": "9f61c18eb8af441cffbc7b980e579a0c",
+        "crc32": "f20d22e1",
+        "sha1": "e8fcbb80a6bc6208741af6e56f78094c47357fc5",
+        "private": "true",
+        "filecount": "298"
+      },
+      {
+        "name": "chicken0000unse_f8p5_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "chicken0000unse_f8p5_hocr.html",
+        "mtime": "1718559251",
+        "size": "49721",
+        "md5": "53f5236b9274bbb6113d62e2accd82fb",
+        "crc32": "6ed218e0",
+        "sha1": "1cc1b46355db70b23cde755bcd30b209e01cb4a4",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_repub_final.log",
+        "source": "derivative",
+        "republisher_deriver_version": "0.0.12",
+        "confidence_accurate": "False",
+        "crops_accurate": "False",
+        "initial_crop_confidence": "100",
+        "format": "RePublisher Final Processing Log",
+        "original": "chicken0000unse_f8p5_scandata.xml",
+        "mtime": "1652525593",
+        "size": "82801",
+        "md5": "331999820b515c7a3afce62faf02659d",
+        "crc32": "42b85b7d",
+        "sha1": "055fed1a7f90e1b7a29b29b204edd7ac080b7cc7",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_repub_initial.log",
+        "source": "derivative",
+        "republisher_deriver_version": "0.0.12",
+        "format": "RePublisher Initial Processing Log",
+        "original": "chicken0000unse_f8p5_preimage.zip",
+        "mtime": "1652474895",
+        "size": "27",
+        "md5": "08ec62964ef5fd9ce32e032e552b9d58",
+        "crc32": "2960f426",
+        "sha1": "40d9163175b1d24f4b2d6c4c44067eb0bf6af787",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "original": "chicken0000unse_f8p5_preimage.zip",
+        "mtime": "1652525245",
+        "size": "317117",
+        "md5": "84e490d174294b4050818622a0c02b75",
+        "crc32": "82ee1406",
+        "sha1": "23c81d89a9f4b85f00d28e241ba8934be8eec339"
+      },
+      {
+        "name": "chicken0000unse_f8p5_slip.png",
+        "source": "original",
+        "mtime": "1652457343",
+        "size": "39850",
+        "md5": "aa890bca1c2c08b910dc6349fd326bce",
+        "crc32": "f875a6d7",
+        "sha1": "1f5d9575a55de433cfe51971666b777488bf9d33",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "chicken0000unse_f8p5_slip.png",
+        "mtime": "1652471364",
+        "size": "8234",
+        "md5": "d7dd363a1aaa675a29ea24839b2b5482",
+        "crc32": "df48e30e",
+        "sha1": "225cf02cd069987cf79c9334fde70a1d6c452b49",
+        "private": "true"
+      },
+      {
+        "name": "chicken0000unse_f8p5_thumb_avif.zip",
+        "source": "original",
+        "format": "AVIF Thumbnails ZIP",
+        "original": "chicken0000unse_f8p5_preimage.zip",
+        "mtime": "1652474895",
+        "size": "20568557",
+        "md5": "dbd332597a08b7de200c1b3740c08b5d",
+        "crc32": "dd7764fb",
+        "sha1": "c7ef55809db3361657aad4b8bc0517fafd130b98",
+        "private": "true",
+        "filecount": "298"
+      },
+      {
+        "name": "chicken0000unse_f8p5_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "chicken0000unse_f8p5_djvu.xml",
+        "mtime": "1652519967",
+        "size": "499",
+        "md5": "7a6f1737ced445baafe19fe2fb5bf309",
+        "crc32": "7b87f492",
+        "sha1": "b8b9cb9dd702eca0b2a707c858724b0701c81624",
+        "private": "true"
+      },
+      {
+        "name": "logs/chicken0000unse_f8p5_iabdash_2022-05-1400:19:22.log",
+        "source": "original",
+        "mtime": "1652458765",
+        "size": "1346",
+        "md5": "a9bb6117a3c7a2bcb8485e39789b8280",
+        "crc32": "a4ca8b52",
+        "sha1": "b753053c61d5cb7a3e98882279698c222c0667c4",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/chicken0000unse_f8p5_scanning_2022-05-1400:19:30.log",
+        "source": "original",
+        "mtime": "1652458775",
+        "size": "1298539",
+        "md5": "596b09ad5d620096ad1cf5c957cb1026",
+        "crc32": "63f59b7f",
+        "sha1": "32df276cf76777e73bfd75887d769e68534fa8b0",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/chicken0000unse_f8p5_status_history_2022-05-1400:19:26.log",
+        "source": "original",
+        "mtime": "1652458769",
+        "size": "554",
+        "md5": "27591bd21afe8a934d052b67aa7e9492",
+        "crc32": "6e4f047c",
+        "sha1": "3d639e4e757eeebcac0870a64fef8f6a8664f14e",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 33,
+    "item_last_updated": 1755477573,
+    "item_size": 712333238,
+    "metadata": {
+      "identifier": "chicken0000unse_f8p5",
+      "associated-names": "Heiken, Sharyl; Hutchinson, Rosemary",
+      "boxid": "IA40487716",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2003-01-01",
+      "description": [
+        "288 pages : 29 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "0696216744",
+        "9780696216749"
+      ],
+      "language": "eng",
+      "lccn": "2002011438",
+      "mediatype": "texts",
+      "oclc-id": [
+        "52099166",
+        "1234441713",
+        "1237129721"
+      ],
+      "old_pallet": "IA-NS-0000957",
+      "openlibrary_edition": "OL11184214M",
+      "openlibrary_work": "OL8329410W",
+      "operator": "associate-carltissa-barrientos@archive.org",
+      "publisher": "Des Moines, Iowa : Grand Avenue Books",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station58.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780696216749",
+      "subject": [
+        "Cooking (Chicken)",
+        "Entrées (Cooking)"
+      ],
+      "title": "Chicken ",
+      "tts_version": "5.0-Initial-106-gf3bd5610",
+      "uploader": "station58.cebu@archive.org",
+      "publicdate": "2022-05-13 15:56:33",
+      "access-restricted-item": "true",
+      "identifier-access": "http://archive.org/details/chicken0000unse_f8p5",
+      "identifier-ark": "ark:/13960/s25td54c74g",
+      "scandate": "20220513204815",
+      "imagecount": "298",
+      "autocrop_version": "0.0.12_books-20220331-0.2",
+      "ppi": "360",
+      "republisher_operator": "associate-rochelle-sesaldo@archive.org",
+      "republisher_date": "20220514143828",
+      "republisher_time": "348",
+      "foldoutcount": "0",
+      "bookplateleaf": "0004",
+      "ocr": "tesseract 5.0.0-1-g862e",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.15",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9683",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "100",
+      "pdf_module_version": "0.0.18",
+      "external-identifier": [
+        "urn:acs6:chicken0000unse_f8p5:pdf:5db85e98-b1ea-408b-ba20-17082200d109",
+        "urn:oclc:record:1319185497",
+        "urn:lcp:chicken0000unse_f8p5:lcpdf:d58787a1-d7af-4cb0-b721-9d4f22c171a0",
+        "urn:lcp:chicken0000unse_f8p5:epub:ca6f9202-ddd0-4a7d-bd4c-2fccb848831f"
+      ],
+      "addeddate": "2022-05-14 14:15:42",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20220531",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "2003-01-01"
+      ]
+    },
+    "server": "ia600407.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40607018"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 04:27:07.323611"
+        }
+      }
+    },
+    "uniq": 90981154,
+    "workable_servers": [
+      "ia600407.us.archive.org",
+      "ia800407.us.archive.org"
+    ]
+  }
+}

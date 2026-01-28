@@ -1,0 +1,500 @@
+{
+  "source": "internet_archive",
+  "identifier": "mexicanfiesta0000unse",
+  "title": "Mexican fiesta",
+  "creator": "None",
+  "year": 2007,
+  "subject": "Cooking, Mexican",
+  "description": [
+    "46 pages : 18 cm",
+    "On board pages"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/mexicanfiesta0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/mexicanfiesta0000unse"
+        }
+      ]
+    },
+    "created": 1758558693,
+    "d1": "ia601808.us.archive.org",
+    "d2": "ia801808.us.archive.org",
+    "dir": "/11/items/mexicanfiesta0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660653153",
+        "size": "23073",
+        "md5": "7b4bb92f6591d9d43e4eea6442491ae3",
+        "crc32": "39467fba",
+        "sha1": "8b53ff7f1bc035768ce62914ca011c335f527f49",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/mexicanfiesta0000unse_iabdash_2018-11-0813:41:25.log",
+        "source": "original",
+        "mtime": "1541655693",
+        "size": "1313",
+        "md5": "9ad37774de368a2b3cba699282012eaf",
+        "crc32": "fe7d2576",
+        "sha1": "ca7896c8c8d1d539bbe6b9c37bb8af52becc9a9a",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/mexicanfiesta0000unse_scanning_2018-11-0813:41:13.log",
+        "source": "original",
+        "mtime": "1541655689",
+        "size": "115129",
+        "md5": "e34b2d0a2e299fe2bbf1751566f00ba9",
+        "crc32": "cff059af",
+        "sha1": "7254faef4a335536add9c2a50a6b3b04f18c646c",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "mexicanfiesta0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "mexicanfiesta0000unse_hocr.html",
+        "mtime": "1757056404",
+        "size": "13682119",
+        "private": "true",
+        "md5": "7dd059ebbde7d6f412ed4939d1d2354b",
+        "crc32": "b70e7851",
+        "sha1": "766993d111a86d0d97868aa901fb6ae8d5532114"
+      },
+      {
+        "name": "mexicanfiesta0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "mexicanfiesta0000unse.pdf",
+        "mtime": "1757056204",
+        "size": "3941762",
+        "md5": "e99cbfce268ab902b903a8745d43facc",
+        "crc32": "f23183f7",
+        "sha1": "7a4ca93c4365bb6041a79ad2be7f342e41bd5e1b"
+      },
+      {
+        "name": "mexicanfiesta0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "mexicanfiesta0000unse_page_numbers.json",
+        "mtime": "1715842053",
+        "size": "3510395",
+        "md5": "0cc8a3c8539a5f420ced7d1f5bc5c15b",
+        "crc32": "a21f6599",
+        "sha1": "e30d1f68620a824973f4ca704989bd72c3c91f71",
+        "private": "true"
+      },
+      {
+        "name": "mexicanfiesta0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "mexicanfiesta0000unse_jp2.zip",
+        "mtime": "1542687663",
+        "size": "591241",
+        "md5": "dcea5a98c0018905b4d0b8b3492dac44",
+        "crc32": "a60bff74",
+        "sha1": "54f7f3a666b82e81d5ab8091d160df63d8e9c3be",
+        "private": "true"
+      },
+      {
+        "name": "mexicanfiesta0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "mexicanfiesta0000unse_abbyy.gz",
+        "mtime": "1660652867",
+        "size": "461566",
+        "md5": "84eb9de95c7c124203295d868a272567",
+        "crc32": "21ad9b42",
+        "sha1": "18e556d4b7e958feada3b4f904c7f2a3a3ecb8a0",
+        "private": "true"
+      },
+      {
+        "name": "mexicanfiesta0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "mexicanfiesta0000unse_scandata.xml",
+        "mtime": "1670661783",
+        "size": "775",
+        "md5": "a418794728d0e05bea5e7ab7dafa1092",
+        "crc32": "0a9bb6bc",
+        "sha1": "fae7b6ee86a481f888550d81df01b547d04579b8",
+        "private": "true"
+      },
+      {
+        "name": "mexicanfiesta0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660652748",
+        "size": "1111",
+        "md5": "3b17e8fa73ad97288cf334c0e4a21a82",
+        "crc32": "eb03b797",
+        "sha1": "2da7a9da6223ff36c0e400680159f12fa117853d"
+      },
+      {
+        "name": "mexicanfiesta0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "mexicanfiesta0000unse_djvu.xml",
+        "mtime": "1660653145",
+        "size": "41297",
+        "md5": "81ab08181364c91687bc58cd9ecb7945",
+        "crc32": "d2b222c9",
+        "sha1": "a98378b7b51c4254265b9c4a4a646c044a84242c",
+        "private": "true"
+      },
+      {
+        "name": "mexicanfiesta0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "mexicanfiesta0000unse_hocr.html",
+        "mtime": "1660653023",
+        "size": "511346",
+        "md5": "66c0a8a8d700c68be8a9416bb8891e8d",
+        "crc32": "54ad7915",
+        "sha1": "eae102d4c8c76d12d429415e59cb27c1446a38dd",
+        "private": "true"
+      },
+      {
+        "name": "mexicanfiesta0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "mexicanfiesta0000unse_abbyy.gz",
+        "mtime": "1542687831",
+        "size": "4961908",
+        "md5": "e861af7764fb197660907ad353834a88",
+        "crc32": "b714ab23",
+        "sha1": "29ff9f54d1cb129484e2e23632ad386235fb518e"
+      },
+      {
+        "name": "mexicanfiesta0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "mexicanfiesta0000unse.pdf",
+        "mtime": "1715842778",
+        "size": "3475450",
+        "md5": "832f02af4bd300e90d0116c27328b77c",
+        "crc32": "5e21fa6b",
+        "sha1": "c336e81f45de1433d336d5e0885e99e7b554ecf5"
+      },
+      {
+        "name": "mexicanfiesta0000unse_events.json",
+        "source": "original",
+        "mtime": "1542686452",
+        "size": "52",
+        "md5": "f17577b7d72ed4462401f438666153ea",
+        "crc32": "61055bdd",
+        "sha1": "91bfd76e4e50dd56bac83c381252a01cd6a70789",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "mexicanfiesta0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "49d2e01c576fbd9b9123accedb6b575c",
+        "summation": "md5"
+      },
+      {
+        "name": "mexicanfiesta0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "mexicanfiesta0000unse_chocr.html.gz",
+        "mtime": "1660652994",
+        "size": "1126177",
+        "md5": "c3378d62ea414b57e54d74f3283b12c4",
+        "crc32": "d001977b",
+        "sha1": "503940498b7e57e7b889e806e084dfd644eaeadc",
+        "private": "true"
+      },
+      {
+        "name": "mexicanfiesta0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "mexicanfiesta0000unse_hocr.html",
+        "mtime": "1660653054",
+        "size": "555",
+        "md5": "ee50a4b5c6543020612133dcc7981200",
+        "crc32": "b7bb88c2",
+        "sha1": "7185b87ad48257ec5e94a7146000f3bd30c8c5e7",
+        "private": "true"
+      },
+      {
+        "name": "mexicanfiesta0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "98",
+        "word_conf_11_20": "61",
+        "word_conf_21_30": "87",
+        "word_conf_31_40": "121",
+        "word_conf_41_50": "105",
+        "word_conf_51_60": "140",
+        "word_conf_61_70": "203",
+        "word_conf_71_80": "517",
+        "word_conf_81_90": "1299",
+        "word_conf_91_100": "3370",
+        "format": "OCR Search Text",
+        "original": "mexicanfiesta0000unse_hocr.html",
+        "mtime": "1660653113",
+        "size": "10790",
+        "md5": "648427b394f9eb6407ff3f7efae69be7",
+        "crc32": "1a1d04a0",
+        "sha1": "c42268f92b88df3b2dff742dd4f3528107776af4",
+        "private": "true"
+      },
+      {
+        "name": "mexicanfiesta0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "mexicanfiesta0000unse_orig_jp2.tar",
+        "mtime": "1542687462",
+        "size": "22645413",
+        "md5": "0e9e3c1ae675c0460e2bb82e11e2e138",
+        "crc32": "71354ae8",
+        "sha1": "68f2569df46934c584c6049d6e64fc3c4ff60ac6",
+        "private": "true",
+        "filecount": "50"
+      },
+      {
+        "name": "mexicanfiesta0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "mexicanfiesta0000unse.epub",
+        "mtime": "1757056556",
+        "size": "13808194",
+        "md5": "dc16e71cc430a668f92f60628bbd8a26",
+        "crc32": "ea548283",
+        "sha1": "89acade9e8cb89c346f0dd5d3b55456e88ac81e1"
+      },
+      {
+        "name": "mexicanfiesta0000unse_loans.json",
+        "source": "original",
+        "mtime": "1594099337",
+        "size": "462",
+        "format": "JSON",
+        "private": "true",
+        "md5": "35d33dd8fee09d05a0989a2523aeec55",
+        "crc32": "bd3bd34b",
+        "sha1": "bea9738b3d5e6edc8fbc6f377e526875f67d1c74"
+      },
+      {
+        "name": "mexicanfiesta0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1660652747",
+        "size": "4122",
+        "format": "MARC",
+        "md5": "f11ffa65a32491cac4c263298a9574dd",
+        "crc32": "967d2554",
+        "sha1": "90de4a46e39526619bb0a43a8a44beb4862bc148"
+      },
+      {
+        "name": "mexicanfiesta0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1541655706",
+        "size": "1137",
+        "md5": "56c033b12dd137e8ac6193b7da5a23f8",
+        "crc32": "fcf987c5",
+        "sha1": "594b7840b4e0a1c4cbbbcb1c47a0b690635d92de",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "mexicanfiesta0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1542686682",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "971f29f1c044e5aae2f95f077f3944ed",
+        "crc32": "8f1ab760",
+        "sha1": "fdb2a2298b755d65afd12856f24eb6ac5ca7f2dc"
+      },
+      {
+        "name": "mexicanfiesta0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1757056556",
+        "size": "2817",
+        "format": "Metadata",
+        "md5": "ac253dbff1b71d03ddfc1fa5e91b8265",
+        "crc32": "70cf2b3c",
+        "sha1": "6c195ed16a269edd645363c44436d523efc42c52"
+      },
+      {
+        "name": "mexicanfiesta0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1542686681",
+        "size": "72960000",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "fb42bd46e05e10621f070f028ead2552",
+        "crc32": "310df3b5",
+        "sha1": "46463429cdd6406e9c73b19f8ac7346542ede9fa",
+        "filecount": "50"
+      },
+      {
+        "name": "mexicanfiesta0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "60",
+        "format": "Page Numbers JSON",
+        "original": "mexicanfiesta0000unse_hocr.html",
+        "mtime": "1715842049",
+        "size": "8268",
+        "md5": "bc95796f54e55185e973550d4bf0ed60",
+        "crc32": "099751e2",
+        "sha1": "3a0c002ab58e71c5217db846e9d4a5ee831650ee",
+        "private": "true"
+      },
+      {
+        "name": "mexicanfiesta0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670661783",
+        "size": "51561",
+        "format": "Scandata",
+        "md5": "1371eaaef8082cdb266f0ca52ba08ae4",
+        "crc32": "54835911",
+        "sha1": "73dee7454478c43b3f95471a93d69919beb47b46"
+      },
+      {
+        "name": "mexicanfiesta0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "mexicanfiesta0000unse_djvu.xml",
+        "mtime": "1670661765",
+        "size": "646",
+        "md5": "57ec0186ff581525cf4ec2f70d3e03ac",
+        "crc32": "22533ccd",
+        "sha1": "b20bc8b39eefd5e18a4ac23292e5d8e8199580d7",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1757056556,
+    "item_size": 141955063,
+    "metadata": {
+      "identifier": "mexicanfiesta0000unse",
+      "boxid": "IA1383417",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "None",
+      "creator-alt-script": "None",
+      "date": "2007-01-01",
+      "description": [
+        "46 pages : 18 cm",
+        "On board pages"
+      ],
+      "isbn": [
+        "9781412725774",
+        "1412725771"
+      ],
+      "language": "eng",
+      "lccn": "2010283704",
+      "mediatype": "texts",
+      "old_pallet": "IA15556",
+      "operator": "associate-carla-igot@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International, Ltd.",
+      "repub_state": "19",
+      "scanner": "station02.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "title": "Mexican fiesta",
+      "title-alt-script": "None",
+      "tts_version": "v1.61-final",
+      "uploader": "station02.cebu@archive.org",
+      "addeddate": "2018-11-08 05:41:05",
+      "publicdate": "2018-11-08 05:43:39",
+      "imagecount": "50",
+      "scandate": "20181108063304",
+      "subject": "Cooking, Mexican",
+      "republisher_operator": "associate-carla-igot@archive.org",
+      "republisher_date": "20181120120048",
+      "republisher_time": "665",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/mexicanfiesta0000unse",
+      "identifier-ark": "ark:/13960/t9772vp1d",
+      "external-identifier": [
+        "urn:acs6:mexicanfiesta0000unse:epub:dba0a375-6dba-41ff-ab82-de37b45a1bcf",
+        "urn:acs6:mexicanfiesta0000unse:pdf:0b3b609d-9082-4a92-ad30-55ffab552201",
+        "urn:lcp:mexicanfiesta0000unse:lcpdf:a243f0be-bf00-4047-a1d4-799465a5d495",
+        "urn:lcp:mexicanfiesta0000unse:epub:d0a4b60a-bdbb-4cec-b0f7-7485e856b6c6"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20181130",
+      "access-restricted-item": "true",
+      "backup_location": "ia906803_32",
+      "openlibrary_work": "OL23309518W",
+      "openlibrary_edition": "OL31157151M",
+      "oclc-id": [
+        "848242050",
+        "175304356"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "60",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia801808.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40759419"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2024-01-29 05:43:06.439179"
+        }
+      }
+    },
+    "uniq": 1590913504,
+    "workable_servers": [
+      "ia801808.us.archive.org",
+      "ia601808.us.archive.org"
+    ]
+  },
+  "institution": "None",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

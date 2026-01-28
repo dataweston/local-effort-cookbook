@@ -1,0 +1,471 @@
+{
+  "source": "internet_archive",
+  "identifier": "woodallsfavorite00emer",
+  "title": "Woodall's favorite recipes from America's campgrounds",
+  "creator": "Emerson, Ann",
+  "year": 1989,
+  "subject": "Outdoor cookery",
+  "description": null,
+  "metadata": {
+    "created": 1758556176,
+    "d1": "ia904607.us.archive.org",
+    "d2": "ia804607.us.archive.org",
+    "dir": "/29/items/woodallsfavorite00emer",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661322379",
+        "size": "18194",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "b51f4db67245a93f5f9bd6374119b089",
+        "crc32": "e6cf7df9",
+        "sha1": "332a051cd1c223ec1d92fc25851f806fc38763f3"
+      },
+      {
+        "name": "woodallsfavorite00emer.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "woodallsfavorite00emer_jp2.zip",
+        "md5": "db6b8171d350839ba46085ddf8a58bad",
+        "mtime": "1268783045",
+        "size": "368551",
+        "crc32": "adc90e9b",
+        "sha1": "6a52f047ba4a296c1fd46fa92c9c05728b839d71"
+      },
+      {
+        "name": "woodallsfavorite00emer.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "woodallsfavorite00emer.pdf",
+        "mtime": "1720328646",
+        "size": "14763462",
+        "md5": "4ad98097b12ef5e9da0e88a941b2a2f5",
+        "crc32": "ce91a09b",
+        "sha1": "47765730dfadb89a406d512b0346f86ceb2aae2d"
+      },
+      {
+        "name": "woodallsfavorite00emer.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "woodallsfavorite00emer_page_numbers.json",
+        "mtime": "1720325877",
+        "size": "13811284",
+        "md5": "45ef7804b465b639472bb709f0344313",
+        "crc32": "be339a98",
+        "sha1": "6b0ecf38a385ff86e1dabeaf8aebf0a0469a9030",
+        "private": "true"
+      },
+      {
+        "name": "woodallsfavorite00emer_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "woodallsfavorite00emer_jp2.zip",
+        "md5": "f42b2eed1cb7496609678856fc76ebaa",
+        "mtime": "1268791154",
+        "size": "6686273",
+        "crc32": "25d3ab64",
+        "sha1": "0affd3459ab3b46108124d747487d13c9b55fd18",
+        "private": "true"
+      },
+      {
+        "name": "woodallsfavorite00emer_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "woodallsfavorite00emer_abbyy.gz",
+        "mtime": "1661321471",
+        "size": "5586660",
+        "md5": "95159ae1394c753a92556df8237fd359",
+        "crc32": "dd528b72",
+        "sha1": "ec70f6ec4efca2c4298e68bf1af4ff783a3e4342",
+        "private": "true"
+      },
+      {
+        "name": "woodallsfavorite00emer_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "woodallsfavorite00emer_scandata.xml",
+        "mtime": "1671870581",
+        "size": "779",
+        "md5": "b7605522fa7cef93c8c15570cc6ae308",
+        "crc32": "daad7b9c",
+        "sha1": "7ce90300bea5617133a748a2341365a06eada5dc",
+        "private": "true"
+      },
+      {
+        "name": "woodallsfavorite00emer_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "cd1b775642296af39b49603bed4ef5c8",
+        "mtime": "1267462310",
+        "size": "613",
+        "crc32": "cc7e295f",
+        "sha1": "e30737dc75f787d21eae299df9a7ab9b257deaa0"
+      },
+      {
+        "name": "woodallsfavorite00emer_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "woodallsfavorite00emer_djvu.xml",
+        "mtime": "1720328304",
+        "size": "522572",
+        "md5": "e47351e65ecb845b078d4f2b5a5505d6",
+        "crc32": "cf7345f6",
+        "sha1": "14d8ad5523fccef2c4e59e740c9ffc9f7d237cfd",
+        "private": "true"
+      },
+      {
+        "name": "woodallsfavorite00emer_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "woodallsfavorite00emer_hocr.html",
+        "mtime": "1720321371",
+        "size": "6344642",
+        "md5": "bf95a0fd33fa03dd2eac69cfe60704e2",
+        "crc32": "0234ce53",
+        "sha1": "1dd3b2398860cddf06e1ea10a9d1c7038015f32d",
+        "private": "true"
+      },
+      {
+        "name": "woodallsfavorite00emer_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "woodallsfavorite00emer.pdf",
+        "mtime": "1720328309",
+        "size": "13749132",
+        "md5": "ce962eadbe2a4ee43953c19833c4d4d0",
+        "crc32": "61b2f980",
+        "sha1": "db63edbdcfd756b0f49006236991fe6dce8ed5bc"
+      },
+      {
+        "name": "woodallsfavorite00emer_files.xml",
+        "source": "metadata",
+        "format": "Metadata",
+        "md5": "76e6602a3e3a8236133a471c83fcdf48",
+        "summation": "md5"
+      },
+      {
+        "name": "woodallsfavorite00emer_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "woodallsfavorite00emer_chocr.html.gz",
+        "mtime": "1661322172",
+        "size": "12311001",
+        "md5": "33c056974f7775054d7ecf15b7a22546",
+        "crc32": "7b1e8cc5",
+        "sha1": "0b871872ed6a498728c5ec85c8ce8ac204dc1457",
+        "private": "true"
+      },
+      {
+        "name": "woodallsfavorite00emer_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "woodallsfavorite00emer_hocr.html",
+        "mtime": "1661322282",
+        "size": "2970",
+        "md5": "0488ed25084a7f908d99be0e6b5fd601",
+        "crc32": "3a744f6d",
+        "sha1": "3e1c22c9bd1f516bcc94788bb942f95c1a8df63c",
+        "private": "true"
+      },
+      {
+        "name": "woodallsfavorite00emer_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "3093",
+        "word_conf_11_20": "2954",
+        "word_conf_21_30": "6390",
+        "word_conf_31_40": "7117",
+        "word_conf_41_50": "13703",
+        "word_conf_51_60": "14238",
+        "word_conf_61_70": "14579",
+        "word_conf_71_80": "7717",
+        "word_conf_81_90": "2556",
+        "word_conf_91_100": "4873",
+        "format": "OCR Search Text",
+        "original": "woodallsfavorite00emer_hocr.html",
+        "mtime": "1661322346",
+        "size": "170119",
+        "md5": "5baa163ea22c4f889bad6bf53afff7e2",
+        "crc32": "b131b3c8",
+        "sha1": "6bfee691ba26274fcd9bf49f56a139fd5188b797",
+        "private": "true"
+      },
+      {
+        "name": "woodallsfavorite00emer_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "woodallsfavorite00emer_orig_jp2.tar",
+        "md5": "29dac1463f9572a4f8fae080940d56fe",
+        "mtime": "1268783018",
+        "size": "116966006",
+        "crc32": "196f17a1",
+        "sha1": "cff195a9f0bbbe625d7640add556b2735d743e87",
+        "private": "true",
+        "filecount": "250"
+      },
+      {
+        "name": "woodallsfavorite00emer_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "woodallsfavorite00emer_hocr.html",
+        "mtime": "1671870241",
+        "size": "10780625",
+        "md5": "e7675bb63ccc90831cbbbd6a77d58f24",
+        "crc32": "d4a4ef67",
+        "sha1": "8f5dad384cbd5cea4857efc29b78ea918d57a7fb"
+      },
+      {
+        "name": "woodallsfavorite00emer_loans.json",
+        "source": "original",
+        "mtime": "1593003084",
+        "size": "1511",
+        "format": "JSON",
+        "private": "true",
+        "md5": "b6df7e46f2747b5d9e1a87fce9f88eda",
+        "crc32": "3d89251f",
+        "sha1": "d510b60b3602d1b94c48deb23b251562cb7e69f1"
+      },
+      {
+        "name": "woodallsfavorite00emer_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "ada89c7d1008556488fde381752deb52",
+        "mtime": "1267462310",
+        "size": "3253",
+        "crc32": "f85b52a0",
+        "sha1": "2419b50820169ace88305d8bc7b0911ef00c7e24"
+      },
+      {
+        "name": "woodallsfavorite00emer_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "woodallsfavorite00emer_xisbn.json",
+        "mtime": "1454827912",
+        "size": "312",
+        "md5": "261ec4c2af8d336862f28d89a46f14da",
+        "crc32": "bc95c5c7",
+        "sha1": "9cdc91491e0aa3fbf9459381634112103281fd12",
+        "private": "true"
+      },
+      {
+        "name": "woodallsfavorite00emer_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "40256cb714d2727fd18fbd49b0e55547",
+        "mtime": "1267462310",
+        "size": "988",
+        "crc32": "5196ccb0",
+        "sha1": "322d82630d36fc1ee2c1400e0455c3556000e6cd"
+      },
+      {
+        "name": "woodallsfavorite00emer_meta.sqlite",
+        "source": "original",
+        "mtime": "1466317951",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "d3bb37c2fd35b33fd442d7b37094764f",
+        "crc32": "985d29ab",
+        "sha1": "16903224e50208d4cb2e3d662d4c05727edd89b4"
+      },
+      {
+        "name": "woodallsfavorite00emer_meta.xml",
+        "source": "metadata",
+        "format": "Metadata",
+        "mtime": "1727157030",
+        "size": "2929",
+        "md5": "a2c1a9a0f1d9399b5d91248a89e3b7ef",
+        "crc32": "7524ebe0",
+        "sha1": "2e7d4802812b5c1cd4159e88468f9dad5d8218d9"
+      },
+      {
+        "name": "woodallsfavorite00emer_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "b21509763b4d935ef05bf6c559c28305",
+        "mtime": "1267462310",
+        "size": "398",
+        "crc32": "7a446ab8",
+        "sha1": "1ee939034a7874564a7b95951ccccbc8dbf2f22a"
+      },
+      {
+        "name": "woodallsfavorite00emer_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "7cb98996c04df688be3f4497c2fc5342",
+        "mtime": "1268677611",
+        "size": "317214720",
+        "crc32": "39699ee6",
+        "sha1": "e427caa46e11482fd6ac270ceb8145be44a7cbed",
+        "private": "true",
+        "filecount": "250"
+      },
+      {
+        "name": "woodallsfavorite00emer_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "96",
+        "format": "Page Numbers JSON",
+        "original": "woodallsfavorite00emer_hocr.html",
+        "mtime": "1720321838",
+        "size": "41500",
+        "md5": "7b3b67d0972f5a7670b3ea7ded969f97",
+        "crc32": "029946c1",
+        "sha1": "6f5955c7d4e0c04b67ad2682d278f7944394e382",
+        "private": "true"
+      },
+      {
+        "name": "woodallsfavorite00emer_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "89d159b843e0ade712b4a7712928a1a0",
+        "mtime": "1671870581",
+        "size": "130002",
+        "crc32": "a2d822a1",
+        "sha1": "0250c7ca51a3f7e55e07ead9569a9b1c01fb2855"
+      },
+      {
+        "name": "woodallsfavorite00emer_xisbn.json",
+        "source": "original",
+        "mtime": "1454826689",
+        "size": "344",
+        "md5": "0bcf780b0b417f4ad7051326ab3fdebc",
+        "crc32": "36ed5d57",
+        "sha1": "94ecdb76c9683a8495ee0ba07fb93223353ae439",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 28,
+    "item_last_updated": 1727157030,
+    "item_size": 519484984,
+    "metadata": {
+      "title": "Woodall's favorite recipes from America's campgrounds",
+      "creator": [
+        "Emerson, Ann",
+        "Woodall Publishing Company"
+      ],
+      "subject": "Outdoor cookery",
+      "publisher": "Bannockburn, IL : Woodall Pub.",
+      "date": "1989-01-01",
+      "language": "eng",
+      "isbn": [
+        "0671688588",
+        "9780671688585"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA110124",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "la",
+      "mediatype": "texts",
+      "updatedate": "2010-03-01 16:51:51",
+      "updater": "LineK",
+      "identifier": "woodallsfavorite00emer",
+      "uploader": "line@archive.org",
+      "addeddate": "2010-03-01 16:51:53",
+      "publicdate": "2010-03-01 16:51:56",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-angela-chance@archive.org",
+      "scanner": "scribe7.la.archive.org",
+      "scandate": "20100315181652",
+      "imagecount": "248",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/woodallsfavorite00emer",
+      "identifier-ark": "ark:/13960/t16m3wr6s",
+      "bookplateleaf": "0002",
+      "curation": "[curator]kellycritch@archive.org[/curator][date]20100402191059[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:woodallsfavorite00emer:pdf:5222935b-8ce0-47f6-97ef-eac6c2cdc696",
+        "urn:acs6:woodallsfavorite00emer:epub:1f05c82b-b1d7-4b22-8f83-d4af17a9539d",
+        "urn:oclc:record:1036922700",
+        "urn:lcp:woodallsfavorite00emer:lcpdf:f9ccbdd3-34b8-4d57-94bc-33e58e2eae1d",
+        "urn:lcp:woodallsfavorite00emer:epub:51c564dd-0a30-4699-9f78-26b60efb8467"
+      ],
+      "donor": "alibris",
+      "city": "Bannockburn, IL",
+      "oclc-id": "20212183",
+      "lccn": "89189801",
+      "backup_location": "ia903604_33",
+      "openlibrary_edition": "OL1792116M",
+      "openlibrary_work": "OL15164951W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Sat Dec 26 19:09:18 UTC 2020",
+        "Wed Apr 3 17:11:03 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "96",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia904607.us.archive.org",
+    "uniq": 2010309075,
+    "workable_servers": [
+      "ia904607.us.archive.org",
+      "ia804607.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/20212183?referer=xid"
+          ],
+          "publisher": "Woodall Pub.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "89189801"
+          ],
+          "lang": "eng",
+          "city": "Bannockburn, IL",
+          "author": "edited by Ann Emerson.",
+          "year": "1989",
+          "isbn": [
+            "0671688588"
+          ],
+          "title": "Woodall's favorite recipes from America's campgrounds",
+          "oclcnum": [
+            "20212183"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Emerson, Ann",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

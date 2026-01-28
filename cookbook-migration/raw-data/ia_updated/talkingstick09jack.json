@@ -1,0 +1,498 @@
+{
+  "source": "internet_archive",
+  "identifier": "talkingstick09jack",
+  "title": "The talking stick",
+  "creator": "Jackpine Writers' Bloc",
+  "year": 2000,
+  "subject": "Cooking",
+  "description": "\"A publication of the Jackpine Writers' Bloc and friends.\"",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/talkingstick09jack"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/talkingstick09jack"
+        }
+      ]
+    },
+    "created": 1758557256,
+    "d1": "ia600202.us.archive.org",
+    "d2": "ia800202.us.archive.org",
+    "dir": "/31/items/talkingstick09jack",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661143302",
+        "size": "19096",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "8fcec52ff30f08f2d3d80afab40afae0",
+        "crc32": "dd5a435f",
+        "sha1": "4257b5fc4cee61d8bb13f0a7185e50f5c2c9c6f1"
+      },
+      {
+        "name": "talkingstick09jack.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "talkingstick09jack_hocr.html",
+        "mtime": "1758423157",
+        "size": "7824538",
+        "private": "true",
+        "md5": "7cbb3bc31cc27ba732890d62b725663e",
+        "crc32": "79b35d8e",
+        "sha1": "9bb5072f001b7dc00409e218f742661b3f1a4197"
+      },
+      {
+        "name": "talkingstick09jack.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "talkingstick09jack_jp2.zip",
+        "mtime": "1314917921",
+        "size": "348690",
+        "md5": "b72b0a04b69589b8fd03eb9bbda2523f",
+        "crc32": "f49c1201",
+        "sha1": "3f58e3ca0cd6433ef9a545379943451f198f5474"
+      },
+      {
+        "name": "talkingstick09jack.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "talkingstick09jack.pdf",
+        "mtime": "1758422998",
+        "size": "8674291",
+        "md5": "d07a7b39227ab392e9e1f6dc44f70dac",
+        "crc32": "7a5492c6",
+        "sha1": "0027e8b305a1c25fd48d3c2b2a589415bb9e1dcb"
+      },
+      {
+        "name": "talkingstick09jack.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "talkingstick09jack_page_numbers.json",
+        "mtime": "1722061578",
+        "size": "8357314",
+        "md5": "75247df0316dcb7ea1021988dfb52d3e",
+        "crc32": "ad2384f6",
+        "sha1": "42fb3bf21355d0d15d7651f6ae9e566b47c474c9",
+        "private": "true"
+      },
+      {
+        "name": "talkingstick09jack_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "talkingstick09jack_jp2.zip",
+        "mtime": "1314933630",
+        "size": "1967744",
+        "md5": "654c45aa8901e1c26e6a0d7fd0dce0d3",
+        "crc32": "96ecd137",
+        "sha1": "efa6488bdb2df341b0e838cd2150045a105a23f3",
+        "private": "true"
+      },
+      {
+        "name": "talkingstick09jack_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "talkingstick09jack_abbyy.gz",
+        "mtime": "1661143219",
+        "size": "1679484",
+        "md5": "24b19488f9b024c9b3f15685a8c8ebc2",
+        "crc32": "b9cef932",
+        "sha1": "d20c9e31ea2505625c04809d21349a7e64c53851",
+        "private": "true"
+      },
+      {
+        "name": "talkingstick09jack_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "talkingstick09jack_scandata.xml",
+        "mtime": "1671412849",
+        "size": "765",
+        "md5": "15b03a342ccb1a67cf27772a3b7cc9ac",
+        "crc32": "2a10e181",
+        "sha1": "fa16b1d4a3fa0c84b667fec12b59ebb171a25a25",
+        "private": "true"
+      },
+      {
+        "name": "talkingstick09jack_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1285163811",
+        "size": "652",
+        "md5": "7da4f43225a711c137d3d9aafd1161f0",
+        "crc32": "5afee841",
+        "sha1": "c3f8b2f80bac0632250e5524b9903a80fdea82d4"
+      },
+      {
+        "name": "talkingstick09jack_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "talkingstick09jack_djvu.xml",
+        "mtime": "1722063344",
+        "size": "156396",
+        "md5": "e762738f1ab516e99482aab8ecbd0511",
+        "crc32": "325ccd5e",
+        "sha1": "c2c7a937ea72ebfd5818928aa3b25ae3788b8096",
+        "private": "true"
+      },
+      {
+        "name": "talkingstick09jack_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "talkingstick09jack_hocr.html",
+        "mtime": "1722059779",
+        "size": "1927168",
+        "md5": "359440feb055760d080fdbe175301d20",
+        "crc32": "824fbae9",
+        "sha1": "054c94b1d257ad3e19d200f8bb81a4f26088bc52",
+        "private": "true"
+      },
+      {
+        "name": "talkingstick09jack_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "talkingstick09jack.pdf",
+        "mtime": "1722063348",
+        "size": "8331944",
+        "md5": "351a92bc3a3676895815c066ab130cec",
+        "crc32": "0d001b4f",
+        "sha1": "ffcf51382b9c3775d4c438087160f487f5589d80"
+      },
+      {
+        "name": "talkingstick09jack_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "f7ab84b49945d3bae65fe26108026956",
+        "summation": "md5"
+      },
+      {
+        "name": "talkingstick09jack_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "talkingstick09jack_chocr.html.gz",
+        "mtime": "1661143271",
+        "size": "3628041",
+        "md5": "2c3c819d61bccac17948b30b0b39abe2",
+        "crc32": "a1f540a0",
+        "sha1": "839624551913721affa9f18f429344d3e737ec0b",
+        "private": "true"
+      },
+      {
+        "name": "talkingstick09jack_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "talkingstick09jack_hocr.html",
+        "mtime": "1661143283",
+        "size": "1166",
+        "md5": "d0c7ea9d2aae58c6061f3ddbf2566190",
+        "crc32": "3e2370d0",
+        "sha1": "05a1b364e3a3edafc2c40298ea71945defdfc6d8",
+        "private": "true"
+      },
+      {
+        "name": "talkingstick09jack_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "916",
+        "word_conf_11_20": "553",
+        "word_conf_21_30": "1176",
+        "word_conf_31_40": "980",
+        "word_conf_41_50": "3497",
+        "word_conf_51_60": "4745",
+        "word_conf_61_70": "5578",
+        "word_conf_71_80": "3402",
+        "word_conf_81_90": "1002",
+        "word_conf_91_100": "1537",
+        "format": "OCR Search Text",
+        "original": "talkingstick09jack_hocr.html",
+        "mtime": "1661143291",
+        "size": "60029",
+        "md5": "8e27545fa9fbe68598c83810d34c4eed",
+        "crc32": "a14cdb5c",
+        "sha1": "d8c4457a2f0c827cda81cd9ae86792481747565e",
+        "private": "true"
+      },
+      {
+        "name": "talkingstick09jack_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "talkingstick09jack_orig_jp2.tar",
+        "mtime": "1314917709",
+        "size": "37161617",
+        "md5": "e5da0330d27f4905bf1c5f83705b0688",
+        "crc32": "bacd0bb6",
+        "sha1": "1dba4d44f7f92312ab2929f81e5a32bc8f479437",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "talkingstick09jack_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "talkingstick09jack.epub",
+        "mtime": "1758423436",
+        "size": "7972349",
+        "md5": "36252ec78813e22ffb1a0af4fe27549f",
+        "crc32": "72a92805",
+        "sha1": "2f3526be144fb54d25699e85159b7c636a73ba8f"
+      },
+      {
+        "name": "talkingstick09jack_loans.json",
+        "source": "original",
+        "mtime": "1592905414",
+        "size": "1489",
+        "format": "JSON",
+        "private": "true",
+        "md5": "14149a3b2ba9c00b0c2a467c769f1df5",
+        "crc32": "564ddcf4",
+        "sha1": "b749f462a48b4e10ebc897b3b1f0acbf58a409de"
+      },
+      {
+        "name": "talkingstick09jack_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1285163811",
+        "size": "3132",
+        "md5": "d17f88d7cf8e12a13665397301244ec7",
+        "crc32": "aeb1eb28",
+        "sha1": "841c471201015f109fb88b869e97461e2afe52a3"
+      },
+      {
+        "name": "talkingstick09jack_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "talkingstick09jack_xisbn.json",
+        "mtime": "1454771743",
+        "size": "237",
+        "md5": "7d5c9b4344ff699744cc5745a3acc6cd",
+        "crc32": "a27b7348",
+        "sha1": "c4d90654cb532883dd01fc92262f442cd43c4c32",
+        "private": "true"
+      },
+      {
+        "name": "talkingstick09jack_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1285163811",
+        "size": "1012",
+        "md5": "7e7038f38b62c6032902967ee250ed32",
+        "crc32": "1ffbe165",
+        "sha1": "ca4367f4508c107a39084726d568733c051a13a0"
+      },
+      {
+        "name": "talkingstick09jack_meta.sqlite",
+        "source": "original",
+        "mtime": "1462634670",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "aac83d8c0a77821039e10492ef55e883",
+        "crc32": "4ceb7060",
+        "sha1": "05f69467500dde0de6d4ec0b22609ca2bb33f16b"
+      },
+      {
+        "name": "talkingstick09jack_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1758423437",
+        "size": "3003",
+        "md5": "a9a858c9b30776b0f21e04047b268c3a",
+        "crc32": "29290b9d",
+        "sha1": "7482e30e0aeeff0394ce1f2fc217fe0b167c7739"
+      },
+      {
+        "name": "talkingstick09jack_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1285163811",
+        "size": "394",
+        "md5": "f22390637f212c3b3536948412f9dd70",
+        "crc32": "d66845b4",
+        "sha1": "90dc26a0e2b8b1cdcad1143ac2a979ab536e8ab6"
+      },
+      {
+        "name": "talkingstick09jack_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1314893535",
+        "size": "47534080",
+        "md5": "741818599a150795b33c38a88575ac28",
+        "crc32": "9ecce483",
+        "sha1": "fb23baf1983796775f3a541eb55cb765a12fe82c",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "talkingstick09jack_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "talkingstick09jack_hocr.html",
+        "mtime": "1722059847",
+        "size": "16794",
+        "md5": "b356e6286264aa7bae6f6bcb9865142b",
+        "crc32": "f6565e7f",
+        "sha1": "dca16a3c19c7b80789e71d1a61b724c8b314e044",
+        "private": "true"
+      },
+      {
+        "name": "talkingstick09jack_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1671412849",
+        "size": "101571",
+        "md5": "353fc6b19987cfbfa01a34cf88fe38ed",
+        "crc32": "0cdd6175",
+        "sha1": "1a9fb594818c3cef26367eed54625f87d94dc1be"
+      },
+      {
+        "name": "talkingstick09jack_xisbn.json",
+        "source": "original",
+        "mtime": "1454770528",
+        "size": "321",
+        "md5": "ba33f688e8058d5f2ed3a66d97426dd1",
+        "crc32": "ede5f09f",
+        "sha1": "e0fe4f31cf3ced2fd042c7ae6236fcf92a4d7200",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1758423437,
+    "item_size": 135779461,
+    "metadata": {
+      "title": "The talking stick",
+      "volume": "9",
+      "creator": "Jackpine Writers' Bloc",
+      "subject": [
+        "Cooking",
+        "Cooking"
+      ],
+      "description": "\"A publication of the Jackpine Writers' Bloc and friends.\"",
+      "publisher": "[Menahga, MN : Jackpine Writers' Bloc]",
+      "date": "2000-01-01",
+      "language": "eng",
+      "isbn": [
+        "1928690017",
+        "9781928690016"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA125723",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-09-22 13:56:50",
+      "updater": "PhanS",
+      "identifier": "talkingstick09jack",
+      "uploader": "phan@archive.org",
+      "addeddate": "2010-09-22 13:56:53",
+      "publicdate": "2010-09-22 13:56:58",
+      "scanner": "scribe6.shenzhen.archive.org",
+      "repub_seconds": "80",
+      "ppi": "514",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-sun@archive.org",
+      "scandate": "20110901161212",
+      "imagecount": "102",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/talkingstick09jack",
+      "identifier-ark": "ark:/13960/t3vt2m72z",
+      "scanfee": "125",
+      "curation": "[curator]scanner-shenzhen-leo@archive.org[/curator][date]20110921091815[/date][state]approved[/state]",
+      "sponsordate": "sent20111010",
+      "donor": "alibris",
+      "external-identifier": [
+        "urn:acs6:talkingstick09jack:pdf:eccbdddd-72a7-473d-9a33-b3331177adb8",
+        "urn:acs6:talkingstick09jack:epub:2bc4d118-fdcb-4e6d-8b78-9c3e42a4a3ca",
+        "urn:oclc:record:1036953545",
+        "urn:lcp:talkingstick09jack:lcpdf:e7c152d3-e8f6-4e93-a538-d2ebcb0371e7",
+        "urn:lcp:talkingstick09jack:epub:5be51aa3-deca-4429-b5c6-916abfd77940"
+      ],
+      "city": "[Menahga, MN",
+      "oclc-id": "61719807",
+      "backup_location": "ia903606_17",
+      "openlibrary_edition": "OL12296655M",
+      "openlibrary_work": "OL9884201W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Sat Dec 26 10:36:23 UTC 2020",
+        "Wed Apr 3 14:46:25 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia800202.us.archive.org",
+    "uniq": 1529590226,
+    "workable_servers": [
+      "ia800202.us.archive.org",
+      "ia600202.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/61719807?referer=xid"
+          ],
+          "publisher": "Jackpine Writers' Bloc]",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[Menahga, MN",
+          "author": "original works by Minnesota writers & artists.",
+          "year": "2000",
+          "isbn": [
+            "1928690017"
+          ],
+          "title": "The talking stick.",
+          "oclcnum": [
+            "61719807"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Jackpine Writers' Bloc",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Minnesota"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Minnesota; Digitized scan available"
+}

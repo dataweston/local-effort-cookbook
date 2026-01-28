@@ -1,0 +1,484 @@
+{
+  "source": "internet_archive",
+  "identifier": "lunchboxbook0000stan",
+  "title": "The lunchbox book",
+  "creator": "Stanway, Penny",
+  "year": 2001,
+  "subject": [
+    "Lunchbox cooking",
+    "Children -- Nutrition"
+  ],
+  "description": "62 pages : 19 cm",
+  "metadata": {
+    "created": 1758557135,
+    "d1": "ia601807.us.archive.org",
+    "d2": "ia801807.us.archive.org",
+    "dir": "/21/items/lunchboxbook0000stan",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660538854",
+        "size": "17110",
+        "md5": "8b1f79114ca40a0540bf46fafee1da8e",
+        "crc32": "7462b444",
+        "sha1": "d086d45c4d8e59c90416684e6fae33713e8c33ae",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/lunchboxbook0000stan_iabdash_2019-01-2209:58:15.log",
+        "source": "original",
+        "mtime": "1548122305",
+        "size": "1339",
+        "md5": "ccfdd783b0cb83434f227af8caa8e5ab",
+        "crc32": "5d71a890",
+        "sha1": "ae262e66ca7a1ae846a7eb5837b5980a8a66175a",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/lunchboxbook0000stan_scanning_2019-01-2209:58:11.log",
+        "source": "original",
+        "mtime": "1548122298",
+        "size": "135731",
+        "md5": "326d03a3b3785a428b57504b24d1307e",
+        "crc32": "472b169c",
+        "sha1": "6e4749d5408b80b40f2f40ecd93c9c53093f9999",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "lunchboxbook0000stan.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "lunchboxbook0000stan_hocr.html",
+        "mtime": "1753624235",
+        "size": "15896241",
+        "private": "true",
+        "md5": "b5d4b5089e903d41b31f8543b979ba42",
+        "crc32": "f939cd45",
+        "sha1": "4755d2a57f60d23e906f63d1c40d5cea90fc1bc2"
+      },
+      {
+        "name": "lunchboxbook0000stan.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "lunchboxbook0000stan.pdf",
+        "mtime": "1753624186",
+        "size": "4775140",
+        "md5": "a05d9171eb2d27122f3f3ac9e07ebbaa",
+        "crc32": "ea62c69a",
+        "sha1": "ac591cd158e2234ab405c5ff9965b9490afbfbb4"
+      },
+      {
+        "name": "lunchboxbook0000stan.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "lunchboxbook0000stan_page_numbers.json",
+        "mtime": "1714944580",
+        "size": "4122538",
+        "md5": "ee1959b366b7aecba39c77681b2353b3",
+        "crc32": "f98ab767",
+        "sha1": "09044a0f0520dc95a3815b96025fe716980ec3ff",
+        "private": "true"
+      },
+      {
+        "name": "lunchboxbook0000stan_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "lunchboxbook0000stan_jp2.zip",
+        "mtime": "1548403933",
+        "size": "952189",
+        "md5": "51a46ab1c127e0f069546561d82482e1",
+        "crc32": "66af57e4",
+        "sha1": "b493328257d441568b78f32ed496553e841a15fc",
+        "private": "true"
+      },
+      {
+        "name": "lunchboxbook0000stan_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "lunchboxbook0000stan_abbyy.gz",
+        "mtime": "1660538684",
+        "size": "795792",
+        "md5": "53ca2f90b3ebcbdc63e83999fb6f81ff",
+        "crc32": "dbb03327",
+        "sha1": "15e4a889bcd3234f1348778a0a8571a4843bd296",
+        "private": "true"
+      },
+      {
+        "name": "lunchboxbook0000stan_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "lunchboxbook0000stan_scandata.xml",
+        "mtime": "1670581580",
+        "size": "772",
+        "md5": "351f7a7204be3aa8550cbec1efe87722",
+        "crc32": "8b4a32cd",
+        "sha1": "7ebd91a7290c4ac9f2c62ce1e54f9b6628f766fa",
+        "private": "true"
+      },
+      {
+        "name": "lunchboxbook0000stan_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660538674",
+        "size": "1108",
+        "md5": "5322d800d9378af722bf2b967ec8b9fa",
+        "crc32": "aca089c3",
+        "sha1": "46d6bf018b4d433bb16529bbbbd4862a13a5102a"
+      },
+      {
+        "name": "lunchboxbook0000stan_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "lunchboxbook0000stan_djvu.xml",
+        "mtime": "1660538848",
+        "size": "70921",
+        "md5": "a2a35c1f264755b04d39303c2d0acb4f",
+        "crc32": "18786791",
+        "sha1": "1e9b40be1c9d5399b50df323b64ae0c1626d514a",
+        "private": "true"
+      },
+      {
+        "name": "lunchboxbook0000stan_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "lunchboxbook0000stan_hocr.html",
+        "mtime": "1660538747",
+        "size": "897714",
+        "md5": "c611f60aa54b0d36bf98f9cd9fc360aa",
+        "crc32": "237daa1f",
+        "sha1": "049f6b18a6ce357861e8ae0e23d9091ced324b74",
+        "private": "true"
+      },
+      {
+        "name": "lunchboxbook0000stan_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "lunchboxbook0000stan_abbyy.gz",
+        "mtime": "1548404111",
+        "size": "2301666",
+        "md5": "f7affaa5dc7d5e347a016713ea8638e0",
+        "crc32": "5834a91a",
+        "sha1": "fe0777a9440e8ea943a7891f12fa16562dde15cd"
+      },
+      {
+        "name": "lunchboxbook0000stan_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "lunchboxbook0000stan.pdf",
+        "mtime": "1714945014",
+        "size": "4081930",
+        "md5": "465d3f4c1dedacfff6a1faaaa405f7fb",
+        "crc32": "d4926191",
+        "sha1": "1966b1f923673882f00ff14af12f574ecdb66546"
+      },
+      {
+        "name": "lunchboxbook0000stan_events.json",
+        "source": "original",
+        "mtime": "1548402565",
+        "size": "56",
+        "md5": "2f90f5d437c90fbd1389d1817c8401dc",
+        "crc32": "cab890df",
+        "sha1": "858246d254628bb59d1d6f09998087728cd2ce7e",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "lunchboxbook0000stan_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "352466ba36af36b528bdd5d002b75069",
+        "summation": "md5"
+      },
+      {
+        "name": "lunchboxbook0000stan_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "lunchboxbook0000stan_chocr.html.gz",
+        "mtime": "1660538733",
+        "size": "1900387",
+        "md5": "40a363f961032c846bb59ca66d80312a",
+        "crc32": "9365102f",
+        "sha1": "79249a614f87a0b88d678f325369f261c9e8f832",
+        "private": "true"
+      },
+      {
+        "name": "lunchboxbook0000stan_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "lunchboxbook0000stan_hocr.html",
+        "mtime": "1660538761",
+        "size": "765",
+        "md5": "50cde4f2b71bd62a7c0fe705d9b557e1",
+        "crc32": "fedd11c1",
+        "sha1": "e2eb8a36fa1b0af31e795d2d296aec1d6267dc03",
+        "private": "true"
+      },
+      {
+        "name": "lunchboxbook0000stan_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "76",
+        "word_conf_11_20": "37",
+        "word_conf_21_30": "109",
+        "word_conf_31_40": "147",
+        "word_conf_41_50": "230",
+        "word_conf_51_60": "480",
+        "word_conf_61_70": "1037",
+        "word_conf_71_80": "2030",
+        "word_conf_81_90": "2930",
+        "word_conf_91_100": "3438",
+        "format": "OCR Search Text",
+        "original": "lunchboxbook0000stan_hocr.html",
+        "mtime": "1660538825",
+        "size": "21776",
+        "md5": "af50c3dc523960db9b2d0c2d00f27951",
+        "crc32": "69c3ee65",
+        "sha1": "3e350ecb31dafda1d0e07b44b72e730f74a1c1b4",
+        "private": "true"
+      },
+      {
+        "name": "lunchboxbook0000stan_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "lunchboxbook0000stan_orig_jp2.tar",
+        "mtime": "1548403681",
+        "size": "33536727",
+        "md5": "a8c7d51b5a03ed9cabd00b2356610847",
+        "crc32": "deb4a9c3",
+        "sha1": "81766def2b4327640d3a1a3648816115b9eaba92",
+        "private": "true",
+        "filecount": "70"
+      },
+      {
+        "name": "lunchboxbook0000stan_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "lunchboxbook0000stan.epub",
+        "mtime": "1753624250",
+        "size": "15971871",
+        "md5": "8c6bfa10ead342ae40aab939502a4b90",
+        "crc32": "7f7ab213",
+        "sha1": "edbd0c6e10b84a55697ecfb2f4a532f138413085"
+      },
+      {
+        "name": "lunchboxbook0000stan_loans.json",
+        "source": "original",
+        "mtime": "1593009221",
+        "size": "470",
+        "format": "JSON",
+        "private": "true",
+        "md5": "52a1b34340fd16dc8f2b1f01651e03d6",
+        "crc32": "6f5bb53b",
+        "sha1": "08fd3e54de56d4795d471ecdee563b3ffe5a6cd2"
+      },
+      {
+        "name": "lunchboxbook0000stan_marc.xml",
+        "source": "original",
+        "mtime": "1660538674",
+        "size": "5107",
+        "format": "MARC",
+        "md5": "1e9fbf7b88f303f70e90440eda49ad3e",
+        "crc32": "dddd9879",
+        "sha1": "fce5c7fbaf3d975112e00601c3631a8bf251982b"
+      },
+      {
+        "name": "lunchboxbook0000stan_meta.mrc",
+        "source": "original",
+        "mtime": "1548122315",
+        "size": "1374",
+        "md5": "cf60c86479c9b8fa09bd424f44b26834",
+        "crc32": "23412a7b",
+        "sha1": "52e7fcd48f3de5d5a7bfb0881dcc2e4d9cd2c861",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "lunchboxbook0000stan_meta.sqlite",
+        "source": "original",
+        "mtime": "1548402955",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "d88dd577859a6aa2d2129317a423568a",
+        "crc32": "e1339d0a",
+        "sha1": "0e5a2596a5e7a5aab89e59151f7b712cb26853d9"
+      },
+      {
+        "name": "lunchboxbook0000stan_meta.xml",
+        "source": "original",
+        "mtime": "1753624250",
+        "size": "2869",
+        "format": "Metadata",
+        "md5": "474f82b4c76ff2a61924aac447ff08ac",
+        "crc32": "41b4154d",
+        "sha1": "86b04c3d30f1ab27e259001d37792bc8f2facae8"
+      },
+      {
+        "name": "lunchboxbook0000stan_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1548402954",
+        "size": "129771520",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "b71eadccf77abafd41d3e73d6f346955",
+        "crc32": "42de2981",
+        "sha1": "ea6141ccdc5d654ccbfd7d84dab0b81eab29bfa9",
+        "filecount": "70"
+      },
+      {
+        "name": "lunchboxbook0000stan_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "97",
+        "format": "Page Numbers JSON",
+        "original": "lunchboxbook0000stan_hocr.html",
+        "mtime": "1714944580",
+        "size": "11572",
+        "md5": "a70e8bdbe6dfcdce996a713bac335b77",
+        "crc32": "76f9824d",
+        "sha1": "722efa9d897f386e18b95579ce4ca81f03a59cc0",
+        "private": "true"
+      },
+      {
+        "name": "lunchboxbook0000stan_scandata.xml",
+        "source": "original",
+        "mtime": "1670581580",
+        "size": "71697",
+        "format": "Scandata",
+        "md5": "1ace89d8d14b3987a34d024f1f99ed3e",
+        "crc32": "30d0b950",
+        "sha1": "776856c52dcfdc41b3a7d25db53bda783312fd8b"
+      },
+      {
+        "name": "lunchboxbook0000stan_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "lunchboxbook0000stan_djvu.xml",
+        "mtime": "1670581242",
+        "size": "698",
+        "md5": "d6f676b4f4d6433c3974d9fdad99ba18",
+        "crc32": "35332c1a",
+        "sha1": "80a7a2ea92afb73254393f5400cbb0ed3c02b996",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753624250,
+    "item_size": 215363464,
+    "metadata": {
+      "identifier": "lunchboxbook0000stan",
+      "associated-names": "Lewis, Sara",
+      "boxid": "IA1633822",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Stanway, Penny",
+      "creator-alt-script": "None",
+      "date": "2001-01-01",
+      "description": "62 pages : 19 cm",
+      "isbn": [
+        "1589230140",
+        "9781589230149"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA14820",
+      "operator": "associate-maryfel-visitacion@archive.org",
+      "ppi": "300",
+      "publisher": "Minnetonka, MN : Creative Pub. International",
+      "repub_state": "19",
+      "scanner": "station07.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "subject": [
+        "Lunchbox cooking",
+        "Children -- Nutrition"
+      ],
+      "title": "The lunchbox book",
+      "title-alt-script": "None",
+      "tts_version": "1.62-final-2-g3110b6e",
+      "uploader": "station07.cebu@archive.org",
+      "addeddate": "2019-01-22 01:58:06",
+      "publicdate": "2019-01-22 01:58:42",
+      "imagecount": "70",
+      "scandate": "20190122024546",
+      "republisher_operator": "associate-rowella-baroro@archive.org",
+      "republisher_date": "20190125154340",
+      "republisher_time": "199",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/lunchboxbook0000stan",
+      "identifier-ark": "ark:/13960/t3pw3zx6h",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:lunchboxbook0000stan:epub:8d651f76-2e58-47c3-b270-777347cf921b",
+        "urn:acs6:lunchboxbook0000stan:pdf:fe594416-a3e4-453e-9db6-647f23f97dc9",
+        "urn:lcp:lunchboxbook0000stan:lcpdf:9babfc17-32e6-4b5b-b127-5d61be085fe0",
+        "urn:lcp:lunchboxbook0000stan:epub:3952ceb1-baa3-45bd-8255-7fb4ef70c8ac"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_edition": "OL8831436M",
+      "openlibrary_work": "OL18196402W",
+      "sponsordate": "20190131",
+      "access-restricted-item": "true",
+      "backup_location": "ia906806_28",
+      "oclc-id": "48193170",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "97",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia801807.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40230109"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 09:03:43.185948"
+        }
+      }
+    },
+    "uniq": 1284933144,
+    "workable_servers": [
+      "ia801807.us.archive.org",
+      "ia601807.us.archive.org"
+    ]
+  },
+  "institution": "Stanway, Penny",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

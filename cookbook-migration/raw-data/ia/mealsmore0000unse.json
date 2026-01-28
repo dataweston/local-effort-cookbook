@@ -1,0 +1,515 @@
+{
+  "source": "internet_archive",
+  "identifier": "mealsmore0000unse",
+  "title": "Meals & more",
+  "creator": null,
+  "year": 2005,
+  "subject": [
+    "Entrées (Cooking)",
+    "Gifts"
+  ],
+  "description": [
+    "42 [i.e. 130] pages : 14 cm",
+    "Recipes to assemble edible homemade gifts, to be given in decorative mugs",
+    "Spiral bound. Pages are designed as gift tags, to be cut out and attached to gift mugs",
+    "Includes index",
+    "\"Item #3773\"--Title page verso"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/mealsmore0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/mealsmore0000unse"
+        }
+      ]
+    },
+    "created": 1758558129,
+    "d1": "ia601701.us.archive.org",
+    "d2": "ia801701.us.archive.org",
+    "dir": "/34/items/mealsmore0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660598540",
+        "size": "13697",
+        "md5": "0c850f64cdfb8194faed8e3503270525",
+        "crc32": "4458083b",
+        "sha1": "b55d8ee9d35fae8fb62d57769efe687483cc2563",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/mealsmore0000unse_iabdash_2020-09-0314:42:38.log",
+        "source": "original",
+        "mtime": "1599115363",
+        "size": "658",
+        "md5": "5f0838d3f502f775a1561bdb59cbc247",
+        "crc32": "5e1c3148",
+        "sha1": "eeda118e33866385f79718d6306516783249dc75",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/mealsmore0000unse_scanning_2020-09-0314:42:48.log",
+        "source": "original",
+        "mtime": "1599115375",
+        "size": "496407",
+        "md5": "01165531c4c60ed92ceab6a549096e46",
+        "crc32": "ce3c79d6",
+        "sha1": "2af6868f9cae23bc4eade6297acf24a091e678a7",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/mealsmore0000unse_status_history_2020-09-0314:42:44.log",
+        "source": "original",
+        "mtime": "1599115368",
+        "size": "409",
+        "md5": "4eba7e57084188277adf6498c863718e",
+        "crc32": "6d090879",
+        "sha1": "02988101ebb8befbcbcb4a43b7369c4945b81807",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "mealsmore0000unse_hocr.html",
+        "mtime": "1757032782",
+        "size": "3517290",
+        "private": "true",
+        "md5": "829d32bc77fcc6022ec8ad64edc0375e",
+        "crc32": "343875bc",
+        "sha1": "d1daf35acb62f0a7e92c5eae5810981a2f9563d4"
+      },
+      {
+        "name": "mealsmore0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "mealsmore0000unse.pdf",
+        "mtime": "1757032641",
+        "size": "3405624",
+        "md5": "c039242508da50d57c309960c05ba5f8",
+        "crc32": "72fec37b",
+        "sha1": "b97ae40c3bb63cfcc2a62717df5d647c86b13547"
+      },
+      {
+        "name": "mealsmore0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "mealsmore0000unse_page_numbers.json",
+        "mtime": "1715461788",
+        "size": "3079989",
+        "md5": "2a60a16f5f5a444bb0eee14017611ef5",
+        "crc32": "bb1966fb",
+        "sha1": "90dd0dbbd13b3cd77545a099a7faab6d7f86ea40",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "mealsmore0000unse_jp2.zip",
+        "mtime": "1599315301",
+        "size": "1095597",
+        "md5": "ba8d71bab5b02d558ca5225b51322db1",
+        "crc32": "c73be8d3",
+        "sha1": "b74b74dd2cecba0371e1465bf0906be8d167e5d9",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "mealsmore0000unse_abbyy.gz",
+        "mtime": "1660598090",
+        "size": "881193",
+        "md5": "991576d3f64c521dca2382c606eb9ecd",
+        "crc32": "5cedc76b",
+        "sha1": "268720210203e5134b0d1bafeaaaeb39d69855cf",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "mealsmore0000unse_scandata.xml",
+        "mtime": "1670643179",
+        "size": "759",
+        "md5": "d7c27205dac35b70604e1f7c056ce493",
+        "crc32": "c7d35eb6",
+        "sha1": "7edf8bed7346808d3ede655b6a7684a48f2552b3",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1599310470",
+        "size": "1069",
+        "md5": "590b559567833e6160011836d50ac26f",
+        "crc32": "46b17713",
+        "sha1": "96a29684e7acb48a78b55dc5159b04e6903d466f"
+      },
+      {
+        "name": "mealsmore0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "mealsmore0000unse_djvu.xml",
+        "mtime": "1660598531",
+        "size": "75021",
+        "md5": "55384bb4acbe8f217e71252275c637f1",
+        "crc32": "519df7ab",
+        "sha1": "37bbd8d3922739da4f769de2458317e37a440584",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "mealsmore0000unse_hocr.html",
+        "mtime": "1660598258",
+        "size": "1010294",
+        "md5": "74a2d388068297f76f7b2681d78125ac",
+        "crc32": "a7034d4a",
+        "sha1": "f244323030933004e56abf1a7e1b9b0d5edb2573",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "mealsmore0000unse_abbyy.gz",
+        "mtime": "1599315364",
+        "size": "3637275",
+        "md5": "4aa8c78d89b287f1f98889f0ca8e0544",
+        "crc32": "5d452dd6",
+        "sha1": "3a84c3c54176cad4f097a9ac29b82783fc34eb73"
+      },
+      {
+        "name": "mealsmore0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "mealsmore0000unse.pdf",
+        "mtime": "1715461908",
+        "size": "3019854",
+        "md5": "c3bd4fe9611bdaed2f0409bd7642ba55",
+        "crc32": "060dca4f",
+        "sha1": "07784c763948fef691f46f2d36296c4c8c768bd0"
+      },
+      {
+        "name": "mealsmore0000unse_events.json",
+        "source": "original",
+        "mtime": "1599310013",
+        "size": "54",
+        "md5": "158a4a68869b42f25d0b266923199821",
+        "crc32": "f0fa55e5",
+        "sha1": "d59ac2f4df6bf96995f07aef86f23c91f42e9151",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "aa2061839c76d6d22acea1172da4c7eb",
+        "summation": "md5"
+      },
+      {
+        "name": "mealsmore0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "mealsmore0000unse_chocr.html.gz",
+        "mtime": "1660598231",
+        "size": "2149969",
+        "md5": "80650e6bc701823577c0b9e7cef32fcd",
+        "crc32": "3f275b70",
+        "sha1": "dd6d3d13b5c59fe21f33c3f799af3eb8265d34b2",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "mealsmore0000unse_hocr.html",
+        "mtime": "1660598371",
+        "size": "1538",
+        "md5": "c577be29aadc27bbdddf41f7ccb0167a",
+        "crc32": "f8df80fb",
+        "sha1": "41bde08fcefb2d2ad2905b897b1444f216658894",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "456",
+        "word_conf_11_20": "340",
+        "word_conf_21_30": "504",
+        "word_conf_31_40": "640",
+        "word_conf_41_50": "818",
+        "word_conf_51_60": "907",
+        "word_conf_61_70": "1436",
+        "word_conf_71_80": "1481",
+        "word_conf_81_90": "1588",
+        "word_conf_91_100": "3107",
+        "format": "OCR Search Text",
+        "original": "mealsmore0000unse_hocr.html",
+        "mtime": "1660598508",
+        "size": "9443",
+        "md5": "c0c1310614c570597b12a523c5963518",
+        "crc32": "dc7580b7",
+        "sha1": "ef20a40db3e3faec3da7f1a2bc26ea431fd9e4ef",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "mealsmore0000unse_orig_jp2.tar",
+        "mtime": "1599314087",
+        "size": "27771113",
+        "md5": "484ef22f58dca765859539f4c835b2bb",
+        "crc32": "c7486805",
+        "sha1": "d793427e0faaca1c5ea2c65a96cdde9796e20899",
+        "private": "true",
+        "filecount": "138"
+      },
+      {
+        "name": "mealsmore0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "mealsmore0000unse.epub",
+        "mtime": "1757033072",
+        "size": "3688765",
+        "md5": "15af1e1bedd58f7d78b610a713e162a0",
+        "crc32": "177d967d",
+        "sha1": "47acb249557f330a5242b7356469bb9a5595fd48"
+      },
+      {
+        "name": "mealsmore0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1599115356",
+        "size": "5841",
+        "md5": "a93a142c6b3935b7c3ec54750be34b07",
+        "crc32": "bef55413",
+        "sha1": "bd50b3c89c410e19e16fce21faa689973f42d4c2",
+        "format": "MARC"
+      },
+      {
+        "name": "mealsmore0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1599115350",
+        "size": "1701",
+        "md5": "9e4bcea941d57510c53908c65cd7a0d0",
+        "crc32": "1cda507e",
+        "sha1": "f6abddf5446e0ca028c57c6a4b5ebe4f9a9a8cea",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "mealsmore0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1599310427",
+        "size": "19456",
+        "md5": "9850b583cb58aef0ae870bf2cd77ec2e",
+        "crc32": "aa6760a4",
+        "sha1": "2debfb20735fe303cd18d539253ab4872fce7056",
+        "format": "Metadata"
+      },
+      {
+        "name": "mealsmore0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1757033072",
+        "size": "3183",
+        "md5": "f4b190e605d076278d34dc366f5891be",
+        "crc32": "bae04a2a",
+        "sha1": "9b50cc0f51a6cdbebd3799c8295d102482b6ea26",
+        "format": "Metadata"
+      },
+      {
+        "name": "mealsmore0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1599310424",
+        "size": "227246080",
+        "md5": "398933b1a5caf5cc18a3d7293576fa4d",
+        "crc32": "0bd4a491",
+        "sha1": "4bd98aab70adb1de17f1664c028f4b6e77a4a54e",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "138"
+      },
+      {
+        "name": "mealsmore0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "26",
+        "format": "Page Numbers JSON",
+        "original": "mealsmore0000unse_hocr.html",
+        "mtime": "1715461787",
+        "size": "23174",
+        "md5": "fddc24699d6baea80eaa0cae2e6ba764",
+        "crc32": "767e6a62",
+        "sha1": "947dee6a3c005d61dbdcb69ba989431b6f1a60d5",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670643179",
+        "size": "137301",
+        "md5": "703a3f956512e4a4e1a0bc6f6bd4a675",
+        "crc32": "4b51ff36",
+        "sha1": "e532c0d37004f75b2acd13f46621f197e5b4df89",
+        "format": "Scandata"
+      },
+      {
+        "name": "mealsmore0000unse_slip.png",
+        "source": "original",
+        "mtime": "1599113728",
+        "size": "39003",
+        "md5": "f304b9eca53aeb942701e27a2727722c",
+        "crc32": "2415eefc",
+        "sha1": "697245003d33feee6c460404be00e75f234a218f",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "mealsmore0000unse_slip.png",
+        "mtime": "1599310475",
+        "size": "5316",
+        "md5": "8923b3fa06aaa08eaeacb6cceed39a4e",
+        "crc32": "05a9a2c8",
+        "sha1": "3ff2f84cfd12b34a587f5fbe104fbf971382626d",
+        "private": "true"
+      },
+      {
+        "name": "mealsmore0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "mealsmore0000unse_djvu.xml",
+        "mtime": "1670643135",
+        "size": "545",
+        "md5": "b8222e07d02bb44ebb7299f4756cae3c",
+        "crc32": "1fe9777b",
+        "sha1": "a9ab53a1a084e0c33e1be0450bf3c049546eae41",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1757033072,
+    "item_size": 281337618,
+    "metadata": {
+      "identifier": "mealsmore0000unse",
+      "boxid": "IA1925315",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2005-01-01",
+      "description": [
+        "42 [i.e. 130] pages : 14 cm",
+        "Recipes to assemble edible homemade gifts, to be given in decorative mugs",
+        "Spiral bound. Pages are designed as gift tags, to be cut out and attached to gift mugs",
+        "Includes index",
+        "\"Item #3773\"--Title page verso"
+      ],
+      "isbn": [
+        "1563832011",
+        "9781563832017"
+      ],
+      "language": "eng",
+      "lccn": "2005299049",
+      "mediatype": "texts",
+      "notes": "-inherent obscured text back cover<br />-inherent skwed<br />",
+      "old_pallet": "IA19053",
+      "openlibrary_edition": "OL8644888M",
+      "openlibrary_work": "OL8874575W",
+      "operator": "associate-arianefaye-rodrigo@gmail.com",
+      "ppi": "300",
+      "publisher": "Waverly, IA : CQ Products",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station24.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781563832017",
+      "subject": [
+        "Entrées (Cooking)",
+        "Gifts"
+      ],
+      "title": "Meals & more",
+      "tts_version": "4.0-initial-155-gbba175a5",
+      "uploader": "station24.cebu@archive.org",
+      "publicdate": "2020-09-03 06:15:50",
+      "access-restricted-item": "true",
+      "imagecount": "138",
+      "scandate": "20200903124351",
+      "republisher_operator": "associate-mayel-franco@archive.org",
+      "republisher_date": "20200905204648",
+      "republisher_time": "335",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/mealsmore0000unse",
+      "identifier-ark": "ark:/13960/t8hf7163b",
+      "external-identifier": [
+        "urn:acs6:mealsmore0000unse:epub:c56bb8f3-15e2-47c5-b8d0-bbf68db8389b",
+        "urn:acs6:mealsmore0000unse:pdf:485f1524-ee45-4081-96f0-7b7c3acb2f87",
+        "urn:oclc:record:1194425859",
+        "urn:lcp:mealsmore0000unse:lcpdf:c62d62f2-7703-45c7-bbfa-d7f5b3f334eb",
+        "urn:lcp:mealsmore0000unse:epub:7e29c7e5-beeb-47a8-943a-c962a9ebe782"
+      ],
+      "addeddate": "2020-09-05 15:08:20",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20200930",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "26",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia801701.us.archive.org",
+    "uniq": 1979492256,
+    "workable_servers": [
+      "ia801701.us.archive.org",
+      "ia601701.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

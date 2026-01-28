@@ -1,0 +1,98 @@
+{
+  "source": "dpla",
+  "id": "a3c7320121841ba320a6075eb9b9cd12",
+  "identifier": "a3c7320121841ba320a6075eb9b9cd12",
+  "title": "St. Paul's Church Cook Book [Part 2]",
+  "subject": [],
+  "spatial": [
+    "Houston, Harris County, Texas"
+  ],
+  "description": "A cookbook published by the Woman's Home Mission Society of St. Paul's Methodist Church South to raise funds to buy an organ. Part two of two.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/318",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "year": 1906,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/a3c7320121841ba320a6075eb9b9cd12#SourceResource",
+      "collection": [
+        {
+          "title": "DeGolyer Library Cookbook Collection"
+        }
+      ],
+      "creator": [
+        "St. Paul's Methodist Episcopal Church South (Houston, Tex.). Woman's Home Mission Society"
+      ],
+      "date": [
+        {
+          "begin": "1906",
+          "displayDate": "1906",
+          "end": "1906"
+        }
+      ],
+      "description": [
+        "A cookbook published by the Woman's Home Mission Society of St. Paul's Methodist Church South to raise funds to buy an organ. Part two of two."
+      ],
+      "identifier": [
+        "TX715 .S753 1906"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "DeGolyer Library"
+      ],
+      "rights": [
+        "Please cite DeGolyer Library, Southern Methodist University as the source of this file. A high-resolution version of this file may be obtained for a fee. For details, see the https://www.smu.edu/libraries/degolyer/using/images web page. For more information, contact degolyer@smu.edu."
+      ],
+      "spatial": [
+        {
+          "name": "Houston, Harris County, Texas"
+        }
+      ],
+      "title": [
+        "St. Paul's Church Cook Book [Part 2]"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1906-01-01",
+      "normalized_dates": [
+        "1906-01-01"
+      ],
+      "date_range": {
+        "begin": "1906-01-01",
+        "end": "1906-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/318",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/318"
+  },
+  "location": {
+    "state": "Wi",
+    "city": "St. Paul"
+  },
+  "curation": {
+    "score": 7,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Episcopal",
+      "Methodist"
+    ]
+  },
+  "curation_notes": "Community markers: Church, Episcopal, Methodist; Digitized scan available"
+}

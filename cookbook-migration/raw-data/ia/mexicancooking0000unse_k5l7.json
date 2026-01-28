@@ -1,0 +1,500 @@
+{
+  "source": "internet_archive",
+  "identifier": "mexicancooking0000unse_k5l7",
+  "title": "Mexican cooking",
+  "creator": "None",
+  "year": 2005,
+  "subject": "Cooking, Mexican",
+  "description": [
+    "224 pages : 23 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720505.ca.archive.org",
+          "dir": "/0/items/mexicancooking0000unse_k5l7"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720505.ca.archive.org",
+          "dir": "/0/items/mexicancooking0000unse_k5l7"
+        }
+      ]
+    },
+    "created": 1758554975,
+    "d1": "ia902307.us.archive.org",
+    "d2": "ia802307.us.archive.org",
+    "dir": "/20/items/mexicancooking0000unse_k5l7",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660653465",
+        "size": "21521",
+        "md5": "43ca0bf675107bf9fc582f825e8ade83",
+        "crc32": "e14d0d15",
+        "sha1": "e3b7a08f82d358d5c0942593ecbe6a71cdffbfda",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/mexicancooking0000unse_k5l7_iabdash_2018-12-1316:45:17.log",
+        "source": "original",
+        "mtime": "1544690725",
+        "size": "1360",
+        "md5": "90763c696da8b6770058c52c61c88c29",
+        "crc32": "e518ef52",
+        "sha1": "2d315fa4152de923f5dbde4764cfa752d9790487",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/mexicancooking0000unse_k5l7_scanning_2018-12-1316:45:08.log",
+        "source": "original",
+        "mtime": "1544690720",
+        "size": "441415",
+        "md5": "cb9aef778cf92af9c863562b1c730960",
+        "crc32": "19aa5641",
+        "sha1": "f3377f8b9abfd0ae61fb1caa3526c40b7e878997",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "mexicancooking0000unse_k5l7_hocr.html",
+        "mtime": "1753646468",
+        "size": "71655961",
+        "private": "true",
+        "md5": "1fcb0ed8e0f51cd05bf5bb8b88dc6dbd",
+        "crc32": "ec9b8e58",
+        "sha1": "30025788a6500a53f610c63f7f38015ffc927fe0"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "mexicancooking0000unse_k5l7.pdf",
+        "mtime": "1753646185",
+        "size": "16955240",
+        "md5": "2bb52316379dfa53fcaf45e9928dd851",
+        "crc32": "20a76122",
+        "sha1": "70cbabf21e73784e6469c2b8330ad058e52e5393"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "mexicancooking0000unse_k5l7_page_numbers.json",
+        "mtime": "1715840449",
+        "size": "16452371",
+        "md5": "a07891c04e70035195e1647780e04d22",
+        "crc32": "591dbcc4",
+        "sha1": "efbed1fce6bfed2317a0a552d2ddb7630faac76e",
+        "private": "true"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "mexicancooking0000unse_k5l7_jp2.zip",
+        "mtime": "1545037503",
+        "size": "2569382",
+        "md5": "dd4cf347c2462dfb42446a36c4b28500",
+        "crc32": "314adee5",
+        "sha1": "a43b7dd844c376564302d4874963fd659ef45b85",
+        "private": "true"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "mexicancooking0000unse_k5l7_abbyy.gz",
+        "mtime": "1660652781",
+        "size": "2049567",
+        "md5": "ef69b7812ca74c7a9e369e59a8d842e0",
+        "crc32": "8fdd634c",
+        "sha1": "fed71d3e25db98c9c040dbfd0bd5ea971c7b999d",
+        "private": "true"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "mexicancooking0000unse_k5l7_scandata.xml",
+        "mtime": "1670663550",
+        "size": "800",
+        "md5": "d0e0ffd2ddde5cb88613882c0476f9e8",
+        "crc32": "f960e67e",
+        "sha1": "4f23722c7253125a33691aa91dae28338a9b81f6",
+        "private": "true"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1545033759",
+        "size": "1030",
+        "md5": "8700dc949d3c73e643c5b5a19822f582",
+        "crc32": "ddacf8e9",
+        "sha1": "420743c8b09e305b7039e9b2b77ab21ccee5b5ed"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "mexicancooking0000unse_k5l7_djvu.xml",
+        "mtime": "1660653459",
+        "size": "190342",
+        "md5": "571d4dad88b1a44e4ea8438df916d6b9",
+        "crc32": "9de98282",
+        "sha1": "2daebbfa1ffc7e3685ea279ee554e2d8836e8c9e",
+        "private": "true"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "mexicancooking0000unse_k5l7_hocr.html",
+        "mtime": "1660653090",
+        "size": "2295027",
+        "md5": "2cce6f6301b0098b2f6d90a3159b2aef",
+        "crc32": "945b661e",
+        "sha1": "8bbac351ce3e1523f6c123a97d001121d1e68af4",
+        "private": "true"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "mexicancooking0000unse_k5l7_abbyy.gz",
+        "mtime": "1545038469",
+        "size": "1965747",
+        "md5": "e350a16ff4024f5e63217235780b11db",
+        "crc32": "9ef6d931",
+        "sha1": "d162099c827ba24dca9edd99201c644bbe5d7f47"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "mexicancooking0000unse_k5l7.pdf",
+        "mtime": "1715840963",
+        "size": "16348488",
+        "md5": "707d97ca976718cb70601a982388059d",
+        "crc32": "08742f55",
+        "sha1": "0b34fe00aab918e15d90da3d8338b7e55fabaa01"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_events.json",
+        "source": "original",
+        "mtime": "1545033710",
+        "size": "55",
+        "md5": "75176d0fe8cc9240658b65546517e3c9",
+        "crc32": "70798e60",
+        "sha1": "1257479be5c44f437dd38aa3beb2ae210b573ce6",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "62a76a44a0acf31c5e602d8695d7be94",
+        "summation": "md5"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "mexicancooking0000unse_k5l7_chocr.html.gz",
+        "mtime": "1660653054",
+        "size": "4706980",
+        "md5": "adccdcd4888bc3c6eed09f49932bbc81",
+        "crc32": "13739d60",
+        "sha1": "45e342124486efd523b6b5fe2ea677303ad8d26a",
+        "private": "true"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "mexicancooking0000unse_k5l7_hocr.html",
+        "mtime": "1660653179",
+        "size": "2522",
+        "md5": "2d978105b79671fe5fe0d83d1c7b027a",
+        "crc32": "5848e059",
+        "sha1": "1abeaba3e671ff7238e5acdcee942db256bc5309",
+        "private": "true"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "429",
+        "word_conf_11_20": "93",
+        "word_conf_21_30": "74",
+        "word_conf_31_40": "109",
+        "word_conf_41_50": "198",
+        "word_conf_51_60": "400",
+        "word_conf_61_70": "912",
+        "word_conf_71_80": "2343",
+        "word_conf_81_90": "6050",
+        "word_conf_91_100": "16307",
+        "format": "OCR Search Text",
+        "original": "mexicancooking0000unse_k5l7_hocr.html",
+        "mtime": "1660653414",
+        "size": "48516",
+        "md5": "beacaca9fa947b1b4d895bd76687ea3b",
+        "crc32": "1226ea74",
+        "sha1": "4a7e8bc9fd5247c467299d8c76b33289a98bdbd9",
+        "private": "true"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "mexicancooking0000unse_k5l7_orig_jp2.tar",
+        "mtime": "1545036524",
+        "size": "100963168",
+        "md5": "1bf5443564a1c7760cb17f500c4d9dd7",
+        "crc32": "01fdac7d",
+        "sha1": "108e80a80a8f3fa092702a1b526a27c82e3dc911",
+        "private": "true",
+        "filecount": "230"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "mexicancooking0000unse_k5l7.epub",
+        "mtime": "1753646728",
+        "size": "71983396",
+        "md5": "eec5cc92cc41f7032176267a1be7bf06",
+        "crc32": "352ce657",
+        "sha1": "5bc18b309fa13d9a2de3910467f78b98b5754294"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_loans.json",
+        "source": "original",
+        "mtime": "1592900958",
+        "size": "1807",
+        "format": "JSON",
+        "private": "true",
+        "md5": "3943b45d121c4c89093fa679b350b929",
+        "crc32": "97d8eb2e",
+        "sha1": "e061a7b090f511de5f829d44dfbf89ac7dca3bd5"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_marc.xml",
+        "source": "original",
+        "mtime": "1545033759",
+        "size": "3962",
+        "format": "MARC",
+        "md5": "6068774e07f4f27fecc6aca43412ffb4",
+        "crc32": "77f56efb",
+        "sha1": "6857aa14085bc2e906f58ac154475c48cbac29c3"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_meta.mrc",
+        "source": "original",
+        "mtime": "1544690738",
+        "size": "1094",
+        "md5": "d30e13cc62ae176661c39b0e2db4887e",
+        "crc32": "601fafda",
+        "sha1": "838dfaad5e44b9dc1bae3c9820e17452d981a72c",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_meta.sqlite",
+        "source": "original",
+        "mtime": "1545033740",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "1cb8939c79d81fc8b877f6b052a55230",
+        "crc32": "5728c348",
+        "sha1": "1590bd78b61e067fdf00e176210ec1a32f8d93a0"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_meta.xml",
+        "source": "original",
+        "mtime": "1753646728",
+        "size": "2940",
+        "format": "Metadata",
+        "md5": "d1202b9d182bb295a2df31cc717da114",
+        "crc32": "1b51c9b5",
+        "sha1": "7e90536d4f81532cca56ebf618d4c6737633b545"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1545033740",
+        "size": "298649600",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "b6ddb3d6819cd857406693247e069a43",
+        "crc32": "711d9f67",
+        "sha1": "304c907e5ba70f671385a62495ddaeb5c9287d2d",
+        "filecount": "230"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "16",
+        "format": "Page Numbers JSON",
+        "original": "mexicancooking0000unse_k5l7_hocr.html",
+        "mtime": "1715840449",
+        "size": "38808",
+        "md5": "ff070039101bcd858a81d83f18e68612",
+        "crc32": "dfb4429c",
+        "sha1": "aa367faceef37dcc16addc11aaa0d80657aea302",
+        "private": "true"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_scandata.xml",
+        "source": "original",
+        "mtime": "1670663550",
+        "size": "235729",
+        "format": "Scandata",
+        "md5": "d2b0404079887a2b0f284c41011abfdc",
+        "crc32": "9b288efc",
+        "sha1": "f4aa57555ce88f6565cbcbbb11ac87e633ad900c"
+      },
+      {
+        "name": "mexicancooking0000unse_k5l7_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "mexicancooking0000unse_k5l7_djvu.xml",
+        "mtime": "1670663364",
+        "size": "614",
+        "md5": "88888aa98f8f6e0d4aee6b352fa98cc0",
+        "crc32": "45baa63a",
+        "sha1": "a80ae7ebfa9ef7a82232109263b2b7ad79427d7a",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753646728,
+    "item_size": 607603826,
+    "metadata": {
+      "identifier": "mexicancooking0000unse_k5l7",
+      "associated-names": "Publications International, Ltd",
+      "boxid": "IA1511606",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "None",
+      "creator-alt-script": "None",
+      "date": "2005-01-01",
+      "description": [
+        "224 pages : 23 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "141272158X",
+        "9781412721585"
+      ],
+      "language": "eng",
+      "lccn": "2005920746",
+      "mediatype": "texts",
+      "old_pallet": "IA15555",
+      "operator": "associate-ria-gargoles@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International, Ltd.",
+      "repub_state": "19",
+      "scanner": "station01.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "title": "Mexican cooking",
+      "title-alt-script": "None",
+      "tts_version": "v1.61-final",
+      "uploader": "station01.cebu@archive.org",
+      "addeddate": "2018-12-13 08:45:02",
+      "publicdate": "2018-12-13 08:45:38",
+      "imagecount": "230",
+      "scandate": "20181213111859",
+      "subject": "Cooking, Mexican",
+      "republisher_operator": "associate-jessica-tunga@archive.org",
+      "republisher_date": "20181217160141",
+      "republisher_time": "312",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/mexicancooking0000unse_k5l7",
+      "identifier-ark": "ark:/13960/t9966zq7s",
+      "external-identifier": [
+        "urn:acs6:mexicancooking0000unse_k5l7:epub:54b25786-2f5b-4c58-98cd-8f4c7e7089a5",
+        "urn:acs6:mexicancooking0000unse_k5l7:pdf:fa403157-338a-4729-b464-aa2416942464",
+        "urn:oclc:record:1150307576",
+        "urn:lcp:mexicancooking0000unse_k5l7:lcpdf:d520a802-e04c-4147-89fb-8919d9d3b9d9",
+        "urn:lcp:mexicancooking0000unse_k5l7:epub:368900fd-8261-4af3-9b71-f21df4e5f905"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_edition": "OL9525216M",
+      "openlibrary_work": "OL8549283W",
+      "sponsordate": "20181231",
+      "access-restricted-item": "true",
+      "backup_location": "ia906805_11",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "16",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia802307.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA-MC-1200022",
+              "IA-MC-0000064"
+            ],
+            "num_copies": 2
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 09:24:59.604778"
+        }
+      }
+    },
+    "uniq": 2103119786,
+    "workable_servers": [
+      "ia802307.us.archive.org",
+      "ia902307.us.archive.org"
+    ]
+  },
+  "institution": "None",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

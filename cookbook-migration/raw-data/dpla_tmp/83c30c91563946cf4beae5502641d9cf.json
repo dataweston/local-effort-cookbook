@@ -1,0 +1,105 @@
+{
+  "source": "dpla",
+  "id": "83c30c91563946cf4beae5502641d9cf",
+  "identifier": "83c30c91563946cf4beae5502641d9cf",
+  "title": "Twentieth century cook book",
+  "subject": [
+    "Cooking, American",
+    "Cooking",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan",
+    "Howard City"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5kh0j08v",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1913,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/83c30c91563946cf4beae5502641d9cf#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "contributor": [
+        "Congregational Church (Howard City, Mich.)"
+      ],
+      "date": [
+        {
+          "begin": "1913",
+          "displayDate": "1913",
+          "end": "1913"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Howard City"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "Twentieth century cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1913-01-01",
+      "normalized_dates": [
+        "1913-01-01"
+      ],
+      "date_range": {
+        "begin": "1913-01-01",
+        "end": "1913-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5kh0j08v/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5kh0j08v"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church; Digitized scan available"
+}

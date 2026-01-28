@@ -1,0 +1,535 @@
+{
+  "source": "internet_archive",
+  "identifier": "semihomemadegril0000lees",
+  "title": "Semi-homemade grilling 2",
+  "creator": "Lee, Sandra, 1966-",
+  "year": 2008,
+  "subject": "Barbecue cookery",
+  "description": [
+    "237 p. : 25 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721505.ca.archive.org",
+          "dir": "/0/items/semihomemadegril0000lees"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721505.ca.archive.org",
+          "dir": "/0/items/semihomemadegril0000lees"
+        }
+      ]
+    },
+    "created": 1758556181,
+    "d1": "ia903105.us.archive.org",
+    "d2": "ia803105.us.archive.org",
+    "dir": "/32/items/semihomemadegril0000lees",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661035065",
+        "size": "16695",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "fe6ba32999dd629f548895deb45ab87a",
+        "crc32": "3ed041a4",
+        "sha1": "6950e4f6899c348864091ff409537e2b67a98561"
+      },
+      {
+        "name": "logs/semihomemadegril0000lees_iabdash_2019-11-2000:50:05.log",
+        "source": "original",
+        "mtime": "1574182211",
+        "size": "1338",
+        "md5": "e01e8c71035d8447ae0b518b444587cb",
+        "crc32": "6c234b99",
+        "sha1": "9d5eabe1134827f3cd5467a7675d642348ec1431",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/semihomemadegril0000lees_scanning_2019-11-2000:50:13.log",
+        "source": "original",
+        "mtime": "1574182217",
+        "size": "716345",
+        "md5": "30afac9a4c66087674e550d20a20a292",
+        "crc32": "ef4293e7",
+        "sha1": "9cf1861e4e14cdbc46de8a6baf958533ae0c662a",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "semihomemadegril0000lees_hocr.html",
+        "mtime": "1758306863",
+        "size": "176905831",
+        "private": "true",
+        "md5": "3f0f5188fccec77894b0061065d2a456",
+        "crc32": "f48125e1",
+        "sha1": "d44297bedf1e9d390b6042a82755e2fc88684a4e"
+      },
+      {
+        "name": "semihomemadegril0000lees.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "semihomemadegril0000lees.pdf",
+        "mtime": "1758306510",
+        "size": "24597732",
+        "md5": "0cbeed496ed112caa0a47715786a5912",
+        "crc32": "24ab85d2",
+        "sha1": "7af44e5ad895aaad94919ecad95bd0eb23e8f5cb"
+      },
+      {
+        "name": "semihomemadegril0000lees.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "semihomemadegril0000lees_page_numbers.json",
+        "mtime": "1723096651",
+        "size": "24135093",
+        "md5": "8d9bd8dd21b53699a739d892872c237e",
+        "crc32": "9c8e2134",
+        "sha1": "35550acf0bcbd4611845132cdda52aafa0f94602",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "semihomemadegril0000lees_jp2.zip",
+        "mtime": "1574333579",
+        "size": "4141209",
+        "md5": "450c4fca10047f4618090acb857f3e0c",
+        "crc32": "593c380b",
+        "sha1": "f582dab0cfb4bd32e2427e4e2d041bdafb0d6ec5",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "semihomemadegril0000lees_abbyy.gz",
+        "mtime": "1661034690",
+        "size": "3488053",
+        "md5": "218ff292945482f68a5c513864a3388a",
+        "crc32": "e7a7daee",
+        "sha1": "999598e9298fd3cb6b9482b9ad0f6bea3880c07a",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "semihomemadegril0000lees_scandata.xml",
+        "mtime": "1671210185",
+        "size": "788",
+        "md5": "6863d63a5e87ae4e3ab2487fc2be7264",
+        "crc32": "e0895d17",
+        "sha1": "3ab00841a887e5434a5c09e352ef7cd98261a6bd",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1574324097",
+        "size": "960",
+        "md5": "307270eb37e119b8014bf8fc14ec55f8",
+        "crc32": "eb7f79b3",
+        "sha1": "49e3379b39e93b25bd63994b52ea7418f8626e85"
+      },
+      {
+        "name": "semihomemadegril0000lees_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "semihomemadegril0000lees_djvu.xml",
+        "mtime": "1661035060",
+        "size": "310693",
+        "md5": "23c9fdc0dfd17129b8913aa335d4cde3",
+        "crc32": "7a946837",
+        "sha1": "cbaa0399c22f2186ddf268d2791d16b0df32a726",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "semihomemadegril0000lees_hocr.html",
+        "mtime": "1661034924",
+        "size": "3736982",
+        "md5": "6fe03fe5ef64def52ce476c2fefa49ee",
+        "crc32": "280dd835",
+        "sha1": "2bb1c50bb33a3664bc5bfc1bb4eaf187fbfae882",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "semihomemadegril0000lees_abbyy.gz",
+        "mtime": "1574336251",
+        "size": "3373489",
+        "md5": "fb1859ecc33e6cf1eeda19e632573339",
+        "crc32": "c5c5ebb9",
+        "sha1": "dd08a079269733becfde51403e7db2afa37f1ea1"
+      },
+      {
+        "name": "semihomemadegril0000lees_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "semihomemadegril0000lees.pdf",
+        "mtime": "1723097955",
+        "size": "23997513",
+        "md5": "3431b76c3701f85a60735dd0f2d5e2c7",
+        "crc32": "68004774",
+        "sha1": "08ee1588a003e6d62b93bc72c9f75c09334e0896"
+      },
+      {
+        "name": "semihomemadegril0000lees_events.json",
+        "source": "original",
+        "mtime": "1574323751",
+        "size": "57",
+        "md5": "f1a7aaa43a850ed7bf216df2571daf8a",
+        "crc32": "c5392547",
+        "sha1": "4382c1214f1696827a0111f35e4a04dba0653dd9",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "6b482b325c4ece67c243a6e10cbee477",
+        "summation": "md5"
+      },
+      {
+        "name": "semihomemadegril0000lees_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "semihomemadegril0000lees_chocr.html.gz",
+        "mtime": "1661034905",
+        "size": "7629715",
+        "md5": "ceeb67eae4011bf1ffe3c7cbaf3a5a5a",
+        "crc32": "ba2df00a",
+        "sha1": "410014929a8fe46e5856f25082f6244764d16b0e",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "semihomemadegril0000lees_hocr.html",
+        "mtime": "1661034983",
+        "size": "2546",
+        "md5": "02faa11963a0c37dd0158157f61e5b60",
+        "crc32": "6582a362",
+        "sha1": "0a76d5e413422cd4697726fa0c4dda020f74f6f0",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "260",
+        "word_conf_11_20": "234",
+        "word_conf_21_30": "417",
+        "word_conf_31_40": "636",
+        "word_conf_41_50": "913",
+        "word_conf_51_60": "1422",
+        "word_conf_61_70": "3167",
+        "word_conf_71_80": "7139",
+        "word_conf_81_90": "12238",
+        "word_conf_91_100": "17843",
+        "format": "OCR Search Text",
+        "original": "semihomemadegril0000lees_hocr.html",
+        "mtime": "1661035039",
+        "size": "73762",
+        "md5": "dd9745c6e00b75512f9e3df4af3cec59",
+        "crc32": "acf92cc0",
+        "sha1": "193ee0f1aee6433fd3dbc5afcf775288009491d9",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "semihomemadegril0000lees_orig_jp2.tar",
+        "mtime": "1574331997",
+        "size": "233290609",
+        "md5": "3d07bd0ad63c621e39a6ff6abe43de69",
+        "crc32": "59c14241",
+        "sha1": "18a971a7beff24157eea3dccb99040c56f387ebd",
+        "private": "true",
+        "filecount": "246"
+      },
+      {
+        "name": "semihomemadegril0000lees_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "semihomemadegril0000lees.epub",
+        "mtime": "1758307134",
+        "size": "177623110",
+        "md5": "fbeb231aee33b562900d8dfd4003b648",
+        "crc32": "d7964dc0",
+        "sha1": "23a0006c7eb12e988b93190922d34a28653a2233"
+      },
+      {
+        "name": "semihomemadegril0000lees_loans.json",
+        "source": "original",
+        "mtime": "1594409698",
+        "size": "1767",
+        "format": "JSON",
+        "private": "true",
+        "md5": "ad2e36e7409a4fbf72b143bec1ac0043",
+        "crc32": "c64a93c6",
+        "sha1": "df95f9c0dbe0571f719dabbf8be5726c6a537975"
+      },
+      {
+        "name": "semihomemadegril0000lees_marc.xml",
+        "source": "original",
+        "mtime": "1574324097",
+        "size": "2574",
+        "format": "MARC",
+        "md5": "88cc8c7e53b8c4ce1f17384a71e5f544",
+        "crc32": "d1c9fef6",
+        "sha1": "0c56cfa58517e35287262b5527d39a887fc7b146"
+      },
+      {
+        "name": "semihomemadegril0000lees_meta.mrc",
+        "source": "original",
+        "mtime": "1574182204",
+        "size": "759",
+        "md5": "2a4bbec0005e2851cdeaecf333935829",
+        "crc32": "481a758c",
+        "sha1": "8e07befb024c3b36ef0aa3ac162ea7a47e7d2f63",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "semihomemadegril0000lees_meta.sqlite",
+        "source": "original",
+        "mtime": "1574324023",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "e4d2eabc1105d1e98490c57d8a189acf",
+        "crc32": "3e0df21d",
+        "sha1": "a6d79228a43ed3394e5487ef075077bf8de37911"
+      },
+      {
+        "name": "semihomemadegril0000lees_meta.xml",
+        "source": "original",
+        "mtime": "1758307136",
+        "size": "2951",
+        "format": "Metadata",
+        "md5": "578aad9236f0ecf0b534c6c0318f6457",
+        "crc32": "b3bdb16c",
+        "sha1": "7e53f7e67d4c78f0bdc2ff7feba61a01992346d6"
+      },
+      {
+        "name": "semihomemadegril0000lees_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1574324021",
+        "size": "458506240",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "2b9acc67853599bf0f6691037f2d0250",
+        "crc32": "33dd969f",
+        "sha1": "4bdfbf48f57a8ba71de206dd4383615de19a1376",
+        "filecount": "246"
+      },
+      {
+        "name": "semihomemadegril0000lees_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "71",
+        "format": "Page Numbers JSON",
+        "original": "semihomemadegril0000lees_hocr.html",
+        "mtime": "1723096651",
+        "size": "41923",
+        "md5": "20ccb5b62feeb10c7737db4367bcb997",
+        "crc32": "943519fe",
+        "sha1": "674f52f111ddf63f1197ba6cdd3c7956a746b703",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees_scandata.xml",
+        "source": "original",
+        "mtime": "1671210184",
+        "size": "251134",
+        "format": "Scandata",
+        "md5": "d747e5da6c4d5dfc753b27ea3d347516",
+        "crc32": "93a01496",
+        "sha1": "aa9dcb382e89cd4cacd2e167a81a7f25faf98f45"
+      },
+      {
+        "name": "semihomemadegril0000lees_slip.png",
+        "source": "original",
+        "mtime": "1574166726",
+        "size": "40013",
+        "md5": "6a1c6df31ef974098acf3895b675263e",
+        "crc32": "8bfa57e6",
+        "sha1": "87c984381ade2f4d3c48d21bc9e030e202be0541",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "semihomemadegril0000lees_slip.png",
+        "mtime": "1574324104",
+        "size": "5552",
+        "md5": "08f31fedc2de0d486eacc5307183b79f",
+        "crc32": "cbc7ae6c",
+        "sha1": "23d25a5170496c03481ee2ef189da3a2f01706a4",
+        "private": "true"
+      },
+      {
+        "name": "semihomemadegril0000lees_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "semihomemadegril0000lees_djvu.xml",
+        "mtime": "1671210119",
+        "size": "576",
+        "md5": "e635ae51b4a4d30e30c3f8eb145459bf",
+        "crc32": "6a108a9f",
+        "sha1": "e4ba3f6afc306e7c084e7555c772109a87aff4ad",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1758307136,
+    "item_size": 1142914441,
+    "metadata": {
+      "identifier": "semihomemadegril0000lees",
+      "boxid": "IA1698511",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Lee, Sandra, 1966-",
+      "date": "2008-01-01",
+      "description": [
+        "237 p. : 25 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "9780696238284",
+        "0696238284"
+      ],
+      "language": "eng",
+      "lccn": "2007933386",
+      "mediatype": "texts",
+      "notes": "Inherent cut-off text due to tight binding.<br />",
+      "old_pallet": "IA15404",
+      "openlibrary_edition": "OL11184342M",
+      "openlibrary_work": "OL2702588W",
+      "operator": "associate-diane-reyes@archive.org",
+      "ppi": "300",
+      "publisher": "Des Moines, Iowa : Meredith Books",
+      "repub_state": "19",
+      "scanner": "station19.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780696238284",
+      "subject": "Barbecue cookery",
+      "title": "Semi-homemade grilling 2",
+      "tts_version": "3.0-initial-170-gdf78d52",
+      "uploader": "station19.cebu@archive.org",
+      "addeddate": "2019-11-19 12:32:06",
+      "publicdate": "2019-11-19 12:32:21",
+      "access-restricted-item": "true",
+      "imagecount": "246",
+      "scandate": "20191119181824",
+      "republisher_operator": "associate-jundale-gabutan@archive.org",
+      "republisher_date": "20191121160904",
+      "republisher_time": "838",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/semihomemadegril0000lees",
+      "identifier-ark": "ark:/13960/t76t8r77h",
+      "external-identifier": [
+        "urn:acs6:semihomemadegril0000lees:epub:50db68fc-ce65-49b2-84c4-45b88629079b",
+        "urn:acs6:semihomemadegril0000lees:pdf:0ba72c36-e960-4e45-8c65-6353f5e5a6d2",
+        "urn:oclc:record:1151259576",
+        "urn:lcp:semihomemadegril0000lees:lcpdf:f44bf8fc-f1ef-4277-8e3c-e0116dc61feb",
+        "urn:lcp:semihomemadegril0000lees:epub:c14843e9-914a-4410-b527-a715248f88e9"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191130",
+      "backup_location": "ia907006_28",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "71",
+      "source": "removed",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia903105.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "hamiltonpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780696238284"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-10-29 04:58:25.671031"
+        },
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40576711",
+              "IA40590705"
+            ],
+            "num_copies": 2
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 11:33:42.285458"
+        }
+      }
+    },
+    "uniq": 1443968005,
+    "workable_servers": [
+      "ia903105.us.archive.org",
+      "ia803105.us.archive.org"
+    ]
+  },
+  "institution": "Lee, Sandra, 1966-",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

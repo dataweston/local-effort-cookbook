@@ -1,0 +1,106 @@
+{
+  "source": "dpla",
+  "id": "a8c093b1b56b5480fa86dc0d45297dcd",
+  "identifier": "a8c093b1b56b5480fa86dc0d45297dcd",
+  "title": "The North Park cook book",
+  "subject": [
+    "Cooking, American",
+    "Cooking",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan",
+    "Grand Rapids"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m52j6c561",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1922,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/a8c093b1b56b5480fa86dc0d45297dcd#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "contributor": [
+        "North Park Presbyterian Church (Grand Rapids, Mich.). Ladies Circle"
+      ],
+      "date": [
+        {
+          "begin": "1922",
+          "displayDate": "1922",
+          "end": "1922"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Grand Rapids"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "The North Park cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1922-01-01",
+      "normalized_dates": [
+        "1922-01-01"
+      ],
+      "date_range": {
+        "begin": "1922-01-01",
+        "end": "1922-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m52j6c561/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m52j6c561"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Presbyterian"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church, Presbyterian; Digitized scan available"
+}

@@ -1,0 +1,496 @@
+{
+  "source": "internet_archive",
+  "identifier": "hersheysholidayc0000unse",
+  "title": "Hershey's holiday collection",
+  "creator": "None",
+  "year": 2002,
+  "subject": [
+    "Christmas cooking",
+    "Holiday cooking"
+  ],
+  "description": [
+    "98 pages : 21 cm",
+    "Cover title"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/hersheysholidayc0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/hersheysholidayc0000unse"
+        }
+      ]
+    },
+    "created": 1758555907,
+    "d1": "ia600709.us.archive.org",
+    "d2": "ia800709.us.archive.org",
+    "dir": "/11/items/hersheysholidayc0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660147183",
+        "size": "28600",
+        "md5": "e455248825e7a6a36755e78fc4929402",
+        "crc32": "05167028",
+        "sha1": "47837bcb08c7527b88aeef35d45945eaf96a56e1",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "hersheysholidayc0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "hersheysholidayc0000unse_hocr.html",
+        "mtime": "1753444845",
+        "size": "46403186",
+        "private": "true",
+        "md5": "864bcf059051c0e03f0a9dec5e3e2291",
+        "crc32": "6b931bea",
+        "sha1": "bf7173dfb8ef286ba5fb59f7f1ed782bcb52efcc"
+      },
+      {
+        "name": "hersheysholidayc0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "hersheysholidayc0000unse.pdf",
+        "mtime": "1753444693",
+        "size": "9772776",
+        "md5": "98e143c78f14dac63039e406a6337579",
+        "crc32": "4db5d430",
+        "sha1": "80ce553f93da41315de9d99d1e9940a75f30bf28"
+      },
+      {
+        "name": "hersheysholidayc0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "hersheysholidayc0000unse_page_numbers.json",
+        "mtime": "1724533217",
+        "size": "9421221",
+        "md5": "b01439742d3f323ce8b227fb5102419a",
+        "crc32": "11106899",
+        "sha1": "fe373f377f2da8619740c4a5649255942b5dfb67",
+        "private": "true"
+      },
+      {
+        "name": "hersheysholidayc0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "hersheysholidayc0000unse_jp2.zip",
+        "mtime": "1541612400",
+        "size": "1387613",
+        "md5": "cb2783d1bc7c00415be4be976b96bf5c",
+        "crc32": "12804cf2",
+        "sha1": "7db386e3c3c3f11832ca7137a6412880429589c3",
+        "private": "true"
+      },
+      {
+        "name": "hersheysholidayc0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "hersheysholidayc0000unse_abbyy.gz",
+        "mtime": "1660147076",
+        "size": "1153946",
+        "md5": "c1f17ce8a7fbb66b05e343bae5be6711",
+        "crc32": "8a0b934c",
+        "sha1": "bc5324035d771b6b77f8c45fe3349bf9d9a74f3c",
+        "private": "true"
+      },
+      {
+        "name": "hersheysholidayc0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "hersheysholidayc0000unse_scandata.xml",
+        "mtime": "1670183751",
+        "size": "789",
+        "md5": "123bbff85670502f0c1e247d05f883a4",
+        "crc32": "73b1704f",
+        "sha1": "9734f3888957428a85cbb3a0e18b21fa6d31ad7b",
+        "private": "true"
+      },
+      {
+        "name": "hersheysholidayc0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660147056",
+        "size": "1251",
+        "md5": "c4e50fc49ec755e5ac30ca7a4341e353",
+        "crc32": "2ca36b5f",
+        "sha1": "51a2423bb5cdf23024fc2d6d3f6724e8d3afb96f"
+      },
+      {
+        "name": "hersheysholidayc0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "hersheysholidayc0000unse_djvu.xml",
+        "mtime": "1660147174",
+        "size": "107020",
+        "md5": "f72ddf7d35f9108a3f2c03f94deea179",
+        "crc32": "d9c78def",
+        "sha1": "fbf9c9360af1b1c252369f48a1c74c9358764058",
+        "private": "true"
+      },
+      {
+        "name": "hersheysholidayc0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "hersheysholidayc0000unse_hocr.html",
+        "mtime": "1660147129",
+        "size": "1277135",
+        "md5": "8682e23e903aaa97d4c57b6f098e8cf1",
+        "crc32": "42e193cd",
+        "sha1": "f33d0fe1a14ba31e00d9397626a7a991447ff58e",
+        "private": "true"
+      },
+      {
+        "name": "hersheysholidayc0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "hersheysholidayc0000unse_abbyy.gz",
+        "mtime": "1541612827",
+        "size": "1851906",
+        "md5": "f62d212dd306d97eef0de7db80d202ce",
+        "crc32": "cb6f8d91",
+        "sha1": "5f49db670aff5f727bf501a3b7c2a65976383422"
+      },
+      {
+        "name": "hersheysholidayc0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "hersheysholidayc0000unse.pdf",
+        "mtime": "1724533725",
+        "size": "9363516",
+        "md5": "58332a4846d2f11c0fb6625e894b9953",
+        "crc32": "1428d1a0",
+        "sha1": "f19addab86772272919248e14362124d6d8bfed2"
+      },
+      {
+        "name": "hersheysholidayc0000unse_events.json",
+        "source": "original",
+        "mtime": "1541610424",
+        "size": "50",
+        "md5": "839945a5302cd405dafaed7af19a78ac",
+        "crc32": "bbbee0a5",
+        "sha1": "143035f652520c70d7fedde4e01bd76a91f6b816",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "hersheysholidayc0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "41a21ae83415d86808a010dc975592bc",
+        "summation": "md5"
+      },
+      {
+        "name": "hersheysholidayc0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "hersheysholidayc0000unse_chocr.html.gz",
+        "mtime": "1660147116",
+        "size": "2653829",
+        "md5": "4d0e63543e9975b1d6b596eea25cebb6",
+        "crc32": "e7c90f4f",
+        "sha1": "1467b32c23215bc0155f979c0dd8b0718e095c9b",
+        "private": "true"
+      },
+      {
+        "name": "hersheysholidayc0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "hersheysholidayc0000unse_hocr.html",
+        "mtime": "1660147150",
+        "size": "1074",
+        "md5": "439c018366f6fe274e91fb4e39e1b4f6",
+        "crc32": "0c7e6fac",
+        "sha1": "e89c681078c51d0273e9351327c665f3e4857622",
+        "private": "true"
+      },
+      {
+        "name": "hersheysholidayc0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "151",
+        "word_conf_11_20": "153",
+        "word_conf_21_30": "190",
+        "word_conf_31_40": "196",
+        "word_conf_41_50": "271",
+        "word_conf_51_60": "240",
+        "word_conf_61_70": "457",
+        "word_conf_71_80": "739",
+        "word_conf_81_90": "1817",
+        "word_conf_91_100": "10578",
+        "format": "OCR Search Text",
+        "original": "hersheysholidayc0000unse_hocr.html",
+        "mtime": "1660147164",
+        "size": "24085",
+        "md5": "e0b407557ed6aadc8bff3f592dca5c57",
+        "crc32": "eac2ee0e",
+        "sha1": "162303035b426c7a2d9a96650ba517a849930298",
+        "private": "true"
+      },
+      {
+        "name": "hersheysholidayc0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "hersheysholidayc0000unse_orig_jp2.tar",
+        "mtime": "1541611535",
+        "size": "94050765",
+        "md5": "5921363b7da4a2ce917f5d1a77584499",
+        "crc32": "5e3ed35a",
+        "sha1": "a2a7f5ebabe05ace0decc99630e5c30cf228d485",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "hersheysholidayc0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "hersheysholidayc0000unse.epub",
+        "mtime": "1753444926",
+        "size": "46579227",
+        "md5": "ba1356f80400cb1de71a5000b5a3d3b4",
+        "crc32": "b073a396",
+        "sha1": "002c1a277073b1cf5d6e7b3bf87f64e739a2d821"
+      },
+      {
+        "name": "hersheysholidayc0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593803129",
+        "size": "4346",
+        "format": "JSON",
+        "private": "true",
+        "md5": "b0ec010a36b41842d0c2c0d98025e652",
+        "crc32": "80438c4a",
+        "sha1": "211dbc4d1f744a8cf12519e4f5e4301cccafdd0e"
+      },
+      {
+        "name": "hersheysholidayc0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1660147055",
+        "size": "4465",
+        "format": "MARC",
+        "md5": "cd2e9ebe1f8a4378b8a6da361d1cc778",
+        "crc32": "50383e82",
+        "sha1": "5e8e6e2074c05b34caabd847d84db67f05917d63"
+      },
+      {
+        "name": "hersheysholidayc0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1540982893",
+        "size": "1311",
+        "md5": "209686be09dd0987c57cb1ea29b4ca51",
+        "crc32": "87dbf08f",
+        "sha1": "782c7365f1f12c9c74de461d503b88cf3eaec394",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "hersheysholidayc0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1541610453",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "360401d85c75c5a6554996e7b4fcb8da",
+        "crc32": "58af4a41",
+        "sha1": "b5a2f5cb726d76c4c694eadc4c4179b224e67aae"
+      },
+      {
+        "name": "hersheysholidayc0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753444927",
+        "size": "3216",
+        "format": "Metadata",
+        "md5": "e826c30bbaa7791475ef9be8378a2f49",
+        "crc32": "4df396a6",
+        "sha1": "1d031c20f45468d4d9ddb981ec7c9e9ba0ba5672"
+      },
+      {
+        "name": "hersheysholidayc0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1541610452",
+        "size": "256133120",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "8074e7a21699e014033bf6fd61ade23c",
+        "crc32": "32641b31",
+        "sha1": "1b1dccd4b56e113a53bb8513ebca2412bdeee26d",
+        "filecount": "102"
+      },
+      {
+        "name": "hersheysholidayc0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "96",
+        "format": "Page Numbers JSON",
+        "original": "hersheysholidayc0000unse_hocr.html",
+        "mtime": "1724533214",
+        "size": "17058",
+        "md5": "ba27f93d2014a5ec3b1617aae72644e6",
+        "crc32": "59c9dfab",
+        "sha1": "c82fbe804635556e58fc24ce0092b29642e4986d",
+        "private": "true"
+      },
+      {
+        "name": "hersheysholidayc0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670183751",
+        "size": "104607",
+        "format": "Scandata",
+        "md5": "97d08128b67d4041c865854c5c0d4c55",
+        "crc32": "c66355e7",
+        "sha1": "737d39a7a2bc5a586f7a98f2988149d25f360475"
+      },
+      {
+        "name": "hersheysholidayc0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "hersheysholidayc0000unse_djvu.xml",
+        "mtime": "1670183656",
+        "size": "576",
+        "md5": "8036c243a2c3a184856aff0345e168bf",
+        "crc32": "6aa5f9fa",
+        "sha1": "972731f5402b457ba35ee968d488833ec392869e",
+        "private": "true"
+      },
+      {
+        "name": "logs/hersheysholidayc0000unse_iabdash_2018-10-3118:47:58.log",
+        "source": "original",
+        "mtime": "1540982883",
+        "size": "685",
+        "md5": "4f715bd4099698410555587e192179d0",
+        "crc32": "6eb128f5",
+        "sha1": "a6a5a96b52a97fcef77df4cb9dc5ed2fcb97c7c1",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/hersheysholidayc0000unse_scanning_2018-10-3118:47:54.log",
+        "source": "original",
+        "mtime": "1540982878",
+        "size": "302901",
+        "md5": "09a65f25dc0a00cb319c9ba3f61ec673",
+        "crc32": "351bc16f",
+        "sha1": "51b3c92dadafc8cfda9c87530c7074c45e216f9c",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753444927,
+    "item_size": 480667682,
+    "metadata": {
+      "identifier": "hersheysholidayc0000unse",
+      "associated-names": "Hershey Foods Corporation",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "None",
+      "creator-alt-script": "None",
+      "date": "2002-01-01",
+      "description": [
+        "98 pages : 21 cm",
+        "Cover title"
+      ],
+      "isbn": [
+        "0785379339",
+        "9780785379331",
+        "0785381244",
+        "9780785381242"
+      ],
+      "language": "eng",
+      "lccn": "2005276242",
+      "mediatype": "texts",
+      "operator": "associate-wangbaogui@archive.org",
+      "ppi": "300",
+      "printer": "DYMO_LabelWriter_450_Turbo",
+      "publisher": "Lincolnwood, IL : Publications International",
+      "repub_state": "22",
+      "scanner": "ttscribe14.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "subject": [
+        "Christmas cooking",
+        "Holiday cooking",
+        "Christmas cooking",
+        "Holiday cooking"
+      ],
+      "title": "Hershey's holiday collection",
+      "title-alt-script": "None",
+      "tts_version": "v1.61-final",
+      "uploader": "ttscribe14.hongkong@archive.org",
+      "addeddate": "2018-10-31 10:47:43",
+      "publicdate": "2018-10-31 10:48:26",
+      "imagecount": "102",
+      "scandate": "20181031114315",
+      "notes": "Title on cover page.<br />Leaf 100 this object is attached to the original book and con't to ripped off.",
+      "republisher_operator": "republisher8.dhaka@archive.org",
+      "republisher_date": "20181107230647",
+      "republisher_time": "603",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/hersheysholidayc0000unse",
+      "identifier-ark": "ark:/13960/t1mh4zm00",
+      "external-identifier": [
+        "urn:acs6:hersheysholidayc0000unse:epub:85ab1093-5543-402e-bf56-0966cf8fc6a0",
+        "urn:acs6:hersheysholidayc0000unse:pdf:a52cecde-3954-44bc-9827-951b2f342d52",
+        "urn:lcp:hersheysholidayc0000unse:lcpdf:84df6e32-a3dc-4bef-9c98-80aedb2e09d6",
+        "urn:lcp:hersheysholidayc0000unse:epub:00e84bc9-4a79-4586-b843-f99fc7812ffd"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "boxid": "IA1398714",
+      "sponsordate": "20181130",
+      "openlibrary_edition": "OL11035500M",
+      "openlibrary_work": "OL18163333W",
+      "access-restricted-item": "true",
+      "backup_location": "ia906803_23",
+      "oclc-id": [
+        "51211810",
+        "67374176"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "96",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800709.us.archive.org",
+    "uniq": 498704078,
+    "workable_servers": [
+      "ia800709.us.archive.org",
+      "ia600709.us.archive.org"
+    ]
+  },
+  "institution": "None",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

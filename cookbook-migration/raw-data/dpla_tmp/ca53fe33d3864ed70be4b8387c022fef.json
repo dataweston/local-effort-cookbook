@@ -1,0 +1,106 @@
+{
+  "source": "dpla",
+  "id": "ca53fe33d3864ed70be4b8387c022fef",
+  "identifier": "ca53fe33d3864ed70be4b8387c022fef",
+  "title": "The Ludington cook book",
+  "subject": [
+    "Community cookbooks",
+    "Cooking",
+    "Cooking, American"
+  ],
+  "spatial": [
+    "Michigan",
+    "Ludington"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5ww7b163",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1891,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/ca53fe33d3864ed70be4b8387c022fef#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "creator": [
+        "Congregational Church (Ludingtion, Mich.). Ladies' Aid Society"
+      ],
+      "date": [
+        {
+          "begin": "1891",
+          "displayDate": "1891",
+          "end": "1891"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Ludington"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Community cookbooks"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Cooking, American"
+        }
+      ],
+      "title": [
+        "The Ludington cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1891-01-01",
+      "normalized_dates": [
+        "1891-01-01"
+      ],
+      "date_range": {
+        "begin": "1891-01-01",
+        "end": "1891-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5ww7b163/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5ww7b163"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Ladies' Aid"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church, Ladies' Aid; Digitized scan available"
+}

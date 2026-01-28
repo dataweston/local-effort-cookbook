@@ -1,0 +1,636 @@
+{
+  "source": "internet_archive",
+  "identifier": "365foodskidslove00elli",
+  "title": "365 foods kids love to eat : nutritious and kid-tested",
+  "creator": "Ellison, Sheila",
+  "year": 1995,
+  "subject": [
+    "Cookery",
+    "Children"
+  ],
+  "description": null,
+  "metadata": {
+    "created": 1758555291,
+    "d1": "ia902800.us.archive.org",
+    "d2": "ia802800.us.archive.org",
+    "dir": "/24/items/365foodskidslove00elli",
+    "files": [
+      {
+        "name": "365foodskidslove00elli.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "365foodskidslove00elli_hocr.html",
+        "mtime": "1754518274",
+        "size": "224762325",
+        "private": "true",
+        "md5": "f3ea5f814c1fc20108228f0658c84d9d",
+        "crc32": "dc79a4e4",
+        "sha1": "05a6db9a778c5d91b320281996b1bde982263a5b"
+      },
+      {
+        "name": "365foodskidslove00elli.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "365foodskidslove00elli_jp2.zip",
+        "md5": "dac4e5e1b3dfe4d139167a89605e4545",
+        "mtime": "1259172112",
+        "size": "361004",
+        "crc32": "da589af1",
+        "sha1": "1490daf1ff0121103a7d387e99238c1df7d9ef6c"
+      },
+      {
+        "name": "365foodskidslove00elli.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "365foodskidslove00elli.pdf",
+        "mtime": "1754517868",
+        "size": "25976395",
+        "md5": "cb3da5a68bb4a7d7d9beba2db629a22b",
+        "crc32": "b5c31652",
+        "sha1": "2fbccf579b69a2f0c75ead8068d8507109437212"
+      },
+      {
+        "name": "365foodskidslove00elli.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "365foodskidslove00elli_page_numbers.json",
+        "mtime": "1713419081",
+        "size": "25615223",
+        "md5": "bf502751b3c8081a71874a93e91fc252",
+        "crc32": "d133be79",
+        "sha1": "fca8f7b02a6143f2f2343ee9d09ea2245d361b07",
+        "private": "true"
+      },
+      {
+        "name": "365foodskidslove00elli_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.1.0-1-ge935",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.16",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "la",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "365foodskidslove00elli_jp2.zip",
+        "mtime": "1658086504",
+        "size": "3696780",
+        "md5": "c75c147cbd91c207b2f70ba2f3a1bae6",
+        "crc32": "06948e30",
+        "sha1": "07e285cb8ea612f001e9b353eb5d6df84ace1bd7",
+        "private": "true"
+      },
+      {
+        "name": "365foodskidslove00elli_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "365foodskidslove00elli_scandata.xml",
+        "mtime": "1658086569",
+        "size": "780",
+        "md5": "7e8deacac77c30fba4ec03bacd9a2a59",
+        "crc32": "694ca6cb",
+        "sha1": "852788211a57c4a4f56586db6debccbbb40a0a4b",
+        "private": "true"
+      },
+      {
+        "name": "365foodskidslove00elli_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "587d3e204a79a1d80c0648c18b2b8951",
+        "mtime": "1259073774",
+        "size": "658",
+        "crc32": "14c7d584",
+        "sha1": "7f5a95995f183dd0a1d21f31b5bb8770cb98bae5"
+      },
+      {
+        "name": "365foodskidslove00elli_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "365foodskidslove00elli_djvu.xml",
+        "mtime": "1658086816",
+        "size": "304176",
+        "md5": "5c6047f11c865a8ba3c60225ae42a97a",
+        "crc32": "9c95cd91",
+        "sha1": "d8c816a6d6eefd37c39aeeb7a958901fdd220fa0",
+        "private": "true"
+      },
+      {
+        "name": "365foodskidslove00elli_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "365foodskidslove00elli_hocr.html",
+        "mtime": "1658086676",
+        "size": "4271995",
+        "md5": "798423d460df22759ce38756b8d42b4c",
+        "crc32": "fb432b8a",
+        "sha1": "1cf1c6e81b452973af5f5123eed0803eeb00f8ba",
+        "private": "true"
+      },
+      {
+        "name": "365foodskidslove00elli_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "365foodskidslove00elli.pdf",
+        "mtime": "1713419126",
+        "size": "25509101",
+        "md5": "7818c846fec92ce6e432e5c6dbccbf12",
+        "crc32": "937c02c9",
+        "sha1": "93ef1895d1ff5acc05e468ca284533e2cc8bdcd5"
+      },
+      {
+        "name": "365foodskidslove00elli_extramarc.xml",
+        "source": "original",
+        "mtime": "1420452897",
+        "size": "3527",
+        "md5": "a88ea4d97ce5fc0ec7755430933b010d",
+        "crc32": "515de6d9",
+        "sha1": "40c03686554e39d2be49a89ec1f137f7f3fd2d81",
+        "format": "Metadata"
+      },
+      {
+        "name": "365foodskidslove00elli_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "912477dc0b9ee98a06b0bde53c8ec3c9",
+        "summation": "md5"
+      },
+      {
+        "name": "365foodskidslove00elli_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.16",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "la",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "365foodskidslove00elli_chocr.html.gz",
+        "mtime": "1658086648",
+        "size": "8111054",
+        "md5": "68425831ce334ed0ba6b3736c812aaaf",
+        "crc32": "70ef206b",
+        "sha1": "3bce10af1c50adcf03ef9fa9a91e0d8fb26b1f9e",
+        "private": "true"
+      },
+      {
+        "name": "365foodskidslove00elli_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "365foodskidslove00elli_hocr.html",
+        "mtime": "1658086761",
+        "size": "4957",
+        "md5": "d85b2b8fc5546c49f3c61a1cce7913db",
+        "crc32": "9cd16499",
+        "sha1": "6a7cae9f5c78ed2d8c3d2789f32234a4d81d0b35",
+        "private": "true"
+      },
+      {
+        "name": "365foodskidslove00elli_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "12652",
+        "word_conf_11_20": "4329",
+        "word_conf_21_30": "4602",
+        "word_conf_31_40": "4736",
+        "word_conf_41_50": "4482",
+        "word_conf_51_60": "4015",
+        "word_conf_61_70": "3621",
+        "word_conf_71_80": "3384",
+        "word_conf_81_90": "4822",
+        "word_conf_91_100": "2622",
+        "format": "OCR Search Text",
+        "original": "365foodskidslove00elli_hocr.html",
+        "mtime": "1658086800",
+        "size": "147037",
+        "md5": "93d1d894110909666ffc6aad24af058e",
+        "crc32": "7364428b",
+        "sha1": "007436ca95534e5a56db708e2eabeb2df846d4bc",
+        "private": "true"
+      },
+      {
+        "name": "365foodskidslove00elli_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "365foodskidslove00elli_orig_jp2.tar",
+        "md5": "eea45138efa809abdb8be21a2a17a567",
+        "mtime": "1259172036",
+        "size": "153045192",
+        "crc32": "bbc64a17",
+        "sha1": "c43d337545cdf7fb9cbd6d9b83669e1b68b981e1",
+        "private": "true",
+        "filecount": "426"
+      },
+      {
+        "name": "365foodskidslove00elli_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "365foodskidslove00elli.epub",
+        "mtime": "1754518329",
+        "size": "230334470",
+        "md5": "780c6a54b3bb905f7e509c6900c9b34c",
+        "crc32": "0f7d548e",
+        "sha1": "5fed524dbbabf00f9a17bb2d0ac8b098e82c11e2"
+      },
+      {
+        "name": "365foodskidslove00elli_loans.json",
+        "source": "original",
+        "mtime": "1587741202",
+        "size": "2451",
+        "format": "JSON",
+        "private": "true",
+        "md5": "0b6862435bfafb216f782d720d3da9c0",
+        "crc32": "707c3dac",
+        "sha1": "e7f8078555b095c3b0c5a1936048d632f23172ff"
+      },
+      {
+        "name": "365foodskidslove00elli_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "86a2357c7125086645972ca057814811",
+        "mtime": "1259073774",
+        "size": "4275",
+        "crc32": "ae79c8c2",
+        "sha1": "53d32f0db8d686dda7d0aecf65bef6d3a8049309"
+      },
+      {
+        "name": "365foodskidslove00elli_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "365foodskidslove00elli_xisbn.json",
+        "mtime": "1454314870",
+        "size": "816",
+        "md5": "1063e7acac198bdaa81b0455827f25d8",
+        "crc32": "9bff1eb4",
+        "sha1": "960619611d3fbf4d8d40a0c651ba316c5d1a9325",
+        "private": "true"
+      },
+      {
+        "name": "365foodskidslove00elli_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "78efb95a1b2a57fcb0000d0d243b14bc",
+        "mtime": "1259073774",
+        "size": "1213",
+        "crc32": "28a7b740",
+        "sha1": "e13547ea2b39d806a36e62d1f76cb5eeb59af176"
+      },
+      {
+        "name": "365foodskidslove00elli_meta.sqlite",
+        "source": "original",
+        "mtime": "1464363997",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "d83a14eeb4754696c8e35e23e99aa0b2",
+        "crc32": "0f8370d0",
+        "sha1": "eed208488e89f95077908b5668d2979c2f49494d"
+      },
+      {
+        "name": "365foodskidslove00elli_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1754518330",
+        "size": "4296",
+        "md5": "dc36f0985b06520e24cc4734f28db3bb",
+        "crc32": "98b01dd9",
+        "sha1": "0a892a225475a2c6d6360bf1fe3f2adad23ee514"
+      },
+      {
+        "name": "365foodskidslove00elli_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "013db47b880883127f14ded56dee60fb",
+        "mtime": "1259073774",
+        "size": "410",
+        "crc32": "131a7994",
+        "sha1": "eef9585c835cdcfd1410e6c3b35c7cf83401b841"
+      },
+      {
+        "name": "365foodskidslove00elli_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "2e713c1e09a46c49d11bc6d47b78d367",
+        "mtime": "1259166244",
+        "size": "192931840",
+        "crc32": "f7d40fce",
+        "sha1": "1bfe71aaae93dece45feef4bc1edbfebe8bb8d0a",
+        "private": "true",
+        "filecount": "426"
+      },
+      {
+        "name": "365foodskidslove00elli_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "365foodskidslove00elli_hocr.html",
+        "mtime": "1713419081",
+        "size": "71451",
+        "md5": "be0fc76ea31b89ef387c0cbcd57d2451",
+        "crc32": "9dceaa06",
+        "sha1": "01d142fe8bf9e5eb55e72e4f23151feb9ff2aec7",
+        "private": "true"
+      },
+      {
+        "name": "365foodskidslove00elli_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "ed7974a2e43735cee0a3ce5815b66775",
+        "mtime": "1658086568",
+        "size": "222931",
+        "crc32": "c0d0017e",
+        "sha1": "784aea6a8fe40752b9b0fcf2778a2fd6e721cb7d"
+      },
+      {
+        "name": "365foodskidslove00elli_xisbn.json",
+        "source": "original",
+        "mtime": "1454005688",
+        "size": "1682",
+        "md5": "eac66d2fabadc770801cf7c0b94094c3",
+        "crc32": "af69df0c",
+        "sha1": "81d5611de32e1e21a9ce6927615fd32444d847a5",
+        "format": "OCLC xISBN JSON"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658102117",
+        "size": "30152",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "9b954ea6cf515da4ce25552601b28c9f",
+        "crc32": "3ff89cf1",
+        "sha1": "b94f135c6fe99ff255d693cedfd73f88f9b4f42c"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1754518330,
+    "item_size": 895422335,
+    "metadata": {
+      "title": "365 foods kids love to eat : nutritious and kid-tested",
+      "creator": [
+        "Ellison, Sheila",
+        "Gray, Judith Anne, 1939-"
+      ],
+      "subject": [
+        "Cookery",
+        "Children"
+      ],
+      "publisher": "Naperville, IL : Sourcebooks, Inc.",
+      "date": "1995-01-01",
+      "language": "eng",
+      "isbn": [
+        "1570710309",
+        "9781570710308"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA102309",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "nyc",
+      "mediatype": "texts",
+      "updatedate": "2009-11-24 14:42:54",
+      "updater": "Christine Wagner",
+      "identifier": "365foodskidslove00elli",
+      "uploader": "christine.w@archive.org",
+      "addeddate": "2009-11-24 14:42:56",
+      "publicdate": "2009-11-24 14:43:05",
+      "ppi": "500",
+      "camera": "Canon 5D",
+      "operator": "scanner-kiersten-newman@archive.org",
+      "scanner": "scribe8.nyc.archive.org",
+      "scandate": "20091125155851",
+      "imagecount": "424",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/365foodskidslove00elli",
+      "identifier-ark": "ark:/13960/t24b3p248",
+      "curation": "[curator]stacy@archive.org[/curator][date]20100104182015[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:365foodskidslove00elli:pdf:c6178a00-68ac-43c4-996a-30c59b37c419",
+        "urn:acs6:365foodskidslove00elli:epub:4849607a-8926-445c-b061-fe68a4169b0a",
+        "urn:oclc:record:1023747202",
+        "urn:lcp:365foodskidslove00elli:lcpdf:21d1131d-5b36-43e7-86f3-c645200f8939",
+        "urn:lcp:365foodskidslove00elli:epub:8157c635-7d43-4fe6-9cc1-4b81b3f799b4"
+      ],
+      "boxid_2": "CH120120402-BL1",
+      "extramarc": "Cornell University",
+      "city": "Naperville, IL",
+      "edition": "2nd ed.",
+      "oclc-id": "31971036",
+      "lccn": "95003310",
+      "related-external-id": [
+        "urn:isbn:1402205856",
+        "urn:lccn:2006282168",
+        "urn:oclc:61857345",
+        "urn:oclc:703427533",
+        "urn:oclc:704506381",
+        "urn:isbn:1402231245",
+        "urn:oclc:298954577",
+        "urn:isbn:1402220537",
+        "urn:oclc:437237584",
+        "urn:isbn:1281817937",
+        "urn:oclc:815735843"
+      ],
+      "backup_location": "ia903604_15",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-04-24T11:05:39Z",
+      "openlibrary_edition": "OL1272031M",
+      "openlibrary_work": "OL1891873W",
+      "loans__status__num_history": "6",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 1:21:28 UTC 2020",
+        "Tue Apr 2 20:33:52 UTC 2024"
+      ],
+      "ocr": "tesseract 5.1.0-1-ge935",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.16",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "la",
+      "ocr_detected_lang_conf": "1.0000",
+      "pdf_module_version": "0.0.18",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "delawarecountydistrictlibrary",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia802800.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "delawarecountydistrictlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9781570710308"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-01-11 08:10:12.331055"
+        },
+        "library_of_atlantis": {
+          "notes": {
+            "isbn": "9781570710308"
+          },
+          "sys_changed_by": {
+            "source": "task",
+            "task_id": "718194457"
+          },
+          "sys_last_changed": "2017-08-09 01:15:43.525075"
+        }
+      }
+    },
+    "uniq": 790020378,
+    "workable_servers": [
+      "ia802800.us.archive.org",
+      "ia902800.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/31971036?referer=xid"
+          ],
+          "publisher": "Sourcebooks, Inc.",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "95003310"
+          ],
+          "lang": "eng",
+          "city": "Naperville, IL",
+          "author": "Sheila Ellison & Judith Gray.",
+          "ed": "2nd ed.",
+          "year": "1995",
+          "isbn": [
+            "1570710309"
+          ],
+          "title": "365 foods kids love to eat : nutritious and kid-tested",
+          "oclcnum": [
+            "31971036"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/61857345?referer=xid"
+          ],
+          "publisher": "Sourcebooks Inc.",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "2006282168"
+          ],
+          "lang": "eng",
+          "city": "Naperville, IL",
+          "author": "Sheila Ellison & Judith Gray.",
+          "ed": "3rd ed.",
+          "year": "2005",
+          "isbn": [
+            "1402205856"
+          ],
+          "title": "365 foods kids love to eat : fun, nutritious & kid-tested",
+          "oclcnum": [
+            "61857345",
+            "703427533",
+            "704506381"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/298954577?referer=xid"
+          ],
+          "publisher": "Sourcebooks Inc.",
+          "form": [
+            "BA",
+            "DA"
+          ],
+          "lang": "eng",
+          "city": "Naperville, IL",
+          "author": "Sheila Ellison & Judith Gray.",
+          "ed": "3rd ed.",
+          "year": "2005",
+          "isbn": [
+            "1402231245"
+          ],
+          "title": "365 foods kids love to eat fun, nutritious & kid-tested",
+          "oclcnum": [
+            "298954577"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/298954577?referer=xid"
+          ],
+          "publisher": "Sourcebooks Inc.",
+          "form": [
+            "BA",
+            "DA"
+          ],
+          "lang": "eng",
+          "city": "Naperville, IL",
+          "author": "Sheila Ellison & Judith Gray.",
+          "ed": "3rd ed.",
+          "year": "2005",
+          "isbn": [
+            "1402220537"
+          ],
+          "title": "365 foods kids love to eat fun, nutritious & kid-tested",
+          "oclcnum": [
+            "298954577",
+            "437237584"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/815735843?referer=xid"
+          ],
+          "isbn": [
+            "1281817937"
+          ],
+          "year": "2005",
+          "publisher": "Sourcebooks",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "title": "365 Foods Kids Love to Eat: Fun, Nutritious and Kid-Tested!",
+          "oclcnum": [
+            "815735843"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Ellison, Sheila",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

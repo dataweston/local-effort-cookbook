@@ -1,0 +1,148 @@
+{
+  "source": "internet_archive",
+  "identifier": "ARCHIVEIT-1635-WEEKLY-SOYUNZ-00000",
+  "title": "Archive-It Crawl Data: Partner 383 Collection 1635 Recurrence WEEKLY (around 2011-05-18T16:50:08Z)",
+  "creator": "Archive-It",
+  "year": 2011,
+  "subject": null,
+  "description": "recurrence=WEEKLY, maxDuration=259200, maxDocumentCount=null, isTestCrawl=false, seedCount=99, accountId=383, organizationName=\"Minnesota Historical Society\", collectionId=1635, collectionName=\"Minnesota Newspapers Online\"",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721507.ca.archive.org",
+          "dir": "/0/items/ARCHIVEIT-1635-WEEKLY-SOYUNZ-00000"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721507.ca.archive.org",
+          "dir": "/0/items/ARCHIVEIT-1635-WEEKLY-SOYUNZ-00000"
+        }
+      ]
+    },
+    "created": 1758318579,
+    "d1": "ia600209.us.archive.org",
+    "d2": "ia800209.us.archive.org",
+    "dir": "/23/items/ARCHIVEIT-1635-WEEKLY-SOYUNZ-00000",
+    "files": [
+      {
+        "name": "ARCHIVEIT-1635-WEEKLY-SOYUNZ-00000.cdx.gz",
+        "source": "original",
+        "mtime": "1397158721",
+        "size": "1071",
+        "md5": "5a50d012cafe142b6cf838a9759f5010",
+        "crc32": "dbb0bf66",
+        "sha1": "5b1badf4d23c28bd7fd4cd79fb5103618bd37fae",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "ARCHIVEIT-1635-WEEKLY-SOYUNZ-00000.cdx.idx",
+        "source": "original",
+        "mtime": "1397158721",
+        "size": "50",
+        "md5": "77157a2d9c4fd19250e0d996e9d0e86b",
+        "crc32": "c4c01f9b",
+        "sha1": "1c165ff960a9a165a8b539b8b815efcd30562010",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "ARCHIVEIT-1635-WEEKLY-SOYUNZ-00000_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "c886a45648c191ef708b04452633278a",
+        "summation": "md5"
+      },
+      {
+        "name": "ARCHIVEIT-1635-WEEKLY-SOYUNZ-00000_meta.sqlite",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1396000350",
+        "size": "11264",
+        "md5": "6044550f3c0e4fa3eba688f0da8b70e0",
+        "crc32": "1d6d8503",
+        "sha1": "a89aee9469532dbab91a964d5c63a5cf15687a19"
+      },
+      {
+        "name": "ARCHIVEIT-1635-WEEKLY-SOYUNZ-00000_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1718873753",
+        "size": "1702",
+        "md5": "e9e631f9e73d07f40a0d6ca18c29968e",
+        "crc32": "f409e399",
+        "sha1": "b50c2b6313a2564e4103668de617cdff41b6d93a"
+      },
+      {
+        "name": "ARCHIVEIT-1635-WEEKLY-SOYUNZ-20110518165008-00000-crawling207.us.archive.org-6680.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1396000333",
+        "size": "82309690",
+        "md5": "3541f189ebb3c8635bb6eb9d083297a5",
+        "crc32": "f0aa09c0",
+        "sha1": "cc59efeaabe4eecc1fb5bdfb463da3bfd6c15cce",
+        "private": "true"
+      },
+      {
+        "name": "ARCHIVEIT-1635-WEEKLY-SOYUNZ-20110518165008-00000-crawling207.us.archive.org-6680.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "ARCHIVEIT-1635-WEEKLY-SOYUNZ-20110518165008-00000-crawling207.us.archive.org-6680.warc.gz",
+        "mtime": "1397158231",
+        "size": "1079",
+        "md5": "b87ce63d8f351e4227cf625d1c4086d5",
+        "crc32": "a6f10468",
+        "sha1": "b3620091b292b6cf67163610f139a9e1edaa95c8",
+        "private": "true"
+      }
+    ],
+    "files_count": 7,
+    "item_last_updated": 1718873753,
+    "item_size": 82324856,
+    "metadata": {
+      "identifier": "ARCHIVEIT-1635-WEEKLY-SOYUNZ-00000",
+      "archiveit-account-id": "383",
+      "archiveit-account-organization-name": "N/A",
+      "archiveit-collection-id": "1635",
+      "archiveit-collection-name": "Minnesota Newspapers Online",
+      "archiveit-recurrence": "WEEKLY",
+      "contributor": "Internet Archive",
+      "crawler": "Heritrix/1.15.4",
+      "creator": "Archive-It",
+      "description": "recurrence=WEEKLY, maxDuration=259200, maxDocumentCount=null, isTestCrawl=false, seedCount=99, accountId=383, organizationName=\"Minnesota Historical Society\", collectionId=1635, collectionName=\"Minnesota Newspapers Online\"",
+      "mediatype": "web",
+      "scandate": "20110518165009",
+      "scanner": "crawling207.us.archive.org",
+      "sponsor": "N/A",
+      "title": "Archive-It Crawl Data: Partner 383 Collection 1635 Recurrence WEEKLY (around 2011-05-18T16:50:08Z)",
+      "collection": [
+        "ArchiveIt-Collection-1635",
+        "ArchiveIt-Partner-383",
+        "archiveitdigitalcollection",
+        "web",
+        "archiveitpartners"
+      ],
+      "publicdate": "2014-03-28 09:52:15",
+      "uploader": "archiveit-uploads@archive.org",
+      "addeddate": "2014-03-28 09:52:15",
+      "imagecount": "20",
+      "firstfiledate": "20110518165009",
+      "lastfiledate": "20110518165406",
+      "date": "2011-01-01",
+      "backup_location": "ia905805_35",
+      "access-restricted-item": "true",
+      "normalized_dates": [
+        "2011-01-01"
+      ]
+    },
+    "server": "ia600209.us.archive.org",
+    "uniq": 1456704114,
+    "workable_servers": [
+      "ia600209.us.archive.org",
+      "ia800209.us.archive.org"
+    ]
+  }
+}

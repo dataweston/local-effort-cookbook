@@ -1,0 +1,4609 @@
+{
+  "source": "internet_archive",
+  "identifier": "BBC_Radio_Foyle_20191212_140000",
+  "title": "BBC Radio Foyle : December 12, 2019 02:00PM-03:00PM GMT",
+  "creator": null,
+  "year": 2019,
+  "subject": [
+    "Radio Program",
+    "Rock and Roll Hall of Fame inductees",
+    "American male singers",
+    "American singer-songwriters",
+    "American dance music groups",
+    "Asylum Records artists",
+    "Health",
+    "Nonesuch Records artists",
+    "American blues singers",
+    "Columbia Records artists",
+    "American rock guitarists",
+    "University of Minnesota alumni",
+    "American soul musical groups",
+    "Education",
+    "Christian liturgy, rites, and worship services",
+    "Spirituality",
+    "Spiritual practice",
+    "Aging-associated diseases",
+    "Neurological disorders",
+    "Communes of Alpes-Maritimes",
+    "Photography"
+  ],
+  "description": null,
+  "metadata": {
+    "created": 1758318728,
+    "d1": "ia903105.us.archive.org",
+    "d2": "ia803105.us.archive.org",
+    "dir": "/18/items/BBC_Radio_Foyle_20191212_140000",
+    "ffmpeg": {
+      "format": {
+        "format_long_name": "MP2/3 (MPEG audio layer 2/3)",
+        "bit_rate": "128000",
+        "tags": {
+          "icy-charset": "UTF-8",
+          "StreamTitle": "",
+          "icy-description": "(C)2016 British Broadcasting Corporation",
+          "icy-name": "BBC Radio Foyle",
+          "icy-br": "128",
+          "icy-public": "0"
+        },
+        "start_time": "0.000000",
+        "nb_programs": 0,
+        "nb_streams": 1,
+        "probe_score": 50,
+        "format_name": "mp3",
+        "filename": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p"
+      },
+      "streams": [
+        {
+          "codec_type": "audio",
+          "codec_tag_string": "[0][0][0][0]",
+          "codec_long_name": "MP3 (MPEG audio layer 3)",
+          "index": 0,
+          "sample_fmt": "s16p",
+          "sample_rate": "48000",
+          "codec_name": "mp3",
+          "channel_layout": "stereo",
+          "codec_tag": "0x0000",
+          "time_base": "1/14112000",
+          "bits_per_sample": 0,
+          "bit_rate": "128000",
+          "start_time": "0.000000",
+          "start_pts": 0,
+          "avg_frame_rate": "0/0",
+          "disposition": {
+            "dub": 0,
+            "karaoke": 0,
+            "default": 0,
+            "lyrics": 0,
+            "attached_pic": 0,
+            "original": 0,
+            "hearing_impaired": 0,
+            "forced": 0,
+            "visual_impaired": 0,
+            "comment": 0,
+            "clean_effects": 0
+          },
+          "codec_time_base": "1/48000",
+          "r_frame_rate": "0/0",
+          "channels": 2
+        }
+      ]
+    },
+    "files": [
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000.afpk",
+        "source": "derivative",
+        "format": "Columbia Peaks",
+        "original": "BBC_Radio_Foyle_20191212_140000.mp3",
+        "mtime": "1588038009",
+        "size": "650016",
+        "md5": "b7feb0f5163c0b5539e978adbb53b5b7",
+        "crc32": "75f78975",
+        "sha1": "5a72440bba2e5d3bdca15033339424ff0d6f47f5"
+      },
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000.asr.js",
+        "source": "original",
+        "format": "ASR",
+        "mtime": "1576167821",
+        "size": "1076368",
+        "md5": "ba2b45174638310beaded8b4722df3be",
+        "crc32": "acb3570e",
+        "sha1": "9550b90830768b5403133fe3dc44d9b6f3efdb66"
+      },
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000.asr.srt",
+        "source": "original",
+        "format": "SubRip",
+        "mtime": "1576167819",
+        "size": "64424",
+        "md5": "0fe3b39b7f3509255ab04fba23ea8c45",
+        "crc32": "a52b929b",
+        "sha1": "e8bf126c021fed646876819b17a9a010200f6eb3"
+      },
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000.asr.vtt",
+        "source": "original",
+        "format": "Web Video Text Tracks",
+        "mtime": "1576167820",
+        "size": "65750",
+        "md5": "fa06a2722e27604eb186d4982ef22ad3",
+        "crc32": "9a58f4ff",
+        "sha1": "02e621b5d4e82238b9c3d02e0e48961159cd537b",
+        "private": "true"
+      },
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000.mp3",
+        "source": "original",
+        "mtime": "1576163852",
+        "size": "54280192",
+        "md5": "0f6d2e3470d386d2ecb9493241d4b461",
+        "crc32": "ebd49918",
+        "sha1": "184d55897337edf9be57299f0419d0a9c4d233b3",
+        "format": "VBR MP3",
+        "length": "3392.51",
+        "height": "0",
+        "width": "0",
+        "track": "01"
+      },
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000.png",
+        "source": "derivative",
+        "format": "PNG",
+        "original": "BBC_Radio_Foyle_20191212_140000.mp3",
+        "mtime": "1588037920",
+        "size": "36756",
+        "md5": "f6356dadbae020ff3c2af8408732d084",
+        "crc32": "414accae",
+        "sha1": "43e95f75ec6c8f5cc90f455daf75d7b0cd9c5380"
+      },
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000_ffmpeg.json",
+        "source": "original",
+        "mtime": "1576163868",
+        "size": "1705",
+        "md5": "b41bc609d53c750a5145b50a06df399c",
+        "crc32": "36191d7f",
+        "sha1": "0d42275e6a3609a6443180ec96cc46baee4372aa",
+        "format": "JSON"
+      },
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "4cbec352da742a9774a0bb43f221c15a"
+      },
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000_meta.sqlite",
+        "source": "original",
+        "mtime": "1576163878",
+        "size": "14336",
+        "format": "Metadata",
+        "md5": "38ee3d93c4f307961010192bda3b80cb",
+        "crc32": "4f893921",
+        "sha1": "ba421345cfb74010f213c73844f7d1976b3c1204"
+      },
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000_meta.xml",
+        "source": "original",
+        "mtime": "1604201533",
+        "size": "2720",
+        "format": "Metadata",
+        "md5": "43c3b38ba4b6fcba9b92738b03d41a62",
+        "crc32": "04404e86",
+        "sha1": "9c7c034be314412d89faa42b745901bc5958b2fc"
+      },
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000_spectrogram.png",
+        "source": "derivative",
+        "format": "Spectrogram",
+        "original": "BBC_Radio_Foyle_20191212_140000.mp3",
+        "mtime": "1588037945",
+        "size": "210027",
+        "md5": "eea6a23bc718e85fca258611e0db3d50",
+        "crc32": "10d05919",
+        "sha1": "97bdd17fb7fad08072b4a38139ef2864fcad5c8a"
+      },
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000_speech_confidence.json",
+        "source": "derivative",
+        "format": "Speech Confidence JSON",
+        "original": "BBC_Radio_Foyle_20191212_140000.mp3",
+        "mtime": "1576294167",
+        "size": "92235",
+        "md5": "c86de50f5d64e53cdc9ad18a032a4856",
+        "crc32": "d1bacf36",
+        "sha1": "8f293c3bc03f8adae65cb9beca18afe10fadeaec",
+        "private": "true"
+      },
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000_speech_vs_music.json",
+        "source": "derivative",
+        "format": "Speech VS Music JSON",
+        "original": "BBC_Radio_Foyle_20191212_140000_speech_confidence.json",
+        "mtime": "1576294167",
+        "size": "559",
+        "md5": "86387673adc3bd2f120fc579a537f811",
+        "crc32": "5ae26c67",
+        "sha1": "e38d4befe2488383759dcefe16b031e725645a3d",
+        "private": "true"
+      },
+      {
+        "name": "BBC_Radio_Foyle_20191212_140000_speech_vs_music_asr.json",
+        "source": "derivative",
+        "format": "JSON SRT",
+        "original": "BBC_Radio_Foyle_20191212_140000.asr.srt",
+        "mtime": "1576294190",
+        "size": "82988",
+        "md5": "4013b3d036afdffa522bf664edfb305d",
+        "crc32": "97172bfe",
+        "sha1": "4dfce41694ba3149880d280c0393df9a7ff0a0f4"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1604201534",
+        "size": "3429",
+        "md5": "fb0b9a2a1c2a65f9959ac66189435b5e",
+        "crc32": "116ad39b",
+        "sha1": "66d4b2f8333e3509bbf9fcd754aa4ca262c5919e",
+        "format": "Item Tile",
+        "rotation": "0"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1604201534,
+    "item_size": 56581505,
+    "metadata": {
+      "identifier": "BBC_Radio_Foyle_20191212_140000",
+      "audio_codec": "mp3",
+      "audio_sample_rate": "128000",
+      "collection": [
+        "Radio-BBC-Radio-Foyle",
+        "stream_only",
+        "radio",
+        "radioprograms"
+      ],
+      "contributor": "BBC Radio Foyle",
+      "coverage": "GB",
+      "date": "2019-12-12",
+      "language": "eng",
+      "mediatype": "audio",
+      "notes": "This material may be protected by copyright law (Title 17 U.S. Code).",
+      "num_recording_errors": "0",
+      "previous": "BBC_Radio_Foyle_20191212_130000",
+      "runtime": "01:00:00",
+      "scandate": "20191212140000",
+      "scanner": "researcher7.fnf.archive.org",
+      "scanningcenter": "San Francisco, CA, USA",
+      "software_version": "Radio Recorder Version 20191102.01",
+      "sound": "sound",
+      "source_schedule": "http://www.bbc.co.uk/radiofoyle/programmes/schedules",
+      "source_url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p",
+      "sponsor": "Internet Archive",
+      "start_localtime": "2019-12-12 14:00:00",
+      "start_time": "2019-12-12 14:00:00",
+      "stop_time": "2019-12-12 15:00:00",
+      "subject": [
+        "Radio Program",
+        "Rock and Roll Hall of Fame inductees",
+        "American male singers",
+        "American singer-songwriters",
+        "American dance music groups",
+        "Asylum Records artists",
+        "Health",
+        "Nonesuch Records artists",
+        "American blues singers",
+        "Columbia Records artists",
+        "American rock guitarists",
+        "University of Minnesota alumni",
+        "American soul musical groups",
+        "Education",
+        "Christian liturgy, rites, and worship services",
+        "Spirituality",
+        "Spiritual practice",
+        "Aging-associated diseases",
+        "Neurological disorders",
+        "Communes of Alpes-Maritimes",
+        "Photography"
+      ],
+      "title": "BBC Radio Foyle : December 12, 2019 02:00PM-03:00PM GMT",
+      "utc_offset": "000",
+      "year": "2019",
+      "uploader": "arkiver@archive.org",
+      "addeddate": "2019-12-12 15:17:32",
+      "publicdate": "2019-12-12 15:17:49",
+      "access-restricted-item": "true",
+      "next": "BBC_Radio_Foyle_20191212_150000",
+      "bad_audio": "false",
+      "backup_location": "ia907008_28",
+      "normalized_dates": [
+        "2019-12-12"
+      ]
+    },
+    "server": "ia803105.us.archive.org",
+    "speech_vs_music_asr": [
+      {
+        "end": 4.028,
+        "id": 1,
+        "is_music": false,
+        "start": 0.023,
+        "text": "Between 95 and 2002 and I used to say it was a brilliant job it was like being"
+      },
+      {
+        "end": 9.048,
+        "id": 2,
+        "is_music": false,
+        "start": 4.029,
+        "text": "a student thank the exams you know and the students I show up front you know"
+      },
+      {
+        "end": 13.076,
+        "id": 3,
+        "is_music": false,
+        "start": 9.049,
+        "text": "a new is great to be had them conversation and it was an interesting time if you"
+      },
+      {
+        "end": 18.016,
+        "id": 4,
+        "is_music": false,
+        "start": 13.077,
+        "text": "think back to our political history of late ninety's early not Asian there's"
+      },
+      {
+        "end": 20.032,
+        "id": 5,
+        "is_music": false,
+        "start": 18.017,
+        "text": "a lot happening so it was"
+      },
+      {
+        "end": 24.01,
+        "id": 6,
+        "is_music": false,
+        "start": 20.033,
+        "text": "a really creative place to be at that time and I love that most people need to go"
+      },
+      {
+        "end": 27.009,
+        "id": 7,
+        "is_music": false,
+        "start": 24.011,
+        "text": "to university if you don't understand shop and see if they can be loving vibrant"
+      },
+      {
+        "end": 28.045,
+        "id": 8,
+        "is_music": false,
+        "start": 27.01,
+        "text": "places where students find"
+      },
+      {
+        "end": 33.061,
+        "id": 9,
+        "is_music": false,
+        "start": 29.006,
+        "text": "a fellowship see if they collegiate ident the day the Church of Ireland did their"
+      },
+      {
+        "end": 37.078,
+        "id": 10,
+        "is_music": false,
+        "start": 33.062,
+        "text": "thing the president is that a whole different they were very good at football"
+      },
+      {
+        "end": 42.017,
+        "id": 11,
+        "is_music": false,
+        "start": 37.096,
+        "text": "a Catholic set up a straight a you know they were so it's a fancy both and on"
+      },
+      {
+        "end": 43.053,
+        "id": 12,
+        "is_music": false,
+        "start": 42.018,
+        "text": "a big fancy child in the middle of"
+      },
+      {
+        "end": 47.002,
+        "id": 13,
+        "is_music": false,
+        "start": 43.054,
+        "text": "a building out on those up though that was some really interesting comment to go"
+      },
+      {
+        "end": 50.068,
+        "id": 14,
+        "is_music": false,
+        "start": 47.007,
+        "text": "yeah there was all the chaplains in Queens were in"
+      },
+      {
+        "end": 54.046,
+        "id": 15,
+        "is_music": false,
+        "start": 50.069,
+        "text": "a row and I'm going to having Matheson between that's right church of the Catholics"
+      },
+      {
+        "end": 58.016,
+        "id": 16,
+        "is_music": false,
+        "start": 54.047,
+        "text": "Yeah under the church of our head we we do we coffeeshop and under"
+      },
+      {
+        "end": 62.08,
+        "id": 17,
+        "is_music": false,
+        "start": 58.017,
+        "text": "a member being so proud of this fact that that Times newspaper did"
+      },
+      {
+        "end": 67.028,
+        "id": 18,
+        "is_music": false,
+        "start": 62.081,
+        "text": "a student supplement and they went round all the universities and the recommended"
+      },
+      {
+        "end": 70.093,
+        "id": 19,
+        "is_music": false,
+        "start": 67.029,
+        "text": "places to eat on our place at that time it was called the whistles coffee now it's"
+      },
+      {
+        "end": 76.072,
+        "id": 20,
+        "is_music": false,
+        "start": 70.094,
+        "text": "called the hub cafe and they wrote in it and cheap and cheerful food eaten by cheap"
+      },
+      {
+        "end": 81.044,
+        "id": 21,
+        "is_music": false,
+        "start": 76.073,
+        "text": "and cheerful student sorry I started the year you were there back in the day you"
+      },
+      {
+        "end": 84.069,
+        "id": 22,
+        "is_music": false,
+        "start": 81.045,
+        "text": "want to know what it was starving for money that me and my dad put all the original"
+      },
+      {
+        "end": 86.016,
+        "id": 23,
+        "is_music": false,
+        "start": 84.07,
+        "text": "seats on a number good idea but"
+      },
+      {
+        "end": 91.022,
+        "id": 24,
+        "is_music": false,
+        "start": 86.046,
+        "text": "a friend of my learning to design the way you. So I was it was on"
+      },
+      {
+        "end": 95.01,
+        "id": 25,
+        "is_music": false,
+        "start": 91.023,
+        "text": "a bit but it was such that was almost a socialist thing in a sense we had"
+      },
+      {
+        "end": 98.077,
+        "id": 26,
+        "is_music": false,
+        "start": 95.011,
+        "text": "a sense of you know why are students been ripped off why stuff expensive Yeah why"
+      },
+      {
+        "end": 104.077,
+        "id": 27,
+        "is_music": false,
+        "start": 98.078,
+        "text": "can students work for and with students on serve each other I think and obviously"
+      },
+      {
+        "end": 107.06,
+        "id": 28,
+        "is_music": false,
+        "start": 104.078,
+        "text": "obviously I'm an advocate for the church but I think those are one of the really"
+      },
+      {
+        "end": 111.035,
+        "id": 29,
+        "is_music": false,
+        "start": 107.061,
+        "text": "good things are by the way the church of thought should ministry to be honest that"
+      },
+      {
+        "end": 115.073,
+        "id": 30,
+        "is_music": false,
+        "start": 111.036,
+        "text": "coffeeshop and the chaplaincy and all these cost the church are"
+      },
+      {
+        "end": 120.074,
+        "id": 31,
+        "is_music": false,
+        "start": 115.074,
+        "text": "a lot of money that he put going yet never proved even and yet the church. Saw this"
+      },
+      {
+        "end": 125.045,
+        "id": 32,
+        "is_music": false,
+        "start": 120.075,
+        "text": "is an important thing to do because we're here to give a sense of community"
+      },
+      {
+        "end": 127.095,
+        "id": 33,
+        "is_music": false,
+        "start": 125.046,
+        "text": "a sense that they gather missed the student was"
+      },
+      {
+        "end": 131.044,
+        "id": 34,
+        "is_music": false,
+        "start": 127.096,
+        "text": "a rote of about 40 odd students and if you were on the road up Monday you had to"
+      },
+      {
+        "end": 134.096,
+        "id": 35,
+        "is_music": false,
+        "start": 131.045,
+        "text": "make a song which is the morning you had to make a song you know Tuesday I got"
+      },
+      {
+        "end": 138.069,
+        "id": 36,
+        "is_music": false,
+        "start": 134.097,
+        "text": "a free lunch out of you got for us. But it just was"
+      },
+      {
+        "end": 145.016,
+        "id": 37,
+        "is_music": false,
+        "start": 138.07,
+        "text": "a days what are you thinking what are you failing your family your rival Yeah yeah"
+      },
+      {
+        "end": 146.059,
+        "id": 38,
+        "is_music": false,
+        "start": 145.062,
+        "text": "it's been a bit of"
+      },
+      {
+        "end": 151.068,
+        "id": 39,
+        "is_music": false,
+        "start": 146.06,
+        "text": "a journey mark am I hadn't really thought tall that I would be the next patient"
+      },
+      {
+        "end": 156.085,
+        "id": 40,
+        "is_music": false,
+        "start": 151.069,
+        "text": "Darrien or foe and back in May time you'll remember that the church Ron Johnson"
+      },
+      {
+        "end": 161.045,
+        "id": 41,
+        "is_music": false,
+        "start": 156.086,
+        "text": "what happened here in the city and at the end of one of the sessions I was leaving"
+      },
+      {
+        "end": 162.007,
+        "id": 42,
+        "is_music": false,
+        "start": 161.077,
+        "text": "and"
+      },
+      {
+        "end": 166.023,
+        "id": 43,
+        "is_music": false,
+        "start": 162.011,
+        "text": "a couple of clergy from the diocese here sort of top me on the shoulder and said could"
+      },
+      {
+        "end": 166.038,
+        "id": 44,
+        "is_music": false,
+        "start": 166.024,
+        "text": "have"
+      },
+      {
+        "end": 172.027,
+        "id": 45,
+        "is_music": false,
+        "start": 166.039,
+        "text": "a chat and the conversation sort of grew and they were asking me would I be happy"
+      },
+      {
+        "end": 175.059,
+        "id": 46,
+        "is_music": false,
+        "start": 172.028,
+        "text": "to put my name forward to for the election process and so it is in the charge"
+      },
+      {
+        "end": 180.02,
+        "id": 47,
+        "is_music": false,
+        "start": 175.06,
+        "text": "around and to be honest at that point for myself and Heather my wife and my family"
+      },
+      {
+        "end": 182.021,
+        "id": 48,
+        "is_music": false,
+        "start": 180.021,
+        "text": "it was a better you know sort of but"
+      },
+      {
+        "end": 186.091,
+        "id": 49,
+        "is_music": false,
+        "start": 182.022,
+        "text": "a turmoil because we're very happy and parish ministry and I'm gonna be nerve for"
+      },
+      {
+        "end": 191.036,
+        "id": 50,
+        "is_music": false,
+        "start": 187.007,
+        "text": "nearly 13 years and it's sort of our children's home time and so on they're both"
+      },
+      {
+        "end": 195.055,
+        "id": 51,
+        "is_music": false,
+        "start": 192.02,
+        "text": "Hollywood until you die and Yeah Yeah Yeahs So so we've moved about"
+      },
+      {
+        "end": 198.075,
+        "id": 52,
+        "is_music": false,
+        "start": 195.056,
+        "text": "a bit over the years but this sort of came"
+      },
+      {
+        "end": 204.046,
+        "id": 53,
+        "is_music": false,
+        "start": 198.079,
+        "text": "a bit out of the blue and then you know thought that our selves go into the process"
+      },
+      {
+        "end": 208.058,
+        "id": 54,
+        "is_music": false,
+        "start": 204.047,
+        "text": "and the church and whether tenets wisdom or not I don't know but they had that to"
+      },
+      {
+        "end": 213.074,
+        "id": 55,
+        "is_music": false,
+        "start": 208.059,
+        "text": "be bishop and that's sort of been affirmed on and here I am just saying the place"
+      },
+      {
+        "end": 220.072,
+        "id": 56,
+        "is_music": false,
+        "start": 213.075,
+        "text": "during the years are you know no yeah actually and know if the diocese is diet"
+      },
+      {
+        "end": 227.065,
+        "id": 57,
+        "is_music": false,
+        "start": 220.073,
+        "text": "or fish so all of the county have really no dairy all of Advani on the part"
+      },
+      {
+        "end": 234.038,
+        "id": 58,
+        "is_music": false,
+        "start": 227.066,
+        "text": "of her own so I've no money go all and dairy pretty well over the years and"
+      },
+      {
+        "end": 239.037,
+        "id": 59,
+        "is_music": false,
+        "start": 234.088,
+        "text": "I was reflecting the other day when we used to go on family holidays when we're"
+      },
+      {
+        "end": 242.083,
+        "id": 60,
+        "is_music": false,
+        "start": 239.038,
+        "text": "kids. And in places like Rob I'm"
+      },
+      {
+        "end": 246.043,
+        "id": 61,
+        "is_music": false,
+        "start": 242.084,
+        "text": "a dad always used to stop here in the city in the way out and this was the early"
+      },
+      {
+        "end": 251.084,
+        "id": 62,
+        "is_music": false,
+        "start": 246.044,
+        "text": "seventy's and in the early seventy's you know dairy was what I'd had wasn't the"
+      },
+      {
+        "end": 256.098,
+        "id": 63,
+        "is_music": false,
+        "start": 251.085,
+        "text": "sort of place to stop you know like a rind where no you look at the set"
+      },
+      {
+        "end": 262.065,
+        "id": 64,
+        "is_music": false,
+        "start": 256.099,
+        "text": "a on it's vibrant say it's it's renewal almost as for damn sure that's fantastic"
+      },
+      {
+        "end": 264.086,
+        "id": 65,
+        "is_music": false,
+        "start": 262.066,
+        "text": "you know and I'm sure we would have visit"
+      },
+      {
+        "end": 270.058,
+        "id": 66,
+        "is_music": false,
+        "start": 264.087,
+        "text": "a dairy fairly regularly actually and. The summer before last not really good"
+      },
+      {
+        "end": 275.087,
+        "id": 67,
+        "is_music": false,
+        "start": 270.059,
+        "text": "summer and we came up one day there was there at that column Davidson exhibition"
+      },
+      {
+        "end": 277.069,
+        "id": 68,
+        "is_music": false,
+        "start": 275.088,
+        "text": "was on and the nerve center I'm"
+      },
+      {
+        "end": 281.032,
+        "id": 69,
+        "is_music": false,
+        "start": 277.07,
+        "text": "a walk over the piece bridge the Clipper boat tour and walked up I had"
+      },
+      {
+        "end": 285.053,
+        "id": 70,
+        "is_music": false,
+        "start": 281.033,
+        "text": "a cup of coffee set and side overlooking the Clippers and this is brilliance you"
+      },
+      {
+        "end": 286.032,
+        "id": 71,
+        "is_music": false,
+        "start": 285.054,
+        "text": "know and it is"
+      },
+      {
+        "end": 291.035,
+        "id": 72,
+        "is_music": false,
+        "start": 286.033,
+        "text": "a great city so I'm delighted to be given here 9 up in the northwest and what about"
+      },
+      {
+        "end": 298.022,
+        "id": 73,
+        "is_music": false,
+        "start": 291.058,
+        "text": "the other 2 personal. Magen 3 kids yeah. We don't have any family moving anywhere"
+      },
+      {
+        "end": 300,
+        "id": 74,
+        "is_music": false,
+        "start": 298.026,
+        "text": "to start afresh as"
+      },
+      {
+        "end": 303.08,
+        "id": 75,
+        "is_music": false,
+        "start": 300.001,
+        "text": "a child and church people all about that again that day and I suppose in that"
+      },
+      {
+        "end": 305.089,
+        "id": 76,
+        "is_music": false,
+        "start": 303.081,
+        "text": "church you know pretends to be a bit"
+      },
+      {
+        "end": 308.068,
+        "id": 77,
+        "is_music": false,
+        "start": 305.09,
+        "text": "a movement at times and now our children are sort of"
+      },
+      {
+        "end": 313.021,
+        "id": 78,
+        "is_music": false,
+        "start": 308.069,
+        "text": "a stage in their life of transition themselves with who are in and young ones"
+      },
+      {
+        "end": 318.068,
+        "id": 79,
+        "is_music": false,
+        "start": 313.022,
+        "text": "working over there on the other student and my son Patrick Asian at college and so"
+      },
+      {
+        "end": 324.025,
+        "id": 80,
+        "is_music": false,
+        "start": 319,
+        "text": "there's that sort of transition period from sales but you know I really you know"
+      },
+      {
+        "end": 328.058,
+        "id": 81,
+        "is_music": false,
+        "start": 324.043,
+        "text": "obviously I think they were love them dearly and the way they've been over this is"
+      },
+      {
+        "end": 331.018,
+        "id": 82,
+        "is_music": false,
+        "start": 328.059,
+        "text": "being hugely supportive it was a bit of"
+      },
+      {
+        "end": 336.059,
+        "id": 83,
+        "is_music": false,
+        "start": 331.019,
+        "text": "a challenge you know for them thinking because you know I suppose if you're at that"
+      },
+      {
+        "end": 340.092,
+        "id": 84,
+        "is_music": false,
+        "start": 336.063,
+        "text": "early 20 stage you're moving on in life you think auction moment I will be at home"
+      },
+      {
+        "end": 341.043,
+        "id": 85,
+        "is_music": false,
+        "start": 341.018,
+        "text": "for"
+      },
+      {
+        "end": 346.026,
+        "id": 86,
+        "is_music": false,
+        "start": 341.044,
+        "text": "a horsewoman time and then present my lesson or not or not there's no better off but"
+      },
+      {
+        "end": 351.011,
+        "id": 87,
+        "is_music": false,
+        "start": 346.027,
+        "text": "they've been they've been really super and on Sunday night they service the"
+      },
+      {
+        "end": 356.098,
+        "id": 88,
+        "is_music": false,
+        "start": 351.012,
+        "text": "consecration service the girls did readings Patrick. And the girls sign on the"
+      },
+      {
+        "end": 361.052,
+        "id": 89,
+        "is_music": false,
+        "start": 357.004,
+        "text": "worship group and so on so it was really special how the. And how would you"
+      },
+      {
+        "end": 362.065,
+        "id": 90,
+        "is_music": false,
+        "start": 361.053,
+        "text": "describe yourself as"
+      },
+      {
+        "end": 369.038,
+        "id": 91,
+        "is_music": false,
+        "start": 362.066,
+        "text": "a pastor Yeah I think I love being with people and I don't I'm just"
+      },
+      {
+        "end": 373.04,
+        "id": 92,
+        "is_music": false,
+        "start": 369.042,
+        "text": "as good almost sign there on my I love being with people when they're going through"
+      },
+      {
+        "end": 380.007,
+        "id": 93,
+        "is_music": false,
+        "start": 373.041,
+        "text": "hard times because I think you know in an extreme circumstances and difficulty you"
+      },
+      {
+        "end": 381.071,
+        "id": 94,
+        "is_music": false,
+        "start": 380.008,
+        "text": "know part of my heart as"
+      },
+      {
+        "end": 387.091,
+        "id": 95,
+        "is_music": false,
+        "start": 381.072,
+        "text": "a pastor is to be alongside to support not necessarily to be trying to think what"
+      },
+      {
+        "end": 392.049,
+        "id": 96,
+        "is_music": false,
+        "start": 387.092,
+        "text": "all the right answers aren't all the right things to say but just to be there and"
+      },
+      {
+        "end": 398.085,
+        "id": 97,
+        "is_music": false,
+        "start": 393.011,
+        "text": "that's what I want to be here to encourage clergy and their pastoral ministry and"
+      },
+      {
+        "end": 399.062,
+        "id": 98,
+        "is_music": false,
+        "start": 398.086,
+        "text": "also from"
+      },
+      {
+        "end": 405.015,
+        "id": 99,
+        "is_music": false,
+        "start": 399.063,
+        "text": "a day for to start building relationships around the diocese and getting to know"
+      },
+      {
+        "end": 409.041,
+        "id": 100,
+        "is_music": false,
+        "start": 405.016,
+        "text": "people and get alongside them but most of you know the lies and the grind and the"
+      },
+      {
+        "end": 413.036,
+        "id": 101,
+        "is_music": false,
+        "start": 409.042,
+        "text": "Hollywood and on going on in Queens University over the Protestant going to this"
+      },
+      {
+        "end": 415.063,
+        "id": 102,
+        "is_music": false,
+        "start": 413.037,
+        "text": "part of the world and in your say as"
+      },
+      {
+        "end": 420.048,
+        "id": 103,
+        "is_music": false,
+        "start": 415.064,
+        "text": "a minority community I wonder what strikes you as the challenges I mean let's be"
+      },
+      {
+        "end": 420.072,
+        "id": 104,
+        "is_music": false,
+        "start": 420.049,
+        "text": "blunt"
+      },
+      {
+        "end": 425.084,
+        "id": 105,
+        "is_music": false,
+        "start": 420.073,
+        "text": "a said this to preach on Priest The figures are good people are not. Doing your"
+      },
+      {
+        "end": 431.03,
+        "id": 106,
+        "is_music": false,
+        "start": 425.085,
+        "text": "thing as much as lucky to get 4 or 5 people a year by way of a role and how do you"
+      },
+      {
+        "end": 433.018,
+        "id": 107,
+        "is_music": false,
+        "start": 431.031,
+        "text": "a lot yeah that's"
+      },
+      {
+        "end": 438.006,
+        "id": 108,
+        "is_music": false,
+        "start": 433.019,
+        "text": "a huge challenge and you know I think the problem is sometimes whenever the church"
+      },
+      {
+        "end": 442.051,
+        "id": 109,
+        "is_music": false,
+        "start": 438.007,
+        "text": "faces challenges what we tend to day is sort of circle the wagons and I think we"
+      },
+      {
+        "end": 447.018,
+        "id": 110,
+        "is_music": false,
+        "start": 442.052,
+        "text": "have we have what we have let's just hold on to that you know whereas I think we've"
+      },
+      {
+        "end": 452.005,
+        "id": 111,
+        "is_music": false,
+        "start": 447.019,
+        "text": "got to be far more positive than that you know for from a church as a bite it's"
+      },
+      {
+        "end": 455.078,
+        "id": 112,
+        "is_music": false,
+        "start": 452.006,
+        "text": "a bike that the strength of and that I love and community can bring It's"
+      },
+      {
+        "end": 460.094,
+        "id": 113,
+        "is_music": false,
+        "start": 455.079,
+        "text": "a bite that the good news that that Christ brings into people's lives of love and"
+      },
+      {
+        "end": 466.012,
+        "id": 114,
+        "is_music": false,
+        "start": 460.095,
+        "text": "care and I'm company in life so I do think that the message of the church and I"
+      },
+      {
+        "end": 470.081,
+        "id": 115,
+        "is_music": false,
+        "start": 466.038,
+        "text": "whether it's in the church or on it or any other denomination is still relevant for"
+      },
+      {
+        "end": 477.014,
+        "id": 116,
+        "is_music": false,
+        "start": 470.082,
+        "text": "today but sometimes we have to look at high we communicate that in"
+      },
+      {
+        "end": 481.072,
+        "id": 117,
+        "is_music": false,
+        "start": 477.015,
+        "text": "a way that people will listen to there's no point saying all the right things but"
+      },
+      {
+        "end": 486.047,
+        "id": 118,
+        "is_music": false,
+        "start": 481.073,
+        "text": "nobody's listening to it and we need to be creative and how do we communicate that"
+      },
+      {
+        "end": 490.084,
+        "id": 119,
+        "is_music": false,
+        "start": 486.075,
+        "text": "the good use of Jesus which I'm obviously him at church leader always am committed"
+      },
+      {
+        "end": 495.069,
+        "id": 120,
+        "is_music": false,
+        "start": 490.085,
+        "text": "to and believe in it and I and my own life and in the lives of people that have"
+      },
+      {
+        "end": 500.007,
+        "id": 121,
+        "is_music": false,
+        "start": 495.07,
+        "text": "served have seen I that's good news it can be transformative and that's what I want"
+      },
+      {
+        "end": 506.033,
+        "id": 122,
+        "is_music": false,
+        "start": 500.008,
+        "text": "to say to push up can talk to focus she choose to follow the great weight admirer"
+      },
+      {
+        "end": 509.067,
+        "id": 123,
+        "is_music": false,
+        "start": 506.051,
+        "text": "of other good lovely thing about it is Ken and I have been friends for about 20"
+      },
+      {
+        "end": 514.039,
+        "id": 124,
+        "is_music": false,
+        "start": 509.068,
+        "text": "years and he's been so supportive over over this process and the lovely thing"
+      },
+      {
+        "end": 521.028,
+        "id": 125,
+        "is_music": false,
+        "start": 514.043,
+        "text": "Monday morning starting off can phone me up and sat right behind you if you"
+      },
+      {
+        "end": 526.077,
+        "id": 126,
+        "is_music": false,
+        "start": 521.029,
+        "text": "need anything don't hesitate to be in touch and praying for us so it's really it's"
+      },
+      {
+        "end": 528.088,
+        "id": 127,
+        "is_music": false,
+        "start": 526.078,
+        "text": "actually a really nice way to come into"
+      },
+      {
+        "end": 532.02,
+        "id": 128,
+        "is_music": false,
+        "start": 528.089,
+        "text": "a new road and not that your predecessor as"
+      },
+      {
+        "end": 536.042,
+        "id": 129,
+        "is_music": false,
+        "start": 532.021,
+        "text": "a good friend hey you know you can turn tail and I think some of the things that I"
+      },
+      {
+        "end": 541.011,
+        "id": 130,
+        "is_music": false,
+        "start": 536.043,
+        "text": "really admire about Cannes ministry that I would really want to sort of stand on"
+      },
+      {
+        "end": 545.068,
+        "id": 131,
+        "is_music": false,
+        "start": 541.012,
+        "text": "the shoulders of and build on number one is that the who would die. Also some"
+      },
+      {
+        "end": 551.078,
+        "id": 132,
+        "is_music": false,
+        "start": 546.022,
+        "text": "strategy which is called Transforming community radiating Christ and it's about"
+      },
+      {
+        "end": 556.005,
+        "id": 133,
+        "is_music": false,
+        "start": 551.079,
+        "text": "seeing community transformed and belt up and you know we live and"
+      },
+      {
+        "end": 561.059,
+        "id": 134,
+        "is_music": false,
+        "start": 556.006,
+        "text": "a very connected word but yet people are very disconnected and lonely and I think"
+      },
+      {
+        "end": 567.035,
+        "id": 135,
+        "is_music": false,
+        "start": 561.063,
+        "text": "we want to see communities coming together strongly and revealing Christ is"
+      },
+      {
+        "end": 574.025,
+        "id": 136,
+        "is_music": false,
+        "start": 567.036,
+        "text": "a by. The gentle love of God brings the gentleness of the spirit the gentleness of"
+      },
+      {
+        "end": 577.074,
+        "id": 137,
+        "is_music": false,
+        "start": 574.026,
+        "text": "Christ into people's lives so that was one of the things the other thing which is"
+      },
+      {
+        "end": 582.08,
+        "id": 138,
+        "is_music": false,
+        "start": 577.075,
+        "text": "hugely important in Cannes ministry was they who cross community and enter church"
+      },
+      {
+        "end": 589.074,
+        "id": 139,
+        "is_music": false,
+        "start": 582.081,
+        "text": "work and I would really want to build in the I don't really super time and few"
+      },
+      {
+        "end": 591.043,
+        "id": 140,
+        "is_music": false,
+        "start": 589.075,
+        "text": "weeks after has elected I got"
+      },
+      {
+        "end": 596.007,
+        "id": 141,
+        "is_music": false,
+        "start": 591.044,
+        "text": "a phone call and was invited up for dinner with Bishop door McKown Richard Johnson"
+      },
+      {
+        "end": 598.048,
+        "id": 142,
+        "is_music": false,
+        "start": 596.008,
+        "text": "from the Methodist Church and it was just"
+      },
+      {
+        "end": 604.005,
+        "id": 143,
+        "is_music": false,
+        "start": 598.049,
+        "text": "a really special time and they've been social poured of and I look forward to those"
+      },
+      {
+        "end": 609.015,
+        "id": 144,
+        "is_music": false,
+        "start": 604.037,
+        "text": "relationships growing and continuing because you know every Church is struggling"
+      },
+      {
+        "end": 613.027,
+        "id": 145,
+        "is_music": false,
+        "start": 609.024,
+        "text": "every church has no one of those to see numbers going dying but we all have"
+      },
+      {
+        "end": 617.034,
+        "id": 146,
+        "is_music": false,
+        "start": 613.028,
+        "text": "a common message that we want to share the buildings of course the bricks and"
+      },
+      {
+        "end": 623.03,
+        "id": 147,
+        "is_music": false,
+        "start": 617.035,
+        "text": "mortar but I should have checked on many churches your response Oh Mike and there's"
+      },
+      {
+        "end": 629.031,
+        "id": 148,
+        "is_music": false,
+        "start": 623.031,
+        "text": "90 it at. His writers $98.00 churches across the whole diocese and there's"
+      },
+      {
+        "end": 634.046,
+        "id": 149,
+        "is_music": false,
+        "start": 629.032,
+        "text": "a but I got works into about 40 parish groups because in the church one and"
+      },
+      {
+        "end": 637.096,
+        "id": 150,
+        "is_music": false,
+        "start": 634.047,
+        "text": "sometimes you have to be 3 churches together source 40"
+      },
+      {
+        "end": 644.091,
+        "id": 151,
+        "is_music": false,
+        "start": 637.097,
+        "text": "a prescription idea church us 90 a truce yet as you say for a modern. You describe"
+      },
+      {
+        "end": 645.099,
+        "id": 152,
+        "is_music": false,
+        "start": 644.092,
+        "text": "a modern Russian I had"
+      },
+      {
+        "end": 650.005,
+        "id": 153,
+        "is_music": false,
+        "start": 646,
+        "text": "a few but your response well nigh for 98 Roos an idea that very often signature"
+      },
+      {
+        "end": 650.071,
+        "id": 154,
+        "is_music": false,
+        "start": 650.006,
+        "text": "both the notes of"
+      },
+      {
+        "end": 655.069,
+        "id": 155,
+        "is_music": false,
+        "start": 650.072,
+        "text": "a centerpiece of little tiny villages communities would you have it that way so"
+      },
+      {
+        "end": 662.039,
+        "id": 156,
+        "is_music": false,
+        "start": 655.07,
+        "text": "much of your cash your time won't be dating with the bells for the lakes for the"
+      },
+      {
+        "end": 664.049,
+        "id": 157,
+        "is_music": false,
+        "start": 662.04,
+        "text": "stuff that's old for the stuff that is of"
+      },
+      {
+        "end": 671.048,
+        "id": 158,
+        "is_music": false,
+        "start": 664.05,
+        "text": "a Christiane. That's built of yesteryear Yeah yeah. You know I suppose heritage"
+      },
+      {
+        "end": 674.012,
+        "id": 159,
+        "is_music": false,
+        "start": 671.049,
+        "text": "buildings are a blessing you know they're"
+      },
+      {
+        "end": 679.07,
+        "id": 160,
+        "is_music": false,
+        "start": 674.013,
+        "text": "a blessing not just to the people who use them but they're there ash that think"
+      },
+      {
+        "end": 683.025,
+        "id": 161,
+        "is_music": false,
+        "start": 679.071,
+        "text": "they're pleasing there they're beautiful to look out so hard it's buildings are"
+      },
+      {
+        "end": 688.067,
+        "id": 162,
+        "is_music": false,
+        "start": 683.026,
+        "text": "a lovely thing that also can be difficult to maintain and we all know that and I"
+      },
+      {
+        "end": 690.089,
+        "id": 163,
+        "is_music": false,
+        "start": 688.068,
+        "text": "and you know with smaller congregations that's are"
+      },
+      {
+        "end": 695.099,
+        "id": 164,
+        "is_music": false,
+        "start": 691.023,
+        "text": "a real struggle I would love to see how we can you use our heritage buildings our"
+      },
+      {
+        "end": 701.049,
+        "id": 165,
+        "is_music": false,
+        "start": 696,
+        "text": "church buildings creatively as well for instance and my and my own power surprises"
+      },
+      {
+        "end": 704.054,
+        "id": 166,
+        "is_music": false,
+        "start": 701.05,
+        "text": "it just laughs We were able to use part of the building as"
+      },
+      {
+        "end": 710.036,
+        "id": 167,
+        "is_music": false,
+        "start": 704.055,
+        "text": "a coffee or hack almost like Cafe idea and so on you know sure there are creative"
+      },
+      {
+        "end": 716.059,
+        "id": 168,
+        "is_music": false,
+        "start": 710.037,
+        "text": "ways that we can use buildings that so it's not just in our awake and out of love"
+      },
+      {
+        "end": 721.094,
+        "id": 169,
+        "is_music": false,
+        "start": 716.06,
+        "text": "to see that and I know there's some great examples of churches that have been able"
+      },
+      {
+        "end": 728.018,
+        "id": 170,
+        "is_music": false,
+        "start": 721.095,
+        "text": "to I doubt not not lose the beauty of the herd aging the beauty of the architect"
+      },
+      {
+        "end": 733.016,
+        "id": 171,
+        "is_music": false,
+        "start": 728.024,
+        "text": "texture but adapt to the the needs of today under the wider community I'm just"
+      },
+      {
+        "end": 735.018,
+        "id": 172,
+        "is_music": false,
+        "start": 733.017,
+        "text": "mindful Bishop Potts she let us until you've got"
+      },
+      {
+        "end": 739.048,
+        "id": 173,
+        "is_music": false,
+        "start": 735.019,
+        "text": "a couple crackers in your pots you've got the way you've got so-called god laughter"
+      },
+      {
+        "end": 743.063,
+        "id": 174,
+        "is_music": false,
+        "start": 740.014,
+        "text": "Walt has it then you've got to call it 3 Dad you know full pop let us in with"
+      },
+      {
+        "end": 747.047,
+        "id": 175,
+        "is_music": false,
+        "start": 743.064,
+        "text": "musicians music like it was you know the plug and the music did you go today on the"
+      },
+      {
+        "end": 753.082,
+        "id": 176,
+        "is_music": false,
+        "start": 747.048,
+        "text": "place where it was one of the finest moments of hold year for 2013 for us I'm just"
+      },
+      {
+        "end": 760.051,
+        "id": 177,
+        "is_music": false,
+        "start": 753.083,
+        "text": "mindful your predecessor would have been mining. The turrets and so"
+      },
+      {
+        "end": 764.073,
+        "id": 178,
+        "is_music": false,
+        "start": 760.052,
+        "text": "columns Cathedral of the Commons I was there was a basically"
+      },
+      {
+        "end": 769.036,
+        "id": 179,
+        "is_music": false,
+        "start": 764.074,
+        "text": "a Boston for Callas as I hunt. As the King of England approached you know what they"
+      },
+      {
+        "end": 774.064,
+        "id": 180,
+        "is_music": false,
+        "start": 769.037,
+        "text": "want how in the process or how well not they were no surrender what how do you want"
+      },
+      {
+        "end": 779.066,
+        "id": 181,
+        "is_music": false,
+        "start": 774.065,
+        "text": "clowns do you cast the puppet the this is your spiritual pedigree these although I"
+      },
+      {
+        "end": 785.024,
+        "id": 182,
+        "is_music": false,
+        "start": 779.067,
+        "text": "was secure before these were your 1st and obvious hers Yeah yeah and and you know"
+      },
+      {
+        "end": 790.092,
+        "id": 183,
+        "is_music": false,
+        "start": 785.025,
+        "text": "our history is our history and I think history is that's why studied it University"
+      },
+      {
+        "end": 797.027,
+        "id": 184,
+        "is_music": false,
+        "start": 791.04,
+        "text": "our history is our history and history actually and moves us and makes us the"
+      },
+      {
+        "end": 803.06,
+        "id": 185,
+        "is_music": false,
+        "start": 797.028,
+        "text": "people we are it need not always define us and it does move to us and you know I"
+      },
+      {
+        "end": 808.096,
+        "id": 186,
+        "is_music": false,
+        "start": 803.061,
+        "text": "look back at our history of the Church of Ireland and the city and the dioceses and"
+      },
+      {
+        "end": 815.051,
+        "id": 187,
+        "is_music": false,
+        "start": 809,
+        "text": "it's incredible you know it's it's complex and it's an incredible but I'm not moves"
+      },
+      {
+        "end": 822.048,
+        "id": 188,
+        "is_music": false,
+        "start": 815.052,
+        "text": "us for today and helps us if you like the people who we are today but you mustn't."
+      },
+      {
+        "end": 828.066,
+        "id": 189,
+        "is_music": false,
+        "start": 823.063,
+        "text": "Count on us. Heights are counting on our gallons exact as"
+      },
+      {
+        "end": 831.073,
+        "id": 190,
+        "is_music": false,
+        "start": 828.067,
+        "text": "a mark of the Seeds of Terror in the think about the search of"
+      },
+      {
+        "end": 835.007,
+        "id": 191,
+        "is_music": false,
+        "start": 831.074,
+        "text": "a guy was often the governor so call the you know the civic authorities Yeah and"
+      },
+      {
+        "end": 839.001,
+        "id": 192,
+        "is_music": false,
+        "start": 835.008,
+        "text": "that was back to the days of establishment whenever we were the established church"
+      },
+      {
+        "end": 843.062,
+        "id": 193,
+        "is_music": false,
+        "start": 839.002,
+        "text": "which actually this year it's 150 years since the disestablishment the church"
+      },
+      {
+        "end": 847.06,
+        "id": 194,
+        "is_music": false,
+        "start": 843.063,
+        "text": "monitor which at that point you know we were the sort of state church if you like"
+      },
+      {
+        "end": 851.006,
+        "id": 195,
+        "is_music": false,
+        "start": 847.077,
+        "text": "and the government of prayer Yeah the government of prayer and then there was this"
+      },
+      {
+        "end": 855.028,
+        "id": 196,
+        "is_music": false,
+        "start": 851.007,
+        "text": "fear at this establishment that's the end of the Church of Ireland you know I'm yet"
+      },
+      {
+        "end": 860.089,
+        "id": 197,
+        "is_music": false,
+        "start": 855.07,
+        "text": "we were sort of able then to define our own future and and be rather than the"
+      },
+      {
+        "end": 864.012,
+        "id": 198,
+        "is_music": false,
+        "start": 860.09,
+        "text": "government of prayer goes people are always struck me as"
+      },
+      {
+        "end": 866.075,
+        "id": 199,
+        "is_music": false,
+        "start": 864.013,
+        "text": "a member of the own person growing up and you know and learning"
+      },
+      {
+        "end": 871.015,
+        "id": 200,
+        "is_music": false,
+        "start": 866.076,
+        "text": "a lot of the divided time but always the Book of Common Prayer was like. We pray"
+      },
+      {
+        "end": 877.094,
+        "id": 201,
+        "is_music": false,
+        "start": 871.016,
+        "text": "for Elizabeth our Queen stroke name underscore our president you know."
+      },
+      {
+        "end": 885.012,
+        "id": 202,
+        "is_music": false,
+        "start": 878.029,
+        "text": "The Church of art is known as an all island affair makes the politic of both Mark"
+      },
+      {
+        "end": 889.054,
+        "id": 203,
+        "is_music": false,
+        "start": 885.013,
+        "text": "and I tell you a funny story about that whenever I was a rector and I go for"
+      },
+      {
+        "end": 892.093,
+        "id": 204,
+        "is_music": false,
+        "start": 889.055,
+        "text": "a number of years when I remember you coming down surfing one time there when you"
+      },
+      {
+        "end": 896.003,
+        "id": 205,
+        "is_music": false,
+        "start": 892.094,
+        "text": "were able to do that sort of thing you know. L.a."
+      },
+      {
+        "end": 902.074,
+        "id": 206,
+        "is_music": false,
+        "start": 896.004,
+        "text": "The belly of the but I had just moved from the from the north and and as you say in"
+      },
+      {
+        "end": 907.092,
+        "id": 207,
+        "is_music": false,
+        "start": 902.075,
+        "text": "our letter gee there's Lord save the Queen and my new church and country so I go I"
+      },
+      {
+        "end": 914.05,
+        "id": 208,
+        "is_music": false,
+        "start": 907.092,
+        "text": ". Meant to say oh lord. President I said Oh Lord save the Queen and I was just so I"
+      },
+      {
+        "end": 921.047,
+        "id": 209,
+        "is_music": false,
+        "start": 914.051,
+        "text": "don't then. I corrected myself I visit the end of the prayers I said well I'm"
+      },
+      {
+        "end": 921.08,
+        "id": 210,
+        "is_music": false,
+        "start": 921.048,
+        "text": "sure it's"
+      },
+      {
+        "end": 925.016,
+        "id": 211,
+        "is_music": false,
+        "start": 921.081,
+        "text": "a long time since the Queen's been prayed for here it's the laugh it off I'm"
+      },
+      {
+        "end": 927.09,
+        "id": 212,
+        "is_music": false,
+        "start": 925.017,
+        "text": "feeling. Pretty good I thought I always had you down as"
+      },
+      {
+        "end": 934.009,
+        "id": 213,
+        "is_music": false,
+        "start": 927.091,
+        "text": "a science grower has no do as you go straight from Queens to ministry or did I I"
+      },
+      {
+        "end": 939.05,
+        "id": 214,
+        "is_music": false,
+        "start": 934.015,
+        "text": "studied at Queen's history and then went to the fields of College in Dublin and"
+      },
+      {
+        "end": 945.031,
+        "id": 215,
+        "is_music": false,
+        "start": 939.051,
+        "text": "church one College in Dublin and study theology there I wasn't have to say I wasn't"
+      },
+      {
+        "end": 951.051,
+        "id": 216,
+        "is_music": false,
+        "start": 945.032,
+        "text": "the most for jazz studious of students but and joy it's one of those things you do"
+      },
+      {
+        "end": 956.019,
+        "id": 217,
+        "is_music": false,
+        "start": 951.051,
+        "text": ". As you get older you sort of come to appreciate things that you studied"
+      },
+      {
+        "end": 960.028,
+        "id": 218,
+        "is_music": false,
+        "start": 956.02,
+        "text": "a bit more and I'm really interested in history no bookish don't you both with the"
+      },
+      {
+        "end": 963.043,
+        "id": 219,
+        "is_music": false,
+        "start": 960.061,
+        "text": "day we're going to talk about finally that we want to teach a 20 much"
+      },
+      {
+        "end": 966.064,
+        "id": 220,
+        "is_music": false,
+        "start": 963.044,
+        "text": "a question what would you say to people of us talking Here's some of"
+      },
+      {
+        "end": 972.072,
+        "id": 221,
+        "is_music": false,
+        "start": 966.065,
+        "text": "a tall promise that Hollywood knows as university pop she's traveled or I end up at"
+      },
+      {
+        "end": 976.067,
+        "id": 222,
+        "is_music": false,
+        "start": 972.073,
+        "text": "his mustard is arriving in a historic on a beautiful on a day off"
+      },
+      {
+        "end": 981.028,
+        "id": 223,
+        "is_music": false,
+        "start": 976.068,
+        "text": "a divided and difficult space would you say to those that you still to meet aren't"
+      },
+      {
+        "end": 986.078,
+        "id": 224,
+        "is_music": false,
+        "start": 981.029,
+        "text": "there yet thanks for the question I think that one of the things I'd want to say is"
+      },
+      {
+        "end": 993.01,
+        "id": 225,
+        "is_music": false,
+        "start": 987.011,
+        "text": "that he ever you are and whatever he feet up but yourself I want to say to share"
+      },
+      {
+        "end": 997.061,
+        "id": 226,
+        "is_music": false,
+        "start": 993.011,
+        "text": "people out there they're valuable and they're important and their loved one for me"
+      },
+      {
+        "end": 1001.036,
+        "id": 227,
+        "is_music": false,
+        "start": 997.062,
+        "text": "that's the ha. Part of the Gospel that we're valuable lower important that we're"
+      },
+      {
+        "end": 1003.026,
+        "id": 228,
+        "is_music": false,
+        "start": 1001.037,
+        "text": "loved we're not by God And I think there's"
+      },
+      {
+        "end": 1008.06,
+        "id": 229,
+        "is_music": false,
+        "start": 1003.027,
+        "text": "a lot in society that day values people you know and I must say I like everybody I"
+      },
+      {
+        "end": 1013.098,
+        "id": 230,
+        "is_music": false,
+        "start": 1008.061,
+        "text": "you know I have concerns of by the way that cohesiveness of society 90 days and and"
+      },
+      {
+        "end": 1018.08,
+        "id": 231,
+        "is_music": false,
+        "start": 1014.026,
+        "text": "the pace that we have is such a special thing but yet we know it's"
+      },
+      {
+        "end": 1022.081,
+        "id": 232,
+        "is_music": false,
+        "start": 1018.081,
+        "text": "a fragile thing and something that's fragile what he did was something that's"
+      },
+      {
+        "end": 1027.022,
+        "id": 233,
+        "is_music": false,
+        "start": 1022.082,
+        "text": "fragile tome you care for it and you know our church and I would really want to"
+      },
+      {
+        "end": 1032.061,
+        "id": 234,
+        "is_music": false,
+        "start": 1027.023,
+        "text": "encourage people to know that their their values they're important and that all of"
+      },
+      {
+        "end": 1039.048,
+        "id": 235,
+        "is_music": false,
+        "start": 1032.062,
+        "text": "us become the people he values and nurture peace we don't just let peace hop"
+      },
+      {
+        "end": 1044.075,
+        "id": 236,
+        "is_music": false,
+        "start": 1039.049,
+        "text": "on we become the peacemakers and Jesus has blasted to the peacemakers so and all of"
+      },
+      {
+        "end": 1051.065,
+        "id": 237,
+        "is_music": false,
+        "start": 1044.076,
+        "text": "our own and interactions. Peace matters not the person who we would see as the"
+      },
+      {
+        "end": 1056.087,
+        "id": 238,
+        "is_music": false,
+        "start": 1051.069,
+        "text": "other as the different one actually whenever we see them and the light of the love"
+      },
+      {
+        "end": 1060.054,
+        "id": 239,
+        "is_music": false,
+        "start": 1056.088,
+        "text": "of God that they're made in the image of God we should look at people and"
+      },
+      {
+        "end": 1064.078,
+        "id": 240,
+        "is_music": false,
+        "start": 1060.055,
+        "text": "a very very different way and I hope I can bring something of that to"
+      },
+      {
+        "end": 1069.024,
+        "id": 241,
+        "is_music": false,
+        "start": 1064.079,
+        "text": "a my ministry here in the city on beyond I remember the church strikes it was"
+      },
+      {
+        "end": 1072.023,
+        "id": 242,
+        "is_music": false,
+        "start": 1069.025,
+        "text": "always as it is a conservative or as a progressive like as"
+      },
+      {
+        "end": 1075.044,
+        "id": 243,
+        "is_music": false,
+        "start": 1072.024,
+        "text": "a whole you know I don't know it's an unfair thing it's not unusual thing but why"
+      },
+      {
+        "end": 1081.029,
+        "id": 244,
+        "is_music": false,
+        "start": 1075.045,
+        "text": "are you here. To change stuff are you here to hold the fort under"
+      },
+      {
+        "end": 1086.081,
+        "id": 245,
+        "is_music": false,
+        "start": 1081.083,
+        "text": "a yeah I don't have to say Dr Evil because I think you know you can say somebody is"
+      },
+      {
+        "end": 1090.015,
+        "id": 246,
+        "is_music": false,
+        "start": 1086.082,
+        "text": "conservative but this but some are progressive or somebody Prograf says no but some"
+      },
+      {
+        "end": 1097.008,
+        "id": 247,
+        "is_music": false,
+        "start": 1090.016,
+        "text": "of our are conservative you know so I don't I got and I I'm I'm here to serve I'm"
+      },
+      {
+        "end": 1101.049,
+        "id": 248,
+        "is_music": false,
+        "start": 1097.009,
+        "text": "here to serve God and I'm here to serve God's people and that's why I'm here today"
+      },
+      {
+        "end": 1107.086,
+        "id": 249,
+        "is_music": false,
+        "start": 1101.088,
+        "text": "and whatever way that leads I'll go with that you know that's the that's the way I"
+      },
+      {
+        "end": 1110.014,
+        "id": 250,
+        "is_music": false,
+        "start": 1107.087,
+        "text": "would want to see it I am I'm here's"
+      },
+      {
+        "end": 1116.067,
+        "id": 251,
+        "is_music": false,
+        "start": 1110.015,
+        "text": "a servant I know at times you know somebody at the shop at sort of up the hierarchy"
+      },
+      {
+        "end": 1120.062,
+        "id": 252,
+        "is_music": false,
+        "start": 1116.068,
+        "text": "all of that but ultimately whenever we look at the model of what"
+      },
+      {
+        "end": 1126.001,
+        "id": 253,
+        "is_music": false,
+        "start": 1120.063,
+        "text": "a bishop was in the end the very early days of the church 2000 years ago the model"
+      },
+      {
+        "end": 1128.028,
+        "id": 254,
+        "is_music": false,
+        "start": 1126.002,
+        "text": "of the church as a bishop was as"
+      },
+      {
+        "end": 1133.048,
+        "id": 255,
+        "is_music": false,
+        "start": 1128.029,
+        "text": "a servant and that's what I want to do I want to serve people and see them blast"
+      },
+      {
+        "end": 1138.04,
+        "id": 256,
+        "is_music": false,
+        "start": 1133.049,
+        "text": "through the goodness and love of God. Well thank you for coming and spending"
+      },
+      {
+        "end": 1141.058,
+        "id": 257,
+        "is_music": false,
+        "start": 1138.064,
+        "text": "a really good chunk of time with us but. In"
+      },
+      {
+        "end": 1144.015,
+        "id": 258,
+        "is_music": false,
+        "start": 1141.059,
+        "text": "a way introduce you to the people of the city we wish you well in your ministry"
+      },
+      {
+        "end": 1148.036,
+        "id": 259,
+        "is_music": false,
+        "start": 1144.016,
+        "text": "really see how I mean I want to say. And you picked"
+      },
+      {
+        "end": 1151.089,
+        "id": 260,
+        "is_music": false,
+        "start": 1148.037,
+        "text": "a song and I wasn't until you were going to pick and I got the New York which is"
+      },
+      {
+        "end": 1155.086,
+        "id": 261,
+        "is_music": false,
+        "start": 1151.09,
+        "text": "the older version I had yeah the Joni Mitchell is on in years and has"
+      },
+      {
+        "end": 1159.059,
+        "id": 262,
+        "is_music": false,
+        "start": 1155.087,
+        "text": "a breathtaking song why this one yeah I love this song"
+      },
+      {
+        "end": 1163.022,
+        "id": 263,
+        "is_music": false,
+        "start": 1159.06,
+        "text": "a have it both sides and I paint Joni Mitchell and I think well I love"
+      },
+      {
+        "end": 1170.009,
+        "id": 264,
+        "is_music": false,
+        "start": 1163.023,
+        "text": "a daisy it's short of lucking out life in in the wrong you know and"
+      },
+      {
+        "end": 1173.079,
+        "id": 265,
+        "is_music": false,
+        "start": 1170.01,
+        "text": "sometimes we put on the good feast on the time but this is about"
+      },
+      {
+        "end": 1178.081,
+        "id": 266,
+        "is_music": false,
+        "start": 1173.08,
+        "text": "a song that looks at life in the raw and the both sides of life the good bits the"
+      },
+      {
+        "end": 1185.072,
+        "id": 267,
+        "is_music": false,
+        "start": 1178.082,
+        "text": "hard bits but ultimately it comes right with and you know at Hope and as"
+      },
+      {
+        "end": 1191.023,
+        "id": 268,
+        "is_music": false,
+        "start": 1185.073,
+        "text": "sense of self knowledge under sense of knowing the yars"
+      },
+      {
+        "end": 1197.078,
+        "id": 269,
+        "is_music": false,
+        "start": 1191.024,
+        "text": "a person so I think they're pretty good principle stuff. But Andre Forrester"
+      },
+      {
+        "end": 1199.034,
+        "id": 270,
+        "is_music": false,
+        "start": 1198.021,
+        "text": "thank you very much thank you."
+      },
+      {
+        "end": 1212.074,
+        "id": 271,
+        "is_music": false,
+        "start": 1208,
+        "text": "Rome since noon it's. Of ancient."
+      },
+      {
+        "end": 1217.05,
+        "id": 272,
+        "is_music": false,
+        "start": 1215.096,
+        "text": "An ice cream castle."
+      },
+      {
+        "end": 1295.872,
+        "id": 273,
+        "is_music": true,
+        "start": 1220.096,
+        "text": ""
+      },
+      {
+        "end": 1301.03,
+        "id": 274,
+        "is_music": false,
+        "start": 1294.051,
+        "text": "Lose you. Lose. The."
+      },
+      {
+        "end": 1527.808,
+        "id": 275,
+        "is_music": true,
+        "start": 1298.432,
+        "text": ""
+      },
+      {
+        "end": 1534.018,
+        "id": 276,
+        "is_music": false,
+        "start": 1528.062,
+        "text": "About. A number of you would find out what I most profoundly moving pieces of music"
+      },
+      {
+        "end": 1534.052,
+        "id": 277,
+        "is_music": false,
+        "start": 1534.019,
+        "text": "are"
+      },
+      {
+        "end": 1539.077,
+        "id": 278,
+        "is_music": false,
+        "start": 1534.056,
+        "text": "a few years I never was into young Joni Mitchell The high up stuff the know the sort"
+      },
+      {
+        "end": 1545.087,
+        "id": 279,
+        "is_music": false,
+        "start": 1539.078,
+        "text": "of vocal gymnastics but she just it's almost like she. Was de Mersch on."
+      },
+      {
+        "end": 1554.008,
+        "id": 280,
+        "is_music": false,
+        "start": 1547.068,
+        "text": "Both sides they orchestral version is the choice today of the new. Without special"
+      },
+      {
+        "end": 1557.049,
+        "id": 281,
+        "is_music": false,
+        "start": 1554.014,
+        "text": "104 stars to the 2nd it was not foster"
+      },
+      {
+        "end": 1564.012,
+        "id": 282,
+        "is_music": false,
+        "start": 1557.087,
+        "text": "a we call them back in Queens too many decades back to remember but for"
+      },
+      {
+        "end": 1566.011,
+        "id": 283,
+        "is_music": false,
+        "start": 1564.05,
+        "text": "Forster just get them to declare"
+      },
+      {
+        "end": 1573.016,
+        "id": 284,
+        "is_music": false,
+        "start": 1567.004,
+        "text": "a must like the bishop for pop in and given us so generously of his. Today."
+      },
+      {
+        "end": 1580.019,
+        "id": 285,
+        "is_music": false,
+        "start": 1574.082,
+        "text": "Right sit back and forth just to introduce miscast we got some nice. Way."
+      },
+      {
+        "end": 1596.063,
+        "id": 286,
+        "is_music": false,
+        "start": 1592.055,
+        "text": "I said Bob Dylan what do you feel that 1st little bit about. The Williams."
+      },
+      {
+        "end": 1603.032,
+        "id": 287,
+        "is_music": false,
+        "start": 1599.045,
+        "text": "Ok like folks I was driving past this one and you know what since the time has"
+      },
+      {
+        "end": 1604.017,
+        "id": 288,
+        "is_music": false,
+        "start": 1603.033,
+        "text": "taken these markets"
+      },
+      {
+        "end": 1608.016,
+        "id": 289,
+        "is_music": false,
+        "start": 1604.018,
+        "text": "a little more seriously and I think in the later years team often people like the"
+      },
+      {
+        "end": 1612.025,
+        "id": 290,
+        "is_music": false,
+        "start": 1608.017,
+        "text": "local creatives dress the spirit and heart of the spirit on"
+      },
+      {
+        "end": 1614.053,
+        "id": 291,
+        "is_music": false,
+        "start": 1612.026,
+        "text": "a situation if you're not a drinker we topple"
+      },
+      {
+        "end": 1619.047,
+        "id": 292,
+        "is_music": false,
+        "start": 1615.012,
+        "text": "a crack and spirit of Christmas markets are back today running through to Sunday"
+      },
+      {
+        "end": 1625.042,
+        "id": 293,
+        "is_music": false,
+        "start": 1619.048,
+        "text": "the 15th of December the winter wonderland markets open between but they are 11 at"
+      },
+      {
+        "end": 1631.01,
+        "id": 294,
+        "is_music": false,
+        "start": 1625.043,
+        "text": "night 1st of all of us all the prices of course under Campbell. If approved this"
+      },
+      {
+        "end": 1632.001,
+        "id": 295,
+        "is_music": false,
+        "start": 1631.011,
+        "text": "year on year on"
+      },
+      {
+        "end": 1638.041,
+        "id": 296,
+        "is_music": false,
+        "start": 1632.002,
+        "text": "a back to the public OTOH there are definitely I think we have sort of nailed what"
+      },
+      {
+        "end": 1643.084,
+        "id": 297,
+        "is_music": false,
+        "start": 1638.055,
+        "text": "works for the markets and we've asked them to feed back and this seems to be you"
+      },
+      {
+        "end": 1647.085,
+        "id": 298,
+        "is_music": false,
+        "start": 1643.085,
+        "text": "know the weekend that sits on the length of time that So it's and as you say the"
+      },
+      {
+        "end": 1651.078,
+        "id": 299,
+        "is_music": false,
+        "start": 1647.086,
+        "text": "dress and offered and the layout everything and it looks amazing this year again"
+      },
+      {
+        "end": 1655.042,
+        "id": 300,
+        "is_music": false,
+        "start": 1651.083,
+        "text": "what do people tell you about it I mean what do you think works I thank I mean the"
+      },
+      {
+        "end": 1659.068,
+        "id": 301,
+        "is_music": false,
+        "start": 1655.043,
+        "text": "bars are always faith popular and the Christmas bar and the live music and the bar"
+      },
+      {
+        "end": 1665.087,
+        "id": 302,
+        "is_music": false,
+        "start": 1659.069,
+        "text": "and of course the you know the local projects is there and the extra trader's is"
+      },
+      {
+        "end": 1668.052,
+        "id": 303,
+        "is_music": false,
+        "start": 1665.088,
+        "text": "there so the family friends in"
+      },
+      {
+        "end": 1673.016,
+        "id": 304,
+        "is_music": false,
+        "start": 1668.053,
+        "text": "a separate You know you've got all your. There you've got your characters there"
+      },
+      {
+        "end": 1678.001,
+        "id": 305,
+        "is_music": false,
+        "start": 1673.017,
+        "text": "you've got your story talent I think it's the whole family experience you know that"
+      },
+      {
+        "end": 1680.054,
+        "id": 306,
+        "is_music": false,
+        "start": 1678.002,
+        "text": "you're able to get for a faulty if you're"
+      },
+      {
+        "end": 1684.047,
+        "id": 307,
+        "is_music": false,
+        "start": 1680.055,
+        "text": "a family I think there's something for every member of your probably the most"
+      },
+      {
+        "end": 1691.001,
+        "id": 308,
+        "is_music": false,
+        "start": 1684.048,
+        "text": "public the ballpark in the Benz. Apart from the. People But you know people say"
+      },
+      {
+        "end": 1695.045,
+        "id": 309,
+        "is_music": false,
+        "start": 1691.002,
+        "text": "your stuff people are very fussy about about your stuff I did as I've seen it even"
+      },
+      {
+        "end": 1700.033,
+        "id": 310,
+        "is_music": false,
+        "start": 1695.046,
+        "text": "in my time on to evolve credibly the food festivals the club or stuff along with"
+      },
+      {
+        "end": 1706.05,
+        "id": 311,
+        "is_music": false,
+        "start": 1700.054,
+        "text": "a just be blunt if you do festivals right they make Oh definitely and I mean"
+      },
+      {
+        "end": 1709.083,
+        "id": 312,
+        "is_music": false,
+        "start": 1706.051,
+        "text": "they're bringing They're bringing people on to the set is whale and I think because"
+      },
+      {
+        "end": 1714.09,
+        "id": 313,
+        "is_music": false,
+        "start": 1709.084,
+        "text": "we have set the bar so high for our festivals overall you know people in here"
+      },
+      {
+        "end": 1715.012,
+        "id": 314,
+        "is_music": false,
+        "start": 1714.091,
+        "text": "there's"
+      },
+      {
+        "end": 1719.007,
+        "id": 315,
+        "is_music": false,
+        "start": 1715.013,
+        "text": "a level of expectation that we have to make because they wanted to be up at that"
+      },
+      {
+        "end": 1722.051,
+        "id": 316,
+        "is_music": false,
+        "start": 1719.008,
+        "text": "level so we have to make sure and love for it stop we want to be like"
+      },
+      {
+        "end": 1724.023,
+        "id": 317,
+        "is_music": false,
+        "start": 1722.052,
+        "text": "a family friendly bar will serve"
+      },
+      {
+        "end": 1730.053,
+        "id": 318,
+        "is_music": false,
+        "start": 1724.027,
+        "text": "a draft craft beer local yet mold wine experts to still using only locally sourced"
+      },
+      {
+        "end": 1735.041,
+        "id": 319,
+        "is_music": false,
+        "start": 1730.054,
+        "text": "products and also like music from entertainment the. Most workshop in the Alley"
+      },
+      {
+        "end": 1738.007,
+        "id": 320,
+        "is_music": false,
+        "start": 1735.042,
+        "text": "Theater street performers but for those products I saw"
+      },
+      {
+        "end": 1744.079,
+        "id": 321,
+        "is_music": false,
+        "start": 1738.008,
+        "text": "a must of what are they will that's the snow line so that is the largest lion"
+      },
+      {
+        "end": 1750.08,
+        "id": 322,
+        "is_music": false,
+        "start": 1744.08,
+        "text": "ever to walk on the air through that will be here on Saturday and Sunday shows that"
+      },
+      {
+        "end": 1755.02,
+        "id": 323,
+        "is_music": false,
+        "start": 1750.081,
+        "text": "1 o'clock 3 o'clock 5 o'clock that's proper looking stuff it's proper It is"
+      },
+      {
+        "end": 1759.093,
+        "id": 324,
+        "is_music": false,
+        "start": 1755.024,
+        "text": "absolutely amazing to think that it will blow people away that remind me of Marcos"
+      },
+      {
+        "end": 1763.019,
+        "id": 325,
+        "is_music": false,
+        "start": 1759.094,
+        "text": "you know Marcus do these must of sort of goblins and stuff like that enough though"
+      },
+      {
+        "end": 1767.083,
+        "id": 326,
+        "is_music": false,
+        "start": 1763.02,
+        "text": "it does and hopefully you know we will have the lion walk and never mind the"
+      },
+      {
+        "end": 1771.026,
+        "id": 327,
+        "is_music": false,
+        "start": 1767.084,
+        "text": "markets and the square everybody get a chance to see"
+      },
+      {
+        "end": 1777.067,
+        "id": 328,
+        "is_music": false,
+        "start": 1771.027,
+        "text": "a. Red Queen she the boss of the receipts that will keep the line and check this"
+      },
+      {
+        "end": 1781.088,
+        "id": 329,
+        "is_music": false,
+        "start": 1777.068,
+        "text": "photograph for Santa and all of us. I think increasingly we're going to Fasi about"
+      },
+      {
+        "end": 1786.021,
+        "id": 330,
+        "is_music": false,
+        "start": 1781.089,
+        "text": "our food our street food is taken off personally I would love to see it every"
+      },
+      {
+        "end": 1789.056,
+        "id": 331,
+        "is_music": false,
+        "start": 1786.022,
+        "text": "Sunday morning when the pubs are closed just let them in their undercover street"
+      },
+      {
+        "end": 1795.076,
+        "id": 332,
+        "is_music": false,
+        "start": 1789.057,
+        "text": "foot up the total and food and street food what we need to know if you've got. Your"
+      },
+      {
+        "end": 1802.003,
+        "id": 333,
+        "is_music": false,
+        "start": 1795.077,
+        "text": "local traders old Gaylor and that's both food and the arts and crafts stuff so"
+      },
+      {
+        "end": 1806.072,
+        "id": 334,
+        "is_music": false,
+        "start": 1802.072,
+        "text": "we've got Dorothy's there I don't have the full list here it's all local traders"
+      },
+      {
+        "end": 1813.067,
+        "id": 335,
+        "is_music": false,
+        "start": 1806.073,
+        "text": "here. So tall good soul good full list of characters. Meets the briny bar and"
+      },
+      {
+        "end": 1820.049,
+        "id": 336,
+        "is_music": false,
+        "start": 1813.068,
+        "text": "sober Bane cafe bar bone crushing coffees skincare Council's jewelry farm in Hilo"
+      },
+      {
+        "end": 1826.075,
+        "id": 337,
+        "is_music": false,
+        "start": 1820.092,
+        "text": "waffles. Shop suite of us Holy Lance low and slow."
+      },
+      {
+        "end": 1828.032,
+        "id": 338,
+        "is_music": false,
+        "start": 1828.013,
+        "text": "Bring"
+      },
+      {
+        "end": 1833.036,
+        "id": 339,
+        "is_music": false,
+        "start": 1828.033,
+        "text": "a few bob if you going to spend an hour and all of the right good stuff and you can"
+      },
+      {
+        "end": 1838.033,
+        "id": 340,
+        "is_music": false,
+        "start": 1833.037,
+        "text": "also Javier important by way of housekeeping up told you know the that I think"
+      },
+      {
+        "end": 1843.013,
+        "id": 341,
+        "is_music": false,
+        "start": 1838.034,
+        "text": "about day traders will be they the actual traders will be open until 10 o'clock and"
+      },
+      {
+        "end": 1847.002,
+        "id": 342,
+        "is_music": false,
+        "start": 1843.014,
+        "text": "the bar will stay open with get the fashion helpless whale that they will be"
+      },
+      {
+        "end": 1851.051,
+        "id": 343,
+        "is_music": false,
+        "start": 1847.003,
+        "text": "showcased in some of them but shouldn't local talent and that will be on Thursday"
+      },
+      {
+        "end": 1854.056,
+        "id": 344,
+        "is_music": false,
+        "start": 1851.052,
+        "text": "and Friday if the market is May also give give give it get out get out we've got"
+      },
+      {
+        "end": 1860.085,
+        "id": 345,
+        "is_music": false,
+        "start": 1854.057,
+        "text": "a support as well here we singer. Singer. Got the head was on the."
+      },
+      {
+        "end": 1873.052,
+        "id": 346,
+        "is_music": false,
+        "start": 1866.058,
+        "text": "Let's. Say the scale."
+      },
+      {
+        "end": 1878.055,
+        "id": 347,
+        "is_music": false,
+        "start": 1875.045,
+        "text": "Of the lady to. The words."
+      },
+      {
+        "end": 1885.059,
+        "id": 348,
+        "is_music": false,
+        "start": 1883.039,
+        "text": "Go. Go it."
+      },
+      {
+        "end": 1902.019,
+        "id": 349,
+        "is_music": false,
+        "start": 1895.03,
+        "text": "Really is the number 7 here these this Christmas. Of course as the. Festivals"
+      },
+      {
+        "end": 1909.003,
+        "id": 350,
+        "is_music": false,
+        "start": 1902.02,
+        "text": "I'm events. A concert so that. The big marquees of lovely sort of you can see the"
+      },
+      {
+        "end": 1913.027,
+        "id": 351,
+        "is_music": false,
+        "start": 1909.004,
+        "text": "light come on the 4 sides with the stuff so it's all thank you very much and they"
+      },
+      {
+        "end": 1920.036,
+        "id": 352,
+        "is_music": false,
+        "start": 1913.039,
+        "text": "will be. All right there"
+      },
+      {
+        "end": 1924.082,
+        "id": 353,
+        "is_music": false,
+        "start": 1920.047,
+        "text": "on from the Williams. To his brother Joel."
+      },
+      {
+        "end": 1936.002,
+        "id": 354,
+        "is_music": false,
+        "start": 1934.052,
+        "text": "I thought it was a pointed out it's just"
+      },
+      {
+        "end": 1942.092,
+        "id": 355,
+        "is_music": false,
+        "start": 1936.003,
+        "text": "a wee accident the way Mrs. Enough problems course of production and"
+      },
+      {
+        "end": 1943.061,
+        "id": 356,
+        "is_music": false,
+        "start": 1943.01,
+        "text": "look I make"
+      },
+      {
+        "end": 1947.099,
+        "id": 357,
+        "is_music": false,
+        "start": 1943.062,
+        "text": "a serious point here we are profoundly moved every year when we open up markets"
+      },
+      {
+        "end": 1952.043,
+        "id": 358,
+        "is_music": false,
+        "start": 1948,
+        "text": "fell apart Sarka the start of Christmas for me as one fo puts the radio up I am"
+      },
+      {
+        "end": 1956.008,
+        "id": 359,
+        "is_music": false,
+        "start": 1952.044,
+        "text": "a grinch the tree in my house is my wooden shelves because that's"
+      },
+      {
+        "end": 1962.093,
+        "id": 360,
+        "is_music": false,
+        "start": 1956.009,
+        "text": "a tree. Selling the lights works about 3 point. But when you"
+      },
+      {
+        "end": 1967.066,
+        "id": 361,
+        "is_music": false,
+        "start": 1962.094,
+        "text": "see families arriving here on weekends with gifts for all their way and some of the"
+      },
+      {
+        "end": 1972.053,
+        "id": 362,
+        "is_music": false,
+        "start": 1967.067,
+        "text": "aren't as well off at really as moving and we talked with the still day I'm within"
+      },
+      {
+        "end": 1973.072,
+        "id": 363,
+        "is_music": false,
+        "start": 1972.054,
+        "text": "about 20 minutes of coming off"
+      },
+      {
+        "end": 1979.058,
+        "id": 364,
+        "is_music": false,
+        "start": 1974.001,
+        "text": "a little right with 7 such gifts 9000 such gifts. Are"
+      },
+      {
+        "end": 1984.093,
+        "id": 365,
+        "is_music": false,
+        "start": 1979.059,
+        "text": "a reminder radio for the Christmas toy has started a commit difficult time"
+      },
+      {
+        "end": 1986.089,
+        "id": 366,
+        "is_music": false,
+        "start": 1984.097,
+        "text": "a community fence of time peer pressure of"
+      },
+      {
+        "end": 1991.047,
+        "id": 367,
+        "is_music": false,
+        "start": 1986.09,
+        "text": "a time so as we always have to home and collaboration the Salvation Army and some"
+      },
+      {
+        "end": 1996.074,
+        "id": 368,
+        "is_music": false,
+        "start": 1991.048,
+        "text": "fun to Paul we split everything $5050.00 between the 2 charges so if you're right"
+      },
+      {
+        "end": 1997.044,
+        "id": 369,
+        "is_music": false,
+        "start": 1996.075,
+        "text": "shopping and have"
+      },
+      {
+        "end": 2002.019,
+        "id": 370,
+        "is_music": false,
+        "start": 1997.045,
+        "text": "a few bald are we town or are 20 quid going spare and you want to use it like up we"
+      },
+      {
+        "end": 2007.041,
+        "id": 371,
+        "is_music": false,
+        "start": 2002.02,
+        "text": "are only too happy to accommodate you as open right until Christmas Eve Christmas"
+      },
+      {
+        "end": 2011.056,
+        "id": 372,
+        "is_music": false,
+        "start": 2007.042,
+        "text": "Eve just drop whatever and that you can will make sure that they get to the right"
+      },
+      {
+        "end": 2015.087,
+        "id": 373,
+        "is_music": false,
+        "start": 2011.057,
+        "text": "places on just to say this year the Salvationists tell us there is more need than"
+      },
+      {
+        "end": 2019.09,
+        "id": 374,
+        "is_music": false,
+        "start": 2015.088,
+        "text": "ever on that there being less resource and furnace I think more people are doing"
+      },
+      {
+        "end": 2022.09,
+        "id": 375,
+        "is_music": false,
+        "start": 2019.091,
+        "text": "this they would probably time in Derry we were the only ones where you see business"
+      },
+      {
+        "end": 2027.013,
+        "id": 376,
+        "is_music": false,
+        "start": 2022.091,
+        "text": "is not architects hairdressers and all doing the toy appears which I think is"
+      },
+      {
+        "end": 2027.084,
+        "id": 377,
+        "is_music": false,
+        "start": 2027.014,
+        "text": "brilliant and that's"
+      },
+      {
+        "end": 2034.009,
+        "id": 378,
+        "is_music": false,
+        "start": 2027.085,
+        "text": "a sort of democracy of itself he says but if you want to help us along those lines"
+      },
+      {
+        "end": 2040.013,
+        "id": 379,
+        "is_music": false,
+        "start": 2034.038,
+        "text": "we would be most grateful. Christmas can be a distressing time for"
+      },
+      {
+        "end": 2042.06,
+        "id": 380,
+        "is_music": false,
+        "start": 2040.014,
+        "text": "a lot of people what about those living with dementia according to"
+      },
+      {
+        "end": 2046.03,
+        "id": 381,
+        "is_music": false,
+        "start": 2042.061,
+        "text": "a new survey conducted by the Alzheimer's Society 4 out of 5 people living with"
+      },
+      {
+        "end": 2049.079,
+        "id": 382,
+        "is_music": false,
+        "start": 2046.031,
+        "text": "dementia agree it's tough to Christmas or count but there is"
+      },
+      {
+        "end": 2054.011,
+        "id": 383,
+        "is_music": false,
+        "start": 2049.08,
+        "text": "a day off of speaking to temping land ahead of knowledge the city is the head of"
+      },
+      {
+        "end": 2057.068,
+        "id": 384,
+        "is_music": false,
+        "start": 2054.012,
+        "text": "knowledge and they also are society just beyond the awesome about high Christmas"
+      },
+      {
+        "end": 2062.04,
+        "id": 385,
+        "is_music": false,
+        "start": 2057.069,
+        "text": "can indeed be a challenging time well I think just"
+      },
+      {
+        "end": 2067.006,
+        "id": 386,
+        "is_music": false,
+        "start": 2062.041,
+        "text": "a bit of context remember there are 850000 people living with a mentor in the u.k."
+      },
+      {
+        "end": 2070.09,
+        "id": 387,
+        "is_music": false,
+        "start": 2067.007,
+        "text": "And that number set to rise as our population ages so to mention it is"
+      },
+      {
+        "end": 2073.084,
+        "id": 388,
+        "is_music": false,
+        "start": 2070.091,
+        "text": "a problem or a challenge the year round rather than just"
+      },
+      {
+        "end": 2075.06,
+        "id": 389,
+        "is_music": false,
+        "start": 2073.085,
+        "text": "a Christmas but particularly"
+      },
+      {
+        "end": 2079.017,
+        "id": 390,
+        "is_music": false,
+        "start": 2075.061,
+        "text": "a Christmas I think Christmas come be stressful for all of us without pressure to"
+      },
+      {
+        "end": 2081.045,
+        "id": 391,
+        "is_music": false,
+        "start": 2079.018,
+        "text": "have the kind of perfect t.v."
+      },
+      {
+        "end": 2086.085,
+        "id": 392,
+        "is_music": false,
+        "start": 2081.046,
+        "text": "Christmas but for someone with dementia it can be particularly stressful I think"
+      },
+      {
+        "end": 2088.043,
+        "id": 393,
+        "is_music": false,
+        "start": 2086.086,
+        "text": "there are 3 reasons it's maybe"
+      },
+      {
+        "end": 2092.039,
+        "id": 394,
+        "is_music": false,
+        "start": 2088.044,
+        "text": "a change of routine and summaries out of their normal environment come be the"
+      },
+      {
+        "end": 2096.032,
+        "id": 395,
+        "is_music": false,
+        "start": 2093.04,
+        "text": "number of visitors coming that they maybe haven't seen and then there's pressure on"
+      },
+      {
+        "end": 2100.063,
+        "id": 396,
+        "is_music": false,
+        "start": 2096.033,
+        "text": "someone to remember everybody is looking the final thing is some of their just"
+      },
+      {
+        "end": 2105.039,
+        "id": 397,
+        "is_music": false,
+        "start": 2100.064,
+        "text": "coming to overwhelming with all the you know the noise and the. Number of people it"
+      },
+      {
+        "end": 2108.061,
+        "id": 398,
+        "is_music": false,
+        "start": 2105.04,
+        "text": "can be the fill up activity the presence of things can be"
+      },
+      {
+        "end": 2111.057,
+        "id": 399,
+        "is_music": false,
+        "start": 2108.086,
+        "text": "a bit too much for someone if they're not used to it I guess for"
+      },
+      {
+        "end": 2116.012,
+        "id": 400,
+        "is_music": false,
+        "start": 2111.058,
+        "text": "a lot of families with us just family life it's moderates crazy it's chaotic as"
+      },
+      {
+        "end": 2121.082,
+        "id": 401,
+        "is_music": false,
+        "start": 2116.013,
+        "text": "Granny ground on the ground wins yet if somebody is used to that then absolutely if"
+      },
+      {
+        "end": 2125.047,
+        "id": 402,
+        "is_music": false,
+        "start": 2121.083,
+        "text": "somebody is less used to that maybe they're visiting and they're not used to such"
+      },
+      {
+        "end": 2129.001,
+        "id": 403,
+        "is_music": false,
+        "start": 2125.048,
+        "text": "a big gathering then there are things you can do to help them so if somebody is"
+      },
+      {
+        "end": 2132.05,
+        "id": 404,
+        "is_music": false,
+        "start": 2129.002,
+        "text": "happy with absolutely go with it but if somebody's got to mention you feel they're"
+      },
+      {
+        "end": 2135.022,
+        "id": 405,
+        "is_music": false,
+        "start": 2132.051,
+        "text": "not being included or their rooms are getting"
+      },
+      {
+        "end": 2140.008,
+        "id": 406,
+        "is_music": false,
+        "start": 2135.023,
+        "text": "a bit upset at the amount of activity then there are things that you can do which"
+      },
+      {
+        "end": 2143.031,
+        "id": 407,
+        "is_music": false,
+        "start": 2140.009,
+        "text": "will make them enjoy Christmas allow them to have a good time but not put"
+      },
+      {
+        "end": 2147.029,
+        "id": 408,
+        "is_music": false,
+        "start": 2143.032,
+        "text": "a damper on things for other people so give them the flick or recess as part of the"
+      },
+      {
+        "end": 2150.023,
+        "id": 409,
+        "is_music": false,
+        "start": 2147.03,
+        "text": "war or maybe or if it's not t.v."
+      },
+      {
+        "end": 2154.013,
+        "id": 410,
+        "is_music": false,
+        "start": 2150.077,
+        "text": "Maybe do something else they want to do if they just they like looking through old"
+      },
+      {
+        "end": 2155.095,
+        "id": 411,
+        "is_music": false,
+        "start": 2154.014,
+        "text": "photographs or they like I'm having"
+      },
+      {
+        "end": 2161.015,
+        "id": 412,
+        "is_music": false,
+        "start": 2155.096,
+        "text": "a sing song. Or anything the I mean the main thing is think of the person and think"
+      },
+      {
+        "end": 2166.027,
+        "id": 413,
+        "is_music": false,
+        "start": 2161.016,
+        "text": "how they would want to to be treated just occasionally we say to people if"
+      },
+      {
+        "end": 2169.024,
+        "id": 414,
+        "is_music": false,
+        "start": 2166.028,
+        "text": "Christmas is getting a bit too much and they want to just step aside for"
+      },
+      {
+        "end": 2170.087,
+        "id": 415,
+        "is_music": false,
+        "start": 2169.025,
+        "text": "a few minutes if you've got a quiet room or"
+      },
+      {
+        "end": 2174.038,
+        "id": 416,
+        "is_music": false,
+        "start": 2170.088,
+        "text": "a quiet space and they want to go there and say look if you just want"
+      },
+      {
+        "end": 2178.049,
+        "id": 417,
+        "is_music": false,
+        "start": 2174.039,
+        "text": "a few minutes away from all that the activity I'm going to going to sidewalk not"
+      },
+      {
+        "end": 2183.025,
+        "id": 418,
+        "is_music": false,
+        "start": 2178.05,
+        "text": "myself at times all the children don't get that option so I was going to say that"
+      },
+      {
+        "end": 2187.074,
+        "id": 419,
+        "is_music": false,
+        "start": 2183.026,
+        "text": "but isn't it funny how you when you start thinking about this sort of stereotypes"
+      },
+      {
+        "end": 2193.017,
+        "id": 420,
+        "is_music": false,
+        "start": 2187.075,
+        "text": "kick in the Waltons thing Akbar's grandad in the corner and you know in"
+      },
+      {
+        "end": 2197.013,
+        "id": 421,
+        "is_music": false,
+        "start": 2193.018,
+        "text": "a company's got the comfy seat rock on backwards and walk Ronnie's tell everybody"
+      },
+      {
+        "end": 2201.009,
+        "id": 422,
+        "is_music": false,
+        "start": 2197.014,
+        "text": "how it used to be back in the day but as yet I guess sometimes even those"
+      },
+      {
+        "end": 2206.022,
+        "id": 423,
+        "is_music": false,
+        "start": 2201.069,
+        "text": "stereotypes or go kinds of pictures need to be on drastic feel like they do I mean"
+      },
+      {
+        "end": 2210.07,
+        "id": 424,
+        "is_music": false,
+        "start": 2206.023,
+        "text": "but to be honest if you're bringing together granny and the young children it can"
+      },
+      {
+        "end": 2210.08,
+        "id": 425,
+        "is_music": false,
+        "start": 2210.071,
+        "text": "be"
+      },
+      {
+        "end": 2214.085,
+        "id": 426,
+        "is_music": false,
+        "start": 2210.081,
+        "text": "a really good opportunity for them to to talk to granny and she can tell them about"
+      },
+      {
+        "end": 2217.083,
+        "id": 427,
+        "is_music": false,
+        "start": 2214.086,
+        "text": "her past life and it can be quite useful we do quite"
+      },
+      {
+        "end": 2221.008,
+        "id": 428,
+        "is_music": false,
+        "start": 2217.084,
+        "text": "a lot of work with young children and older people who kind of got generation"
+      },
+      {
+        "end": 2224.09,
+        "id": 429,
+        "is_music": false,
+        "start": 2221.053,
+        "text": "aspect to come because not children to learn about what things were like and the"
+      },
+      {
+        "end": 2229.071,
+        "id": 430,
+        "is_music": false,
+        "start": 2224.091,
+        "text": "past and the old person to talk to them and that kind of breaks down that barrier"
+      },
+      {
+        "end": 2230.043,
+        "id": 431,
+        "is_music": false,
+        "start": 2229.072,
+        "text": "maybe there is"
+      },
+      {
+        "end": 2234.015,
+        "id": 432,
+        "is_music": false,
+        "start": 2230.044,
+        "text": "a times between people in other people to mentor because you realize that the"
+      },
+      {
+        "end": 2236.068,
+        "id": 433,
+        "is_music": false,
+        "start": 2234.016,
+        "text": "person with dementia is no I got"
+      },
+      {
+        "end": 2239.087,
+        "id": 434,
+        "is_music": false,
+        "start": 2236.069,
+        "text": "a lot of stuff that's really interesting to say on"
+      },
+      {
+        "end": 2243.068,
+        "id": 435,
+        "is_music": false,
+        "start": 2239.088,
+        "text": "a supposed for folks who are physically divided whether they all are side of the"
+      },
+      {
+        "end": 2247.074,
+        "id": 436,
+        "is_music": false,
+        "start": 2243.069,
+        "text": "island the other side of the war it's probably the one time of the year that you"
+      },
+      {
+        "end": 2252.083,
+        "id": 437,
+        "is_music": false,
+        "start": 2247.075,
+        "text": "have the opportunity to do this with elders That's right so come together be"
+      },
+      {
+        "end": 2256.067,
+        "id": 438,
+        "is_music": false,
+        "start": 2252.084,
+        "text": "a bit flexible you know don't don't overplan things but come together but just"
+      },
+      {
+        "end": 2259.097,
+        "id": 439,
+        "is_music": false,
+        "start": 2256.068,
+        "text": "think of the person and they might need to change the routine"
+      },
+      {
+        "end": 2263.066,
+        "id": 440,
+        "is_music": false,
+        "start": 2259.098,
+        "text": "a little bit but don't let it get dumped on the Christmas but but you don't want to"
+      },
+      {
+        "end": 2268.017,
+        "id": 441,
+        "is_music": false,
+        "start": 2263.076,
+        "text": "exploit the personal feel that they're not taking part photo to kind of think about"
+      },
+      {
+        "end": 2271.047,
+        "id": 442,
+        "is_music": false,
+        "start": 2268.018,
+        "text": "the the needs of people to mention when you have your Christmas and then they'll"
+      },
+      {
+        "end": 2274.002,
+        "id": 443,
+        "is_music": false,
+        "start": 2271.048,
+        "text": "have a good time with everybody else time just one hobby when"
+      },
+      {
+        "end": 2278.026,
+        "id": 444,
+        "is_music": false,
+        "start": 2274.003,
+        "text": "a remarkable moment on the program or this week where former. Former doctor was"
+      },
+      {
+        "end": 2284.018,
+        "id": 445,
+        "is_music": false,
+        "start": 2278.027,
+        "text": "telling me by 2025 well multiple sclerosis the medical intervention could be"
+      },
+      {
+        "end": 2288.005,
+        "id": 446,
+        "is_music": false,
+        "start": 2284.024,
+        "text": "utterly life changing Can you say the same thing with that with the same kind of"
+      },
+      {
+        "end": 2293.064,
+        "id": 447,
+        "is_music": false,
+        "start": 2288.006,
+        "text": "confidence with regard to all Simers not quite yet I mean it's great that there are"
+      },
+      {
+        "end": 2298.053,
+        "id": 448,
+        "is_music": false,
+        "start": 2293.065,
+        "text": "advances in other newer degenerative conditions like the like and that we are"
+      },
+      {
+        "end": 2300.099,
+        "id": 449,
+        "is_music": false,
+        "start": 2298.054,
+        "text": "making progress there were some really exciting news on"
+      },
+      {
+        "end": 2302.052,
+        "id": 450,
+        "is_music": false,
+        "start": 2301,
+        "text": "a potential new treatment only"
+      },
+      {
+        "end": 2306.087,
+        "id": 451,
+        "is_music": false,
+        "start": 2302.053,
+        "text": "a few weeks ago we're putting an awful lot of money into research to find"
+      },
+      {
+        "end": 2309.065,
+        "id": 452,
+        "is_music": false,
+        "start": 2306.088,
+        "text": "a cure for mantra out from the society so it's very much"
+      },
+      {
+        "end": 2314.058,
+        "id": 453,
+        "is_music": false,
+        "start": 2309.066,
+        "text": "a really active. I would think I think the 1st thing to feed is"
+      },
+      {
+        "end": 2319.027,
+        "id": 454,
+        "is_music": false,
+        "start": 2314.059,
+        "text": "a treatment which slows down the disease so it doesn't harm the so it doesn't"
+      },
+      {
+        "end": 2322.064,
+        "id": 455,
+        "is_music": false,
+        "start": 2319.028,
+        "text": "progress quite so quickly but those treatments are"
+      },
+      {
+        "end": 2326.049,
+        "id": 456,
+        "is_music": false,
+        "start": 2322.065,
+        "text": "a little bit on the horizon as really active areas not encourage people to get"
+      },
+      {
+        "end": 2330.079,
+        "id": 457,
+        "is_music": false,
+        "start": 2326.05,
+        "text": "involved in research and give money to out from society so we can from that"
+      },
+      {
+        "end": 2337.053,
+        "id": 458,
+        "is_music": false,
+        "start": 2330.08,
+        "text": "research just. You know you want them to have peace of mind on the day so food for"
+      },
+      {
+        "end": 2343.053,
+        "id": 459,
+        "is_music": false,
+        "start": 2337.054,
+        "text": "thought there thanks to Jim Beam learned from the timers society"
+      },
+      {
+        "end": 2349.077,
+        "id": 460,
+        "is_music": false,
+        "start": 2344.028,
+        "text": "there right we're. Back to some your thoughts on parking and some very funny stuff"
+      },
+      {
+        "end": 2355.057,
+        "id": 461,
+        "is_music": false,
+        "start": 2349.094,
+        "text": "about your gifts and the history of Christmas. You're just arriving at the story"
+      },
+      {
+        "end": 2358.081,
+        "id": 462,
+        "is_music": false,
+        "start": 2355.08,
+        "text": "Patrick and dozens of other listers are given off by the parking at the new"
+      },
+      {
+        "end": 2364.005,
+        "id": 463,
+        "is_music": false,
+        "start": 2358.082,
+        "text": "transport hub the transport hub is fabulous. Everybody everybody but the parking is"
+      },
+      {
+        "end": 2370.063,
+        "id": 464,
+        "is_music": false,
+        "start": 2364.006,
+        "text": "a disaster. Yes everybody so. People talk about that it was over the"
+      },
+      {
+        "end": 2377.052,
+        "id": 465,
+        "is_music": false,
+        "start": 2370.064,
+        "text": "Smorgon on the 6 people or Sam. Barney what about underground car park couple 100"
+      },
+      {
+        "end": 2381.076,
+        "id": 466,
+        "is_music": false,
+        "start": 2377.053,
+        "text": "meters away could that be used they're keeping it good for real says James it is"
+      },
+      {
+        "end": 2384.059,
+        "id": 467,
+        "is_music": false,
+        "start": 2381.077,
+        "text": "used for reuse but if. We call them"
+      },
+      {
+        "end": 2391.029,
+        "id": 468,
+        "is_music": false,
+        "start": 2384.06,
+        "text": "a 1000 jobs speculation are going to build 6 story building on top of. What he"
+      },
+      {
+        "end": 2396.076,
+        "id": 469,
+        "is_music": false,
+        "start": 2391.03,
+        "text": "called the police American company is not there it's widely rumored that they're"
+      },
+      {
+        "end": 2402.078,
+        "id": 470,
+        "is_music": false,
+        "start": 2396.077,
+        "text": "part. Put bricks and mortar on top of the. Chris that's used for patrons using."
+      },
+      {
+        "end": 2414.022,
+        "id": 471,
+        "is_music": false,
+        "start": 2410.004,
+        "text": "A temporary solution if they wanted to make the effort. Using."
+      },
+      {
+        "end": 2417.087,
+        "id": 472,
+        "is_music": false,
+        "start": 2417.048,
+        "text": "I didn't."
+      },
+      {
+        "end": 2437.051,
+        "id": 473,
+        "is_music": false,
+        "start": 2434.035,
+        "text": "I worked in the gallery. That weekend just."
+      },
+      {
+        "end": 2449.016,
+        "id": 474,
+        "is_music": false,
+        "start": 2448.079,
+        "text": "Every day."
+      },
+      {
+        "end": 2468.027,
+        "id": 475,
+        "is_music": false,
+        "start": 2462.008,
+        "text": "Spaces to keep people. See the tree."
+      },
+      {
+        "end": 2475.044,
+        "id": 476,
+        "is_music": false,
+        "start": 2472.06,
+        "text": "There is no. Point it is the."
+      },
+      {
+        "end": 2510.039,
+        "id": 477,
+        "is_music": false,
+        "start": 2509.003,
+        "text": "Expense of the right."
+      },
+      {
+        "end": 2531.049,
+        "id": 478,
+        "is_music": false,
+        "start": 2524.082,
+        "text": "To this day even though. It meant."
+      },
+      {
+        "end": 2541.076,
+        "id": 479,
+        "is_music": false,
+        "start": 2536.083,
+        "text": "To say. Every want to some point something they wouldn't."
+      },
+      {
+        "end": 2549.004,
+        "id": 480,
+        "is_music": false,
+        "start": 2546.056,
+        "text": "Want to show people feel compelled to spend."
+      },
+      {
+        "end": 2557.053,
+        "id": 481,
+        "is_music": false,
+        "start": 2557.025,
+        "text": "A lot of."
+      },
+      {
+        "end": 2573.024,
+        "id": 482,
+        "is_music": false,
+        "start": 2566.03,
+        "text": "And I want comfortable. A lot"
+      },
+      {
+        "end": 2579.031,
+        "id": 483,
+        "is_music": false,
+        "start": 2573.025,
+        "text": "of pressure on. Everyone gets"
+      },
+      {
+        "end": 2590.047,
+        "id": 484,
+        "is_music": false,
+        "start": 2579.032,
+        "text": "a gift. Of"
+      },
+      {
+        "end": 2596.081,
+        "id": 485,
+        "is_music": false,
+        "start": 2590.048,
+        "text": "the day like not like. Please"
+      },
+      {
+        "end": 2787.84,
+        "id": 486,
+        "is_music": true,
+        "start": 2592.256,
+        "text": ""
+      },
+      {
+        "end": 2796.035,
+        "id": 487,
+        "is_music": false,
+        "start": 2790.086,
+        "text": "Because it's been since the I love. Dylan has a Christmas album Johnny Cash has"
+      },
+      {
+        "end": 2801.049,
+        "id": 488,
+        "is_music": false,
+        "start": 2796.036,
+        "text": "a children's album and they're both pregnant. Right daughters remarkable is here to"
+      },
+      {
+        "end": 2805.028,
+        "id": 489,
+        "is_music": false,
+        "start": 2801.05,
+        "text": "talk with fluent breast cancer all the rest Joe But 1st up we put all of this."
+      },
+      {
+        "end": 2832.03,
+        "id": 490,
+        "is_music": false,
+        "start": 2827.083,
+        "text": "I never heard the Guardians call this the 3rd. Best Christmas song ever joke yeah"
+      },
+      {
+        "end": 2839.053,
+        "id": 491,
+        "is_music": false,
+        "start": 2832.085,
+        "text": "wonderful notable. Swedish Swedish bank when you 1st heard fatal New York you were"
+      },
+      {
+        "end": 2840.075,
+        "id": 492,
+        "is_music": false,
+        "start": 2839.054,
+        "text": "going to hear distress write"
+      },
+      {
+        "end": 2845.001,
+        "id": 493,
+        "is_music": false,
+        "start": 2840.099,
+        "text": "a brilliant Christmas song you are just you know. And you Christmas song and you"
+      },
+      {
+        "end": 2846.092,
+        "id": 494,
+        "is_music": false,
+        "start": 2845.002,
+        "text": "sleeve. Never had"
+      },
+      {
+        "end": 2849.053,
+        "id": 495,
+        "is_music": false,
+        "start": 2846.093,
+        "text": "a clue what about breast cancer animal play out with up we saw in"
+      },
+      {
+        "end": 2853.044,
+        "id": 496,
+        "is_music": false,
+        "start": 2849.054,
+        "text": "a moment or 2 folks just when you arrived the public health public health agency"
+      },
+      {
+        "end": 2857.026,
+        "id": 497,
+        "is_music": false,
+        "start": 2853.045,
+        "text": "emailed urging all people eligible for free flu vaccines who have not yet been"
+      },
+      {
+        "end": 2861.071,
+        "id": 498,
+        "is_music": false,
+        "start": 2857.027,
+        "text": "vaccinated to get an eye at has started to circulate the flu so people should"
+      },
+      {
+        "end": 2862.013,
+        "id": 499,
+        "is_music": false,
+        "start": 2861.072,
+        "text": "receive"
+      },
+      {
+        "end": 2866.074,
+        "id": 500,
+        "is_music": false,
+        "start": 2862.014,
+        "text": "a flu vaccine or minor as cases and creased Oh yeah public health in Northern"
+      },
+      {
+        "end": 2867.049,
+        "id": 501,
+        "is_music": false,
+        "start": 2866.075,
+        "text": "Ireland Kamaka"
+      },
+      {
+        "end": 2872.006,
+        "id": 502,
+        "is_music": false,
+        "start": 2867.05,
+        "text": "a head of Public Health Guy you're ahead of me in school he put round"
+      },
+      {
+        "end": 2876.088,
+        "id": 503,
+        "is_music": false,
+        "start": 2872.007,
+        "text": "a notice on Twitter about the raising into an incidence of flu type"
+      },
+      {
+        "end": 2881.059,
+        "id": 504,
+        "is_music": false,
+        "start": 2876.089,
+        "text": "a flu in the in the province so there are definitely phasing if there's anybody"
+      },
+      {
+        "end": 2885.027,
+        "id": 505,
+        "is_music": false,
+        "start": 2881.06,
+        "text": "still vulnerable out there who needs to get flu vaccine we have plenty we've"
+      },
+      {
+        "end": 2888.069,
+        "id": 506,
+        "is_music": false,
+        "start": 2885.028,
+        "text": "ordered more in this week because we're anticipating there has been an increase in"
+      },
+      {
+        "end": 2892.07,
+        "id": 507,
+        "is_music": false,
+        "start": 2888.069,
+        "text": ". People asking for it so we got some more in as"
+      },
+      {
+        "end": 2896.009,
+        "id": 508,
+        "is_music": false,
+        "start": 2892.071,
+        "text": "a move cheapies have right and it's free if you're in one of the risk groups around"
+      },
+      {
+        "end": 2900.093,
+        "id": 509,
+        "is_music": false,
+        "start": 2896.01,
+        "text": "the rest of us least I needed or thought I needed to do way to get it if you the"
+      },
+      {
+        "end": 2903.083,
+        "id": 510,
+        "is_music": false,
+        "start": 2900.097,
+        "text": "way you're meant to do it is one of the pharmacies here's"
+      },
+      {
+        "end": 2908.023,
+        "id": 511,
+        "is_music": false,
+        "start": 2903.084,
+        "text": "a plan for but 12 points if you're not many of the entitled groups don't forget"
+      },
+      {
+        "end": 2912.089,
+        "id": 512,
+        "is_music": false,
+        "start": 2908.06,
+        "text": "groups include people who are carers for people at risk as well so if you're going"
+      },
+      {
+        "end": 2914.061,
+        "id": 513,
+        "is_music": false,
+        "start": 2912.09,
+        "text": "to be a granny or if you're in"
+      },
+      {
+        "end": 2917.056,
+        "id": 514,
+        "is_music": false,
+        "start": 2914.062,
+        "text": "a high school because somebody with severe asthma you know you may be entitled to"
+      },
+      {
+        "end": 2919.053,
+        "id": 515,
+        "is_music": false,
+        "start": 2917.057,
+        "text": "it as one of those across all groups take"
+      },
+      {
+        "end": 2922.066,
+        "id": 516,
+        "is_music": false,
+        "start": 2919.085,
+        "text": "a risk of getting out of getting sick for 4 or 5 days after"
+      },
+      {
+        "end": 2926.058,
+        "id": 517,
+        "is_music": false,
+        "start": 2922.067,
+        "text": "a chill is so many people say and so many people say that and they say I won't take"
+      },
+      {
+        "end": 2930.021,
+        "id": 518,
+        "is_music": false,
+        "start": 2926.059,
+        "text": "it because I got sick you know and say you told me this couldn't happen and I got"
+      },
+      {
+        "end": 2935.043,
+        "id": 519,
+        "is_music": false,
+        "start": 2930.022,
+        "text": "sick last year to get sick the year before. In theory there's no active flu virus"
+      },
+      {
+        "end": 2938.087,
+        "id": 520,
+        "is_music": false,
+        "start": 2935.044,
+        "text": "in the vaccine except my one for kids the knee is"
+      },
+      {
+        "end": 2943.023,
+        "id": 521,
+        "is_music": false,
+        "start": 2938.088,
+        "text": "a one little spray of the nose doesn't live vaccine it but that injection has no"
+      },
+      {
+        "end": 2948.026,
+        "id": 522,
+        "is_music": false,
+        "start": 2943.024,
+        "text": "life particles and right Ok Ok right to caress cancer Joe new supporters are good"
+      },
+      {
+        "end": 2951.059,
+        "id": 523,
+        "is_music": false,
+        "start": 2948.027,
+        "text": "news it's Christmas this is a drug. I've been using for years but"
+      },
+      {
+        "end": 2956.018,
+        "id": 524,
+        "is_music": false,
+        "start": 2951.063,
+        "text": "a study has shown that when you take this drug it's called masters all you take it"
+      },
+      {
+        "end": 2959.019,
+        "id": 525,
+        "is_music": false,
+        "start": 2956.019,
+        "text": "for prevention of breast cancer or sometimes for prevention of recurrence of breast"
+      },
+      {
+        "end": 2963.022,
+        "id": 526,
+        "is_music": false,
+        "start": 2959.02,
+        "text": "cancer and they find out that if you take it for 5 years it continues working for"
+      },
+      {
+        "end": 2967.009,
+        "id": 527,
+        "is_music": false,
+        "start": 2963.023,
+        "text": "another 7 years afterwards the effects are still there which is brilliant use but"
+      },
+      {
+        "end": 2971.064,
+        "id": 528,
+        "is_music": false,
+        "start": 2967.01,
+        "text": "they're saying the dying say to the rest of the doctors this is published in The"
+      },
+      {
+        "end": 2976.021,
+        "id": 529,
+        "is_music": false,
+        "start": 2971.065,
+        "text": "Lancet just today said that only one in 10 women who are entitle to get it are"
+      },
+      {
+        "end": 2978.02,
+        "id": 530,
+        "is_music": false,
+        "start": 2976.022,
+        "text": "receiving it and this is a drug market course"
+      },
+      {
+        "end": 2983.021,
+        "id": 531,
+        "is_music": false,
+        "start": 2978.021,
+        "text": "a pint and 4 pounds per month because nothing is absolute nothing it does have some"
+      },
+      {
+        "end": 2983.071,
+        "id": 532,
+        "is_music": false,
+        "start": 2983.022,
+        "text": "side effects"
+      },
+      {
+        "end": 2987.03,
+        "id": 533,
+        "is_music": false,
+        "start": 2983.072,
+        "text": "a dose of on the hormonal side effects and it can be given to just anybody you do"
+      },
+      {
+        "end": 2990.081,
+        "id": 534,
+        "is_music": false,
+        "start": 2987.031,
+        "text": "have to be post-menopausal or just doesn't work or doesn't work very well but it's"
+      },
+      {
+        "end": 2995.029,
+        "id": 535,
+        "is_music": false,
+        "start": 2990.082,
+        "text": "a very very good drug and it's you know really good news that it's its effects last"
+      },
+      {
+        "end": 2999.013,
+        "id": 536,
+        "is_music": false,
+        "start": 2995.03,
+        "text": "long beyond you take the thing you know. The way he said it turns the clock back"
+      },
+      {
+        "end": 3002.041,
+        "id": 537,
+        "is_music": false,
+        "start": 2999.014,
+        "text": "about 20 years on your cancers so you know that could be life saving"
+      },
+      {
+        "end": 3008.031,
+        "id": 538,
+        "is_music": false,
+        "start": 3002.054,
+        "text": "a doctor on this week show he was optimistic his family have been utterly"
+      },
+      {
+        "end": 3013.057,
+        "id": 539,
+        "is_music": false,
+        "start": 3009.001,
+        "text": "arcanists. Multiple sclerosis has been tough on their family and he said he's very"
+      },
+      {
+        "end": 3016.071,
+        "id": 540,
+        "is_music": false,
+        "start": 3013.058,
+        "text": "hopeful about 2025 as early as thought that there could be major breakthroughs that"
+      },
+      {
+        "end": 3020.088,
+        "id": 541,
+        "is_music": false,
+        "start": 3016.072,
+        "text": "they're only on the cost of important stuff Yeah absolutely and it's and it is one"
+      },
+      {
+        "end": 3025.057,
+        "id": 542,
+        "is_music": false,
+        "start": 3020.089,
+        "text": "of the most devastating diagnoses you can get you know. And you know people do tend"
+      },
+      {
+        "end": 3029.02,
+        "id": 543,
+        "is_music": false,
+        "start": 3025.058,
+        "text": "to question it because there's no one test you can do to say this is deadly m.s."
+      },
+      {
+        "end": 3032.046,
+        "id": 544,
+        "is_music": false,
+        "start": 3029.021,
+        "text": "Or not it's quite an involved process which means that it can take years to get"
+      },
+      {
+        "end": 3037.058,
+        "id": 545,
+        "is_music": false,
+        "start": 3032.047,
+        "text": "finally diagnosed with it or tools are clear that. We do have some people who are"
+      },
+      {
+        "end": 3041.073,
+        "id": 546,
+        "is_music": false,
+        "start": 3037.059,
+        "text": "getting some revolutionary treatments on it and yet fingers crossed you know that"
+      },
+      {
+        "end": 3044.035,
+        "id": 547,
+        "is_music": false,
+        "start": 3041.077,
+        "text": "they'll find something to help ease this is"
+      },
+      {
+        "end": 3047.03,
+        "id": 548,
+        "is_music": false,
+        "start": 3044.036,
+        "text": "a very strange disease effects here much more than the world in the world for some"
+      },
+      {
+        "end": 3053.05,
+        "id": 549,
+        "is_music": false,
+        "start": 3047.031,
+        "text": "reason here and aren't yet this. A. Lot of food for some reason so people from"
+      },
+      {
+        "end": 3057.053,
+        "id": 550,
+        "is_music": false,
+        "start": 3053.051,
+        "text": "Northern people from Scotland people from this lot of trade in Canada who go to say"
+      },
+      {
+        "end": 3061.044,
+        "id": 551,
+        "is_music": false,
+        "start": 3057.054,
+        "text": "Australia to live I think go after the age of 16 you take the same risk with them"
+      },
+      {
+        "end": 3064.054,
+        "id": 552,
+        "is_music": false,
+        "start": 3061.045,
+        "text": "the group before the age of 16 they don't take the risk with them so we're looking"
+      },
+      {
+        "end": 3067.064,
+        "id": 553,
+        "is_music": false,
+        "start": 3064.055,
+        "text": "at maybe possibly some kind of viral infection to get your kids"
+      },
+      {
+        "end": 3071.085,
+        "id": 554,
+        "is_music": false,
+        "start": 3067.068,
+        "text": "a Celtic thing or we don't know it could be that you know it's. Strange phenomena"
+      },
+      {
+        "end": 3076.059,
+        "id": 555,
+        "is_music": false,
+        "start": 3072.015,
+        "text": "but it's obviously life life don't have time for one more observation before your"
+      },
+      {
+        "end": 3081.001,
+        "id": 556,
+        "is_music": false,
+        "start": 3076.06,
+        "text": "desk full of stuff or what else are very good news again many of stardust homes"
+      },
+      {
+        "end": 3085.036,
+        "id": 557,
+        "is_music": false,
+        "start": 3081.002,
+        "text": "during Belgium your job or craft beers earlier on or stop are never marry stop or"
+      },
+      {
+        "end": 3086.019,
+        "id": 558,
+        "is_music": false,
+        "start": 3085.037,
+        "text": "just be t.v."
+      },
+      {
+        "end": 3091.087,
+        "id": 559,
+        "is_music": false,
+        "start": 3086.023,
+        "text": "Shorts doctor Hi Yes Yes So what's happened is we're talking of the got micro biome"
+      },
+      {
+        "end": 3095.042,
+        "id": 560,
+        "is_music": false,
+        "start": 3091.088,
+        "text": "So this is the the good beneficial bacteria that are in Oregon so we think"
+      },
+      {
+        "end": 3099.041,
+        "id": 561,
+        "is_music": false,
+        "start": 3095.062,
+        "text": "increasingly think are important for health for prevention of diabetes prevention"
+      },
+      {
+        "end": 3103.051,
+        "id": 562,
+        "is_music": false,
+        "start": 3099.042,
+        "text": "of obesity prevention of Alzheimer's all sorts of things I think and I understand"
+      },
+      {
+        "end": 3108.038,
+        "id": 563,
+        "is_music": false,
+        "start": 3103.052,
+        "text": "that the the reason we're talking across beers is any kind of beer that has 2nd"
+      },
+      {
+        "end": 3112.033,
+        "id": 564,
+        "is_music": false,
+        "start": 3108.039,
+        "text": "fermentation has live east in it and the yeast is the crucial thing can help keep"
+      },
+      {
+        "end": 3116.017,
+        "id": 565,
+        "is_music": false,
+        "start": 3112.034,
+        "text": "your microbiome very healthy if you don't drink what you're saying is"
+      },
+      {
+        "end": 3121.046,
+        "id": 566,
+        "is_music": false,
+        "start": 3116.031,
+        "text": "a pretty chicory but it used to be nothing more no trickery was. All it was chick"
+      },
+      {
+        "end": 3122.012,
+        "id": 567,
+        "is_music": false,
+        "start": 3121.047,
+        "text": "or used to be used as"
+      },
+      {
+        "end": 3126.071,
+        "id": 568,
+        "is_music": false,
+        "start": 3122.013,
+        "text": "a fake coffee thing to look at it and the parents the bra and sludge that's the one"
+      },
+      {
+        "end": 3131.083,
+        "id": 569,
+        "is_music": false,
+        "start": 3126.077,
+        "text": "I come scoffing counted off so chicory is that has got the highest concentration of"
+      },
+      {
+        "end": 3136.049,
+        "id": 570,
+        "is_music": false,
+        "start": 3131.095,
+        "text": "prebiotics In other words sugars that will help you grow good bacteria but also"
+      },
+      {
+        "end": 3138.098,
+        "id": 571,
+        "is_music": false,
+        "start": 3136.053,
+        "text": "apples garlic onions as well if you're not"
+      },
+      {
+        "end": 3145.084,
+        "id": 572,
+        "is_music": false,
+        "start": 3138.099,
+        "text": "a trained pretty good right. On flu that just get moved on the flu. Stomach focus"
+      },
+      {
+        "end": 3146.043,
+        "id": 573,
+        "is_music": false,
+        "start": 3145.085,
+        "text": "well just"
+      },
+      {
+        "end": 3150.023,
+        "id": 574,
+        "is_music": false,
+        "start": 3146.044,
+        "text": "a colleague actually was beleaguered for going to 2nd or colic flat on his back or"
+      },
+      {
+        "end": 3153.051,
+        "id": 575,
+        "is_music": false,
+        "start": 3150.024,
+        "text": "if it gets still a bit of vomiting virus still there may be"
+      },
+      {
+        "end": 3158.025,
+        "id": 576,
+        "is_music": false,
+        "start": 3153.052,
+        "text": "a little bit last night that the schools don't seem to be as. Devastated by this as"
+      },
+      {
+        "end": 3158.064,
+        "id": 577,
+        "is_music": false,
+        "start": 3158.042,
+        "text": "they were"
+      },
+      {
+        "end": 3161.065,
+        "id": 578,
+        "is_music": false,
+        "start": 3158.065,
+        "text": "a couple weeks ago so hopefully it's on the way Don hopefully it would affect our"
+      },
+      {
+        "end": 3165.006,
+        "id": 579,
+        "is_music": false,
+        "start": 3161.066,
+        "text": "turkey all right and Joseph like you very much Dr John Mark of our longstanding"
+      },
+      {
+        "end": 3168.08,
+        "id": 580,
+        "is_music": false,
+        "start": 3165.007,
+        "text": "p.-p. On this particular program for many as the year will play out with"
+      },
+      {
+        "end": 3175.078,
+        "id": 581,
+        "is_music": false,
+        "start": 3168.081,
+        "text": "a wee bit of. Mind for this was that they. Revealed that the worst"
+      },
+      {
+        "end": 3179.062,
+        "id": 582,
+        "is_music": false,
+        "start": 3175.079,
+        "text": "Christmas present ever he got was a spices because they were out of the it and"
+      },
+      {
+        "end": 3183.019,
+        "id": 583,
+        "is_music": false,
+        "start": 3179.063,
+        "text": "a week after the that's the type of the actual We'll talk tomorrow take care."
+      },
+      {
+        "end": 3266.048,
+        "id": 584,
+        "is_music": true,
+        "start": 3183.616,
+        "text": ""
+      },
+      {
+        "end": 3269,
+        "id": 585,
+        "is_music": false,
+        "start": 3265.099,
+        "text": "Radio Music 3 o'clock with Anya O'Donnell"
+      },
+      {
+        "end": 3273.099,
+        "id": 586,
+        "is_music": false,
+        "start": 3269.06,
+        "text": "a fingerprint expert has told the High Court in London there's absolutely no"
+      },
+      {
+        "end": 3279.037,
+        "id": 587,
+        "is_music": false,
+        "start": 3274,
+        "text": "question whatsoever that John Di nice fingerprints are on carpark tickets length to"
+      },
+      {
+        "end": 3285.02,
+        "id": 588,
+        "is_music": false,
+        "start": 3279.038,
+        "text": "the ira Hyde Park bombing in 1902 our Home Affairs Correspondent Julie Donia"
+      },
+      {
+        "end": 3290.051,
+        "id": 589,
+        "is_music": false,
+        "start": 3285.021,
+        "text": "reports from the court 5 of John Dani's prints were in 2 car park tickets issued"
+      },
+      {
+        "end": 3294.006,
+        "id": 590,
+        "is_music": false,
+        "start": 3290.052,
+        "text": "for the vehicle used in the Hyde Park attack they were handed in"
+      },
+      {
+        "end": 3295.069,
+        "id": 591,
+        "is_music": false,
+        "start": 3294.007,
+        "text": "a payment kiosks over"
+      },
+      {
+        "end": 3300.097,
+        "id": 592,
+        "is_music": false,
+        "start": 3295.07,
+        "text": "a $2.00 day period leading up to and including the day of the bombing in July 1902"
+      },
+      {
+        "end": 3305.08,
+        "id": 593,
+        "is_music": false,
+        "start": 3301.009,
+        "text": "finger print expert Stephen Hughes compared the ticket prints to prints taken from"
+      },
+      {
+        "end": 3310.054,
+        "id": 594,
+        "is_music": false,
+        "start": 3305.081,
+        "text": "Mr Donnie by the police in 2030 he told the High Court there was absolutely. No"
+      },
+      {
+        "end": 3315.085,
+        "id": 595,
+        "is_music": false,
+        "start": 3310.055,
+        "text": "question whatsoever not they much Mr Donny denies any involvement but is not"
+      },
+      {
+        "end": 3320.027,
+        "id": 596,
+        "is_music": false,
+        "start": 3315.086,
+        "text": "represented at the Civil War families of the soldiers killed are trying to"
+      },
+      {
+        "end": 3324.037,
+        "id": 597,
+        "is_music": false,
+        "start": 3320.028,
+        "text": "establish he is liable for the bombing evidence will conclude today but"
+      },
+      {
+        "end": 3329.03,
+        "id": 598,
+        "is_music": false,
+        "start": 3324.038,
+        "text": "a judgment is not likely until next week police in New Zealand say they're about to"
+      },
+      {
+        "end": 3329.064,
+        "id": 599,
+        "is_music": false,
+        "start": 3329.031,
+        "text": "launch"
+      },
+      {
+        "end": 3334.087,
+        "id": 600,
+        "is_music": false,
+        "start": 3329.065,
+        "text": "a recovery operation to try to find the bodies of those killed in the volcanic"
+      },
+      {
+        "end": 3340.01,
+        "id": 601,
+        "is_music": false,
+        "start": 3334.088,
+        "text": "eruption on White Island 8 people are missing presumed dead Jason hell is"
+      },
+      {
+        "end": 3344.066,
+        "id": 602,
+        "is_music": false,
+        "start": 3340.011,
+        "text": "a pilot who helped rescue people in the aftermath of the eruption he believes the"
+      },
+      {
+        "end": 3347.025,
+        "id": 603,
+        "is_music": false,
+        "start": 3344.067,
+        "text": "recovery of bodies has taken too long."
+      },
+      {
+        "end": 3366.054,
+        "id": 604,
+        "is_music": false,
+        "start": 3363.026,
+        "text": "In Swans a 7 people have been hurt in a crash in which"
+      },
+      {
+        "end": 3368.043,
+        "id": 605,
+        "is_music": false,
+        "start": 3366.055,
+        "text": "a double decker bus plowed into"
+      },
+      {
+        "end": 3373.003,
+        "id": 606,
+        "is_music": false,
+        "start": 3368.044,
+        "text": "a railway bridge one person was taken to hospital by helicopter with life"
+      },
+      {
+        "end": 3378.066,
+        "id": 607,
+        "is_music": false,
+        "start": 3373.004,
+        "text": "threatening injuries from Cardiff Here's Thomas Morgan 20 to 10 this morning the"
+      },
+      {
+        "end": 3380.006,
+        "id": 608,
+        "is_music": false,
+        "start": 3378.067,
+        "text": "double decker crashed into"
+      },
+      {
+        "end": 3384.092,
+        "id": 609,
+        "is_music": false,
+        "start": 3380.007,
+        "text": "a railway bridge near the city center the bus was travelling between Swans East to"
+      },
+      {
+        "end": 3391.035,
+        "id": 610,
+        "is_music": false,
+        "start": 3384.093,
+        "text": "university campuses the singleton Bay compass 7 people were injured one"
+      },
+      {
+        "end": 3392.049,
+        "id": 611,
+        "is_music": false,
+        "start": 3391.036,
+        "text": "seriously and in."
+      }
+    ],
+    "uniq": 1983774912,
+    "workable_servers": [
+      "ia803105.us.archive.org",
+      "ia903105.us.archive.org"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "source": "dpla",
+  "id": "d2a23987b03cd5f1d1d6ef7ef115d173",
+  "identifier": "d2a23987b03cd5f1d1d6ef7ef115d173",
+  "title": "40 Recipes from Poynette Methodist Women's Society",
+  "subject": [
+    "Cookbooks",
+    "Recipes",
+    "Methodist Church",
+    "Community cookbooks",
+    "Church Cookbooks",
+    "Poynette (Wis) Methodist Church",
+    "Poynette Methodist Church Women's Society"
+  ],
+  "spatial": [
+    "Poynette, Columbia County, Wisconsin"
+  ],
+  "description": "Cookbook featuring recipes from local women in the Poynette Methodist church congregation.",
+  "isShownAt": "http://content.mpl.org/cdm/ref/collection/poynette/id/4738",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/wisconsin",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878508"
+    ],
+    "name": "Recollection Wisconsin"
+  },
+  "institution": "Recollection Wisconsin",
+  "data": {
+    "object": "https://content.mpl.org/utils/getthumbnail/collection/poynette/id/4738",
+    "isShownAt": "http://content.mpl.org/cdm/ref/collection/poynette/id/4738"
+  },
+  "location": {
+    "state": "Wisconsin"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Methodist"
+    ]
+  },
+  "curation_notes": "State match: Wisconsin; Community markers: Church, Methodist; Digitized scan available"
+}

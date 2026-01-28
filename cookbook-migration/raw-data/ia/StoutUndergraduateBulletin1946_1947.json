@@ -1,0 +1,275 @@
+{
+  "source": "internet_archive",
+  "identifier": "StoutUndergraduateBulletin1946_1947",
+  "title": "Undergraduate Bulletin [1946-1947]",
+  "creator": "University of Wisconsin--Stout. University Relations.",
+  "year": 1946,
+  "subject": "University of Wisconsin--Stout--History. University of Wisconsin--Stout--Periodicals. University of Wisconsin--Stout--Curricula. Home economics--Study and teaching--History. Art--Study and teaching--History. Industrial arts--Study and teaching--History. Physical education and training--Wisconsin--Menomonie--History.",
+  "description": "Annual and biennial bulletins of the University of Wisconsin-Stout and its predecessor institutions. The bulletins provide descriptions of campus, lists of administrators and faculty, information on institutional objectives, courses offered, and curriculum.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/StoutUndergraduateBulletin1946_1947"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/StoutUndergraduateBulletin1946_1947"
+        }
+      ]
+    },
+    "created": 1758337171,
+    "d1": "ia600903.us.archive.org",
+    "d2": "ia800903.us.archive.org",
+    "dir": "/16/items/StoutUndergraduateBulletin1946_1947",
+    "files": [
+      {
+        "name": "1946-1947_UndergraduateBulletin.pdf",
+        "source": "original",
+        "mtime": "1675963134",
+        "size": "10297092",
+        "md5": "5ad9a47e4837d36abde2de208cc4900c",
+        "crc32": "73d8957d",
+        "sha1": "2d35faf10529de8bd40cfdeb5e48eaf7d35c5b9a",
+        "format": "Text PDF"
+      },
+      {
+        "name": "1946-1947_UndergraduateBulletin_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-1-gd3a4",
+        "ocr_parameters": "-l eng+Fraktur",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Fraktur",
+        "ocr_detected_script_conf": "0.8084",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "1946-1947_UndergraduateBulletin_jp2.zip",
+        "mtime": "1675963996",
+        "size": "2786254",
+        "md5": "737799441883ef49f631b8f9538a7603",
+        "crc32": "263d7895",
+        "sha1": "2843cd3217423d58865fa040434b758e37752529"
+      },
+      {
+        "name": "1946-1947_UndergraduateBulletin_cloth_detection.log",
+        "source": "derivative",
+        "format": "Cloth Cover Detection Log",
+        "original": "1946-1947_UndergraduateBulletin_scandata.xml",
+        "mtime": "1675964103",
+        "size": "484",
+        "md5": "61344ac401119fc0184f570534f0c42b",
+        "crc32": "dc4dd143",
+        "sha1": "f94b313e5ed016ff9540fb8110088cc4aec8d346"
+      },
+      {
+        "name": "1946-1947_UndergraduateBulletin_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "1946-1947_UndergraduateBulletin_djvu.xml",
+        "mtime": "1675964061",
+        "size": "205773",
+        "md5": "7d41914e86a3f961bd792f7dc3ba7513",
+        "crc32": "5a0de068",
+        "sha1": "0e0fdd5ea83a371ee37ee86aee301b475a806e12"
+      },
+      {
+        "name": "1946-1947_UndergraduateBulletin_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "1946-1947_UndergraduateBulletin_hocr.html",
+        "mtime": "1675964030",
+        "size": "2541434",
+        "md5": "7914a28c5dc75bcbc9b67bb75eb29718",
+        "crc32": "fc7e988b",
+        "sha1": "0756f28e07b09f8117fe2429dba76e3c2c915f08"
+      },
+      {
+        "name": "1946-1947_UndergraduateBulletin_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng+Fraktur",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Fraktur",
+        "ocr_detected_script_conf": "0.8084",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "1946-1947_UndergraduateBulletin_chocr.html.gz",
+        "mtime": "1675964020",
+        "size": "4951925",
+        "md5": "1f31b4b3897897ce01db3fe8f48799c5",
+        "crc32": "73480c1d",
+        "sha1": "11d01622c0b4a6458313a4afdcbf9d0064965fba"
+      },
+      {
+        "name": "1946-1947_UndergraduateBulletin_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "1946-1947_UndergraduateBulletin_hocr.html",
+        "mtime": "1675964037",
+        "size": "950",
+        "md5": "16e2fe14739a6cee8185ac20525a54e7",
+        "crc32": "6b4e8232",
+        "sha1": "41519dfe8994c477195bd11107bdcac2e47845d2"
+      },
+      {
+        "name": "1946-1947_UndergraduateBulletin_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "535",
+        "word_conf_11_20": "300",
+        "word_conf_21_30": "432",
+        "word_conf_31_40": "502",
+        "word_conf_41_50": "435",
+        "word_conf_51_60": "438",
+        "word_conf_61_70": "350",
+        "word_conf_71_80": "466",
+        "word_conf_81_90": "1476",
+        "word_conf_91_100": "26410",
+        "format": "OCR Search Text",
+        "original": "1946-1947_UndergraduateBulletin_hocr.html",
+        "mtime": "1675964050",
+        "size": "64978",
+        "md5": "8bccb5d7eb6316377263698d09c9d77c",
+        "crc32": "c2e87a9e",
+        "sha1": "f5586ebf999d27f72301c51ece7122da0997ed17"
+      },
+      {
+        "name": "1946-1947_UndergraduateBulletin_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "1946-1947_UndergraduateBulletin.pdf",
+        "mtime": "1675963319",
+        "size": "19203110",
+        "md5": "6b7c1e32aa9891c67005fa7effa98a2f",
+        "crc32": "e3055615",
+        "sha1": "dae1000aa9694c9e51bc0cb201b69d73577c107f",
+        "filecount": "80"
+      },
+      {
+        "name": "1946-1947_UndergraduateBulletin_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "1946-1947_UndergraduateBulletin_djvu.xml",
+        "mtime": "1675964098",
+        "size": "15590",
+        "md5": "ea948d800328119614a88771a81c1179",
+        "crc32": "9d56c20c",
+        "sha1": "c293d6663466adcdc952d5ee7bb73c617db7bcad"
+      },
+      {
+        "name": "1946-1947_UndergraduateBulletin_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "1946-1947_UndergraduateBulletin_djvu.xml",
+        "mtime": "1675964098",
+        "size": "28316",
+        "md5": "cfb351d2aabcb30bcc0cc367679b5a26",
+        "crc32": "da03d9dc",
+        "sha1": "f5a35441e8201ab556950f3504efda8559cf4537"
+      },
+      {
+        "name": "StoutUndergraduateBulletin1946_1947_archive.torrent",
+        "source": "metadata",
+        "btih": "1882b0d82fe5127c41bcac10577ffd5dc055bc36",
+        "mtime": "1675964118",
+        "size": "5542",
+        "md5": "f13c1be02c7470ba6420cefaab3c7fa9",
+        "crc32": "6aee05e1",
+        "sha1": "3ad97e79e86598b68cbfee7cdcc4e607e123420c",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "StoutUndergraduateBulletin1946_1947_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "87f9f2f852a9f8a05deaed224f4b9ef4",
+        "summation": "md5"
+      },
+      {
+        "name": "StoutUndergraduateBulletin1946_1947_meta.sqlite",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1675963137",
+        "size": "12288",
+        "md5": "2b16ec9bc26de8aec809e0794ca44e89",
+        "crc32": "061170f1",
+        "sha1": "7e64539f22dcf02126c905d58748b080bfdb4678"
+      },
+      {
+        "name": "StoutUndergraduateBulletin1946_1947_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1675964098",
+        "size": "2163",
+        "md5": "51553b19ec9717dcb5cadd185f2cc4f6",
+        "crc32": "80f05c50",
+        "sha1": "4653a7ae4a3d5b813d60876577a0328d17659205"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1675964117",
+        "size": "11235",
+        "md5": "25a928899a1682ac539afc164d5bd309",
+        "crc32": "88f238bd",
+        "sha1": "4f3bfab3837199191423b3bd8a12e00ca79b73ac",
+        "format": "Item Tile",
+        "rotation": "0"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1675964118,
+    "item_size": 40127134,
+    "metadata": {
+      "identifier": "StoutUndergraduateBulletin1946_1947",
+      "mediatype": "texts",
+      "creator": "University of Wisconsin--Stout. University Relations.",
+      "date": "1946-01-01",
+      "description": "<span style=\"font-family:Arial, Helvetica, sans-serif;font-size:13px;background-color:rgb(255,255,255);\">Annual and biennial bulletins of the University of Wisconsin-Stout and its predecessor institutions. The bulletins provide descriptions of campus, lists of administrators and faculty, information on institutional objectives, courses offered, and curriculum.</span>",
+      "language": "eng",
+      "licenseurl": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.5.2",
+      "subject": "University of Wisconsin--Stout--History. University of Wisconsin--Stout--Periodicals. University of Wisconsin--Stout--Curricula. Home economics--Study and teaching--History. Art--Study and teaching--History. Industrial arts--Study and teaching--History. Physical education and training--Wisconsin--Menomonie--History.",
+      "title": "Undergraduate Bulletin [1946-1947]",
+      "publicdate": "2014-07-15 17:54:46",
+      "uploader": "steckleinh@uwstout.edu",
+      "addeddate": "2014-07-15 17:54:46",
+      "identifier-access": "http://archive.org/details/StoutUndergraduateBulletin1946_1947",
+      "identifier-ark": "ark:/13960/t2699vg3s",
+      "ppi": "300",
+      "repub_state": "4",
+      "collection": [
+        "stoutbulletins",
+        "universityofwisconsinstoutarchives",
+        "americana"
+      ],
+      "backup_location": "ia905900_22",
+      "ocr": "tesseract 5.3.0-1-gd3a4",
+      "ocr_parameters": "-l eng+Fraktur",
+      "ocr_module_version": "0.0.18",
+      "ocr_detected_script": "Fraktur",
+      "ocr_detected_script_conf": "0.8084",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "92.41",
+      "normalized_dates": [
+        "1946-01-01"
+      ]
+    },
+    "server": "ia600903.us.archive.org",
+    "uniq": 300589535,
+    "workable_servers": [
+      "ia600903.us.archive.org",
+      "ia800903.us.archive.org"
+    ]
+  }
+}

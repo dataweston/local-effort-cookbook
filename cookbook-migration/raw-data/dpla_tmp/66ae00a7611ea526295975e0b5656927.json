@@ -1,0 +1,35 @@
+{
+  "source": "dpla",
+  "id": "66ae00a7611ea526295975e0b5656927",
+  "identifier": "66ae00a7611ea526295975e0b5656927",
+  "title": "Philathea cook book",
+  "subject": [
+    "Cooking--Minnesota--Minneapolis",
+    "Cooking, American"
+  ],
+  "spatial": [
+    "Minnesota",
+    "Minneapolis"
+  ],
+  "description": "Includes index.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/102383670",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "data": {
+    "object": "https://books.google.com/books/content?id=OUpCh1xMlL4C&printsec=frontcover&img=1&zoom=5",
+    "isShownAt": "http://catalog.hathitrust.org/Record/102383670"
+  },
+  "location": {
+    "state": "Minnesota",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Minnesota; Digitized scan available"
+}

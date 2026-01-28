@@ -1,0 +1,96 @@
+{
+  "source": "dpla",
+  "id": "354e7a5f3af7b383b9ed81873abf9435",
+  "identifier": "354e7a5f3af7b383b9ed81873abf9435",
+  "title": "Sugar N' Spice",
+  "subject": [],
+  "spatial": [
+    "Houston, Harris County, Texas"
+  ],
+  "description": "A cookbook published by the City Federation of Women's clubs in Houston, Texas.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/217",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "year": 1938,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/354e7a5f3af7b383b9ed81873abf9435#SourceResource",
+      "collection": [
+        {
+          "title": "DeGolyer Library Cookbook Collection"
+        }
+      ],
+      "creator": [
+        "City Federation of Women's Clubs (Houston, Tex.)"
+      ],
+      "date": [
+        {
+          "begin": "1938",
+          "displayDate": "1938",
+          "end": "1938"
+        }
+      ],
+      "description": [
+        "A cookbook published by the City Federation of Women's clubs in Houston, Texas."
+      ],
+      "identifier": [
+        "TX715 .S84 1938"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "DeGolyer Library"
+      ],
+      "rights": [
+        "This item may be protected by copyright law. Please cite DeGolyer Library, Southern Methodist University as the source of this file. For more information, contact degolyer@smu.edu."
+      ],
+      "spatial": [
+        {
+          "name": "Houston, Harris County, Texas"
+        }
+      ],
+      "title": [
+        "Sugar N' Spice"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1938-01-01",
+      "normalized_dates": [
+        "1938-01-01"
+      ],
+      "date_range": {
+        "begin": "1938-01-01",
+        "end": "1938-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/217",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/217"
+  },
+  "location": {
+    "state": "Wi"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Women'S Club",
+      "Methodist"
+    ]
+  },
+  "curation_notes": "Community markers: Women'S Club, Methodist; Digitized scan available"
+}

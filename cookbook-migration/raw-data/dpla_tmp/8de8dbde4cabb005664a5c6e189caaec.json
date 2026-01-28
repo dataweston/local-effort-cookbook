@@ -1,0 +1,106 @@
+{
+  "source": "dpla",
+  "id": "8de8dbde4cabb005664a5c6e189caaec",
+  "identifier": "8de8dbde4cabb005664a5c6e189caaec",
+  "title": "Silver Cross cook book",
+  "subject": [
+    "Cooking, American",
+    "Community cookbooks--Illinois--Moline"
+  ],
+  "spatial": [
+    "Illinois",
+    "Moline"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/100564940",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1913,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/8de8dbde4cabb005664a5c6e189caaec#SourceResource",
+      "contributor": [
+        "International Order of King's Daughters and Sons (Moline, Ill.). Silver Cross Circle"
+      ],
+      "date": [
+        {
+          "begin": "1913",
+          "displayDate": "1913",
+          "end": "1913"
+        }
+      ],
+      "extent": [
+        "184 p. ; 23 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-hvd007717807",
+        "(OCoLC)38514298",
+        "Hathi: 100564940"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Moline, Ill. : Silver Cross Circle of King's Daughters"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        },
+        {
+          "name": "Moline"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Community cookbooks--Illinois--Moline"
+        }
+      ],
+      "title": [
+        "Silver Cross cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1913-01-01",
+      "normalized_dates": [
+        "1913-01-01"
+      ],
+      "date_range": {
+        "begin": "1913-01-01",
+        "end": "1913-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=LooTAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/100564940"
+  },
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

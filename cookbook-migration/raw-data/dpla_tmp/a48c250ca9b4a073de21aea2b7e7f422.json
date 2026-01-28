@@ -1,0 +1,140 @@
+{
+  "source": "dpla",
+  "id": "a48c250ca9b4a073de21aea2b7e7f422",
+  "identifier": "a48c250ca9b4a073de21aea2b7e7f422",
+  "title": "Cook book of the Northwest",
+  "subject": [
+    "Janice Bluestein Longone Culinary Archive",
+    "Charity cookbooks--Iowa--Keokuk",
+    "Table setting and decoration",
+    "Menus",
+    "Home economics",
+    "Cooking",
+    "Cooking--Iowa--Keokuk"
+  ],
+  "spatial": [
+    "Iowa",
+    "Keokuk"
+  ],
+  "description": "Advertisements at end.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/100173254",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1875,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/a48c250ca9b4a073de21aea2b7e7f422#SourceResource",
+      "contributor": [
+        "Westminster Presbyterian Church (Keokuk, Iowa)"
+      ],
+      "date": [
+        {
+          "begin": "1875",
+          "displayDate": "1875",
+          "end": "1875"
+        }
+      ],
+      "description": [
+        "Advertisements at end.",
+        "Contains cooking and home economics recipes, samples of menus, etc.",
+        "Recipes are attributed.",
+        "\"Preface to second edition\": p. [5].",
+        "Cook, M. America's charitable cooks,",
+        "p. 77",
+        "Numerous ms. notations and newspaper clippings on blank pages throughout text.",
+        "ACQ: 35669; Janice B. Longone; Gift; 6/21/2001."
+      ],
+      "extent": [
+        "180 p. : 20 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "(MiU)005603483",
+        "sdr-miu005603483",
+        "(OCoLC)54641381",
+        "Hathi: 100173254"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Keokuk, Iowa : R.B. Ogden, publisher"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Iowa"
+        },
+        {
+          "name": "Keokuk"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Janice Bluestein Longone Culinary Archive"
+        },
+        {
+          "name": "Charity cookbooks--Iowa--Keokuk"
+        },
+        {
+          "name": "Table setting and decoration"
+        },
+        {
+          "name": "Menus"
+        },
+        {
+          "name": "Home economics"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Cooking--Iowa--Keokuk"
+        }
+      ],
+      "title": [
+        "Cook book of the Northwest"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1875-01-01",
+      "normalized_dates": [
+        "1875-01-01"
+      ],
+      "date_range": {
+        "begin": "1875-01-01",
+        "end": "1875-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=LbpEAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/100173254"
+  },
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Presbyterian"
+    ]
+  },
+  "curation_notes": "State match: Iowa; Community markers: Church, Presbyterian; Digitized scan available"
+}

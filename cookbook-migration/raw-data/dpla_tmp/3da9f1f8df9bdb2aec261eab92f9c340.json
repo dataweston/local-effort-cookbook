@@ -1,0 +1,115 @@
+{
+  "source": "dpla",
+  "id": "3da9f1f8df9bdb2aec261eab92f9c340",
+  "identifier": "3da9f1f8df9bdb2aec261eab92f9c340",
+  "title": "Good will cook book",
+  "subject": [
+    "Cooking, American",
+    "Cooking--Michigan--Ann Arbor"
+  ],
+  "spatial": [
+    "Michigan",
+    "Ann Arbor"
+  ],
+  "description": "Recipes are attributed.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/005670492",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1927,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/3da9f1f8df9bdb2aec261eab92f9c340#SourceResource",
+      "contributor": [
+        "Beach, Newton, Mrs",
+        "International Order of the King's Daughters and Sons. Goodwill Circle (Ann Arbor, Mich.)"
+      ],
+      "creator": [
+        "Lutz, George, Mrs"
+      ],
+      "date": [
+        {
+          "begin": "1927",
+          "displayDate": "1927",
+          "end": "1927"
+        }
+      ],
+      "description": [
+        "Recipes are attributed.",
+        "Features advertisements."
+      ],
+      "extent": [
+        "120 p. : 20 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "(MiU)005670492",
+        "sdr-miu005670492",
+        "(OCoLC)223789714",
+        "Hathi: 005670492"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Ann Arbor, Mich. : Good Will Circle, King's Daughters"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Ann Arbor"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Cooking--Michigan--Ann Arbor"
+        }
+      ],
+      "title": [
+        "Good will cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1927-01-01",
+      "normalized_dates": [
+        "1927-01-01"
+      ],
+      "date_range": {
+        "begin": "1927-01-01",
+        "end": "1927-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=b6rhAAAAMAAJ&printsec=frontcover&img=1&zoom=5",
+    "isShownAt": "http://catalog.hathitrust.org/Record/005670492"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

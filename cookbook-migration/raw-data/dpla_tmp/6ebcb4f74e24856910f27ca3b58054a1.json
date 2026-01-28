@@ -1,0 +1,98 @@
+{
+  "source": "dpla",
+  "id": "6ebcb4f74e24856910f27ca3b58054a1",
+  "identifier": "6ebcb4f74e24856910f27ca3b58054a1",
+  "title": "Pilgrimage cook book: autographed recipes",
+  "subject": [],
+  "spatial": [
+    "Jefferson, Marion County, Texas"
+  ],
+  "description": "A compilation of recipes from members of the Christ Church in Jefferson, Texas.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/117",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "year": 1960,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/6ebcb4f74e24856910f27ca3b58054a1#SourceResource",
+      "collection": [
+        {
+          "title": "DeGolyer Library Cookbook Collection"
+        }
+      ],
+      "creator": [
+        "Christ Episcopal Church (Jefferson, Tex.). Woman's Auxiliary"
+      ],
+      "date": [
+        {
+          "begin": "1960",
+          "displayDate": "1960",
+          "end": "1960"
+        }
+      ],
+      "description": [
+        "A compilation of recipes from members of the Christ Church in Jefferson, Texas."
+      ],
+      "identifier": [
+        "TX715 .P543 1960z"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "DeGolyer Library"
+      ],
+      "rights": [
+        "This item may be protected by copyright law. Please cite DeGolyer Library, Southern Methodist University as the source of this file. For more information, contact degolyer@smu.edu."
+      ],
+      "spatial": [
+        {
+          "name": "Jefferson, Marion County, Texas"
+        }
+      ],
+      "title": [
+        "Pilgrimage cook book: autographed recipes"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1960-01-01",
+      "normalized_dates": [
+        "1960-01-01"
+      ],
+      "date_range": {
+        "begin": "1960-01-01",
+        "end": "1960-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/117",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/117"
+  },
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Auxiliary",
+      "Church",
+      "Episcopal",
+      "Methodist"
+    ]
+  },
+  "curation_notes": "Community markers: Auxiliary, Church, Episcopal, Methodist; Digitized scan available"
+}

@@ -1,0 +1,511 @@
+{
+  "source": "internet_archive",
+  "identifier": "nineteenthcentur0000fisc",
+  "title": "Nineteenth-century lumber camp cooking",
+  "creator": "Fischer, Maureen M",
+  "year": 2001,
+  "subject": [
+    "Cooking, American -- Western style -- Juvenile literature",
+    "Food habits -- West (U.S.) -- History -- 19th century",
+    "Logging -- History"
+  ],
+  "description": [
+    "32 p. : 21 x 26 cm",
+    "Discusses the everyday life, cooking methods, and common foods eaten by lumberjacks and loggers working in the American West during the nineteenth century. Includes recipes",
+    "Includes bibliographical references and index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/nineteenthcentur0000fisc"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/nineteenthcentur0000fisc"
+        }
+      ]
+    },
+    "created": 1758557142,
+    "d1": "ia902903.us.archive.org",
+    "d2": "ia802903.us.archive.org",
+    "dir": "/18/items/nineteenthcentur0000fisc",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660770753",
+        "size": "13203",
+        "md5": "a2347b33eeb9e20506f0af0df118ea13",
+        "crc32": "cb3c6177",
+        "sha1": "0ff6becbc9786f61dcee46d93798ccf0400f55a5",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/nineteenthcentur0000fisc_iabdash_2020-01-1104:59:08.log",
+        "source": "original",
+        "mtime": "1578689953",
+        "size": "1339",
+        "md5": "522af970e5f0870d6401794565c55054",
+        "crc32": "69f384bb",
+        "sha1": "5987f2dee7575758ba6669d6d8b59435071b60f5",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/nineteenthcentur0000fisc_scanning_2020-01-1104:59:13.log",
+        "source": "original",
+        "mtime": "1578689959",
+        "size": "161122",
+        "md5": "f3f016d80daa963c547e8f06f7c357fb",
+        "crc32": "a17b783d",
+        "sha1": "0474387441b42e8463488f80a13c1b24e95a97f7",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "nineteenthcentur0000fisc.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "nineteenthcentur0000fisc_hocr.html",
+        "mtime": "1753682770",
+        "size": "17447193",
+        "private": "true",
+        "md5": "cd5bc5f47d690b0c857147d818db61d6",
+        "crc32": "d7e5bdfe",
+        "sha1": "b7f423b6869d0fa6362105c1027c63a5e6ac8c6e"
+      },
+      {
+        "name": "nineteenthcentur0000fisc.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "nineteenthcentur0000fisc.pdf",
+        "mtime": "1753682436",
+        "size": "3714345",
+        "md5": "d2277ff4ad3719951a9357f6ed9acc1c",
+        "crc32": "008402ce",
+        "sha1": "4af534a4bd8a98b9e0c27fad123cf236f00911ce"
+      },
+      {
+        "name": "nineteenthcentur0000fisc.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "nineteenthcentur0000fisc_page_numbers.json",
+        "mtime": "1717748452",
+        "size": "3301013",
+        "md5": "6604452af4f6613f9d2553a3a252151c",
+        "crc32": "820145ef",
+        "sha1": "707d9d06cdc299f8bb1a729023ba3a9a1b713acb",
+        "private": "true"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "nineteenthcentur0000fisc_jp2.zip",
+        "mtime": "1578979007",
+        "size": "645436",
+        "md5": "e21d72b1ccf2eae1cf2f150527256504",
+        "crc32": "512ba72d",
+        "sha1": "2473410bc642f4f4af8e25eb42ae4d4d23fcacac",
+        "private": "true"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "nineteenthcentur0000fisc_abbyy.gz",
+        "mtime": "1660770320",
+        "size": "546762",
+        "md5": "e808bfdea6d74b10ad986e56150cddc7",
+        "crc32": "d1cbb49b",
+        "sha1": "7765b66b61c149f1348bc11dbd99c52870be5831",
+        "private": "true"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "2.1.4",
+        "format": "Cloth Cover Detection Log",
+        "original": "nineteenthcentur0000fisc_scandata.xml",
+        "mtime": "1717749709",
+        "size": "1501",
+        "md5": "bbeb105bf297d98fe6399c66063a35ed",
+        "crc32": "33daacbc",
+        "sha1": "462e929294c44ba66a16d0f054d7cbeb4c649ccc",
+        "private": "true"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1578977724",
+        "size": "1325",
+        "md5": "ab084c72e68c5896947f5a2121e9f4b0",
+        "crc32": "a138b1b1",
+        "sha1": "98c88acb15b97a910d44e60f20c2f2bf80d44f4f"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "nineteenthcentur0000fisc_djvu.xml",
+        "mtime": "1660770725",
+        "size": "48763",
+        "md5": "e2c448cfd8bc928763073aa925c6b328",
+        "crc32": "da6d763a",
+        "sha1": "faabb2b582aea18f9137b0c798964e46c5ef1e4a",
+        "private": "true"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "nineteenthcentur0000fisc_hocr.html",
+        "mtime": "1660770553",
+        "size": "601810",
+        "md5": "373958587decd0655a285b41d6900dcd",
+        "crc32": "708d13b2",
+        "sha1": "e3aa1c7cf8b04451b383b3c2fc67b379cafd6279",
+        "private": "true"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "nineteenthcentur0000fisc_abbyy.gz",
+        "mtime": "1578979061",
+        "size": "4180215",
+        "md5": "ac4b5a1f96142c69e3e6fba90efa7ee1",
+        "crc32": "50afaf84",
+        "sha1": "336d1ca0bb43c4c935bf1c4dfc8077940bf6a30c"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "nineteenthcentur0000fisc.pdf",
+        "mtime": "1717749225",
+        "size": "3273576",
+        "md5": "1db0d2d3823ef133b75d1d16e3c59d27",
+        "crc32": "dd5b0862",
+        "sha1": "c3b66a7280be395dae8064b64f22ee56e22e4345"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_events.json",
+        "source": "original",
+        "mtime": "1578977219",
+        "size": "54",
+        "md5": "d9b38ca079f4f86cc00fe91ba19d31e3",
+        "crc32": "768eb215",
+        "sha1": "a953431a56d0d23450b68e639f0d48529ca3efc9",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "cd3af60d1944f48753626dd57efe7032",
+        "summation": "md5"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "nineteenthcentur0000fisc_chocr.html.gz",
+        "mtime": "1660770510",
+        "size": "1289352",
+        "md5": "9f3e386a1685a4a085a5aa30e88636cc",
+        "crc32": "2dd1a668",
+        "sha1": "d022677660d3bba8afbbc5899f5ba8cfd58e1815",
+        "private": "true"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "nineteenthcentur0000fisc_hocr.html",
+        "mtime": "1660770665",
+        "size": "461",
+        "md5": "935cbdcba0dfc98554a996642f2ac6e5",
+        "crc32": "1297ae8a",
+        "sha1": "cbcb378deaf1b2ae092b6b77c70365d14aa81d84",
+        "private": "true"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "55",
+        "word_conf_11_20": "18",
+        "word_conf_21_30": "41",
+        "word_conf_31_40": "37",
+        "word_conf_41_50": "78",
+        "word_conf_51_60": "166",
+        "word_conf_61_70": "481",
+        "word_conf_71_80": "1046",
+        "word_conf_81_90": "2069",
+        "word_conf_91_100": "3077",
+        "format": "OCR Search Text",
+        "original": "nineteenthcentur0000fisc_hocr.html",
+        "mtime": "1660770708",
+        "size": "17474",
+        "md5": "e30b3eeacf6894b34df6e8a94340d475",
+        "crc32": "86c0256d",
+        "sha1": "3dc7a1972a91712109c879fd4a82dbef9d89ace4",
+        "private": "true"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "nineteenthcentur0000fisc_orig_jp2.tar",
+        "mtime": "1578978535",
+        "size": "31720045",
+        "md5": "b0a186ed3b39060f660a5b12bad30722",
+        "crc32": "d402d0e0",
+        "sha1": "b5d1de0c452ad435fad714be916eaa4333500c4a",
+        "private": "true",
+        "filecount": "42"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "nineteenthcentur0000fisc.epub",
+        "mtime": "1753682990",
+        "size": "17753428",
+        "md5": "207568d6d8486c2b9d2b2e427deb76ac",
+        "crc32": "1ae559ea",
+        "sha1": "dc04a825261d73dd89d6feab3a6ae0c6f460df75"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_loans.json",
+        "source": "original",
+        "mtime": "1598116956",
+        "size": "589",
+        "format": "JSON",
+        "private": "true",
+        "md5": "eecdadfcd6baa34cde6137216f3156e3",
+        "crc32": "9ad814ec",
+        "sha1": "aed178e2cf128d314e3f01caaece42ddd4f0b1d5"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_marc.xml",
+        "source": "original",
+        "mtime": "1578977723",
+        "size": "3085",
+        "format": "MARC",
+        "md5": "b3fc75906c1333e15c775842edc0ae4b",
+        "crc32": "a0d0c990",
+        "sha1": "836753c7c68a3426c69de866532c48fcb5dc8c25"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_meta.mrc",
+        "source": "original",
+        "mtime": "1578689947",
+        "size": "1063",
+        "md5": "b5c3988edc1ef012434848dd8ad8efc2",
+        "crc32": "f1bcc36f",
+        "sha1": "bbba50f6ae20b50726f47cfdd0e6768533e34781",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_meta.sqlite",
+        "source": "original",
+        "mtime": "1578977660",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "a0cdce59796ef0c15d9ce273b9c7f96e",
+        "crc32": "0497908a",
+        "sha1": "594667c01b5507a0aeb8399ad016d1ed35d52c0f"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_meta.xml",
+        "source": "original",
+        "mtime": "1753682991",
+        "size": "3619",
+        "format": "Metadata",
+        "md5": "eacbefb08af07b0013a55941045e9aaf",
+        "crc32": "68296a0b",
+        "sha1": "d4a4d894358df262768b044f8b527cae68f06a78"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1578977660",
+        "size": "67235840",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "6e2609f191048f37ceee7ea7da7b70b9",
+        "crc32": "58fa1f49",
+        "sha1": "943a27d6a076c3cc0e3a5dcf26672fde423661bc",
+        "filecount": "42"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "76",
+        "format": "Page Numbers JSON",
+        "original": "nineteenthcentur0000fisc_hocr.html",
+        "mtime": "1717748452",
+        "size": "6838",
+        "md5": "b6436807874713db31a9c8ec6fb1e39c",
+        "crc32": "f377f31f",
+        "sha1": "8c8825ec44ef43c4cfc3016ce233d509df191591",
+        "private": "true"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_scandata.xml",
+        "source": "original",
+        "mtime": "1717749708",
+        "size": "43167",
+        "format": "Scandata",
+        "md5": "2a0ce2bd59d4ea32ad90add67a8248ab",
+        "crc32": "b7a42627",
+        "sha1": "6a1029ec344324114feacc04d69f7cc8b25e586e"
+      },
+      {
+        "name": "nineteenthcentur0000fisc_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "nineteenthcentur0000fisc_djvu.xml",
+        "mtime": "1717749465",
+        "size": "599",
+        "md5": "d6df7ec6872952a90d800ca61aa062d3",
+        "crc32": "f60b58c4",
+        "sha1": "9443f387ff2a46d1b8790ede4704699df80ed410",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753682991,
+    "item_size": 152030625,
+    "metadata": {
+      "identifier": "nineteenthcentur0000fisc",
+      "boxid": "IA1760124",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Fischer, Maureen M",
+      "date": "2001-01-01",
+      "description": [
+        "32 p. : 21 x 26 cm",
+        "Discusses the everyday life, cooking methods, and common foods eaten by lumberjacks and loggers working in the American West during the nineteenth century. Includes recipes",
+        "Includes bibliographical references and index"
+      ],
+      "isbn": "0736806040",
+      "language": "eng",
+      "lccn": "00036769",
+      "mediatype": "texts",
+      "old_pallet": "IA17492",
+      "openlibrary_edition": "OL7893696M",
+      "openlibrary_work": "OL8409363W",
+      "operator": "associate-sahara-balio@archive.org",
+      "ppi": "300",
+      "publisher": "Mankato, MN : Blue Earth Books",
+      "repub_state": "19",
+      "scanner": "station12.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780736806046",
+      "subject": [
+        "Cooking, American -- Western style -- Juvenile literature",
+        "Food habits -- West (U.S.) -- History -- 19th century",
+        "Logging -- History"
+      ],
+      "title": "Nineteenth-century lumber camp cooking",
+      "tts_version": "3.2-rc-2-g0d7c1ed",
+      "uploader": "station12.cebu@archive.org",
+      "publicdate": "2020-01-10 20:58:57",
+      "access-restricted-item": "true",
+      "imagecount": "42",
+      "scandate": "20200110211811",
+      "notes": "obscured text<br />",
+      "republisher_operator": "associate-jeana-galido@archive.org",
+      "republisher_date": "20200114124654",
+      "republisher_time": "177",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/nineteenthcentur0000fisc",
+      "identifier-ark": "ark:/13960/t0dv9w390",
+      "external-identifier": [
+        "urn:acs6:nineteenthcentur0000fisc:epub:bf002e65-44de-44fc-b209-f31e6352d22f",
+        "urn:acs6:nineteenthcentur0000fisc:pdf:9c02fe7a-2ee0-47de-971c-13b20e07c85a",
+        "urn:oclc:record:1150971465",
+        "urn:lcp:nineteenthcentur0000fisc:lcpdf:932c45c4-dc64-4cf8-a960-b3345e3124e3",
+        "urn:lcp:nineteenthcentur0000fisc:epub:5263a86a-f6b7-4506-b6d9-741ce72cfbd0"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "addeddate": "2020-01-14 06:05:26",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__num_history": "7",
+      "loans__status__last_loan_date": "2020-08-09T00:07:15Z",
+      "sponsordate": "20200131",
+      "backup_location": "ia907101_15",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "76",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia802903.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "cnusd-ol": {
+          "notes": {
+            "isbn": [
+              "9780736806046"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-06-25 05:21:33.331248"
+        }
+      }
+    },
+    "uniq": 37367295,
+    "workable_servers": [
+      "ia802903.us.archive.org",
+      "ia902903.us.archive.org"
+    ]
+  },
+  "institution": "Fischer, Maureen M",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Mankato"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,511 @@
+{
+  "source": "internet_archive",
+  "identifier": "simplyitalian0000unse_x9g4",
+  "title": "Simply Italian",
+  "creator": null,
+  "year": 2010,
+  "subject": [
+    "Cooking, Italian",
+    "Quick and easy cooking"
+  ],
+  "description": [
+    "112 pages : 29 cm",
+    "At head of title: Taste of Home",
+    "Appetizers -- Hearty soups & sandwiches -- Salads, sides & breads -- Baked pasta -- Pasta, noodles & sauces -- Meat, poultry & seafood -- Pizzas -- Desserts & beverages"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/simplyitalian0000unse_x9g4"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/simplyitalian0000unse_x9g4"
+        }
+      ]
+    },
+    "created": 1758555788,
+    "d1": "ia902802.us.archive.org",
+    "d2": "ia802802.us.archive.org",
+    "dir": "/23/items/simplyitalian0000unse_x9g4",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661077668",
+        "size": "18219",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "73771b7cccb970fef8c6401abf51e1d8",
+        "crc32": "37a41cab",
+        "sha1": "76f19deea93386e7937d2aa6876edceba7e514a1"
+      },
+      {
+        "name": "logs/simplyitalian0000unse_x9g4_iabdash_2019-11-0610:46:32.log",
+        "source": "original",
+        "mtime": "1573008396",
+        "size": "1374",
+        "md5": "6d494e5c14e3462c00c67cc597a204e9",
+        "crc32": "604d3479",
+        "sha1": "ea28716b04d4b057a62e003b822b2bac6b7a90c2",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/simplyitalian0000unse_x9g4_scanning_2019-11-0610:46:37.log",
+        "source": "original",
+        "mtime": "1573008401",
+        "size": "281918",
+        "md5": "47930aa96195437328ad0faee8bb08fc",
+        "crc32": "530cec51",
+        "sha1": "d7a22583ca6fbc3d1272c5c02095677f81f1dc7b",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "simplyitalian0000unse_x9g4_hocr.html",
+        "mtime": "1754033352",
+        "size": "60248724",
+        "private": "true",
+        "md5": "1a2f41809c78f5edcf6cc7a53935930b",
+        "crc32": "c8674257",
+        "sha1": "8740df3068c95fceda80aaec9cdb19f04d21edb7"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "simplyitalian0000unse_x9g4.pdf",
+        "mtime": "1754032990",
+        "size": "11827881",
+        "md5": "c5ca5dcf2f0216f915607047cd3306b4",
+        "crc32": "1d5a43a8",
+        "sha1": "9b9846e1493332d1398daea0fc857038b6eebd04"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "simplyitalian0000unse_x9g4_page_numbers.json",
+        "mtime": "1723844685",
+        "size": "11495632",
+        "md5": "53b01cdd5259b5a5dec97fcfec903e84",
+        "crc32": "bffa4540",
+        "sha1": "ce9077110cc986c77c16f6d0ea0f81b6ee177866",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "simplyitalian0000unse_x9g4_jp2.zip",
+        "mtime": "1573523490",
+        "size": "3921107",
+        "md5": "9864aa476643a4145e3251c44ad9768e",
+        "crc32": "ffb11dd8",
+        "sha1": "63da240c40ba0df81e0b3aa687815e8f0e12a01f",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "simplyitalian0000unse_x9g4_abbyy.gz",
+        "mtime": "1661077534",
+        "size": "3312850",
+        "md5": "412e9e0fa7070ea2e03b521f3db67754",
+        "crc32": "35aa462c",
+        "sha1": "ad1f774f2c039bb8f5d88e7340e748fd502e46e2",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "simplyitalian0000unse_x9g4_scandata.xml",
+        "mtime": "1671269754",
+        "size": "797",
+        "md5": "6176bc39b7642c1e89d8dceb94d6c90e",
+        "crc32": "e3a61baf",
+        "sha1": "bde2117f18d2b7d931655e5ce36052ceb7afaf19",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1573519302",
+        "size": "1482",
+        "md5": "e6115efe545bd4bbb885d1e91a40cbe4",
+        "crc32": "fc7be54a",
+        "sha1": "7d5f1e76c7058d95052641211790faba577a9a63"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "simplyitalian0000unse_x9g4_djvu.xml",
+        "mtime": "1661077663",
+        "size": "298301",
+        "md5": "3b2db2b9fad40564809701d46a1776ee",
+        "crc32": "140c5f1b",
+        "sha1": "4d23e28f79d7815e6aab9ada0040dfc5afd465ce",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "simplyitalian0000unse_x9g4_hocr.html",
+        "mtime": "1661077602",
+        "size": "3493843",
+        "md5": "ad9925ff43b5d924c44f9ab10b88a3c0",
+        "crc32": "4e7e2bd8",
+        "sha1": "35cbe983ef2e6f3c78dffcc7db0e7bf9504f3212",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "simplyitalian0000unse_x9g4_abbyy.gz",
+        "mtime": "1573524779",
+        "size": "11155149",
+        "md5": "5081a6779a371cea8cef63ed22aaf7ed",
+        "crc32": "7595fea1",
+        "sha1": "f547a4acbffbc4fecbe548cd3e30795a7f38bf61"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "simplyitalian0000unse_x9g4.pdf",
+        "mtime": "1723845005",
+        "size": "11387511",
+        "md5": "9c11f3223f568af09f5122a8f77d4e75",
+        "crc32": "caca3b72",
+        "sha1": "41eb34e710fb5f154f12a43e32a8667da6c5116d"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_events.json",
+        "source": "original",
+        "mtime": "1573519243",
+        "size": "57",
+        "md5": "82fd73c966be1a5b5ead1e5e94e89091",
+        "crc32": "9e1c2368",
+        "sha1": "eb39b19409541bbd361986b22a74d16b38d60fc3",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "0cd93c0049baaec46558183eccfda933",
+        "summation": "md5"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "simplyitalian0000unse_x9g4_chocr.html.gz",
+        "mtime": "1661077590",
+        "size": "7360402",
+        "md5": "a15181fbc9d24f2a52381e44b2be8bb5",
+        "crc32": "020e2cd3",
+        "sha1": "45367fb99c85e9d10968c7c06e2d89b1b1e442ef",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "simplyitalian0000unse_x9g4_hocr.html",
+        "mtime": "1661077636",
+        "size": "1428",
+        "md5": "f47578237ab4f1d935f7d391e79ff569",
+        "crc32": "9c60df77",
+        "sha1": "47254301750c7b7f52a2a44b4e8ef246c49bbb7d",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "317",
+        "word_conf_11_20": "69",
+        "word_conf_21_30": "86",
+        "word_conf_31_40": "179",
+        "word_conf_41_50": "387",
+        "word_conf_51_60": "720",
+        "word_conf_61_70": "1800",
+        "word_conf_71_80": "4330",
+        "word_conf_81_90": "10725",
+        "word_conf_91_100": "23305",
+        "format": "OCR Search Text",
+        "original": "simplyitalian0000unse_x9g4_hocr.html",
+        "mtime": "1661077653",
+        "size": "72081",
+        "md5": "e59708bc2fed560e0881c4cdef745ce3",
+        "crc32": "f338ab91",
+        "sha1": "67c70991f79b12945b8f2d51d20b3c70787cf3ca",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "simplyitalian0000unse_x9g4_orig_jp2.tar",
+        "mtime": "1573522742",
+        "size": "112940387",
+        "md5": "76c01eacc99a10a8e228f556f70bb9f0",
+        "crc32": "8787fc47",
+        "sha1": "26aab9fc6fcb78c1662ada71a1b2fae1bf10b315",
+        "private": "true",
+        "filecount": "122"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "simplyitalian0000unse_x9g4.epub",
+        "mtime": "1754033747",
+        "size": "60884598",
+        "md5": "f666aa2644224fc16c941ac4e6cd8e3d",
+        "crc32": "d8adcc73",
+        "sha1": "f9e46b3949ad5318f6195b21b35f9376eae3b710"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_loans.json",
+        "source": "original",
+        "mtime": "1593034485",
+        "size": "909",
+        "format": "JSON",
+        "private": "true",
+        "md5": "b9e769e1bdfacdc34a355c355f321a82",
+        "crc32": "30dc14ea",
+        "sha1": "9f6bbddcd5b8f10ed3aabf32affffe5be069d711"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_marc.xml",
+        "source": "original",
+        "mtime": "1573519300",
+        "size": "5498",
+        "format": "MARC",
+        "md5": "e39850e1cfb60b4468dd2a9a486eba7d",
+        "crc32": "7935c699",
+        "sha1": "32106b2225b3227d2fb23a4f40cbc040cca2260f"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_meta.mrc",
+        "source": "original",
+        "mtime": "1573008391",
+        "size": "1680",
+        "md5": "d13f56e48060b3b05840d6f1f4af653d",
+        "crc32": "a3070f0f",
+        "sha1": "c1dd253d1738dc55ecfc33747c2719d9724f4787",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_meta.sqlite",
+        "source": "original",
+        "mtime": "1573519269",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "8810040b46bdfe05c41a2861cfdae062",
+        "crc32": "41af29b1",
+        "sha1": "f1f18a540d0ec231ab693786e351b04944bb8215"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_meta.xml",
+        "source": "original",
+        "mtime": "1754033838",
+        "size": "3212",
+        "format": "Metadata",
+        "md5": "bf040be08997f0cfc5ecd47850709c2e",
+        "crc32": "128ac6c4",
+        "sha1": "8d9118a3f25a76bf55d5e8b8e7f873ce28e5e6ed"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1573519268",
+        "size": "201912320",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "c3b3180e1d089c96ade99d1f1a9253a9",
+        "crc32": "889c4ecb",
+        "sha1": "536117e69322363ddcd289c6446cba5340507690",
+        "filecount": "122"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "97",
+        "format": "Page Numbers JSON",
+        "original": "simplyitalian0000unse_x9g4_hocr.html",
+        "mtime": "1723844684",
+        "size": "20304",
+        "md5": "a299f73d69d4faeafd486b6e52cd8eef",
+        "crc32": "07acd18d",
+        "sha1": "445e0bff6aedef3d5e2ace01d47e5b99b685e459",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_scandata.xml",
+        "source": "original",
+        "mtime": "1671269753",
+        "size": "124862",
+        "format": "Scandata",
+        "md5": "f619ff688f8c94d063e52205704702ed",
+        "crc32": "ab130d82",
+        "sha1": "17a0f3c724b4647f6b3e31b6b61081df0230ea68"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_slip.png",
+        "source": "original",
+        "mtime": "1573006317",
+        "size": "42547",
+        "md5": "308f865ddedfd958ef7bea7e144aab8d",
+        "crc32": "e3854be8",
+        "sha1": "2abb3547b7b7646413d1b5063ad3be82c04a6b03",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "simplyitalian0000unse_x9g4_slip.png",
+        "mtime": "1573519308",
+        "size": "5552",
+        "md5": "4b0ab7e7f53c10b95e6f88e4396770d3",
+        "crc32": "89d8255b",
+        "sha1": "e0e4dea648a01ff7261ff47499ccfb6e1bf42f4a",
+        "private": "true"
+      },
+      {
+        "name": "simplyitalian0000unse_x9g4_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "simplyitalian0000unse_x9g4_djvu.xml",
+        "mtime": "1671269712",
+        "size": "563",
+        "md5": "36ef6f20113b6d8157f81e0b4e9e50f3",
+        "crc32": "7b0e553b",
+        "sha1": "4296e0d2491944df343bcacf71bae132c17de7db",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1754033838,
+    "item_size": 500839620,
+    "metadata": {
+      "identifier": "simplyitalian0000unse_x9g4",
+      "associated-names": "Cassidy, Catherine, 1959- editor",
+      "boxid": "IA1687407",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2010-01-01",
+      "description": [
+        "112 pages : 29 cm",
+        "At head of title: Taste of Home",
+        "Appetizers -- Hearty soups & sandwiches -- Salads, sides & breads -- Baked pasta -- Pasta, noodles & sauces -- Meat, poultry & seafood -- Pizzas -- Desserts & beverages"
+      ],
+      "isbn": [
+        "9780898218060",
+        "0898218063"
+      ],
+      "language": "eng",
+      "lccn": "2010922329",
+      "mediatype": "texts",
+      "old_pallet": "IA15594",
+      "operator": "associate-sarahjane-togonon@archive.org",
+      "ppi": "300",
+      "publisher": "Greendale, WI : Reiman Media Group, Inc.",
+      "repub_state": "19",
+      "scanner": "station35.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780898218060",
+      "subject": [
+        "Cooking, Italian",
+        "Quick and easy cooking"
+      ],
+      "title": "Simply Italian",
+      "tts_version": "3.0-initial-170-gdf78d52",
+      "uploader": "station35.cebu@archive.org",
+      "addeddate": "2019-11-06 02:12:00",
+      "publicdate": "2019-11-06 02:12:48",
+      "access-restricted-item": "true",
+      "imagecount": "122",
+      "scandate": "20191106035700",
+      "republisher_operator": "associate-robertjay-abapo@archive.org",
+      "republisher_date": "20191112084037",
+      "republisher_time": "959",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/simplyitalian0000unse_x9g4",
+      "identifier-ark": "ark:/13960/t1fk0hb33",
+      "external-identifier": [
+        "urn:acs6:simplyitalian0000unse_x9g4:epub:bdb644ac-43dc-482d-b940-7801f7692e06",
+        "urn:acs6:simplyitalian0000unse_x9g4:pdf:a4e76f5a-39f1-417a-92ed-a56fff6323a0",
+        "urn:oclc:record:1151395508",
+        "urn:lcp:simplyitalian0000unse_x9g4:lcpdf:605eb589-0578-4eb9-9a24-ce476d2e9926",
+        "urn:lcp:simplyitalian0000unse_x9g4:epub:02efed64-77b8-4b1f-85f8-b07fe185eebf"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191130",
+      "backup_location": "ia907005_22",
+      "openlibrary_edition": "OL32142071M",
+      "openlibrary_work": "OL24298722W",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "97",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia802802.us.archive.org",
+    "uniq": 1049669967,
+    "workable_servers": [
+      "ia802802.us.archive.org",
+      "ia902802.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

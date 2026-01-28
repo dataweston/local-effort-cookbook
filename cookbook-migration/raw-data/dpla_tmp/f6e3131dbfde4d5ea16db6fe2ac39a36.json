@@ -1,0 +1,115 @@
+{
+  "source": "dpla",
+  "id": "f6e3131dbfde4d5ea16db6fe2ac39a36",
+  "identifier": "f6e3131dbfde4d5ea16db6fe2ac39a36",
+  "title": "The Home cook book : compiled from recipes contributed by ladies of Chicago and other cities and towns",
+  "subject": [
+    "Cookery--Illinois--Chicago",
+    "Cookery, American"
+  ],
+  "spatial": [
+    "Illinois",
+    "Chicago"
+  ],
+  "description": "First published under title: Tried and true recipes.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/008720412",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1882,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/f6e3131dbfde4d5ea16db6fe2ac39a36#SourceResource",
+      "contributor": [
+        "Home for the Friendless (Chicago, Ill.)"
+      ],
+      "date": [
+        {
+          "begin": "1882",
+          "displayDate": "1882",
+          "end": "1882"
+        }
+      ],
+      "description": [
+        "First published under title: Tried and true recipes.",
+        "Originally published for the benefit of the Home for the Friendless, Chicago.",
+        "At head of title: Tried, tested, proved."
+      ],
+      "extent": [
+        "400 p. ; 20 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-uiuc5362091",
+        "(OCoLC)151085385",
+        "Hathi: 008720412"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Chicago: J. Fred Waggoner"
+      ],
+      "relation": [
+        "Original. (IU)"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        },
+        {
+          "name": "Chicago"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cookery--Illinois--Chicago"
+        },
+        {
+          "name": "Cookery, American"
+        }
+      ],
+      "title": [
+        "The Home cook book : compiled from recipes contributed by ladies of Chicago and other cities and towns"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1882-01-01",
+      "normalized_dates": [
+        "1882-01-01"
+      ],
+      "date_range": {
+        "begin": "1882-01-01",
+        "end": "1882-01-01"
+      }
+    }
+  },
+  "data": {
+    "isShownAt": "http://catalog.hathitrust.org/Record/008720412"
+  },
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Home Cook"
+    ]
+  },
+  "curation_notes": "State match: Illinois; Community markers: Home Cook; Digitized scan available"
+}

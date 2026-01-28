@@ -1,0 +1,108 @@
+{
+  "source": "dpla",
+  "id": "5e34da3c1d02e2a6657bc8b62be471e1",
+  "identifier": "5e34da3c1d02e2a6657bc8b62be471e1",
+  "title": "A feast of good things : a cook book",
+  "subject": [
+    "Cooking, American",
+    "Community cookbooks--Michigan--Hastings"
+  ],
+  "spatial": [
+    "Michigan",
+    "Hastings"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/100564944",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1910,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/5e34da3c1d02e2a6657bc8b62be471e1#SourceResource",
+      "contributor": [
+        "Emmanuel Church (Hastings, Mich.)"
+      ],
+      "date": [
+        {
+          "begin": "1910",
+          "displayDate": "1910",
+          "end": "1910"
+        }
+      ],
+      "extent": [
+        "159 p. ; 19 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-hvd007719522",
+        "(OCoLC)38526158",
+        "Hathi: 100564944"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Hastings, Mich. : Hastings Herald Press"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Hastings"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Community cookbooks--Michigan--Hastings"
+        }
+      ],
+      "title": [
+        "A feast of good things : a cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1910-01-01",
+      "normalized_dates": [
+        "1910-01-01"
+      ],
+      "date_range": {
+        "begin": "1910-01-01",
+        "end": "1910-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=vhAUAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/100564944"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church; Digitized scan available"
+}

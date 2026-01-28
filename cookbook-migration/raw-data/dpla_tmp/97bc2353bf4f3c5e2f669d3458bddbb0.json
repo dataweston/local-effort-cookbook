@@ -1,0 +1,106 @@
+{
+  "source": "dpla",
+  "id": "97bc2353bf4f3c5e2f669d3458bddbb0",
+  "identifier": "97bc2353bf4f3c5e2f669d3458bddbb0",
+  "title": "A cook book containing 400 choice recipes",
+  "subject": [
+    "Cooking, American",
+    "Cooking",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan",
+    "Detroit"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m54m94c1v",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1923,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/97bc2353bf4f3c5e2f669d3458bddbb0#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "contributor": [
+        "West Grand Boulevard M.E. Church. Fourth Division of the Ladies' Aid Society"
+      ],
+      "date": [
+        {
+          "begin": "1923",
+          "displayDate": "1923",
+          "end": "1923"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Detroit"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "A cook book containing 400 choice recipes"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1923-01-01",
+      "normalized_dates": [
+        "1923-01-01"
+      ],
+      "date_range": {
+        "begin": "1923-01-01",
+        "end": "1923-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m54m94c1v/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m54m94c1v"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Ladies' Aid"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church, Ladies' Aid; Digitized scan available"
+}

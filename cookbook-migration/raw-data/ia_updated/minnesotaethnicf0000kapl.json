@@ -1,0 +1,532 @@
+{
+  "source": "internet_archive",
+  "identifier": "minnesotaethnicf0000kapl",
+  "title": "The Minnesota ethnic food book",
+  "creator": "Kaplan, Anne R., 1951-",
+  "year": 1986,
+  "subject": [
+    "Cooking, American",
+    "Cookery, International"
+  ],
+  "description": [
+    "xii, 449 p. : 27 cm",
+    "Includes indexes"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/minnesotaethnicf0000kapl"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/minnesotaethnicf0000kapl"
+        }
+      ]
+    },
+    "created": 1758554974,
+    "d1": "ia902805.us.archive.org",
+    "d2": "ia802805.us.archive.org",
+    "dir": "/35/items/minnesotaethnicf0000kapl",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660678663",
+        "size": "18777",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "5e97f807cdcdb00c60baa3c85c858076",
+        "crc32": "abfe326b",
+        "sha1": "e96cef1ab3b203725c682a2c72dc670bcf6e9303"
+      },
+      {
+        "name": "logs/minnesotaethnicf0000kapl_scanning_2019-12-0616:29:29.log",
+        "source": "original",
+        "mtime": "1575620973",
+        "size": "1685792",
+        "md5": "21a519620ecddb7a99ac26aa7f728189",
+        "crc32": "cc221271",
+        "sha1": "4b9246825e9581a785ed13910e6c6a23cbfdec58",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "minnesotaethnicf0000kapl_hocr.html",
+        "mtime": "1753650250",
+        "size": "37532750",
+        "private": "true",
+        "md5": "43e88791614959f5d4bd07fb598108ca",
+        "crc32": "1d073dbb",
+        "sha1": "b965859223c79804baf1ab64dc1cdd4a0e9121c4"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "minnesotaethnicf0000kapl.pdf",
+        "mtime": "1753650104",
+        "size": "24181666",
+        "md5": "8b377187f1c9a3027764b6fe812f6ea8",
+        "crc32": "3e6ca676",
+        "sha1": "fcfc2d804908d096030daeb122fb7275634654f7"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "minnesotaethnicf0000kapl_page_numbers.json",
+        "mtime": "1716168255",
+        "size": "23817596",
+        "md5": "633328d6f034d27d85a3476c670e78f1",
+        "crc32": "74f69b08",
+        "sha1": "78ba4fb4e0a724238166872196fa11714ce70ce6",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "minnesotaethnicf0000kapl_jp2.zip",
+        "mtime": "1575892836",
+        "size": "13732375",
+        "md5": "0cfd459cfeb9f7e73ad4d5949e608c07",
+        "crc32": "8ac7996f",
+        "sha1": "2d34158631781f6284f9faa8838f8d3222324ec4",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "minnesotaethnicf0000kapl_abbyy.gz",
+        "mtime": "1660678444",
+        "size": "11995065",
+        "md5": "1d8ab2e16dd051d77dffde620089008c",
+        "crc32": "7b93a5bc",
+        "sha1": "59eeaa49c89fba10dd389dee7b84d4231a56322f",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "minnesotaethnicf0000kapl_scandata.xml",
+        "mtime": "1670680036",
+        "size": "788",
+        "md5": "3d3a87b51356f14ac1608c763f016723",
+        "crc32": "d6225053",
+        "sha1": "b4be0d674778d02332baec09f2f901ca23f0cf46",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1575879896",
+        "size": "1185",
+        "md5": "367bcc004dd79e2316c72418f80c9013",
+        "crc32": "aa2f68f3",
+        "sha1": "7042074f3402d23ff66ddd9984a38990f4fc673b"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "minnesotaethnicf0000kapl_djvu.xml",
+        "mtime": "1660678654",
+        "size": "1080552",
+        "md5": "76e82725642c5ec52d8df2329ddb4359",
+        "crc32": "dd680660",
+        "sha1": "5eb3992bf96fd260d0ab25b6de8bba4bc04bc085",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "minnesotaethnicf0000kapl_hocr.html",
+        "mtime": "1660678562",
+        "size": "12334086",
+        "md5": "7a57f7dcad8a5b103603f49b74039bf3",
+        "crc32": "3c8935dd",
+        "sha1": "465cd4bc5f48053d6b9d5e4bf909e31a40545019",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "minnesotaethnicf0000kapl_abbyy.gz",
+        "mtime": "1575899194",
+        "size": "2765346",
+        "md5": "1f8f83014fdfb6815c72269f9339c8c7",
+        "crc32": "7db584ef",
+        "sha1": "97552714f88c73cbb5bf9da77db0a7759fb8cb67"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "minnesotaethnicf0000kapl.pdf",
+        "mtime": "1716168881",
+        "size": "23587216",
+        "md5": "571417a4b0d17f9c588ef335ead290e7",
+        "crc32": "421171cd",
+        "sha1": "8954e534601bb684c4d42e9ec9da0ea842faaa1f"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_events.json",
+        "source": "original",
+        "mtime": "1575879798",
+        "size": "53",
+        "md5": "6b9205d505de5bd535fb946c766c816e",
+        "crc32": "b9212196",
+        "sha1": "bb703d8de35ba9e757f84785e6a736aa98f4a649",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "ce5d631890858e8f530aab9a807529d7",
+        "summation": "md5"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "minnesotaethnicf0000kapl_chocr.html.gz",
+        "mtime": "1660678538",
+        "size": "24577439",
+        "md5": "fe10fb5aee69eff30e82f2e84c2746e0",
+        "crc32": "3128b241",
+        "sha1": "466396ab11779c0f19231e9a5a9afb306920e99a",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "minnesotaethnicf0000kapl_hocr.html",
+        "mtime": "1660678608",
+        "size": "5633",
+        "md5": "de8121e1251541ca06f26b9fad387815",
+        "crc32": "8250a727",
+        "sha1": "bfbbed194422b2a6b7b4ff9755d11e4feb4af82a",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "537",
+        "word_conf_11_20": "454",
+        "word_conf_21_30": "401",
+        "word_conf_31_40": "682",
+        "word_conf_41_50": "1049",
+        "word_conf_51_60": "2066",
+        "word_conf_61_70": "5377",
+        "word_conf_71_80": "14348",
+        "word_conf_81_90": "39624",
+        "word_conf_91_100": "88949",
+        "format": "OCR Search Text",
+        "original": "minnesotaethnicf0000kapl_hocr.html",
+        "mtime": "1660678636",
+        "size": "351144",
+        "md5": "78ca631e1024f54e04270c85878f3b7a",
+        "crc32": "8817ba32",
+        "sha1": "cc2e067a93802d609f54773b21849f450295da13",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "minnesotaethnicf0000kapl_orig_jp2.tar",
+        "mtime": "1575890427",
+        "size": "254393236",
+        "md5": "ad53f7550e27edf4d0827185ef095c37",
+        "crc32": "ba1b6bff",
+        "sha1": "55e07fe7b29ddd2488d7ed2fda66fa0c7a981148",
+        "private": "true",
+        "filecount": "470"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "minnesotaethnicf0000kapl.epub",
+        "mtime": "1753650376",
+        "size": "37954097",
+        "md5": "cd9102c4d84e58a43a07adbf5924905f",
+        "crc32": "cd4bfc9b",
+        "sha1": "3c1d3435fb06478fd04e875c03d5f5ab7db472e1"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_loans.json",
+        "source": "original",
+        "mtime": "1593063421",
+        "size": "3974",
+        "format": "JSON",
+        "private": "true",
+        "md5": "a27bd970d2856a691446360330ecbb57",
+        "crc32": "4aa02438",
+        "sha1": "2b4fd08b4c7e8df45da1742e2309da19b5e754f4"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_marc.xml",
+        "source": "original",
+        "mtime": "1575879896",
+        "size": "2579",
+        "format": "MARC",
+        "md5": "20a681abfaf3f13f992f601cd17268fa",
+        "crc32": "efc437ee",
+        "sha1": "67c4a84ff4bca1af89e6550107ce34be0e4138fb"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_meta.mrc",
+        "source": "original",
+        "mtime": "1575620969",
+        "size": "806",
+        "md5": "0c6f8cb859ce47b01161c043bf3d5fe9",
+        "crc32": "848e8683",
+        "sha1": "d3cd40c5895297893ec282c297d7a32dc2055437",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_meta.sqlite",
+        "source": "original",
+        "mtime": "1575879842",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "47aa2d3067868412a81d49ec2a9a594b",
+        "crc32": "ce6d5d70",
+        "sha1": "e47a244706b35bc9483a64d3e7c5a07dc6d19e07"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_meta.xml",
+        "source": "original",
+        "mtime": "1753650381",
+        "size": "3141",
+        "format": "Metadata",
+        "md5": "2c644956fe7135a3396c080d17aaafaa",
+        "crc32": "1664c01e",
+        "sha1": "3bc299283f6082f0c87d67351673243e642f580d"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1575879841",
+        "size": "522731520",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "79384aa7acdd283ab351c024081a65bf",
+        "crc32": "00a98d95",
+        "sha1": "e818656928a5f6c7ed3fa5e52f45857a58864888",
+        "filecount": "470"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "minnesotaethnicf0000kapl_hocr.html",
+        "mtime": "1716168240",
+        "size": "79088",
+        "md5": "e943117be85242217118f36a9f361c8c",
+        "crc32": "7ab72194",
+        "sha1": "070b1497bce494f9474ae18d791d28a05eb993c1",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_scandata.xml",
+        "source": "original",
+        "mtime": "1670680036",
+        "size": "481895",
+        "format": "Scandata",
+        "md5": "aaff5606823bdb505e14854e57d83732",
+        "crc32": "fa1cabbc",
+        "sha1": "b7dfbb8c1bf8c6fe2e4b9edae8ffdf55a79c1247"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_slip.png",
+        "source": "original",
+        "mtime": "1575595392",
+        "size": "41475",
+        "md5": "d8c1fe5b7b6da3b0229a0987ada1d4f1",
+        "crc32": "3e055866",
+        "sha1": "585dffd172456822a7f3c834cdac0244b87d0dca",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "minnesotaethnicf0000kapl_slip.png",
+        "mtime": "1575879902",
+        "size": "5736",
+        "md5": "3d0dc0955fc3f2b2ff8b4052d89cf506",
+        "crc32": "ff4cef24",
+        "sha1": "7f49960c7c30e8773e3148f8764302ba9b1558be",
+        "private": "true"
+      },
+      {
+        "name": "minnesotaethnicf0000kapl_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "minnesotaethnicf0000kapl_djvu.xml",
+        "mtime": "1670679993",
+        "size": "675",
+        "md5": "3542dca744ff545313ccc1ac8cf8e528",
+        "crc32": "87a41c1d",
+        "sha1": "6ed027b9be756d48e7a05497005d7305b0a3dd02",
+        "private": "true"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753650381,
+    "item_size": 993383093,
+    "metadata": {
+      "identifier": "minnesotaethnicf0000kapl",
+      "associated-names": "Hoover, Marjorie A., 1928-; Moore, Willard B. (Willard Burgess), 1931-",
+      "boxid": "IA1729224",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Kaplan, Anne R., 1951-",
+      "date": "1986-01-01",
+      "description": [
+        "xii, 449 p. : 27 cm",
+        "Includes indexes"
+      ],
+      "isbn": [
+        "0873511972",
+        "0873511980"
+      ],
+      "language": "eng",
+      "lccn": "86008519",
+      "mediatype": "texts",
+      "old_pallet": "IA13448",
+      "openlibrary_edition": "OL2715479M",
+      "openlibrary_work": "OL5261228W",
+      "operator": "associate-engelbert-jayson@archive.org",
+      "ppi": "300",
+      "publisher": "Saint Paul : Minnesota Historical Society Press",
+      "repub_state": "19",
+      "scanner": "station13.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780873511988",
+      "subject": [
+        "Cooking, American",
+        "Cookery, International"
+      ],
+      "title": "The Minnesota ethnic food book",
+      "tts_version": "3.2-rc-2-g0d7c1ed",
+      "uploader": "station13.cebu@archive.org",
+      "addeddate": "2019-12-06 01:23:12",
+      "publicdate": "2019-12-06 01:23:26",
+      "access-restricted-item": "true",
+      "imagecount": "470",
+      "scandate": "20191206091758",
+      "republisher_operator": "associate-loida-sulit@archive.org",
+      "republisher_date": "20191209162313",
+      "republisher_time": "438",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/minnesotaethnicf0000kapl",
+      "identifier-ark": "ark:/13960/t6g243z6p",
+      "external-identifier": [
+        "urn:acs6:minnesotaethnicf0000kapl:epub:3af27400-e780-45a4-87fb-937bfe6cf78e",
+        "urn:acs6:minnesotaethnicf0000kapl:pdf:c9e771e6-6ce1-4698-94a8-039cd65cb04a",
+        "urn:oclc:record:1150856941",
+        "urn:lcp:minnesotaethnicf0000kapl:lcpdf:5d289e72-8120-4bb1-992a-d615eeb0be91",
+        "urn:lcp:minnesotaethnicf0000kapl:epub:d4b1388f-9730-42dc-ac02-48c6577aefc6"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191231",
+      "backup_location": "ia907008_8",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "curation": "[date]20250210203953[/date][comment]inlibrary removal 3[/comment]",
+      "source": "removed"
+    },
+    "server": "ia802805.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "americanuniversity-ol": {
+          "notes": {
+            "isbn": [
+              "9780873511988"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-01-18 04:39:02.365315"
+        },
+        "wilsoncollege-ol": {
+          "notes": {
+            "isbn": [
+              "9780873511988"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-07-01 08:45:20.530031"
+        }
+      }
+    },
+    "uniq": 1332418458,
+    "workable_servers": [
+      "ia802805.us.archive.org",
+      "ia902805.us.archive.org"
+    ]
+  },
+  "institution": "Kaplan, Anne R., 1951-",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Minnesota",
+    "city": "Saint Paul"
+  },
+  "curation": {
+    "score": 7,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Historical Society"
+    ]
+  },
+  "curation_notes": "State match: Minnesota; Community markers: Historical Society; Digitized scan available"
+}

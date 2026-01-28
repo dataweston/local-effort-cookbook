@@ -1,0 +1,502 @@
+{
+  "source": "internet_archive",
+  "identifier": "tasteofhomegifts0000unse",
+  "title": "Taste of home gifts from the country kitchen",
+  "creator": null,
+  "year": 2006,
+  "subject": [
+    "Cooking, American",
+    "Gifts"
+  ],
+  "description": [
+    "192 pages : 28 cm",
+    "\"A Taste of home/Reader's digest book\"--Title page verso",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/tasteofhomegifts0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/tasteofhomegifts0000unse"
+        }
+      ]
+    },
+    "created": 1758556668,
+    "d1": "ia904609.us.archive.org",
+    "d2": "ia804609.us.archive.org",
+    "dir": "/18/items/tasteofhomegifts0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661145005",
+        "size": "17773",
+        "md5": "86baba2eb678392cb4bdc406a582ed12",
+        "crc32": "6108b9b1",
+        "sha1": "5aeba48c326eb111d66a6e9e988d9fb352b2c95d",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/tasteofhomegifts0000unse_iabdash_2022-01-1500:39:29.log",
+        "source": "original",
+        "mtime": "1642178372",
+        "size": "1354",
+        "md5": "b46455f52f64c33272c0b46e8d4d5d40",
+        "crc32": "21308d75",
+        "sha1": "5f219475f3150bede369743c24aabdb15ee0a2f3",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/tasteofhomegifts0000unse_scanning_2022-01-1500:39:38.log",
+        "source": "original",
+        "mtime": "1642178381",
+        "size": "708064",
+        "md5": "25112726a2a076d1c21cf1d19e2dc828",
+        "crc32": "8aac91a4",
+        "sha1": "66a65b0d36d7b45e728cbed85019f0a691fb3432",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/tasteofhomegifts0000unse_status_history_2022-01-1500:39:33.log",
+        "source": "original",
+        "mtime": "1642178377",
+        "size": "407",
+        "md5": "805c7b6ba10e4edcc90b6087be5e9f79",
+        "crc32": "7b17a61d",
+        "sha1": "01fb80c4cb590f2dfc87213fc553ef6353e9aac4",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomegifts0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "tasteofhomegifts0000unse_hocr.html",
+        "mtime": "1754101708",
+        "size": "1472729",
+        "private": "true",
+        "md5": "b2be924b6a1575a14fb1756c0043bc53",
+        "crc32": "7c2676ee",
+        "sha1": "6e484672dbc385e2b39917d45660e56b160425ad"
+      },
+      {
+        "name": "tasteofhomegifts0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "tasteofhomegifts0000unse.pdf",
+        "mtime": "1754101552",
+        "size": "22303793",
+        "md5": "bf31f9fa2a7559e2c8511eca7339543c",
+        "crc32": "99080a86",
+        "sha1": "f4ef38ebed03e01fa347005bf4f87cb3ea5e2a17"
+      },
+      {
+        "name": "tasteofhomegifts0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "tasteofhomegifts0000unse_page_numbers.json",
+        "mtime": "1724927263",
+        "size": "21842488",
+        "md5": "4597606a0079d7820f329135b05e020f",
+        "crc32": "d5f6271c",
+        "sha1": "34fcb299cd6b6f08012d204e24e508c6f98b4583",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-1-g862e",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9583",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "tasteofhomegifts0000unse_jp2.zip",
+        "mtime": "1642634870",
+        "size": "4717239",
+        "md5": "60ed3776f20c5342de31509bbbe51aed",
+        "crc32": "a58c588b",
+        "sha1": "ce1c0454b6097ba11e0ea4a4e36a359fbcfcafc3",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "tasteofhomegifts0000unse_scandata.xml",
+        "mtime": "1671415428",
+        "size": "789",
+        "md5": "2679f35104876ee38ff87d076aefa3b8",
+        "crc32": "42ca4278",
+        "sha1": "eb5bd1ca4d34b723db3a73da2d4db0b09f494873",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1642631289",
+        "size": "929",
+        "md5": "29b0f36b6ac457362c7c0ea74b0da8f4",
+        "crc32": "da9c02ef",
+        "sha1": "c6e82754943d7349dc1c13ea7a6170f221b3b3de"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "tasteofhomegifts0000unse_djvu.xml",
+        "mtime": "1642635112",
+        "size": "346204",
+        "md5": "5cfabeffb9f46e774226dffb1b314d57",
+        "crc32": "d0347f7b",
+        "sha1": "fc3e01ddb80648599ff04e8c1e31ed9ee7cdcc84",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "tasteofhomegifts0000unse_hocr.html",
+        "mtime": "1642634975",
+        "size": "4741937",
+        "md5": "d2838e03d6a8bbf2f1555110c103c9c9",
+        "crc32": "24d1b7cc",
+        "sha1": "f9f9b30739386d30470bf73aebe598e7a5ebdc3b",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "tasteofhomegifts0000unse.pdf",
+        "mtime": "1724927579",
+        "size": "21790564",
+        "md5": "4f52a3b66ecbc31c3586eb3056b8d884",
+        "crc32": "fe76665b",
+        "sha1": "ab10ed958cedde9c1d4f69609919c5232b27448a"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_events.json",
+        "source": "original",
+        "mtime": "1642630984",
+        "size": "56",
+        "md5": "51fb3a3a9e178e1f210168990f800318",
+        "crc32": "ded20a5c",
+        "sha1": "24d786b732239a3b358a6f1df51db9d43c007472",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "cef5bc9f815edd9101790771cffba20a",
+        "summation": "md5"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9583",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "tasteofhomegifts0000unse_chocr.html.gz",
+        "mtime": "1642634949",
+        "size": "9411374",
+        "md5": "1c368727e899b1b919597846ffdbf0db",
+        "crc32": "eb31999b",
+        "sha1": "e3dc35d957b0985a5c5dfaa94f7ccd952c9e605b",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "tasteofhomegifts0000unse_hocr.html",
+        "mtime": "1642635029",
+        "size": "2446",
+        "md5": "5d32cd724521074b4836b260c1dcb0f0",
+        "crc32": "37a96b27",
+        "sha1": "2579038e16ccf6f4de79f43fd3a4bdd550dacd0f",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "270",
+        "word_conf_11_20": "111",
+        "word_conf_21_30": "144",
+        "word_conf_31_40": "145",
+        "word_conf_41_50": "142",
+        "word_conf_51_60": "135",
+        "word_conf_61_70": "148",
+        "word_conf_71_80": "308",
+        "word_conf_81_90": "1144",
+        "word_conf_91_100": "54159",
+        "format": "OCR Search Text",
+        "original": "tasteofhomegifts0000unse_hocr.html",
+        "mtime": "1642635092",
+        "size": "86959",
+        "md5": "be4545a520af31cd9ad70dcab7b36a43",
+        "crc32": "01469522",
+        "sha1": "f4f4540f48bc485f386b89a1c723eefb75629d50",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "tasteofhomegifts0000unse_orig_jp2.tar",
+        "mtime": "1642633722",
+        "size": "125941788",
+        "md5": "97a25476c42e6b7e94faf392aaf6b759",
+        "crc32": "20ca778e",
+        "sha1": "16598418435305ad6cf44b4a76a8d825b221762d",
+        "private": "true",
+        "filecount": "208"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "tasteofhomegifts0000unse.epub",
+        "mtime": "1754102056",
+        "size": "1485610",
+        "md5": "35857b15eeec5093868a55d3193217d6",
+        "crc32": "28e574de",
+        "sha1": "85a1b4f78d9a7f6242b5a19b6c957d2e4933310e"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1642178365",
+        "size": "4292",
+        "md5": "f2de3b65c2995ad632f4da6f74994cc4",
+        "crc32": "9ceef0b6",
+        "sha1": "1ba033c155ccb67074fcca760cf65a2200f68d6e",
+        "format": "MARC"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1642178361",
+        "size": "1276",
+        "md5": "8c4d8877e0f7b42b587e32fc2e30ee82",
+        "crc32": "007b7fd8",
+        "sha1": "5be11b4ae5fef46e1c885884b0f061658a91f6de",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1642631163",
+        "size": "45056",
+        "md5": "7e9a55906b9894fecdfe5d8925bb6cd2",
+        "crc32": "65178b8c",
+        "sha1": "20609f9494b320cd1f53742ac6c7601e204d9587",
+        "format": "Metadata"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1754102056",
+        "size": "3198",
+        "md5": "ef4ebce0c7d7a1bcdf989ff36ec83d32",
+        "crc32": "e8605540",
+        "sha1": "b745de8c763dd79d4c29ce3e0cd27cc8440c2bdf",
+        "format": "Metadata"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1642631161",
+        "size": "268093440",
+        "md5": "0d2be02ec72493ef31494b417e28b1a0",
+        "crc32": "8ac9a396",
+        "sha1": "4af372a2f5d7b55f09dcb581e4e9c3d3f5cd6b72",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "208"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "tasteofhomegifts0000unse_hocr.html",
+        "mtime": "1724927262",
+        "size": "35073",
+        "md5": "bd5df348f6fbaa6acfb35457cbdf8560",
+        "crc32": "6cde8db2",
+        "sha1": "e89469aab5eb6d3b6826cab4d12cd74243810fea",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671415428",
+        "size": "126179",
+        "md5": "b980b60e5a5b6728fa92986359b18148",
+        "crc32": "7909b609",
+        "sha1": "2270a9e39179e8f567a01d70b49ab270b026ca78",
+        "format": "Scandata"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_slip.png",
+        "source": "original",
+        "mtime": "1642153552",
+        "size": "41319",
+        "md5": "427d5ed28eaa3faca677687331d2feaa",
+        "crc32": "6c5264ea",
+        "sha1": "fe428e63474be06ed8b90e10b030f778a0f8610e",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "tasteofhomegifts0000unse_slip.png",
+        "mtime": "1642631302",
+        "size": "8686",
+        "md5": "a7b691a3d08f4218be8eeeb752675b63",
+        "crc32": "213a4a3c",
+        "sha1": "843ca2ae0723edafb6117283ba6ea02d465d12be",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomegifts0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "tasteofhomegifts0000unse_djvu.xml",
+        "mtime": "1671415307",
+        "size": "588",
+        "md5": "046d67c0dc179e66776547a56f564136",
+        "crc32": "24636a47",
+        "sha1": "e9e9e50fcdbbf052855c689221072657442cc1dc",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1754102056,
+    "item_size": 483231610,
+    "metadata": {
+      "identifier": "tasteofhomegifts0000unse",
+      "associated-names": "Olski, Jennifer",
+      "boxid": "IA40332504",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2006-01-01",
+      "description": [
+        "192 pages : 28 cm",
+        "\"A Taste of home/Reader's digest book\"--Title page verso",
+        "Includes index"
+      ],
+      "isbn": [
+        "0898215927",
+        "9780898215922"
+      ],
+      "language": "eng",
+      "lccn": "2007925732",
+      "mediatype": "texts",
+      "old_pallet": "IA-NS-1200133",
+      "operator": "associate-jolane-monsanto@archive.org",
+      "publisher": "Greendale, WI : Reiman Media Group Inc",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station57.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780898215922",
+      "subject": [
+        "Cooking, American",
+        "Gifts"
+      ],
+      "title": "Taste of home gifts from the country kitchen",
+      "tts_version": "4.5-initial-80-gce32ee1e",
+      "uploader": "station57.cebu@archive.org",
+      "publicdate": "2022-01-14 09:46:05",
+      "access-restricted-item": "true",
+      "imagecount": "208",
+      "scandate": "20220114220153",
+      "ppi": "360",
+      "republisher_operator": "associate-meriam-bapilar@archive.org",
+      "republisher_date": "20220120062238",
+      "republisher_time": "817",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/tasteofhomegifts0000unse",
+      "identifier-ark": "ark:/13960/s26jj5r2f1q",
+      "ocr": "tesseract 5.0.0-1-g862e",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.14",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9583",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "pdf_module_version": "0.0.17",
+      "external-identifier": [
+        "urn:acs6:tasteofhomegifts0000unse:pdf:b2554b4d-a5cd-42fc-97e6-7e36f0c9f0d3",
+        "urn:oclc:record:1302556368",
+        "urn:lcp:tasteofhomegifts0000unse:lcpdf:3e6ffb34-a1e8-4dcc-9d59-c4c1b981576d",
+        "urn:lcp:tasteofhomegifts0000unse:epub:4ea6e8b3-93ff-492c-bbe7-9378bd6f9d6b"
+      ],
+      "addeddate": "2022-01-20 00:06:33",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_edition": "OL36693814M",
+      "openlibrary_work": "OL18586191W",
+      "sponsordate": "20220131",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia804609.us.archive.org",
+    "uniq": 222157888,
+    "workable_servers": [
+      "ia804609.us.archive.org",
+      "ia904609.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

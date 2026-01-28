@@ -1,0 +1,510 @@
+{
+  "source": "internet_archive",
+  "identifier": "pasta0000bent",
+  "title": "Pasta",
+  "creator": "Bentley, Joyce",
+  "year": 2006,
+  "subject": [
+    "Pasta products -- Juvenile literature",
+    "Cooking (Pasta) -- Juvenile literature"
+  ],
+  "description": [
+    "32 p. : 28 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/pasta0000bent"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/pasta0000bent"
+        }
+      ]
+    },
+    "created": 1758556516,
+    "d1": "ia601904.us.archive.org",
+    "d2": "ia801904.us.archive.org",
+    "dir": "/26/items/pasta0000bent",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660867550",
+        "size": "19640",
+        "md5": "81c4ea1c39275ded08b1b8419796c942",
+        "crc32": "1c8daae0",
+        "sha1": "084b8983ca6f7e073d038590bd9309fa26f8f6ac",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/pasta0000bent_iabdash_2020-06-3014:36:37.log",
+        "source": "original",
+        "mtime": "1593499003",
+        "size": "1284",
+        "md5": "4bf1010e27a2148036f14a95284f51c1",
+        "crc32": "cc9ac171",
+        "sha1": "85038d27aa4c10372a90da29f558cdb65f417d4c",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/pasta0000bent_scanning_2020-06-3014:36:55.log",
+        "source": "original",
+        "mtime": "1593499021",
+        "size": "200047",
+        "md5": "edeea19885c6bc2dbcd3abe6ed5d2295",
+        "crc32": "1e8fb986",
+        "sha1": "4efc05eaf172198267d304138df8bc832606e63f",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/pasta0000bent_status_history_2020-06-3014:36:44.log",
+        "source": "original",
+        "mtime": "1593499013",
+        "size": "405",
+        "md5": "3f123c5e91528634dc31a70555fcbc90",
+        "crc32": "cec21cb7",
+        "sha1": "8ce0373d5ef81faf21b79fb3958c57121b730c68",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "pasta0000bent_hocr.html",
+        "mtime": "1757217832",
+        "size": "24265685",
+        "private": "true",
+        "md5": "0ff3f894ad72231f178eb4b500ea403d",
+        "crc32": "e4aff948",
+        "sha1": "49cf7595c908b6fbb8cc3c2e1ec599ea7c21b392"
+      },
+      {
+        "name": "pasta0000bent.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "pasta0000bent.pdf",
+        "mtime": "1757217696",
+        "size": "4660811",
+        "md5": "5a961493a576eb81314e4f8ffd45c2d1",
+        "crc32": "43322a42",
+        "sha1": "e19ed0f5dd3a4123baa41fb093fc365f3704fa4b"
+      },
+      {
+        "name": "pasta0000bent.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "pasta0000bent_page_numbers.json",
+        "mtime": "1718641880",
+        "size": "4026557",
+        "md5": "eef6ad4123a6dd8e1ac178b5451e5e70",
+        "crc32": "a5eef6d1",
+        "sha1": "4d8464fd3d5bf007b8f67db9caad454a2797c639",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "pasta0000bent_jp2.zip",
+        "mtime": "1595215051",
+        "size": "226204",
+        "md5": "2e6aa3448d51571ae7d2620bfebf38e0",
+        "crc32": "f9abe406",
+        "sha1": "a07a8232505c839b4ced04a2a64b09c40133b85e",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "pasta0000bent_abbyy.gz",
+        "mtime": "1660867129",
+        "size": "172537",
+        "md5": "d7bca0d2c64fa0cfc92aa4ad9b38296d",
+        "crc32": "6f2902f7",
+        "sha1": "a23943c80dbc1df91a114c107d661d3a26544afc",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "pasta0000bent_scandata.xml",
+        "mtime": "1670842558",
+        "size": "744",
+        "md5": "d99ba7fcaf198ca292fe293c85d09047",
+        "crc32": "5480c67f",
+        "sha1": "f6511f55ece6b4ed36c5dfeca04bd7715042b319",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1595213627",
+        "size": "980",
+        "md5": "1e17568482e05b9e39a981c769f13480",
+        "crc32": "4fff1d32",
+        "sha1": "1dd37b526d63e21dd90cbdf27df30be10b2a9a19"
+      },
+      {
+        "name": "pasta0000bent_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "pasta0000bent_djvu.xml",
+        "mtime": "1660867545",
+        "size": "14456",
+        "md5": "2b3b994723fc097a45fcb1067afe5c8e",
+        "crc32": "caeaf0b7",
+        "sha1": "4351e36922c6282df8f6cd3fb471f2ab668eea6a",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "pasta0000bent_hocr.html",
+        "mtime": "1660867379",
+        "size": "198863",
+        "md5": "a84023fe3f4723db5e731c9dda305e1b",
+        "crc32": "b230bd9c",
+        "sha1": "0f826d70f3d7adaa910ecef497b5610bbb400809",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "pasta0000bent_abbyy.gz",
+        "mtime": "1595215100",
+        "size": "2253497",
+        "md5": "daf37504369c2b96ad9644add0ffff2c",
+        "crc32": "8833e5b6",
+        "sha1": "af0dbbdca96072ff4fbdb86e5d721fb009c84bd8"
+      },
+      {
+        "name": "pasta0000bent_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "pasta0000bent.pdf",
+        "mtime": "1718642063",
+        "size": "4009273",
+        "md5": "d4e58a45ea9c2afa044da1e8fd257e66",
+        "crc32": "2946eb74",
+        "sha1": "c644e97b5baceade2ed980bd24507939213d1857"
+      },
+      {
+        "name": "pasta0000bent_events.json",
+        "source": "original",
+        "mtime": "1595213366",
+        "size": "56",
+        "md5": "64128de3635284e2bfba2d8941f17b7f",
+        "crc32": "45dc427e",
+        "sha1": "1ef5834b37e9056eacfbdfc2edb60ea051a457cf",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "6d5e0c7ed470dee416d81feb161b1b8c",
+        "summation": "md5"
+      },
+      {
+        "name": "pasta0000bent_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "pasta0000bent_chocr.html.gz",
+        "mtime": "1660867366",
+        "size": "449909",
+        "md5": "1e01d9e7036db06cf27619e7d9753a76",
+        "crc32": "ef2a2a35",
+        "sha1": "e1ab370dcaa2b346295980107d0bb11d0693fc6e",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "pasta0000bent_hocr.html",
+        "mtime": "1660867430",
+        "size": "438",
+        "md5": "9acea5ea9a7fb8aa48d35a5afabaa054",
+        "crc32": "4d953686",
+        "sha1": "f6ff2c0cab3f1e31ab070eb8a3143e9cb4f023ce",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "32",
+        "word_conf_11_20": "13",
+        "word_conf_21_30": "23",
+        "word_conf_31_40": "28",
+        "word_conf_41_50": "51",
+        "word_conf_51_60": "109",
+        "word_conf_61_70": "140",
+        "word_conf_71_80": "181",
+        "word_conf_81_90": "359",
+        "word_conf_91_100": "1161",
+        "format": "OCR Search Text",
+        "original": "pasta0000bent_hocr.html",
+        "mtime": "1660867507",
+        "size": "5915",
+        "md5": "a443cec9f21e7f0ee3c5c828b36b9d1a",
+        "crc32": "a99a3776",
+        "sha1": "54ab7e2f9ddda044c9aef74ed22b06c3b474491e",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "pasta0000bent_orig_jp2.tar",
+        "mtime": "1595214829",
+        "size": "43683069",
+        "md5": "074f4f662f46ab5b8fdbb67291d7c7ba",
+        "crc32": "e3099772",
+        "sha1": "9ff49d62e3c5f7d3b1f4277c9ced7128a6c877a2",
+        "private": "true",
+        "filecount": "42"
+      },
+      {
+        "name": "pasta0000bent_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "pasta0000bent.epub",
+        "mtime": "1757217902",
+        "size": "24447747",
+        "md5": "ca58dc1478ac451faf32b4d35829f5da",
+        "crc32": "badb0379",
+        "sha1": "4f4ffea7414789a22d977c9b6091f1a4de30ae65"
+      },
+      {
+        "name": "pasta0000bent_marc.xml",
+        "source": "original",
+        "mtime": "1593498993",
+        "size": "2571",
+        "md5": "0b3cb2d3f19e6223b25a857ead3cc0f3",
+        "crc32": "c62996c9",
+        "sha1": "39a7fe4e22703ae9dabba93b7d63574a05581bac",
+        "format": "MARC"
+      },
+      {
+        "name": "pasta0000bent_meta.mrc",
+        "source": "original",
+        "mtime": "1593498968",
+        "size": "756",
+        "md5": "2fe06076f017b31cafadc94ee2bea49b",
+        "crc32": "7c008208",
+        "sha1": "ace325815402fa8d1fe6e20bbbd88e34fdffb08e",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "pasta0000bent_meta.sqlite",
+        "source": "original",
+        "mtime": "1595213548",
+        "size": "19456",
+        "md5": "41a22c0ea1f73ece447a0529a6089df3",
+        "crc32": "247693f4",
+        "sha1": "7c01fa4858ead3d0dc8789694ae8c5ca649c998d",
+        "format": "Metadata"
+      },
+      {
+        "name": "pasta0000bent_meta.xml",
+        "source": "original",
+        "mtime": "1757217903",
+        "size": "2909",
+        "md5": "0ec36d82c6bacd4e1cc495b2e9fb01da",
+        "crc32": "eb8e1416",
+        "sha1": "1b50f2a342d0d1c5fa2dbcfd64e9c699278ede1c",
+        "format": "Metadata"
+      },
+      {
+        "name": "pasta0000bent_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1595213548",
+        "size": "97638400",
+        "md5": "2d6e66ba0c479511d23b59188f91b74a",
+        "crc32": "030758a4",
+        "sha1": "85af65c4cc3ef64ffc16b61b2314165ead23b106",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "42"
+      },
+      {
+        "name": "pasta0000bent_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "90",
+        "format": "Page Numbers JSON",
+        "original": "pasta0000bent_hocr.html",
+        "mtime": "1718641880",
+        "size": "6811",
+        "md5": "a74ad739f63924c323b67a0f184f936b",
+        "crc32": "961d85ad",
+        "sha1": "f9e7afebaa7bc5131214d1cd3f9edc6c8a7d0bfb",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent_scandata.xml",
+        "source": "original",
+        "mtime": "1670842558",
+        "size": "43159",
+        "md5": "ce6b8f6efa00c40bd38339a116f26b19",
+        "crc32": "b16600d9",
+        "sha1": "cbb36d435970f84e0aa41e698d4af9296df5b844",
+        "format": "Scandata"
+      },
+      {
+        "name": "pasta0000bent_slip.png",
+        "source": "original",
+        "mtime": "1593493033",
+        "size": "36070",
+        "md5": "13297743f3df0d1f0b8948436845bebf",
+        "crc32": "c3a6a6b7",
+        "sha1": "05f2df7c6f1b16d83f604b52aa882de767c7e4ac",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "pasta0000bent_slip.png",
+        "mtime": "1595213637",
+        "size": "4908",
+        "md5": "a51fd4082cc3f3906c631bda535c390d",
+        "crc32": "a8480dc1",
+        "sha1": "6230f07697c802d5f0554ea711326f7a2370fe1c",
+        "private": "true"
+      },
+      {
+        "name": "pasta0000bent_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "pasta0000bent_djvu.xml",
+        "mtime": "1670842090",
+        "size": "622",
+        "md5": "21da3e937256024b96052bff77b8f1cd",
+        "crc32": "62276dfe",
+        "sha1": "e8e541422702d66414a6c3eae895ef540fc4bfdc",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1757217903,
+    "item_size": 206393779,
+    "metadata": {
+      "identifier": "pasta0000bent",
+      "boxid": "IA1878007",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Bentley, Joyce",
+      "date": "2006-01-01",
+      "description": [
+        "32 p. : 28 cm",
+        "Includes index"
+      ],
+      "isbn": "1593892217",
+      "language": "eng",
+      "lccn": "2004108800",
+      "mediatype": "texts",
+      "old_pallet": "IA18365",
+      "openlibrary_edition": "OL8874854M",
+      "openlibrary_work": "OL5360689W",
+      "operator": "associate-daisy-francis@archive.org",
+      "ppi": "300",
+      "publisher": "North Mankato, MN : Chrysalis Education",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station66.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781593892210",
+      "subject": [
+        "Pasta products -- Juvenile literature",
+        "Cooking (Pasta) -- Juvenile literature"
+      ],
+      "title": "Pasta",
+      "tts_version": "4.0-initial-155-gbba175a5",
+      "uploader": "station66.cebu@archive.org",
+      "publicdate": "2020-06-30 04:58:45",
+      "access-restricted-item": "true",
+      "imagecount": "42",
+      "scandate": "20200630070202",
+      "notes": "obscured text<br />",
+      "republisher_operator": "associate-jannel-pelayre@archive.org",
+      "republisher_date": "20200720104552",
+      "republisher_time": "194",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/pasta0000bent",
+      "identifier-ark": "ark:/13960/t2w46qm0t",
+      "bookplateleaf": "0004",
+      "external-identifier": [
+        "urn:acs6:pasta0000bent:epub:9f76f079-313f-42e2-8b56-69ecc7c17cfe",
+        "urn:acs6:pasta0000bent:pdf:840ba85a-6349-4c71-bcc6-899edb6d3f2b",
+        "urn:oclc:record:1194924270",
+        "urn:lcp:pasta0000bent:lcpdf:3b49064d-a835-4a44-ab49-ea417485e91a",
+        "urn:lcp:pasta0000bent:epub:ee39f88c-1451-40f3-9e16-762e50bc2b7a"
+      ],
+      "page_number_confidence": "90",
+      "addeddate": "2020-07-20 04:05:31",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20200731",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801904.us.archive.org",
+    "uniq": 1796777193,
+    "workable_servers": [
+      "ia801904.us.archive.org",
+      "ia601904.us.archive.org"
+    ]
+  },
+  "institution": "Bentley, Joyce",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Mankato"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

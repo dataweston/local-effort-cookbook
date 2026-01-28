@@ -1,0 +1,280 @@
+{
+  "source": "internet_archive",
+  "identifier": "oapen-20.500.12657-31734",
+  "title": "Il libro de la cocina: Un ricettario tra Oriente e Occidente",
+  "creator": null,
+  "year": 2016,
+  "subject": [
+    "italiian cuisine",
+    "edition philology",
+    "lexikography",
+    "european cookbooks",
+    "book"
+  ],
+  "description": "European cookery has grown historically, and so has the Sienese Libro de la cocina. The book's origins are partly in Italy, partly in other cultures, combining recipes from Tuscan cuisine with those taken directly from the older Latin Liber de coquina, a cookery book from Naples which can be seen as a link between Oriental and Western European culinary literature. The Libro de la cocina reveals the complete range of the art of XIVth century Italian cooking: basic and elaborate vegetable, meat and fish dishes, desserts, and dietary preparations. Many of the almost 200 recipes are linked with their Oriental, French, English, and Italian precursors and successors. A complete critical glossary makes the texts accessible and, in addition, parallel vernacular and Latin texts are provided.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721906.ca.archive.org",
+          "dir": "/0/items/oapen-20.500.12657-31734"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721906.ca.archive.org",
+          "dir": "/0/items/oapen-20.500.12657-31734"
+        }
+      ]
+    },
+    "created": 1758558374,
+    "d1": "ia600403.us.archive.org",
+    "d2": "ia800403.us.archive.org",
+    "dir": "/3/items/oapen-20.500.12657-31734",
+    "files": [
+      {
+        "name": "625372.pdf",
+        "source": "original",
+        "mtime": "1717070042",
+        "size": "4901601",
+        "md5": "62fa091e6aa115f62ee1fbe5497680cb",
+        "crc32": "20a9044f",
+        "sha1": "62297843957faf4485ef4f44cd9ab3170a22937b",
+        "format": "Text PDF"
+      },
+      {
+        "name": "625372_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-lat;lang-ita;lang-Latin;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "it",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "625372_jp2.zip",
+        "mtime": "1717075938",
+        "size": "8949740",
+        "md5": "681fced4539fdff47285fe423439f74f",
+        "crc32": "a1b80e9d",
+        "sha1": "b74c5af12d77b487350eaa1d144a3908d3116554"
+      },
+      {
+        "name": "625372_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "625372_djvu.xml",
+        "mtime": "1717079367",
+        "size": "698794",
+        "md5": "c01df0564eb897f5d891f91f92aa07f7",
+        "crc32": "daff797d",
+        "sha1": "4652307602898a739e9b062632f66174062dbb36"
+      },
+      {
+        "name": "625372_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "625372_hocr.html",
+        "mtime": "1717077392",
+        "size": "8698328",
+        "md5": "777ade4abe1756d684aa5a06b2726aef",
+        "crc32": "1df29ed8",
+        "sha1": "c617853ebf36989063f500b035c25bf19dc82d89"
+      },
+      {
+        "name": "625372_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-lat;lang-ita;lang-Latin;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "it",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "625372_chocr.html.gz",
+        "mtime": "1717076250",
+        "size": "17061279",
+        "md5": "727837569f3c1abcec8d92679c572020",
+        "crc32": "a85a06f1",
+        "sha1": "fcd92b0c9741eeb35576ffb97fbc199e1d703338"
+      },
+      {
+        "name": "625372_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "625372_hocr.html",
+        "mtime": "1717077514",
+        "size": "3267",
+        "md5": "1cfb951ae2a83db4319bf2b721ec3c89",
+        "crc32": "6ac05157",
+        "sha1": "6c3834bc14e0918bd8ef7eb93d095284078a6cb2"
+      },
+      {
+        "name": "625372_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "159",
+        "word_conf_11_20": "72",
+        "word_conf_21_30": "98",
+        "word_conf_31_40": "152",
+        "word_conf_41_50": "210",
+        "word_conf_51_60": "299",
+        "word_conf_61_70": "484",
+        "word_conf_71_80": "856",
+        "word_conf_81_90": "4653",
+        "word_conf_91_100": "103853",
+        "format": "OCR Search Text",
+        "original": "625372_hocr.html",
+        "mtime": "1717078505",
+        "size": "277772",
+        "md5": "bc98ab6eca367abcaeaf631fd5040587",
+        "crc32": "3c289fbd",
+        "sha1": "a7352fedaf499b5e4dcc8a71d1e5164e3e7f44d3"
+      },
+      {
+        "name": "625372_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "625372.pdf",
+        "mtime": "1717071642",
+        "size": "117245414",
+        "md5": "b96dc566191862fe19cbb6b11b47661c",
+        "crc32": "b5e3ba86",
+        "sha1": "f1d6cd4f1421b947d3ae312fe6d2f63696b45822",
+        "filecount": "272"
+      },
+      {
+        "name": "625372_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "625372_hocr.html",
+        "mtime": "1717079977",
+        "size": "45611",
+        "md5": "66ad366f88f76693c93855b5bfaeacbe",
+        "crc32": "f87996dc",
+        "sha1": "ef81fb13b4ed720503a832e8db765eac2fa7d73e"
+      },
+      {
+        "name": "625372_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "625372_djvu.xml",
+        "mtime": "1717079978",
+        "size": "96525",
+        "md5": "bf1bd16e7aa58fa3cac8d214e57e69f7",
+        "crc32": "aacc465d",
+        "sha1": "6fbf9c5f9a2f958cce29e83d0b65f71159e43a0b"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1717080158",
+        "size": "16033",
+        "md5": "0bfe79207fd6ea497e5dd8b584189e7b",
+        "crc32": "335d4d41",
+        "sha1": "4f150c963ab0d6c96a5551c53344a5d373c03a8a",
+        "format": "Item Tile"
+      },
+      {
+        "name": "oapen-20.500.12657-31734_archive.torrent",
+        "source": "metadata",
+        "btih": "eae9ea25a0ba348d1b018b23a182c7357517b649",
+        "mtime": "1728113764",
+        "size": "9521",
+        "md5": "21c3b057e351876dd4ed8ffc4f840995",
+        "crc32": "ec195688",
+        "sha1": "3cdd212280a40b99627679e4b92b1781b8e3ba6b",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "oapen-20.500.12657-31734_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "d6831415287ea3796214ebbc1d2d4159",
+        "summation": "md5"
+      },
+      {
+        "name": "oapen-20.500.12657-31734_meta.sqlite",
+        "source": "original",
+        "mtime": "1717070075",
+        "size": "20480",
+        "md5": "5b90e1fe12639aa47b6326dbc1b5d9fc",
+        "crc32": "031f9975",
+        "sha1": "686d69d8794636499447007caccb81c39d1bb063",
+        "format": "Metadata"
+      },
+      {
+        "name": "oapen-20.500.12657-31734_meta.xml",
+        "source": "original",
+        "mtime": "1728113761",
+        "size": "2299",
+        "md5": "6a6575cc5327ccb1728b278691d562df",
+        "crc32": "29e3c0a9",
+        "sha1": "22c8b7797c487daacf153fe2d0aa88a8b43c215d",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1728113764,
+    "item_size": 158026664,
+    "metadata": {
+      "identifier": "oapen-20.500.12657-31734",
+      "collection": [
+        "oapen-library",
+        "additional_collections"
+      ],
+      "mediatype": "texts",
+      "oapen-url": "https://library.oapen.org//handle/20.500.12657/31734",
+      "scanner": "Internet Archive Python library 3.5.0",
+      "uploader": "aopen@textfiles.com",
+      "title": "Il libro de la cocina: Un ricettario tra Oriente e Occidente",
+      "collection_added": "additional_collections",
+      "publicdate": "2024-05-30 11:54:20",
+      "addeddate": "2024-05-30 11:54:20",
+      "identifier-access": "http://archive.org/details/oapen-20.500.12657-31734",
+      "identifier-ark": "ark:/13960/s2d1d9fv4d1",
+      "ppi": "300",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l lat+ita+Latin",
+      "ocr_module_version": "0.0.21",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "it",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "100",
+      "page_number_module_version": "1.0.5",
+      "date": "2016-01-01",
+      "description": "European cookery has grown historically, and so has the Sienese Libro de la cocina. The book's origins are partly in Italy, partly in other cultures, combining recipes from Tuscan cuisine with those taken directly from the older Latin Liber de coquina, a cookery book from Naples which can be seen as a link between Oriental and Western European culinary literature. The Libro de la cocina reveals the complete range of the art of XIVth century Italian cooking: basic and elaborate vegetable, meat and fish dishes, desserts, and dietary preparations. Many of the almost 200 recipes are linked with their Oriental, French, English, and Italian precursors and successors. A complete critical glossary makes the texts accessible and, in addition, parallel vernacular and Latin texts are provided.",
+      "subject": "italiian cuisine;\nedition philology;\nlexikography;\neuropean cookbooks;book",
+      "language": "German"
+    },
+    "server": "ia600403.us.archive.org",
+    "uniq": 1420031708,
+    "workable_servers": [
+      "ia600403.us.archive.org",
+      "ia800403.us.archive.org"
+    ]
+  },
+  "pdf_url": "https://archive.org/download/oapen-20.500.12657-31734/625372.pdf",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 3,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

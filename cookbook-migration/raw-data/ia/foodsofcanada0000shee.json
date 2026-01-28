@@ -1,0 +1,540 @@
+{
+  "source": "internet_archive",
+  "identifier": "foodsofcanada0000shee",
+  "title": "Foods of Canada",
+  "creator": "Sheen, Barbara",
+  "year": 2012,
+  "subject": [
+    "Cooking, Canadian -- Juvenile literature",
+    "Food -- Canada -- Juvenile literature",
+    "Food habits -- Canada -- Juvenile literature",
+    "Cooking, Canadian",
+    "Food -- Canada",
+    "Food habits -- Canada",
+    "Canada -- Social life and customs -- Juvenile literature",
+    "Canada -- Social life and customs"
+  ],
+  "description": [
+    "64 p. : 24 cm",
+    "Includes bibliographical references (p. 57-58) and index",
+    "Land of plenty -- A diverse nation -- Uniquely Canadian treats -- Festive foods"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/foodsofcanada0000shee"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/foodsofcanada0000shee"
+        }
+      ]
+    },
+    "created": 1758559055,
+    "d1": "ia601903.us.archive.org",
+    "d2": "ia801903.us.archive.org",
+    "dir": "/21/items/foodsofcanada0000shee",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660024005",
+        "size": "16705",
+        "md5": "939194d7e22213def892dd5dc9514b8a",
+        "crc32": "d93b8316",
+        "sha1": "89105613ac98a5619132d76c1cefca5ef38e15e6",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "foodsofcanada0000shee.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "foodsofcanada0000shee_hocr.html",
+        "mtime": "1753354968",
+        "size": "10258380",
+        "private": "true",
+        "md5": "3e200a6e88ceb51dfc2e8dfb8a6a2a1b",
+        "crc32": "4b4ddca2",
+        "sha1": "29a72578270ce077611ef31cb4436e65d53f7929"
+      },
+      {
+        "name": "foodsofcanada0000shee.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "foodsofcanada0000shee.pdf",
+        "mtime": "1753354751",
+        "size": "3487086",
+        "md5": "07dcc79c85b5ac0a21b2441a313be004",
+        "crc32": "6b51ac46",
+        "sha1": "28e107bf84cca99a94c311d82d8e333d9bc2eba5"
+      },
+      {
+        "name": "foodsofcanada0000shee.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "foodsofcanada0000shee_page_numbers.json",
+        "mtime": "1722357225",
+        "size": "3148699",
+        "md5": "83c7e5ec1eb9d85ae57a25bf3b8cb92c",
+        "crc32": "9f007631",
+        "sha1": "9a47c74743ca7bff5fd4cf430e8a93bb6a987876",
+        "private": "true"
+      },
+      {
+        "name": "foodsofcanada0000shee_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "foodsofcanada0000shee_jp2.zip",
+        "mtime": "1594182323",
+        "size": "888963",
+        "md5": "2bb8ce43e9608ece3541253ffe53a95a",
+        "crc32": "490737a5",
+        "sha1": "e0de271b8c1f0946576eeb01c900307f4ee59d4f",
+        "private": "true"
+      },
+      {
+        "name": "foodsofcanada0000shee_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "foodsofcanada0000shee_abbyy.gz",
+        "mtime": "1660023906",
+        "size": "743348",
+        "md5": "4864f1746d5bef89d9728843aabc50a2",
+        "crc32": "44b05a9e",
+        "sha1": "05927da9b089da5aea13e3082f4d6e90a11ffc16",
+        "private": "true"
+      },
+      {
+        "name": "foodsofcanada0000shee_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "foodsofcanada0000shee_scandata.xml",
+        "mtime": "1670016353",
+        "size": "774",
+        "md5": "1a3e038e8e8030c30ad4850118dc0cfc",
+        "crc32": "d75b4c5f",
+        "sha1": "bc30089d002250a796efeceb4d83dc47ee97a86f",
+        "private": "true"
+      },
+      {
+        "name": "foodsofcanada0000shee_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1594180358",
+        "size": "1583",
+        "md5": "5d9192a1815a99ac9f6999945a55f8ef",
+        "crc32": "ef24c0e3",
+        "sha1": "e75c06bc83e11c07684421ba0adeb9f622f63b6f"
+      },
+      {
+        "name": "foodsofcanada0000shee_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "foodsofcanada0000shee_djvu.xml",
+        "mtime": "1660023997",
+        "size": "65966",
+        "md5": "996926ee805de4d485cc885b754d743e",
+        "crc32": "fb752ce6",
+        "sha1": "9beb9bd0d2cda74ab1e45d1d8fd8214759801d4e",
+        "private": "true"
+      },
+      {
+        "name": "foodsofcanada0000shee_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "foodsofcanada0000shee_hocr.html",
+        "mtime": "1660023956",
+        "size": "794021",
+        "md5": "0560ecdfa5c32c4368ff6157f46e66b6",
+        "crc32": "58a3f139",
+        "sha1": "9b984ba13bcde909b516265155a7ed070f724497",
+        "private": "true"
+      },
+      {
+        "name": "foodsofcanada0000shee_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "foodsofcanada0000shee_abbyy.gz",
+        "mtime": "1594182358",
+        "size": "2121217",
+        "md5": "0244e10b00349f5ea0966cafc993d0de",
+        "crc32": "24a2282d",
+        "sha1": "a8eb6a42ae24b83515884cfc8963121ec6ba8f0e"
+      },
+      {
+        "name": "foodsofcanada0000shee_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "foodsofcanada0000shee.pdf",
+        "mtime": "1722357762",
+        "size": "3115689",
+        "md5": "bb085be562904749fa0dec18a765b94d",
+        "crc32": "3e5fe35b",
+        "sha1": "f7a0198dfa4481f72b84e34ca0cf58abad4941af"
+      },
+      {
+        "name": "foodsofcanada0000shee_events.json",
+        "source": "original",
+        "mtime": "1594180253",
+        "size": "64",
+        "md5": "22beaad9e520fbb0efcd85dde4462d69",
+        "crc32": "2466f8b3",
+        "sha1": "154a47614fc06647ac256d19dd319330f1d8f1d3",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "foodsofcanada0000shee_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "16c555b545e2e4f072fa949d1d006838",
+        "summation": "md5"
+      },
+      {
+        "name": "foodsofcanada0000shee_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "foodsofcanada0000shee_chocr.html.gz",
+        "mtime": "1660023942",
+        "size": "1657206",
+        "md5": "b3b45c4b747fb925eef3f947102e9a33",
+        "crc32": "33ce3a91",
+        "sha1": "9befc6a9be5f6b5dfb92a7e8062089aacf0e0e2d",
+        "private": "true"
+      },
+      {
+        "name": "foodsofcanada0000shee_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "foodsofcanada0000shee_hocr.html",
+        "mtime": "1660023971",
+        "size": "823",
+        "md5": "e8c29701954d09ad5054c7d67a0a6766",
+        "crc32": "17495148",
+        "sha1": "0f2469cebb36c312b8e641a03423270fc9a8aafe",
+        "private": "true"
+      },
+      {
+        "name": "foodsofcanada0000shee_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "142",
+        "word_conf_11_20": "35",
+        "word_conf_21_30": "34",
+        "word_conf_31_40": "68",
+        "word_conf_41_50": "42",
+        "word_conf_51_60": "86",
+        "word_conf_61_70": "203",
+        "word_conf_71_80": "854",
+        "word_conf_81_90": "2522",
+        "word_conf_91_100": "5331",
+        "format": "OCR Search Text",
+        "original": "foodsofcanada0000shee_hocr.html",
+        "mtime": "1660023989",
+        "size": "23324",
+        "md5": "ca19f75a69136b42926b10aa6ff02447",
+        "crc32": "a19109e7",
+        "sha1": "c377767584737ff5b020dd7cda51ea935b4e9a13",
+        "private": "true"
+      },
+      {
+        "name": "foodsofcanada0000shee_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "foodsofcanada0000shee_orig_jp2.tar",
+        "mtime": "1594182019",
+        "size": "31424308",
+        "md5": "0832cb0b55e1bd3510541b6b91e3355b",
+        "crc32": "d0b2b928",
+        "sha1": "45f1c0ce1d576072311be2ef24040dd87ea5c714",
+        "private": "true",
+        "filecount": "74"
+      },
+      {
+        "name": "foodsofcanada0000shee_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "foodsofcanada0000shee.epub",
+        "mtime": "1753355307",
+        "size": "10425667",
+        "md5": "1878f57abaf2264bff866380b9bb30bf",
+        "crc32": "f1adc21d",
+        "sha1": "53f16b0951890fbe3a3bfc02a1f8a40ee909e46f"
+      },
+      {
+        "name": "foodsofcanada0000shee_marc.xml",
+        "source": "original",
+        "mtime": "1592637585",
+        "size": "4095",
+        "md5": "22a5a98ca452bddc75e2be79f8ea8842",
+        "crc32": "3e81bd16",
+        "sha1": "3b455be107716a32e652f3ebcc7837b620e8ba9f",
+        "format": "MARC"
+      },
+      {
+        "name": "foodsofcanada0000shee_meta.mrc",
+        "source": "original",
+        "mtime": "1592637578",
+        "size": "1251",
+        "md5": "86d47f83d2a9c47e25d274e9d03e8e0e",
+        "crc32": "b22b54a7",
+        "sha1": "6ad9e07a39d65879418de4063bbe9ee3544da40a",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "foodsofcanada0000shee_meta.sqlite",
+        "source": "original",
+        "mtime": "1594180325",
+        "size": "19456",
+        "md5": "a6c23ee9102310e1cfa1360979c799a6",
+        "crc32": "5471647e",
+        "sha1": "3ca601693f5884ed5d3920257873a11537e44daa",
+        "format": "Metadata"
+      },
+      {
+        "name": "foodsofcanada0000shee_meta.xml",
+        "source": "original",
+        "mtime": "1753355307",
+        "size": "3386",
+        "md5": "36c12cf626fb55c532ca44a9a01aea9f",
+        "crc32": "2799280c",
+        "sha1": "154067f7e434e1b617934182157b09238464f2c9",
+        "format": "Metadata"
+      },
+      {
+        "name": "foodsofcanada0000shee_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1594180324",
+        "size": "96481280",
+        "md5": "578f1d4895f80fd8221e55cea385baad",
+        "crc32": "f1701830",
+        "sha1": "d7bbcfd9fe635c04be51f8a9bf95a6d91a4cb182",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "74"
+      },
+      {
+        "name": "foodsofcanada0000shee_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "63",
+        "format": "Page Numbers JSON",
+        "original": "foodsofcanada0000shee_hocr.html",
+        "mtime": "1722357214",
+        "size": "12367",
+        "md5": "30f4ca8fc563eb3d2f9d2b2f362970d8",
+        "crc32": "b0a14adc",
+        "sha1": "8ce0f506f8f4c68cf6fa486ba30c820e9439e5ad",
+        "private": "true"
+      },
+      {
+        "name": "foodsofcanada0000shee_scandata.xml",
+        "source": "original",
+        "mtime": "1670016353",
+        "size": "76035",
+        "md5": "48915a12d26ad4171329ff8aad65c1c8",
+        "crc32": "e9efd533",
+        "sha1": "d761efd346c5825a8111f54f0f03285d6cf11651",
+        "format": "Scandata"
+      },
+      {
+        "name": "foodsofcanada0000shee_slip.png",
+        "source": "original",
+        "mtime": "1592637251",
+        "size": "37221",
+        "md5": "0eabf87c52bc337467ae271cebfdd6a2",
+        "crc32": "9684f528",
+        "sha1": "9a77652125b46e171018d79fd4b93f6bc720434a",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "foodsofcanada0000shee_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "foodsofcanada0000shee_slip.png",
+        "mtime": "1594180364",
+        "size": "5412",
+        "md5": "63ea20e8ffac8932e1719cbdf2efb7de",
+        "crc32": "e5c5b8dc",
+        "sha1": "b3d9529a479c9396c9aa7210ccc1f51edf573c91",
+        "private": "true"
+      },
+      {
+        "name": "foodsofcanada0000shee_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "foodsofcanada0000shee_djvu.xml",
+        "mtime": "1670016309",
+        "size": "504",
+        "md5": "eb98ff25fa5219ce34027fe432aabd62",
+        "crc32": "8807cfaa",
+        "sha1": "4c7e0fdd87f89dbdaf655bec4e693fa789689c6e",
+        "private": "true"
+      },
+      {
+        "name": "logs/foodsofcanada0000shee_iabdash_2020-06-2015:19:46.log",
+        "source": "original",
+        "mtime": "1592637592",
+        "size": "1337",
+        "md5": "8ae82bed2457867c11b6ea210647f40f",
+        "crc32": "0e4b2c0a",
+        "sha1": "065c81f8a8f56bd812f36756d5b37c781f11be9b",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/foodsofcanada0000shee_scanning_2020-06-2015:20:02.log",
+        "source": "original",
+        "mtime": "1592637606",
+        "size": "250534",
+        "md5": "ef20508a70b39593a7af19d224f8c486",
+        "crc32": "15ca1547",
+        "sha1": "afbb2391d67805c0ba46e20bccc7eb9c5bfec5f1",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/foodsofcanada0000shee_status_history_2020-06-2015:19:54.log",
+        "source": "original",
+        "mtime": "1592637600",
+        "size": "406",
+        "md5": "0bff4e10035ac45e2cbeea5bfd693002",
+        "crc32": "8841070d",
+        "sha1": "2ee4df65f1996a1ff732043be1b13e6da921fa81",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753355307,
+    "item_size": 165067107,
+    "metadata": {
+      "identifier": "foodsofcanada0000shee",
+      "boxid": "IA1859418",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Sheen, Barbara",
+      "date": "2012-01-01",
+      "description": [
+        "64 p. : 24 cm",
+        "Includes bibliographical references (p. 57-58) and index",
+        "Land of plenty -- A diverse nation -- Uniquely Canadian treats -- Festive foods"
+      ],
+      "isbn": [
+        "9780737759471",
+        "073775947X"
+      ],
+      "language": "eng",
+      "lccn": "2011033477",
+      "mediatype": "texts",
+      "old_pallet": "IA18311",
+      "openlibrary_edition": "OL25005353M",
+      "openlibrary_work": "OL16117646W",
+      "operator": "associate-jeneil-colonia@archive.org",
+      "ppi": "300",
+      "publisher": "Detroit [MI] : KidHaven Press",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station40.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780737759471",
+      "subject": [
+        "Cooking, Canadian -- Juvenile literature",
+        "Food -- Canada -- Juvenile literature",
+        "Food habits -- Canada -- Juvenile literature",
+        "Cooking, Canadian",
+        "Food -- Canada",
+        "Food habits -- Canada",
+        "Canada -- Social life and customs -- Juvenile literature",
+        "Canada -- Social life and customs"
+      ],
+      "title": "Foods of Canada",
+      "tts_version": "4.0-initial-155-gbba175a5",
+      "uploader": "station40.cebu@archive.org",
+      "publicdate": "2020-06-20 07:15:33",
+      "access-restricted-item": "true",
+      "imagecount": "74",
+      "scandate": "20200620082819",
+      "republisher_operator": "associate-angeliquefaith-eulalio@archive.org",
+      "republisher_date": "20200708115037",
+      "republisher_time": "178",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/foodsofcanada0000shee",
+      "identifier-ark": "ark:/13960/t3231tv8n",
+      "external-identifier": [
+        "urn:acs6:foodsofcanada0000shee:epub:cd7c5380-ac46-4ac6-a3f7-d06766570e10",
+        "urn:acs6:foodsofcanada0000shee:pdf:fd7fd5bb-793b-4b13-845d-797383ed9863",
+        "urn:oclc:record:1193956498",
+        "urn:lcp:foodsofcanada0000shee:lcpdf:a4b55fc9-c020-4742-9386-9ed581838cb3",
+        "urn:lcp:foodsofcanada0000shee:epub:9498bbd2-8a09-4ba6-861b-f41cdadef229"
+      ],
+      "page_number_confidence": "63",
+      "addeddate": "2020-07-08 05:02:11",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20200731",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801903.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "hamiltonpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780737759471"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-10-29 05:04:07.339559"
+        }
+      }
+    },
+    "uniq": 967701084,
+    "workable_servers": [
+      "ia801903.us.archive.org",
+      "ia601903.us.archive.org"
+    ]
+  },
+  "institution": "Sheen, Barbara",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

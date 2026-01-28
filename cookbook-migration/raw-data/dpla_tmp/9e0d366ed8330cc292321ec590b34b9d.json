@@ -1,0 +1,99 @@
+{
+  "source": "dpla",
+  "id": "9e0d366ed8330cc292321ec590b34b9d",
+  "identifier": "9e0d366ed8330cc292321ec590b34b9d",
+  "title": "\"Our favorites\" souvenir cookbook",
+  "subject": [
+    "Cooking, American",
+    "Cooking",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5s759m24",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1912,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/9e0d366ed8330cc292321ec590b34b9d#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "contributor": [
+        "Women's Christian Temperance Union (Jones, Mich.)"
+      ],
+      "date": [
+        {
+          "begin": "1912",
+          "displayDate": "1912",
+          "end": "1912"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "\"Our favorites\" souvenir cookbook"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1912-01-01",
+      "normalized_dates": [
+        "1912-01-01"
+      ],
+      "date_range": {
+        "begin": "1912-01-01",
+        "end": "1912-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5s759m24/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5s759m24"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

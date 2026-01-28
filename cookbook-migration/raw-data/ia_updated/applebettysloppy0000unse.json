@@ -1,0 +1,531 @@
+{
+  "source": "internet_archive",
+  "identifier": "applebettysloppy0000unse",
+  "title": "Apple Betty & sloppy Joe : stirring up the past with family recipes and stories",
+  "creator": null,
+  "year": 2008,
+  "subject": [
+    "Cooking, American -- Midwestern style",
+    "Cooking -- Wisconsin",
+    "Wisconsin -- Social life and customs",
+    "Oshkosh (Wis.) -- History -- 20th century"
+  ],
+  "description": [
+    "383 p. : 21 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720401.ca.archive.org",
+          "dir": "/0/items/applebettysloppy0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720401.ca.archive.org",
+          "dir": "/0/items/applebettysloppy0000unse"
+        }
+      ]
+    },
+    "created": 1758555437,
+    "d1": "ia601205.us.archive.org",
+    "d2": "ia801205.us.archive.org",
+    "dir": "/4/items/applebettysloppy0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1706183341",
+        "size": "14108",
+        "md5": "21e6f222a72d1a9b6996c58dfa221427",
+        "crc32": "96dc1010",
+        "sha1": "b591e84a67cc8ab9a73b33c206133a2b12343e26",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "applebettysloppy0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "applebettysloppy0000unse_hocr.html",
+        "mtime": "1753017611",
+        "size": "21960681",
+        "private": "true",
+        "md5": "55842f51598ed0ac199eb310691d2d8d",
+        "crc32": "4427e502",
+        "sha1": "28b1f822ff0297e973697bb09475d883989a9d4f"
+      },
+      {
+        "name": "applebettysloppy0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "applebettysloppy0000unse.pdf",
+        "mtime": "1753017234",
+        "size": "14723132",
+        "md5": "4a61dfceed0a677138964b7017a1f4cc",
+        "crc32": "84af3957",
+        "sha1": "24ee6eea49055d2318765f5e3156b2f4d89ae291"
+      },
+      {
+        "name": "applebettysloppy0000unse.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "applebettysloppy0000unse_page_numbers.json",
+        "mtime": "1706183093",
+        "size": "14466338",
+        "md5": "e260f30cff707d5d4a4fad96150c481c",
+        "crc32": "5e864065",
+        "sha1": "c953a0df41b3c38204eded00800a40ac3eb444d2",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "applebettysloppy0000unse_jp2.zip",
+        "mtime": "1706180960",
+        "size": "6015983",
+        "md5": "68056eba916ddfcd0cca5ed50154f12f",
+        "crc32": "79ae57ff",
+        "sha1": "c36c4ef168bfbd86f7a853a7e3763289d6563d4a",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "2.1",
+        "format": "Cloth Cover Detection Log",
+        "original": "applebettysloppy0000unse_scandata.xml",
+        "mtime": "1706183241",
+        "size": "1510",
+        "md5": "e3e4fd3066709e6f50c5e2556f448565",
+        "crc32": "d4f43d5e",
+        "sha1": "97b8b61c6054679e876b004cf6ccdb8ede84a842",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1705457965",
+        "size": "1522",
+        "md5": "58817eafc3f424eeffb48e077ca6899e",
+        "crc32": "b560fda6",
+        "sha1": "e28bac40d75457634531347c3313614aa289b6fa"
+      },
+      {
+        "name": "applebettysloppy0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "applebettysloppy0000unse_djvu.xml",
+        "mtime": "1706183130",
+        "size": "439110",
+        "md5": "dedbb25d3d202cdef7641083179e91a4",
+        "crc32": "fbc37b20",
+        "sha1": "be7a5fddc5865ae6e03026542dd63565569303d9",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "applebettysloppy0000unse_hocr.html",
+        "mtime": "1706181155",
+        "size": "6183691",
+        "md5": "8bf842bb4ed3a10a0b90167aa1339794",
+        "crc32": "33cbcc91",
+        "sha1": "305caaa6f8b662641ca13605f62a64e190c9a0be",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "applebettysloppy0000unse.pdf",
+        "mtime": "1706183153",
+        "size": "14364645",
+        "md5": "39861d8f5d306d69eaa601dc296057cb",
+        "crc32": "b364c0ff",
+        "sha1": "eb296ad2a187c2e966de858ed82d1ccf54c5afe8"
+      },
+      {
+        "name": "applebettysloppy0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "summation": "md5",
+        "md5": "554ab3bef5bca98f6b9dd6a22fee09f3"
+      },
+      {
+        "name": "applebettysloppy0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.2.0",
+        "hocr_char_to_word_hocr_version": "1.1.45",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "applebettysloppy0000unse_chocr.html.gz",
+        "mtime": "1706181023",
+        "size": "11660440",
+        "md5": "73aa9dccf79d1624635c277ad80a9084",
+        "crc32": "47b0002e",
+        "sha1": "fce8fc8c9a9848b5c5a173d5b51b7bfc8508ffdc",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "applebettysloppy0000unse_hocr.html",
+        "mtime": "1706181170",
+        "size": "4705",
+        "md5": "79c7223fe4ff78ac142e13a226f489f5",
+        "crc32": "2c3d3d63",
+        "sha1": "08be5c0459afd83ec09ef51e27dd93625ae26145",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "487",
+        "word_conf_11_20": "320",
+        "word_conf_21_30": "404",
+        "word_conf_31_40": "519",
+        "word_conf_41_50": "551",
+        "word_conf_51_60": "646",
+        "word_conf_61_70": "804",
+        "word_conf_71_80": "1262",
+        "word_conf_81_90": "2802",
+        "word_conf_91_100": "66458",
+        "format": "OCR Search Text",
+        "original": "applebettysloppy0000unse_hocr.html",
+        "mtime": "1706181191",
+        "size": "158770",
+        "md5": "dd10807e049c4cb91bd91d25fb268542",
+        "crc32": "dba2168b",
+        "sha1": "e3fbb34fbd8fb45bf309beeba992129120ef84e5",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "applebettysloppy0000unse_orig_jp2.tar",
+        "mtime": "1706178569",
+        "size": "126340986",
+        "md5": "2f2b8e3cebd190eb3ba8326323bc5c8c",
+        "crc32": "62af06a7",
+        "sha1": "5394c009f64569a25c05728bc1a012b5e929a3ca",
+        "filecount": "398",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "applebettysloppy0000unse.epub",
+        "mtime": "1753017922",
+        "size": "22267574",
+        "md5": "14556bc6c85524e956adcee8f3746f09",
+        "crc32": "029d3bec",
+        "sha1": "8019d9903e79feee6daebd66bf759135e539c8b6"
+      },
+      {
+        "name": "applebettysloppy0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1705457830",
+        "size": "3969",
+        "md5": "796f4ef477b82911edf11fba748a11c9",
+        "crc32": "d78933ca",
+        "sha1": "c3cd8d56ee619bc57c1b84a343db687236f08cef",
+        "format": "MARC"
+      },
+      {
+        "name": "applebettysloppy0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1705457827",
+        "size": "1328",
+        "md5": "dc154b8ef1e5e0c5b51656d29cf14d3f",
+        "crc32": "5fd2a70d",
+        "sha1": "4f9eecb9cb95dc1637672dbcd5e35523aaa86d58",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "applebettysloppy0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1706171672",
+        "size": "45056",
+        "md5": "90a39bdda871601766b7f9751b24f4df",
+        "crc32": "d70858a9",
+        "sha1": "1be2dc7ee8bc3cfc566a9b0b2d64b1da7c5af4fd",
+        "format": "Metadata"
+      },
+      {
+        "name": "applebettysloppy0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753017923",
+        "size": "3398",
+        "md5": "889918c2974c2967c9333895c8f59f05",
+        "crc32": "18219394",
+        "sha1": "0ebbf43e7057fe8a7fe13bc65fb668e4b8243e3e",
+        "format": "Metadata"
+      },
+      {
+        "name": "applebettysloppy0000unse_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "original": "applebettysloppy0000unse_preimage.zip",
+        "mtime": "1706171671",
+        "size": "279060480",
+        "md5": "e6f2813c6472fd07bb500b5b12fdf3c0",
+        "crc32": "1e90ffe2",
+        "sha1": "f27716dc2b84b73ab4e8cb5f22c373446e9743a0",
+        "filecount": "398",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.3",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "applebettysloppy0000unse_hocr.html",
+        "mtime": "1706181239",
+        "size": "67030",
+        "md5": "e33aeab73187489df00e9ade74409aa2",
+        "crc32": "2bb2256a",
+        "sha1": "00c3e7bc2aaa5b5b0809b1a43e984178782e06b3",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_repub_final.log",
+        "source": "derivative",
+        "republisher_deriver_version": "0.0.17",
+        "confidence_accurate": "False",
+        "crops_accurate": "False",
+        "initial_crop_confidence": "100",
+        "format": "RePublisher Final Processing Log",
+        "original": "applebettysloppy0000unse_scandata.xml",
+        "mtime": "1706183300",
+        "size": "110201",
+        "md5": "a871e69d140b15e3fb0794518456cac0",
+        "crc32": "884570c3",
+        "sha1": "57b74ab3f07126182a1f7ae4ae500dca4bfe5c97",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_repub_initial.log",
+        "source": "derivative",
+        "republisher_deriver_version": "0.0.17",
+        "format": "RePublisher Initial Processing Log",
+        "original": "applebettysloppy0000unse_preimage.zip",
+        "mtime": "1705461701",
+        "size": "27",
+        "md5": "08ec62964ef5fd9ce32e032e552b9d58",
+        "crc32": "2960f426",
+        "sha1": "40d9163175b1d24f4b2d6c4c44067eb0bf6af787",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "original": "applebettysloppy0000unse_preimage.zip",
+        "mtime": "1706183240",
+        "size": "423383",
+        "crc32": "84bba847",
+        "sha1": "7a9d2e65b15d0d9f9353568c61bd5f53446edd75",
+        "md5": "04709c8e81fe212f46550e910e3902de"
+      },
+      {
+        "name": "applebettysloppy0000unse_slip.png",
+        "source": "original",
+        "mtime": "1705456885",
+        "size": "41519",
+        "md5": "165352371c8cde31bddaf2a3732f48e8",
+        "crc32": "44d132aa",
+        "sha1": "55557a36ef79792a203b9619e6f9b47b7f61fc21",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "applebettysloppy0000unse_slip.png",
+        "mtime": "1705457967",
+        "size": "8040",
+        "md5": "71b01529dd4a30a801a31fbdf27ca447",
+        "crc32": "eda833af",
+        "sha1": "2c3c52eac7466913305d50a9b9c6c3805d1dd623",
+        "private": "true"
+      },
+      {
+        "name": "applebettysloppy0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "applebettysloppy0000unse_djvu.xml",
+        "mtime": "1706183128",
+        "size": "809",
+        "md5": "da184a289327c9d10f5051c7456088d8",
+        "crc32": "c1b26a78",
+        "sha1": "e545d2e5eac5b4d9b321d3da2109a2d79d31f93d",
+        "private": "true"
+      },
+      {
+        "name": "logs/applebettysloppy0000unse_iabdash_2024-01-1710:17:15.log",
+        "source": "original",
+        "mtime": "1705457839",
+        "size": "2031",
+        "md5": "68e84d4fec89788a442444ba14c3c137",
+        "crc32": "7ff22e13",
+        "sha1": "2e933b431fdfa4639990c59b445508362356875a",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/applebettysloppy0000unse_scanning_2024-01-1710:17:11.log",
+        "source": "original",
+        "mtime": "1705457834",
+        "size": "1665897",
+        "md5": "815d1e5e01f3939d8ae2bc68f2bf30ea",
+        "crc32": "f4dafdf8",
+        "sha1": "50ef1302154237432b75f4eea6789a20f6268a2b",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/applebettysloppy0000unse_status_history_2024-01-1710:17:20.log",
+        "source": "original",
+        "mtime": "1705457842",
+        "size": "557",
+        "md5": "a305eacfe11578bee25817888d40f5ee",
+        "crc32": "ba780df0",
+        "sha1": "bc6f69e485f5f15961296696451bba986487346c",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753017923,
+    "item_size": 520036920,
+    "metadata": {
+      "identifier": "applebettysloppy0000unse",
+      "associated-names": "Sanvidge, Susan",
+      "boxid": "IA41208114",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "col_number": "COL-2833",
+      "contributor": "Internet Archive",
+      "date": "2008-01-01",
+      "description": [
+        "383 p. : 21 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "9780870203862",
+        "087020386X"
+      ],
+      "language": "eng",
+      "lccn": "2007026320",
+      "mediatype": "texts",
+      "oclc-id": [
+        "145942702",
+        "154689875"
+      ],
+      "old_pallet": "IA-OL-0000115",
+      "openlibrary_edition": "OL11062328M",
+      "openlibrary_work": "OL16469359W",
+      "operator": "associate-larajean-nudnud@archive.org",
+      "page-progression": "lr",
+      "publisher": "Madison, WI : Wisconsin Historical Society Press",
+      "rcs_key": "26737",
+      "repub_state": "19",
+      "scandate": "20240117032140",
+      "scanner": "station16.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "bwb",
+      "scribe3_search_id": "T3-BJC-333",
+      "subject": [
+        "Cooking, American -- Midwestern style",
+        "Cooking -- Wisconsin",
+        "Wisconsin -- Social life and customs",
+        "Oshkosh (Wis.) -- History -- 20th century"
+      ],
+      "title": "Apple Betty & sloppy Joe : stirring up the past with family recipes and stories ",
+      "tts_version": "6.5-initial-117-g859c1211",
+      "uploader": "station16.cebu@archive.org",
+      "publicdate": "2024-01-17 02:02:28",
+      "access-restricted-item": "true",
+      "identifier-access": "http://archive.org/details/applebettysloppy0000unse",
+      "identifier-ark": "ark:/13960/s2xnv80dfj5",
+      "imagecount": "398",
+      "autocrop_version": "0.0.17_books-serials-20230720-0.3",
+      "ppi": "360",
+      "republisher_operator": "associate-louiseviktoria-saligumba@archive.org",
+      "republisher_date": "20240125163225",
+      "republisher_time": "422",
+      "foldoutcount": "0",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "external-identifier": [
+        "urn:lcp:applebettysloppy0000unse:epub:f178d7fc-cdcc-438b-ad24-fbe41579c8b7",
+        "urn:acs6:applebettysloppy0000unse:pdf:31ffb2c7-06ba-4d05-a956-3bcaf6a4c936",
+        "urn:lcp:applebettysloppy0000unse:lcpdf:7dc9810c-e2f4-4f8d-8a3d-bff35017de74",
+        "urn:oclc:record:1424782252"
+      ],
+      "page_number_confidence": "100",
+      "page_number_module_version": "1.0.3",
+      "pdf_module_version": "0.0.23",
+      "addeddate": "2024-02-23 11:52:08",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia801205.us.archive.org",
+    "uniq": 1799075536,
+    "workable_servers": [
+      "ia801205.us.archive.org",
+      "ia601205.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Wisconsin",
+    "city": "Madison"
+  },
+  "curation": {
+    "score": 8,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Historical Society"
+    ]
+  },
+  "curation_notes": "State match: Wisconsin; Community markers: Historical Society; Digitized scan available"
+}

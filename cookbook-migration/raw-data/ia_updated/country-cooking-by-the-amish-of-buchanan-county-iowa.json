@@ -1,0 +1,280 @@
+{
+  "source": "internet_archive",
+  "identifier": "country-cooking-by-the-amish-of-buchanan-county-iowa",
+  "title": "Country Cooking by the Amish of Buchanan County Iowa",
+  "creator": "Ada Miller",
+  "year": 1978,
+  "subject": [
+    "amish",
+    "cooking",
+    "cook book",
+    "iowa",
+    "buchanan"
+  ],
+  "description": "County Cooking an Amish cook book from the community in Bachanan County Iowa.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn710201.ca.archive.org",
+          "dir": "/0/items/country-cooking-by-the-amish-of-buchanan-county-iowa"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn710201.ca.archive.org",
+          "dir": "/0/items/country-cooking-by-the-amish-of-buchanan-county-iowa"
+        }
+      ]
+    },
+    "created": 1758556925,
+    "d1": "ia601804.us.archive.org",
+    "d2": "ia801804.us.archive.org",
+    "dir": "/9/items/country-cooking-by-the-amish-of-buchanan-county-iowa",
+    "files": [
+      {
+        "name": "Country Cooking by the Amish of Buchanan County Iowa_cropped.pdf",
+        "source": "original",
+        "mtime": "1617153872",
+        "size": "48821575",
+        "md5": "74a67a4837150a9eec51949a29423a59",
+        "crc32": "21952fe9",
+        "sha1": "e81399f08b34a3685bfd18acdb00d25ed5109dbc",
+        "format": "Text PDF"
+      },
+      {
+        "name": "Country Cooking by the Amish of Buchanan County Iowa_cropped_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.12",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9640",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Country Cooking by the Amish of Buchanan County Iowa_cropped_jp2.zip",
+        "mtime": "1617157042",
+        "size": "4689338",
+        "md5": "8e4428ac3b71a387202eb1dcc9bf29dc",
+        "crc32": "114dca7a",
+        "sha1": "a37cde77aaaf9fae98990c46443ca719255f576d"
+      },
+      {
+        "name": "Country Cooking by the Amish of Buchanan County Iowa_cropped_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Country Cooking by the Amish of Buchanan County Iowa_cropped_djvu.xml",
+        "mtime": "1617157153",
+        "size": "337375",
+        "md5": "c8848182df132989b7959ab77cfd8cba",
+        "crc32": "fd32347f",
+        "sha1": "d25636503ed4e88044bca4a5a898cdf0bb1ffeb1"
+      },
+      {
+        "name": "Country Cooking by the Amish of Buchanan County Iowa_cropped_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Country Cooking by the Amish of Buchanan County Iowa_cropped_hocr.html",
+        "mtime": "1617157109",
+        "size": "5048820",
+        "md5": "4fe5d16f05370e0e28e2698d4fb55587",
+        "crc32": "5b55942c",
+        "sha1": "1b452e2fe7c551bad411a1c14d45c87dcfe3e5a3"
+      },
+      {
+        "name": "Country Cooking by the Amish of Buchanan County Iowa_cropped_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.12",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9640",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Country Cooking by the Amish of Buchanan County Iowa_cropped_chocr.html.gz",
+        "mtime": "1617157082",
+        "size": "9601537",
+        "md5": "82b4aeb3979bc5f51883f95420901506",
+        "crc32": "6fda2a25",
+        "sha1": "ef92d4e18b77deabee43b4241e3652e3bd7d8853"
+      },
+      {
+        "name": "Country Cooking by the Amish of Buchanan County Iowa_cropped_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "Country Cooking by the Amish of Buchanan County Iowa_cropped_hocr.html",
+        "mtime": "1617157124",
+        "size": "2356",
+        "md5": "c8e7816aea41934566b82c7a9d98ca41",
+        "crc32": "564b59c0",
+        "sha1": "4d10e094bb7140d33e337107be0e7737165a7fa7"
+      },
+      {
+        "name": "Country Cooking by the Amish of Buchanan County Iowa_cropped_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.0.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "1215",
+        "word_conf_11_20": "702",
+        "word_conf_21_30": "665",
+        "word_conf_31_40": "574",
+        "word_conf_41_50": "591",
+        "word_conf_51_60": "693",
+        "word_conf_61_70": "930",
+        "word_conf_71_80": "1365",
+        "word_conf_81_90": "2857",
+        "word_conf_91_100": "52759",
+        "format": "OCR Search Text",
+        "original": "Country Cooking by the Amish of Buchanan County Iowa_cropped_hocr.html",
+        "mtime": "1617157142",
+        "size": "113749",
+        "md5": "07a094c4f8b236145b7435b0f1e271fe",
+        "crc32": "97f30198",
+        "sha1": "156ae561fa31dc85b23900c4c4d9cb4d6d91077e"
+      },
+      {
+        "name": "Country Cooking by the Amish of Buchanan County Iowa_cropped_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Country Cooking by the Amish of Buchanan County Iowa_cropped.pdf",
+        "mtime": "1617155194",
+        "size": "43704964",
+        "md5": "cc08316ac94be8f99a0ff32d7d17343a",
+        "crc32": "6dc2316b",
+        "sha1": "07cd5d138be3f5e42812b67c35d06567b3992f33"
+      },
+      {
+        "name": "Country Cooking by the Amish of Buchanan County Iowa_cropped_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "Country Cooking by the Amish of Buchanan County Iowa_cropped_djvu.xml",
+        "mtime": "1617157368",
+        "size": "38908",
+        "md5": "f3cd0786a8e2a1191e7534f879d7151f",
+        "crc32": "8a157fbd",
+        "sha1": "14e2eda0625c74a94e4e910e73d4542edc25ffa0"
+      },
+      {
+        "name": "Country Cooking by the Amish of Buchanan County Iowa_cropped_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Country Cooking by the Amish of Buchanan County Iowa_cropped_djvu.xml",
+        "mtime": "1617157368",
+        "size": "67151",
+        "md5": "fe16c5293cbe02a3eee37650b0a9cc44",
+        "crc32": "2a85f750",
+        "sha1": "dd2b75ca453dabceb22c216c9fc8327f948a0319"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1617157381",
+        "size": "18220",
+        "md5": "dd5fb01b37983ee4a9f27816d10e1f4e",
+        "crc32": "e5cea06d",
+        "sha1": "9ac993605e275ecfbff35b6a7e64997d7823a2e5",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "country-cooking-by-the-amish-of-buchanan-county-iowa_archive.torrent",
+        "source": "metadata",
+        "btih": "4dd2f98bc34efae124befa7404b73334d3ef13a7",
+        "mtime": "1617157385",
+        "size": "8544",
+        "md5": "cef8f450801af6459aa095176b6de054",
+        "crc32": "d5ca2625",
+        "sha1": "67b34be1e036571c20a99729e8b5046ad99cae98",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "country-cooking-by-the-amish-of-buchanan-county-iowa_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "7154e04d0148d8a4f60a58a8878d9890",
+        "summation": "md5"
+      },
+      {
+        "name": "country-cooking-by-the-amish-of-buchanan-county-iowa_meta.sqlite",
+        "source": "original",
+        "mtime": "1617153929",
+        "size": "12288",
+        "md5": "9578cad90d650fd56fea6df1c9c3151e",
+        "crc32": "e39f26a8",
+        "sha1": "c302d9292c9eed6a395e773bce0b8e6dad0f5889",
+        "format": "Metadata"
+      },
+      {
+        "name": "country-cooking-by-the-amish-of-buchanan-county-iowa_meta.xml",
+        "source": "original",
+        "mtime": "1617157368",
+        "size": "1576",
+        "md5": "47658dd993cf3bc3ab8838c9e76d5046",
+        "crc32": "09146c99",
+        "sha1": "7b56c3c94f69ec99808490a5bafad4344d793ae8",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1617157385,
+    "item_size": 112466401,
+    "metadata": {
+      "identifier": "country-cooking-by-the-amish-of-buchanan-county-iowa",
+      "mediatype": "texts",
+      "collection": [
+        "opensource",
+        "community"
+      ],
+      "creator": "Ada Miller",
+      "date": "1978-01-01",
+      "description": "County Cooking an Amish cook book from the community in Bachanan County Iowa.",
+      "language": "eng",
+      "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+      "subject": [
+        "amish",
+        "cooking",
+        "cook book",
+        "iowa",
+        "buchanan"
+      ],
+      "title": "Country Cooking by the Amish of Buchanan County Iowa",
+      "uploader": "user@ae9ss.net",
+      "publicdate": "2021-03-31 01:25:11",
+      "addeddate": "2021-03-31 01:25:11",
+      "curation": "[curator]validator@archive.org[/curator][date]20210331012620[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/country-cooking-by-the-amish-of-buchanan-county-iowa",
+      "identifier-ark": "ark:/13960/t9096qw9b",
+      "ppi": "300",
+      "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.12",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9640",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "56.12"
+    },
+    "server": "ia601804.us.archive.org",
+    "uniq": 1035720034,
+    "workable_servers": [
+      "ia601804.us.archive.org",
+      "ia801804.us.archive.org"
+    ]
+  },
+  "institution": "Ada Miller",
+  "pdf_url": "https://archive.org/download/country-cooking-by-the-amish-of-buchanan-county-iowa/Country Cooking by the Amish of Buchanan County Iowa_cropped.pdf",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

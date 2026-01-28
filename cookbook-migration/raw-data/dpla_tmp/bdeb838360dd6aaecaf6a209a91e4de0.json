@@ -1,0 +1,91 @@
+{
+  "source": "dpla",
+  "id": "bdeb838360dd6aaecaf6a209a91e4de0",
+  "identifier": "bdeb838360dd6aaecaf6a209a91e4de0",
+  "title": "Sweets and Meats and Good Things To Eat",
+  "subject": [],
+  "spatial": [
+    "Crockett, Houston County, Texas"
+  ],
+  "description": "A cookbook of recipes compiled by the Woman's Missionary Society from the Methodist Church in Crockett, Texas.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/147",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "year": 1920,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/bdeb838360dd6aaecaf6a209a91e4de0#SourceResource",
+      "collection": [
+        {
+          "title": "DeGolyer Library Cookbook Collection"
+        }
+      ],
+      "creator": [
+        "Methodist Church (Crockett, Tex.). Woman's Missionary Society"
+      ],
+      "date": [
+        {
+          "displayDate": "ca. 1920s"
+        }
+      ],
+      "description": [
+        "A cookbook of recipes compiled by the Woman's Missionary Society from the Methodist Church in Crockett, Texas."
+      ],
+      "identifier": [
+        "TX715 .S942 1920z"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "DeGolyer Library"
+      ],
+      "rights": [
+        "Please cite DeGolyer Library, Southern Methodist University as the source of this file. A high-resolution version of this file may be obtained for a fee. For details, see the https://www.smu.edu/libraries/degolyer/using/images web page. For more information, contact degolyer@smu.edu."
+      ],
+      "spatial": [
+        {
+          "name": "Crockett, Houston County, Texas"
+        }
+      ],
+      "title": [
+        "Sweets and Meats and Good Things To Eat"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1920-01-01",
+      "normalized_dates": [
+        "1920-01-01"
+      ]
+    }
+  },
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/147",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/147"
+  },
+  "location": {
+    "state": "Wi",
+    "county": "Houston County"
+  },
+  "curation": {
+    "score": 9,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Methodist"
+    ]
+  },
+  "curation_notes": "County match: Houston County; Community markers: Church, Methodist; Digitized scan available"
+}

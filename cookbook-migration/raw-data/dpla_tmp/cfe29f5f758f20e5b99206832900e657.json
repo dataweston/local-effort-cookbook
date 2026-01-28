@@ -1,0 +1,101 @@
+{
+  "source": "dpla",
+  "id": "cfe29f5f758f20e5b99206832900e657",
+  "identifier": "cfe29f5f758f20e5b99206832900e657",
+  "title": "The college woman's cook book",
+  "subject": [
+    "Cookery--Illinois",
+    "Cookery, American"
+  ],
+  "spatial": [
+    "Illinois"
+  ],
+  "description": "Includes index.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/008718945",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1923,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/cfe29f5f758f20e5b99206832900e657#SourceResource",
+      "contributor": [
+        "College Woman's Cook Book Association (Evanston, Ill.)"
+      ],
+      "date": [
+        {
+          "displayDate": "c1923"
+        }
+      ],
+      "description": [
+        "Includes index."
+      ],
+      "extent": [
+        "96 p. ; 21 x 12 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-uiuc5355953",
+        "(OCoLC)14988933",
+        "Hathi: 008718945"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Evanston, Il. : College Woman's Cook Book Assoc."
+      ],
+      "relation": [
+        "Original. (IU)30112044105374"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cookery--Illinois"
+        },
+        {
+          "name": "Cookery, American"
+        }
+      ],
+      "title": [
+        "The college woman's cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1923-01-01",
+      "normalized_dates": [
+        "1923-01-01"
+      ]
+    }
+  },
+  "data": {
+    "isShownAt": "http://catalog.hathitrust.org/Record/008718945"
+  },
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

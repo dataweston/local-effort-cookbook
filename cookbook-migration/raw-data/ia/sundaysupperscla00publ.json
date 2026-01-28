@@ -1,0 +1,502 @@
+{
+  "source": "internet_archive",
+  "identifier": "sundaysupperscla00publ",
+  "title": "Sunday suppers : classic recipes",
+  "creator": "Publications International, Ltd",
+  "year": 2001,
+  "subject": [
+    "Suppers",
+    "Cooking, American"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/sundaysupperscla00publ"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/sundaysupperscla00publ"
+        }
+      ]
+    },
+    "created": 1758559411,
+    "d1": "ia601305.us.archive.org",
+    "d2": "ia801305.us.archive.org",
+    "dir": "/18/items/sundaysupperscla00publ",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661135306",
+        "size": "15000",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "8075a048f65a27b518d0de969ead0525",
+        "crc32": "6d61d180",
+        "sha1": "62c7ab8d998fd8298fdba8afa6065293d364863e"
+      },
+      {
+        "name": "sundaysupperscla00publ.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "sundaysupperscla00publ_hocr.html",
+        "mtime": "1754091006",
+        "size": "21478807",
+        "private": "true",
+        "md5": "1337d49880454e9186458fd0d1d267c5",
+        "crc32": "0df92ce9",
+        "sha1": "bdc512d7f60e4a76056fcdca2b605ab26730bbac"
+      },
+      {
+        "name": "sundaysupperscla00publ.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "sundaysupperscla00publ_jp2.zip",
+        "mtime": "1304659993",
+        "size": "228384",
+        "md5": "e40807652a18a007ba4aafa23fb4b1fb",
+        "crc32": "79999ad7",
+        "sha1": "0c4c1a4ef7a2fb5cfe6075000ccc82dc609959ec"
+      },
+      {
+        "name": "sundaysupperscla00publ.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "sundaysupperscla00publ.pdf",
+        "mtime": "1754090932",
+        "size": "7189856",
+        "md5": "d50ab44d8d5e7d3de531bd50064126ca",
+        "crc32": "f0f597bc",
+        "sha1": "34fdc7820ce6fdcd1eb898da3425f0ace0bff73f"
+      },
+      {
+        "name": "sundaysupperscla00publ.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "sundaysupperscla00publ_page_numbers.json",
+        "mtime": "1724670796",
+        "size": "6899682",
+        "md5": "47c0bf433867b2080dbd4a3fe638b225",
+        "crc32": "e3a0f9cc",
+        "sha1": "287e998cc82691d70ae3634c8fa4720ad8ba00ca",
+        "private": "true"
+      },
+      {
+        "name": "sundaysupperscla00publ_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "sundaysupperscla00publ_jp2.zip",
+        "mtime": "1304690451",
+        "size": "1343715",
+        "md5": "c3d920d6a3fbf751ccbd328b20698c84",
+        "crc32": "95151b6e",
+        "sha1": "d2a50ccd6a9f83bb1d0b1775a2511738282be10a",
+        "private": "true"
+      },
+      {
+        "name": "sundaysupperscla00publ_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "sundaysupperscla00publ_abbyy.gz",
+        "mtime": "1661135211",
+        "size": "1083107",
+        "md5": "72fe9cf2e0e0f9750acac8d6fe37c295",
+        "crc32": "fd672838",
+        "sha1": "6cb78b23f022e2633976d4e9459ae210a35e8029",
+        "private": "true"
+      },
+      {
+        "name": "sundaysupperscla00publ_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "sundaysupperscla00publ_scandata.xml",
+        "mtime": "1666789128",
+        "size": "780",
+        "md5": "187e464debd692b851de53a3ab672549",
+        "crc32": "02fec248",
+        "sha1": "cdc9283908d45ebd7f2fec0c49c6bdbd17502041",
+        "private": "true"
+      },
+      {
+        "name": "sundaysupperscla00publ_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1286302257",
+        "size": "652",
+        "md5": "92a902589b20923f62bb49fe483f251b",
+        "crc32": "f5105b2f",
+        "sha1": "2998c47233a318959e346bd8554e32bca9d105d3"
+      },
+      {
+        "name": "sundaysupperscla00publ_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "sundaysupperscla00publ_djvu.xml",
+        "mtime": "1666789139",
+        "size": "99327",
+        "md5": "d05431fd0d0dac8a56de051678b37519",
+        "crc32": "8d317855",
+        "sha1": "031bb8f60ce92684afb885c967d56f10e4858d29",
+        "private": "true"
+      },
+      {
+        "name": "sundaysupperscla00publ_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "sundaysupperscla00publ_hocr.html",
+        "mtime": "1666789109",
+        "size": "1206430",
+        "md5": "28d0d033e96af719ef4ce008d50de5a9",
+        "crc32": "67ba897e",
+        "sha1": "de3215707c437446eec25b68db4e45b1e77b65fd",
+        "private": "true"
+      },
+      {
+        "name": "sundaysupperscla00publ_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "sundaysupperscla00publ.pdf",
+        "mtime": "1724671045",
+        "size": "6870469",
+        "md5": "0389ce3378d1bf7ff0c80dd5a664025f",
+        "crc32": "fa68d04f",
+        "sha1": "be091bfdd90a5b8a56d41a3f2a116b6aa39ad890"
+      },
+      {
+        "name": "sundaysupperscla00publ_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "54d9c44b0682dce58854733a46eb17fc",
+        "summation": "md5"
+      },
+      {
+        "name": "sundaysupperscla00publ_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "sundaysupperscla00publ_chocr.html.gz",
+        "mtime": "1661135259",
+        "size": "2315747",
+        "md5": "a1efeb901a0944ab4b62e6c6b0d03333",
+        "crc32": "c744f7c3",
+        "sha1": "d037a5c5ad7f124955d688c07360b39af6ec525a",
+        "private": "true"
+      },
+      {
+        "name": "sundaysupperscla00publ_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "sundaysupperscla00publ_hocr.html",
+        "mtime": "1661135278",
+        "size": "1315",
+        "md5": "c3099d4f965b53a5807d6c1e5f7bb026",
+        "crc32": "a380b9fd",
+        "sha1": "abba030530fc3c319d29b4d308512e33b328fef1",
+        "private": "true"
+      },
+      {
+        "name": "sundaysupperscla00publ_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1729",
+        "word_conf_11_20": "1502",
+        "word_conf_21_30": "2221",
+        "word_conf_31_40": "1708",
+        "word_conf_41_50": "2057",
+        "word_conf_51_60": "1805",
+        "word_conf_61_70": "1418",
+        "word_conf_71_80": "739",
+        "word_conf_81_90": "225",
+        "word_conf_91_100": "476",
+        "format": "OCR Search Text",
+        "original": "sundaysupperscla00publ_hocr.html",
+        "mtime": "1661135294",
+        "size": "30225",
+        "md5": "d60bee5dc57f967ec6ac27fb1312ffd0",
+        "crc32": "7b625404",
+        "sha1": "0e1f17740ee2c413e05d3e90b20c4bb142067243",
+        "private": "true"
+      },
+      {
+        "name": "sundaysupperscla00publ_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "sundaysupperscla00publ_orig_jp2.tar",
+        "mtime": "1304659944",
+        "size": "38415306",
+        "md5": "befa62a8c4f312f9f524f6155a1b3f18",
+        "crc32": "43ae6785",
+        "sha1": "8046edc5778d2ff0f00a6ceee3cddbb8b8caa67f",
+        "private": "true",
+        "filecount": "120"
+      },
+      {
+        "name": "sundaysupperscla00publ_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "sundaysupperscla00publ.epub",
+        "mtime": "1754091102",
+        "size": "21522966",
+        "md5": "fd2d5056031fe1097a851a4182f7b4fd",
+        "crc32": "a863d48e",
+        "sha1": "e7d31573f6e419dd229707e2b1d4acdd14e3c384"
+      },
+      {
+        "name": "sundaysupperscla00publ_loans.json",
+        "source": "original",
+        "mtime": "1594516586",
+        "size": "4835",
+        "format": "JSON",
+        "private": "true",
+        "md5": "b454a12f435621f9fcef57dca5fa4b19",
+        "crc32": "d10978af",
+        "sha1": "bb4b8d21e5f420809ab0a2145fcb0addfd559241"
+      },
+      {
+        "name": "sundaysupperscla00publ_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1286302257",
+        "size": "3234",
+        "md5": "8279f936ca7d19b40b4dcac2b5147c63",
+        "crc32": "1486a75",
+        "sha1": "6cc6c6e3a54c15cbc2ad731deb31dbed22d20457"
+      },
+      {
+        "name": "sundaysupperscla00publ_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "sundaysupperscla00publ_xisbn.json",
+        "mtime": "1454764844",
+        "size": "313",
+        "md5": "d9287334fa4f06decfc3edaab3b9308b",
+        "crc32": "b6f53357",
+        "sha1": "027f6630b6bea4025bc1005eb1c0218abc7bdf18",
+        "private": "true"
+      },
+      {
+        "name": "sundaysupperscla00publ_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1286302257",
+        "size": "933",
+        "md5": "fa50b2a5f9d98ce9bd7c01cb1a174eab",
+        "crc32": "1f00c152",
+        "sha1": "193dabdaab405572561f41793a5f5cab13e4ccc8"
+      },
+      {
+        "name": "sundaysupperscla00publ_meta.sqlite",
+        "source": "original",
+        "mtime": "1467049429",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "e7e27a40dad1f7760c2a1c5676bf716c",
+        "crc32": "eef2930e",
+        "sha1": "25df347348e00766d1dac00c030697494c1b8e49"
+      },
+      {
+        "name": "sundaysupperscla00publ_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1754091103",
+        "size": "3139",
+        "md5": "bdca783947b7d28b5dd99df089b0759b",
+        "crc32": "9b3d3a69",
+        "sha1": "146e2f430b3675598343277503bc76b00021f0d2"
+      },
+      {
+        "name": "sundaysupperscla00publ_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1286302257",
+        "size": "457",
+        "md5": "a48651d180307a01bb2eeac8ffda1777",
+        "crc32": "22fada7a",
+        "sha1": "476db23f837cdcf0937c878bc9cdc74612404939"
+      },
+      {
+        "name": "sundaysupperscla00publ_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1304647577",
+        "size": "103444480",
+        "md5": "bca9e774014850ba5c1a805d2ea21466",
+        "crc32": "b0069d5e",
+        "sha1": "88e75a62f31d766da4583c347e85eae60f8b4d74",
+        "private": "true",
+        "filecount": "120"
+      },
+      {
+        "name": "sundaysupperscla00publ_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "97",
+        "format": "Page Numbers JSON",
+        "original": "sundaysupperscla00publ_hocr.html",
+        "mtime": "1724670796",
+        "size": "19407",
+        "md5": "af0d727ffdf6be575d923b05392eb308",
+        "crc32": "92dc5da5",
+        "sha1": "f0038fdb1c900ecb8f4eed5f19eb35f633d1d642",
+        "private": "true"
+      },
+      {
+        "name": "sundaysupperscla00publ_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1666789127",
+        "size": "120118",
+        "md5": "9013992291868b5eb43078d03b332354",
+        "crc32": "05503b48",
+        "sha1": "3153c118dbcb7dc1d1c7c2f11f4dc7c351d3162c"
+      },
+      {
+        "name": "sundaysupperscla00publ_xisbn.json",
+        "source": "original",
+        "mtime": "1454764127",
+        "size": "304",
+        "md5": "0f3e5ca4648b0599a19a94877b50f681",
+        "crc32": "961f1434",
+        "sha1": "6e49a36bc68cc03459f418050ac4f56698a740f0",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1754091103,
+    "item_size": 212305132,
+    "metadata": {
+      "title": "Sunday suppers : classic recipes",
+      "creator": "Publications International, Ltd",
+      "subject": [
+        "Suppers",
+        "Cooking, American"
+      ],
+      "description": "Includes index",
+      "publisher": "Lincolnwood, IL : Publications International",
+      "date": "2001-01-01",
+      "language": "eng",
+      "isbn": [
+        "0785351655",
+        "9780785351658"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA130324",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sanfrancisco",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-10-05 18:10:57",
+      "updater": "Phillip.L",
+      "identifier": "sundaysupperscla00publ",
+      "uploader": "philip.l@archive.org",
+      "addeddate": "2010-10-05 18:11:00",
+      "publicdate": "2010-10-05 18:11:07",
+      "scanner": "scribe7.sanfrancisco.archive.org",
+      "repub_seconds": "15095",
+      "ppi": "300",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-yvonne-wang@archive.org",
+      "scandate": "20110506020610",
+      "imagecount": "118",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/sundaysupperscla00publ",
+      "identifier-ark": "ark:/13960/t9960dk6m",
+      "curation": "[curator]venus@archive.org[/curator][date]20111004134123[/date][state]approved[/state]",
+      "comment": "Removing Scanfee from Billable Books scanned before June 2011 which appear to have manually set scanfees",
+      "scanfee": "125",
+      "sponsordate": "20110930",
+      "donor": "alibris",
+      "external-identifier": [
+        "urn:acs6:sundaysupperscla00publ:pdf:4f71fbd0-40cf-452a-a157-42ab03f86d1f",
+        "urn:acs6:sundaysupperscla00publ:epub:56d6ad40-4b7a-428a-9eea-de28dce9d10f",
+        "urn:oclc:record:1036952903",
+        "urn:lcp:sundaysupperscla00publ:lcpdf:14fdf881-a0be-4b30-ac7f-7d56f2c68242",
+        "urn:lcp:sundaysupperscla00publ:epub:9668059e-ec4d-4abf-a143-bd81f1789327"
+      ],
+      "city": "Lincolnwood, IL",
+      "oclc-id": "49031893",
+      "lccn": "00109777",
+      "backup_location": "ia903606_23",
+      "openlibrary_edition": "OL11035297M",
+      "openlibrary_work": "OL16026968W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Sat Dec 26 9:42:58 UTC 2020",
+        "Wed Apr 3 14:34:16 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "97",
+      "pdf_module_version": "0.0.20",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801305.us.archive.org",
+    "uniq": 1456142473,
+    "workable_servers": [
+      "ia801305.us.archive.org",
+      "ia601305.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/49031893?referer=xid"
+          ],
+          "publisher": "Publications International",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "00109777"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "2001",
+          "isbn": [
+            "0785351655"
+          ],
+          "title": "Sunday suppers : classic recipes.",
+          "oclcnum": [
+            "49031893"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Publications International, Ltd",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,39 @@
+{
+  "source": "dpla",
+  "id": "a8bd04882f28702c39af4e133bc5a2d1",
+  "identifier": "a8bd04882f28702c39af4e133bc5a2d1",
+  "title": "St. Paul's Guild cook book",
+  "subject": [
+    "Cooking, American"
+  ],
+  "spatial": [
+    "Minneapolis",
+    "44.97997, -93.26384"
+  ],
+  "description": null,
+  "isShownAt": "http://umedia.lib.umn.edu/item/p16022coll305:11477",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/mdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878485"
+    ],
+    "name": "Minnesota Digital Library"
+  },
+  "institution": "Minnesota Digital Library",
+  "data": {
+    "object": "http://cdm16022.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16022coll305&CISOPTR=11477",
+    "isShownAt": "http://umedia.lib.umn.edu/item/p16022coll305:11477"
+  },
+  "location": {
+    "state": "Minnesota",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Guild"
+    ]
+  },
+  "curation_notes": "State match: Minnesota; Community markers: Guild; Digitized scan available"
+}

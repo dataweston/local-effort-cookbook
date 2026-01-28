@@ -1,0 +1,514 @@
+{
+  "source": "internet_archive",
+  "identifier": "mycookbookforkid0000gree",
+  "title": "My cook book for kids",
+  "creator": "Green, Caroline",
+  "year": 1993,
+  "subject": [
+    "Cooking -- Juvenile literature",
+    "Cooking"
+  ],
+  "description": [
+    "64 p. : 29 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "created": 1758557098,
+    "d1": "ia903107.us.archive.org",
+    "d2": "ia803107.us.archive.org",
+    "dir": "/8/items/mycookbookforkid0000gree",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660710133",
+        "size": "19615",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "9c390068d98ab36473b428378473330f",
+        "crc32": "bac17980",
+        "sha1": "dcc48365e2e40c5683c866aa6ed7002ce622ea34"
+      },
+      {
+        "name": "logs/mycookbookforkid0000gree_iabdash_2019-11-1117:18:33.log",
+        "source": "original",
+        "mtime": "1573463916",
+        "size": "1354",
+        "md5": "1d6b24ab667c6d3f251d3e058d3b1c7b",
+        "crc32": "a11541aa",
+        "sha1": "f132fa0c15f6a81ae25d50d5f74612253be16f8b",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/mycookbookforkid0000gree_scanning_2019-11-1117:18:37.log",
+        "source": "original",
+        "mtime": "1573463922",
+        "size": "272071",
+        "md5": "00e2b9c5462868215aa1cc817a3bef2b",
+        "crc32": "f1c0ea3d",
+        "sha1": "5c2ed26d84f4ae1345943febdfabe61a43d93bdf",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "mycookbookforkid0000gree_hocr.html",
+        "mtime": "1753663413",
+        "size": "52551610",
+        "private": "true",
+        "md5": "b5c8c0cb3e57fcd055e7a3f736ae8f69",
+        "crc32": "8d820913",
+        "sha1": "67426664ba65c741766974a658505865530817b6"
+      },
+      {
+        "name": "mycookbookforkid0000gree.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "mycookbookforkid0000gree.pdf",
+        "mtime": "1753663074",
+        "size": "9222123",
+        "md5": "2b74809751a8273af8e4bb5862079fd4",
+        "crc32": "0e879b77",
+        "sha1": "acd6c4f7227b81237c022837deb97b1f6c98b197"
+      },
+      {
+        "name": "mycookbookforkid0000gree.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "mycookbookforkid0000gree_page_numbers.json",
+        "mtime": "1716668765",
+        "size": "8751188",
+        "md5": "05d33622bc1e841725c9cb29b97daa50",
+        "crc32": "1edbeafa",
+        "sha1": "2c09bacf0e695be5a59eb5e86fe0d86bbd6d232a",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "mycookbookforkid0000gree_jp2.zip",
+        "mtime": "1573639031",
+        "size": "924465",
+        "md5": "724bf1ae75bd2e9372c01be176188ff1",
+        "crc32": "04522fbb",
+        "sha1": "d5675a33c3d691ec2d3a7aea5995c95e65e5167d",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "mycookbookforkid0000gree_abbyy.gz",
+        "mtime": "1660709568",
+        "size": "686029",
+        "md5": "58c7f7f598ad4dcbe04b924ba16f4805",
+        "crc32": "7c080e58",
+        "sha1": "18b36acd7a57b7e5ce646f9e37eededd9db42c0a",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "mycookbookforkid0000gree_scandata.xml",
+        "mtime": "1670725301",
+        "size": "787",
+        "md5": "4ba089d071e5228eecb05eb14da5fcb9",
+        "crc32": "5c1174ed",
+        "sha1": "87a78476657c1e3a6851585a5c1e41c3b202d235",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1573636555",
+        "size": "936",
+        "md5": "b671be3936e9f4781b7a6acb39f04468",
+        "crc32": "082993a3",
+        "sha1": "94437abdb4f760baecaf5ba9839b590668967844"
+      },
+      {
+        "name": "mycookbookforkid0000gree_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "mycookbookforkid0000gree_djvu.xml",
+        "mtime": "1660710102",
+        "size": "57398",
+        "md5": "5d0da58398815f1989aee6c4d4280294",
+        "crc32": "00b74522",
+        "sha1": "c52dbeb92688b891c71c6bff653a5e763273d298",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "mycookbookforkid0000gree_hocr.html",
+        "mtime": "1660709905",
+        "size": "764848",
+        "md5": "7e56539db02f7df5c6e2be933ac1031a",
+        "crc32": "0d5f04e0",
+        "sha1": "2c70019b923b3e41dd39f0c2cd2263bb9135aba7",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "mycookbookforkid0000gree_abbyy.gz",
+        "mtime": "1573639666",
+        "size": "4482378",
+        "md5": "c1ae09369721e28cf24a22ba4960b6d0",
+        "crc32": "32fbb14a",
+        "sha1": "c98af14257a62107fe87749fdcbaf0f2d13d96f2"
+      },
+      {
+        "name": "mycookbookforkid0000gree_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "mycookbookforkid0000gree.pdf",
+        "mtime": "1716669729",
+        "size": "8707954",
+        "md5": "8036848498c3e8050dd15b2b0c84e046",
+        "crc32": "9e8acd57",
+        "sha1": "b8b51f07693cd2ab56d57547baf8df92da80cf74"
+      },
+      {
+        "name": "mycookbookforkid0000gree_events.json",
+        "source": "original",
+        "mtime": "1573636511",
+        "size": "57",
+        "md5": "c66d4d6915d66cff4f334ec933b04972",
+        "crc32": "c57c4261",
+        "sha1": "b79166e60ca95d68624196b9fdd8422a7a17564e",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "87baec6f29f83b44b6e8aa82c0da9d01",
+        "summation": "md5"
+      },
+      {
+        "name": "mycookbookforkid0000gree_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "mycookbookforkid0000gree_chocr.html.gz",
+        "mtime": "1660709859",
+        "size": "1791663",
+        "md5": "74da233721cc9ed59d77095161c01b51",
+        "crc32": "f34ba432",
+        "sha1": "fb0e4e1b8d4b9f17a5a9d66e9ae4af02ecefcba0",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "mycookbookforkid0000gree_hocr.html",
+        "mtime": "1660709969",
+        "size": "808",
+        "md5": "7d55c942659d6dfe33f75c145139cf4e",
+        "crc32": "b8b4d62a",
+        "sha1": "f616af3701dfcdbff40fafadf03b8e475a2c8342",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "95",
+        "word_conf_11_20": "33",
+        "word_conf_21_30": "60",
+        "word_conf_31_40": "83",
+        "word_conf_41_50": "108",
+        "word_conf_51_60": "141",
+        "word_conf_61_70": "327",
+        "word_conf_71_80": "831",
+        "word_conf_81_90": "2272",
+        "word_conf_91_100": "4665",
+        "format": "OCR Search Text",
+        "original": "mycookbookforkid0000gree_hocr.html",
+        "mtime": "1660710088",
+        "size": "18578",
+        "md5": "3ae203c869f6117997da3aa21fa91f2e",
+        "crc32": "6128a2c1",
+        "sha1": "6b98dede9c807b5e3e6bf521f5e732faee40e00c",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "mycookbookforkid0000gree_orig_jp2.tar",
+        "mtime": "1573638358",
+        "size": "61772666",
+        "md5": "602cb1bde57fcb313287c322745d603e",
+        "crc32": "5b7a7750",
+        "sha1": "665fa38d73d8b21e3f7f4e6b7616606b6dcbd7f7",
+        "private": "true",
+        "filecount": "74"
+      },
+      {
+        "name": "mycookbookforkid0000gree_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "mycookbookforkid0000gree.epub",
+        "mtime": "1753663734",
+        "size": "53492367",
+        "md5": "56caa159f80e7db0b5ded89a6cdd1fa4",
+        "crc32": "6cce76de",
+        "sha1": "85139510a8aa406b1ae76c569001bfaee9a9b4a0"
+      },
+      {
+        "name": "mycookbookforkid0000gree_loans.json",
+        "source": "original",
+        "mtime": "1591566341",
+        "size": "1463",
+        "format": "JSON",
+        "private": "true",
+        "md5": "9eae4a31f13857c40cf9dae703937f9a",
+        "crc32": "4870c44b",
+        "sha1": "2e8f3def830dae1eb323c1d37d65166fb35fffc3"
+      },
+      {
+        "name": "mycookbookforkid0000gree_marc.xml",
+        "source": "original",
+        "mtime": "1573636554",
+        "size": "2140",
+        "format": "MARC",
+        "md5": "ff63e3151b9ef43c06863850a1df1097",
+        "crc32": "40b6f78a",
+        "sha1": "eaa32e0c0c2307d84dd5bf69371c5bc9a608c683"
+      },
+      {
+        "name": "mycookbookforkid0000gree_meta.mrc",
+        "source": "original",
+        "mtime": "1573463912",
+        "size": "616",
+        "md5": "06d87aa59dade1d41190880560e49674",
+        "crc32": "19a7ac06",
+        "sha1": "9ef0edc34516c4a2782b811f01b20a39533f3c2f",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "mycookbookforkid0000gree_meta.sqlite",
+        "source": "original",
+        "mtime": "1573636533",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "a0b51ac72394848eae368befd06c53d5",
+        "crc32": "83fb2c89",
+        "sha1": "89cce35bd16faeee25657367dedf6a657bc70897"
+      },
+      {
+        "name": "mycookbookforkid0000gree_meta.xml",
+        "source": "original",
+        "mtime": "1753663734",
+        "size": "3215",
+        "format": "Metadata",
+        "md5": "1a33a4dccfee9b815e4624e347fd12e1",
+        "crc32": "5356434a",
+        "sha1": "09e7c2e4d44c4cff9525ed8ee5e8e0999434691b"
+      },
+      {
+        "name": "mycookbookforkid0000gree_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1573636532",
+        "size": "93409280",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "52af0165c6d4d09d9796ca9620edcba6",
+        "crc32": "763934d6",
+        "sha1": "59cd5e7de8cd9eadac6099d32feafd643ff8c474",
+        "filecount": "74"
+      },
+      {
+        "name": "mycookbookforkid0000gree_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "10",
+        "format": "Page Numbers JSON",
+        "original": "mycookbookforkid0000gree_hocr.html",
+        "mtime": "1716668765",
+        "size": "12311",
+        "md5": "9ff1c589bbb24206452ce14a12a67f4e",
+        "crc32": "35c3c9db",
+        "sha1": "862610f2018d420fa60c7c8b8473e166c7c92e30",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree_scandata.xml",
+        "source": "original",
+        "mtime": "1670725301",
+        "size": "75770",
+        "format": "Scandata",
+        "md5": "816bc776e8848bd194e0f6593f891d38",
+        "crc32": "f5222fc9",
+        "sha1": "da23634fdd37281e3036066499a2782f62939c2a"
+      },
+      {
+        "name": "mycookbookforkid0000gree_slip.png",
+        "source": "original",
+        "mtime": "1573463225",
+        "size": "40787",
+        "md5": "6a270d95881a85c22a18d8200a3575a6",
+        "crc32": "260b5742",
+        "sha1": "610b33e19873e8768d90bfbbb51f13376e2d3f5c",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "mycookbookforkid0000gree_slip.png",
+        "mtime": "1573636558",
+        "size": "5679",
+        "md5": "afccfcb4264473bb67186a40c812d22f",
+        "crc32": "48048ff2",
+        "sha1": "ca87cb2c2c5b89369054b2373b92089611dca011",
+        "private": "true"
+      },
+      {
+        "name": "mycookbookforkid0000gree_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "mycookbookforkid0000gree_djvu.xml",
+        "mtime": "1670725089",
+        "size": "562",
+        "md5": "5ee1866ebaa6920eafe14c4a36b47de0",
+        "crc32": "47e49d9b",
+        "sha1": "3a64dfa4db70ddc4db83e4ded40800899fbdc1cc",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753663734,
+    "item_size": 297089150,
+    "metadata": {
+      "identifier": "mycookbookforkid0000gree",
+      "boxid": "IA1693916",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Green, Caroline",
+      "date": "1993-01-01",
+      "description": [
+        "64 p. : 29 cm",
+        "Includes index"
+      ],
+      "isbn": "0307167518",
+      "language": "eng",
+      "lccn": "93077425",
+      "mediatype": "texts",
+      "old_pallet": "IA15430",
+      "openlibrary_edition": "OL10351505M",
+      "openlibrary_work": "OL8041876W",
+      "operator": "associate-melogen-armenion@archive.org",
+      "ppi": "300",
+      "publisher": "Racine, WI : Western Pub. Co.",
+      "repub_state": "19",
+      "scanner": "station02.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "0307167518",
+      "subject": [
+        "Cooking -- Juvenile literature",
+        "Cooking"
+      ],
+      "title": "My cook book for kids",
+      "tts_version": "3.0-initial-170-gdf78d52",
+      "uploader": "station02.cebu@archive.org",
+      "addeddate": "2019-11-11 09:07:06",
+      "publicdate": "2019-11-11 09:07:17",
+      "access-restricted-item": "true",
+      "imagecount": "74",
+      "scandate": "20191111092832",
+      "republisher_operator": "associate-jeanette-beleno@archive.org",
+      "republisher_date": "20191113171429",
+      "republisher_time": "321",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/mycookbookforkid0000gree",
+      "identifier-ark": "ark:/13960/t19m2cw20",
+      "external-identifier": [
+        "urn:acs6:mycookbookforkid0000gree:epub:f3275557-b353-4ec0-bffc-7a3e2b5ce159",
+        "urn:acs6:mycookbookforkid0000gree:pdf:b1ca7de8-d6c4-46d5-b1eb-7f9253ace540",
+        "urn:oclc:record:1150841317",
+        "urn:lcp:mycookbookforkid0000gree:lcpdf:084afa58-cc4f-4299-aafe-6b5c49ab35a0",
+        "urn:lcp:mycookbookforkid0000gree:epub:2c9cd8a9-c21a-44d0-89d1-9520caca7f11"
+      ],
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__num_history": "7",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191130",
+      "loans__status__last_loan_date": "2020-06-07T21:42:53Z",
+      "backup_location": "ia907006_3",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "10",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia903107.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "bpljordan-ol": {
+          "notes": {
+            "isbn": [
+              "9780307167514"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-04-14 06:12:50.951708"
+        }
+      }
+    },
+    "uniq": 1686029816,
+    "workable_servers": [
+      "ia903107.us.archive.org",
+      "ia803107.us.archive.org"
+    ]
+  },
+  "institution": "Green, Caroline",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,493 @@
+{
+  "source": "internet_archive",
+  "identifier": "michigansummerst0000unse",
+  "title": "Michigan summers : tales & recipes",
+  "creator": null,
+  "year": 1990,
+  "subject": [
+    "Cooking -- Michigan",
+    "Cooking",
+    "Travel",
+    "Michigan -- Description and travel",
+    "Michigan"
+  ],
+  "description": [
+    "136 pages : 22 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720006.ca.archive.org",
+          "dir": "/0/items/michigansummerst0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720006.ca.archive.org",
+          "dir": "/0/items/michigansummerst0000unse"
+        }
+      ]
+    },
+    "created": 1758555457,
+    "d1": "ia902808.us.archive.org",
+    "d2": "ia802808.us.archive.org",
+    "dir": "/25/items/michigansummerst0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660661823",
+        "size": "16275",
+        "md5": "33abf5f90ea7ea3931db57f131ff5164",
+        "crc32": "2c1f919e",
+        "sha1": "ff8a043e5ea054cd849a305b497f7dcc1c4dfb07",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/michigansummerst0000unse_iabdash_2018-07-17165652.log",
+        "source": "original",
+        "mtime": "1531817816",
+        "size": "353",
+        "md5": "b04690d74bc229889c5a5a54400f271d",
+        "crc32": "068398dc",
+        "sha1": "5ab9ac0ee6afa966b555bb202e089c94ecffa832",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/michigansummerst0000unse_scanning_2018-07-17165646.log",
+        "source": "original",
+        "mtime": "1531817811",
+        "size": "289597",
+        "md5": "e1bb50926cb094c6351483e48553db29",
+        "crc32": "af552a9a",
+        "sha1": "4a8bd538f7482300c9d2a9285c4eed09879c9b19",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "michigansummerst0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "michigansummerst0000unse_hocr.html",
+        "mtime": "1757059388",
+        "size": "34836325",
+        "private": "true",
+        "md5": "d1c4eae7b946cc3402103acba7d3fad2",
+        "crc32": "43fa7fbd",
+        "sha1": "742ebbf26f482989148db1c4dcf0baa3eae31427"
+      },
+      {
+        "name": "michigansummerst0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "michigansummerst0000unse.pdf",
+        "mtime": "1757059276",
+        "size": "10773195",
+        "md5": "36bba82b93f2975713981b3a80473b25",
+        "crc32": "ce8eb2e9",
+        "sha1": "02b6fe5dfa4cf7e32fa61f36d2f49b6387a28da4"
+      },
+      {
+        "name": "michigansummerst0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "michigansummerst0000unse_page_numbers.json",
+        "mtime": "1715889552",
+        "size": "10406598",
+        "md5": "cbc223e25839d1fa38f29e92fb863f10",
+        "crc32": "92343118",
+        "sha1": "4ce1842c2905b191358d7338be8c0c4fb6074e70",
+        "private": "true"
+      },
+      {
+        "name": "michigansummerst0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "michigansummerst0000unse_jp2.zip",
+        "mtime": "1531980620",
+        "size": "1946099",
+        "md5": "041743c990d7de1b5c746defafb00faa",
+        "crc32": "7f92e142",
+        "sha1": "dc70bf4ec1b10e13e74fbfaf325416cd640af1d6",
+        "private": "true"
+      },
+      {
+        "name": "michigansummerst0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "michigansummerst0000unse_abbyy.gz",
+        "mtime": "1660661181",
+        "size": "1646158",
+        "md5": "120b76660b6d4556cf1837d50f8aa292",
+        "crc32": "f7be89e0",
+        "sha1": "e551311bcf954f1e8e4271852d72e0a8a06a3cb3",
+        "private": "true"
+      },
+      {
+        "name": "michigansummerst0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "michigansummerst0000unse_scandata.xml",
+        "mtime": "1670667489",
+        "size": "786",
+        "md5": "3bc9bbc99a3ec77b750c572ad078a99c",
+        "crc32": "5e68e913",
+        "sha1": "1ba3ae0dfb74030835b61dddb7a905865255287c",
+        "private": "true"
+      },
+      {
+        "name": "michigansummerst0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660661086",
+        "size": "1304",
+        "md5": "bcc75d901437448ed35a3e9e22c62466",
+        "crc32": "f770cf54",
+        "sha1": "67357c0c43d183ef4ec27a598bf9ac2eebba6b4b"
+      },
+      {
+        "name": "michigansummerst0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "michigansummerst0000unse_djvu.xml",
+        "mtime": "1660661816",
+        "size": "141200",
+        "md5": "4500f06276bfa9c33b726c579a00f8d0",
+        "crc32": "7d47aa4b",
+        "sha1": "eb63fc126b16bd754e12cdeba89a2547c50b162a",
+        "private": "true"
+      },
+      {
+        "name": "michigansummerst0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "michigansummerst0000unse_hocr.html",
+        "mtime": "1660661580",
+        "size": "1747511",
+        "md5": "ced08ae9809fe6b05979338cbefbbf10",
+        "crc32": "ca855ce1",
+        "sha1": "108b3ff00edcfc6bda7051d52e322bde3e271152",
+        "private": "true"
+      },
+      {
+        "name": "michigansummerst0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "michigansummerst0000unse_abbyy.gz",
+        "mtime": "1531981658",
+        "size": "1680315",
+        "md5": "0b0c02fde863248ea86bbf0645c7b6a2",
+        "crc32": "25819ef7",
+        "sha1": "eaa6b804f7e74cb9f7c99172c23ac492aa8c3bbb"
+      },
+      {
+        "name": "michigansummerst0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "michigansummerst0000unse.pdf",
+        "mtime": "1715890612",
+        "size": "10344730",
+        "md5": "99cacbafb09902f7e4859f36e82a3642",
+        "crc32": "321b5078",
+        "sha1": "e1545bfa0772bb6be834129b3a5f61db3d722dbf"
+      },
+      {
+        "name": "michigansummerst0000unse_events.json",
+        "source": "original",
+        "mtime": "1531975686",
+        "size": "51",
+        "md5": "e0dabc793f9906bd00aace54408fde4a",
+        "crc32": "8fe4959c",
+        "sha1": "e1630b6cbb0cd7b115a1d356f00ef678d7679313",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "michigansummerst0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "3ddd99314aad910bcc823cd588500d31",
+        "summation": "md5"
+      },
+      {
+        "name": "michigansummerst0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "michigansummerst0000unse_chocr.html.gz",
+        "mtime": "1660661528",
+        "size": "3678463",
+        "md5": "8faad333a5ab4e9077f31293e2a74e38",
+        "crc32": "d0e11ef4",
+        "sha1": "42954a191ddbe47ee0dbd339cad1865a4054456e",
+        "private": "true"
+      },
+      {
+        "name": "michigansummerst0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "michigansummerst0000unse_hocr.html",
+        "mtime": "1660661670",
+        "size": "1605",
+        "md5": "7f4d8716d0f160eff150f7a35776469e",
+        "crc32": "09e3e0fb",
+        "sha1": "78f26698b7f41604855c24961da78eb8a7c49cfb",
+        "private": "true"
+      },
+      {
+        "name": "michigansummerst0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "143",
+        "word_conf_11_20": "31",
+        "word_conf_21_30": "59",
+        "word_conf_31_40": "144",
+        "word_conf_41_50": "317",
+        "word_conf_51_60": "360",
+        "word_conf_61_70": "1068",
+        "word_conf_71_80": "3181",
+        "word_conf_81_90": "6585",
+        "word_conf_91_100": "8850",
+        "format": "OCR Search Text",
+        "original": "michigansummerst0000unse_hocr.html",
+        "mtime": "1660661784",
+        "size": "47684",
+        "md5": "28a56194228708c1f83c2e19f25c8f2a",
+        "crc32": "fe5cf14a",
+        "sha1": "724fbb65a467973921cf170b3810aef19691ca56",
+        "private": "true"
+      },
+      {
+        "name": "michigansummerst0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "michigansummerst0000unse_orig_jp2.tar",
+        "mtime": "1531979791",
+        "size": "108084338",
+        "md5": "c2e1bd59619117756ed050e8c2322f52",
+        "crc32": "1d1125de",
+        "sha1": "e7b30e0f7858072d493a8191ce5efa51e1da5af7",
+        "private": "true",
+        "filecount": "142"
+      },
+      {
+        "name": "michigansummerst0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "michigansummerst0000unse.epub",
+        "mtime": "1757059428",
+        "size": "35222453",
+        "md5": "ac7692eaad42d0054c1728b1b59f64a3",
+        "crc32": "0ee0b135",
+        "sha1": "7c72704b8cd924f7e3b9c233d95fb0fcae5d4223"
+      },
+      {
+        "name": "michigansummerst0000unse_loans.json",
+        "source": "original",
+        "mtime": "1594097967",
+        "size": "1348",
+        "format": "JSON",
+        "private": "true",
+        "md5": "807ca5880a0bf4a295e5aaf938f89871",
+        "crc32": "7e13c87c",
+        "sha1": "aaaf938f9f4f257d18c106b0f3b5f4727221cbe1"
+      },
+      {
+        "name": "michigansummerst0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1660661086",
+        "size": "5307",
+        "format": "MARC",
+        "md5": "46a2d207927f7ccb3cf59907cf8a8017",
+        "crc32": "70e8f5d9",
+        "sha1": "896dd63a2f97375b1c52f1ad18bd6d67ece40b50"
+      },
+      {
+        "name": "michigansummerst0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1531817828",
+        "size": "1462",
+        "md5": "42b20a23d3ae66e35aa93a00dfdef170",
+        "crc32": "6aa7623d",
+        "sha1": "cc96842a6e81c1861c3353068d4eb927c53660e7",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "michigansummerst0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1531976048",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "c06ffc1bed4e40500a796b87452eadf3",
+        "crc32": "e1fb950f",
+        "sha1": "08be480391fc7b97034dfcd944632930fe3c550f"
+      },
+      {
+        "name": "michigansummerst0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1757059428",
+        "size": "3115",
+        "format": "Metadata",
+        "md5": "425f934721c5ff5abcf704ff4c0bd0b9",
+        "crc32": "9d528700",
+        "sha1": "cc652d8a5ceb3207f73c7b198c0f019061502a04"
+      },
+      {
+        "name": "michigansummerst0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1531976048",
+        "size": "340121600",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "ce9efb87aa21114397827bc9899b7948",
+        "crc32": "c24cda0e",
+        "sha1": "72d6eb519fe4d6c20d4542f940fc74def0d246df",
+        "filecount": "142"
+      },
+      {
+        "name": "michigansummerst0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "michigansummerst0000unse_hocr.html",
+        "mtime": "1715889530",
+        "size": "23532",
+        "md5": "86f1e61b339947a567868c907d603ec0",
+        "crc32": "9035f8bf",
+        "sha1": "280d59e28768f08435da1e0514c2ef93b23b6119",
+        "private": "true"
+      },
+      {
+        "name": "michigansummerst0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670667489",
+        "size": "145851",
+        "format": "Scandata",
+        "md5": "00f796e48e68c70957ba585c88b80fcc",
+        "crc32": "4a56d2ed",
+        "sha1": "6418667adcab05451771e179b3bc5067c99444ec"
+      },
+      {
+        "name": "michigansummerst0000unse_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "michigansummerst0000unse_djvu.xml",
+        "mtime": "1670667110",
+        "size": "15494",
+        "md5": "7093bbea09af8a5c7e9c90ea7712ba93",
+        "crc32": "f9dc2771",
+        "sha1": "4ad5db967ede74b2ba27acbee018d8659d0c7371",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1757059428,
+    "item_size": 561199133,
+    "metadata": {
+      "identifier": "michigansummerst0000unse",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "date": "1990-01-01",
+      "isbn": [
+        "0932296149",
+        "9780932296146"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-heibikee@archive.org",
+      "ppi": "300",
+      "printer": "DYMO_LabelWriter_450_Turbo",
+      "publisher": "E. Lansing, MI : Eberly Press",
+      "repub_state": "22",
+      "scanner": "ttscribe7.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "Michigan summers : tales & recipes ",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "uploader": "ttscribe7.hongkong@archive.org",
+      "addeddate": "2018-07-17 08:56:33",
+      "publicdate": "2018-07-17 08:57:04",
+      "imagecount": "142",
+      "scandate": "20180717110550",
+      "notes": "Copyright is on the title page<br />",
+      "subject": [
+        "Cooking -- Michigan",
+        "Cooking",
+        "Travel",
+        "Michigan -- Description and travel",
+        "Michigan"
+      ],
+      "lccn": "90143115",
+      "description": [
+        "136 pages : 22 cm",
+        "Includes index"
+      ],
+      "associated-names": "Eberly, Carole",
+      "republisher_operator": "republisher13.dhaka@archive.org",
+      "republisher_date": "20180719104750",
+      "republisher_time": "547",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/michigansummerst0000unse",
+      "identifier-ark": "ark:/13960/t7dr9vj1f",
+      "bookplateleaf": "0006",
+      "external-identifier": [
+        "urn:acs6:michigansummerst0000unse:epub:f331fb11-380d-4d69-9196-f772ac7933c0",
+        "urn:acs6:michigansummerst0000unse:pdf:70914b30-2685-4db9-8a5a-bc392dc9b26d",
+        "urn:lcp:michigansummerst0000unse:lcpdf:fcae0675-6234-4401-89f1-d36102bb41fd",
+        "urn:lcp:michigansummerst0000unse:epub:9a45fee9-d537-4f15-964b-df0e03252bd3"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "curation": "[curator]associate-francis-boyer@archive.org[/curator][date]20180719201427[/date]",
+      "boxid": "IA1273913",
+      "sponsordate": "20180731",
+      "openlibrary_edition": "OL1928641M",
+      "openlibrary_work": "OL17896337W",
+      "backup_location": "ia906709_1",
+      "access-restricted-item": "true",
+      "oclc-id": "21520911",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia802808.us.archive.org",
+    "uniq": 164312616,
+    "workable_servers": [
+      "ia802808.us.archive.org",
+      "ia902808.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

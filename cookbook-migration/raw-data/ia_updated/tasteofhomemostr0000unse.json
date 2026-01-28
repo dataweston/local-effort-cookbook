@@ -1,0 +1,516 @@
+{
+  "source": "internet_archive",
+  "identifier": "tasteofhomemostr0000unse",
+  "title": "Taste of home most requested recipes",
+  "creator": null,
+  "year": 2012,
+  "subject": [
+    "Cooking, American",
+    "Quick and easy cooking"
+  ],
+  "description": [
+    "240 pages : 29 cm",
+    "Includes indexes",
+    "\"400+ recipes, tips & reader raves\"--Cover"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/tasteofhomemostr0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/tasteofhomemostr0000unse"
+        }
+      ]
+    },
+    "created": 1758557208,
+    "d1": "ia902802.us.archive.org",
+    "d2": "ia802802.us.archive.org",
+    "dir": "/7/items/tasteofhomemostr0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661145629",
+        "size": "22445",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "44d01809953dc645933ad4c9ccbb7eeb",
+        "crc32": "ddbeadaf",
+        "sha1": "92a2e23dc70a8584e53a8c576b672a39731af020"
+      },
+      {
+        "name": "logs/tasteofhomemostr0000unse_iabdash_2019-10-3017:33:29.log",
+        "source": "original",
+        "mtime": "1572428013",
+        "size": "1334",
+        "md5": "6d698d9e2ab6091e503302168f9559ad",
+        "crc32": "94f7f9f2",
+        "sha1": "eefc6c49b41bb8f78cc837393fe2afd170d295f7",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/tasteofhomemostr0000unse_scanning_2019-10-3017:33:34.log",
+        "source": "original",
+        "mtime": "1572428019",
+        "size": "569895",
+        "md5": "b58caf46a4c6adf18f4b6ff4ee315d8c",
+        "crc32": "f65edd35",
+        "sha1": "0f9221fe36bef2dd01ca9e2ebdd233e7aa6947d2",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "tasteofhomemostr0000unse_hocr.html",
+        "mtime": "1754102679",
+        "size": "118482567",
+        "private": "true",
+        "md5": "25f095b2ce71fc51b4e036731472b83f",
+        "crc32": "8a05852e",
+        "sha1": "d3115f93aaf6e9806bec12e9fbc67fe4078fdb25"
+      },
+      {
+        "name": "tasteofhomemostr0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "tasteofhomemostr0000unse.pdf",
+        "mtime": "1754102249",
+        "size": "23300404",
+        "md5": "79b6a6ced728ffa14ccd86252625834d",
+        "crc32": "15c9ae2b",
+        "sha1": "a0d905faa0720143e3a629e7a725063dac480d61"
+      },
+      {
+        "name": "tasteofhomemostr0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "tasteofhomemostr0000unse_page_numbers.json",
+        "mtime": "1724927506",
+        "size": "22982810",
+        "md5": "6647f1a0a248c3ec57f8edc4adea60cb",
+        "crc32": "9daac875",
+        "sha1": "348ef4c758abcb30a279d5d5b9d2793c00d61b0e",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "tasteofhomemostr0000unse_jp2.zip",
+        "mtime": "1572924467",
+        "size": "8060437",
+        "md5": "3c0adee92c2bad12f66f4d5c06e4820e",
+        "crc32": "2774abd7",
+        "sha1": "a1ee023ebe0b25f4fe14b1e5951aa3747f75a875",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "tasteofhomemostr0000unse_abbyy.gz",
+        "mtime": "1661145223",
+        "size": "6728710",
+        "md5": "b8248250e7df6efa5d1a263cc8fba5cf",
+        "crc32": "3f3e8756",
+        "sha1": "dfcb3c2529ae00326844b08e36859dd6fe141582",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "tasteofhomemostr0000unse_scandata.xml",
+        "mtime": "1671416180",
+        "size": "789",
+        "md5": "83195673f039626a6086ce20f7e731f7",
+        "crc32": "262aae06",
+        "sha1": "4fa33e895464b7093c1f2bd3563d64520dbd4050",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1572912632",
+        "size": "1672",
+        "md5": "264167bd61435bbbe1c18747d9e5f1d0",
+        "crc32": "6572e2bf",
+        "sha1": "2b9d2c13aad61e5f1f9a82b9435838d0a898dde0"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "tasteofhomemostr0000unse_djvu.xml",
+        "mtime": "1661145617",
+        "size": "601726",
+        "md5": "aa05668328b4fab3e7ea322312f236b6",
+        "crc32": "3e1bf31d",
+        "sha1": "1f5890b7cb392b1004f46d29c5a74b4b1ec0a1ee",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "tasteofhomemostr0000unse_hocr.html",
+        "mtime": "1661145482",
+        "size": "7101230",
+        "md5": "770412953f9503087507981b71e201f2",
+        "crc32": "9625963f",
+        "sha1": "da46b6a107436dff27001c737fecb44d114651aa",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "tasteofhomemostr0000unse_abbyy.gz",
+        "mtime": "1572927566",
+        "size": "19739252",
+        "md5": "91be17bf91633dfccd4c3ca9a3cdd532",
+        "crc32": "c811028d",
+        "sha1": "c202b16f2a42f927d055aa1e5f27196a76d671a5"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "tasteofhomemostr0000unse.pdf",
+        "mtime": "1724928177",
+        "size": "22737262",
+        "md5": "ea486c95e920c9148a4cd683384299f8",
+        "crc32": "76a2a080",
+        "sha1": "9434f12fe7c6dc43db5d2f8a09dc6177bafbd4b4"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_events.json",
+        "source": "original",
+        "mtime": "1572912387",
+        "size": "59",
+        "md5": "dd67db4735ab4c55875414c9ab2c72a8",
+        "crc32": "f08f5708",
+        "sha1": "f5337f4dfdf389175ed839bd5a19241a5900dc8b",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "88d7e35847d389164c77331f7fc4f6b6",
+        "summation": "md5"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "tasteofhomemostr0000unse_chocr.html.gz",
+        "mtime": "1661145433",
+        "size": "14768608",
+        "md5": "c2677288b95a7faff94e5b9ab1c5564b",
+        "crc32": "fafd8fbe",
+        "sha1": "307cffae719b77a973ee7d32de36b1e895804b0d",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "tasteofhomemostr0000unse_hocr.html",
+        "mtime": "1661145562",
+        "size": "2981",
+        "md5": "4712de2fb0ad1ed51337d734a41c3688",
+        "crc32": "62094161",
+        "sha1": "54d224d858430f99302216b2d9ab9b768ab12afc",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "578",
+        "word_conf_11_20": "300",
+        "word_conf_21_30": "1089",
+        "word_conf_31_40": "1410",
+        "word_conf_41_50": "1779",
+        "word_conf_51_60": "2709",
+        "word_conf_61_70": "5720",
+        "word_conf_71_80": "13602",
+        "word_conf_81_90": "26277",
+        "word_conf_91_100": "31741",
+        "format": "OCR Search Text",
+        "original": "tasteofhomemostr0000unse_hocr.html",
+        "mtime": "1661145595",
+        "size": "154723",
+        "md5": "deca737f3feaff463b6f6586b8d7caed",
+        "crc32": "4d27eb10",
+        "sha1": "8139126321df8f47ac3619733dffb7489142c0e7",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "tasteofhomemostr0000unse_orig_jp2.tar",
+        "mtime": "1572922584",
+        "size": "200030545",
+        "md5": "cd05a7eddd281b787d5d5f6ee54c7784",
+        "crc32": "aa0a6173",
+        "sha1": "b4dace332520004ed9e90e282043f529dd7c1b98",
+        "private": "true",
+        "filecount": "250"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "tasteofhomemostr0000unse.epub",
+        "mtime": "1754104017",
+        "size": "119192855",
+        "md5": "47dcad0cb1ef039620556e7089f27be0",
+        "crc32": "d1d818a6",
+        "sha1": "652cc5ed55914986580edf44791cb5c7ab86d6c7"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_loans.json",
+        "source": "original",
+        "mtime": "1594527092",
+        "size": "3114",
+        "format": "JSON",
+        "private": "true",
+        "md5": "9c90d413671145a579643eaf1541a82c",
+        "crc32": "cc0f0c81",
+        "sha1": "f772c449ee55f47691fbf9e8816a353c492358a2"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1572912631",
+        "size": "5934",
+        "format": "MARC",
+        "md5": "0482b728766d9537ef7a55429f7509f1",
+        "crc32": "8f9e8fec",
+        "sha1": "ec0fef6d0641dcbc4da5ebc27cc58ff600313a1a"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1572428008",
+        "size": "1714",
+        "md5": "7fa263ddad975dc682518a05e08e5c37",
+        "crc32": "cba386d2",
+        "sha1": "29dc8e271006a93eae4f845d27b1ae0e9b0cf1d1",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1572912454",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "e6cab6b7302637f7fecd42b782e9090d",
+        "crc32": "a064cab7",
+        "sha1": "d3fa453eae082078949f5eed3026f6fdbcedca40"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1754104386",
+        "size": "3289",
+        "format": "Metadata",
+        "md5": "d2220ce1d4e0962a76035fc88309b787",
+        "crc32": "db838665",
+        "sha1": "07d2a0f8b9b2539892f92b4f090943d8a273744f"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1572912454",
+        "size": "360058880",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "e544f351da7807b93cac4901a340bdec",
+        "crc32": "8306c905",
+        "sha1": "5c571fe9165ec82bcdaaa4e0df8e03a61fed4a20",
+        "filecount": "250"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "tasteofhomemostr0000unse_hocr.html",
+        "mtime": "1724927506",
+        "size": "41983",
+        "md5": "d96c9435e0aa0786660f4c70ed6c5318",
+        "crc32": "8515fa37",
+        "sha1": "d2e2c8bc941cf11f31ad153ade0ac73d062e0a8f",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671416180",
+        "size": "255946",
+        "format": "Scandata",
+        "md5": "f0a588e3b98f0251bdbe098c06e03b36",
+        "crc32": "72f42860",
+        "sha1": "c7a1b63204d402d1b59a511d4c4b4e6d02357952"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_slip.png",
+        "source": "original",
+        "mtime": "1572425534",
+        "size": "40286",
+        "md5": "9c3a0d6ab8cb41c112dc7d65e2d81e45",
+        "crc32": "659a0154",
+        "sha1": "24b204e7de5ac70316e8773ab894d71356abb01b",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "tasteofhomemostr0000unse_slip.png",
+        "mtime": "1572912641",
+        "size": "5741",
+        "md5": "7d07cc3e4bbe0ce8bed22cd9ecbde694",
+        "crc32": "1f821e55",
+        "sha1": "98e397877a26d560e2d5165e0afd3861c476bb3a",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomemostr0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "tasteofhomemostr0000unse_djvu.xml",
+        "mtime": "1671416047",
+        "size": "580",
+        "md5": "d588312fc5906a81886435d160a00e6f",
+        "crc32": "461fad89",
+        "sha1": "a56e2af9b16f29c0e349bd557ea649f311d99a8a",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1754104386,
+    "item_size": 924916203,
+    "metadata": {
+      "identifier": "tasteofhomemostr0000unse",
+      "associated-names": "Cassidy, Catherine, 1959-; Glander, Amy, 1978-; Lanphier, Krista",
+      "boxid": "IA1683002",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2012-01-01",
+      "description": [
+        "240 pages : 29 cm",
+        "Includes indexes",
+        "\"400+ recipes, tips & reader raves\"--Cover"
+      ],
+      "isbn": [
+        "9781617651090",
+        "1617651095",
+        "0898217695",
+        "9780898217698",
+        "9781617651106",
+        "1617651109"
+      ],
+      "language": "eng",
+      "lccn": "2012902944",
+      "mediatype": "texts",
+      "old_pallet": "IA13414",
+      "operator": "associate-gina-lanoy@archive.org",
+      "ppi": "300",
+      "publisher": "Greendale, Wisconsin : Reiman Media Group",
+      "repub_state": "19",
+      "scanner": "station26.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781617651106",
+      "subject": [
+        "Cooking, American",
+        "Quick and easy cooking"
+      ],
+      "title": "Taste of home most requested recipes",
+      "tts_version": "3.0-initial-172-ge33e7cb",
+      "uploader": "station26.cebu@archive.org",
+      "addeddate": "2019-10-30 08:52:14",
+      "publicdate": "2019-10-30 08:52:26",
+      "access-restricted-item": "true",
+      "imagecount": "250",
+      "scandate": "20191030102548",
+      "notes": "obscured text<br />",
+      "republisher_operator": "associate-jeana-galido@archive.org;associate-sweetzelle-cutora@archive.org",
+      "republisher_date": "20191105080622",
+      "republisher_time": "1103",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/tasteofhomemostr0000unse",
+      "identifier-ark": "ark:/13960/t9870j81v",
+      "external-identifier": [
+        "urn:acs6:tasteofhomemostr0000unse:epub:41b62870-40dd-4edb-84d4-deafe7c51930",
+        "urn:acs6:tasteofhomemostr0000unse:pdf:5959452a-e29f-4535-ad95-e0a0c9e4d0ae",
+        "urn:oclc:record:1151327280",
+        "urn:lcp:tasteofhomemostr0000unse:lcpdf:e00757e7-dbdc-4051-bece-4c846b5a6499",
+        "urn:lcp:tasteofhomemostr0000unse:epub:2d5d94cb-9211-4f07-83f3-eca3daf70574"
+      ],
+      "openlibrary_edition": "OL25160965M",
+      "openlibrary_work": "OL16449742W",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191031",
+      "backup_location": "ia907005_0",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia802802.us.archive.org",
+    "uniq": 639668837,
+    "workable_servers": [
+      "ia802802.us.archive.org",
+      "ia902802.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Wisconsin"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Wisconsin; Digitized scan available"
+}

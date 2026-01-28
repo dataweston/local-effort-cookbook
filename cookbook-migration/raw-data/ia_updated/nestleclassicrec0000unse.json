@@ -1,0 +1,513 @@
+{
+  "source": "internet_archive",
+  "identifier": "nestleclassicrec0000unse",
+  "title": "Nestlé classic recipes",
+  "creator": null,
+  "year": 2003,
+  "subject": [
+    "Cooking",
+    "Baking"
+  ],
+  "description": [
+    "126 pages : 23 cm",
+    "Includes index",
+    "Favorite cookies -- Best-ever brownies & bars -- Classic cakes & cheesecakes -- Irresistible pies -- Extra-special treats -- Best-loved breads"
+  ],
+  "metadata": {
+    "created": 1758556604,
+    "d1": "ia601702.us.archive.org",
+    "d2": "ia801702.us.archive.org",
+    "dir": "/4/items/nestleclassicrec0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660729509",
+        "size": "11253",
+        "md5": "f3a4399319baae3bed11635b1a3b5fdd",
+        "crc32": "887a558c",
+        "sha1": "83ddeed3c04a220244f5336ad9a0a64173161cb1",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/nestleclassicrec0000unse_iabdash_2020-09-1006:23:11.log",
+        "source": "original",
+        "mtime": "1599690195",
+        "size": "2739",
+        "md5": "59cfb774b89cccf6dfbb99f2d75344e6",
+        "crc32": "341f2331",
+        "sha1": "de9aeb5e6a8ad4097f8abe65f2a5493751a71ae4",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/nestleclassicrec0000unse_scanning_2020-09-1006:23:21.log",
+        "source": "original",
+        "mtime": "1599690206",
+        "size": "464009",
+        "md5": "de991426b12e37d2a85aad8bbcd2ced0",
+        "crc32": "8c80f4be",
+        "sha1": "c3b275f4b4638c2fadf1e3f5fdb17ee38c1652ab",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/nestleclassicrec0000unse_status_history_2020-09-1006:23:16.log",
+        "source": "original",
+        "mtime": "1599690199",
+        "size": "408",
+        "md5": "9e5785961d7bfdf9fabb04b273aa8305",
+        "crc32": "1a53c49b",
+        "sha1": "650e0c6ddd16a340fda16adebe239f44eb6eb863",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "nestleclassicrec0000unse_hocr.html",
+        "mtime": "1753672212",
+        "size": "25760672",
+        "private": "true",
+        "md5": "e0c7be636d1ccfb4c14188921b8f2607",
+        "crc32": "b9b0b245",
+        "sha1": "c5bdeb54471708f9b31a75341fd591af04d15aef"
+      },
+      {
+        "name": "nestleclassicrec0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "nestleclassicrec0000unse.pdf",
+        "mtime": "1753671881",
+        "size": "6942615",
+        "md5": "a285315069a4070436b8cdf8c86a1e42",
+        "crc32": "bbb1ebaa",
+        "sha1": "57d5e3ff77c667b6b9ee8af78b906fcfa03c8731"
+      },
+      {
+        "name": "nestleclassicrec0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "nestleclassicrec0000unse_page_numbers.json",
+        "mtime": "1717060441",
+        "size": "6710299",
+        "md5": "9cb868f3ff64ae22e80a53e37d903106",
+        "crc32": "907d3ead",
+        "sha1": "7995b17b7ff780199e35f049aa0955126e925e5f",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "nestleclassicrec0000unse_jp2.zip",
+        "mtime": "1600147680",
+        "size": "1636663",
+        "md5": "5a6bffd3b14a2719f6b64c5f69cffa2f",
+        "crc32": "181c5123",
+        "sha1": "f727460a0fac04d741a171167de80df4461f5c91",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "nestleclassicrec0000unse_abbyy.gz",
+        "mtime": "1660729263",
+        "size": "1310883",
+        "md5": "a7d9af93c8238ee143dd3f17ce0619bf",
+        "crc32": "371a025a",
+        "sha1": "82cebfba0dd54a0ef215e0ecec46242a89b2ec77",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "nestleclassicrec0000unse_scandata.xml",
+        "mtime": "1670737324",
+        "size": "789",
+        "md5": "11df911bf945c962031b85a35dea5599",
+        "crc32": "fce500b9",
+        "sha1": "dac938cd8cbdbc47a21a89199aed2c92a17b7f58",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1600143899",
+        "size": "965",
+        "md5": "7cf1c163d3f56793f038736c18a270df",
+        "crc32": "f1d6ddad",
+        "sha1": "5786cc1b2d31264eeba941f8b3a7f2d90ecf0a1d"
+      },
+      {
+        "name": "nestleclassicrec0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "nestleclassicrec0000unse_djvu.xml",
+        "mtime": "1660729504",
+        "size": "116220",
+        "md5": "f6df661f5887f5542681f10d3f479f2c",
+        "crc32": "e8dc7f53",
+        "sha1": "fbaa163c24a04b8db4ef81a44944962b180b7883",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "nestleclassicrec0000unse_hocr.html",
+        "mtime": "1660729421",
+        "size": "1404675",
+        "md5": "871006e868b342b82f7471fd29aaab7f",
+        "crc32": "cc367187",
+        "sha1": "56701bb57afb84dc4e5b33ff4f9f79b9a8fd3317",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "nestleclassicrec0000unse_abbyy.gz",
+        "mtime": "1600147717",
+        "size": "875788",
+        "md5": "00ce88838505df1a94bf57f330448df7",
+        "crc32": "a4ccc5a4",
+        "sha1": "4829c52520c723d67bacf4d74b1a826074c5e017"
+      },
+      {
+        "name": "nestleclassicrec0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "nestleclassicrec0000unse.pdf",
+        "mtime": "1717061323",
+        "size": "6642869",
+        "md5": "1878bd100d519427b8f8d2d7b28dd7da",
+        "crc32": "c5aa07ea",
+        "sha1": "d73bd27a16185784262457084e67e95d91a044b8"
+      },
+      {
+        "name": "nestleclassicrec0000unse_events.json",
+        "source": "original",
+        "mtime": "1600143785",
+        "size": "59",
+        "md5": "a856a9e20a89942b265f6ec1232ce3c3",
+        "crc32": "9c057727",
+        "sha1": "ca7152d2ef16b3237ea8cff31dedcb173ce78995",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "cb77ca2dec1df720a4c089ff217d23d0",
+        "summation": "md5"
+      },
+      {
+        "name": "nestleclassicrec0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "nestleclassicrec0000unse_chocr.html.gz",
+        "mtime": "1660729409",
+        "size": "2961813",
+        "md5": "5d2d930c053b915c585226794f25a114",
+        "crc32": "5f62cee0",
+        "sha1": "dc1375ec284e9eb0aa5c1629cfbfe8be98418395",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "nestleclassicrec0000unse_hocr.html",
+        "mtime": "1660729439",
+        "size": "1457",
+        "md5": "b20213d4e45e913e105daefe31eb33b8",
+        "crc32": "04c5f3d5",
+        "sha1": "063f395f873d1431e4c21d335f3c011223ce569d",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "235",
+        "word_conf_11_20": "247",
+        "word_conf_21_30": "377",
+        "word_conf_31_40": "491",
+        "word_conf_41_50": "692",
+        "word_conf_51_60": "1083",
+        "word_conf_61_70": "1600",
+        "word_conf_71_80": "2273",
+        "word_conf_81_90": "3000",
+        "word_conf_91_100": "6093",
+        "format": "OCR Search Text",
+        "original": "nestleclassicrec0000unse_hocr.html",
+        "mtime": "1660729492",
+        "size": "26507",
+        "md5": "bcc7b5ffd078bbf17e3e1928fbeb052f",
+        "crc32": "f2309c48",
+        "sha1": "8ec7972d01d9c659f0c5e8d16333fcbc59196b28",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "nestleclassicrec0000unse_orig_jp2.tar",
+        "mtime": "1600146789",
+        "size": "53609272",
+        "md5": "5b1493f6bd3e2476dfa8b25670eb5fca",
+        "crc32": "78715ce7",
+        "sha1": "f2d540c5a7575e2101a1e50f78c2e293e631b77f",
+        "private": "true",
+        "filecount": "130"
+      },
+      {
+        "name": "nestleclassicrec0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "nestleclassicrec0000unse.epub",
+        "mtime": "1753672571",
+        "size": "25816624",
+        "md5": "789ce744649a4ff246c36f65c611a049",
+        "crc32": "c79f2e63",
+        "sha1": "051ca4d1b3227d8008d7d6f2124766829e553208"
+      },
+      {
+        "name": "nestleclassicrec0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1599690188",
+        "size": "4086",
+        "md5": "ffd667aba96996b04faecf95183c75b6",
+        "crc32": "7f7c34d6",
+        "sha1": "7b8300eb53ef3c852cc4f3d100b10eb572327f8d",
+        "format": "MARC"
+      },
+      {
+        "name": "nestleclassicrec0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1599690184",
+        "size": "1201",
+        "md5": "c4da0808fe56b734cf7ef85e4f40e1af",
+        "crc32": "23b783ae",
+        "sha1": "e57493f8f98446e0e6597f3729084b12b898244d",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "nestleclassicrec0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1600143877",
+        "size": "19456",
+        "md5": "5c0858101003936607c5c245a87f292e",
+        "crc32": "0227e426",
+        "sha1": "994dd8ff4386b710d1f0b4e2718a79c2d863351e",
+        "format": "Metadata"
+      },
+      {
+        "name": "nestleclassicrec0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753672733",
+        "size": "3088",
+        "md5": "92c199e11f4748609d0c187626da18c5",
+        "crc32": "c3a0a604",
+        "sha1": "dcea06e6b520d12fb13ee355f6fdb4e65e1e8668",
+        "format": "Metadata"
+      },
+      {
+        "name": "nestleclassicrec0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1600143876",
+        "size": "194201600",
+        "md5": "ae50ab21a35c7c708720da7cab00b221",
+        "crc32": "46ae547b",
+        "sha1": "f166a03433b1a519304677db6d1257ec610f430f",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "130"
+      },
+      {
+        "name": "nestleclassicrec0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "nestleclassicrec0000unse_hocr.html",
+        "mtime": "1717060441",
+        "size": "21485",
+        "md5": "82d2c2272bb714ce6a9b57a6693b6939",
+        "crc32": "253851cd",
+        "sha1": "32e9bd7593f951457f9bba9ad6fe36a024795d79",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670737324",
+        "size": "133591",
+        "md5": "6499b436fe9dc4a166792b1927862008",
+        "crc32": "b93cfdf0",
+        "sha1": "2706b62c0fb098e455ef096cfd532b0f8ce0cf4d",
+        "format": "Scandata"
+      },
+      {
+        "name": "nestleclassicrec0000unse_slip.png",
+        "source": "original",
+        "mtime": "1599656209",
+        "size": "39803",
+        "md5": "7b21c44c3d62881e4a7e35cbada41b65",
+        "crc32": "84b510e2",
+        "sha1": "bb64f93464f8d8e146a3daaa5da81dda979f54ea",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "nestleclassicrec0000unse_slip.png",
+        "mtime": "1600143905",
+        "size": "5553",
+        "md5": "431a4b8779f0b00a74c725e52f087ad3",
+        "crc32": "2a46efa7",
+        "sha1": "9e51fb8c3e55efeaca2c38a7d9187807b1563425",
+        "private": "true"
+      },
+      {
+        "name": "nestleclassicrec0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "nestleclassicrec0000unse_djvu.xml",
+        "mtime": "1670737043",
+        "size": "524",
+        "md5": "653be1bc188e15cc24391ffd22770f7a",
+        "crc32": "0bdf0010",
+        "sha1": "f8354af04361d1c3e7a3bbfcffb60bda8985a431",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753672733,
+    "item_size": 328726966,
+    "metadata": {
+      "identifier": "nestleclassicrec0000unse",
+      "associated-names": "Nestlé USA, Inc",
+      "boxid": "IA1932702",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2003-01-01",
+      "description": [
+        "126 pages : 23 cm",
+        "Includes index",
+        "Favorite cookies -- Best-ever brownies & bars -- Classic cakes & cheesecakes -- Irresistible pies -- Extra-special treats -- Best-loved breads"
+      ],
+      "isbn": [
+        "0785394788",
+        "9780785394785"
+      ],
+      "language": "eng",
+      "lccn": "2003105302",
+      "mediatype": "texts",
+      "old_pallet": "IA19216",
+      "openlibrary_edition": "OL8101642M",
+      "operator": "associate-cybellegrace-ventic@archive.org",
+      "ppi": "300",
+      "publisher": "Des Moines, Iowa : Meredith Books",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station35.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "0785394788",
+      "subject": [
+        "Cooking",
+        "Baking"
+      ],
+      "title": "Nestlé classic recipes",
+      "tts_version": "4.0-initial-124-gc27c09f8",
+      "uploader": "station35.cebu@archive.org",
+      "publicdate": "2020-09-09 12:57:10",
+      "access-restricted-item": "true",
+      "imagecount": "130",
+      "scandate": "20200909235445",
+      "republisher_operator": "associate-shielamae-olmilla@archive.org",
+      "republisher_date": "20200915121556",
+      "republisher_time": "215",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/nestleclassicrec0000unse",
+      "identifier-ark": "ark:/13960/t3qw2t22n",
+      "external-identifier": [
+        "urn:acs6:nestleclassicrec0000unse:epub:f757bc96-68ab-4e44-94cf-bb1d31252442",
+        "urn:acs6:nestleclassicrec0000unse:pdf:4a6e1b06-88fd-4bf0-98e7-207b57b4c5ab",
+        "urn:oclc:record:1200543929",
+        "urn:lcp:nestleclassicrec0000unse:lcpdf:04ef9067-1f52-4447-9b5e-1d20fa9c3af1",
+        "urn:lcp:nestleclassicrec0000unse:epub:f18b3eac-aea0-428e-8aec-6e5dec1c45fd"
+      ],
+      "page_number_confidence": "100",
+      "addeddate": "2020-09-15 06:05:45",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20200930",
+      "openlibrary_work": "OL24843816W",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801702.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40543805"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 09:53:31.751551"
+        }
+      }
+    },
+    "uniq": 2143860900,
+    "workable_servers": [
+      "ia801702.us.archive.org",
+      "ia601702.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

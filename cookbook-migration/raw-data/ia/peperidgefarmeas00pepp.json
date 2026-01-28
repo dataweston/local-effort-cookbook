@@ -1,0 +1,583 @@
+{
+  "source": "internet_archive",
+  "identifier": "peperidgefarmeas00pepp",
+  "title": "Easy entertaining : recipes for family and friends",
+  "creator": "Pepperidge Farm, inc",
+  "year": 1995,
+  "subject": [
+    "Entertaining",
+    "Entertaining - General",
+    "Cooking / Wine",
+    "Cooking",
+    "Pastry"
+  ],
+  "description": [
+    "Includes index",
+    "At head of title: Pepperidge Farm"
+  ],
+  "metadata": {
+    "created": 1758555785,
+    "d1": "ia600203.us.archive.org",
+    "d2": "ia800203.us.archive.org",
+    "dir": "/20/items/peperidgefarmeas00pepp",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660879126",
+        "size": "20423",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "14b7b478a2a4179b1f6764e941b8559e",
+        "crc32": "7bfa89b7",
+        "sha1": "76e48c8525f18167c7d0be70a2cf4e57b8efb82d"
+      },
+      {
+        "name": "peperidgefarmeas00pepp.cdx.gz",
+        "source": "original",
+        "mtime": "1381412877",
+        "size": "5899",
+        "md5": "fa451f3089cb9ed8684eb9c895f7f896",
+        "crc32": "e9fe6939",
+        "sha1": "7529e90a5aaf7cd2fad035b1027b9888160f97fa",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp.cdx.idx",
+        "source": "original",
+        "mtime": "1381412877",
+        "size": "38",
+        "md5": "7661f0706aace77ba3fbb1db6e21f55b",
+        "crc32": "fd102117",
+        "sha1": "1e7c3a6e782fa7cce2aa56cd57a0049d568c5dce",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "peperidgefarmeas00pepp_hocr.html",
+        "mtime": "1753737211",
+        "size": "41016601",
+        "private": "true",
+        "md5": "3735a8389dd93cf5a305b46c2a782f2b",
+        "crc32": "56a8eb51",
+        "sha1": "60834ef8d8115ad47308fed6d8beda2d41712470"
+      },
+      {
+        "name": "peperidgefarmeas00pepp.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "peperidgefarmeas00pepp_jp2.zip",
+        "mtime": "1381410369",
+        "size": "161110",
+        "md5": "470c6789face6fda10b8767313c25880",
+        "crc32": "b5447445",
+        "sha1": "c09ba935ef33ba33eabe436c3b0c9db09472a822"
+      },
+      {
+        "name": "peperidgefarmeas00pepp.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "peperidgefarmeas00pepp.pdf",
+        "mtime": "1753736896",
+        "size": "7737975",
+        "md5": "473b3ecf224c401d1103570c99d97f0c",
+        "crc32": "f3d6884e",
+        "sha1": "62421f85ba70d216160549a8881acb98230912d4"
+      },
+      {
+        "name": "peperidgefarmeas00pepp.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "peperidgefarmeas00pepp_page_numbers.json",
+        "mtime": "1718694668",
+        "size": "7052616",
+        "md5": "d4d6693ca15e600b935ff65bb1e43357",
+        "crc32": "f2971c06",
+        "sha1": "05dd072f3fb5902021f7582b6fe39069d4c9e30e",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1348090426",
+        "size": "433780",
+        "md5": "f22dc76aee246dc862421b7e10593266",
+        "crc32": "554421f5",
+        "sha1": "a420d7a96a41d84ec2971917268b5519d1ae9202"
+      },
+      {
+        "name": "peperidgefarmeas00pepp.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "peperidgefarmeas00pepp.warc.gz",
+        "mtime": "1381409123",
+        "size": "6045",
+        "md5": "f7d45987fb2622968b2f84ba103e2b2c",
+        "crc32": "9d1a6572",
+        "sha1": "08af936b56a080ca2750fd146d46f059d8271e49",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "peperidgefarmeas00pepp_jp2.zip",
+        "mtime": "1381411911",
+        "size": "1505147",
+        "md5": "c4b706384da37372bd8a7a0fd8f0ba72",
+        "crc32": "d5a73bf8",
+        "sha1": "df2180eef0e8eb70380768bd86cc90067d4b404c",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "peperidgefarmeas00pepp_abbyy.gz",
+        "mtime": "1660878053",
+        "size": "1182382",
+        "md5": "80db0aaf76735df8dcd88de7e5ab0276",
+        "crc32": "8ce8aaf6",
+        "sha1": "1ccbb13c064a5a19e2c77df27f77ddf88e6fa289",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "peperidgefarmeas00pepp_scandata.xml",
+        "mtime": "1667233199",
+        "size": "780",
+        "md5": "786782ca81310c5762bb780fecb2156c",
+        "crc32": "d5ff70bc",
+        "sha1": "877b23792b6ccf52e331162fea463b3aee78bb7f",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1509729726",
+        "size": "1186",
+        "md5": "c76cdd4b68ad9cb9a8dcb89b16693ad2",
+        "crc32": "9c00b7f8",
+        "sha1": "2cfdc598ed08b1301a0498dbc9ddb188c42def6c"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "peperidgefarmeas00pepp_djvu.xml",
+        "mtime": "1667233223",
+        "size": "108913",
+        "md5": "7822611d44795766940d0e211a023b28",
+        "crc32": "2e092b36",
+        "sha1": "397de4f2ba341d4450c3d1153fc317eeade7b180",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "peperidgefarmeas00pepp_hocr.html",
+        "mtime": "1667233069",
+        "size": "1248557",
+        "md5": "7a7b7c52650398cdd5c473f5510093a2",
+        "crc32": "5073ae8b",
+        "sha1": "88a9728bbc186e037e8e2d9db1b332d20a8fe7cc",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "peperidgefarmeas00pepp.pdf",
+        "mtime": "1718695316",
+        "size": "7026453",
+        "md5": "acc4d0a9211275665f8beae22cb98622",
+        "crc32": "8d88e05b",
+        "sha1": "40071afafa480d15f4daa442279038f953c2918e"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_extramarc.xml",
+        "source": "original",
+        "mtime": "1404286508",
+        "size": "2654",
+        "md5": "7248a889b3ec378afdb860005c40a0c0",
+        "crc32": "92e268fd",
+        "sha1": "e5ed18ff41b54a75ed8561d7fe15cb9b7ed05eda",
+        "format": "Metadata"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "b64978bbd0e17d9b2063b0f4e57b14b9",
+        "summation": "md5"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "peperidgefarmeas00pepp_chocr.html.gz",
+        "mtime": "1660878416",
+        "size": "2305685",
+        "md5": "aac36169226b6d89ce10b9414fbbf5bf",
+        "crc32": "8cd481fa",
+        "sha1": "4877a3b927cb418a13e58be1a6809590c8120e30",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "peperidgefarmeas00pepp_hocr.html",
+        "mtime": "1660878924",
+        "size": "1062",
+        "md5": "c08dc6945ee7753195fb75972d1cb000",
+        "crc32": "78e14e2a",
+        "sha1": "06616805bcd3cfbbfdcf22c34bac5f6c1f92bb94",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "4550",
+        "word_conf_11_20": "1984",
+        "word_conf_21_30": "1725",
+        "word_conf_31_40": "1379",
+        "word_conf_41_50": "1126",
+        "word_conf_51_60": "969",
+        "word_conf_61_70": "711",
+        "word_conf_71_80": "521",
+        "word_conf_81_90": "241",
+        "word_conf_91_100": "1638",
+        "format": "OCR Search Text",
+        "original": "peperidgefarmeas00pepp_hocr.html",
+        "mtime": "1660879080",
+        "size": "42777",
+        "md5": "3e92adf5a0b7727161dd8c426b2ba940",
+        "crc32": "bbc7417f",
+        "sha1": "3fb27aad3361802ca21701e2d01ef074c6c9bf07",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "peperidgefarmeas00pepp_orig_jp2.tar",
+        "mtime": "1381410350",
+        "size": "51717852",
+        "md5": "b5e2aa86af7e324965dec27efb4f9dbf",
+        "crc32": "32bbb104",
+        "sha1": "21862d5eca457f2044ddcd8c2d142cb5ba809f66",
+        "private": "true",
+        "filecount": "108"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "peperidgefarmeas00pepp.epub",
+        "mtime": "1753737381",
+        "size": "41498487",
+        "md5": "d1417aa9511a4ffd02cfb6cbb8de2e0e",
+        "crc32": "6e6a3301",
+        "sha1": "9276f7a54136264654d687cdc95cbe12ea271ab3"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_loans.json",
+        "source": "original",
+        "mtime": "1594242719",
+        "size": "5099",
+        "format": "JSON",
+        "private": "true",
+        "md5": "4f2e54d3a619ba095ff0ab83c0a92740",
+        "crc32": "fdad34a5",
+        "sha1": "cafeb573cb5b4fb11c5abb4821025683d5c0428e"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1509729726",
+        "size": "5646",
+        "md5": "094f74fba48ca1a621771fee8c80ab5c",
+        "crc32": "718fad18",
+        "sha1": "26424ac7ce726b1d2f671def22806f6320e24c76"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "peperidgefarmeas00pepp_xisbn.json",
+        "mtime": "1454703349",
+        "size": "278",
+        "md5": "e4ce2be78be75e2d4a9ade2e3e7b2b81",
+        "crc32": "958e3dcb",
+        "sha1": "a86caf54633bd2a9979eb72d2482c5439e8a9175",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454703347",
+        "size": "1561",
+        "md5": "d11c889c6db57d053246602959ce6332",
+        "crc32": "1556494e",
+        "sha1": "ce7415c1b3e52d12b202f1640a61da61eea7f631"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_meta.sqlite",
+        "source": "original",
+        "mtime": "1466797409",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "258df2f8cfb6eff2c32cb3de721141e3",
+        "crc32": "015d94a8",
+        "sha1": "d677b63354a6a3d8f791cdd9badbb5cfb5c40c8f"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753737382",
+        "size": "3388",
+        "md5": "afdfa0bf2f0c18b760f77cb036ddb7d8",
+        "crc32": "6903bc90",
+        "sha1": "4c64262f33a3ef7fcf76bae7005220b84336f0c1"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1348090426",
+        "size": "311",
+        "md5": "2447a825355130a3b2bf1baebb3ef8ae",
+        "crc32": "837147b7",
+        "sha1": "769bebca59e6e4ec27244ac8ac6a548d5ebfecd4"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1381406024",
+        "size": "122449920",
+        "md5": "c9df0c03321f5dff968982a4930ea44a",
+        "crc32": "8b7b9160",
+        "sha1": "a6af0c79075cb027b99ceb9292bcc0d575a49972",
+        "private": "true",
+        "filecount": "108"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "60",
+        "format": "Page Numbers JSON",
+        "original": "peperidgefarmeas00pepp_hocr.html",
+        "mtime": "1718694668",
+        "size": "17777",
+        "md5": "356c813fb4ccf6f2ff6e9ca198b70208",
+        "crc32": "d851a9b5",
+        "sha1": "c394dffb3bdf584a1f99f940838d4a39ba932775",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1667233199",
+        "size": "141931",
+        "md5": "8d35f6060323552570fb1acefc5a39c9",
+        "crc32": "16cca6ae",
+        "sha1": "f72d5297c3167a19cf836233379e781733040885"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "peperidgefarmeas00pepp_djvu.xml",
+        "mtime": "1667233228",
+        "size": "22816",
+        "md5": "4ba203bf4475867b487d1020c27e3574",
+        "crc32": "d7a0ec01",
+        "sha1": "8d16b2f6122dffb5367a483fbdf30cb08adb08db",
+        "private": "true"
+      },
+      {
+        "name": "peperidgefarmeas00pepp_xisbn.json",
+        "source": "original",
+        "mtime": "1454678348",
+        "size": "308",
+        "md5": "9d39071e060ba96a0262d0fee121171d",
+        "crc32": "796c3b30",
+        "sha1": "b3639b42858a5a5a0d201b5b30026889afee31f2",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 35,
+    "item_last_updated": 1753737382,
+    "item_size": 285731601,
+    "metadata": {
+      "isbn": [
+        "0696203278",
+        "9780696203275"
+      ],
+      "openlibrary": "OL9384342M",
+      "title": "Easy entertaining : recipes for family and friends",
+      "creator": "Pepperidge Farm, inc",
+      "language": "eng",
+      "publisher": "Des Moines, IA : Meredith",
+      "subject": [
+        "Entertaining",
+        "Entertaining - General",
+        "Cooking / Wine",
+        "Cooking",
+        "Pastry"
+      ],
+      "date": "1995-01-01",
+      "external-identifier": [
+        "urn:asin:0696203278",
+        "urn:acs6:peperidgefarmeas00pepp:pdf:3a86e6a7-d45c-40d0-a812-be60431258f6",
+        "urn:acs6:peperidgefarmeas00pepp:epub:906bc4d4-4ca2-4ed0-9a01-1a91def4a3fd",
+        "urn:oclc:record:1036769783",
+        "urn:lcp:peperidgefarmeas00pepp:lcpdf:384e1bd6-2bc4-4f13-925d-caed7ce42ff0",
+        "urn:lcp:peperidgefarmeas00pepp:epub:11c8a929-284a-428c-b38b-f75d3c869ca4"
+      ],
+      "updatedate": "2012-09-19 21:33:44",
+      "updater": "associate-lotu-tii@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA1106310",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "sponsor": "Internet Archive",
+      "identifier": "peperidgefarmeas00pepp",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2012-09-19 21:33:49",
+      "publicdate": "2012-09-19 21:33:53",
+      "repub_state": "4",
+      "repub_seconds": "382",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-leo@archive.org",
+      "scanner": "scribe5.shenzhen.archive.org",
+      "scandate": "20131010075446",
+      "republisher": "scanner-shenzhen-leo@archive.org",
+      "imagecount": "106",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/peperidgefarmeas00pepp",
+      "identifier-ark": "ark:/13960/t4sj3hs25",
+      "bookplateleaf": "0004",
+      "donor": "internetarchivebookdrive",
+      "sponsordate": "20150430",
+      "scanfee": "125",
+      "invoice": "11",
+      "extramarc": "OhioLINK Library Catalog",
+      "description": [
+        "Includes index",
+        "At head of title: Pepperidge Farm"
+      ],
+      "city": "Des Moines, IA",
+      "edition": "Rev. and enl. ed.",
+      "oclc-id": "33452393",
+      "backup_location": "ia903907_27",
+      "openlibrary_edition": "OL9384342M",
+      "openlibrary_work": "OL8329269W",
+      "republisher_operator": "scanner-shenzhen-leo@archive.org",
+      "republisher_date": "20131010115039",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "60",
+      "pdf_module_version": "0.0.20",
+      "filesxml": "Wed Apr 3 11:11:28 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia600203.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA-MC-0000009",
+              "IA-MC-1300002"
+            ],
+            "num_copies": 2
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-01-15 03:01:05.184516"
+        }
+      }
+    },
+    "uniq": 859540128,
+    "workable_servers": [
+      "ia600203.us.archive.org",
+      "ia800203.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/33452393?referer=xid"
+          ],
+          "publisher": "Meredith",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "ed": "Rev. and enl. ed.",
+          "year": "1995",
+          "isbn": [
+            "0696203278"
+          ],
+          "title": "Easy entertaining : recipes for family and friends.",
+          "oclcnum": [
+            "33452393"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Pepperidge Farm, inc",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

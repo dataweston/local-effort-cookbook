@@ -1,0 +1,107 @@
+{
+  "source": "dpla",
+  "id": "8d50d3a65263417363a6477abb3a07e0",
+  "identifier": "8d50d3a65263417363a6477abb3a07e0",
+  "title": "Highland Park Woman's Club Cook book : COOK BOOK Compiled by MRS. C. E. TIMSON, Chairman MRS. R.R. TAYLOR MRS. WM. M. PLANT",
+  "subject": [
+    "Cooking, American",
+    "Community cookbooks : Women--Societies and clubs"
+  ],
+  "spatial": [
+    "Illinois--Lake County--Highland Park"
+  ],
+  "description": "Annotated cookbook published to raise funds for club house. Fragile. 144 pages ; 23 cm. Text part 1 only.",
+  "isShownAt": "http://www.idaillinois.org/cdm/ref/collection/highland003/id/42531",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/il",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878467"
+    ],
+    "name": "Illinois Digital Heritage Hub"
+  },
+  "institution": "Illinois Digital Heritage Hub",
+  "year": 1925,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/8d50d3a65263417363a6477abb3a07e0#SourceResource",
+      "collection": [
+        {
+          "title": "Highland Park History"
+        }
+      ],
+      "creator": [
+        "Highland Park Woman's Club",
+        "Plant, Elsie T. (18880-1955)",
+        "Taylor, Catherine W. (1883-1961)",
+        "Plant, Elsie T. (1888-1955)"
+      ],
+      "date": [
+        {
+          "begin": "1925",
+          "displayDate": "1925",
+          "end": "1925"
+        }
+      ],
+      "description": [
+        "Annotated cookbook published to raise funds for club house. Fragile. 144 pages ; 23 cm. Text part 1 only."
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "This material is made available by the City of Highland Park. To request reproductions or inquire about permissions, contact: hppla@hplibrary.org."
+      ],
+      "spatial": [
+        {
+          "name": "Illinois--Lake County--Highland Park"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Community cookbooks : Women--Societies and clubs"
+        }
+      ],
+      "temporal": [
+        {
+          "displayDate": "1920s (1920-1929);"
+        }
+      ],
+      "title": [
+        "Highland Park Woman's Club Cook book : COOK BOOK Compiled by MRS. C. E. TIMSON, Chairman MRS. R.R. TAYLOR MRS. WM. M. PLANT"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1925-01-01",
+      "normalized_dates": [
+        "1925-01-01"
+      ],
+      "date_range": {
+        "begin": "1925-01-01",
+        "end": "1925-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "http://www.idaillinois.org/utils/getthumbnail/collection/highland003/id/42531",
+    "isShownAt": "http://www.idaillinois.org/cdm/ref/collection/highland003/id/42531"
+  },
+  "location": {
+    "state": "Illinois",
+    "county": "Lake County"
+  },
+  "curation": {
+    "score": 8,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "County match: Lake County; State match: Illinois; Digitized scan available"
+}

@@ -1,0 +1,561 @@
+{
+  "source": "internet_archive",
+  "identifier": "homeeconomicsfor00kohl",
+  "title": "Home economics for young men : a teaching guide",
+  "creator": "Kohlmann, Eleanore L., 1916-",
+  "year": 1975,
+  "subject": "Home economics -- Study and teaching",
+  "description": [
+    "xvi, 214 p. ; 28 cm",
+    "Includes bibliographies and index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/homeeconomicsfor00kohl"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/homeeconomicsfor00kohl"
+        }
+      ]
+    },
+    "created": 1758335583,
+    "d1": "ia902901.us.archive.org",
+    "d2": "ia802901.us.archive.org",
+    "dir": "/22/items/homeeconomicsfor00kohl",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660167509",
+        "size": "16363",
+        "md5": "d1d39ebad038539933b4e10ee956bad7",
+        "crc32": "9a2b32eb",
+        "sha1": "d50c0df9e88bf9dec81c05d70299c35972fcf21e",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "homeeconomicsfor00kohl.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "homeeconomicsfor00kohl_hocr.html",
+        "mtime": "1753462614",
+        "size": "16176254",
+        "private": "true",
+        "md5": "2af4714a219f0711d20ec5edf7b3bdd4",
+        "crc32": "c841cbc4",
+        "sha1": "83456dc0ab28f8983056356085dfd8a2a3e332f9"
+      },
+      {
+        "name": "homeeconomicsfor00kohl.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "homeeconomicsfor00kohl.pdf",
+        "mtime": "1753462412",
+        "size": "16971698",
+        "md5": "ede2877a9c2ea176515c398ec6dea667",
+        "crc32": "26e9647f",
+        "sha1": "86013ab689499aa3d659f6cb3f95833bdfea7267"
+      },
+      {
+        "name": "homeeconomicsfor00kohl.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "homeeconomicsfor00kohl_page_numbers.json",
+        "mtime": "1724645688",
+        "size": "16395884",
+        "md5": "6ae9b88596bfc9d2abebd992279cb884",
+        "crc32": "3916012f",
+        "sha1": "07c3e2f667698f7e9b94cb57084bcfff8d0522b4",
+        "private": "true"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "homeeconomicsfor00kohl_jp2.zip",
+        "mtime": "1539016184",
+        "size": "8281801",
+        "md5": "c12a5639d72b12ed440e5620fc8bd0bf",
+        "crc32": "b8cae339",
+        "sha1": "cee65034af75ffde5c19bcf1880f40b2ae631f36",
+        "private": "true"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "homeeconomicsfor00kohl_abbyy.gz",
+        "mtime": "1660166685",
+        "size": "7259546",
+        "md5": "9eadd982143b52b2a26f32f63f40cedb",
+        "crc32": "e66a00b3",
+        "sha1": "8099a5d649d15d30346408fcbd125948873eaec1",
+        "private": "true"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "homeeconomicsfor00kohl_scandata.xml",
+        "mtime": "1670201440",
+        "size": "781",
+        "md5": "47b3b2d8336593528997a984af6ad4fa",
+        "crc32": "acf23e49",
+        "sha1": "5d873fecd0a1583c6b031606362ebb7761dcc05e",
+        "private": "true"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_dc.xml",
+        "source": "original",
+        "mtime": "1537972023",
+        "size": "656",
+        "md5": "64e9ae35344faf09966304f476814222",
+        "crc32": "05b96a1c",
+        "sha1": "cc1ac333a5423301347744c9b6cb696140e0f0be",
+        "format": "Dublin Core"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "homeeconomicsfor00kohl_djvu.xml",
+        "mtime": "1660167495",
+        "size": "670209",
+        "md5": "3b9ecd674477b1cffd12341ae312a6ff",
+        "crc32": "07e9e8da",
+        "sha1": "2294db11924c1bcf9ae7ae5524070d82f41356e4",
+        "private": "true"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "homeeconomicsfor00kohl_hocr.html",
+        "mtime": "1660167225",
+        "size": "7564904",
+        "md5": "66d9057c5ee31a4f4cd365084fd53e1a",
+        "crc32": "a1667ee7",
+        "sha1": "f34e3621f8cb81f186f6e09fba8748e7a63e543b",
+        "private": "true"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "homeeconomicsfor00kohl_abbyy.gz",
+        "mtime": "1539018971",
+        "size": "2473712",
+        "md5": "adfad47b9e455f6f27e7d69a85478a2f",
+        "crc32": "d952c20e",
+        "sha1": "1a1f91f759086789c3821c464fece50dbf223a85"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "homeeconomicsfor00kohl.pdf",
+        "mtime": "1724645964",
+        "size": "16197565",
+        "md5": "6fea529fc0a444bae254e3991d750eec",
+        "crc32": "fa43ac24",
+        "sha1": "343c0686acb1910418ad5430174faf5701e2775a"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_events.json",
+        "source": "original",
+        "mtime": "1539011094",
+        "size": "58",
+        "md5": "8c3b764e31422e6a6733d93a67c39be4",
+        "crc32": "624461da",
+        "sha1": "eb5f6deb723ce717b440b7d40d5a5026cc13879c",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "da2d684bb7cc9a657ff7eaafd4487227",
+        "summation": "md5"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "homeeconomicsfor00kohl_chocr.html.gz",
+        "mtime": "1660167184",
+        "size": "15185545",
+        "md5": "3b3eca763a8cc9b571f584f3d0eebd70",
+        "crc32": "55c21fe2",
+        "sha1": "d81a9823c4e7745a1a758cb8aef877b4a9e28b69",
+        "private": "true"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "homeeconomicsfor00kohl_hocr.html",
+        "mtime": "1660167337",
+        "size": "2954",
+        "md5": "8e21b2e7a4003c48491aafff256be985",
+        "crc32": "47b85a69",
+        "sha1": "33a0b46d021056fc857e28f25deb0b3859d3305f",
+        "private": "true"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "502",
+        "word_conf_11_20": "112",
+        "word_conf_21_30": "114",
+        "word_conf_31_40": "181",
+        "word_conf_41_50": "323",
+        "word_conf_51_60": "666",
+        "word_conf_61_70": "2106",
+        "word_conf_71_80": "6998",
+        "word_conf_81_90": "23444",
+        "word_conf_91_100": "58157",
+        "format": "OCR Search Text",
+        "original": "homeeconomicsfor00kohl_hocr.html",
+        "mtime": "1660167462",
+        "size": "206116",
+        "md5": "a50e2f2be48a650c956994d2ea542a18",
+        "crc32": "72b5cb3b",
+        "sha1": "4570d00ac470724127f2655ddb99cc6b62b5f26c",
+        "private": "true"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "homeeconomicsfor00kohl_orig_jp2.tar",
+        "mtime": "1539014689",
+        "size": "155915213",
+        "md5": "2c45d356714771dadbdce98e8e02933a",
+        "crc32": "e2c6d32a",
+        "sha1": "44e0bb9c978a33f1b80d8f43415a8362769ff126",
+        "private": "true",
+        "filecount": "244"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "homeeconomicsfor00kohl.epub",
+        "mtime": "1753462952",
+        "size": "16956320",
+        "md5": "f031ef23274ede1a68e99a1ee3826f01",
+        "crc32": "e3e6b626",
+        "sha1": "9b50f0f3748682d52770d28bf010050bedbc249b"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_loans.json",
+        "source": "original",
+        "mtime": "1599284046",
+        "size": "1833",
+        "format": "JSON",
+        "private": "true",
+        "md5": "ef3576bcc083121e2939f8e5f91651bf",
+        "crc32": "c48a3154",
+        "sha1": "d1d35207c5e0ebed04c607718efa02fda14054e9"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_marc.xml",
+        "source": "original",
+        "mtime": "1537972023",
+        "size": "2757",
+        "md5": "9db10150ab9fdb808cf3a0f6a7d9cd4c",
+        "crc32": "5ce23517",
+        "sha1": "71474366cb23fc05b7dc43cbd60c672ea3fed5e4",
+        "format": "MARC"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_meta.mrc",
+        "source": "original",
+        "mtime": "1537972023",
+        "size": "770",
+        "md5": "085694880e66b32cbdf251434e12463c",
+        "crc32": "444b750b",
+        "sha1": "c40847a2d0f594000ada252c3b81e7598767ff1c",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_meta.sqlite",
+        "source": "original",
+        "mtime": "1539011125",
+        "size": "13312",
+        "format": "Metadata",
+        "md5": "e2c70584e1023c41ff1499f556ab4248",
+        "crc32": "4b1c5f7f",
+        "sha1": "31415e339bad0a36001f63013657d14baf00823a"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_meta.xml",
+        "source": "original",
+        "mtime": "1753462953",
+        "size": "3155",
+        "format": "Metadata",
+        "md5": "feebaa8ffd37dc648b8094e1212c5f9f",
+        "crc32": "1289f42d",
+        "sha1": "09cca56e004578804babb26be5a54571dc32a6f8"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_metasource.xml",
+        "source": "original",
+        "mtime": "1537972023",
+        "size": "395",
+        "md5": "fad01b37098e814099f44b817c85e202",
+        "crc32": "b1220cad",
+        "sha1": "ad37e808267b443597fa5f2c49e679c28ce2e445",
+        "format": "MARC Source"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1539011125",
+        "size": "243374080",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "31d76362fda09c7c5f674e000edc369f",
+        "crc32": "6a6d8bbc",
+        "sha1": "15f462baec7f4cb1ccc2d901b1ffbd7f25e91ea4",
+        "filecount": "244"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "homeeconomicsfor00kohl_hocr.html",
+        "mtime": "1724645674",
+        "size": "41127",
+        "md5": "dcc159e5904ff6b61eb1e6fcca7fabad",
+        "crc32": "8b74edb5",
+        "sha1": "9739a0ad3d58d5eabb26616efffbfde4e9b9aafc",
+        "private": "true"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_scandata.xml",
+        "source": "original",
+        "mtime": "1670201440",
+        "size": "248120",
+        "format": "Scandata",
+        "md5": "204b54ac361092ffe5beba22fd821e53",
+        "crc32": "8a583b8e",
+        "sha1": "3eb743be0130398fd7c3797cde5e6019b89c2521"
+      },
+      {
+        "name": "homeeconomicsfor00kohl_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "homeeconomicsfor00kohl_djvu.xml",
+        "mtime": "1670201096",
+        "size": "101255",
+        "md5": "61d27f9c215c9a8e5342ceadc925f095",
+        "crc32": "e4d86ccd",
+        "sha1": "9cbbace14c5bc020ad2f7526c01a4915be920e29",
+        "private": "true"
+      },
+      {
+        "name": "logs/homeeconomicsfor00kohl_iabdash_2018-10-0413:33:03.log",
+        "source": "original",
+        "mtime": "1538674430",
+        "size": "683",
+        "md5": "627b3d2bd5da6716a384c224b911fa96",
+        "crc32": "fd95f7ce",
+        "sha1": "1d5f0749c480ee1ec4a08f76187ecd08e00f626f",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/homeeconomicsfor00kohl_scanning_2018-10-0413:32:57.log",
+        "source": "original",
+        "mtime": "1538674424",
+        "size": "445151",
+        "md5": "68fb88a7e77ac7f5c19767404f64f2af",
+        "crc32": "04c36608",
+        "sha1": "f2744a8a54e1054cd0e98bd6b7632a1ec4282c45",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753462953,
+    "item_size": 524508217,
+    "metadata": {
+      "title": "Home economics for young men : a teaching guide",
+      "creator": "Kohlmann, Eleanore L., 1916-",
+      "subject": "Home economics -- Study and teaching",
+      "description": [
+        "xvi, 214 p. ; 28 cm",
+        "Includes bibliographies and index"
+      ],
+      "publisher": "Ames : Iowa State University Press",
+      "date": "1975-01-01",
+      "language": "eng",
+      "isbn": "0813808200",
+      "lccn": "74023479",
+      "page-progression": "lr",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "indiana",
+      "mediatype": "texts",
+      "shiptracking": "MDB82",
+      "repub_state": "19",
+      "updatedate": "2018-09-26 14:27:03",
+      "updater": "Emilee Smits",
+      "identifier": "homeeconomicsfor00kohl",
+      "uploader": "associate-emilee-smits@archive.org",
+      "addeddate": "2018-09-26 14:27:05",
+      "publicdate": "2018-09-26 14:27:14",
+      "scanner": "scribe6.indiana.archive.org",
+      "operator": "associate-christine-calhoun@archive.org",
+      "tts_version": "v1.60",
+      "imagecount": "244",
+      "scandate": "20181004192923",
+      "ppi": "300",
+      "republisher_operator": "associate-ladonna-hartmann@archive.org",
+      "republisher_date": "20181008110450",
+      "republisher_time": "256",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/homeeconomicsfor00kohl",
+      "identifier-ark": "ark:/13960/t8kd95q09",
+      "bookplateleaf": "0005",
+      "external-identifier": [
+        "urn:acs6:homeeconomicsfor00kohl:epub:f12668c8-bbb3-48e0-a9eb-3d25d6928df5",
+        "urn:acs6:homeeconomicsfor00kohl:pdf:f5dc1b79-91f4-4176-85a4-92e05208b282",
+        "urn:oclc:record:1149451666",
+        "urn:lcp:homeeconomicsfor00kohl:lcpdf:d389ea9b-3d91-4224-8459-d1936014f617",
+        "urn:lcp:homeeconomicsfor00kohl:epub:aa4a1bd2-0309-4d0d-9ffa-2e7fcc87b175"
+      ],
+      "scanfee": "300;10;200",
+      "invoice": "11",
+      "boxid": "IA1615818",
+      "openlibrary_edition": "OL5059678M",
+      "openlibrary_work": "OL7012495W",
+      "access-restricted-item": "true",
+      "backup_location": "ia906802_13",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__num_history": "5",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "1975-01-01"
+      ]
+    },
+    "server": "ia802901.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "johnshopkins-ol": {
+          "notes": {
+            "isbn": [
+              "9780813808208"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-03-31 11:44:05.283859"
+        },
+        "unb-ol": {
+          "notes": {
+            "isbn": [
+              "9780813808208"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-05-18 09:47:51.224131"
+        },
+        "uni-ol": {
+          "notes": {
+            "isbn": [
+              "9780813808208"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-04-24 02:53:52.439579"
+        },
+        "universityofarizona-ol": {
+          "notes": {
+            "isbn": [
+              "9780813808208"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-04-14 07:40:23.836371"
+        },
+        "universityofoklahoma-ol": {
+          "notes": {
+            "isbn": [
+              "9780813808208"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-12-05 02:47:37.674381"
+        },
+        "wrlc-ol": {
+          "notes": {
+            "isbn": [
+              "9780813808208"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-10-08 05:33:26.97204"
+        }
+      }
+    },
+    "uniq": 1508876825,
+    "workable_servers": [
+      "ia802901.us.archive.org",
+      "ia902901.us.archive.org"
+    ]
+  }
+}

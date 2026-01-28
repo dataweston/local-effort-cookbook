@@ -1,0 +1,275 @@
+{
+  "source": "internet_archive",
+  "identifier": "StoutUndergraduateBulletin1920_1921",
+  "title": "Undergraduate Bulletin [1920-1921]",
+  "creator": "University of Wisconsin--Stout. University Relations.",
+  "year": 1920,
+  "subject": "University of Wisconsin--Stout--History. University of Wisconsin--Stout--Periodicals. University of Wisconsin--Stout--Curricula. Home economics--Study and teaching--History. Art--Study and teaching--History. Industrial arts--Study and teaching--History. Physical education and training--Wisconsin--Menomonie--History.",
+  "description": "Annual and biennial bulletins of the University of Wisconsin-Stout and its predecessor institutions. The bulletins provide descriptions of campus, lists of administrators and faculty, information on institutional objectives, courses offered, and curriculum.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721503.ca.archive.org",
+          "dir": "/0/items/StoutUndergraduateBulletin1920_1921"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721503.ca.archive.org",
+          "dir": "/0/items/StoutUndergraduateBulletin1920_1921"
+        }
+      ]
+    },
+    "created": 1758337477,
+    "d1": "ia601807.us.archive.org",
+    "d2": "ia801807.us.archive.org",
+    "dir": "/17/items/StoutUndergraduateBulletin1920_1921",
+    "files": [
+      {
+        "name": "1920-1921_UndergraduateBulletin.pdf",
+        "source": "original",
+        "mtime": "1675957589",
+        "size": "7807614",
+        "md5": "30d33516d44f64544fdc32c53158017d",
+        "crc32": "505cf011",
+        "sha1": "94ce4f95cb978f5c409d499b2ce6dd15caf92211",
+        "format": "Text PDF"
+      },
+      {
+        "name": "1920-1921_UndergraduateBulletin_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-1-gd3a4",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.8602",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "1920-1921_UndergraduateBulletin_jp2.zip",
+        "mtime": "1675957983",
+        "size": "1714633",
+        "md5": "42748d93c9a83eb985ece53a8ff8fac8",
+        "crc32": "0099b09b",
+        "sha1": "57a403d77850c6feadce41485701d9c6f08a437f"
+      },
+      {
+        "name": "1920-1921_UndergraduateBulletin_cloth_detection.log",
+        "source": "derivative",
+        "format": "Cloth Cover Detection Log",
+        "original": "1920-1921_UndergraduateBulletin_scandata.xml",
+        "mtime": "1675958044",
+        "size": "484",
+        "md5": "d23902c9b526c9ba9a487da4f5ceb36f",
+        "crc32": "df21657b",
+        "sha1": "e99c5131c83fc68de861e0d983f95abb3f9c0472"
+      },
+      {
+        "name": "1920-1921_UndergraduateBulletin_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "1920-1921_UndergraduateBulletin_djvu.xml",
+        "mtime": "1675958022",
+        "size": "123449",
+        "md5": "07753d93dcbd5d266fd6a0c80933cb11",
+        "crc32": "d7d9440d",
+        "sha1": "ea5f1e53ef6617b5013b2b2322efe61cc9f4d128"
+      },
+      {
+        "name": "1920-1921_UndergraduateBulletin_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "1920-1921_UndergraduateBulletin_hocr.html",
+        "mtime": "1675958003",
+        "size": "1501812",
+        "md5": "1b2ce7fcefb62e45af7300a9fb084902",
+        "crc32": "0a1ab6f2",
+        "sha1": "94bf41b0f9e832aaba8660bcd796a4488d2d080e"
+      },
+      {
+        "name": "1920-1921_UndergraduateBulletin_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.8602",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "1920-1921_UndergraduateBulletin_chocr.html.gz",
+        "mtime": "1675957995",
+        "size": "2772349",
+        "md5": "28d4ca13a3b260aa9159e82ed768260b",
+        "crc32": "f9e47e38",
+        "sha1": "85c335dcd39efe235f2a4447a3e3a683b99f2629"
+      },
+      {
+        "name": "1920-1921_UndergraduateBulletin_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "1920-1921_UndergraduateBulletin_hocr.html",
+        "mtime": "1675958006",
+        "size": "630",
+        "md5": "ccd7638e0ea3c59942afe7df6c1333ac",
+        "crc32": "35687b4d",
+        "sha1": "6ea183ce3b7670558308ce4e1f1f69eda145aa58"
+      },
+      {
+        "name": "1920-1921_UndergraduateBulletin_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "482",
+        "word_conf_11_20": "133",
+        "word_conf_21_30": "126",
+        "word_conf_31_40": "94",
+        "word_conf_41_50": "115",
+        "word_conf_51_60": "80",
+        "word_conf_61_70": "124",
+        "word_conf_71_80": "218",
+        "word_conf_81_90": "724",
+        "word_conf_91_100": "16683",
+        "format": "OCR Search Text",
+        "original": "1920-1921_UndergraduateBulletin_hocr.html",
+        "mtime": "1675958015",
+        "size": "42047",
+        "md5": "8474ba67dbf490958f1fcc23d03e7ad9",
+        "crc32": "56442063",
+        "sha1": "fee874dabd3717b6b28f7710ba73b1150b795a33"
+      },
+      {
+        "name": "1920-1921_UndergraduateBulletin_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "1920-1921_UndergraduateBulletin.pdf",
+        "mtime": "1675957704",
+        "size": "14941938",
+        "md5": "ed3addee569ff6d0dda7052d87f75d72",
+        "crc32": "3fe74345",
+        "sha1": "3f607f6f7d9d3ae2e3707137ed58dafaaa9e9224",
+        "filecount": "54"
+      },
+      {
+        "name": "1920-1921_UndergraduateBulletin_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "1920-1921_UndergraduateBulletin_djvu.xml",
+        "mtime": "1675958041",
+        "size": "10258",
+        "md5": "6a72de6f6f7bfe1ca0f360494bf90ae0",
+        "crc32": "8c8a1948",
+        "sha1": "6991f24cde5ca6261277f698d5f1119f3e811555"
+      },
+      {
+        "name": "1920-1921_UndergraduateBulletin_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "1920-1921_UndergraduateBulletin_djvu.xml",
+        "mtime": "1675958041",
+        "size": "19145",
+        "md5": "ddb254c019b8aa8dec38995309124063",
+        "crc32": "4dd25ba1",
+        "sha1": "ce17f944ce4584dc86726637a571b0cf19fd3c2d"
+      },
+      {
+        "name": "StoutUndergraduateBulletin1920_1921_archive.torrent",
+        "source": "metadata",
+        "btih": "e1d1555f754ee55226c7c60a6c7908b58e41500d",
+        "mtime": "1675958055",
+        "size": "5118",
+        "md5": "048f4a4365322eaf7f4dff4f6295a5bc",
+        "crc32": "669377e4",
+        "sha1": "0147e9e2ee8f74567939d0cf5b4231fa505998a5",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "StoutUndergraduateBulletin1920_1921_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "d3316cd9d17ee72d031a7d7c66d125f0",
+        "summation": "md5"
+      },
+      {
+        "name": "StoutUndergraduateBulletin1920_1921_meta.sqlite",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1675957595",
+        "size": "12288",
+        "md5": "6b74abc5f6484a9a0bf7d8767b7af677",
+        "crc32": "b49647fd",
+        "sha1": "4dd2df55ff2b43d26b11b2066977f3903f6be9f1"
+      },
+      {
+        "name": "StoutUndergraduateBulletin1920_1921_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1675958041",
+        "size": "2153",
+        "md5": "236ed2c2c31ac28e730e130f14a7e2d6",
+        "crc32": "b8e5c76c",
+        "sha1": "c9e819ae7f290095e2b079b1342939a795aadea0"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1675958054",
+        "size": "13997",
+        "md5": "9b071c86acf5e83a2edbd8fe4bc6152d",
+        "crc32": "c9a21419",
+        "sha1": "97bd2e0568c8a864072ac42e781935bd0e66c65c",
+        "format": "Item Tile",
+        "rotation": "0"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1675958055,
+    "item_size": 28967915,
+    "metadata": {
+      "identifier": "StoutUndergraduateBulletin1920_1921",
+      "mediatype": "texts",
+      "creator": "University of Wisconsin--Stout. University Relations.",
+      "date": "1920-01-01",
+      "description": "<span style=\"font-family:Arial, Helvetica, sans-serif;font-size:13px;background-color:rgb(255,255,255);\">Annual and biennial bulletins of the University of Wisconsin-Stout and its predecessor institutions. The bulletins provide descriptions of campus, lists of administrators and faculty, information on institutional objectives, courses offered, and curriculum.</span>",
+      "language": "eng",
+      "licenseurl": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.5.2",
+      "subject": "University of Wisconsin--Stout--History. University of Wisconsin--Stout--Periodicals. University of Wisconsin--Stout--Curricula. Home economics--Study and teaching--History. Art--Study and teaching--History. Industrial arts--Study and teaching--History. Physical education and training--Wisconsin--Menomonie--History.",
+      "title": "Undergraduate Bulletin [1920-1921]",
+      "publicdate": "2014-07-15 17:29:53",
+      "uploader": "steckleinh@uwstout.edu",
+      "addeddate": "2014-07-15 17:29:53",
+      "identifier-access": "http://archive.org/details/StoutUndergraduateBulletin1920_1921",
+      "identifier-ark": "ark:/13960/t3807t55b",
+      "ppi": "300",
+      "repub_state": "4",
+      "collection": [
+        "stoutbulletins",
+        "universityofwisconsinstoutarchives",
+        "americana"
+      ],
+      "backup_location": "ia905900_22",
+      "ocr": "tesseract 5.3.0-1-gd3a4",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.18",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.8602",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "90.57",
+      "normalized_dates": [
+        "1920-01-01"
+      ]
+    },
+    "server": "ia601807.us.archive.org",
+    "uniq": 545865079,
+    "workable_servers": [
+      "ia601807.us.archive.org",
+      "ia801807.us.archive.org"
+    ]
+  }
+}

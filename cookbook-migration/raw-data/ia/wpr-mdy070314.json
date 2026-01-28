@@ -1,0 +1,148 @@
+{
+  "source": "internet_archive",
+  "identifier": "wpr-mdy070314",
+  "title": "The Midday 2007-03-14 12:00pm",
+  "creator": "The Midday",
+  "year": 2007,
+  "subject": [
+    "Wisconsin Public Radio",
+    "The Midday"
+  ],
+  "description": "Robert McDuffie - Norman and Vicki interview violinist Robert McDuffie who performed with the Madison Symphony Orchestra in Madison March 16th.",
+  "metadata": {
+    "created": 1758319860,
+    "d1": "ia600305.us.archive.org",
+    "d2": "ia800305.us.archive.org",
+    "dir": "/3/items/wpr-mdy070314",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1535901536",
+        "size": "2606",
+        "md5": "6f4dc330b8eb4f912dbaa68b93ef8a1a",
+        "crc32": "0a888454",
+        "sha1": "fa8b66aa2ffe3d98427e5b47d8a5a3744d056764",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "mdy070314.mp3",
+        "source": "original",
+        "format": "VBR MP3",
+        "length": "1010.29",
+        "height": "0",
+        "width": "0",
+        "mtime": "1401125013",
+        "size": "16164625",
+        "md5": "d2fd140a0eb021fd04f62a7a4201d726",
+        "crc32": "692edd48",
+        "sha1": "fa4cce77358b9740145364fbe34928cc4c52a0b0",
+        "title": "WPR Midday Interview with violinist Robert McDuffie",
+        "artist": "03/14/2007",
+        "external-identifier": "urn:acoustid:unknown",
+        "private": "true"
+      },
+      {
+        "name": "mdy070314.ogg",
+        "source": "derivative",
+        "format": "Ogg Vorbis",
+        "original": "mdy070314.mp3",
+        "mtime": "1401125081",
+        "size": "9317867",
+        "md5": "6f0db7e601bb54d777c3a246a7edd236",
+        "crc32": "2593210c",
+        "sha1": "6dc0c9e1d8c9ff7ae29ab3dbe31fd327132a467d",
+        "length": "1006.18",
+        "height": "0",
+        "width": "0",
+        "private": "true"
+      },
+      {
+        "name": "mdy070314.png",
+        "source": "derivative",
+        "format": "PNG",
+        "original": "mdy070314.mp3",
+        "mtime": "1415169124",
+        "size": "8881",
+        "md5": "f4541a4e38cdf5e3b68827f6c1ea0df8",
+        "crc32": "9632a6ae",
+        "sha1": "9ea6b28766b2a7a26d01d789f5ba607252a56bf4",
+        "private": "true"
+      },
+      {
+        "name": "wpr-mdy070314_archive.torrent",
+        "source": "metadata",
+        "btih": "6e3709569f19add4ab663501db0161d0222e4d27",
+        "mtime": "1408630684",
+        "size": "2784",
+        "md5": "98c0cc0cb7697710d443bfdfc53136d2",
+        "crc32": "866efd4a",
+        "sha1": "622709b61cf04cbc0bd0dee3a985bbf693e39b52",
+        "format": "Archive BitTorrent",
+        "private": "true"
+      },
+      {
+        "name": "wpr-mdy070314_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "6d6a6b77b737b248f4c3610d0a1d8cd5",
+        "summation": "md5"
+      },
+      {
+        "name": "wpr-mdy070314_meta.sqlite",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1401125030",
+        "size": "8192",
+        "md5": "e2d4d9c52caff7933cb4c2f1b46fd5c9",
+        "crc32": "6da7f8db",
+        "sha1": "a65548c40ee7133d9e13c151cffddb020b3b041b"
+      },
+      {
+        "name": "wpr-mdy070314_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1713189981",
+        "size": "1010",
+        "md5": "397b529c619694606c5020f455360592",
+        "crc32": "23061ce6",
+        "sha1": "52b01dd84fadced56edb9d0fe0e21e19ca5a7c2f"
+      }
+    ],
+    "files_count": 8,
+    "item_last_updated": 1713189981,
+    "item_size": 25505965,
+    "metadata": {
+      "identifier": "wpr-mdy070314",
+      "creator": "The Midday",
+      "date": "2007-03-14",
+      "description": "<a href=\"http://www.wpr.org/shows/robert-mcduffie\" rel=\"nofollow\">Robert McDuffie</a> - Norman and Vicki interview violinist  Robert McDuffie who performed with the Madison Symphony Orchestra in Madison March 16th.",
+      "language": "english",
+      "mediatype": "audio",
+      "subject": "Wisconsin Public Radio; The Midday;",
+      "title": "The Midday 2007-03-14 12:00pm",
+      "year": "2007",
+      "collection": [
+        "themidday",
+        "podcasts_mirror",
+        "podcasts_mirror_godane"
+      ],
+      "publicdate": "2014-05-26 17:23:34",
+      "uploader": "slaxemulator@gmail.com",
+      "addeddate": "2014-05-26 17:23:34",
+      "boxid": "OL100020505",
+      "backup_location": "ia905808_8",
+      "collection_added": "podcasts_mirror_godane",
+      "normalized_dates": [
+        "2007-03-14"
+      ]
+    },
+    "server": "ia600305.us.archive.org",
+    "uniq": 811585344,
+    "workable_servers": [
+      "ia600305.us.archive.org",
+      "ia800305.us.archive.org"
+    ]
+  }
+}

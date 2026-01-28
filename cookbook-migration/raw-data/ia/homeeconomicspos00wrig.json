@@ -1,0 +1,471 @@
+{
+  "source": "internet_archive",
+  "identifier": "homeeconomicspos00wrig",
+  "title": "Home economics positions in Minneapolis",
+  "creator": "Wright, Barbara H",
+  "year": 1922,
+  "subject": "Home economics -- Vocational guidance -- Minnesota -- Minneapolis",
+  "description": [
+    "1 folded sheet (8 p.) ; 16 cm",
+    "Cover title",
+    "\"August 1922.\""
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/homeeconomicspos00wrig"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/homeeconomicspos00wrig"
+        }
+      ]
+    },
+    "created": 1758337148,
+    "d1": "ia904501.us.archive.org",
+    "d2": "ia804501.us.archive.org",
+    "dir": "/3/items/homeeconomicspos00wrig",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1653677186",
+        "size": "23267",
+        "md5": "2afc38e5ab30fb5e7d7e18f8c6bc3b1e",
+        "crc32": "ef2ccf9f",
+        "sha1": "7622f1efa01cd2f0b22d9152394ad29e900bb5ff",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "homeeconomicspos00wrig.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "homeeconomicspos00wrig_page_numbers.json",
+        "mtime": "1724645589",
+        "size": "1075575",
+        "md5": "6a7989ecb8afb3c84e0cbf804098b7e3",
+        "crc32": "63abbffa",
+        "sha1": "efedb1b9e2e6480bfcadcd10058a74c02653f0b6"
+      },
+      {
+        "name": "homeeconomicspos00wrig_archive.torrent",
+        "source": "metadata",
+        "btih": "b8f95fb982802caf0ac3593a5a6a2c34e1f89307",
+        "mtime": "1724645859",
+        "size": "5692",
+        "md5": "2b4a509e7b7df09d8d3ea2b5236a5141",
+        "crc32": "b26c3234",
+        "sha1": "791473197731871d2f97ea3f5bbdb7d8e654c67f",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "homeeconomicspos00wrig_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-1-g862e",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.15",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "homeeconomicspos00wrig_jp2.zip",
+        "mtime": "1652942356",
+        "size": "153406",
+        "md5": "135b110d07b8531e3ce8e4b6a45791c7",
+        "crc32": "793dad38",
+        "sha1": "b78cbda16b843a2d01a648541eee42dfaa2a4603"
+      },
+      {
+        "name": "homeeconomicspos00wrig_cloth_detection.log",
+        "source": "derivative",
+        "format": "Cloth Cover Detection Log",
+        "original": "homeeconomicspos00wrig_scandata.xml",
+        "mtime": "1652942310",
+        "size": "457",
+        "md5": "cc52f711c6c4254d474134c44ed7569b",
+        "crc32": "ae449480",
+        "sha1": "ae260ac44aa2a823c5e2264adde2be5478985cd2"
+      },
+      {
+        "name": "homeeconomicspos00wrig_dc.xml",
+        "source": "original",
+        "mtime": "1650998750",
+        "size": "1430",
+        "md5": "87351e5c0b1c5cbe7b525bd495c824e9",
+        "crc32": "5808740c",
+        "sha1": "c3e2cfa2c4567f158152adb35f34f736b819ac28",
+        "format": "Dublin Core"
+      },
+      {
+        "name": "homeeconomicspos00wrig_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "homeeconomicspos00wrig_djvu.xml",
+        "mtime": "1652942390",
+        "size": "11075",
+        "md5": "2c1d1d4cf615e352b9b0d9172f8b1fec",
+        "crc32": "b0f5b5e5",
+        "sha1": "3eb0b0e68124272d8c466065cce44d0e22e049da"
+      },
+      {
+        "name": "homeeconomicspos00wrig_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "homeeconomicspos00wrig_hocr.html",
+        "mtime": "1652942373",
+        "size": "144303",
+        "md5": "0d94fa6221e9df38e566b347e030e69f",
+        "crc32": "cfb56757",
+        "sha1": "a25d326edd30d88ba0c0ed08e69df9c382520b1c"
+      },
+      {
+        "name": "homeeconomicspos00wrig_events.json",
+        "source": "original",
+        "mtime": "1652942164",
+        "size": "57",
+        "md5": "9e407addc31f7adc3fb3e7c3b58d4039",
+        "crc32": "d6292d91",
+        "sha1": "a7c3a90815bf7e28aa2ff837f13f9e65296e429b",
+        "format": "JSON"
+      },
+      {
+        "name": "homeeconomicspos00wrig_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "summation": "md5",
+        "md5": "fbc9be99ba78741d7b08741cf6b2cd45"
+      },
+      {
+        "name": "homeeconomicspos00wrig_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.15",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "homeeconomicspos00wrig_chocr.html.gz",
+        "mtime": "1652942367",
+        "size": "276434",
+        "md5": "b657c104b493ec2916efdef95f89cbfd",
+        "crc32": "69159de4",
+        "sha1": "e5d6be3e21c05feaf36f070f6dec70fcc1c54b74"
+      },
+      {
+        "name": "homeeconomicspos00wrig_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "homeeconomicspos00wrig_hocr.html",
+        "mtime": "1652942375",
+        "size": "138",
+        "md5": "65791f4ef9e3b1e37d0d749319d42e08",
+        "crc32": "0bf6380a",
+        "sha1": "6d7f98f05000f82f5a5ff5f1b4ce3651ca7872ad"
+      },
+      {
+        "name": "homeeconomicspos00wrig_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "13",
+        "word_conf_11_20": "5",
+        "word_conf_21_30": "5",
+        "word_conf_31_40": "7",
+        "word_conf_41_50": "7",
+        "word_conf_51_60": "12",
+        "word_conf_61_70": "17",
+        "word_conf_71_80": "17",
+        "word_conf_81_90": "68",
+        "word_conf_91_100": "1600",
+        "format": "OCR Search Text",
+        "original": "homeeconomicspos00wrig_hocr.html",
+        "mtime": "1652942383",
+        "size": "4494",
+        "md5": "5dbecedb2da8bb74204c25988f4e0ded",
+        "crc32": "4142279e",
+        "sha1": "9085a2f5defdb9acd74a13f882b7aaaeb1b26c52"
+      },
+      {
+        "name": "homeeconomicspos00wrig_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "homeeconomicspos00wrig_orig_jp2.tar",
+        "mtime": "1652942299",
+        "size": "6151587",
+        "md5": "869a9baa4669975c6a9159106ab992b4",
+        "crc32": "5215ca93",
+        "sha1": "59ef41891fcaddd4a981f8af4ed4659eecf4e602",
+        "filecount": "10"
+      },
+      {
+        "name": "homeeconomicspos00wrig_marc.xml",
+        "source": "original",
+        "mtime": "1650998750",
+        "size": "4259",
+        "md5": "2108920f5e8d1f7c98d2a9a251d653b4",
+        "crc32": "7385c937",
+        "sha1": "8da072db21b3e4591cede0d5d1af2362e785a160",
+        "format": "MARC"
+      },
+      {
+        "name": "homeeconomicspos00wrig_meta.mrc",
+        "source": "original",
+        "mtime": "1650998750",
+        "size": "1296",
+        "md5": "1c6cba7fe00918c26cbd4effbaf0f719",
+        "crc32": "e19e3fb5",
+        "sha1": "a73b052a52f60038000f3cd997dd74790a781add",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "homeeconomicspos00wrig_meta.sqlite",
+        "source": "original",
+        "mtime": "1652942188",
+        "size": "32768",
+        "md5": "171d6ddf8b95a6b2131302cff5d523f2",
+        "crc32": "95b5143e",
+        "sha1": "56dec28aedef499d2f2fdb006a3f67b273be9209",
+        "format": "Metadata"
+      },
+      {
+        "name": "homeeconomicspos00wrig_meta.xml",
+        "source": "original",
+        "mtime": "1724645855",
+        "size": "3201",
+        "md5": "c6c8b6f66cd073b006659b93b5a43bac",
+        "crc32": "948f3f27",
+        "sha1": "3a6796f07249a3e0f74123c4b1e99de28ea7ba59",
+        "format": "Metadata"
+      },
+      {
+        "name": "homeeconomicspos00wrig_metasource.xml",
+        "source": "original",
+        "mtime": "1650998750",
+        "size": "324",
+        "md5": "55ca06fbee0b52aa34bc9e30b01cd6c2",
+        "crc32": "3fb59936",
+        "sha1": "682c44682567b30459ae5ed50f369b747b806742",
+        "format": "MARC Source"
+      },
+      {
+        "name": "homeeconomicspos00wrig_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1652942188",
+        "size": "21831680",
+        "md5": "34d3f8ec4d75baa1324a3a87f52b4011",
+        "crc32": "d03caebd",
+        "sha1": "72f9af227c25f6fdaebb57267515ff71a66b4387",
+        "format": "Single Page Original JP2 Tar",
+        "filecount": "10"
+      },
+      {
+        "name": "homeeconomicspos00wrig_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "69",
+        "format": "Page Numbers JSON",
+        "original": "homeeconomicspos00wrig_hocr.html",
+        "mtime": "1724645585",
+        "size": "1485",
+        "md5": "0c5d5301904356a831bc30b991b18147",
+        "crc32": "72246802",
+        "sha1": "ab656a48db29a5a976427c2abf4562fc7b1ff9ed"
+      },
+      {
+        "name": "homeeconomicspos00wrig_scandata.xml",
+        "source": "original",
+        "mtime": "1652942188",
+        "size": "17398",
+        "crc32": "ef5da43c",
+        "sha1": "ad5d9fdafa59886e5e1131297c2aaf4e2d141c32",
+        "format": "Scandata",
+        "md5": "2e868e7245390db84b001c3d338b8a46"
+      },
+      {
+        "name": "logs/homeeconomicspos00wrig_iabdash_2022-05-1710:03:51.log",
+        "source": "original",
+        "mtime": "1652799833",
+        "size": "654",
+        "md5": "2cbacdeaca3b82c6e10823a523a4136b",
+        "crc32": "c198c24f",
+        "sha1": "57b3ec3ae024c8ccad9fa07fdfa97ab31c66f88d",
+        "format": "Log"
+      },
+      {
+        "name": "logs/homeeconomicspos00wrig_scanning_2022-05-1710:03:56.log",
+        "source": "original",
+        "mtime": "1652799838",
+        "size": "68015",
+        "md5": "60c16a01de157ca748fb6ede7e3be588",
+        "crc32": "21c3ae01",
+        "sha1": "0cb877b1f2a658c1706aea4371c61addcf7e2d65",
+        "format": "Log"
+      },
+      {
+        "name": "logs/homeeconomicspos00wrig_status_history_2022-05-1710:03:53.log",
+        "source": "original",
+        "mtime": "1652799835",
+        "size": "756",
+        "md5": "68ed9c194e5c7ea68fca632003307ba3",
+        "crc32": "8ba57ce3",
+        "sha1": "286939a26f3097a0dbd35e06a243aefe581d87d3",
+        "format": "Log"
+      }
+    ],
+    "files_count": 25,
+    "item_last_updated": 1724645859,
+    "item_size": 29809751,
+    "metadata": {
+      "language": "eng",
+      "scanningcenter": "il",
+      "sponsor": "University of Illinois Urbana-Champaign Alternates",
+      "contributor": "University of Illinois Urbana-Champaign",
+      "date": "1922-01-01",
+      "subject": "Home economics -- Vocational guidance -- Minnesota -- Minneapolis",
+      "title": "Home economics positions in Minneapolis",
+      "creator": "Wright, Barbara H",
+      "collection": [
+        "university_of_illinois_urbana-champaign",
+        "americana"
+      ],
+      "shiptracking": "ST014179",
+      "entry_number": "2022_IA_CART_0420_CMS_OAK-093",
+      "call_number": "607 W85b no.11",
+      "barcode": "30112042800141",
+      "copyright_statement": "In public domain. Work published prior to 1927.",
+      "page-progression": "lr",
+      "local_id": "99735472312205899",
+      "publisher": "Minneapolis : Woman's Occupational Bureau",
+      "oclc-id": "29674676",
+      "associated-names": "Weighley, Mildred; Woman's Occupational Bureau (Minneapolis, Minn.)",
+      "description": [
+        "1 folded sheet (8 p.) ; 16 cm",
+        "Cover title",
+        "\"August 1922.\""
+      ],
+      "mediatype": "texts",
+      "repub_state": "19",
+      "updatedate": "2022-04-26 18:45:50",
+      "updater": "associate-lauretta-doellman@archive.org",
+      "identifier": "homeeconomicspos00wrig",
+      "uploader": "associate-lauretta-doellman@archive.org",
+      "publicdate": "2022-04-26 18:45:52",
+      "notes": "No covers. No copyright or table of contents pages. Some pages wavy in physical copy.",
+      "scanner": "scribe2.il.archive.org",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "operator": "associate-taylor-kelsey@archive.org",
+      "tts_version": "5.0-Initial-106-gf3bd5610",
+      "imagecount": "10",
+      "scandate": "20220517153223",
+      "ppi": "500",
+      "republisher_operator": "associate-mae-mirafuentes@archive.org",
+      "republisher_date": "20220519143601",
+      "republisher_time": "372",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/homeeconomicspos00wrig",
+      "identifier-ark": "ark:/13960/s26xsf2zpr8",
+      "ocr": "tesseract 5.0.0-1-g862e",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.15",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "pdf_module_version": "0.0.18",
+      "addeddate": "2022-05-19 06:40:56",
+      "scanfee": "300;10;200",
+      "invoice": "1112",
+      "openlibrary_work": "OL27956480W",
+      "openlibrary_edition": "OL38209822M",
+      "sponsordate": "20220531",
+      "external-identifier": "urn:oclc:record:1402337512",
+      "page_number_confidence": "69",
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "1922-01-01"
+      ]
+    },
+    "page_numbers": {
+      "identifier": "homeeconomicspos00wrig",
+      "format-version": "2",
+      "archive-hocr-tools-version": "1.1.54",
+      "confidence": 69,
+      "pages": [
+        {
+          "leafNum": 1,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 2,
+          "confidence": 88,
+          "pageNumber": "2",
+          "pageProb": 78,
+          "wordConf": 80
+        },
+        {
+          "leafNum": 3,
+          "confidence": 79,
+          "pageNumber": "3",
+          "pageProb": 69,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 4,
+          "confidence": 75,
+          "pageNumber": "4",
+          "pageProb": 65,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 5,
+          "confidence": null,
+          "pageNumber": "5",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 6,
+          "confidence": 94,
+          "pageNumber": "6",
+          "pageProb": 84,
+          "wordConf": 96
+        },
+        {
+          "leafNum": 7,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 8,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        }
+      ]
+    },
+    "server": "ia904501.us.archive.org",
+    "uniq": 444294938,
+    "workable_servers": [
+      "ia904501.us.archive.org",
+      "ia804501.us.archive.org"
+    ]
+  }
+}

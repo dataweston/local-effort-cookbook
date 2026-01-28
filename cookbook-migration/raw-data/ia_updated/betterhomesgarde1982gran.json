@@ -1,0 +1,533 @@
+{
+  "source": "internet_archive",
+  "identifier": "betterhomesgarde1982gran",
+  "title": "Better homes and gardens kitchen appliance cook book",
+  "creator": "Granseth, Sandra",
+  "year": 1982,
+  "subject": [
+    "Cookery",
+    "Kitchen utensils"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/betterhomesgarde1982gran"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/betterhomesgarde1982gran"
+        }
+      ]
+    },
+    "created": 1758556346,
+    "d1": "ia600208.us.archive.org",
+    "d2": "ia800208.us.archive.org",
+    "dir": "/25/items/betterhomesgarde1982gran",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658705397",
+        "size": "18686",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "d47f7392327e19728e06820ed9024bc1",
+        "crc32": "608375eb",
+        "sha1": "dcf105d01c55cd6d60962ae15e47801f2d27650e"
+      },
+      {
+        "name": "betterhomesgarde1982gran.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "betterhomesgarde1982gran_hocr.html",
+        "mtime": "1755040729",
+        "size": "11965728",
+        "private": "true",
+        "md5": "7a7d700470b7def3d0b02a374274510a",
+        "crc32": "90b6748b",
+        "sha1": "167250674957514a52c8ebade55ad3ad9dd6d404"
+      },
+      {
+        "name": "betterhomesgarde1982gran.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "betterhomesgarde1982gran_jp2.zip",
+        "md5": "5f01310b21d22ea272ac784c78536bcd",
+        "mtime": "1275008075",
+        "size": "243507",
+        "crc32": "fdc60b4b",
+        "sha1": "54e31b906490e85edfa721b9173b7729b0593469"
+      },
+      {
+        "name": "betterhomesgarde1982gran.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "betterhomesgarde1982gran.pdf",
+        "mtime": "1755040658",
+        "size": "12485623",
+        "md5": "c7676c321e6d7d7230fdbf3ae6d10e3a",
+        "crc32": "056a7a85",
+        "sha1": "bafaf5145be61e46421ea412541d2bce3ce4c6d2"
+      },
+      {
+        "name": "betterhomesgarde1982gran.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "betterhomesgarde1982gran_page_numbers.json",
+        "mtime": "1716665104",
+        "size": "12211632",
+        "md5": "f3117cdef9438612afdca6ccb7cb2ff7",
+        "crc32": "c9d18d22",
+        "sha1": "ee9ecbd2be6d025f7988507cb8684697686ad56f",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde1982gran_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "betterhomesgarde1982gran_jp2.zip",
+        "md5": "b0a464560dbf3a9621910b63ed61bbbb",
+        "mtime": "1275013124",
+        "size": "10496902",
+        "crc32": "dbb6d282",
+        "sha1": "8d72c479678e401e81830e7eb3aa88488c996492",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde1982gran_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "betterhomesgarde1982gran_page_numbers.json",
+        "mtime": "1716665108",
+        "size": "10623144",
+        "md5": "196711c3926380a2e93712894efa8892",
+        "crc32": "605bb7f3",
+        "sha1": "45afc455c2e1f50180b4f7eb7c56ac9aab09ac79",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde1982gran_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "betterhomesgarde1982gran_abbyy.gz",
+        "mtime": "1658704828",
+        "size": "8530996",
+        "md5": "c80f4f19e1a0c3b99ea90baf85069dbc",
+        "crc32": "7a18c642",
+        "sha1": "20d0df68b1e67ee189c6d4306fd0aa82cf2b75f6",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde1982gran_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "betterhomesgarde1982gran_scandata.xml",
+        "mtime": "1669422039",
+        "size": "786",
+        "md5": "9e91e90b4203a7aca0322337b1068aa5",
+        "crc32": "54ec0984",
+        "sha1": "47d28c04beb12824509d6ea8ef4eb2e079caf8d8",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde1982gran_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "3a687efef2a8ef1cba5f4f7189c282d4",
+        "mtime": "1274380382",
+        "size": "737",
+        "crc32": "6080de14",
+        "sha1": "f950e7b1fa2f703a53c2d800fd0b8061f8363589"
+      },
+      {
+        "name": "betterhomesgarde1982gran_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "betterhomesgarde1982gran_djvu.xml",
+        "mtime": "1720013223",
+        "size": "762285",
+        "md5": "07c35afa4f0e704fc206627b3d73202f",
+        "crc32": "020c17dc",
+        "sha1": "f2f38983528940b211a6d7122cd7c11932239979",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde1982gran_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "betterhomesgarde1982gran_hocr.html",
+        "mtime": "1720013220",
+        "size": "9064008",
+        "md5": "7b806e01c324a54764cf3c929a95c17c",
+        "crc32": "4265f050",
+        "sha1": "c5f039278184cf42afdf83b44eba047cfc2f6995",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde1982gran_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "betterhomesgarde1982gran.pdf",
+        "mtime": "1716665788",
+        "size": "12169085",
+        "md5": "ba57a8be5b34e68353024fbc70a0aaf6",
+        "crc32": "200fb3ad",
+        "sha1": "f5655f9030c97c77c058660bac3943929a1895ff"
+      },
+      {
+        "name": "betterhomesgarde1982gran_extramarc.xml",
+        "source": "original",
+        "mtime": "1402188877",
+        "size": "2908",
+        "md5": "483d22a64508024ca5ad73307d41d542",
+        "crc32": "612ba274",
+        "sha1": "208b140dede4b99d6e6e064e8f8174ddd0ca454e",
+        "format": "Metadata"
+      },
+      {
+        "name": "betterhomesgarde1982gran_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9debdd782e20ed3a1c317cf40176d0e6",
+        "summation": "md5"
+      },
+      {
+        "name": "betterhomesgarde1982gran_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "betterhomesgarde1982gran_chocr.html.gz",
+        "mtime": "1658705045",
+        "size": "18557282",
+        "md5": "63571bb0bd507ba83da20fde5a62fd8b",
+        "crc32": "b3bbf400",
+        "sha1": "3680ce4ed7e39ca2b44d62d3861f023a9b6e75a3",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde1982gran_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "betterhomesgarde1982gran_hocr.html",
+        "mtime": "1658705213",
+        "size": "3028",
+        "md5": "fad4a7ca753efe544874f2118047dbc6",
+        "crc32": "cf3886c9",
+        "sha1": "9af8bd3bc2133a705c80c9f325c2e3fb415672e4",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde1982gran_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "9503",
+        "word_conf_11_20": "9317",
+        "word_conf_21_30": "15738",
+        "word_conf_31_40": "17897",
+        "word_conf_41_50": "18415",
+        "word_conf_51_60": "16723",
+        "word_conf_61_70": "10914",
+        "word_conf_71_80": "4775",
+        "word_conf_81_90": "2324",
+        "word_conf_91_100": "3032",
+        "format": "OCR Search Text",
+        "original": "betterhomesgarde1982gran_hocr.html",
+        "mtime": "1658705334",
+        "size": "199219",
+        "md5": "af0b61f9274c2f5b5cf1d3dc8364c588",
+        "crc32": "f76c929d",
+        "sha1": "42f23921d1eb2bc644732b6795e81f15e30ee95e",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde1982gran_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "betterhomesgarde1982gran_orig_jp2.tar",
+        "md5": "413c072539d6281039ea28ffec012823",
+        "mtime": "1275008026",
+        "size": "76828949",
+        "crc32": "899db4b7",
+        "sha1": "81ba6051fc74fa27fcd197d6e6aa32bd075b7170",
+        "private": "true",
+        "filecount": "258"
+      },
+      {
+        "name": "betterhomesgarde1982gran_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "betterhomesgarde1982gran.epub",
+        "mtime": "1755040757",
+        "size": "12092616",
+        "md5": "c58aaecd55412c70a0dbd6173e8ad2f7",
+        "crc32": "463e9632",
+        "sha1": "8d04628003d15a0a912eb9035be7e7875f61c5a7"
+      },
+      {
+        "name": "betterhomesgarde1982gran_loans.json",
+        "source": "original",
+        "mtime": "1593060517",
+        "size": "5425",
+        "format": "JSON",
+        "private": "true",
+        "md5": "a1bd3b6be1281a4158bda934c4c321c1",
+        "crc32": "6ba7f178",
+        "sha1": "2b78a7522095e2050f59831788b12ad5a7019bd6"
+      },
+      {
+        "name": "betterhomesgarde1982gran_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "4ce58fb8dd0b0a5d06f2b6a40c82a946",
+        "mtime": "1274380382",
+        "size": "4525",
+        "crc32": "8f62c7d7",
+        "sha1": "235ac51566c453e2aec846e463cc6cdc10e43faa"
+      },
+      {
+        "name": "betterhomesgarde1982gran_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "betterhomesgarde1982gran_xisbn.json",
+        "mtime": "1454287793",
+        "size": "368",
+        "md5": "bbad5ce879f7032770b59df6f8b91aed",
+        "crc32": "5a026d85",
+        "sha1": "67b4dd5812bad57cf65ce1ee3b669f47540fe22b",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde1982gran_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "774f41fb3df2e4ea0fa482084da939f7",
+        "mtime": "1274380382",
+        "size": "1321",
+        "crc32": "9dfab232",
+        "sha1": "2398ba8c760e2e99e518a64bffbe7458d37c2755"
+      },
+      {
+        "name": "betterhomesgarde1982gran_meta.sqlite",
+        "source": "original",
+        "mtime": "1466982326",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "3056d94ec6264487439b3855dcac54d6",
+        "crc32": "4feb135f",
+        "sha1": "f0b1df2b1eae004b67980a3fa64c26ae03c5cf0a"
+      },
+      {
+        "name": "betterhomesgarde1982gran_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1755040757",
+        "size": "3219",
+        "md5": "b1f0e8929ddb2caf4f25c908dd0aa394",
+        "crc32": "429c42f0",
+        "sha1": "6e09909a40842b86be7bf81f50634e2545c4532a"
+      },
+      {
+        "name": "betterhomesgarde1982gran_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "81c1e1273a8b029981201b81085179d9",
+        "mtime": "1274380382",
+        "size": "413",
+        "crc32": "1eee9252",
+        "sha1": "22f403aa0e99d1f3f79753a4f193d89832320709"
+      },
+      {
+        "name": "betterhomesgarde1982gran_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "82e8d8d83389effc542ca428979c7794",
+        "mtime": "1274998141",
+        "size": "136867840",
+        "crc32": "026706be",
+        "sha1": "44440fa95aa92a1eeaddf7ebc965cfa6c4e06f45",
+        "private": "true",
+        "filecount": "258"
+      },
+      {
+        "name": "betterhomesgarde1982gran_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "98",
+        "format": "Page Numbers JSON",
+        "original": "betterhomesgarde1982gran_hocr.html",
+        "mtime": "1716665104",
+        "size": "42552",
+        "md5": "40b2c2c97648dcfa5a8b1feb5c8d28c7",
+        "crc32": "b988427b",
+        "sha1": "0e0738fc687ff74fb0ef2a4e303d50ef53eb86c3",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde1982gran_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "fbce8c92203096fb65a106c5d298c92c",
+        "mtime": "1669422039",
+        "size": "133656",
+        "crc32": "3f71104a",
+        "sha1": "d9596de60ca958533c9236bae7ce4e9a8358803b"
+      },
+      {
+        "name": "betterhomesgarde1982gran_xisbn.json",
+        "source": "original",
+        "mtime": "1454079462",
+        "size": "388",
+        "md5": "4a8ccb270d6e3b79a010b16b610ac75f",
+        "crc32": "b3c77583",
+        "sha1": "91e5c0f6f8ebe8b4dcf563207d5ee5e3acd9b090",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1755040757,
+    "item_size": 333322972,
+    "metadata": {
+      "title": "Better homes and gardens kitchen appliance cook book",
+      "creator": [
+        "Granseth, Sandra",
+        "Heiken, Sharyl",
+        "Woolever, Elizabeth"
+      ],
+      "subject": [
+        "Cookery",
+        "Kitchen utensils"
+      ],
+      "description": "Includes index",
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "date": "1982-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696005654",
+        "9780696005657"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA119322",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sfdowntown",
+      "mediatype": "texts",
+      "updatedate": "2010-05-20 18:33:02",
+      "updater": "loader-DanaB",
+      "identifier": "betterhomesgarde1982gran",
+      "uploader": "scanner-dana-base@archive.org",
+      "addeddate": "2010-05-20 18:33:04",
+      "publicdate": "2010-05-20 18:33:09",
+      "ppi": "400",
+      "camera": "Canon 5D",
+      "operator": "scanner-genet-tesfay@archive.org",
+      "scanner": "scribe4.sfdowntown.archive.org",
+      "scandate": "20100527220019",
+      "imagecount": "254",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/betterhomesgarde1982gran",
+      "identifier-ark": "ark:/13960/t39z9v451",
+      "bookplateleaf": "0002",
+      "ocr": "ABBYY FineReader 8.0",
+      "curation": "[curator]charleshorn@archive.org[/curator][date]20201109034530[/date][state]freeze[/state][comment]Duplicate of borrowable item betterhomesgar00gran[/comment]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:betterhomesgarde1982gran:pdf:c7d08b35-741b-48cd-b95f-1701ad64d12d",
+        "urn:acs6:betterhomesgarde1982gran:epub:52dbec3c-4e18-407d-b6d6-e0d388e95ae0",
+        "urn:oclc:record:1028721493",
+        "urn:lcp:betterhomesgarde1982gran:lcpdf:fa7b73fa-8441-4d09-a4e6-31d94d55e3d5",
+        "urn:lcp:betterhomesgarde1982gran:epub:bde87753-f566-4378-8343-d9767be9f0b1"
+      ],
+      "donor": "alibris",
+      "extramarc": "University of Illinois Urbana-Champaign (PZ)",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": [
+        "682028777",
+        "8747530"
+      ],
+      "lccn": "79057482",
+      "backup_location": "ia903605_17",
+      "openlibrary_edition": "OL4430144M",
+      "openlibrary_work": "OL16479858W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 9:19:47 UTC 2020",
+        "Tue Apr 2 22:06:35 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "98",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary_dupes",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia600208.us.archive.org",
+    "uniq": 851019759,
+    "workable_servers": [
+      "ia600208.us.archive.org",
+      "ia800208.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/682028777?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "79057482"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editors, Sandra Granseth, Sharyl Heiken, Elizabeth Woolever].",
+          "ed": "1st ed.",
+          "year": "1982",
+          "isbn": [
+            "0696005654"
+          ],
+          "title": "Kitchen appliance cook book",
+          "oclcnum": [
+            "682028777",
+            "8747530"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Granseth, Sandra",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa, Illinois; Digitized scan available"
+}

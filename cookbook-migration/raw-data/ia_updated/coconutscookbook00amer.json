@@ -1,0 +1,570 @@
+{
+  "source": "internet_archive",
+  "identifier": "coconutscookbook00amer",
+  "title": "Coconut's cookbook : fun and fluffy treats to eat",
+  "creator": "Lukatz, Casey, illustrator",
+  "year": 2004,
+  "subject": [
+    "Juvenile Nonfiction",
+    "Children's Books/Ages 9-12 Nonfiction",
+    "Children: Grades 3-4",
+    "Cooking & Food",
+    "Cooking"
+  ],
+  "description": [
+    "Ages 8 and up",
+    "American girl's fluffy white pup, Coconut, inspires this book of recipes for young chefs. Includes tear-out write-upon recipe cards and a Coconut cake stencil in the back!"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/coconutscookbook00amer"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/coconutscookbook00amer"
+        }
+      ]
+    },
+    "created": 1758555967,
+    "d1": "ia600403.us.archive.org",
+    "d2": "ia800403.us.archive.org",
+    "dir": "/8/items/coconutscookbook00amer",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659758234",
+        "size": "15879",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "3aee098257db13447c357eef2b1f76e7",
+        "crc32": "13ed41a6",
+        "sha1": "3673695d9b98d66a5ce651259b4bdc4d6a3ee0d5"
+      },
+      {
+        "name": "coconutscookbook00amer.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "coconutscookbook00amer_hocr.html",
+        "mtime": "1753161919",
+        "size": "9600348",
+        "private": "true",
+        "md5": "213cc1e1aa694ce0d4a372525a0caf42",
+        "crc32": "fe250347",
+        "sha1": "4778906cdbe0a72d4b38c999caaa31b8fd0ebd82"
+      },
+      {
+        "name": "coconutscookbook00amer.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "coconutscookbook00amer_jp2.zip",
+        "mtime": "1345921460",
+        "size": "176337",
+        "md5": "d2b57d10d674c8031710eeba8b84016a",
+        "crc32": "dc24afb6",
+        "sha1": "650395f4a5964c6e108f6db1f61720f69134cd27"
+      },
+      {
+        "name": "coconutscookbook00amer.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "coconutscookbook00amer.pdf",
+        "mtime": "1753160912",
+        "size": "3281905",
+        "md5": "ec946cc463d17aae7de39c1496eb934d",
+        "crc32": "7d554eb7",
+        "sha1": "fad0c200e467fe8ab167736f5594a0c685d429c0"
+      },
+      {
+        "name": "coconutscookbook00amer.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "coconutscookbook00amer_page_numbers.json",
+        "mtime": "1715801108",
+        "size": "2958949",
+        "md5": "6cc65eab6ad4a30bf0518d885eb4b1f2",
+        "crc32": "e067e8dc",
+        "sha1": "b7a59746c5d95e3a952494ef4011dc533b507d57",
+        "private": "true"
+      },
+      {
+        "name": "coconutscookbook00amer.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1338996501",
+        "size": "535738",
+        "md5": "6208654f2d03b8a0d01e938ff05fd540",
+        "crc32": "545e8bc8",
+        "sha1": "b6ac6f4d2ef6b4879bf6c1da49fa0ae36efdc8ab"
+      },
+      {
+        "name": "coconutscookbook00amer.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "coconutscookbook00amer.warc.gz",
+        "mtime": "1345919963",
+        "size": "6828",
+        "md5": "502ec1e846ea954e9b991207be0448d6",
+        "crc32": "7714db3e",
+        "sha1": "8fc31036dba248470ddc44ca1d9be0cd7756b740",
+        "private": "true"
+      },
+      {
+        "name": "coconutscookbook00amer_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "coconutscookbook00amer_jp2.zip",
+        "mtime": "1345921747",
+        "size": "203266",
+        "md5": "7e9b0d4ca074dce05c5508d83d15afdf",
+        "crc32": "fd94c0b8",
+        "sha1": "949205c6c38e3a3fa7b56a6e84db0603112a519e",
+        "private": "true"
+      },
+      {
+        "name": "coconutscookbook00amer_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "coconutscookbook00amer_abbyy.gz",
+        "mtime": "1659757799",
+        "size": "165868",
+        "md5": "6b7df80964747050ff5195fac2d4adbf",
+        "crc32": "351801ce",
+        "sha1": "98b2220275db7c6672583d83c9b165f859f15b19",
+        "private": "true"
+      },
+      {
+        "name": "coconutscookbook00amer_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "coconutscookbook00amer_scandata.xml",
+        "mtime": "1669602859",
+        "size": "779",
+        "md5": "5e5e8cb44d7c0516068de45a7a7bec13",
+        "crc32": "3f483798",
+        "sha1": "fedcc99f2108d7152103779fe594aba89d963a85",
+        "private": "true"
+      },
+      {
+        "name": "coconutscookbook00amer_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1505858030",
+        "size": "1294",
+        "md5": "2870dea29759c67b80a3b58113b67051",
+        "crc32": "78d8b9ca",
+        "sha1": "54532ea63462eec6760f5695aaed2939fa145163"
+      },
+      {
+        "name": "coconutscookbook00amer_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "coconutscookbook00amer_djvu.xml",
+        "mtime": "1715801120",
+        "size": "14760",
+        "md5": "ea04be146ed963e8a87098ab99881d36",
+        "crc32": "112ed085",
+        "sha1": "148e7e94c4cbb70d55a04b6ab1d1742561094462",
+        "private": "true"
+      },
+      {
+        "name": "coconutscookbook00amer_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "coconutscookbook00amer_hocr.html",
+        "mtime": "1715800904",
+        "size": "208051",
+        "md5": "0807e95e22d782f92e6e5c4c93469656",
+        "crc32": "863d4541",
+        "sha1": "4241736f57544bc9f8735b025e2b8322c0589fb8",
+        "private": "true"
+      },
+      {
+        "name": "coconutscookbook00amer_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "coconutscookbook00amer.pdf",
+        "mtime": "1715801125",
+        "size": "2944372",
+        "md5": "675ccdbb86ae7594a97a978605a15b97",
+        "crc32": "89ed5d2a",
+        "sha1": "5eaf5dd08d1c44fbcc469cbb45f595d2cf697256"
+      },
+      {
+        "name": "coconutscookbook00amer_extramarc.xml",
+        "source": "original",
+        "mtime": "1420417325",
+        "size": "3462",
+        "md5": "4a4462a6cc8b8faab89c7bb6f3b0c411",
+        "crc32": "2a74319b",
+        "sha1": "e2a8ad6947598a98cec7260aef2d8487f4f5f44a",
+        "format": "Metadata"
+      },
+      {
+        "name": "coconutscookbook00amer_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "201f94d1b8e165b397523545d7f3cd30",
+        "summation": "md5"
+      },
+      {
+        "name": "coconutscookbook00amer_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "coconutscookbook00amer_chocr.html.gz",
+        "mtime": "1659758147",
+        "size": "396106",
+        "md5": "2035a73a1e9680373ef5e90b3e819219",
+        "crc32": "7be3c84d",
+        "sha1": "3f0c7b0939cee85af2897a0dafed5909d3b8f432",
+        "private": "true"
+      },
+      {
+        "name": "coconutscookbook00amer_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "coconutscookbook00amer_hocr.html",
+        "mtime": "1659758194",
+        "size": "573",
+        "md5": "ce031e1d11b222d627c5e67d48b2b1be",
+        "crc32": "440f5207",
+        "sha1": "8ff86920d5bc0cd408e27293924651a882828dda",
+        "private": "true"
+      },
+      {
+        "name": "coconutscookbook00amer_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "610",
+        "word_conf_11_20": "63",
+        "word_conf_21_30": "128",
+        "word_conf_31_40": "114",
+        "word_conf_41_50": "210",
+        "word_conf_51_60": "333",
+        "word_conf_61_70": "332",
+        "word_conf_71_80": "170",
+        "word_conf_81_90": "54",
+        "word_conf_91_100": "122",
+        "format": "OCR Search Text",
+        "original": "coconutscookbook00amer_hocr.html",
+        "mtime": "1659758219",
+        "size": "5947",
+        "md5": "1c7bde025be2dc773b924bbae83f5112",
+        "crc32": "eea4d055",
+        "sha1": "251a674da9f1605c75d3c9b9e0905512436f5def",
+        "private": "true"
+      },
+      {
+        "name": "coconutscookbook00amer_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "coconutscookbook00amer_orig_jp2.tar",
+        "mtime": "1345921383",
+        "size": "16757907",
+        "md5": "89733392955a1c6e83e6f736878bc352",
+        "crc32": "cc8a2c0e",
+        "sha1": "94d77e2643104c045187ed26d46669edda57e7f8",
+        "private": "true",
+        "filecount": "60"
+      },
+      {
+        "name": "coconutscookbook00amer_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "coconutscookbook00amer.epub",
+        "mtime": "1753162132",
+        "size": "9837525",
+        "md5": "9171a021efa98e2aea1c524518fad124",
+        "crc32": "b96957c4",
+        "sha1": "1a2440656d4265688f23b86cf1f7dc6a989b653f"
+      },
+      {
+        "name": "coconutscookbook00amer_loans.json",
+        "source": "original",
+        "mtime": "1593484138",
+        "size": "18098",
+        "format": "JSON",
+        "private": "true",
+        "md5": "7a9826a4d58792c0d210acadb999766c",
+        "crc32": "b307faf0",
+        "sha1": "572e9cae9ba406dbbf5024f2e4f57f0b6b19da42"
+      },
+      {
+        "name": "coconutscookbook00amer_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1505858030",
+        "size": "4924",
+        "md5": "8a18a41980d0ea9606cb59063f8cec3e",
+        "crc32": "08d1fb31",
+        "sha1": "165149f2781987562795b8224338c214771b24d7"
+      },
+      {
+        "name": "coconutscookbook00amer_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "coconutscookbook00amer_xisbn.json",
+        "mtime": "1454277663",
+        "size": "245",
+        "md5": "35a544a3c74f7c630b6e9488c9dcb87a",
+        "crc32": "4515ae23",
+        "sha1": "13f1b634efe4e67d79511f9fa3ae44215d50162d",
+        "private": "true"
+      },
+      {
+        "name": "coconutscookbook00amer_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454277661",
+        "size": "1472",
+        "md5": "b9e99b59c8fbfa44f47a4f4d8178bb8e",
+        "crc32": "a0b26ccb",
+        "sha1": "030bfec870b0b05a68f4308195b69351d2b2314e"
+      },
+      {
+        "name": "coconutscookbook00amer_meta.sqlite",
+        "source": "original",
+        "mtime": "1466414860",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "21249b42a098b6aed048c7b188e554c2",
+        "crc32": "dbc25a17",
+        "sha1": "4a3a3e5e8a720b5a4ba242ef722c75daef7a1d22"
+      },
+      {
+        "name": "coconutscookbook00amer_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753162132",
+        "size": "3665",
+        "md5": "1ca6afa93ef0690ddfe1ad7dd4353049",
+        "crc32": "540c249e",
+        "sha1": "384df759f6b013da6eff8919c0333d5c5fe2608e"
+      },
+      {
+        "name": "coconutscookbook00amer_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1338996501",
+        "size": "298",
+        "md5": "96c5611b917c9405dcf67f2913016f6c",
+        "crc32": "200c5090",
+        "sha1": "840dddf40d7ff6f347711f3b27dee4c4e4da57d6"
+      },
+      {
+        "name": "coconutscookbook00amer_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1345127294",
+        "size": "34447360",
+        "md5": "8e2ad7ace5d9243023b73a8bef422cf9",
+        "crc32": "f1e26d8e",
+        "sha1": "3024ccae1b303bd86630553b655fc5f2d3edd4e8",
+        "private": "true",
+        "filecount": "60"
+      },
+      {
+        "name": "coconutscookbook00amer_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "coconutscookbook00amer_hocr.html",
+        "mtime": "1715800915",
+        "size": "9952",
+        "md5": "f96c6913813e50bf2124b29f3bad2192",
+        "crc32": "4b23fb1c",
+        "sha1": "1e12b6f076acafed24d459e705a6a36a89d840df",
+        "private": "true"
+      },
+      {
+        "name": "coconutscookbook00amer_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669602859",
+        "size": "77647",
+        "md5": "4810ed126b2318feb1ae1eb872a4ea8b",
+        "crc32": "7610d020",
+        "sha1": "cfbc2aea3e4e781d427d15d5e9a5692f938e717b"
+      },
+      {
+        "name": "coconutscookbook00amer_xisbn.json",
+        "source": "original",
+        "mtime": "1454158628",
+        "size": "349",
+        "md5": "f0c108608f4c804f8bd54f366901197e",
+        "crc32": "a79a1268",
+        "sha1": "b6f18f158e5e8acd3c2c499174fec499f149fafe",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753162132,
+    "item_size": 81686048,
+    "metadata": {
+      "title": "Coconut's cookbook : fun and fluffy treats to eat",
+      "language": "eng",
+      "publisher": "[Middleton, WI] : Pleasant Co. Pub.",
+      "openlibrary": "OL8795065M",
+      "creator": [
+        "Lukatz, Casey, illustrator",
+        "American Girl (Firm)"
+      ],
+      "isbn": [
+        "1584858923",
+        "9781584858928"
+      ],
+      "date": "2004-01-01",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "subject": [
+        "Juvenile Nonfiction",
+        "Children's Books/Ages 9-12 Nonfiction",
+        "Children: Grades 3-4",
+        "Cooking & Food",
+        "Cooking"
+      ],
+      "updatedate": "2012-06-06 15:28:06",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "f0133",
+      "boxid": "IA137009",
+      "identifier": "coconutscookbook00amer",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2012-06-06 15:28:23",
+      "publicdate": "2012-06-06 15:28:34",
+      "scanner": "scribe21.shenzhen.archive.org",
+      "notes": "no page number in the book",
+      "repub_seconds": "5948",
+      "ppi": "500",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-roy@archive.org",
+      "scandate": "20120815143604",
+      "republisher": "scanner-shenzhen-sun@archive.org",
+      "imagecount": "60",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/coconutscookbook00amer",
+      "identifier-ark": "ark:/13960/t86h5s25r",
+      "scanfee": "125",
+      "boxid_2": "CH120120920-BL1",
+      "donor": "alibris",
+      "sponsordate": "not to be invoiced-past billing period",
+      "extramarc": "University of Illinois Urbana-Champaign (PZ)",
+      "external-identifier": [
+        "urn:acs6:coconutscookbook00amer:pdf:a772a28a-a87e-433f-a92a-a0408fd912ac",
+        "urn:acs6:coconutscookbook00amer:epub:5c6d73e4-7574-4e10-858e-58d8f35a9d38",
+        "urn:oclc:record:1029264482",
+        "urn:lcp:coconutscookbook00amer:lcpdf:a0b6deb9-d83b-45b9-b823-bea1bf19c8f9",
+        "urn:lcp:coconutscookbook00amer:epub:104fb198-e114-4dc4-ad72-a5c9cb79b76a"
+      ],
+      "description": [
+        "Ages 8 and up",
+        "American girl's fluffy white pup, Coconut, inspires this book of recipes for young chefs. Includes tear-out write-upon recipe cards and a Coconut cake stencil in the back!"
+      ],
+      "city": "[Middleton, WI]",
+      "oclc-id": "56979365",
+      "backup_location": "ia903804_25",
+      "openlibrary_edition": "OL8795065M",
+      "openlibrary_work": "OL8070192W",
+      "republisher_operator": "scanner-shenzhen-sun@archive.org",
+      "republisher_date": "20120816142644",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "filesxml": "Tue Apr 2 23:38:24 UTC 2024",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia800403.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA-MC-0000108",
+              "IA-MC-0000117",
+              "IA-MC-1300030",
+              "IA-MC-0000047",
+              "IA40405116"
+            ],
+            "num_copies": 5
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 04:40:41.289744"
+        }
+      }
+    },
+    "uniq": 777336165,
+    "workable_servers": [
+      "ia800403.us.archive.org",
+      "ia600403.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/56979365?referer=xid"
+          ],
+          "publisher": "Pleasant Co. Pub.",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[Middleton, WI]",
+          "author": "American Girl ; [illustrations: Casey Lukatz].",
+          "year": "2004",
+          "isbn": [
+            "1584858923"
+          ],
+          "title": "Coconut's cookbook : fun and fluffy treats to eat",
+          "oclcnum": [
+            "56979365"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Lukatz, Casey, illustrator",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

@@ -1,0 +1,516 @@
+{
+  "source": "internet_archive",
+  "identifier": "onedishbible0000unse",
+  "title": "The one-dish bible",
+  "creator": null,
+  "year": 2005,
+  "subject": [
+    "One-dish meals",
+    "Casserole cooking",
+    "Skillet cooking",
+    "Electric cooking, Slow"
+  ],
+  "description": [
+    "256 pages : 24 cm",
+    "Includes index",
+    "\"All-in-one guide to delicious and satisfying one-dish meals\"--Cover",
+    "Overview: The casserole ; The skillet ; The slow cooker ; Ingredients -- Bountiful beef -- Bird is the word -- Peerless pork -- Meetless wonders -- From the sea"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/onedishbible0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/onedishbible0000unse"
+        }
+      ]
+    },
+    "created": 1758559324,
+    "d1": "ia601002.us.archive.org",
+    "d2": "ia801002.us.archive.org",
+    "dir": "/28/items/onedishbible0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660797093",
+        "size": "16887",
+        "md5": "c0f10d26ab52d6bde47f469c0a47ce5f",
+        "crc32": "f6ac9a47",
+        "sha1": "8c12d197284af43d29d7c72e768f758c5890a6bf",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/onedishbible0000unse_iabdash_2020-10-1503:03:36.log",
+        "source": "original",
+        "mtime": "1602702219",
+        "size": "671",
+        "md5": "36b62673e4c111743aec23b714a03762",
+        "crc32": "d39caf66",
+        "sha1": "d706d75b439a35729442e7ddf1182340258fce40",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/onedishbible0000unse_scanning_2020-10-1503:03:48.log",
+        "source": "original",
+        "mtime": "1602702232",
+        "size": "1249932",
+        "md5": "83f3e6c91459f9d180e86ce74416297a",
+        "crc32": "937f350c",
+        "sha1": "347a22a7f88976b30f2128ea0a5a198b4297d2e1",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/onedishbible0000unse_status_history_2020-10-1503:03:40.log",
+        "source": "original",
+        "mtime": "1602702227",
+        "size": "404",
+        "md5": "9180e91db2eec983e5ccce51c2a63b57",
+        "crc32": "f70b4079",
+        "sha1": "faf6f668b1557d777ba324f98cf876b0694731f0",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "onedishbible0000unse_hocr.html",
+        "mtime": "1757185753",
+        "size": "93500709",
+        "private": "true",
+        "md5": "7230fa6108dae6f9e7f70a7412238e9c",
+        "crc32": "a9ca3ec5",
+        "sha1": "c84c4fe366c390e19a485f0bf13d7c65f6ceae7a"
+      },
+      {
+        "name": "onedishbible0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "onedishbible0000unse.pdf",
+        "mtime": "1757185475",
+        "size": "18815286",
+        "md5": "d0e09de528555d43870fc080289081e9",
+        "crc32": "2d3e1747",
+        "sha1": "76fa3a1de2679d3f10e279b975ea04f8cbd9dc48"
+      },
+      {
+        "name": "onedishbible0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "onedishbible0000unse_page_numbers.json",
+        "mtime": "1718282807",
+        "size": "18440954",
+        "md5": "c17fca8b24b78872a75e85da1f51e4d9",
+        "crc32": "352ab78b",
+        "sha1": "4adc4644b462127e9ab8d6e1202f75173ad8e576",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "onedishbible0000unse_jp2.zip",
+        "mtime": "1602824825",
+        "size": "3112567",
+        "md5": "5a79e95495bc5f834eeb3974894d99d9",
+        "crc32": "09c578f4",
+        "sha1": "e520a14eadc4ba356adba2a1edb6175165d5c189",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "onedishbible0000unse_abbyy.gz",
+        "mtime": "1660796739",
+        "size": "2495151",
+        "md5": "7d13810b1120693d35b23068d4019d32",
+        "crc32": "1c275294",
+        "sha1": "08f17835f7b2fa31fc7cde9df6562d495a7c4bde",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "onedishbible0000unse_scandata.xml",
+        "mtime": "1670803280",
+        "size": "771",
+        "md5": "7f1986cc156eb62de5fb51c660f914c7",
+        "crc32": "5210f6be",
+        "sha1": "a09b1f3bf4c29e7f5412809c33c42cabc451dd3d",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1602817918",
+        "size": "1315",
+        "md5": "cdd4e6b6b505cf21764dabba1e384559",
+        "crc32": "52c2cd40",
+        "sha1": "51b6a4f6d6a83d224e3bd50bf0374c77a16a7ba6"
+      },
+      {
+        "name": "onedishbible0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "onedishbible0000unse_djvu.xml",
+        "mtime": "1660797088",
+        "size": "220361",
+        "md5": "3d263c68a7d9844fb9d6abcbcc888721",
+        "crc32": "bd4dab38",
+        "sha1": "a5dc2c8b223d5a5951967a9727c064d8c1404664",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "onedishbible0000unse_hocr.html",
+        "mtime": "1660796894",
+        "size": "2757806",
+        "md5": "1ba801d32f63276d7c3745586c034803",
+        "crc32": "7c47c3a7",
+        "sha1": "211a2652acac43db80aace449e3aded929c9c947",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "onedishbible0000unse_abbyy.gz",
+        "mtime": "1602824966",
+        "size": "10722669",
+        "md5": "8065967690676d5859a9b584443fbe01",
+        "crc32": "18b9c381",
+        "sha1": "718a4fbee553ade4297b5a2549617e98e82c733e"
+      },
+      {
+        "name": "onedishbible0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "onedishbible0000unse.pdf",
+        "mtime": "1718284063",
+        "size": "18295469",
+        "md5": "91ddb4d52bc1a84c0e9f662f9c3bad7b",
+        "crc32": "44cb11b8",
+        "sha1": "dcac9e377b95a7eb838c63755bd2d4b0df21ee40"
+      },
+      {
+        "name": "onedishbible0000unse_events.json",
+        "source": "original",
+        "mtime": "1602815590",
+        "size": "56",
+        "md5": "5f03303570e0b165726925183ab5d137",
+        "crc32": "d2f88dd6",
+        "sha1": "0d11e279b812f2e61be283b6d50b7f648a906df0",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "10f12b5a645afadad36e33f1ff0d8892",
+        "summation": "md5"
+      },
+      {
+        "name": "onedishbible0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "onedishbible0000unse_chocr.html.gz",
+        "mtime": "1660796878",
+        "size": "5797233",
+        "md5": "87a5fd0bd288ecbf758c1b44890da1e2",
+        "crc32": "d3d05a0f",
+        "sha1": "35df35b815d6716f7728b3f79e8c93bd2811d202",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "onedishbible0000unse_hocr.html",
+        "mtime": "1660796977",
+        "size": "2981",
+        "md5": "4e42b74435ea00510b175df2ee76f266",
+        "crc32": "d84e830c",
+        "sha1": "ae376ba39d64fb829215b324b6836df7c07c47d8",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "338",
+        "word_conf_11_20": "297",
+        "word_conf_21_30": "282",
+        "word_conf_31_40": "362",
+        "word_conf_41_50": "488",
+        "word_conf_51_60": "567",
+        "word_conf_61_70": "856",
+        "word_conf_71_80": "1580",
+        "word_conf_81_90": "3007",
+        "word_conf_91_100": "23875",
+        "format": "OCR Search Text",
+        "original": "onedishbible0000unse_hocr.html",
+        "mtime": "1660797071",
+        "size": "54339",
+        "md5": "223a4b317dbed6175ef2c7936601d1c0",
+        "crc32": "951fee9f",
+        "sha1": "d73f57b51e4cbe4724bfe2ea13423371ee6d5758",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "onedishbible0000unse_orig_jp2.tar",
+        "mtime": "1602823310",
+        "size": "133582934",
+        "md5": "cc4d24a19f3335ca9f2d5de175e724c3",
+        "crc32": "74c800de",
+        "sha1": "41921356fe608898243507d91dcf2f6fa7c4f857",
+        "private": "true",
+        "filecount": "266"
+      },
+      {
+        "name": "onedishbible0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "onedishbible0000unse.epub",
+        "mtime": "1757185880",
+        "size": "93903608",
+        "md5": "1e987864e5b531444f68e1549ddeb699",
+        "crc32": "604be208",
+        "sha1": "06ea47fbec49aee39d6d8edf42a4b169af80a60a"
+      },
+      {
+        "name": "onedishbible0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1602702215",
+        "size": "4738",
+        "md5": "a140452cb064ff7b4fa206f763d7cb0a",
+        "crc32": "fac82123",
+        "sha1": "a79efa84f9fa5cea90c34a244440393db5501dcf",
+        "format": "MARC"
+      },
+      {
+        "name": "onedishbible0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1602702210",
+        "size": "1520",
+        "md5": "06ce2dc038a10719a03e12c045aa1a89",
+        "crc32": "60185313",
+        "sha1": "e855123041ee3809f4e164006ab1e8f7ce3f5e50",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "onedishbible0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1602817786",
+        "size": "19456",
+        "md5": "5dfce3cb635b82fecda67235bd14a58c",
+        "crc32": "613dfd9e",
+        "sha1": "8379a3ed69554b69e15e7e0dab5d6083557fe051",
+        "format": "Metadata"
+      },
+      {
+        "name": "onedishbible0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1757185881",
+        "size": "3263",
+        "md5": "5e00bcbb21807340f7cd1c8577079511",
+        "crc32": "387b6876",
+        "sha1": "ea26857db3c00aaec87c828d2f58c1991db72d2c",
+        "format": "Metadata"
+      },
+      {
+        "name": "onedishbible0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1602817782",
+        "size": "373606400",
+        "md5": "fef80a59821e0a27eed78b2ac9bcd878",
+        "crc32": "aa86fb30",
+        "sha1": "8a1912f9857c071750ffb2c990372d38df6f8cf3",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "266"
+      },
+      {
+        "name": "onedishbible0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "47",
+        "format": "Page Numbers JSON",
+        "original": "onedishbible0000unse_hocr.html",
+        "mtime": "1718282800",
+        "size": "45443",
+        "md5": "a8e60cb0d06df3f0e37fbb98fc2c686e",
+        "crc32": "4108ee2a",
+        "sha1": "70db1e1b614076865a791ec3371a19a4d9ab8864",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670803280",
+        "size": "271524",
+        "md5": "a041685b5ad37db98c472a2e4cac8d44",
+        "crc32": "6df3bae1",
+        "sha1": "ba4d8d5dc930e4dacd96806858d36cea7b6d6f04",
+        "format": "Scandata"
+      },
+      {
+        "name": "onedishbible0000unse_slip.png",
+        "source": "original",
+        "mtime": "1602648944",
+        "size": "38332",
+        "md5": "d7bec6317bb18b842c07e4044b46c15a",
+        "crc32": "e689d9a5",
+        "sha1": "da8f8fca8cdc355291dd44bfbfcddee40a0c28f7",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "onedishbible0000unse_slip.png",
+        "mtime": "1602817923",
+        "size": "5405",
+        "md5": "c19406fc7c4c611746c7d2cd8bc1505d",
+        "crc32": "6d2bf78d",
+        "sha1": "8264a3fcc257605e1bdf494b3d20863851d06b7c",
+        "private": "true"
+      },
+      {
+        "name": "onedishbible0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "onedishbible0000unse_djvu.xml",
+        "mtime": "1670803188",
+        "size": "654",
+        "md5": "7486fc3ac5ae17c8a5efe2ab82e155be",
+        "crc32": "b1581e08",
+        "sha1": "13b731f83118a047a446d006fe7f9ed75e35e918",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1757185881,
+    "item_size": 776968838,
+    "metadata": {
+      "identifier": "onedishbible0000unse",
+      "associated-names": "Publications International, Ltd",
+      "boxid": "IA1972008",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2005-01-01",
+      "description": [
+        "256 pages : 24 cm",
+        "Includes index",
+        "\"All-in-one guide to delicious and satisfying one-dish meals\"--Cover",
+        "Overview: The casserole ; The skillet ; The slow cooker ; Ingredients -- Bountiful beef -- Bird is the word -- Peerless pork -- Meetless wonders -- From the sea"
+      ],
+      "isbn": [
+        "9781605537221",
+        "1605537225"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA19534",
+      "operator": "associate-philipmagua-rabaya@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station48.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781605537221",
+      "subject": [
+        "One-dish meals",
+        "Casserole cooking",
+        "Skillet cooking",
+        "Electric cooking, Slow"
+      ],
+      "title": "The one-dish bible",
+      "tts_version": "4.0-initial-155-gbba175a5",
+      "uploader": "station48.cebu@archive.org",
+      "publicdate": "2020-10-14 04:19:05",
+      "access-restricted-item": "true",
+      "imagecount": "266",
+      "scandate": "20201014203812",
+      "republisher_operator": "associate-ronamye-cabale@archive.org",
+      "republisher_date": "20201016103229",
+      "republisher_time": "362",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/onedishbible0000unse",
+      "identifier-ark": "ark:/13960/t9z12n13t",
+      "external-identifier": [
+        "urn:acs6:onedishbible0000unse:epub:1a618f4d-d323-41a2-ba9e-0070a7843fc1",
+        "urn:acs6:onedishbible0000unse:pdf:376bbb81-2f3a-43ec-8ec4-088bfe1002eb",
+        "urn:oclc:record:1225860661",
+        "urn:lcp:onedishbible0000unse:lcpdf:76ecd8c7-17a6-4dc8-b8e6-dfe51d9897f7",
+        "urn:lcp:onedishbible0000unse:epub:5315286a-468e-4d4b-b956-a7e2baa7ad3c"
+      ],
+      "page_number_confidence": "47",
+      "addeddate": "2020-10-16 06:01:54",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20201031",
+      "openlibrary_edition": "OL32130624M",
+      "openlibrary_work": "OL24289855W",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601002.us.archive.org",
+    "uniq": 27391637,
+    "workable_servers": [
+      "ia601002.us.archive.org",
+      "ia801002.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

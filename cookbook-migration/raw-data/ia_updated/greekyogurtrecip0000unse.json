@@ -1,0 +1,509 @@
+{
+  "source": "internet_archive",
+  "identifier": "greekyogurtrecip0000unse",
+  "title": "Greek yogurt recipes",
+  "creator": null,
+  "year": 2013,
+  "subject": [
+    "Cooking (Yogurt)",
+    "Greek yogurt"
+  ],
+  "description": [
+    "143 pages : 23 cm",
+    "Includes index",
+    "Cultural education -- Smart starts -- Sensational smoothies -- Appetizers & Snacks -- Savory favorites -- Soups, salads & sides -- Best baking -- Dreamy creamy desserts"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/greekyogurtrecip0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/greekyogurtrecip0000unse"
+        }
+      ]
+    },
+    "created": 1758556884,
+    "d1": "ia903406.us.archive.org",
+    "d2": "ia803406.us.archive.org",
+    "dir": "/16/items/greekyogurtrecip0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660100777",
+        "size": "18901",
+        "md5": "3dfec7ab68d908544483b061f57c86b3",
+        "crc32": "7915b200",
+        "sha1": "9904a62ef1dfdc0aab9183c296a3dcad075b824d",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "book_genome.json",
+        "source": "original",
+        "mtime": "1629644268",
+        "size": "68151",
+        "md5": "dbff8dea62308ef55e1519b3403dc256",
+        "crc32": "1310f5e4",
+        "sha1": "805c56ca30f823f57d833f7c97615fa65de1b3f1",
+        "format": "Book Genome JSON"
+      },
+      {
+        "name": "greekyogurtrecip0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "greekyogurtrecip0000unse_hocr.html",
+        "mtime": "1753408570",
+        "size": "922505",
+        "private": "true",
+        "md5": "c221971ede4c238e89d00e95a2bf7b60",
+        "crc32": "b9514d80",
+        "sha1": "bc8aeb7a7757bbcd753308a43c8c1be3d936bc8b"
+      },
+      {
+        "name": "greekyogurtrecip0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "greekyogurtrecip0000unse.pdf",
+        "mtime": "1753408032",
+        "size": "10447906",
+        "md5": "c142db788c70a8c349cc5ede6abc765c",
+        "crc32": "99a1c9d3",
+        "sha1": "5ad762c9cf97d5068665cd3b1a125f8a7d3d87ca"
+      },
+      {
+        "name": "greekyogurtrecip0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "greekyogurtrecip0000unse_page_numbers.json",
+        "mtime": "1723870681",
+        "size": "10071994",
+        "md5": "bff66249806e8ec92bd71855362bd2d6",
+        "crc32": "81acacb2",
+        "sha1": "864894ac6f5c69cbad06d8d12aecad383caaaac6",
+        "private": "true"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "greekyogurtrecip0000unse_jp2.zip",
+        "mtime": "1619223907",
+        "size": "1412532",
+        "md5": "ed3eb676795783b9407fd7759d4bbb68",
+        "crc32": "5a8ef545",
+        "sha1": "e252e5b898558b8157f15a3b09a6934c71a21a16",
+        "private": "true"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "greekyogurtrecip0000unse_scandata.xml",
+        "mtime": "1670095155",
+        "size": "787",
+        "md5": "eee282c23fc09e8fa85b84111df19004",
+        "crc32": "5e9a06c4",
+        "sha1": "7d6f3234bc7d0f7d4c4187f9aa6277ff23b18527",
+        "private": "true"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1629644290",
+        "size": "1076",
+        "md5": "7c7cdaf447b96969473833e982313e45",
+        "crc32": "f593b997",
+        "sha1": "07a75706b9b588f089119971e07ef97d981684ba"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "greekyogurtrecip0000unse_djvu.xml",
+        "mtime": "1619224239",
+        "size": "103040",
+        "md5": "ac6ca88de6c6386bdcb69cd9ffe4de05",
+        "crc32": "c52046df",
+        "sha1": "465d9f60b05dad748c93f5d8175e08579b03dd08",
+        "private": "true"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "greekyogurtrecip0000unse_hocr.html",
+        "mtime": "1619224054",
+        "size": "1410593",
+        "md5": "ef75504417a7fc0041e87efba09ebf23",
+        "crc32": "09e42151",
+        "sha1": "9756e4b081ed5362be6d24fedd016ff4253b1a91",
+        "private": "true"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "greekyogurtrecip0000unse.pdf",
+        "mtime": "1723871474",
+        "size": "10034813",
+        "md5": "4f4b47e6265f83efd8fc7a53e0d36ea1",
+        "crc32": "6f4c5c5a",
+        "sha1": "6ab3ab1a69297d17e64002b9b784e2a51c622466"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_events.json",
+        "source": "original",
+        "mtime": "1619151627",
+        "size": "53",
+        "md5": "c248dabff3f72c7ae320fb03bd1ff0b0",
+        "crc32": "223355e0",
+        "sha1": "110d3a9135f7bb6f469c50ed3a6349729fdf42be",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "e42c703939656404ad121ff359e3adbb",
+        "summation": "md5"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "greekyogurtrecip0000unse_chocr.html.gz",
+        "mtime": "1619224035",
+        "size": "2689218",
+        "md5": "1136af9bf8396ce2d1c7fc7e83d4954a",
+        "crc32": "b7f8e960",
+        "sha1": "8c3977025337916166fe120eba6a52f91c905e0d",
+        "private": "true"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "greekyogurtrecip0000unse_hocr.html",
+        "mtime": "1619224146",
+        "size": "1562",
+        "md5": "bd36550eebe547eb9225a0d08e8d89f1",
+        "crc32": "04a447d8",
+        "sha1": "2bf147a81b5763babf4ef612abf8fce2d35f9eb0",
+        "private": "true"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "193",
+        "word_conf_11_20": "103",
+        "word_conf_21_30": "143",
+        "word_conf_31_40": "165",
+        "word_conf_41_50": "134",
+        "word_conf_51_60": "128",
+        "word_conf_61_70": "194",
+        "word_conf_71_80": "260",
+        "word_conf_81_90": "584",
+        "word_conf_91_100": "14499",
+        "format": "OCR Search Text",
+        "original": "greekyogurtrecip0000unse_hocr.html",
+        "mtime": "1619224222",
+        "size": "27328",
+        "md5": "e0b2af25458942110e21ac194b4de0e5",
+        "crc32": "baa80ff0",
+        "sha1": "6fd794ad4980c482d262919ec28ad2cffaa670bf",
+        "private": "true"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "greekyogurtrecip0000unse_orig_jp2.tar",
+        "mtime": "1619223092",
+        "size": "71719496",
+        "md5": "f3e47dd7ae068c601ffda9276d768a6b",
+        "crc32": "0a5b4eac",
+        "sha1": "d867c3d6add15745a55e37c8298957337c3bf5c1",
+        "private": "true",
+        "filecount": "150"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "greekyogurtrecip0000unse.epub",
+        "mtime": "1753409216",
+        "size": "932623",
+        "md5": "f4fd2391bf45a08499d159727a3121da",
+        "crc32": "257cb9e2",
+        "sha1": "6637540f1ae601d9af6538ddc90cde6efebc58be"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1629644290",
+        "size": "5186",
+        "md5": "8531720109291d7bce3278402012ee62",
+        "crc32": "3e8a92d1",
+        "sha1": "b6cdb44eb7a60c42331bcc508b12e7f4972aeb05"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1629644290",
+        "size": "1557",
+        "md5": "9447e00a9a4814c0259258a13366eda9",
+        "crc32": "3103247c",
+        "sha1": "bf0e79b7645df0989d285516cd04ce6025b0c379"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1629644272",
+        "size": "40960",
+        "md5": "0989baa0633d5adc1fa9f7b60a221166",
+        "crc32": "d935da2c",
+        "sha1": "af610dece426f104d09ad9c65bd56af57978a062",
+        "format": "Metadata"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753409270",
+        "size": "3132",
+        "md5": "34d32ffe6135c0c8ef94d6b66884dcb2",
+        "crc32": "baf49db5",
+        "sha1": "3d03b2415c4ae30c5fe90469edab78d3a715ec41",
+        "format": "Metadata"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1619219868",
+        "size": "204134400",
+        "md5": "ba2f36a2381312831d329c6269049790",
+        "crc32": "c9c25b31",
+        "sha1": "efe74fddf2dc4464fea3267acf2befd772e5a3aa",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "150"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "89",
+        "format": "Page Numbers JSON",
+        "original": "greekyogurtrecip0000unse_hocr.html",
+        "mtime": "1723870681",
+        "size": "25212",
+        "md5": "397c3c2d748a3eaca47eb1b0ffe53313",
+        "crc32": "743c98a1",
+        "sha1": "8fe278c34307d28196c769673a7633292c46561a",
+        "private": "true"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670095155",
+        "size": "162351",
+        "md5": "d0750efab46aa935be12ee1524f07789",
+        "crc32": "30e55345",
+        "sha1": "0580ccd91e9225130456f7a6b4489ef07985e74c",
+        "format": "Scandata"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_slip.png",
+        "source": "original",
+        "mtime": "1618550358",
+        "size": "40715",
+        "md5": "db6d7e69296417611797ae6df94ff78f",
+        "crc32": "de15e014",
+        "sha1": "1ff9e048924fc1d6a39b754c9ac8d3b0891799c8",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "greekyogurtrecip0000unse_slip.png",
+        "mtime": "1619220132",
+        "size": "5403",
+        "md5": "06a6554b89d3ed1e4089ab5bd8ef4495",
+        "crc32": "2a8f6196",
+        "sha1": "aab1f0d30d5d6d007b79612ee62ae771da602343",
+        "private": "true"
+      },
+      {
+        "name": "greekyogurtrecip0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "greekyogurtrecip0000unse_djvu.xml",
+        "mtime": "1670094974",
+        "size": "564",
+        "md5": "6618fb0885ff23bbaedb8d4eba767b1e",
+        "crc32": "d04d4ab3",
+        "sha1": "da32489a6a43b01c9db97c24d292dcc97f25ee6d",
+        "private": "true"
+      },
+      {
+        "name": "logs/greekyogurtrecip0000unse_iabdash_2021-04-1707:03:28.log",
+        "source": "original",
+        "mtime": "1618614211",
+        "size": "1366",
+        "md5": "f8b60a5d20e4fbbd7deb382bfd72d5b3",
+        "crc32": "aa7bd62f",
+        "sha1": "f4f02816f2867232c990cff7ae8a6533b3851801",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/greekyogurtrecip0000unse_scanning_2021-04-1707:03:38.log",
+        "source": "original",
+        "mtime": "1618614223",
+        "size": "665175",
+        "md5": "91c7f8c71429078161627c0c6e7c36a2",
+        "crc32": "4dcd5662",
+        "sha1": "684541cc9edcee8e146558b2e19f8bda9cf29723",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/greekyogurtrecip0000unse_status_history_2021-04-1707:03:32.log",
+        "source": "original",
+        "mtime": "1618614215",
+        "size": "433",
+        "md5": "986aa47b3ab4e45ad3efa147581bd7b5",
+        "crc32": "918baf2a",
+        "sha1": "1983b5f647bf5ce627f422dba8c0475a8d38a6c2",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753409270,
+    "item_size": 314949032,
+    "metadata": {
+      "identifier": "greekyogurtrecip0000unse",
+      "boxid": "IA40095302",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA-NS-1300176",
+      "operator": "associate-sheilamae-gonzales@archive.org",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station28.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "title": "Greek yogurt recipes",
+      "tts_version": "4.4-initial-129-g57db8e10",
+      "uploader": "station28.cebu@archive.org",
+      "publicdate": "2021-04-16 05:19:32",
+      "access-restricted-item": "true",
+      "imagecount": "150",
+      "scandate": "20210417061537",
+      "ppi": "360",
+      "republisher_operator": "associate-leny-noynay@archive.org",
+      "republisher_date": "20210423120936",
+      "republisher_time": "379",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/greekyogurtrecip0000unse",
+      "identifier-ark": "ark:/13960/t95823398",
+      "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.13",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "89",
+      "pdf_module_version": "0.0.11",
+      "external-identifier": [
+        "urn:acs6:greekyogurtrecip0000unse:pdf:a4a805c4-19b3-4fb0-83a8-4cac864c4d48",
+        "urn:oclc:record:1280774334",
+        "urn:lcp:greekyogurtrecip0000unse:lcpdf:c84560ad-f04e-46e5-b3c8-7fd8fd6dbe1a",
+        "urn:lcp:greekyogurtrecip0000unse:epub:ac3803df-27de-4f31-85cb-a3bef5b27ff2"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20210430",
+      "isbn": [
+        "9781450867955",
+        "1450867952"
+      ],
+      "publisher": "Lincolnwood, IL : Publications International, Ltd.",
+      "date": "2013-01-01",
+      "subject": [
+        "Cooking (Yogurt)",
+        "Greek yogurt",
+        "Cooking (Yogurt)",
+        "Greek yogurt"
+      ],
+      "lccn": "2013930799",
+      "description": [
+        "143 pages : 23 cm",
+        "Includes index",
+        "Cultural education -- Smart starts -- Sensational smoothies -- Appetizers & Snacks -- Savory favorites -- Soups, salads & sides -- Best baking -- Dreamy creamy desserts"
+      ],
+      "addeddate": "2021-08-22 15:07:51",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia803406.us.archive.org",
+    "uniq": 202152749,
+    "workable_servers": [
+      "ia803406.us.archive.org",
+      "ia903406.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

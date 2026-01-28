@@ -1,0 +1,503 @@
+{
+  "source": "internet_archive",
+  "identifier": "hamburgermagic00linc",
+  "title": "Hamburger magic",
+  "creator": null,
+  "year": 2001,
+  "subject": [
+    "Cooking (Beef)",
+    "Hamburgers"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/hamburgermagic00linc"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/hamburgermagic00linc"
+        }
+      ]
+    },
+    "created": 1758555477,
+    "d1": "ia600202.us.archive.org",
+    "d2": "ia800202.us.archive.org",
+    "dir": "/33/items/hamburgermagic00linc",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660113500",
+        "size": "20953",
+        "md5": "3c7ad09c092abc5d06cbe2224c281b79",
+        "crc32": "be2f6934",
+        "sha1": "23be52344e78a4b085a676d0f00ce3043b330577",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "hamburgermagic00linc.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "hamburgermagic00linc_hocr.html",
+        "mtime": "1753424064",
+        "size": "21748919",
+        "private": "true",
+        "md5": "24ed209d98ebb661243aea5c97f41ce5",
+        "crc32": "cc065208",
+        "sha1": "1735b3792c9f2084eb0a0e81aaace19968d78a44"
+      },
+      {
+        "name": "hamburgermagic00linc.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "hamburgermagic00linc_jp2.zip",
+        "mtime": "1343953664",
+        "size": "251619",
+        "md5": "dca5fcfd103b016025753b81d39e078a",
+        "crc32": "fa1acd43",
+        "sha1": "ac8e41ade231554d4990b2575ffb26b6c88fb450"
+      },
+      {
+        "name": "hamburgermagic00linc.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "hamburgermagic00linc.pdf",
+        "mtime": "1753423965",
+        "size": "11584910",
+        "md5": "d255912eee028567394ba4a4f3c025d8",
+        "crc32": "c27b6adc",
+        "sha1": "fcbe7c9a5ee49b00f1b567ca66bc16ff5a39b70e"
+      },
+      {
+        "name": "hamburgermagic00linc.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "hamburgermagic00linc_page_numbers.json",
+        "mtime": "1720431176",
+        "size": "11264322",
+        "md5": "9a79fe5fb3911489c26c498b5d591997",
+        "crc32": "d59c0cb3",
+        "sha1": "87be28f602a6bd59cea570a3c995f29490967efc",
+        "private": "true"
+      },
+      {
+        "name": "hamburgermagic00linc_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "hamburgermagic00linc_jp2.zip",
+        "mtime": "1343954666",
+        "size": "1993448",
+        "md5": "3232fce8ae0c3059be6bed64dcc41778",
+        "crc32": "aa1fdd43",
+        "sha1": "03aad6c6211a55c508c735f75fc6649398da5da6",
+        "private": "true"
+      },
+      {
+        "name": "hamburgermagic00linc_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "hamburgermagic00linc_abbyy.gz",
+        "mtime": "1660113398",
+        "size": "1615622",
+        "md5": "eb00d1610ca1f21bd427c078ddff4ef4",
+        "crc32": "214bcc88",
+        "sha1": "948034a836b09fc5bff2d006fec03b8697b0266e",
+        "private": "true"
+      },
+      {
+        "name": "hamburgermagic00linc_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "hamburgermagic00linc_scandata.xml",
+        "mtime": "1670108472",
+        "size": "771",
+        "md5": "cd5348d612338df637a54b106061d20e",
+        "crc32": "3a7e328c",
+        "sha1": "85534cbb304a63473e2ae14e27e7418d54335822",
+        "private": "true"
+      },
+      {
+        "name": "hamburgermagic00linc_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1333745014",
+        "size": "830",
+        "md5": "d45d3e1dab39d79cbbac61141f9a9ce6",
+        "crc32": "e7d7ae8e",
+        "sha1": "f2056029d53fe9df857c6668a6bb5afd7dff2bf6"
+      },
+      {
+        "name": "hamburgermagic00linc_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "hamburgermagic00linc_djvu.xml",
+        "mtime": "1720431902",
+        "size": "143574",
+        "md5": "695f0cacd4391734f5058c7f88ee12fb",
+        "crc32": "6fe584ab",
+        "sha1": "6d01e6821e0991aa9c63dc4000c83cea0ddc9a39",
+        "private": "true"
+      },
+      {
+        "name": "hamburgermagic00linc_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "hamburgermagic00linc_hocr.html",
+        "mtime": "1720428667",
+        "size": "1749112",
+        "md5": "e0a2823bec74e5fc84fed9387a548779",
+        "crc32": "c3d6e796",
+        "sha1": "cd6e63d3261581697194dfc08ed8246ad9171d0f",
+        "private": "true"
+      },
+      {
+        "name": "hamburgermagic00linc_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "hamburgermagic00linc.pdf",
+        "mtime": "1720431908",
+        "size": "11238951",
+        "md5": "2e631dcc502bba558bcfbda8bac4d469",
+        "crc32": "17e7832b",
+        "sha1": "5ceb837db89c6492c14705eccc5e386275ddfb18"
+      },
+      {
+        "name": "hamburgermagic00linc_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "7a019f07dbb32513da8570719b319280",
+        "summation": "md5"
+      },
+      {
+        "name": "hamburgermagic00linc_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "hamburgermagic00linc_chocr.html.gz",
+        "mtime": "1660113438",
+        "size": "3473697",
+        "md5": "a53e0365cd064217a513854622a58dcd",
+        "crc32": "8fe841b3",
+        "sha1": "a4e1355bf8d07d7b69ffabcab04206875b65e7ac",
+        "private": "true"
+      },
+      {
+        "name": "hamburgermagic00linc_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "hamburgermagic00linc_hocr.html",
+        "mtime": "1660113463",
+        "size": "1104",
+        "md5": "869f143c093bcabfb89f6e4bd0837b99",
+        "crc32": "4a756742",
+        "sha1": "a30ed34404ce357bd42ce2708fe22f08979e7163",
+        "private": "true"
+      },
+      {
+        "name": "hamburgermagic00linc_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2693",
+        "word_conf_11_20": "1733",
+        "word_conf_21_30": "2708",
+        "word_conf_31_40": "2761",
+        "word_conf_41_50": "3504",
+        "word_conf_51_60": "3043",
+        "word_conf_61_70": "1945",
+        "word_conf_71_80": "851",
+        "word_conf_81_90": "457",
+        "word_conf_91_100": "636",
+        "format": "OCR Search Text",
+        "original": "hamburgermagic00linc_hocr.html",
+        "mtime": "1660113477",
+        "size": "37598",
+        "md5": "1b88acdf0c6ab758aa789b62dab8accb",
+        "crc32": "279b4f68",
+        "sha1": "2f6bb17975f5d65452754bcb724863283aac59c0",
+        "private": "true"
+      },
+      {
+        "name": "hamburgermagic00linc_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "hamburgermagic00linc_orig_jp2.tar",
+        "mtime": "1343953554",
+        "size": "49850738",
+        "md5": "06d0e00bac4694c92a36e05f49159fad",
+        "crc32": "d72432a3",
+        "sha1": "1d65bb1f65a9bb885906e32c3c7c62481d04c6c4",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "hamburgermagic00linc_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "hamburgermagic00linc.epub",
+        "mtime": "1753424206",
+        "size": "21908543",
+        "md5": "dae2243d29a7c75f082e898441674397",
+        "crc32": "6113c6bd",
+        "sha1": "39c7f3806950ba911e59e4fc76dab894c578e3ef"
+      },
+      {
+        "name": "hamburgermagic00linc_loans.json",
+        "source": "original",
+        "mtime": "1593677581",
+        "size": "3397",
+        "format": "JSON",
+        "private": "true",
+        "md5": "166c576116f2aaff7bc321a5d86a12c0",
+        "crc32": "fe6efabb",
+        "sha1": "b995b23ec772075fd22dde2e099dd3c2e9c7cea2"
+      },
+      {
+        "name": "hamburgermagic00linc_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1333745014",
+        "size": "2046",
+        "md5": "17f8c48145f36087b2942ed6d7a7178a",
+        "crc32": "4936f8fc",
+        "sha1": "4176e06357390033d80af9df169cc874d0e9fa8a"
+      },
+      {
+        "name": "hamburgermagic00linc_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "hamburgermagic00linc_xisbn.json",
+        "mtime": "1454482439",
+        "size": "241",
+        "md5": "a9c938ed30c190b811bb37d29bfa65de",
+        "crc32": "0fe42308",
+        "sha1": "7e29c4be2635782f3a2a94cde08c4e7398bfff17",
+        "private": "true"
+      },
+      {
+        "name": "hamburgermagic00linc_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1333745014",
+        "size": "588",
+        "md5": "b934f689218829c86db3675457b8d64c",
+        "crc32": "d81dc478",
+        "sha1": "db1ee0eb2a582858435e02524646d99fa94ac505"
+      },
+      {
+        "name": "hamburgermagic00linc_meta.sqlite",
+        "source": "original",
+        "mtime": "1464241340",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "440bd00d7485b9ca01d1ce70e8b4ebe8",
+        "crc32": "252737c6",
+        "sha1": "b1612173c351499fd8fb22b70e03ed6fe165fd1a"
+      },
+      {
+        "name": "hamburgermagic00linc_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753424207",
+        "size": "3161",
+        "md5": "cdd013fa76d132daf05d6780b3c51701",
+        "crc32": "f48dd2a0",
+        "sha1": "4526365df7e9c1f24739b0964a6a12207884da48"
+      },
+      {
+        "name": "hamburgermagic00linc_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1333745014",
+        "size": "293",
+        "md5": "6cee7e2fa931b5fc16b511a3c3522805",
+        "crc32": "38412f6f",
+        "sha1": "2af3b13eddb267070fbad335f2c5871ba7f09819"
+      },
+      {
+        "name": "hamburgermagic00linc_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1343661651",
+        "size": "67891200",
+        "md5": "2d85933298e15d104eae209b7ed03151",
+        "crc32": "31484803",
+        "sha1": "76b6c3a13dc2b3e7a4b43aaaf3067e017646a580",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "hamburgermagic00linc_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "hamburgermagic00linc_hocr.html",
+        "mtime": "1720428872",
+        "size": "16975",
+        "md5": "e78101e859aa831f29ff56bc9a7e3d44",
+        "crc32": "d26f1e81",
+        "sha1": "a709a6e16571e95a0da5b9288ba7f8db7830a6e1",
+        "private": "true"
+      },
+      {
+        "name": "hamburgermagic00linc_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670108471",
+        "size": "133238",
+        "md5": "32c7d29c38995561795d0380512a8d95",
+        "crc32": "05869259",
+        "sha1": "ff619379c04193177483f5af4d4383e88c5e8a48"
+      },
+      {
+        "name": "hamburgermagic00linc_xisbn.json",
+        "source": "original",
+        "mtime": "1454482320",
+        "size": "289",
+        "md5": "e47b1625b4a28db727a6558e75fa2591",
+        "crc32": "5601b02b",
+        "sha1": "740f050ae5a46a2b7ced130c706c675e65b64acc",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1753424207,
+    "item_size": 204942283,
+    "metadata": {
+      "title": "Hamburger magic",
+      "isbn": [
+        "078535493X",
+        "9780785354932"
+      ],
+      "openlibrary": "OL8101417M",
+      "subject": [
+        "Cooking (Beef)",
+        "Hamburgers"
+      ],
+      "publisher": "Lincolnwood, IL : Publications International",
+      "date": "2001-01-01",
+      "language": "eng",
+      "lccn": "2002278583",
+      "description": "Includes index",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-04-06 20:42:21",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "F0113",
+      "boxid": "IA137915",
+      "identifier": "hamburgermagic00linc",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2012-04-06 20:43:36",
+      "publicdate": "2012-04-06 20:43:40",
+      "scanner": "scribe13.shenzhen.archive.org",
+      "repub_seconds": "73",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-siy@archive.org",
+      "scandate": "20120730053157",
+      "republisher": "scanner-shenzhen-beck@archive.org",
+      "imagecount": "102",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/hamburgermagic00linc",
+      "identifier-ark": "ark:/13960/t1mg8t30s",
+      "scanfee": "125",
+      "donor": "alibris",
+      "sponsordate": "not to be invoiced-past billing period",
+      "external-identifier": [
+        "urn:acs6:hamburgermagic00linc:pdf:198926bc-ad70-4522-be23-4e2e01d0ab4a",
+        "urn:acs6:hamburgermagic00linc:epub:aadb00ba-3d8f-45a8-8061-8b5d3e95dd26",
+        "urn:oclc:record:1035090738",
+        "urn:lcp:hamburgermagic00linc:lcpdf:8fb8540f-2f7f-4787-b983-1a00dc110a6e",
+        "urn:lcp:hamburgermagic00linc:epub:277296d9-d3ae-4b83-ac75-285091d31a20"
+      ],
+      "city": "Lincolnwood, IL",
+      "oclc-id": "49421818",
+      "backup_location": "ia903801_13",
+      "openlibrary_edition": "OL8101417M",
+      "openlibrary_work": "OL16581759W",
+      "republisher_operator": "scanner-shenzhen-beck@archive.org",
+      "republisher_date": "20120730151949",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "filesxml": "Wed Apr 3 3:59:57 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia800202.us.archive.org",
+    "uniq": 1767977575,
+    "workable_servers": [
+      "ia800202.us.archive.org",
+      "ia600202.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/49421818?referer=xid"
+          ],
+          "publisher": "Publications International",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2002278583"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "2001",
+          "isbn": [
+            "078535493X"
+          ],
+          "title": "Hamburger magic.",
+          "oclcnum": [
+            "49421818"
+          ]
+        }
+      ]
+    }
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

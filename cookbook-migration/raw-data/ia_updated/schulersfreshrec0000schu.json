@@ -1,0 +1,509 @@
+{
+  "source": "internet_archive",
+  "identifier": "schulersfreshrec0000schu",
+  "title": "Schuler's : fresh recipes & warm memories",
+  "creator": "Schuler, Jonathan",
+  "year": 2004,
+  "subject": [
+    "Schuler's (Restaurant) -- History",
+    "Cooking, American"
+  ],
+  "description": [
+    "184 p. : 27 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/schulersfreshrec0000schu"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/schulersfreshrec0000schu"
+        }
+      ]
+    },
+    "created": 1758555782,
+    "d1": "ia903104.us.archive.org",
+    "d2": "ia803104.us.archive.org",
+    "dir": "/33/items/schulersfreshrec0000schu",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661023908",
+        "size": "10264",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "ae7799b3f49c8cc8ffa8275227da0af6",
+        "crc32": "0b77d6d0",
+        "sha1": "470992ca788b0009b2788ec66a0a0429d71bd876"
+      },
+      {
+        "name": "logs/schulersfreshrec0000schu_iabdash_2019-10-2906:55:00.log",
+        "source": "original",
+        "mtime": "1572303305",
+        "size": "1357",
+        "md5": "aee839bf84e33eb58e6c3bf53bf7fc62",
+        "crc32": "1bad48f6",
+        "sha1": "74713ab233937a3673c0bb3afc0dcc38e8283d53",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/schulersfreshrec0000schu_scanning_2019-10-2906:55:06.log",
+        "source": "original",
+        "mtime": "1572303310",
+        "size": "633260",
+        "md5": "b72c1281f21ae4ca30cd841bab945853",
+        "crc32": "5c089500",
+        "sha1": "2502d59deec191801ec62d8c5503febe2c0543da",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "schulersfreshrec0000schu_hocr.html",
+        "mtime": "1754002564",
+        "size": "68151479",
+        "private": "true",
+        "md5": "73f4021cfe8158501fc58e60c73fa58b",
+        "crc32": "13e40a36",
+        "sha1": "78be5b07dcc12aad7c44926b90636266ca4bbb18"
+      },
+      {
+        "name": "schulersfreshrec0000schu.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "schulersfreshrec0000schu.pdf",
+        "mtime": "1754002098",
+        "size": "15891406",
+        "md5": "d23a452ff89158ed9e11c473257e2582",
+        "crc32": "23b3212e",
+        "sha1": "e980084ec99eb115452e9160c20e1f9b3cc8c676"
+      },
+      {
+        "name": "schulersfreshrec0000schu.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "schulersfreshrec0000schu_page_numbers.json",
+        "mtime": "1722836408",
+        "size": "15356256",
+        "md5": "7c5523d064617fbbcfa6604c3e731467",
+        "crc32": "a4979f02",
+        "sha1": "7cf85f8cc8a1d94b58d5bd3d505d830ffd2d1db6",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "schulersfreshrec0000schu_jp2.zip",
+        "mtime": "1572867562",
+        "size": "3853747",
+        "md5": "41c9d64a4f1a7d16ee99296af0653ed0",
+        "crc32": "16440aa7",
+        "sha1": "c1835957aa87276080e72dcd20488122a9abd049",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "schulersfreshrec0000schu_abbyy.gz",
+        "mtime": "1661023654",
+        "size": "3327690",
+        "md5": "5d7d9e41f4d3ddd625c797ae984216df",
+        "crc32": "5920fca0",
+        "sha1": "3cd8f42bd7012660d49b5c4fa5fcfbec1d1f6ed0",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "schulersfreshrec0000schu_scandata.xml",
+        "mtime": "1671179086",
+        "size": "787",
+        "md5": "895b701e443106938098d902949d6c92",
+        "crc32": "3c5f86a6",
+        "sha1": "2cd4cbaa3cd0062d52a178b4086c16bb47b72514",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1572862425",
+        "size": "1122",
+        "md5": "a83f05fb4764b9fc304f475973bc506c",
+        "crc32": "37db17fb",
+        "sha1": "8a0e896bc8c3620fbc20ea72abe3fa6a47346d81"
+      },
+      {
+        "name": "schulersfreshrec0000schu_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "schulersfreshrec0000schu_djvu.xml",
+        "mtime": "1661023887",
+        "size": "300583",
+        "md5": "0c4db38072b3d0f7d465b5c030b7069e",
+        "crc32": "f9e4ea0b",
+        "sha1": "361c915337bdafa11661c39606f9c2162b64315a",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "schulersfreshrec0000schu_hocr.html",
+        "mtime": "1661023783",
+        "size": "3714733",
+        "md5": "c274d5cd6e774d580aa0eac4af91f3dc",
+        "crc32": "157f41cd",
+        "sha1": "288b886b2fbd8245f3f9fea0653e008342201bf8",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "schulersfreshrec0000schu_abbyy.gz",
+        "mtime": "1572869417",
+        "size": "2094927",
+        "md5": "8f8ddec720203b29a2d0f9fb00eaa884",
+        "crc32": "4830786c",
+        "sha1": "a6dbb557a844eca3fafabb1a50629514f1e3c57f"
+      },
+      {
+        "name": "schulersfreshrec0000schu_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "schulersfreshrec0000schu.pdf",
+        "mtime": "1722837368",
+        "size": "15244434",
+        "md5": "2b49330526f3de8819d2a9ba46c22005",
+        "crc32": "a036f93f",
+        "sha1": "a784684762873751787e1af1b2a3ccd588e273bb"
+      },
+      {
+        "name": "schulersfreshrec0000schu_events.json",
+        "source": "original",
+        "mtime": "1572862352",
+        "size": "55",
+        "md5": "ab8db8e0e0f3761bc8029e3b3b6ef717",
+        "crc32": "2a71ef05",
+        "sha1": "23558454865e9f48ca9f8ee15a15770f901bdabd",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "1bbb9efee19a1b59402713876ec50bc5",
+        "summation": "md5"
+      },
+      {
+        "name": "schulersfreshrec0000schu_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "schulersfreshrec0000schu_chocr.html.gz",
+        "mtime": "1661023732",
+        "size": "7666201",
+        "md5": "d7ab3c99389c7c12bec8aa1f73320f11",
+        "crc32": "55bbd40f",
+        "sha1": "f255b41afcb7e6a5b8e652e68a63b9f6d8d0d648",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "schulersfreshrec0000schu_hocr.html",
+        "mtime": "1661023802",
+        "size": "2189",
+        "md5": "2cdd4bad78514f0da1a0c149e44f079a",
+        "crc32": "ca89c82f",
+        "sha1": "db7bc55ac6e6f001b14c09aefba0ddaf16f8a620",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "272",
+        "word_conf_11_20": "180",
+        "word_conf_21_30": "252",
+        "word_conf_31_40": "335",
+        "word_conf_41_50": "628",
+        "word_conf_51_60": "1083",
+        "word_conf_61_70": "2553",
+        "word_conf_71_80": "6105",
+        "word_conf_81_90": "12433",
+        "word_conf_91_100": "20388",
+        "format": "OCR Search Text",
+        "original": "schulersfreshrec0000schu_hocr.html",
+        "mtime": "1661023853",
+        "size": "94368",
+        "md5": "ef79d94f5b706d1383c3c96c342e76dd",
+        "crc32": "066fca81",
+        "sha1": "3d18aeb40fb020a54059d0d491103f32a63b7ce2",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "schulersfreshrec0000schu_orig_jp2.tar",
+        "mtime": "1572866572",
+        "size": "126314875",
+        "md5": "dd0cedfca50ada26c28c9f55d7007dfb",
+        "crc32": "129430d6",
+        "sha1": "a9de97ad8d7003aee461a7cff504477ee22d6398",
+        "private": "true",
+        "filecount": "194"
+      },
+      {
+        "name": "schulersfreshrec0000schu_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "schulersfreshrec0000schu.epub",
+        "mtime": "1754002905",
+        "size": "69710751",
+        "md5": "9d380fa7eac6e723d3ba0c4d4e6b2d52",
+        "crc32": "df9079fd",
+        "sha1": "2ca1ac6fa1862e4edca1d2c7cbe0ceb4eae5e0ca"
+      },
+      {
+        "name": "schulersfreshrec0000schu_loans.json",
+        "source": "original",
+        "mtime": "1594396047",
+        "size": "1352",
+        "format": "JSON",
+        "private": "true",
+        "md5": "7b707427094fa837dcb4efca71476669",
+        "crc32": "1c334f82",
+        "sha1": "45c4e7b946be186ca70ca6b6c64b8c772334c9f2"
+      },
+      {
+        "name": "schulersfreshrec0000schu_marc.xml",
+        "source": "original",
+        "mtime": "1572862425",
+        "size": "2646",
+        "format": "MARC",
+        "md5": "1cddb88845a23c71fa24564a3ab27ade",
+        "crc32": "e71a51df",
+        "sha1": "2ca41d945e1c12a0e011d4dde80ac09d01bdb5be"
+      },
+      {
+        "name": "schulersfreshrec0000schu_meta.mrc",
+        "source": "original",
+        "mtime": "1572303300",
+        "size": "817",
+        "md5": "b118f38017ac1b2d9745665dd0457089",
+        "crc32": "7c472742",
+        "sha1": "cadabef5c616eb0e379ba32ece323ec6c0253b42",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "schulersfreshrec0000schu_meta.sqlite",
+        "source": "original",
+        "mtime": "1572862384",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "abee1ac02a51156928128d443a6e4454",
+        "crc32": "d0352300",
+        "sha1": "a8d6905e39eb3bef5fd0d6e7a107ca5a8d812777"
+      },
+      {
+        "name": "schulersfreshrec0000schu_meta.xml",
+        "source": "original",
+        "mtime": "1754002906",
+        "size": "3050",
+        "format": "Metadata",
+        "md5": "0a2245a7e433b4462628b742cefa2142",
+        "crc32": "d347fd47",
+        "sha1": "dcb30fdf4c4066a93456e1c4b4aaeeb838a5b6db"
+      },
+      {
+        "name": "schulersfreshrec0000schu_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1572862384",
+        "size": "248432640",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "f4fb06dcc666f8855c0abb4f828ff184",
+        "crc32": "20f0a32d",
+        "sha1": "f1918c47eab360fecaef532375831cf63ca72c6f",
+        "filecount": "194"
+      },
+      {
+        "name": "schulersfreshrec0000schu_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "90",
+        "format": "Page Numbers JSON",
+        "original": "schulersfreshrec0000schu_hocr.html",
+        "mtime": "1722836404",
+        "size": "32760",
+        "md5": "ff807623f22d03538dce9df28c5edeee",
+        "crc32": "624373ab",
+        "sha1": "33b3f83d359c2875574ea0fa1df907380f99c534",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu_scandata.xml",
+        "source": "original",
+        "mtime": "1671179086",
+        "size": "198523",
+        "format": "Scandata",
+        "md5": "6b8f00b3458f0ce0332359ee119cbc41",
+        "crc32": "c97b5d3b",
+        "sha1": "60dfafceacc935dc09a24010a087c812ef8d4178"
+      },
+      {
+        "name": "schulersfreshrec0000schu_slip.png",
+        "source": "original",
+        "mtime": "1572302461",
+        "size": "38473",
+        "md5": "db67e0769ede4af8f5055355a4de3759",
+        "crc32": "0399312c",
+        "sha1": "efb436c4ad35b58da72add547e41747128dfae1d",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "schulersfreshrec0000schu_slip.png",
+        "mtime": "1572862428",
+        "size": "5877",
+        "md5": "5b75a4f6a7c040c8cf73efde34506b4b",
+        "crc32": "64bff9bb",
+        "sha1": "95a54c9484a93c4667cb4c731e88c99862f910bf",
+        "private": "true"
+      },
+      {
+        "name": "schulersfreshrec0000schu_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "schulersfreshrec0000schu_djvu.xml",
+        "mtime": "1671178751",
+        "size": "777",
+        "md5": "4fb9fe6de9253899e9bc0520cc8630a5",
+        "crc32": "74804c1a",
+        "sha1": "9f217bb8245d960dc222200fa95e6d31dfd4ca0f",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1754002906,
+    "item_size": 581105831,
+    "metadata": {
+      "identifier": "schulersfreshrec0000schu",
+      "associated-names": "Schuler, Hans",
+      "boxid": "IA1682202",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Schuler, Jonathan",
+      "date": "2004-01-01",
+      "description": [
+        "184 p. : 27 cm",
+        "Includes index"
+      ],
+      "isbn": "193239902X",
+      "language": "eng",
+      "lccn": "2003023287",
+      "mediatype": "texts",
+      "notes": "Some texts are cut runs into the gutter<br />",
+      "old_pallet": "IA16105",
+      "openlibrary_edition": "OL24530186M",
+      "openlibrary_work": "OL15577619W",
+      "operator": "associate-jessanen-becari@archive.org",
+      "ppi": "300",
+      "publisher": "Ann Arbor, MI : Huron River Press",
+      "repub_state": "19",
+      "scanner": "station44.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "193239902",
+      "subject": [
+        "Schuler's (Restaurant) -- History",
+        "Cooking, American"
+      ],
+      "title": "Schuler's : fresh recipes & warm memories",
+      "tts_version": "3.0-initial-170-gdf78d52",
+      "uploader": "station44.cebu@archive.org",
+      "addeddate": "2019-10-28 22:41:01",
+      "publicdate": "2019-10-28 22:41:12",
+      "access-restricted-item": "true",
+      "imagecount": "194",
+      "scandate": "20191028235741",
+      "republisher_operator": "associate-marve-boquila@archive.org",
+      "republisher_date": "20191104181222",
+      "republisher_time": "775",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/schulersfreshrec0000schu",
+      "identifier-ark": "ark:/13960/t6065kf7n",
+      "external-identifier": [
+        "urn:acs6:schulersfreshrec0000schu:epub:5a944fbc-0ac9-4f3c-9c97-8a1e95944635",
+        "urn:acs6:schulersfreshrec0000schu:pdf:4f8f6ff8-86fc-4db5-948a-7609c0f93bbe",
+        "urn:oclc:record:1151178887",
+        "urn:lcp:schulersfreshrec0000schu:lcpdf:5d0f94ac-71ee-4123-9d6d-c7347e2224eb",
+        "urn:lcp:schulersfreshrec0000schu:epub:99d6c905-beac-40a7-a33b-a67e16ca5da0"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191031",
+      "backup_location": "ia907004_31",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "90",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia903104.us.archive.org",
+    "uniq": 2062815836,
+    "workable_servers": [
+      "ia903104.us.archive.org",
+      "ia803104.us.archive.org"
+    ]
+  },
+  "institution": "Schuler, Jonathan",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

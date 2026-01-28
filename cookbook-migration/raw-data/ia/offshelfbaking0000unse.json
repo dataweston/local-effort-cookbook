@@ -1,0 +1,500 @@
+{
+  "source": "internet_archive",
+  "identifier": "offshelfbaking0000unse",
+  "title": "Off the shelf baking",
+  "creator": null,
+  "year": 2006,
+  "subject": [
+    "Baking",
+    "Quick and easy cookery"
+  ],
+  "description": [
+    "255 p. : 23 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/offshelfbaking0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/offshelfbaking0000unse"
+        }
+      ]
+    },
+    "created": 1758335794,
+    "d1": "ia903200.us.archive.org",
+    "d2": "ia803200.us.archive.org",
+    "dir": "/31/items/offshelfbaking0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660790557",
+        "size": "19167",
+        "md5": "44b3b6f20b058f66cab9cc49e407a23e",
+        "crc32": "0a0777fe",
+        "sha1": "9e25c7810a8433ce7fa17ee25c9973c05858b6fb",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/offshelfbaking0000unse_iabdash_2020-07-0308:04:35.log",
+        "source": "original",
+        "mtime": "1593734687",
+        "size": "2684",
+        "md5": "c16e31f4678ed2d0926642298620f285",
+        "crc32": "776ac268",
+        "sha1": "d8fc8645a41da164327f00d8e226b117b45f51b7",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/offshelfbaking0000unse_scanning_2020-07-0308:05:05.log",
+        "source": "original",
+        "mtime": "1593734710",
+        "size": "965701",
+        "md5": "318af107faca69a547c30d5dffe14f9d",
+        "crc32": "96489d46",
+        "sha1": "40692a46ece2b4810492ca4eaaf99b9742afb7f4",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/offshelfbaking0000unse_status_history_2020-07-0308:04:50.log",
+        "source": "original",
+        "mtime": "1593734703",
+        "size": "408",
+        "md5": "7d194bbc919a9a17a4aa9bdf05e9d1ca",
+        "crc32": "a8417e03",
+        "sha1": "36d688baa628329f06eacb61cc052c9d3f5a7242",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "offshelfbaking0000unse_hocr.html",
+        "mtime": "1757179778",
+        "size": "26813020",
+        "private": "true",
+        "md5": "b8e7ae0a4c2cc31a07aaa826a80743f3",
+        "crc32": "c543b2d9",
+        "sha1": "068be2611454282e9eb656306c8f25c698653ce5"
+      },
+      {
+        "name": "offshelfbaking0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "offshelfbaking0000unse.pdf",
+        "mtime": "1757179677",
+        "size": "13522688",
+        "md5": "897045e86bb233616bc3197eb60f882c",
+        "crc32": "e4829460",
+        "sha1": "b6a80c5b3cddff1c1e36cc3d3419cba688364bb0"
+      },
+      {
+        "name": "offshelfbaking0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "offshelfbaking0000unse_page_numbers.json",
+        "mtime": "1718146775",
+        "size": "13212980",
+        "md5": "a5f42324b470983c19bbc4ce753fb705",
+        "crc32": "d6f270df",
+        "sha1": "22e55c60e582b6b90bcdba98c964a2c3f20b435e",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "offshelfbaking0000unse_jp2.zip",
+        "mtime": "1594808886",
+        "size": "6217314",
+        "md5": "65c42945af8de6665276c36a26346ec0",
+        "crc32": "1cd7dc07",
+        "sha1": "d509a440b5f0ea3bd61635a2b33f140bc130917c",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "offshelfbaking0000unse_abbyy.gz",
+        "mtime": "1660789939",
+        "size": "5239688",
+        "md5": "b84600e0e4bcd74da254eb8567d2b62b",
+        "crc32": "5c1a3cf5",
+        "sha1": "e7685dd341136486d99c1babe1404f678906a82d",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "offshelfbaking0000unse_scandata.xml",
+        "mtime": "1670799271",
+        "size": "779",
+        "md5": "3f7a1c08079282bb89cd867dc9049d56",
+        "crc32": "8bd473f9",
+        "sha1": "c6edf4c5f9e0f4e647dd5e0c9feda68cac21e3fe",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1594800501",
+        "size": "1013",
+        "md5": "7d3f2bfc3b734599fb002f92c31c949d",
+        "crc32": "c7f68024",
+        "sha1": "40357e0aad2b478389dda6c2efd1b965d83e4086"
+      },
+      {
+        "name": "offshelfbaking0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "offshelfbaking0000unse_djvu.xml",
+        "mtime": "1660790496",
+        "size": "478507",
+        "md5": "bd03e73a21f764ef752f32ec86fc2968",
+        "crc32": "5446149f",
+        "sha1": "56f69e31da1435891261bb8b6587087fccf80119",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "offshelfbaking0000unse_hocr.html",
+        "mtime": "1660790195",
+        "size": "6007875",
+        "md5": "fd25ff1f262aadee49f5ac70436a30de",
+        "crc32": "2314c082",
+        "sha1": "cf12abec0577ae260da13e567af42770245688a9",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "offshelfbaking0000unse_abbyy.gz",
+        "mtime": "1594809163",
+        "size": "8840970",
+        "md5": "c003cc932c17e07b785b7d165a0b75ad",
+        "crc32": "e6813435",
+        "sha1": "4fcb049237f836c2981fd558d4ed7ab6f94cbba4"
+      },
+      {
+        "name": "offshelfbaking0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "offshelfbaking0000unse.pdf",
+        "mtime": "1718147576",
+        "size": "12958692",
+        "md5": "276990c8236674a7ba59997c424c6c1e",
+        "crc32": "c63d2587",
+        "sha1": "7e1ce43e1474ad169da47f1058f7f0ab4169c78c"
+      },
+      {
+        "name": "offshelfbaking0000unse_events.json",
+        "source": "original",
+        "mtime": "1594800105",
+        "size": "66",
+        "md5": "626c42a034f83e89671434d16d0c108e",
+        "crc32": "e6edf324",
+        "sha1": "2cc10ceddcb1d4ab5583f0369e0fefaff8163d03",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "977c5df2234b5041c4832ae1dcfc76b1",
+        "summation": "md5"
+      },
+      {
+        "name": "offshelfbaking0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "offshelfbaking0000unse_chocr.html.gz",
+        "mtime": "1660790138",
+        "size": "12994705",
+        "md5": "0d10cff39618f25761f5d1ffad4b03d6",
+        "crc32": "1deaf387",
+        "sha1": "e8f44e4f9b096eb22a5c79a3b9f5a91edac020a3",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "offshelfbaking0000unse_hocr.html",
+        "mtime": "1660790346",
+        "size": "3065",
+        "md5": "b0f4c3f6a5cc07e0192dd6b562b38157",
+        "crc32": "ed70ab2d",
+        "sha1": "99afad7b603ceb90f21d548ec5163eac147bf594",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "310",
+        "word_conf_11_20": "311",
+        "word_conf_21_30": "543",
+        "word_conf_31_40": "957",
+        "word_conf_41_50": "1608",
+        "word_conf_51_60": "2613",
+        "word_conf_61_70": "4913",
+        "word_conf_71_80": "8741",
+        "word_conf_81_90": "16561",
+        "word_conf_91_100": "33291",
+        "format": "OCR Search Text",
+        "original": "offshelfbaking0000unse_hocr.html",
+        "mtime": "1660790448",
+        "size": "118011",
+        "md5": "eb621e9c6c7f76cc83b5de6fb218ec59",
+        "crc32": "cfaec745",
+        "sha1": "72b22c91540aee962e1faa7198e74a20d96c2f93",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "offshelfbaking0000unse_orig_jp2.tar",
+        "mtime": "1594806839",
+        "size": "106321185",
+        "md5": "c3069123e7831e4317db5c6779a99e1b",
+        "crc32": "02341f98",
+        "sha1": "75a002b835646800b2e382a83947682a0659b004",
+        "private": "true",
+        "filecount": "262"
+      },
+      {
+        "name": "offshelfbaking0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "offshelfbaking0000unse.epub",
+        "mtime": "1757180022",
+        "size": "27022688",
+        "md5": "38940ea35e15e88bddeb793454f0f4d6",
+        "crc32": "64c5d918",
+        "sha1": "59668a6dc176cec9690494c20b55a17aa1d98e87"
+      },
+      {
+        "name": "offshelfbaking0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1593734674",
+        "size": "2580",
+        "md5": "592a22fef91ea5872a517824721226a5",
+        "crc32": "8452ad60",
+        "sha1": "30eebe3eeed4e89aaf02fcb37452936f7a6096da",
+        "format": "MARC"
+      },
+      {
+        "name": "offshelfbaking0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1593734666",
+        "size": "789",
+        "md5": "dd0978b8d9c68a0dfb6862dbcfb71d54",
+        "crc32": "647ee9e7",
+        "sha1": "4f60793941f300d16456125830eef74542733d40",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "offshelfbaking0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1594800318",
+        "size": "19456",
+        "md5": "b4e9b3c6a22e901841db3f1fff72b8ad",
+        "crc32": "d5946696",
+        "sha1": "a05dbba3dbeab7905dff0a0630a5275ce2485e8b",
+        "format": "Metadata"
+      },
+      {
+        "name": "offshelfbaking0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1757180023",
+        "size": "2979",
+        "md5": "1b67b7ef0bc33ec994ed202599e469e2",
+        "crc32": "e1fea57a",
+        "sha1": "344943a7599601d7cfcf65a04e3d873c12fc7192",
+        "format": "Metadata"
+      },
+      {
+        "name": "offshelfbaking0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1594800316",
+        "size": "379699200",
+        "md5": "e462e1b5e69ee96dc2596a186e176004",
+        "crc32": "b4b26315",
+        "sha1": "ad69cc2aa3240e2c3c08dee371044deba94ab315",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "262"
+      },
+      {
+        "name": "offshelfbaking0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "96",
+        "format": "Page Numbers JSON",
+        "original": "offshelfbaking0000unse_hocr.html",
+        "mtime": "1718146775",
+        "size": "44315",
+        "md5": "47ba11a73a1a91ae730f4b9666c79ff0",
+        "crc32": "abbf7a61",
+        "sha1": "296cd6582d8eea379eb493608fa56aac40a1bf9b",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670799271",
+        "size": "267991",
+        "md5": "106230de92e501459e2cf2b44aabf02b",
+        "crc32": "3f42c261",
+        "sha1": "b0bea045c02188c42637af4797057354fd159be2",
+        "format": "Scandata"
+      },
+      {
+        "name": "offshelfbaking0000unse_slip.png",
+        "source": "original",
+        "mtime": "1593733074",
+        "size": "40318",
+        "md5": "b6221d4936bcde38640040c0734c31ce",
+        "crc32": "65289e65",
+        "sha1": "677874392b4d955b3c74e364b8b4f15771a56bfc",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "offshelfbaking0000unse_slip.png",
+        "mtime": "1594800509",
+        "size": "5520",
+        "md5": "1f048a0fa3690db0d036059aba5eccb3",
+        "crc32": "83f86f04",
+        "sha1": "7973d7328d5a6e995880e193b0776e411716c178",
+        "private": "true"
+      },
+      {
+        "name": "offshelfbaking0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "offshelfbaking0000unse_djvu.xml",
+        "mtime": "1670798847",
+        "size": "699",
+        "md5": "bf2593eb76b5260ead4a79316d999f45",
+        "crc32": "13572716",
+        "sha1": "d5bdfcfcaf567f5e91541d76f6dfd901e37cb5cc",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1757180023,
+    "item_size": 620825053,
+    "metadata": {
+      "identifier": "offshelfbaking0000unse",
+      "associated-names": "Laning, Tricia; Better Homes and Gardens Books (Firm)",
+      "boxid": "IA1881406",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2006-01-01",
+      "description": [
+        "255 p. : 23 cm",
+        "Includes index"
+      ],
+      "isbn": "0696232685",
+      "language": "eng",
+      "lccn": "2006921319",
+      "mediatype": "texts",
+      "old_pallet": "IA18373",
+      "openlibrary_edition": "OL7761276M",
+      "openlibrary_work": "OL8194429W",
+      "operator": "associate-jundale-gabutan@archive.org",
+      "ppi": "300",
+      "publisher": "Des Moines, Iowa : Meredith Books",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station02.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780696232688",
+      "subject": [
+        "Baking",
+        "Quick and easy cookery"
+      ],
+      "title": "Off the shelf baking",
+      "tts_version": "4.0-initial-155-gbba175a5",
+      "uploader": "station02.cebu@archive.org",
+      "publicdate": "2020-07-02 23:39:30",
+      "access-restricted-item": "true",
+      "imagecount": "262",
+      "scandate": "20200703010502",
+      "notes": "Obscured text on back cover.<br />",
+      "republisher_operator": "associate-louiseviktoria-saligumba@archive.org",
+      "republisher_date": "20200715160128",
+      "republisher_time": "494",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/offshelfbaking0000unse",
+      "identifier-ark": "ark:/13960/t17m97b9k",
+      "external-identifier": [
+        "urn:acs6:offshelfbaking0000unse:epub:527d9764-5228-4341-abbe-fc7cf237c8cd",
+        "urn:acs6:offshelfbaking0000unse:pdf:643884bb-d874-46ba-8bd4-e4fa2ecd5769",
+        "urn:oclc:record:1194902561",
+        "urn:lcp:offshelfbaking0000unse:lcpdf:5e253dff-1ffd-4b14-a26c-4fb541c86703",
+        "urn:lcp:offshelfbaking0000unse:epub:3df3a013-0b51-4431-900d-52eea873ad1e"
+      ],
+      "page_number_confidence": "96",
+      "addeddate": "2020-07-15 15:30:34",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20200731",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "2006-01-01"
+      ]
+    },
+    "server": "ia903200.us.archive.org",
+    "uniq": 1800239060,
+    "workable_servers": [
+      "ia903200.us.archive.org",
+      "ia803200.us.archive.org"
+    ]
+  }
+}

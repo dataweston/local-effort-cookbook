@@ -1,0 +1,535 @@
+{
+  "source": "internet_archive",
+  "identifier": "chicagofoodbiogr0000bloc",
+  "title": "Chicago : a food biography",
+  "creator": "Block, Daniel, 1967-",
+  "year": 2015,
+  "subject": [
+    "Food -- Illinois -- Chicago -- History",
+    "Food industry and trade -- Illinois -- Chicago -- History",
+    "Grocers -- Illinois -- Chigago -- History",
+    "Restaurants -- Illinois -- Chicago -- History",
+    "Cooking, American -- Midwestern style -- History",
+    "Chicago (Ill.) -- History"
+  ],
+  "description": [
+    "pages cm",
+    "Includes bibliographical references and index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/chicagofoodbiogr0000bloc"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/chicagofoodbiogr0000bloc"
+        }
+      ]
+    },
+    "created": 1758558824,
+    "d1": "ia904504.us.archive.org",
+    "d2": "ia804504.us.archive.org",
+    "dir": "/23/items/chicagofoodbiogr0000bloc",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659732841",
+        "size": "20056",
+        "md5": "08214d27efc2f7f11a7b5e88e83417a3",
+        "crc32": "c04cc8f9",
+        "sha1": "55d2396077378b030396dcd7094a3f4563506f83",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "chicagofoodbiogr0000bloc_hocr.html",
+        "mtime": "1753143224",
+        "size": "1400518",
+        "private": "true",
+        "md5": "33aaf1538f9f1b5fbfb7a8bcda54533c",
+        "crc32": "23b901af",
+        "sha1": "eb90ae09e1d97687eca7d84360b3c8b1598829b5"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "chicagofoodbiogr0000bloc.pdf",
+        "mtime": "1753142960",
+        "size": "22839952",
+        "md5": "4fdf302ae547b6206822d54ae22cae6f",
+        "crc32": "a7fce213",
+        "sha1": "8b180f6b12729df25d53e6dec610e3ac652eeca7"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "chicagofoodbiogr0000bloc_page_numbers.json",
+        "mtime": "1718558717",
+        "size": "22487009",
+        "md5": "10ac1ac3c90fd7c4c25c53c425babf77",
+        "crc32": "a3125c77",
+        "sha1": "0901a04568f0cd833a1a2657a8acca89c77c59d1",
+        "private": "true"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-beta-20210815",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9401",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "chicagofoodbiogr0000bloc_jp2.zip",
+        "mtime": "1634801933",
+        "size": "11261416",
+        "md5": "1c9ed43c2fa9e44b4911d4221587db99",
+        "crc32": "1b18c25b",
+        "sha1": "1095060e89cce927dd0d5eaf50316263c5412f36",
+        "private": "true"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "chicagofoodbiogr0000bloc_scandata.xml",
+        "mtime": "1669574837",
+        "size": "787",
+        "md5": "91de28afcde33b9af13674fde20eb952",
+        "crc32": "056d8c13",
+        "sha1": "d8952cea7c6df89879ae035a5e924b94b6b1a297",
+        "private": "true"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1634787901",
+        "size": "1491",
+        "md5": "e951f79dd9990fbe2867777cb6bf6366",
+        "crc32": "3155f5d3",
+        "sha1": "4b45ca72a478dd75fda1fd44f37630e6b60fcdb8"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "chicagofoodbiogr0000bloc_djvu.xml",
+        "mtime": "1634802197",
+        "size": "836514",
+        "md5": "9b447d2db0e1c128464313a1911faa5d",
+        "crc32": "d0b0c5d8",
+        "sha1": "7d7289b2587e13ebc0cfeed9af928d5f8efa6370",
+        "private": "true"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "chicagofoodbiogr0000bloc_hocr.html",
+        "mtime": "1634802056",
+        "size": "10047009",
+        "md5": "c0cf5227754dab56f82a20df53171955",
+        "crc32": "9029d901",
+        "sha1": "c92cb5868c5e67074d95a0aca5b06aea5fb0e53f",
+        "private": "true"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "chicagofoodbiogr0000bloc.pdf",
+        "mtime": "1718559690",
+        "size": "22398739",
+        "md5": "84c95a67dc625972cf1c3afe9feb423b",
+        "crc32": "b8540b8f",
+        "sha1": "0a751742702bb3607ab33681d8f986f86224e57f"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_events.json",
+        "source": "original",
+        "mtime": "1634787682",
+        "size": "57",
+        "md5": "48a94d13c9f9eafcb4da69d3822faaa3",
+        "crc32": "23253956",
+        "sha1": "ef68f3449502efc6fe7c47e621a126484c0ecff4",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "55169c9805786560d2fdf9f3b64fda4f",
+        "summation": "md5"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9401",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "chicagofoodbiogr0000bloc_chocr.html.gz",
+        "mtime": "1634802012",
+        "size": "18634841",
+        "md5": "d7e9fe75c148f2dd1e6167588a86c621",
+        "crc32": "61bf0cb8",
+        "sha1": "3fccc17173d130271e0678b6240ddda945cfa560",
+        "private": "true"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "chicagofoodbiogr0000bloc_hocr.html",
+        "mtime": "1634802127",
+        "size": "4256",
+        "md5": "c24eb989152213811407ab42611291cc",
+        "crc32": "ad4ba2b0",
+        "sha1": "f3fb7fe9e4d6f3f528a4fe4614c6162e69a9bcec",
+        "private": "true"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "481",
+        "word_conf_11_20": "290",
+        "word_conf_21_30": "425",
+        "word_conf_31_40": "475",
+        "word_conf_41_50": "521",
+        "word_conf_51_60": "526",
+        "word_conf_61_70": "684",
+        "word_conf_71_80": "833",
+        "word_conf_81_90": "2189",
+        "word_conf_91_100": "120772",
+        "format": "OCR Search Text",
+        "original": "chicagofoodbiogr0000bloc_hocr.html",
+        "mtime": "1634802180",
+        "size": "297146",
+        "md5": "c876a721da5171f0644192644d128984",
+        "crc32": "7ca39897",
+        "sha1": "7462c62181017d4a99d6086aac040f115b9d4bfa",
+        "private": "true"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "chicagofoodbiogr0000bloc_orig_jp2.tar",
+        "mtime": "1634797267",
+        "size": "182372888",
+        "md5": "3003326f4927683a801539c4cae9d5dc",
+        "crc32": "b6994938",
+        "sha1": "0f9f6555ac6865d5033b0a535ba7d419d6682d1a",
+        "private": "true",
+        "filecount": "354"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "chicagofoodbiogr0000bloc.epub",
+        "mtime": "1753143574",
+        "size": "1419621",
+        "md5": "a206af4db3911423fb91d6a4ff0e53b8",
+        "crc32": "0c8462af",
+        "sha1": "81d5a42f9e67bc985d802111243df06b9eb93be0"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_marc.xml",
+        "source": "original",
+        "mtime": "1634668089",
+        "size": "4383",
+        "md5": "faf4eff68f5639acdf953eac9522c739",
+        "crc32": "bce0f8fc",
+        "sha1": "1cf14069d8aa6e02945871cc1af8411c6a8e9005",
+        "format": "MARC"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_meta.mrc",
+        "source": "original",
+        "mtime": "1634668083",
+        "size": "1257",
+        "md5": "3bbd9b2e8155b5b67387643041412fcc",
+        "crc32": "25d7ddfb",
+        "sha1": "b6dab19515b5a8de394c20e3d7f8a7705d776d6b",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_meta.sqlite",
+        "source": "original",
+        "mtime": "1634787738",
+        "size": "45056",
+        "md5": "bc1f27995b52938fa2ba644bd3f174cd",
+        "crc32": "942a0164",
+        "sha1": "ea6fb57ff9f2beba3fed9a2f0677ed66692b9cff",
+        "format": "Metadata"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_meta.xml",
+        "source": "original",
+        "mtime": "1753143574",
+        "size": "3447",
+        "md5": "e2941a16d1b0b9e02eab98713df6172d",
+        "crc32": "ace9a854",
+        "sha1": "db4a837ecd1f5d648fb2a16853b1b7125bb74e0a",
+        "format": "Metadata"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1634787738",
+        "size": "546600960",
+        "md5": "8c08ca4677a0b4fcf2bfa0122a4da8d0",
+        "crc32": "005ea434",
+        "sha1": "b406732c59258f6811f2c2a1d05f83314e8deaed",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "354"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "chicagofoodbiogr0000bloc_hocr.html",
+        "mtime": "1718558693",
+        "size": "59188",
+        "md5": "f06ea55a70696716ec2f519bbfe747e5",
+        "crc32": "06ef2dab",
+        "sha1": "fec0436df85acc1236fc1eebbeff6f4f53bdc774",
+        "private": "true"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_scandata.xml",
+        "source": "original",
+        "mtime": "1669574837",
+        "size": "383845",
+        "md5": "fd976abc17dac7783e5dcf5ff89b34e8",
+        "crc32": "488212dc",
+        "sha1": "96516ba5b3c669931b03d115ca9bdea199b6f877",
+        "format": "Scandata"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_slip.png",
+        "source": "original",
+        "mtime": "1634665183",
+        "size": "41337",
+        "md5": "6eb915129f02a2e98265b8410a61df48",
+        "crc32": "83e6443b",
+        "sha1": "94c682ff2fd86f55010485bba8b3afee4d6e90cd",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "chicagofoodbiogr0000bloc_slip.png",
+        "mtime": "1634787906",
+        "size": "8589",
+        "md5": "5199c624e6248f2ddf230f4dc1348d98",
+        "crc32": "58ca223f",
+        "sha1": "dd38ec05474779338c2d771564d4a6f70d4ebff7",
+        "private": "true"
+      },
+      {
+        "name": "chicagofoodbiogr0000bloc_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "chicagofoodbiogr0000bloc_djvu.xml",
+        "mtime": "1669574784",
+        "size": "619",
+        "md5": "723224df4ff0bd8c8009757b44604934",
+        "crc32": "d79922c6",
+        "sha1": "5a8a7dff36cb668ef48315927e51cde5932ddb72",
+        "private": "true"
+      },
+      {
+        "name": "logs/chicagofoodbiogr0000bloc_iabdash_2021-10-2002:28:14.log",
+        "source": "original",
+        "mtime": "1634668098",
+        "size": "1338",
+        "md5": "b8a3f072076f934f6a20ae0a1dcce406",
+        "crc32": "3c2f9f03",
+        "sha1": "eb129912b9f73b62912eb630db1d48fdcdcc86b7",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/chicagofoodbiogr0000bloc_scanning_2021-10-2002:28:25.log",
+        "source": "original",
+        "mtime": "1634668109",
+        "size": "1031745",
+        "md5": "11687dc2267f20c406ba1c1298dab291",
+        "crc32": "d4279575",
+        "sha1": "accc1ef15a447aa15b1bbd9efd4820f857e4051f",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/chicagofoodbiogr0000bloc_status_history_2021-10-2002:28:20.log",
+        "source": "original",
+        "mtime": "1634668104",
+        "size": "408",
+        "md5": "850deabedaeb815fca6a6bc6094bb9db",
+        "crc32": "357fdfd9",
+        "sha1": "3cca7ce04745abdb228d53943096aa2bf46ec849",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753143574,
+    "item_size": 842204472,
+    "metadata": {
+      "identifier": "chicagofoodbiogr0000bloc",
+      "associated-names": "Rosing, Howard",
+      "boxid": "IA40268701",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Block, Daniel, 1967-",
+      "date": "2015-01-01",
+      "description": [
+        "pages cm",
+        "Includes bibliographical references and index"
+      ],
+      "isbn": "9781442227262",
+      "language": "eng",
+      "lccn": "2015011759",
+      "mediatype": "texts",
+      "old_pallet": "IA-NS-0000926",
+      "openlibrary_edition": "OL27202490M",
+      "openlibrary_work": "OL20022432W",
+      "operator": "associate-elgen-castro@archive.org",
+      "publisher": "Lanham : Rowman and Littlefield",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station50.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781442227262",
+      "subject": [
+        "Food -- Illinois -- Chicago -- History",
+        "Food industry and trade -- Illinois -- Chicago -- History",
+        "Grocers -- Illinois -- Chigago -- History",
+        "Restaurants -- Illinois -- Chicago -- History",
+        "Cooking, American -- Midwestern style -- History",
+        "Chicago (Ill.) -- History"
+      ],
+      "title": "Chicago : a food biography",
+      "tts_version": "4.5-initial-80-gce32ee1e",
+      "uploader": "station50.cebu@archive.org",
+      "publicdate": "2021-10-19 17:40:03",
+      "access-restricted-item": "true",
+      "imagecount": "354",
+      "scandate": "20211019191833",
+      "ppi": "360",
+      "republisher_operator": "associate-elena-descartin@archive.org",
+      "republisher_date": "20211021114118",
+      "republisher_time": "230",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/chicagofoodbiogr0000bloc",
+      "identifier-ark": "ark:/13960/t77v0ck0p",
+      "ocr": "tesseract 5.0.0-beta-20210815",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.13",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9401",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "100",
+      "pdf_module_version": "0.0.15",
+      "external-identifier": [
+        "urn:acs6:chicagofoodbiogr0000bloc:pdf:c9e155dc-6fa7-4e5a-ac39-4a819ab18ebd",
+        "urn:oclc:record:917153468",
+        "urn:lcp:chicagofoodbiogr0000bloc:lcpdf:2d28bc40-073a-4efd-9ef8-50a72a7902ba",
+        "urn:lcp:chicagofoodbiogr0000bloc:epub:975c721f-b247-4503-a7af-6ead84ae80ec"
+      ],
+      "addeddate": "2021-10-21 09:13:53",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20211031",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia804504.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "riceuniversity-ol": {
+          "notes": {
+            "isbn": [
+              "9781442227262"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 09:40:56.965816"
+        },
+        "universityofarizona-ol": {
+          "notes": {
+            "isbn": [
+              "9781442227262"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 20:50:17.371539"
+        }
+      }
+    },
+    "uniq": 1728607948,
+    "workable_servers": [
+      "ia804504.us.archive.org",
+      "ia904504.us.archive.org"
+    ]
+  },
+  "institution": "Block, Daniel, 1967-",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

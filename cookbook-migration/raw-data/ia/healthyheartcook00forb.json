@@ -1,0 +1,562 @@
+{
+  "source": "internet_archive",
+  "identifier": "healthyheartcook00forb",
+  "title": "Healthy heart cookbook",
+  "creator": [
+    "Forberg, Cheryl",
+    "American Medical Association"
+  ],
+  "year": 2004,
+  "subject": [
+    "Heart",
+    "Coronary heart disease",
+    "Low-fat diet"
+  ],
+  "description": [
+    "At head of title: American Medical Association",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/healthyheartcook00forb"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/healthyheartcook00forb"
+        }
+      ]
+    },
+    "created": 1758337200,
+    "d1": "ia600504.us.archive.org",
+    "d2": "ia800504.us.archive.org",
+    "dir": "/3/items/healthyheartcook00forb",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660135462",
+        "size": "14512",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "a60bca5072a97874153c5e259fe5b1b6",
+        "crc32": "8a6adc37",
+        "sha1": "8bb41cb5ac1db9c8c010e311a571e5de9503b89b"
+      },
+      {
+        "name": "healthyheartcook00forb.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "healthyheartcook00forb_hocr.html",
+        "mtime": "1756097590",
+        "size": "16766161",
+        "private": "true",
+        "md5": "b52fdde347336fc00b1fd3634fe3e417",
+        "crc32": "007168bc",
+        "sha1": "37698e1aa1a74c9ffed2001fd3f1273f5e7bd9b4"
+      },
+      {
+        "name": "healthyheartcook00forb.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "healthyheartcook00forb_jp2.zip",
+        "mtime": "1322833655",
+        "size": "216562",
+        "md5": "9d5294b78ea84c85d5114dde3c555192",
+        "crc32": "36642f84",
+        "sha1": "989bea0972c55fd85e37e94af32a25140636fa76"
+      },
+      {
+        "name": "healthyheartcook00forb.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "healthyheartcook00forb.pdf",
+        "mtime": "1756097273",
+        "size": "8213328",
+        "md5": "da533b899146ccfe3d75ffa6fd7ac210",
+        "crc32": "f1f87917",
+        "sha1": "17df2a5c514f8920b61326bbfb24718c89132aa9"
+      },
+      {
+        "name": "healthyheartcook00forb.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "healthyheartcook00forb_page_numbers.json",
+        "mtime": "1717960002",
+        "size": "7982739",
+        "md5": "373a91876e939a84336d3c89cba53f0f",
+        "crc32": "b03e152d",
+        "sha1": "d22756164e393202ee79a08fc9a3d4b05c3d30ed",
+        "private": "true"
+      },
+      {
+        "name": "healthyheartcook00forb_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "healthyheartcook00forb_jp2.zip",
+        "mtime": "1322834481",
+        "size": "2519114",
+        "md5": "ea65f47acf62a173edfa12516b2f8485",
+        "crc32": "96ae5373",
+        "sha1": "e74b668f302b7c7df30708698052450eb8c57c71",
+        "private": "true"
+      },
+      {
+        "name": "healthyheartcook00forb_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "healthyheartcook00forb_abbyy.gz",
+        "mtime": "1660134829",
+        "size": "2119804",
+        "md5": "0876686e6420a8adc46b688850e556b4",
+        "crc32": "7512633f",
+        "sha1": "70fa3f978d41a4880268bdad183a1f05550c6fd8",
+        "private": "true"
+      },
+      {
+        "name": "healthyheartcook00forb_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "healthyheartcook00forb_scandata.xml",
+        "mtime": "1670176370",
+        "size": "780",
+        "md5": "846f07faeb24ea72fdae74506d9e3b6d",
+        "crc32": "fbcb24ab",
+        "sha1": "5a1a03338417bda8aa3344b327b7a8ec97efb737",
+        "private": "true"
+      },
+      {
+        "name": "healthyheartcook00forb_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1282836012",
+        "size": "793",
+        "md5": "1df0550c9673a7ab38e4df82e92207a6",
+        "crc32": "51afec67",
+        "sha1": "bfa8cede88e074bda69456eea8f50f32380cf3b9"
+      },
+      {
+        "name": "healthyheartcook00forb_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "healthyheartcook00forb_djvu.xml",
+        "mtime": "1717960207",
+        "size": "194631",
+        "md5": "9e3c8c9dd0a843cb06521d1c9ab33ae5",
+        "crc32": "9f1df812",
+        "sha1": "9eb0b98395d5f77b97393b37fc87930edd17f2e9",
+        "private": "true"
+      },
+      {
+        "name": "healthyheartcook00forb_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "healthyheartcook00forb_hocr.html",
+        "mtime": "1717958371",
+        "size": "2400696",
+        "md5": "6849f978bb3053f24f8d33f19345115a",
+        "crc32": "19b225d7",
+        "sha1": "3a3ab207a020c9c3869ec233843a15c14097595e",
+        "private": "true"
+      },
+      {
+        "name": "healthyheartcook00forb_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "healthyheartcook00forb.pdf",
+        "mtime": "1717960210",
+        "size": "7945197",
+        "md5": "a094f5059f384cc90a45bb4b351e8325",
+        "crc32": "104dac3d",
+        "sha1": "9f8f5232f93712b390215d0ef3f98aa66e1c81de"
+      },
+      {
+        "name": "healthyheartcook00forb_extramarc.xml",
+        "source": "original",
+        "mtime": "1403205440",
+        "size": "3735",
+        "md5": "82cce978bd0926a6940570299b619bee",
+        "crc32": "45a95d7d",
+        "sha1": "228b405eba149dc6e1dba0c3f8fd74a0e9761951",
+        "format": "Metadata"
+      },
+      {
+        "name": "healthyheartcook00forb_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "19fbe4856e041f9f894cb5a5bc9fdb40",
+        "summation": "md5"
+      },
+      {
+        "name": "healthyheartcook00forb_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "healthyheartcook00forb_chocr.html.gz",
+        "mtime": "1660135119",
+        "size": "4783883",
+        "md5": "9ccfe0cfcb4ffc7a5debee488ab99542",
+        "crc32": "e991f1e3",
+        "sha1": "102074fdb7270dadfb7c38fa1781e31a39925589",
+        "private": "true"
+      },
+      {
+        "name": "healthyheartcook00forb_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "healthyheartcook00forb_hocr.html",
+        "mtime": "1660135239",
+        "size": "1625",
+        "md5": "ea9c248bf04e5637eda4d4fac49f149f",
+        "crc32": "956de75d",
+        "sha1": "c2a4fc10b25bcbeee582d19c7667a1d83c245fe1",
+        "private": "true"
+      },
+      {
+        "name": "healthyheartcook00forb_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1321",
+        "word_conf_11_20": "1008",
+        "word_conf_21_30": "2270",
+        "word_conf_31_40": "2454",
+        "word_conf_41_50": "4412",
+        "word_conf_51_60": "5356",
+        "word_conf_61_70": "5038",
+        "word_conf_71_80": "2851",
+        "word_conf_81_90": "1038",
+        "word_conf_91_100": "2103",
+        "format": "OCR Search Text",
+        "original": "healthyheartcook00forb_hocr.html",
+        "mtime": "1660135417",
+        "size": "51944",
+        "md5": "9ffa3d7ed5ed7c0bf20c3f0529bc6773",
+        "crc32": "cd1b2e49",
+        "sha1": "fa922c16d08e871abf058d957af1a4a8bdbe1fbd",
+        "private": "true"
+      },
+      {
+        "name": "healthyheartcook00forb_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "healthyheartcook00forb_orig_jp2.tar",
+        "mtime": "1322833417",
+        "size": "37131401",
+        "md5": "bc370e978e05b7eb9111fed7855a27fb",
+        "crc32": "6d87ef78",
+        "sha1": "cbc533f2f2a78872330dd6b6f747428a105a96f5",
+        "private": "true",
+        "filecount": "150"
+      },
+      {
+        "name": "healthyheartcook00forb_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "healthyheartcook00forb.epub",
+        "mtime": "1756097706",
+        "size": "17180413",
+        "md5": "8f82116d17dcf46acf6e7edbdef5d66e",
+        "crc32": "313ad605",
+        "sha1": "8a954f87f26998f41887ef4389cf53df62815978"
+      },
+      {
+        "name": "healthyheartcook00forb_loans.json",
+        "source": "original",
+        "mtime": "1543742121",
+        "size": "1115",
+        "format": "JSON",
+        "private": "true",
+        "md5": "dd3a6612cc2c93d419194882c1fd2b92",
+        "crc32": "c5a1b142",
+        "sha1": "ee7ce4790267d752948e8857781516e24cea8350"
+      },
+      {
+        "name": "healthyheartcook00forb_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1282836012",
+        "size": "6167",
+        "md5": "283f8b616830fe03c2ff1c12015153ec",
+        "crc32": "29e2fde9",
+        "sha1": "5ad215c1502e0f3b11d5f00b70fe01a281d96f0d"
+      },
+      {
+        "name": "healthyheartcook00forb_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "healthyheartcook00forb_xisbn.json",
+        "mtime": "1454495440",
+        "size": "378",
+        "md5": "a88bbebbd4518b5acbd91bb9efab2fa1",
+        "crc32": "106d7d8e",
+        "sha1": "23f6a8028361715e817ee90714a182a324623177",
+        "private": "true"
+      },
+      {
+        "name": "healthyheartcook00forb_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1282836012",
+        "size": "1747",
+        "md5": "475bfc8ef15b1285760b2cfcd093d1b0",
+        "crc32": "9969626f",
+        "sha1": "bf879d15f0f59b631e85540643c2302ccdefd440"
+      },
+      {
+        "name": "healthyheartcook00forb_meta.sqlite",
+        "source": "original",
+        "mtime": "1464975076",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "f0d28b091bbddc335f9aaeb934560b67",
+        "crc32": "c41d91c7",
+        "sha1": "924eea9c0b32457b915fdaf829fcfbb045a55b28"
+      },
+      {
+        "name": "healthyheartcook00forb_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1756097706",
+        "size": "3479",
+        "md5": "413bf46fa26cd50a25332185ccd05e35",
+        "crc32": "a12d66ed",
+        "sha1": "20b536b8d32db6fca593d7606251a58f2cbcf4e0"
+      },
+      {
+        "name": "healthyheartcook00forb_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1282836012",
+        "size": "398",
+        "md5": "6597a1091b4a92b11acbe723717e1844",
+        "crc32": "7303dba9",
+        "sha1": "54555afd04b150c51040231f7d65521947899893"
+      },
+      {
+        "name": "healthyheartcook00forb_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1322027567",
+        "size": "94320640",
+        "md5": "a2349696d59845badc017d49b539bb44",
+        "crc32": "9d2ddd66",
+        "sha1": "712157a314403db2e56d6ae537d4e48568e94c2e",
+        "private": "true",
+        "filecount": "150"
+      },
+      {
+        "name": "healthyheartcook00forb_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "96",
+        "format": "Page Numbers JSON",
+        "original": "healthyheartcook00forb_hocr.html",
+        "mtime": "1717958547",
+        "size": "25279",
+        "md5": "1b357d2947342a11ee13529dd027aea8",
+        "crc32": "cd9830bf",
+        "sha1": "cf8e5749e20b075301c96a196b51fc4222f97a4b",
+        "private": "true"
+      },
+      {
+        "name": "healthyheartcook00forb_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670176370",
+        "size": "149313",
+        "md5": "81e1468bddc9408439d45553efff5727",
+        "crc32": "f6a76bb4",
+        "sha1": "9004e7589793229c615e995f014e3ad4cfba3345"
+      },
+      {
+        "name": "healthyheartcook00forb_xisbn.json",
+        "source": "original",
+        "mtime": "1454492309",
+        "size": "680",
+        "md5": "44ed4e718e49115ab09d7e5af74571f1",
+        "crc32": "5e8c9190",
+        "sha1": "1fd96db2feb2e27ad08720cf567a25d2080d501e",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1756097706,
+    "item_size": 202042658,
+    "metadata": {
+      "title": "Healthy heart cookbook",
+      "creator": [
+        "Forberg, Cheryl",
+        "American Medical Association"
+      ],
+      "subject": [
+        "Heart",
+        "Coronary heart disease",
+        "Low-fat diet"
+      ],
+      "description": [
+        "At head of title: American Medical Association",
+        "Includes index"
+      ],
+      "publisher": "Des Moines, Iowa : Meredith Books",
+      "date": "2004-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696221519",
+        "9780696221514"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA125118",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-08-26 15:20:12",
+      "updater": "PhanS",
+      "identifier": "healthyheartcook00forb",
+      "uploader": "phan@archive.org",
+      "addeddate": "2010-08-26 15:20:14",
+      "publicdate": "2010-08-26 15:20:20",
+      "filesxml": [
+        "Mon Oct 24 19:01:35 UTC 2011",
+        "Thu Dec 24 13:30:53 UTC 2020",
+        "Wed Apr 3 4:14:54 UTC 2024"
+      ],
+      "scanner": "scribe10.shenzhen.archive.org",
+      "repub_seconds": "85262",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-jep@archive.org",
+      "scandate": "20111123055233",
+      "imagecount": "150",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/healthyheartcook00forb",
+      "identifier-ark": "ark:/13960/t59c7zj43",
+      "scanfee": "100",
+      "sponsordate": "sent20120113",
+      "donor": "alibris",
+      "extramarc": "OhioLINK Library Catalog",
+      "external-identifier": [
+        "urn:acs6:healthyheartcook00forb:pdf:635e42da-91b6-4f41-b7f9-dfc450b5a581",
+        "urn:acs6:healthyheartcook00forb:epub:08f45c06-c896-46d3-817f-a41ded022fdd",
+        "urn:oclc:record:1035605621",
+        "urn:lcp:healthyheartcook00forb:lcpdf:8840b96e-99dd-4752-aee4-0d9d0aba4528",
+        "urn:lcp:healthyheartcook00forb:epub:3e3342fc-951e-476d-8c53-d2259d031fa1"
+      ],
+      "city": "Des Moines, Iowa",
+      "oclc-id": "56497994",
+      "related-external-id": [
+        "urn:isbn:1740897765",
+        "urn:oclc:773306648"
+      ],
+      "backup_location": "ia903606_7",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "openlibrary_edition": "OL23094309M",
+      "openlibrary_work": "OL8635957W",
+      "loans__status__num_history": "0",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "96",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25",
+      "normalized_dates": [
+        "2004-01-01"
+      ]
+    },
+    "server": "ia800504.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "miltonpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780696221514"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-12-04 03:26:26.301472"
+        }
+      }
+    },
+    "uniq": 1196845023,
+    "workable_servers": [
+      "ia800504.us.archive.org",
+      "ia600504.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/56497994?referer=xid"
+          ],
+          "publisher": "Meredith Books",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "recipes, Cheryl Forberg ; photographs, Jim Franco, Sheri Giblin.",
+          "year": "2004",
+          "isbn": [
+            "0696221519"
+          ],
+          "title": "Healthy heart cookbook",
+          "oclcnum": [
+            "56497994"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/773306648?referer=xid"
+          ],
+          "publisher": "Fog City Press",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[San Francisco, CA]",
+          "author": "recipes, Cheryl Forberg ; photographs, Jim Franco, Sheri Giblin.",
+          "ed": "Hardcover ed.",
+          "year": "2008",
+          "isbn": [
+            "1740897765"
+          ],
+          "title": "Healthy heart cookbook",
+          "oclcnum": [
+            "773306648"
+          ]
+        }
+      ]
+    }
+  }
+}

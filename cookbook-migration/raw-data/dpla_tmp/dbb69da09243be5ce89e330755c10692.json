@@ -1,0 +1,127 @@
+{
+  "source": "dpla",
+  "id": "dbb69da09243be5ce89e330755c10692",
+  "identifier": "dbb69da09243be5ce89e330755c10692",
+  "title": "Good living: dedicated to the pioneers of San Juan Island, Friday Harbor, Washington, 1907 and interview with Fran Chevalier, San Juan Island, Washington, March 21, 2009",
+  "subject": [
+    "Cookery",
+    "Food",
+    "Seafood"
+  ],
+  "spatial": [
+    "Friday Harbor, San Juan Island, San Juan Islands, San Juan county, Washington, United States",
+    "San Juan Island, San Juan Islands, San Juan county, Washington, United States"
+  ],
+  "description": "A cookbook, published by the Ladies Aid Society of the M.E. Church in 1907, includes recipes for salads, breads, seafood, meats, vegetables, desserts, and canned foods contributed by women of the San Juan Islands, and pages of advertisements for local businesses. It is accompanied by an interview with Fran Chevalier about the cookbook and living on San Juan Island.",
+  "isShownAt": "http://cdm17176.contentdm.oclc.org/cdm/ref/collection/sanjuan/id/814",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/northwest-digital-heritage",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q112194444"
+    ],
+    "name": "Northwest Digital Heritage"
+  },
+  "institution": "Northwest Digital Heritage",
+  "year": 1907,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/dbb69da09243be5ce89e330755c10692#SourceResource",
+      "collection": [
+        {
+          "title": "Washington Rural Heritage"
+        },
+        {
+          "title": "San Juan Island Heritage -- San Juan Story Collection"
+        }
+      ],
+      "contributor": [
+        "Vouri, Michael [interviewer]"
+      ],
+      "creator": [
+        "Ladies Aid Society of the M.E. Church",
+        "Chevalier, Fran [interviewee]"
+      ],
+      "date": [
+        {
+          "begin": "1907",
+          "displayDate": "1907",
+          "end": "1907"
+        },
+        {
+          "displayDate": "2009-03-21"
+        }
+      ],
+      "description": [
+        "A cookbook, published by the Ladies Aid Society of the M.E. Church in 1907, includes recipes for salads, breads, seafood, meats, vegetables, desserts, and canned foods contributed by women of the San Juan Islands, and pages of advertisements for local businesses. It is accompanied by an interview with Fran Chevalier about the cookbook and living on San Juan Island."
+      ],
+      "format": [
+        "Books",
+        "Cookbooks",
+        "Oral histories"
+      ],
+      "identifier": [
+        "SJSC0206"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "spatial": [
+        {
+          "name": "Friday Harbor, San Juan Island, San Juan Islands, San Juan county, Washington, United States"
+        },
+        {
+          "name": "San Juan Island, San Juan Islands, San Juan county, Washington, United States"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cookery"
+        },
+        {
+          "name": "Food"
+        },
+        {
+          "name": "Seafood"
+        }
+      ],
+      "title": [
+        "Good living: dedicated to the pioneers of San Juan Island, Friday Harbor, Washington, 1907 and interview with Fran Chevalier, San Juan Island, Washington, March 21, 2009"
+      ],
+      "type": [
+        "text",
+        "sound"
+      ]
+    },
+    "metadata": {
+      "date": "1907-01-01",
+      "normalized_dates": [
+        "1907-01-01",
+        "2009-03-21"
+      ],
+      "date_range": {
+        "begin": "1907-01-01",
+        "end": "1907-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "http://cdm17176.contentdm.oclc.org/digital/iiif/sanjuan/814/full/500,/0/default.jpg",
+    "isShownAt": "http://cdm17176.contentdm.oclc.org/cdm/ref/collection/sanjuan/id/814"
+  },
+  "iiif_manifest": "http://cdm17176.contentdm.oclc.org/digital/iiif/sanjuan/814/full/500,/0/default.jpg",
+  "location": {
+    "state": "Wi"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Ladies Aid"
+    ]
+  },
+  "curation_notes": "Community markers: Church, Ladies Aid; Digitized scan available"
+}

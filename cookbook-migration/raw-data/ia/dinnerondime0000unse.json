@@ -1,0 +1,511 @@
+{
+  "source": "internet_archive",
+  "identifier": "dinnerondime0000unse",
+  "title": "Dinner on a dime",
+  "creator": null,
+  "year": 2009,
+  "subject": [
+    "Cooking, American",
+    "Low budget cooking"
+  ],
+  "description": [
+    "256 pages : 27 cm",
+    "Includes index",
+    "\"403 budget-friendly family recipes\"--Cover"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/dinnerondime0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/dinnerondime0000unse"
+        }
+      ]
+    },
+    "created": 1758558754,
+    "d1": "ia601805.us.archive.org",
+    "d2": "ia801805.us.archive.org",
+    "dir": "/0/items/dinnerondime0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659859106",
+        "size": "17356",
+        "md5": "df5f58ea939238fda16ed0f4a24b4630",
+        "crc32": "6b09fd3f",
+        "sha1": "55edf8c1eaa8fce5de380fed4a491169c899da29",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "dinnerondime0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "dinnerondime0000unse_hocr.html",
+        "mtime": "1755740571",
+        "size": "122277352",
+        "private": "true",
+        "md5": "e256304b147542126328416f7809b26c",
+        "crc32": "fd524125",
+        "sha1": "d21a8d9b535f90e9ff73888fbbf759fac0b357a7"
+      },
+      {
+        "name": "dinnerondime0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "dinnerondime0000unse.pdf",
+        "mtime": "1755740196",
+        "size": "24183759",
+        "md5": "d821e6fc5908711efebeff03a71006b7",
+        "crc32": "46358d38",
+        "sha1": "77ac8d873f36ce3dc3b866845248693ccfe102f3"
+      },
+      {
+        "name": "dinnerondime0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "dinnerondime0000unse_page_numbers.json",
+        "mtime": "1719966062",
+        "size": "23881024",
+        "md5": "af779150624f993937699fdbe1d07d56",
+        "crc32": "aec8480d",
+        "sha1": "c00ac0c6b493d4394afab1001bb19818b0534713",
+        "private": "true"
+      },
+      {
+        "name": "dinnerondime0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "dinnerondime0000unse_jp2.zip",
+        "mtime": "1603157090",
+        "size": "6852433",
+        "md5": "e7eefcfbcd2bb24f9fde9614b3570839",
+        "crc32": "d1196a4a",
+        "sha1": "d7fd818b05c0c35b47e8e750d087699d2b2c5381",
+        "private": "true"
+      },
+      {
+        "name": "dinnerondime0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "dinnerondime0000unse_abbyy.gz",
+        "mtime": "1659858943",
+        "size": "5842802",
+        "md5": "44493cdd5c12db56aff854fac4343122",
+        "crc32": "f61b95a4",
+        "sha1": "b228fe23fb46dce5cab8e64da199ef623e272ec7",
+        "private": "true"
+      },
+      {
+        "name": "dinnerondime0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "dinnerondime0000unse_scandata.xml",
+        "mtime": "1669809368",
+        "size": "773",
+        "md5": "db22c9a658ce7f6f484031c3340f0374",
+        "crc32": "cb362562",
+        "sha1": "52cae452efba68938471d910c5b8e59f7a0b279c",
+        "private": "true"
+      },
+      {
+        "name": "dinnerondime0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1603147680",
+        "size": "888",
+        "md5": "efbf77271211249d90ba620ea5be928a",
+        "crc32": "4c110b96",
+        "sha1": "917056c12cb574cd8ffc99735bcd086756f81c43"
+      },
+      {
+        "name": "dinnerondime0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "dinnerondime0000unse_djvu.xml",
+        "mtime": "1659859099",
+        "size": "532493",
+        "md5": "c99a21f8bbe7c8bded96006ef788bc68",
+        "crc32": "40625002",
+        "sha1": "12bf2b822abbc2633e0f9d2802ec0a7524299bfc",
+        "private": "true"
+      },
+      {
+        "name": "dinnerondime0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "dinnerondime0000unse_hocr.html",
+        "mtime": "1659859019",
+        "size": "6395036",
+        "md5": "102ce7c5ad87bd914389390c376bf630",
+        "crc32": "2ee32f9d",
+        "sha1": "040a3f0dd6b503bc5b0852222525f0590464f956",
+        "private": "true"
+      },
+      {
+        "name": "dinnerondime0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "dinnerondime0000unse_abbyy.gz",
+        "mtime": "1603157323",
+        "size": "10241854",
+        "md5": "a46800451bc933d7984b55a3b6baf48c",
+        "crc32": "62c48f88",
+        "sha1": "14ae737e6fa5bb7069913f3db8463ec7201ee652"
+      },
+      {
+        "name": "dinnerondime0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "dinnerondime0000unse.pdf",
+        "mtime": "1719967069",
+        "size": "23669240",
+        "md5": "165553249f736dfd1e823ee694eb1553",
+        "crc32": "bcf63718",
+        "sha1": "84f2710ab28bddc8228aceb0d18289c6c344d211"
+      },
+      {
+        "name": "dinnerondime0000unse_events.json",
+        "source": "original",
+        "mtime": "1603147218",
+        "size": "60",
+        "md5": "8ee8df5a9a7203e938c0e8170c536841",
+        "crc32": "281b201e",
+        "sha1": "333cade46afbf801c6104e12ec2e6d914b6fbf32",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "dinnerondime0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "3294840e1f814bdb0cfc5947e445c4e7",
+        "summation": "md5"
+      },
+      {
+        "name": "dinnerondime0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "dinnerondime0000unse_chocr.html.gz",
+        "mtime": "1659859002",
+        "size": "13404438",
+        "md5": "7d72090d0e65f6f5c12e516262b873eb",
+        "crc32": "b9731ce4",
+        "sha1": "4ab6b2cea9ddda7057a02eed4d0b9d54618c05ee",
+        "private": "true"
+      },
+      {
+        "name": "dinnerondime0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "dinnerondime0000unse_hocr.html",
+        "mtime": "1659859048",
+        "size": "3086",
+        "md5": "d98b3b60942cd2f19adcba2ef94537ba",
+        "crc32": "8ba944f2",
+        "sha1": "2e14578648a70d54b475a0e08fa10ec75b47d143",
+        "private": "true"
+      },
+      {
+        "name": "dinnerondime0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "583",
+        "word_conf_11_20": "110",
+        "word_conf_21_30": "186",
+        "word_conf_31_40": "287",
+        "word_conf_41_50": "538",
+        "word_conf_51_60": "858",
+        "word_conf_61_70": "2155",
+        "word_conf_71_80": "7037",
+        "word_conf_81_90": "20590",
+        "word_conf_91_100": "44079",
+        "format": "OCR Search Text",
+        "original": "dinnerondime0000unse_hocr.html",
+        "mtime": "1659859085",
+        "size": "134794",
+        "md5": "a95d611ea0079a262fad282a74615c87",
+        "crc32": "5a37786f",
+        "sha1": "a8ad0b0b7a5fd6fc604dc4ee7f10e5a2cca6fdce",
+        "private": "true"
+      },
+      {
+        "name": "dinnerondime0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "dinnerondime0000unse_orig_jp2.tar",
+        "mtime": "1603155371",
+        "size": "185163346",
+        "md5": "0571e125016378893994c78b168d1507",
+        "crc32": "c8f41661",
+        "sha1": "5c57a0ede3b37020d0a70339619b02fb3cfef0f6",
+        "private": "true",
+        "filecount": "266"
+      },
+      {
+        "name": "dinnerondime0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "dinnerondime0000unse.epub",
+        "mtime": "1755740798",
+        "size": "123202401",
+        "md5": "9713f728d166438b64b8c5affd86894c",
+        "crc32": "113b0dfc",
+        "sha1": "d0a8744dc44bef122d4f0da2144b7ad2d57e0fef"
+      },
+      {
+        "name": "dinnerondime0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1602817968",
+        "size": "4420",
+        "md5": "92d1387474a8d308befc8205e6c7b02d",
+        "crc32": "57ed818e",
+        "sha1": "c0de2ae5181b0b6113069ddd3077835e78e1e36d",
+        "format": "MARC"
+      },
+      {
+        "name": "dinnerondime0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1602817960",
+        "size": "1268",
+        "md5": "5f0ad763f242e2a909f4a743887b1b4b",
+        "crc32": "dfc5bd3a",
+        "sha1": "539081ddf9780e6cc78ebbf51b3c6011f020b701",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "dinnerondime0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1603147519",
+        "size": "19456",
+        "md5": "dfe1a9d0753595e6a427425719f5e49d",
+        "crc32": "14a2bf3d",
+        "sha1": "6d6ca3391385ab0a6a9ca4a4c4d2e58603f2bdbe",
+        "format": "Metadata"
+      },
+      {
+        "name": "dinnerondime0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1755740800",
+        "size": "3015",
+        "md5": "7d04b54c91dfa8a92429d4e846f6d056",
+        "crc32": "fa980a1e",
+        "sha1": "8f5502a6f742fc068ed904681e75e0e74199b092",
+        "format": "Metadata"
+      },
+      {
+        "name": "dinnerondime0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1603147518",
+        "size": "409466880",
+        "md5": "b0843a1399eb18fa527750e96d13cacf",
+        "crc32": "4db1ead8",
+        "sha1": "ade7b910039797ed1a91063dcf16da268d400426",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "266"
+      },
+      {
+        "name": "dinnerondime0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "96",
+        "format": "Page Numbers JSON",
+        "original": "dinnerondime0000unse_hocr.html",
+        "mtime": "1719966059",
+        "size": "45173",
+        "md5": "4ce4f81ac278db2a34bd72295cfba506",
+        "crc32": "77438989",
+        "sha1": "ca89df63ad5fef16519785302dd829e757d75a61",
+        "private": "true"
+      },
+      {
+        "name": "dinnerondime0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1669809368",
+        "size": "271283",
+        "md5": "7e86efecc5a6124139204bb54c7728f4",
+        "crc32": "e8c65d94",
+        "sha1": "63760f6557de43b411d64d095a72a1a4b38c1ab2",
+        "format": "Scandata"
+      },
+      {
+        "name": "dinnerondime0000unse_slip.png",
+        "source": "original",
+        "mtime": "1602816106",
+        "size": "37751",
+        "md5": "2dcf08657718664abdfd8739bef30a54",
+        "crc32": "fa187d2d",
+        "sha1": "cf0cde90128b53131e3a1be03f75de6c94376524",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "dinnerondime0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "dinnerondime0000unse_slip.png",
+        "mtime": "1603147690",
+        "size": "5394",
+        "md5": "0b92df73e7dc16809e41ab5d11d7256d",
+        "crc32": "6f727253",
+        "sha1": "e68400e0471274aeb2c57eb21cb2530abf80109b",
+        "private": "true"
+      },
+      {
+        "name": "dinnerondime0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "dinnerondime0000unse_djvu.xml",
+        "mtime": "1669809340",
+        "size": "600",
+        "md5": "a85eee9aec7d19f6aac0cafa83fb058c",
+        "crc32": "4bdb4e31",
+        "sha1": "9e9776ddeae402970554cd9aa91db59b15b89698",
+        "private": "true"
+      },
+      {
+        "name": "logs/dinnerondime0000unse_iabdash_2020-10-1611:12:49.log",
+        "source": "original",
+        "mtime": "1602817976",
+        "size": "1330",
+        "md5": "13366e2c13de441eb6480b0ddf0dfebc",
+        "crc32": "2795d4ca",
+        "sha1": "35fb877ea6f00659b7830b80b9458a5964d7837b",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/dinnerondime0000unse_scanning_2020-10-1611:13:02.log",
+        "source": "original",
+        "mtime": "1602817987",
+        "size": "935280",
+        "md5": "c0562cd5b15014474723f40c87a9d9a6",
+        "crc32": "16b06715",
+        "sha1": "10f9ed7e0579567159655227772502ded1fec486",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/dinnerondime0000unse_status_history_2020-10-1611:12:57.log",
+        "source": "original",
+        "mtime": "1602817981",
+        "size": "406",
+        "md5": "d60cc6015e3a094caadee59ddc823302",
+        "crc32": "411ef938",
+        "sha1": "fd9cfe76f481d64365f0be39e14a15a3bde0b074",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1755740800,
+    "item_size": 956595391,
+    "metadata": {
+      "identifier": "dinnerondime0000unse",
+      "associated-names": "Taste of Home Books",
+      "boxid": "IA1975402",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2009-01-01",
+      "description": [
+        "256 pages : 27 cm",
+        "Includes index",
+        "\"403 budget-friendly family recipes\"--Cover"
+      ],
+      "isbn": [
+        "9780898217360",
+        "0898217369"
+      ],
+      "language": "eng",
+      "lccn": "2009920363",
+      "mediatype": "texts",
+      "old_pallet": "IA19547",
+      "operator": "associate-elena-descartin@archive.org",
+      "ppi": "300",
+      "publisher": "Greendale, WI : Taste of Home Books",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station42.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780898217360",
+      "subject": [
+        "Cooking, American",
+        "Low budget cooking"
+      ],
+      "title": "Dinner on a dime",
+      "tts_version": "4.0-initial-155-gbba175a5",
+      "uploader": "station42.cebu@archive.org",
+      "publicdate": "2020-10-16 02:42:35",
+      "access-restricted-item": "true",
+      "imagecount": "266",
+      "scandate": "20201016044928",
+      "republisher_operator": "associate-shielamae-olmilla@archive.org;associate-teresita-fernandez@archive.org",
+      "republisher_date": "20201020063941",
+      "republisher_time": "275",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/dinnerondime0000unse",
+      "identifier-ark": "ark:/13960/t3717kg7g",
+      "external-identifier": [
+        "urn:acs6:dinnerondime0000unse:epub:958f23d7-0243-41ef-a53b-692abb296884",
+        "urn:acs6:dinnerondime0000unse:pdf:56294701-4298-4968-814b-2c0fdf123735",
+        "urn:oclc:record:1204334074",
+        "urn:lcp:dinnerondime0000unse:lcpdf:c88bd4cf-cd89-4d8f-acd0-addb39d7e013",
+        "urn:lcp:dinnerondime0000unse:epub:2f0ad750-88d3-4fbc-a523-29f1ca8e95cc"
+      ],
+      "page_number_confidence": "96",
+      "addeddate": "2020-10-20 03:06:49",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20201031",
+      "openlibrary_edition": "OL31053022M",
+      "openlibrary_work": "OL23217988W",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801805.us.archive.org",
+    "uniq": 611445619,
+    "workable_servers": [
+      "ia801805.us.archive.org",
+      "ia601805.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,37 @@
+{
+  "source": "dpla",
+  "id": "18fbc60e682ce143ebe192c4e2fd775e",
+  "identifier": "18fbc60e682ce143ebe192c4e2fd775e",
+  "title": "The club woman's cook book : a collection of tested receipts",
+  "subject": [
+    "Cooking, American"
+  ],
+  "spatial": [
+    "Minneapolis",
+    "44.97997, -93.26384"
+  ],
+  "description": null,
+  "isShownAt": "http://umedia.lib.umn.edu/item/p16022coll305:11660",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/mdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878485"
+    ],
+    "name": "Minnesota Digital Library"
+  },
+  "institution": "Minnesota Digital Library",
+  "data": {
+    "object": "http://cdm16022.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16022coll305&CISOPTR=11660",
+    "isShownAt": "http://umedia.lib.umn.edu/item/p16022coll305:11660"
+  },
+  "location": {
+    "state": "Minnesota",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Minnesota; Digitized scan available"
+}

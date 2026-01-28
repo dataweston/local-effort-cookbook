@@ -1,0 +1,513 @@
+{
+  "source": "internet_archive",
+  "identifier": "fivestarrecipes0000unse",
+  "title": "Five star recipes",
+  "creator": null,
+  "year": 2016,
+  "subject": "Cooking",
+  "description": [
+    "112 pages : 29 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720001.ca.archive.org",
+          "dir": "/0/items/fivestarrecipes0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720001.ca.archive.org",
+          "dir": "/0/items/fivestarrecipes0000unse"
+        }
+      ]
+    },
+    "created": 1758559127,
+    "d1": "ia903209.us.archive.org",
+    "d2": "ia803209.us.archive.org",
+    "dir": "/27/items/fivestarrecipes0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660017630",
+        "size": "22889",
+        "md5": "97aec6bf6e822a78efff9da9b4b75667",
+        "crc32": "ddf7df36",
+        "sha1": "855427dee49d79f209b1a9fa05554eab1f0bbb66",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "fivestarrecipes0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "fivestarrecipes0000unse_hocr.html",
+        "mtime": "1755973196",
+        "size": "1352559",
+        "private": "true",
+        "md5": "c9b8d4f0e43a5cd350928d180981d9a3",
+        "crc32": "f4a653eb",
+        "sha1": "e93d8ce7d3c3dc25f8520480282e451ff92aa597"
+      },
+      {
+        "name": "fivestarrecipes0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "fivestarrecipes0000unse.pdf",
+        "mtime": "1755973102",
+        "size": "20308555",
+        "md5": "475a3ae2196ce49bada7bf707c4c64b3",
+        "crc32": "67a056c5",
+        "sha1": "848583144cdcadf575053d469182c64d0ad8973a"
+      },
+      {
+        "name": "fivestarrecipes0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "fivestarrecipes0000unse_page_numbers.json",
+        "mtime": "1722154758",
+        "size": "19926113",
+        "md5": "f2a803a84a0f242ab5697ecc61f4a5f4",
+        "crc32": "cc248955",
+        "sha1": "c9ea22e3aaa0ececa94d220b4f3717dd7f1a09c4",
+        "private": "true"
+      },
+      {
+        "name": "fivestarrecipes0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-1-g862e",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "fivestarrecipes0000unse_jp2.zip",
+        "mtime": "1641879312",
+        "size": "3714164",
+        "md5": "1f20d27a4da2aea05bf51bee28077ab9",
+        "crc32": "9aa88806",
+        "sha1": "47473c74e2713919c05b67cba7ccc73310daf387",
+        "private": "true"
+      },
+      {
+        "name": "fivestarrecipes0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "fivestarrecipes0000unse_scandata.xml",
+        "mtime": "1670001482",
+        "size": "783",
+        "md5": "94dad86ae55b8a36b089a1825d5f53a0",
+        "crc32": "edbdb32a",
+        "sha1": "9f7b501877c20c98651bb73c0520a881e9b25902",
+        "private": "true"
+      },
+      {
+        "name": "fivestarrecipes0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1641875745",
+        "size": "855",
+        "md5": "6953520e8bdff5c51876bb16da20f003",
+        "crc32": "6f561cc0",
+        "sha1": "9fe5509088744a55298dcf4d54c752c72554eb4a"
+      },
+      {
+        "name": "fivestarrecipes0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "fivestarrecipes0000unse_djvu.xml",
+        "mtime": "1641879634",
+        "size": "267978",
+        "md5": "c67cfb4b2925aaf21639b1178f502abf",
+        "crc32": "e95800fb",
+        "sha1": "2ac1f0f0b8331372c61c99596ddc5b57bc3156e2",
+        "private": "true"
+      },
+      {
+        "name": "fivestarrecipes0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "fivestarrecipes0000unse_hocr.html",
+        "mtime": "1641879400",
+        "size": "3647862",
+        "md5": "d793aac049f706aa0f704acb8a8fc003",
+        "crc32": "dd2f7df7",
+        "sha1": "4dc06a756dbd6f66bd0ea2747995d2c6eefe95d8",
+        "private": "true"
+      },
+      {
+        "name": "fivestarrecipes0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "fivestarrecipes0000unse.pdf",
+        "mtime": "1722156337",
+        "size": "19895887",
+        "md5": "c0c2dbc6fddfdac89c1e3bc53f8a523d",
+        "crc32": "bb49240e",
+        "sha1": "eda42790d7487a28eb8bd39e90cc8d0dc4fbf236"
+      },
+      {
+        "name": "fivestarrecipes0000unse_events.json",
+        "source": "original",
+        "mtime": "1641875664",
+        "size": "58",
+        "md5": "331d7a3e3e83dcdb569762979c023fbb",
+        "crc32": "4da93367",
+        "sha1": "3f2e388cce01fc63789796f8464950f163000b63",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "fivestarrecipes0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "6efed23206e486e4f5284537256754f9",
+        "summation": "md5"
+      },
+      {
+        "name": "fivestarrecipes0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "fivestarrecipes0000unse_chocr.html.gz",
+        "mtime": "1641879367",
+        "size": "7432586",
+        "md5": "88399c0bb41bd6d1dd49bf3a44cdb72e",
+        "crc32": "98ede527",
+        "sha1": "76206c619fae02eead79a3c35e1580e0c3049329",
+        "private": "true"
+      },
+      {
+        "name": "fivestarrecipes0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "fivestarrecipes0000unse_hocr.html",
+        "mtime": "1641879505",
+        "size": "1440",
+        "md5": "35ed2e0481dca0cd580d958118dd996f",
+        "crc32": "42178718",
+        "sha1": "8b621f2c80f826b2e2a292d4fa947a6847e4ed20",
+        "private": "true"
+      },
+      {
+        "name": "fivestarrecipes0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "532",
+        "word_conf_11_20": "260",
+        "word_conf_21_30": "283",
+        "word_conf_31_40": "321",
+        "word_conf_41_50": "382",
+        "word_conf_51_60": "409",
+        "word_conf_61_70": "578",
+        "word_conf_71_80": "1129",
+        "word_conf_81_90": "3041",
+        "word_conf_91_100": "35844",
+        "format": "OCR Search Text",
+        "original": "fivestarrecipes0000unse_hocr.html",
+        "mtime": "1641879607",
+        "size": "80974",
+        "md5": "7b5b6edbdf99d975ac1b142eb76cdcbd",
+        "crc32": "1a9bb1d3",
+        "sha1": "06f852a2118844e171a712306aebfb3f0eacb7e6",
+        "private": "true"
+      },
+      {
+        "name": "fivestarrecipes0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "fivestarrecipes0000unse_orig_jp2.tar",
+        "mtime": "1641878045",
+        "size": "134400049",
+        "md5": "c3a7a8ad9dea365820afb11fa8bc420b",
+        "crc32": "8da9b819",
+        "sha1": "2e901a3b919465d20c82da8f799bdc00eef8802c",
+        "private": "true",
+        "filecount": "122"
+      },
+      {
+        "name": "fivestarrecipes0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "fivestarrecipes0000unse.epub",
+        "mtime": "1755973459",
+        "size": "1360998",
+        "md5": "ccba410939bf204726889ed94040b472",
+        "crc32": "700082dd",
+        "sha1": "59639bfbe0b848b91da772bde095e632db29a8db"
+      },
+      {
+        "name": "fivestarrecipes0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1641440156",
+        "size": "3977",
+        "md5": "d4399e14203930eaf5a344b10d3268ee",
+        "crc32": "b0989db2",
+        "sha1": "60440ae98e91e1533b61c653ae08ceb7c8b05213",
+        "format": "MARC"
+      },
+      {
+        "name": "fivestarrecipes0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1641440151",
+        "size": "1102",
+        "md5": "78d3c89b11da874bc213d0a696848d5d",
+        "crc32": "65c3d455",
+        "sha1": "eefeba00f54414e7272c264e3a3a5c35baa5c423",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "fivestarrecipes0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1641875688",
+        "size": "40960",
+        "md5": "d3adb97738c8b74f37ff3f69a3995780",
+        "crc32": "8bd8cacb",
+        "sha1": "35cfdf86a2f10d01176fa73e1ed0205108df26d4",
+        "format": "Metadata"
+      },
+      {
+        "name": "fivestarrecipes0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1755973459",
+        "size": "3119",
+        "md5": "c710af5f5cbb3fa08d992d7d503fa1e3",
+        "crc32": "7036c66b",
+        "sha1": "b798ac0705f2129895d227b4653431f92f84722d",
+        "format": "Metadata"
+      },
+      {
+        "name": "fivestarrecipes0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1641875688",
+        "size": "279992320",
+        "md5": "218b3648f42b931ddf696daf3155ac3d",
+        "crc32": "2ea4ac42",
+        "sha1": "fd57bbe67deebc81e9f5197be1fa98251f427b1d",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "122"
+      },
+      {
+        "name": "fivestarrecipes0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "91",
+        "format": "Page Numbers JSON",
+        "original": "fivestarrecipes0000unse_hocr.html",
+        "mtime": "1722154758",
+        "size": "20145",
+        "md5": "fae4e905eb6da3786fa3f613704e3006",
+        "crc32": "1570e685",
+        "sha1": "96ca45fdee88a66b09a6e91ec5c263c580064e39",
+        "private": "true"
+      },
+      {
+        "name": "fivestarrecipes0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670001482",
+        "size": "132300",
+        "md5": "6d43ac735b0511c6136d0928b8508e6a",
+        "crc32": "098503f1",
+        "sha1": "dd1f955206e057b81649b1acd6056272bb4e911a",
+        "format": "Scandata"
+      },
+      {
+        "name": "fivestarrecipes0000unse_slip.png",
+        "source": "original",
+        "mtime": "1641423525",
+        "size": "39366",
+        "md5": "9fd9044b226b8f91c0a24c0c7935e9e6",
+        "crc32": "3cadb415",
+        "sha1": "1aea6aca178f7c8e7a5303c10e39afadc6c67c40",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "fivestarrecipes0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "fivestarrecipes0000unse_slip.png",
+        "mtime": "1641875755",
+        "size": "8332",
+        "md5": "e09280fc3ee0640b3794cb09156e76f9",
+        "crc32": "e9aa095a",
+        "sha1": "e920bfe32240b27c1006c36a7f3a110bf202b5b1",
+        "private": "true"
+      },
+      {
+        "name": "fivestarrecipes0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "fivestarrecipes0000unse_djvu.xml",
+        "mtime": "1670001475",
+        "size": "511",
+        "md5": "0bd083c6eae0cdc6b21acbffa8240652",
+        "crc32": "3912f1d8",
+        "sha1": "966c385b7dd0ada290bd231a3ac1808843bfa415",
+        "private": "true"
+      },
+      {
+        "name": "logs/fivestarrecipes0000unse_iabdash_2022-01-0611:35:59.log",
+        "source": "original",
+        "mtime": "1641440163",
+        "size": "1330",
+        "md5": "6373fb206ce2541deefa0b683fa5d070",
+        "crc32": "36ba3b24",
+        "sha1": "f5b1fcfe16e9eed6c7aa5c9cc19d3f352c1dac18",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/fivestarrecipes0000unse_scanning_2022-01-0611:36:08.log",
+        "source": "original",
+        "mtime": "1641440171",
+        "size": "531741",
+        "md5": "757e1ffd10a06b23738507bc897a73d3",
+        "crc32": "d245d73c",
+        "sha1": "4660d87e1f72f50f498071ae4bac9f06526c5a48",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/fivestarrecipes0000unse_status_history_2022-01-0611:36:03.log",
+        "source": "original",
+        "mtime": "1641440167",
+        "size": "408",
+        "md5": "186154a1444fc35288a4952d92a9c76f",
+        "crc32": "314d6dec",
+        "sha1": "751f2c9a7334b523a1439ded05df06a0c08d2d71",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1755973459,
+    "item_size": 493189361,
+    "metadata": {
+      "identifier": "fivestarrecipes0000unse",
+      "associated-names": "Taste of Home Books",
+      "boxid": "IA40324417",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2016-01-01",
+      "description": [
+        "112 pages : 29 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "9781617656330",
+        "161765633X"
+      ],
+      "language": "eng",
+      "lccn": "2016948965",
+      "mediatype": "texts",
+      "old_pallet": "IA-NS-0000894",
+      "operator": "associate-diane-reyes@archive.org",
+      "publisher": "Milwaukee, WI : RDA Enthusiast Brands",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station51.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781617656330",
+      "subject": "Cooking",
+      "title": "Five star recipes",
+      "tts_version": "4.5-initial-80-gce32ee1e",
+      "uploader": "station51.cebu@archive.org",
+      "publicdate": "2022-01-05 22:58:58",
+      "access-restricted-item": "true",
+      "imagecount": "122",
+      "scandate": "20220106043716",
+      "notes": "contains cut texts",
+      "ppi": "360",
+      "republisher_operator": "associate-elizabeth-escala@archive.org",
+      "republisher_date": "20220111123421",
+      "republisher_time": "395",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/fivestarrecipes0000unse",
+      "identifier-ark": "ark:/13960/s21wm5zf6c8",
+      "bookplateleaf": "0002",
+      "ocr": "tesseract 5.0.0-1-g862e",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.14",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "91",
+      "pdf_module_version": "0.0.17",
+      "external-identifier": [
+        "urn:acs6:fivestarrecipes0000unse:pdf:10b23ccc-fdeb-4aae-a982-4a5333efe1da",
+        "urn:oclc:record:1301977004",
+        "urn:lcp:fivestarrecipes0000unse:lcpdf:e3228941-4853-45a7-ada3-1893398647fe",
+        "urn:lcp:fivestarrecipes0000unse:epub:0067fc0b-3fc7-4143-ae21-c34a19f066f8"
+      ],
+      "addeddate": "2022-01-11 06:10:05",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_edition": "OL36656356M",
+      "openlibrary_work": "OL27038745W",
+      "sponsordate": "20220131",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia903209.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40458620"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 06:18:19.894402"
+        }
+      }
+    },
+    "uniq": 846715680,
+    "workable_servers": [
+      "ia903209.us.archive.org",
+      "ia803209.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Milwaukee"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

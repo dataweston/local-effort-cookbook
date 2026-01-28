@@ -1,0 +1,647 @@
+{
+  "source": "internet_archive",
+  "identifier": "isbn_9780737737738",
+  "title": "Foods of Brazil",
+  "creator": "Busby, Barbara Sheen",
+  "year": 2007,
+  "subject": "Cookery, Brazilian",
+  "description": "Includes bibliographical references and index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/isbn_9780737737738"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/isbn_9780737737738"
+        }
+      ]
+    },
+    "created": 1758557044,
+    "d1": "ia600202.us.archive.org",
+    "d2": "ia800202.us.archive.org",
+    "dir": "/4/items/isbn_9780737737738",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660358419",
+        "size": "25071",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "7b8b5e97be5a6ce14bd002ac42396d6a",
+        "crc32": "07f1178c",
+        "sha1": "11d90b41a745654e334dc03b305e18bc8e845709"
+      },
+      {
+        "name": "bak/2017/isbn_9780737737738_meta.sqlite.bak",
+        "source": "original",
+        "mtime": "1508778695",
+        "size": "12288",
+        "md5": "bb142bede837f0b2b2274a6b8d35a46a",
+        "crc32": "255f9f57",
+        "sha1": "13764f2cf849baafe1b1687a3c37dfd02be6c5e4",
+        "format": "Backup",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738.cdx.gz",
+        "source": "original",
+        "mtime": "1508842361",
+        "size": "278",
+        "format": "Item CDX Index",
+        "private": "true",
+        "md5": "cea757430c928bbb457544b6e6f4e23a",
+        "crc32": "adb9a21a",
+        "sha1": "2e4712afdaba58fac3567d4abc80b7d89157d0b4"
+      },
+      {
+        "name": "isbn_9780737737738.cdx.idx",
+        "source": "original",
+        "mtime": "1508842361",
+        "size": "33",
+        "format": "Item CDX Meta-Index",
+        "private": "true",
+        "md5": "d3efcf5f484a43ef4242f9f731aba85a",
+        "crc32": "84dfbb34",
+        "sha1": "c6d4af6a668be91fdb69cd7e6c642c122bcc2ca6"
+      },
+      {
+        "name": "isbn_9780737737738.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "isbn_9780737737738_hocr.html",
+        "mtime": "1753541193",
+        "size": "42127665",
+        "private": "true",
+        "md5": "a0c09da96b2f02c587b25714e4182cfb",
+        "crc32": "c0297cf5",
+        "sha1": "eec964f962aabb75938a9824b21d9e6480233f3f"
+      },
+      {
+        "name": "isbn_9780737737738.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "isbn_9780737737738.pdf",
+        "mtime": "1753541014",
+        "size": "12815360",
+        "md5": "a520a90519e3c2932ef93ab6d85a3042",
+        "crc32": "d81cbf23",
+        "sha1": "6b192eac0385c83790d5e70c0b1b7b6e2732cd34"
+      },
+      {
+        "name": "isbn_9780737737738.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "isbn_9780737737738_page_numbers.json",
+        "mtime": "1726394390",
+        "size": "12151781",
+        "md5": "511fcc75ac996a479a95c01154cab847",
+        "crc32": "b41fd11a",
+        "sha1": "7d238912210fed3818266b9dbc0d83a4ade07ea8",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1426608799",
+        "size": "4929",
+        "md5": "030b148f13b5866a2cfb55cebc753366",
+        "crc32": "c3ab589a",
+        "sha1": "9e1924a43179a6693e857fc0e164a565bb082da5"
+      },
+      {
+        "name": "isbn_9780737737738.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "isbn_9780737737738.warc.gz",
+        "mtime": "1508839678",
+        "size": "278",
+        "md5": "f586d62a5e167fe7e5ef5c3dc15a40b0",
+        "crc32": "0c391498",
+        "sha1": "3dcede9221c8d99f0a4c7e6ad1f9a85b3ac47e80",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "isbn_9780737737738_jp2.zip",
+        "mtime": "1508841807",
+        "size": "870351",
+        "md5": "311fd971fdddd690c0a0fc234a81f0be",
+        "crc32": "7c70fec0",
+        "sha1": "0ae85f511830147d46e8236592824b5b2ffb37e5",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "isbn_9780737737738_abbyy.gz",
+        "mtime": "1660357132",
+        "size": "710461",
+        "md5": "47d7341ab6fce37b05a0a85a69f08af0",
+        "crc32": "03b28286",
+        "sha1": "e0c669866a7f118855810564e227e3585b19aee5",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "2.1.4",
+        "format": "Cloth Cover Detection Log",
+        "original": "isbn_9780737737738_scandata.xml",
+        "mtime": "1726394643",
+        "size": "1477",
+        "md5": "6e359ef3c5c1555750a8c93f42f867ec",
+        "crc32": "e3e137c7",
+        "sha1": "5eb987370ec40a49138de6855b6d9a536352949c",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1454980977",
+        "size": "968",
+        "md5": "3953cebff3058d88082e941f02d3269f",
+        "crc32": "5d523aa2",
+        "sha1": "94677e926c91fdbee29de5fb9682f0747d4770e6"
+      },
+      {
+        "name": "isbn_9780737737738_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "isbn_9780737737738_djvu.xml",
+        "mtime": "1660358386",
+        "size": "63544",
+        "md5": "635d0d22fec531d213db113431afc26f",
+        "crc32": "d09fef35",
+        "sha1": "4d9a0e48a37c0afbaf1ffa0b8e5c76fd70e5452d",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "isbn_9780737737738_hocr.html",
+        "mtime": "1660357942",
+        "size": "778414",
+        "md5": "14a24bc3c7ef360f44494f992cd187ba",
+        "crc32": "f48e2674",
+        "sha1": "5867e8aac228fe14a97788fff9d6c0aef1dee7b6",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "isbn_9780737737738_jpg.pdf",
+        "mtime": "1509086240",
+        "size": "2272",
+        "md5": "7ec2351af9b346c2086d26600c262c36",
+        "crc32": "b277f01a",
+        "sha1": "ad828414b8b5746b2df3d789b3dee3f25074077a"
+      },
+      {
+        "name": "isbn_9780737737738_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "isbn_9780737737738.pdf",
+        "mtime": "1726395193",
+        "size": "12046980",
+        "md5": "dcfa3017cb4c7db18318d1306ece32fb",
+        "crc32": "0ef0036e",
+        "sha1": "dd68bda070f45fa265d966f0ab52b098a455d667"
+      },
+      {
+        "name": "isbn_9780737737738_events.json",
+        "source": "original",
+        "mtime": "1508839583",
+        "size": "51",
+        "md5": "f79477b1effaed5ccea60da29633a7cd",
+        "crc32": "09a54dea",
+        "sha1": "bcdad2e7b0e212d0c93a84d4f50b36a2a4d94964",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "136a1688e10b9c9f871a839a190a7ffa",
+        "summation": "md5"
+      },
+      {
+        "name": "isbn_9780737737738_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "isbn_9780737737738_chocr.html.gz",
+        "mtime": "1660357851",
+        "size": "1631261",
+        "md5": "ac2b8ea73a23931bb635e7222bd365c8",
+        "crc32": "adbff9a9",
+        "sha1": "0feb3558ea1ca502055de60ff931168bd1bf89ac",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "isbn_9780737737738_hocr.html",
+        "mtime": "1660357998",
+        "size": "827",
+        "md5": "c7c2c11941555d88fd63ff4b57926569",
+        "crc32": "a0a1746b",
+        "sha1": "efd34cf553a3d12e5217df8b49c8ac9dbf406b78",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "154",
+        "word_conf_11_20": "31",
+        "word_conf_21_30": "70",
+        "word_conf_31_40": "69",
+        "word_conf_41_50": "100",
+        "word_conf_51_60": "145",
+        "word_conf_61_70": "246",
+        "word_conf_71_80": "521",
+        "word_conf_81_90": "1619",
+        "word_conf_91_100": "6117",
+        "format": "OCR Search Text",
+        "original": "isbn_9780737737738_hocr.html",
+        "mtime": "1660358246",
+        "size": "22484",
+        "md5": "08999652d86859bdd6db1b2d854864ab",
+        "crc32": "2157ee4d",
+        "sha1": "60e20da005cb954977281f3f5b1cafaa70cabe39",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "isbn_9780737737738_orig_jp2.tar",
+        "mtime": "1508840768",
+        "size": "93761666",
+        "md5": "94e2a6f1abdc3b652ccac7cc13fc5bce",
+        "crc32": "44a09c6f",
+        "sha1": "3f94427b0f58d9f2d76f9d5ec1c9751a8e02bd0b",
+        "private": "true",
+        "filecount": "74"
+      },
+      {
+        "name": "isbn_9780737737738_jpg.pdf",
+        "source": "derivative",
+        "format": "JPEG-Compressed PDF",
+        "original": "isbn_9780737737738_abbyy.gz",
+        "mtime": "1509086229",
+        "size": "19438519",
+        "md5": "ea6436907c954149d3cf97d0166873ab",
+        "crc32": "01872b6c",
+        "sha1": "2d6314abc2648273837410103b659523f4b87704",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "isbn_9780737737738.epub",
+        "mtime": "1753541409",
+        "size": "42592126",
+        "md5": "17078b2767c9839d465c62f8efd0265e",
+        "crc32": "52e94074",
+        "sha1": "3a94d8c60e75eed04a5aa269ed8fc39ab679f040"
+      },
+      {
+        "name": "isbn_9780737737738_loans.json",
+        "source": "original",
+        "mtime": "1558170491",
+        "size": "1001",
+        "format": "JSON",
+        "private": "true",
+        "md5": "05a6e1c5b395ee2f82ef0aaefa500f32",
+        "crc32": "a7f44e11",
+        "sha1": "edaf496268cc62b8f0934c57ef4e2b28110250e5"
+      },
+      {
+        "name": "isbn_9780737737738_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1454980977",
+        "size": "2370",
+        "md5": "685e0bbb9c1d77aff079dcbba8610881",
+        "crc32": "5284e79b",
+        "sha1": "e8e858362e503a66a3b79307d5ce25a260dd6f9b"
+      },
+      {
+        "name": "isbn_9780737737738_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "isbn_9780737737738_xisbn.json",
+        "mtime": "1508839679",
+        "size": "139",
+        "md5": "570d37a550b8064c9dd5b04e10a47de2",
+        "crc32": "32943903",
+        "sha1": "7dfa01dfb27abaf2063e92661af64c4a80247f4a",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454980977",
+        "size": "762",
+        "md5": "9e61a46790834d5c2a245c2f760c1dd4",
+        "crc32": "4da5ff3a",
+        "sha1": "79b0f948d1a888e1baec5e3e295843a2510d2fd3"
+      },
+      {
+        "name": "isbn_9780737737738_meta.sqlite",
+        "source": "original",
+        "mtime": "1508839639",
+        "size": "14336",
+        "format": "Metadata",
+        "md5": "ce154c500a8449053916a182e319cc09",
+        "crc32": "413e3669",
+        "sha1": "10532113dbc6c9cc3eb9102fdb52c422997aeeb3"
+      },
+      {
+        "name": "isbn_9780737737738_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753541409",
+        "size": "3480",
+        "md5": "8960bb0d4062913569634232bffbe7aa",
+        "crc32": "37778a3c",
+        "sha1": "3f8b39a471b4cd84bf9532ee2ca44d327a72d5ce"
+      },
+      {
+        "name": "isbn_9780737737738_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1426608799",
+        "size": "295",
+        "md5": "860d6c414a07ff5db9a323e6e98c3817",
+        "crc32": "b060810e",
+        "sha1": "8193a05974939159e7987ce42721df6fa434cac6"
+      },
+      {
+        "name": "isbn_9780737737738_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1508839633",
+        "size": "202178560",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "bcf54ae9f88eead70435809c688330f6",
+        "crc32": "00bf6837",
+        "sha1": "761e2f5134571100f62684b8465cfde8f8f83361",
+        "filecount": "74"
+      },
+      {
+        "name": "isbn_9780737737738_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "59",
+        "format": "Page Numbers JSON",
+        "original": "isbn_9780737737738_hocr.html",
+        "mtime": "1726394389",
+        "size": "12377",
+        "md5": "bf37111ea44ce5ba655540a0af16ce94",
+        "crc32": "3266a37e",
+        "sha1": "b4548f43db421415d6a88395f74743e2ee543bfa",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780737737738_scandata.xml",
+        "source": "original",
+        "mtime": "1726394643",
+        "size": "75573",
+        "format": "Scandata",
+        "md5": "516d0ffd129ac44cec8ccd6cca56a929",
+        "crc32": "ac4bacbb",
+        "sha1": "6625a7cb01041e04f15cec4d5190979b1a7fb858"
+      },
+      {
+        "name": "isbn_9780737737738_xisbn.json",
+        "source": "original",
+        "mtime": "1454980555",
+        "size": "593",
+        "md5": "bc476aed41cb7769404d086eb6d1d1ff",
+        "crc32": "abf212f4",
+        "sha1": "abc6efb659fc4e91da33a0aaf562b2fa0450c628",
+        "format": "OCLC xISBN JSON"
+      },
+      {
+        "name": "logs/isbn_9780737737738_iabdash_2017-10-24011122.log",
+        "source": "original",
+        "mtime": "1508778691",
+        "size": "1671",
+        "md5": "22cb5a92d7576b82b9ef040b6fb5cb0a",
+        "crc32": "82acca60",
+        "sha1": "b401c7be1141d24dc6854d69d7970566e59d56a1",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/isbn_9780737737738_scanning_2017-10-24011115.log",
+        "source": "original",
+        "mtime": "1508778686",
+        "size": "140242",
+        "md5": "39a909d743683a9da65cfe75e254db68",
+        "crc32": "d667afa7",
+        "sha1": "3b94dd41390dc443d17658676f4672657b5e9404",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 38,
+    "item_last_updated": 1753541409,
+    "item_size": 441490483,
+    "metadata": {
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "22",
+      "updatedate": "2015-03-17 16:13:17",
+      "updater": "associate-lotu-tii@archive.org",
+      "boxid": "IA1158301",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "hongkong",
+      "title": "Foods of Brazil",
+      "identifier": "isbn_9780737737738",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2015-03-17 16:13:21.853693",
+      "publicdate": "2015-03-17 16:13:25",
+      "donor": "allen_county",
+      "openlibrary": "OL17945054M",
+      "creator": "Busby, Barbara Sheen",
+      "publisher": "Detroit, MI : KidHaven Press",
+      "date": "2007-01-01",
+      "subject": "Cookery, Brazilian",
+      "isbn": [
+        "9780737737738",
+        "0737737735"
+      ],
+      "lccn": "2007021859",
+      "description": "Includes bibliographical references and index",
+      "identifier-access": "http://archive.org/details/isbn_9780737737738",
+      "identifier-ark": "ark:/13960/t2w41t17x",
+      "city": "Detroit",
+      "oclc-id": [
+        "137244729",
+        "226088371",
+        "865263933"
+      ],
+      "related-external-id": "urn:isbn:0737755075",
+      "shipping_container": "SZ0025",
+      "backup_location": "ia905302_16",
+      "scanner": "ttscribe24.hongkong.archive.org",
+      "operator": "associate-jing-xu@archive.org",
+      "tts_version": "v1.52-fix",
+      "imagecount": "74",
+      "scandate": "20171023174113",
+      "ppi": "300",
+      "republisher_operator": "associate-chenjinyu@archive.org",
+      "republisher_date": "20171024180133",
+      "republisher_time": "200",
+      "foldoutcount": "0",
+      "bookplateleaf": "0002",
+      "scanfee": "15",
+      "invoice": "1213",
+      "external-identifier": [
+        "urn:acs6:isbn_9780737737738:pdf:3a2ed404-7668-4da2-92c9-a2f98c01be19",
+        "urn:acs6:isbn_9780737737738:epub:ca044f9b-333f-4086-b92a-89650e54e05c",
+        "urn:oclc:record:672225749",
+        "urn:lcp:isbn_9780737737738:lcpdf:fba149e5-4e63-44a8-9937-3b392d25abba",
+        "urn:lcp:isbn_9780737737738:epub:22d232e6-40bb-4502-90e0-9cbd9104e6bd"
+      ],
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "filesxml": [
+        "Wed Nov 1 4:39:22 UTC 2017",
+        "Wed Apr 3 6:03:30 UTC 2024"
+      ],
+      "sponsordate": "20171130",
+      "openlibrary_edition": "OL17945054M",
+      "openlibrary_work": "OL9442930W",
+      "loans__status__last_loan_date": "2019-05-01T06:32:23Z",
+      "loans__status__num_history": "2",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "59",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800202.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "cnusd-ol": {
+          "notes": {
+            "isbn": [
+              "9780737737738"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-06-25 05:25:35.930556"
+        }
+      }
+    },
+    "uniq": 1342330196,
+    "workable_servers": [
+      "ia800202.us.archive.org",
+      "ia600202.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/137244729?referer=xid"
+          ],
+          "publisher": "KidHaven Press",
+          "form": [
+            "BB"
+          ],
+          "lccn": [
+            "2007021859"
+          ],
+          "lang": "eng",
+          "city": "Detroit",
+          "author": "Barbara Sheen.",
+          "year": "2008",
+          "isbn": [
+            "0737737735"
+          ],
+          "title": "Foods of Brazil",
+          "oclcnum": [
+            "137244729",
+            "226088371",
+            "865263933"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/672225749?referer=xid"
+          ],
+          "publisher": "KidHaven Press",
+          "form": [
+            "BA",
+            "DA"
+          ],
+          "lang": "eng",
+          "city": "Detroit, Mich.",
+          "author": "by Barbara Sheen Busby.",
+          "year": "2007",
+          "isbn": [
+            "0737755075"
+          ],
+          "title": "Foods of Brazil",
+          "oclcnum": [
+            "672225749"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Busby, Barbara Sheen",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

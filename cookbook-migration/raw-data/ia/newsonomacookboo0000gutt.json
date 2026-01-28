@@ -1,0 +1,538 @@
+{
+  "source": "internet_archive",
+  "identifier": "newsonomacookboo0000gutt",
+  "title": "The new Sonoma cookbook : [simple recipes for a healthy, more delicious way to live]",
+  "creator": "Guttersen, Connie",
+  "year": 2011,
+  "subject": [
+    "Reducing diets -- Recipes",
+    "Reducing diets -- California -- Sonoma",
+    "Cooking (Natural foods)",
+    "Cooking, American -- California style",
+    "Food and wine pairing"
+  ],
+  "description": [
+    "viii, 407 p. : 24 cm",
+    "An updated edition of the diet cookbook provides recipes based on the Sonoma Diet and includes family meals, weight-loss menus, food and wine pairings, and raw dishes",
+    "Rev. ed. of: The Sonoma diet cookbook. Des Moines, Iowa : Meredith Books, c2006",
+    "\"Completely updated with more than 200 new recipes\"--Dust cover",
+    "\"Inside you'll find: Sonoma express meals--ready in 30 minutes or less; cook once/eat twice recipes; tips for cooking with wine; snacks and desserts to satisfy your cravings; favorite holiday recipes; wine recommendations; updated Sonoma pantry and kitchen essentals; gluten-free recipes; new Sonoma diet power foods; recipes from renowned wine country chefs\"--Dust jacket",
+    "Return to Sonoma -- Breakfast -- Soups, salads, sandwiches -- Beef entrées -- Poultry dinners -- Pork dinners -- Seafood -- Meatless meals -- Sides -- Snacks -- Desserts -- Taste of the wine country -- Holiday -- Seasonings",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720202.ca.archive.org",
+          "dir": "/0/items/newsonomacookboo0000gutt"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720202.ca.archive.org",
+          "dir": "/0/items/newsonomacookboo0000gutt"
+        }
+      ]
+    },
+    "created": 1758335737,
+    "d1": "ia904507.us.archive.org",
+    "d2": "ia804507.us.archive.org",
+    "dir": "/20/items/newsonomacookboo0000gutt",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660746037",
+        "size": "17740",
+        "md5": "16b60fcc691f0f99104084e6cc9678a5",
+        "crc32": "b4e8920c",
+        "sha1": "8857821cfdac0fc6254c2ff07c7c60a1bb71aff5",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/newsonomacookboo0000gutt_iabdash_2021-06-1116:31:00.log",
+        "source": "original",
+        "mtime": "1623400263",
+        "size": "1353",
+        "md5": "063a7286c07a5ad3ca0827fb391b3494",
+        "crc32": "6ea4ea52",
+        "sha1": "6a96b4955bf280d8af9d91b4aa7a0791a2d4eaaf",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/newsonomacookboo0000gutt_scanning_2021-06-1116:31:08.log",
+        "source": "original",
+        "mtime": "1623400271",
+        "size": "1408869",
+        "md5": "07f8996dad5a2e831b69c23e2d707cbf",
+        "crc32": "33e6c899",
+        "sha1": "3294cf2efb73a064a56b8046a2ffa15d424e1f4e",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/newsonomacookboo0000gutt_status_history_2021-06-1116:31:03.log",
+        "source": "original",
+        "mtime": "1623400267",
+        "size": "408",
+        "md5": "345fe1b48e28df61d7fd2571082c9f84",
+        "crc32": "13aeb65c",
+        "sha1": "831ed9bbecbbef38deac0aac4f04b4800a31ecbd",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "newsonomacookboo0000gutt.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "newsonomacookboo0000gutt_hocr.html",
+        "mtime": "1753676962",
+        "size": "998210",
+        "private": "true",
+        "md5": "779bbec1d4bdea6d13c78216da1626bc",
+        "crc32": "4bd0e40b",
+        "sha1": "9d6efc58b05d6f919d47890b0c3d6b377a3f5f78"
+      },
+      {
+        "name": "newsonomacookboo0000gutt.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "newsonomacookboo0000gutt.pdf",
+        "mtime": "1753676921",
+        "size": "25031857",
+        "md5": "7206fca7fd0324b8223b87d3a9556d9c",
+        "crc32": "04abefd1",
+        "sha1": "ce5e3b8e32ce631a6b37fea7808695b624fb7bb1"
+      },
+      {
+        "name": "newsonomacookboo0000gutt.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "newsonomacookboo0000gutt_page_numbers.json",
+        "mtime": "1717609342",
+        "size": "24759052",
+        "md5": "9448a919b467c61abe31f4f8d9662447",
+        "crc32": "8cf32471",
+        "sha1": "b86b93ba6e06ae5809b904924af614b3e2367faf",
+        "private": "true"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9404",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "newsonomacookboo0000gutt_jp2.zip",
+        "mtime": "1623662915",
+        "size": "7228003",
+        "md5": "6bb4de6135571e63163a8e8ff028a01f",
+        "crc32": "79e4d9b5",
+        "sha1": "234f0b75f61d3244d861481d754ec0085e4b0131",
+        "private": "true"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "newsonomacookboo0000gutt_scandata.xml",
+        "mtime": "1670748107",
+        "size": "788",
+        "md5": "f894e079412b4dabffc151642fca875d",
+        "crc32": "64e78247",
+        "sha1": "3b02c6700d71b626b1d37e00bca224ac9572c1dc",
+        "private": "true"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1623654410",
+        "size": "2471",
+        "md5": "f2aed0ff0471383fa00e7b79774e5550",
+        "crc32": "ec48aea9",
+        "sha1": "4fb193fde02e22ff5491588da06c76fc673f5825"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "newsonomacookboo0000gutt_djvu.xml",
+        "mtime": "1623663112",
+        "size": "516837",
+        "md5": "5eb8ffe9ba3550c0d9fea1a1fcb63f01",
+        "crc32": "72478717",
+        "sha1": "d496021c31230cbfa2696a7fdd2d8afc73cb3acf",
+        "private": "true"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "newsonomacookboo0000gutt_hocr.html",
+        "mtime": "1623663053",
+        "size": "7133760",
+        "md5": "77063aaef07679083dfe3f4a59a8f38b",
+        "crc32": "60de13cb",
+        "sha1": "9eb7b024be6f2d593f56bbd3c8ab8f818b687d4e",
+        "private": "true"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "newsonomacookboo0000gutt.pdf",
+        "mtime": "1717610441",
+        "size": "24652808",
+        "md5": "3ff0ae197c4e62473fbf7d0455ff51e8",
+        "crc32": "fd1dd8ed",
+        "sha1": "c754dde12be7735275a764e5700b619b2489e854"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_events.json",
+        "source": "original",
+        "mtime": "1623654008",
+        "size": "54",
+        "md5": "5b8af02e4ff8d16736c03ac847aea579",
+        "crc32": "9c28400a",
+        "sha1": "2803c759c465df00f45e38e83e9a9faf883165ae",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9e6d361c814b201b13ff7c3485911c1f",
+        "summation": "md5"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9404",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "newsonomacookboo0000gutt_chocr.html.gz",
+        "mtime": "1623663018",
+        "size": "13778750",
+        "md5": "bd1039bd58a0980b59ec3e04791690cb",
+        "crc32": "9e0e764e",
+        "sha1": "6f52b0ea824ea07a39af1caa84526ab4d57cedf8",
+        "private": "true"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "newsonomacookboo0000gutt_hocr.html",
+        "mtime": "1623663080",
+        "size": "4911",
+        "md5": "290539b2d702458d5d0af11605595459",
+        "crc32": "1301fcce",
+        "sha1": "d665259048a97961d6fce72a446413167f20dabf",
+        "private": "true"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "827",
+        "word_conf_11_20": "343",
+        "word_conf_21_30": "409",
+        "word_conf_31_40": "505",
+        "word_conf_41_50": "636",
+        "word_conf_51_60": "902",
+        "word_conf_61_70": "1202",
+        "word_conf_71_80": "1954",
+        "word_conf_81_90": "3583",
+        "word_conf_91_100": "72645",
+        "format": "OCR Search Text",
+        "original": "newsonomacookboo0000gutt_hocr.html",
+        "mtime": "1623663101",
+        "size": "142346",
+        "md5": "dd8f509ae81bb2e61925c0744622631d",
+        "crc32": "55aba16c",
+        "sha1": "28055aac9b1aa10f103bd25cb4c645a4e39ec465",
+        "private": "true"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "newsonomacookboo0000gutt_orig_jp2.tar",
+        "mtime": "1623660448",
+        "size": "183799906",
+        "md5": "d61929f91bf4812da1a6942aa6b23ee7",
+        "crc32": "64b6157a",
+        "sha1": "509c507b5b75383cc4d1e8487d86b722f4925231",
+        "private": "true",
+        "filecount": "426"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "newsonomacookboo0000gutt.epub",
+        "mtime": "1753677084",
+        "size": "1022727",
+        "md5": "16032bf46d4031b52d60a9db656802ac",
+        "crc32": "0fe0ba79",
+        "sha1": "99c64e85463f5e7670c9be65954e57c4320278d1"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_marc.xml",
+        "source": "original",
+        "mtime": "1623400257",
+        "size": "12298",
+        "md5": "ff605bb86364d2d6456073c6892bec00",
+        "crc32": "c1642ac5",
+        "sha1": "3a2e8146408fe7db59edc0b13d03ebec9908e270",
+        "format": "MARC"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_meta.mrc",
+        "source": "original",
+        "mtime": "1623400253",
+        "size": "3531",
+        "md5": "d61080f219433d9814b25abe68229699",
+        "crc32": "8e3823f3",
+        "sha1": "d97e4c49707389f08a81c5aeca40bb8ccadd5980",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_meta.sqlite",
+        "source": "original",
+        "mtime": "1623654317",
+        "size": "45056",
+        "md5": "032fe5ed7964c9f5ed77e17dfd8cf540",
+        "crc32": "7cbf485c",
+        "sha1": "5456efce335e80fed15c7fa919e22d8f1e8af5a8",
+        "format": "Metadata"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_meta.xml",
+        "source": "original",
+        "mtime": "1753677084",
+        "size": "4507",
+        "md5": "095ca785def8e57e3df226d723ef718c",
+        "crc32": "465f1e11",
+        "sha1": "59cafc0e8efb10ca0677f403e99c0bb05eeb2e93",
+        "format": "Metadata"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1623654317",
+        "size": "446924800",
+        "md5": "beb814dac6fd0f0fe37688e496f6b5cf",
+        "crc32": "6402e134",
+        "sha1": "797a276350169918acc8888d7a79cf88e0518e15",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "426"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "86",
+        "format": "Page Numbers JSON",
+        "original": "newsonomacookboo0000gutt_hocr.html",
+        "mtime": "1717609331",
+        "size": "72142",
+        "md5": "cf5c6834eb9bdf1c306637891e33dad6",
+        "crc32": "81ff77eb",
+        "sha1": "341b140e8c33e268f54c200f9b219e53b099ea8a",
+        "private": "true"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_scandata.xml",
+        "source": "original",
+        "mtime": "1670748106",
+        "size": "462538",
+        "md5": "4ff4c7f076b35831ab20125cb2f5865b",
+        "crc32": "a79a48ff",
+        "sha1": "4fcd109e23915d533731cc65e3d07aff72dac192",
+        "format": "Scandata"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_slip.png",
+        "source": "original",
+        "mtime": "1623391008",
+        "size": "43088",
+        "md5": "2e45cc9f933f7ef9fcec5f8ac522101d",
+        "crc32": "cdd27ef1",
+        "sha1": "462c62542fdcf7bb7acfb9bf1185698c090d32a7",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "newsonomacookboo0000gutt_slip.png",
+        "mtime": "1623654413",
+        "size": "8723",
+        "md5": "9c754b1593c169b4e987b91425908c08",
+        "crc32": "0cf95ea0",
+        "sha1": "4dafc150e750365d4aabd32988ea66a6074df6c1",
+        "private": "true"
+      },
+      {
+        "name": "newsonomacookboo0000gutt_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "newsonomacookboo0000gutt_djvu.xml",
+        "mtime": "1670747973",
+        "size": "955",
+        "md5": "b7923917b8618fc8195ece392bc0b82a",
+        "crc32": "be49544f",
+        "sha1": "9a6b8acb6486ddf246d7cfc891f2b0779186d5eb",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753677084,
+    "item_size": 738078488,
+    "metadata": {
+      "identifier": "newsonomacookboo0000gutt",
+      "associated-names": "Echtermeyer Faith; Breakey, Annabelle",
+      "boxid": "IA40135821",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Guttersen, Connie",
+      "date": "2011-01-01",
+      "description": [
+        "viii, 407 p. : 24 cm",
+        "An updated edition of the diet cookbook provides recipes based on the Sonoma Diet and includes family meals, weight-loss menus, food and wine pairings, and raw dishes",
+        "Rev. ed. of: The Sonoma diet cookbook. Des Moines, Iowa : Meredith Books, c2006",
+        "\"Completely updated with more than 200 new recipes\"--Dust cover",
+        "\"Inside you'll find: Sonoma express meals--ready in 30 minutes or less; cook once/eat twice recipes; tips for cooking with wine; snacks and desserts to satisfy your cravings; favorite holiday recipes; wine recommendations; updated Sonoma pantry and kitchen essentals; gluten-free recipes; new Sonoma diet power foods; recipes from renowned wine country chefs\"--Dust jacket",
+        "Return to Sonoma -- Breakfast -- Soups, salads, sandwiches -- Beef entrées -- Poultry dinners -- Pork dinners -- Seafood -- Meatless meals -- Sides -- Snacks -- Desserts -- Taste of the wine country -- Holiday -- Seasonings",
+        "Includes index"
+      ],
+      "isbn": [
+        "9781402781193",
+        "1402781199"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA-WL-1200043",
+      "openlibrary_edition": "OL26088954M",
+      "openlibrary_work": "OL17501254W",
+      "operator": "associate-aubrey-gersale@archive.org",
+      "publisher": "New York : Sterling",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station21.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781402781193",
+      "subject": [
+        "Reducing diets -- Recipes",
+        "Reducing diets -- California -- Sonoma",
+        "Cooking (Natural foods)",
+        "Cooking, American -- California style",
+        "Food and wine pairing"
+      ],
+      "title": "The new Sonoma cookbook : [simple recipes for a healthy, more delicious way to live]",
+      "tts_version": "4.5-initial-63-g7e8faad7",
+      "uploader": "station21.cebu@archive.org",
+      "publicdate": "2021-06-11 05:56:59",
+      "access-restricted-item": "true",
+      "imagecount": "426",
+      "scandate": "20210611094838",
+      "notes": "Cut-off text on some pages due text runs into the gutter.",
+      "ppi": "360",
+      "republisher_operator": "associate-mayel-franco@archive.org",
+      "republisher_date": "20210614145916",
+      "republisher_time": "1893",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/newsonomacookboo0000gutt",
+      "identifier-ark": "ark:/13960/t8tc2q916",
+      "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.13",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9404",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "86",
+      "pdf_module_version": "0.0.14",
+      "external-identifier": [
+        "urn:acs6:newsonomacookboo0000gutt:pdf:ca6e22fb-e0b1-40a1-8693-23b6d3f1e0da",
+        "urn:oclc:record:1280752096",
+        "urn:lcp:newsonomacookboo0000gutt:lcpdf:c9c42489-4162-4a74-a8dc-188e05a827e0",
+        "urn:lcp:newsonomacookboo0000gutt:epub:4af59084-9e26-4a6b-8151-8e4ad526aeac"
+      ],
+      "addeddate": "2021-06-14 11:01:31",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20210630",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "2011-01-01"
+      ]
+    },
+    "server": "ia804507.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40281415"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-03-09 01:11:27.34938"
+        },
+        "sonomacountylibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9781402781193"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 11:26:14.918806"
+        }
+      }
+    },
+    "uniq": 1565403262,
+    "workable_servers": [
+      "ia804507.us.archive.org",
+      "ia904507.us.archive.org"
+    ]
+  }
+}

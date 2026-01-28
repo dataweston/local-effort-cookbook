@@ -1,0 +1,504 @@
+{
+  "source": "internet_archive",
+  "identifier": "littlechicagocoo0000ferg",
+  "title": "A little Chicago cookbook",
+  "creator": "Ferguson, Judith",
+  "year": 1994,
+  "subject": [
+    "Cooking, American",
+    "Cooking -- Illinois -- Chicago"
+  ],
+  "description": [
+    "59 p. : 16 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/littlechicagocoo0000ferg"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/littlechicagocoo0000ferg"
+        }
+      ]
+    },
+    "created": 1758555236,
+    "d1": "ia601808.us.archive.org",
+    "d2": "ia801808.us.archive.org",
+    "dir": "/31/items/littlechicagocoo0000ferg",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660510435",
+        "size": "25676",
+        "md5": "6c6aa7bad3a498e9970b754e12e6b5a1",
+        "crc32": "48a9526f",
+        "sha1": "5c6f1e2d4fe2de79498b710dc8bae8fb465e2911",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "littlechicagocoo0000ferg.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "littlechicagocoo0000ferg_hocr.html",
+        "mtime": "1753617196",
+        "size": "442258",
+        "private": "true",
+        "md5": "fd69b9276bea39b5cbacd1eea6fb9f12",
+        "crc32": "ce63a36d",
+        "sha1": "a5970d9090aefc02eeb98fd379672ac8c984ab35"
+      },
+      {
+        "name": "littlechicagocoo0000ferg.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "littlechicagocoo0000ferg.pdf",
+        "mtime": "1753616729",
+        "size": "2929950",
+        "md5": "fe3f140c197a79270973771c01837887",
+        "crc32": "18014e62",
+        "sha1": "b100c1d6b19128c7f467ab1c64baeaa6f3a48adb"
+      },
+      {
+        "name": "littlechicagocoo0000ferg.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "littlechicagocoo0000ferg_page_numbers.json",
+        "mtime": "1714679007",
+        "size": "2574939",
+        "md5": "478528caaae84ebb04a58deda48dcfcd",
+        "crc32": "91d7b9e6",
+        "sha1": "73d435574b6155739ca455311f2736569a5c5789",
+        "private": "true"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_chocr.html.gz",
+        "source": "derivative",
+        "format": "chOCR",
+        "original": "littlechicagocoo0000ferg_jp2.zip",
+        "mtime": "1610525456",
+        "size": "525450",
+        "md5": "5dbf89c0f64894306230956ddab6675e",
+        "crc32": "c2eb45aa",
+        "sha1": "8c3e58098d6cee5bd24436c6368653f0551aa915",
+        "private": "true"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "littlechicagocoo0000ferg_scandata.xml",
+        "mtime": "1670556357",
+        "size": "788",
+        "md5": "80367544ebd4a2bee99d15e5a256556e",
+        "crc32": "dbe0cb23",
+        "sha1": "8f7b70dcbc416b20afaac647e74b5dc0866e7501",
+        "private": "true"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1610523822",
+        "size": "1001",
+        "md5": "1973928cd3065110c30d83c9841b6e42",
+        "crc32": "8b370e2f",
+        "sha1": "50f3d89e5b096ee57741c178e66723fd1b3ad12d"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "littlechicagocoo0000ferg_djvu.xml",
+        "mtime": "1660510431",
+        "size": "39270",
+        "md5": "1496ceb5413f914db4470c276881508d",
+        "crc32": "11b8ef25",
+        "sha1": "3bb75a3e4b196e26891b33901a3101e61d2e1e58",
+        "private": "true"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "littlechicagocoo0000ferg_hocr.html",
+        "mtime": "1660510368",
+        "size": "562008",
+        "md5": "b4e9aaacad1ca1abfc5c063eba6a4bde",
+        "crc32": "e15ee59f",
+        "sha1": "e3ca127cc062985fead1923ebab2d04d678f218c",
+        "private": "true"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "littlechicagocoo0000ferg.pdf",
+        "mtime": "1714679105",
+        "size": "2558792",
+        "md5": "84ee1354e99f8f32494a9cbe5203e8f1",
+        "crc32": "45c6a5ca",
+        "sha1": "acc95cacbd9dbdb2414a615908d9154c1b0810d3"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_events.json",
+        "source": "original",
+        "mtime": "1610522745",
+        "size": "54",
+        "md5": "32ce0a1909d77d007816d4b2abb70fe7",
+        "crc32": "f5e4351f",
+        "sha1": "ae5943a583b41003e029405b32632a4bc7fe5f50",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9516d9b2218ff1776a65922cb698d6b9",
+        "summation": "md5"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "format": "hOCR",
+        "original": "littlechicagocoo0000ferg_chocr.html.gz",
+        "mtime": "1615084476",
+        "size": "1069128",
+        "md5": "5a7f5feca6347c483fe1cc33c55697d6",
+        "crc32": "ffeaeab9",
+        "sha1": "cc64d3c517d6497fe53f21a7aa8656e15bee0f0c",
+        "private": "true"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "littlechicagocoo0000ferg_hocr.html",
+        "mtime": "1615084494",
+        "size": "674",
+        "md5": "7f7341562e0c2aae9ea33de1af3eb7e1",
+        "crc32": "5b26e566",
+        "sha1": "4448e911963dd72b74eea231e97182c233e2c1dd",
+        "private": "true"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.0.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "60",
+        "word_conf_11_20": "22",
+        "word_conf_21_30": "36",
+        "word_conf_31_40": "46",
+        "word_conf_41_50": "49",
+        "word_conf_51_60": "51",
+        "word_conf_61_70": "58",
+        "word_conf_71_80": "124",
+        "word_conf_81_90": "220",
+        "word_conf_91_100": "6042",
+        "format": "OCR Search Text",
+        "original": "littlechicagocoo0000ferg_hocr.html",
+        "mtime": "1615084515",
+        "size": "13574",
+        "md5": "73207d025ff47519129cbd5e8aa2af49",
+        "crc32": "ad9b0fab",
+        "sha1": "81a9f898c5ebfc34948155435ca605e2a123805b",
+        "private": "true"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "littlechicagocoo0000ferg_orig_jp2.tar",
+        "mtime": "1610525194",
+        "size": "17251587",
+        "md5": "71e5c278315afe1675304fa41709bc03",
+        "crc32": "21044d57",
+        "sha1": "59967e02008fd7db91d07a420b10260272f4eee0",
+        "private": "true",
+        "filecount": "66"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "littlechicagocoo0000ferg.epub",
+        "mtime": "1753617626",
+        "size": "447042",
+        "md5": "e998cb7fe06ce340aca51e5279b2ee78",
+        "crc32": "a35dbe62",
+        "sha1": "575dba097a54f1616cc60388021fb2dd65f25da2"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_marc.xml",
+        "source": "original",
+        "mtime": "1610337589",
+        "size": "2360",
+        "md5": "39581b75e9951944375b6c98fe82ff77",
+        "crc32": "fe729ccc",
+        "sha1": "cbca7e2f7d4c659faa2aa9ee3e6aca599599e9a1",
+        "format": "MARC"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_meta.mrc",
+        "source": "original",
+        "mtime": "1610337582",
+        "size": "695",
+        "md5": "1e643ff06ddda332084380e0908c2afa",
+        "crc32": "ec54f218",
+        "sha1": "4d3456116f30977f763f1f45ced79e1aa1ec13d9",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_meta.sqlite",
+        "source": "original",
+        "mtime": "1610523806",
+        "size": "19456",
+        "md5": "99e5b779838459cae8304237633f86dc",
+        "crc32": "61a17135",
+        "sha1": "6e3e5cd89464e9a8e0fdd2e85a68a2b078d36147",
+        "format": "Metadata"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_meta.xml",
+        "source": "original",
+        "mtime": "1753617627",
+        "size": "3173",
+        "md5": "1a58df6cd609d7d007acae855ca0e6d0",
+        "crc32": "b7d69cd4",
+        "sha1": "84be619b0a9c433a2241cb101bdb383b1f253071",
+        "format": "Metadata"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1610523803",
+        "size": "82667520",
+        "md5": "475330b52d4c4d42ecc9da5fd303a909",
+        "crc32": "06705cd5",
+        "sha1": "5dee6686f8d8b3526dfe847e9228d14733b7461f",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "66"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "67",
+        "format": "Page Numbers JSON",
+        "original": "littlechicagocoo0000ferg_hocr.html",
+        "mtime": "1714679007",
+        "size": "10933",
+        "md5": "8bc55bb8fc8b7b8b005c2677aea9c5e7",
+        "crc32": "5a785798",
+        "sha1": "573b8c95d3b8f814e32a15328d4c129590d11e5c",
+        "private": "true"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_scandata.xml",
+        "source": "original",
+        "mtime": "1670556357",
+        "size": "71859",
+        "md5": "36787f7d458f3bda99c1c94b817859d1",
+        "crc32": "39743de8",
+        "sha1": "325e7c8cacb7cabb489aedc146d2524b0176ebdc",
+        "format": "Scandata"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_slip.png",
+        "source": "original",
+        "mtime": "1610337234",
+        "size": "40514",
+        "md5": "5e24e40c79f820871876ded04ebdb501",
+        "crc32": "e816fa62",
+        "sha1": "64dd2b8c1c9d2543b9ae1f4162e3f6758e807de4",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "littlechicagocoo0000ferg_slip.png",
+        "mtime": "1610523826",
+        "size": "5719",
+        "md5": "7d10b647fceeffcc854c1c9fc31be1de",
+        "crc32": "e5f0ce19",
+        "sha1": "648d5100411c886bf2a6d640ba861906f613fbef",
+        "private": "true"
+      },
+      {
+        "name": "littlechicagocoo0000ferg_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "littlechicagocoo0000ferg_djvu.xml",
+        "mtime": "1670556122",
+        "size": "665",
+        "md5": "f4631d5f37160cbc02eda27a5ea6945c",
+        "crc32": "bc87dcc1",
+        "sha1": "f6a09e16212e8251f746603d5f69253d9cb5df9a",
+        "private": "true"
+      },
+      {
+        "name": "logs/littlechicagocoo0000ferg_iabdash_2021-01-1111:59:52.log",
+        "source": "original",
+        "mtime": "1610337596",
+        "size": "1368",
+        "md5": "e969529481531fcbaad1502e8f720625",
+        "crc32": "97d69573",
+        "sha1": "628ed4cd2319c7000d367f40fde21c2f6d46a401",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/littlechicagocoo0000ferg_scanning_2021-01-1112:00:06.log",
+        "source": "original",
+        "mtime": "1610337612",
+        "size": "265032",
+        "md5": "bec1f5c7dc625613d9cf8424a6e1af81",
+        "crc32": "07040a8c",
+        "sha1": "8df1ca945b1dbc1960ce8ff33e9e8542b490e083",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/littlechicagocoo0000ferg_status_history_2021-01-1111:59:57.log",
+        "source": "original",
+        "mtime": "1610337603",
+        "size": "408",
+        "md5": "840def89a7b944a178f07fa6448a2d8a",
+        "crc32": "d5fa816f",
+        "sha1": "c09c95b580852435717267159ce465b6aaabc493",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753617627,
+    "item_size": 111531893,
+    "metadata": {
+      "identifier": "littlechicagocoo0000ferg",
+      "boxid": "IA40038014",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Ferguson, Judith",
+      "date": "1994-01-01",
+      "description": [
+        "59 p. : 16 cm",
+        "Includes index"
+      ],
+      "isbn": "0811806456",
+      "language": "eng",
+      "lccn": "94177278",
+      "mediatype": "texts",
+      "old_pallet": "IA-WL-0000128",
+      "openlibrary_edition": "OL1187404M",
+      "openlibrary_work": "OL3634076W",
+      "operator": "associate-fritzijuls-quiroben@archive.org",
+      "ppi": "300",
+      "publisher": "San Francisco : Chronicle Books",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station14.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780811806459",
+      "sponsor": "The Arcadia Fund",
+      "subject": [
+        "Cooking, American",
+        "Cooking -- Illinois -- Chicago"
+      ],
+      "title": "A little Chicago cookbook",
+      "tts_version": "4.2-initial-97-g35291955",
+      "uploader": "station14.cebu@archive.org",
+      "publicdate": "2021-01-11 03:54:11",
+      "access-restricted-item": "true",
+      "imagecount": "66",
+      "scandate": "20210111043056",
+      "notes": "obscured back cover",
+      "republisher_operator": "associate-mayel-franco@archive.org",
+      "republisher_date": "20210113152536",
+      "republisher_time": "423",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/littlechicagocoo0000ferg",
+      "identifier-ark": "ark:/13960/t52g7q614",
+      "ocr": "tesseract 4.1.1",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.10",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.7401",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "67",
+      "external-identifier": [
+        "urn:acs6:littlechicagocoo0000ferg:pdf:88b0b30e-e5f6-447b-a984-152a58c99a76",
+        "urn:oclc:record:1245529889",
+        "urn:lcp:littlechicagocoo0000ferg:lcpdf:0ebd229b-6422-480b-892b-84ff3341cc83",
+        "urn:lcp:littlechicagocoo0000ferg:epub:5488935f-22f8-4333-b755-758f57356313"
+      ],
+      "addeddate": "2021-01-13 09:04:32",
+      "scanfee": "2000;0;0",
+      "invoice": "2089",
+      "sponsordate": "20210930",
+      "grant_report": "Arcadia #4281",
+      "pdf_module_version": "0.0.20",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia801808.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40203905"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-03-09 01:02:40.290097"
+        }
+      }
+    },
+    "uniq": 762440987,
+    "workable_servers": [
+      "ia801808.us.archive.org",
+      "ia601808.us.archive.org"
+    ]
+  },
+  "institution": "Ferguson, Judith",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

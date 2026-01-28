@@ -1,0 +1,484 @@
+{
+  "source": "internet_archive",
+  "identifier": "nahcwildgamecook0000unse",
+  "title": "NAHC wild game cookbook",
+  "creator": null,
+  "year": 1997,
+  "subject": "Cooking (Game)",
+  "description": [
+    "208 pages : 24 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720205.ca.archive.org",
+          "dir": "/0/items/nahcwildgamecook0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720205.ca.archive.org",
+          "dir": "/0/items/nahcwildgamecook0000unse"
+        }
+      ]
+    },
+    "created": 1758555725,
+    "d1": "ia902809.us.archive.org",
+    "d2": "ia802809.us.archive.org",
+    "dir": "/18/items/nahcwildgamecook0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660715902",
+        "size": "17135",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "a9c0da97fe78cbc963c362340f829a64",
+        "crc32": "1b071599",
+        "sha1": "f82dd8d4e620a2f7372f55da1a7f2d4513bb780b"
+      },
+      {
+        "name": "logs/nahcwildgamecook0000unse_iabdash_2018-06-06160906.log",
+        "source": "original",
+        "mtime": "1528272550",
+        "size": "358",
+        "md5": "b2777fe0c975675664de2a6a43df3948",
+        "crc32": "a24d4702",
+        "sha1": "0eb73c19191d098595d24d19694b04adcf46060d",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/nahcwildgamecook0000unse_scanning_2018-06-06160858.log",
+        "source": "original",
+        "mtime": "1528272541",
+        "size": "449649",
+        "md5": "adbc8cf28da370332607e2547110a443",
+        "crc32": "7a85a69a",
+        "sha1": "07dc3fff3bc55f344d55d66d69fb27ef365e674a",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "nahcwildgamecook0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "nahcwildgamecook0000unse_hocr.html",
+        "mtime": "1757121980",
+        "size": "38285271",
+        "private": "true",
+        "md5": "b2f9001990d27177136027727f032bc1",
+        "crc32": "278d8f9b",
+        "sha1": "b407e0fdc3ce2a9d8b97f07062d7377966879d68"
+      },
+      {
+        "name": "nahcwildgamecook0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "nahcwildgamecook0000unse.pdf",
+        "mtime": "1757121792",
+        "size": "20403321",
+        "md5": "19b2723a903667265fcd2651ef297b86",
+        "crc32": "16532d9e",
+        "sha1": "1a7a63ddbd39fb9308d7c2d966cf55e66e25a4ef"
+      },
+      {
+        "name": "nahcwildgamecook0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "nahcwildgamecook0000unse_page_numbers.json",
+        "mtime": "1716789459",
+        "size": "20014516",
+        "md5": "2157e297a56bbbcc47719d106073ab5e",
+        "crc32": "e47a377a",
+        "sha1": "3c255bc228f5d413d8117aeec43a4dfdb0b718b5",
+        "private": "true"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "nahcwildgamecook0000unse_jp2.zip",
+        "mtime": "1529475680",
+        "size": "3251851",
+        "md5": "8e23b4ed6459d548edd7bc0ad836105c",
+        "crc32": "6dd663f2",
+        "sha1": "0bfa06f39f9c04dad67cf30baecf3e1eb28d1dea",
+        "private": "true"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "nahcwildgamecook0000unse_abbyy.gz",
+        "mtime": "1660715694",
+        "size": "2761708",
+        "md5": "e49043fec09a7f748f4c1096d51aa422",
+        "crc32": "8b0e6b0e",
+        "sha1": "0ab3e6ea99c22616da6f8dd0602a0bdaf4be7678",
+        "private": "true"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "nahcwildgamecook0000unse_scandata.xml",
+        "mtime": "1670724772",
+        "size": "787",
+        "md5": "8ab03528b38b9559d4d5504af999a188",
+        "crc32": "32e91292",
+        "sha1": "cb74a093a5afec0a46ca550adf7954000454ebda",
+        "private": "true"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660715640",
+        "size": "1079",
+        "md5": "7ddc3275606b14e716d053c869d700ea",
+        "crc32": "d516c7c1",
+        "sha1": "e4155fe7efada82cee980541d3ed5deadf25c304"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "nahcwildgamecook0000unse_djvu.xml",
+        "mtime": "1660715887",
+        "size": "242193",
+        "md5": "a0772ce2952b61724239b7c81c691c7f",
+        "crc32": "de05cdb9",
+        "sha1": "d8c2a2388c561e78e8e71ebd28341e317020e26c",
+        "private": "true"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "nahcwildgamecook0000unse_hocr.html",
+        "mtime": "1660715815",
+        "size": "3021054",
+        "md5": "5368131eee1690c836f26559ba4f7ac8",
+        "crc32": "03413d5d",
+        "sha1": "471d58e487f9c6e1a941f96a98951ed69ac8acd6",
+        "private": "true"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "nahcwildgamecook0000unse_abbyy.gz",
+        "mtime": "1529476613",
+        "size": "6146077",
+        "md5": "75d8ee7da5334c44bcc4d58f013502eb",
+        "crc32": "93d6a199",
+        "sha1": "60fb90e106074bf089d8a2fd96beca7fcb4b0138"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "nahcwildgamecook0000unse.pdf",
+        "mtime": "1716790582",
+        "size": "19889276",
+        "md5": "31921ce9cac8a4b7acfe3d8f065eac62",
+        "crc32": "d52e206c",
+        "sha1": "88554271aab56976d45ceff4080ba2ec5d408a3d"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_events.json",
+        "source": "original",
+        "mtime": "1529472062",
+        "size": "101",
+        "format": "JSON",
+        "private": "true",
+        "md5": "d7e3d1aa67dfea26eba344f14652c68c",
+        "crc32": "baabd318",
+        "sha1": "0695023ee01f4f52c9c239fcdece964e54e81207"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "6b767ee2a8bf723a692f8908cd51a140",
+        "summation": "md5"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "nahcwildgamecook0000unse_chocr.html.gz",
+        "mtime": "1660715795",
+        "size": "6295329",
+        "md5": "f3a2f8719c089d133257afad22a1e6ef",
+        "crc32": "d49a6fef",
+        "sha1": "78589dc58fc6467e2391e5c28f3fc95c0fd8e3ee",
+        "private": "true"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "nahcwildgamecook0000unse_hocr.html",
+        "mtime": "1660715840",
+        "size": "2532",
+        "md5": "8a21fa397eca9a0a12fc96d50ee28e85",
+        "crc32": "e5b81ba0",
+        "sha1": "6821318f910c3d4e372820973c143085b36c8580",
+        "private": "true"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "426",
+        "word_conf_11_20": "440",
+        "word_conf_21_30": "465",
+        "word_conf_31_40": "820",
+        "word_conf_41_50": "549",
+        "word_conf_51_60": "836",
+        "word_conf_61_70": "2239",
+        "word_conf_71_80": "6450",
+        "word_conf_81_90": "9157",
+        "word_conf_91_100": "14348",
+        "format": "OCR Search Text",
+        "original": "nahcwildgamecook0000unse_hocr.html",
+        "mtime": "1660715874",
+        "size": "70584",
+        "md5": "85bee7746f38a38b1ef0230da94833f2",
+        "crc32": "2cc5705d",
+        "sha1": "6530f5b48acf3f4e55e55a7936956cf7976cb57d",
+        "private": "true"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "nahcwildgamecook0000unse_orig_jp2.tar",
+        "mtime": "1529474217",
+        "size": "164194405",
+        "md5": "bb9894ca587bfe3c83999a79173eb1cf",
+        "crc32": "6f1e5fcf",
+        "sha1": "4698dc71834429f9a6f36871be15d4c9ea603743",
+        "private": "true",
+        "filecount": "218"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "nahcwildgamecook0000unse.epub",
+        "mtime": "1757122393",
+        "size": "38470795",
+        "md5": "77cadfd980c14f720ef40a6f1aff7613",
+        "crc32": "e6d1e284",
+        "sha1": "a875289e725df9397b085c6435052095e03b9139"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_loans.json",
+        "source": "original",
+        "mtime": "1592919882",
+        "size": "892",
+        "format": "JSON",
+        "private": "true",
+        "md5": "fed083c19112b76d7692dd18c9f55e54",
+        "crc32": "e77fdf16",
+        "sha1": "7d8ef958deadb16d5afff060b163075503cbbab6"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1660715640",
+        "size": "3673",
+        "format": "MARC",
+        "md5": "fa95662a5e6fa82caea233be95377f3f",
+        "crc32": "64586d28",
+        "sha1": "1524badb033447d3e6678ddea430aba3fe74b9ea"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1528272561",
+        "size": "1078",
+        "md5": "ab0d967d480dcb39db0ac631111e3cd5",
+        "crc32": "5330e4f2",
+        "sha1": "5424a6d707400bca324808e4184be9fd1aed9388",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1529472109",
+        "size": "21504",
+        "format": "Metadata",
+        "md5": "3d933762038d4f2e657444bd9fb7c01b",
+        "crc32": "21988cd4",
+        "sha1": "6b5d62c9fa9e06388bc635fddc844c2ac8639acb"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1757122393",
+        "size": "3045",
+        "format": "Metadata",
+        "md5": "eaf772eb8764926707f32463cd17d51c",
+        "crc32": "807cfc59",
+        "sha1": "f63eb39672fb726b031092f5c9a181dac4d19cef"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1529472108",
+        "size": "437268480",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "257e854cf844e24e757d36021d87f111",
+        "crc32": "449cf178",
+        "sha1": "287065d52cf996adac6e8f971eca7d045c0ce3c1",
+        "filecount": "218"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "nahcwildgamecook0000unse_hocr.html",
+        "mtime": "1716789459",
+        "size": "36773",
+        "md5": "50313c33988bc02206e645d703e984d2",
+        "crc32": "df106595",
+        "sha1": "b17a94f1d58391d1dd94bde4491b5efa90a918f7",
+        "private": "true"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670724772",
+        "size": "223373",
+        "format": "Scandata",
+        "md5": "bbd054f1173d947ab202f5b5c8d4712c",
+        "crc32": "9d52bbef",
+        "sha1": "b4415201a2883d34053b73d112652717d6942dad"
+      },
+      {
+        "name": "nahcwildgamecook0000unse_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "nahcwildgamecook0000unse_djvu.xml",
+        "mtime": "1670724717",
+        "size": "6479",
+        "md5": "f916d30ebbce67c856a85b5b777d7771",
+        "crc32": "09dc8437",
+        "sha1": "5df145994014db75e386313f58d69cd988c40149",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1757122393,
+    "item_size": 761083318,
+    "metadata": {
+      "identifier": "nahcwildgamecook0000unse",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "date": "1997-01-01",
+      "isbn": [
+        "0914697765",
+        "9780914697763"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-yukyin-chung@archive.org",
+      "ppi": "300",
+      "printer": "DYMO_LabelWriter_450_Turbo",
+      "publisher": "Minneapolis, MN : North American Hunting Club",
+      "repub_state": "22",
+      "scanner": "ttscribe13.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "NAHC wild game cookbook ",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "uploader": "ttscribe13.hongkong@archive.org",
+      "addeddate": "2018-06-06 08:08:44",
+      "publicdate": "2018-06-06 08:09:41",
+      "imagecount": "218",
+      "scandate": "20180606095732",
+      "subject": [
+        "Cooking (Game)",
+        "Cooking (Game)"
+      ],
+      "description": [
+        "208 pages : 24 cm",
+        "Includes index"
+      ],
+      "associated-names": "Vail, Mike; North American Hunting Club",
+      "republisher_operator": "republisher16.dhaka@archive.org",
+      "republisher_date": "20180620112124",
+      "republisher_time": "561",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/nahcwildgamecook0000unse",
+      "identifier-ark": "ark:/13960/t8rc3xr56",
+      "bookplateleaf": "0004",
+      "external-identifier": [
+        "urn:acs6:nahcwildgamecook0000unse:epub:583dd8f3-2a58-4261-8f66-82ae6d95e328",
+        "urn:acs6:nahcwildgamecook0000unse:pdf:4d7fc674-9dae-4f46-aaad-730c3c386a85",
+        "urn:lcp:nahcwildgamecook0000unse:lcpdf:2a785c86-73c6-43f9-92a4-37e56393415b",
+        "urn:lcp:nahcwildgamecook0000unse:epub:8f81e288-d7b7-4c84-830c-5747ca479ff0"
+      ],
+      "curation": "[curator]associate-francis-boyer@archive.org[/curator][date]20180620194819[/date][state]approved[/state][comment]199[/comment]",
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "boxid": "IA1271719",
+      "sponsordate": "20180731",
+      "openlibrary_edition": "OL8325077M",
+      "openlibrary_work": "OL17882480W",
+      "backup_location": "ia906706_14",
+      "access-restricted-item": "true",
+      "oclc-id": "48219663",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "filesxml": "Wed Apr 3 9:52:21 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia802809.us.archive.org",
+    "uniq": 450418159,
+    "workable_servers": [
+      "ia802809.us.archive.org",
+      "ia902809.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

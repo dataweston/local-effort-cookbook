@@ -1,0 +1,486 @@
+{
+  "source": "internet_archive",
+  "identifier": "abzsofcooking03wing",
+  "title": "ABZ's of cooking",
+  "creator": "Wing, Lucy",
+  "year": 1982,
+  "subject": "Cookery",
+  "description": "Includes index",
+  "metadata": {
+    "created": 1758554834,
+    "d1": "ia600208.us.archive.org",
+    "d2": "ia800208.us.archive.org",
+    "dir": "/7/items/abzsofcooking03wing",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658170088",
+        "size": "22312",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "1ba9aaf57051187b2fabe4b4fad088f9",
+        "crc32": "0453c67b",
+        "sha1": "8e7a6e0b5eb5cdac9e15acce463988ecc86b4948"
+      },
+      {
+        "name": "abzsofcooking03wing.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "abzsofcooking03wing_hocr.html",
+        "mtime": "1754543361",
+        "size": "10628037",
+        "private": "true",
+        "md5": "8f2c742549c60be160ce64d12e74a8cf",
+        "crc32": "49f69793",
+        "sha1": "c1b09c7b1b57459694c9704f48df4abca12200f8"
+      },
+      {
+        "name": "abzsofcooking03wing.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "abzsofcooking03wing_jp2.zip",
+        "mtime": "1327052548",
+        "size": "290025",
+        "md5": "aff61a433ff6a9c919486b2d7c6338df",
+        "crc32": "769c9363",
+        "sha1": "c96ceb8a3c12a4fd1ab68bb6f1f834a44f835bcf"
+      },
+      {
+        "name": "abzsofcooking03wing.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "abzsofcooking03wing.pdf",
+        "mtime": "1754543332",
+        "size": "11772215",
+        "md5": "a763169ed154e32e33caf84d9c420b98",
+        "crc32": "0ed225ea",
+        "sha1": "2731515004fc41564241e85e031c2d36433da4e2"
+      },
+      {
+        "name": "abzsofcooking03wing.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "abzsofcooking03wing_page_numbers.json",
+        "mtime": "1714067816",
+        "size": "11398969",
+        "md5": "5be547ec180e78138ed35baf830ad4c7",
+        "crc32": "0117f1c4",
+        "sha1": "f4db4d5d39cd627f9265e7e1f903eadba24827fd",
+        "private": "true"
+      },
+      {
+        "name": "abzsofcooking03wing_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "abzsofcooking03wing_jp2.zip",
+        "mtime": "1327053338",
+        "size": "3283704",
+        "md5": "c1adf6cfd2e3920aea6ccef3b93d8664",
+        "crc32": "6177f3cb",
+        "sha1": "cbd3f5ca8db84f9d8354099099122b602c295688",
+        "private": "true"
+      },
+      {
+        "name": "abzsofcooking03wing_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "abzsofcooking03wing_abbyy.gz",
+        "mtime": "1658163408",
+        "size": "2793691",
+        "md5": "a3185d18de1ca9a861a0e5cb4ca12358",
+        "crc32": "9947a534",
+        "sha1": "2083b1580c20d82b48f80cd2725351109b4634d4",
+        "private": "true"
+      },
+      {
+        "name": "abzsofcooking03wing_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "abzsofcooking03wing_scandata.xml",
+        "mtime": "1658163615",
+        "size": "767",
+        "md5": "1264dc6f53b8332fcfb33b4a70919a18",
+        "crc32": "ebb67220",
+        "sha1": "008eebe619c0ca4a703a85bed7f01300e6f1611b",
+        "private": "true"
+      },
+      {
+        "name": "abzsofcooking03wing_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1278696273",
+        "size": "520",
+        "md5": "626387757b5705c7e3f9d32ae7143574",
+        "crc32": "82db7cb2",
+        "sha1": "8b0a7460aedc5f9e731b95d6159c5b425a7bb944"
+      },
+      {
+        "name": "abzsofcooking03wing_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "abzsofcooking03wing_djvu.xml",
+        "mtime": "1719113233",
+        "size": "262184",
+        "md5": "2e27a2f8b55fe56d890d0b234adea3b8",
+        "crc32": "7fd3df5f",
+        "sha1": "84194c7fb3ceeebc491f3b41b300d332b890f0fb",
+        "private": "true"
+      },
+      {
+        "name": "abzsofcooking03wing_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "abzsofcooking03wing_hocr.html",
+        "mtime": "1719113229",
+        "size": "3119292",
+        "md5": "4c847cb38d53649e272561473370ee36",
+        "crc32": "255d1624",
+        "sha1": "c31585cf854af18d9c13f66707b1a34a1e5586db",
+        "private": "true"
+      },
+      {
+        "name": "abzsofcooking03wing_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "abzsofcooking03wing.pdf",
+        "mtime": "1714067854",
+        "size": "11381813",
+        "md5": "bd1291690d89b23e1c1eb9536b9fef21",
+        "crc32": "6386089f",
+        "sha1": "10f856c4a517d1f85b5197309bc47fd21b5e46ed"
+      },
+      {
+        "name": "abzsofcooking03wing_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "048bb4ede986e0a101fe87cffebcabd1",
+        "summation": "md5"
+      },
+      {
+        "name": "abzsofcooking03wing_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "abzsofcooking03wing_chocr.html.gz",
+        "mtime": "1658163690",
+        "size": "6271107",
+        "md5": "ecb99b2183794a07cb8b58965558f117",
+        "crc32": "4a24a18e",
+        "sha1": "5164ba28dc5f640402157bd1d626fd2010e7d33b",
+        "private": "true"
+      },
+      {
+        "name": "abzsofcooking03wing_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "abzsofcooking03wing_hocr.html",
+        "mtime": "1658163797",
+        "size": "803",
+        "md5": "704c5304bdee8e085f396ffcfde71259",
+        "crc32": "c168f0c1",
+        "sha1": "0c116ab2041f0dd4c8b79c83c0b3fe6de08ead84",
+        "private": "true"
+      },
+      {
+        "name": "abzsofcooking03wing_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1161",
+        "word_conf_11_20": "642",
+        "word_conf_21_30": "2368",
+        "word_conf_31_40": "1290",
+        "word_conf_41_50": "4597",
+        "word_conf_51_60": "6102",
+        "word_conf_61_70": "8925",
+        "word_conf_71_80": "5670",
+        "word_conf_81_90": "2075",
+        "word_conf_91_100": "4797",
+        "format": "OCR Search Text",
+        "original": "abzsofcooking03wing_hocr.html",
+        "mtime": "1658163830",
+        "size": "84696",
+        "md5": "9ca327e2775c360a16b808b5312ae44f",
+        "crc32": "2a5f53bb",
+        "sha1": "b25acc0f640a161dc3c68b97b9bb5f9cf157f67b",
+        "private": "true"
+      },
+      {
+        "name": "abzsofcooking03wing_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "abzsofcooking03wing_orig_jp2.tar",
+        "mtime": "1327052484",
+        "size": "45559133",
+        "md5": "f1be8e63daaae073ae558856ab42d6fb",
+        "crc32": "c512598a",
+        "sha1": "d5a26eb7a54ab8595d6a59a3dbe7d78a75bcd3b1",
+        "private": "true",
+        "filecount": "70"
+      },
+      {
+        "name": "abzsofcooking03wing_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "abzsofcooking03wing.epub",
+        "mtime": "1754543391",
+        "size": "10676899",
+        "md5": "154852c7e7b520a10515b2f92f0f281f",
+        "crc32": "ac1d4a4b",
+        "sha1": "febdc7101075a5e435da06b2ba76d50181d3de0b"
+      },
+      {
+        "name": "abzsofcooking03wing_loans.json",
+        "source": "original",
+        "mtime": "1593119486",
+        "size": "1029",
+        "format": "JSON",
+        "private": "true",
+        "md5": "cef70e8c4dc8c6d9338b55a9681e159f",
+        "crc32": "a3e0c172",
+        "sha1": "4b8f79646834cd66c4b977635e9be591dab2b298"
+      },
+      {
+        "name": "abzsofcooking03wing_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1278696273",
+        "size": "2643",
+        "md5": "e277f577ddbab1ec4b45984cda0d4c17",
+        "crc32": "913fe88c",
+        "sha1": "d2680f92a5540e93ffda781973d6ed3fc1a0b9f0"
+      },
+      {
+        "name": "abzsofcooking03wing_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "abzsofcooking03wing_xisbn.json",
+        "mtime": "1454314384",
+        "size": "337",
+        "md5": "cabb28358e1e273bcceec93ab86f95f8",
+        "crc32": "9869512f",
+        "sha1": "be6865ce9f91e992a06dd4c28ddf78d69f739bbc",
+        "private": "true"
+      },
+      {
+        "name": "abzsofcooking03wing_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1278696273",
+        "size": "853",
+        "md5": "aa024ad374d1e6fe0d9809d2d81aedf5",
+        "crc32": "5b844100",
+        "sha1": "b6c77784a6142a56325740f31982a5d34e9afdfb"
+      },
+      {
+        "name": "abzsofcooking03wing_meta.sqlite",
+        "source": "original",
+        "mtime": "1464302132",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "2b95a177b3e3ac1d51184c96bd9e26d7",
+        "crc32": "e7306a84",
+        "sha1": "93798cb7d5517f41d4e1414c43d6518ebd16e6a8"
+      },
+      {
+        "name": "abzsofcooking03wing_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1754543392",
+        "size": "2981",
+        "md5": "a536676cc16bf7eb2b78d5561b9323fb",
+        "crc32": "6923152a",
+        "sha1": "7c9c3984105a2c6e807b65620dfac89fd853df92"
+      },
+      {
+        "name": "abzsofcooking03wing_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1278696273",
+        "size": "728",
+        "md5": "acab59ecdcc7418bf01c2df32e2f77f5",
+        "crc32": "a5e08ff1",
+        "sha1": "88f28ec4b54781c280e57345d3fdd037545a7f5a"
+      },
+      {
+        "name": "abzsofcooking03wing_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1327050534",
+        "size": "59084800",
+        "md5": "1a4d740b6baada76d4638111f940697b",
+        "crc32": "a7125f11",
+        "sha1": "13fa389822f379e4525a0ee84cac21ac994b3f71",
+        "private": "true",
+        "filecount": "70"
+      },
+      {
+        "name": "abzsofcooking03wing_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "85",
+        "format": "Page Numbers JSON",
+        "original": "abzsofcooking03wing_hocr.html",
+        "mtime": "1714067816",
+        "size": "11669",
+        "md5": "632c21ed56b7ff38447b3ebf56c853b0",
+        "crc32": "c6c6b998",
+        "sha1": "4ec2ea205bea4f55d764482e2c089c96ea9795e9",
+        "private": "true"
+      },
+      {
+        "name": "abzsofcooking03wing_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1658163615",
+        "size": "70274",
+        "md5": "010e880484a94264babd550b0c0a1dcc",
+        "crc32": "887d1075",
+        "sha1": "6b29bff648c805b27b5b317f5d679207cb013b62"
+      },
+      {
+        "name": "abzsofcooking03wing_xisbn.json",
+        "source": "original",
+        "mtime": "1454010653",
+        "size": "351",
+        "md5": "9436d3315c3165ac31c26da07bea641f",
+        "crc32": "484f47f1",
+        "sha1": "de243af37d23a1d0dac0bb5904332e0a80977ece",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1754543392,
+    "item_size": 176727976,
+    "metadata": {
+      "title": "ABZ's of cooking",
+      "volume": "3",
+      "creator": "Wing, Lucy",
+      "subject": "Cookery",
+      "description": "Includes index",
+      "publisher": "Milwaukee, WI : Ideals Pub. Corp.",
+      "date": "1982-01-01",
+      "language": "eng",
+      "isbn": "0824990013",
+      "page-progression": "lr",
+      "boxid": "IA121113",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-07-09 17:24:33",
+      "updater": "Sanderia",
+      "identifier": "abzsofcooking03wing",
+      "uploader": "sanderia@archive.org",
+      "addeddate": "2010-07-09 17:24:35",
+      "publicdate": "2010-07-09 17:24:44",
+      "scanner": "scribe2.shenzhen.archive.org",
+      "filesxml": [
+        "Tue Oct 25 1:24:05 UTC 2011",
+        "Tue Apr 2 20:39:00 UTC 2024"
+      ],
+      "repub_seconds": "1998115",
+      "ppi": "386",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-roy@archive.org",
+      "scandate": "20120120090853",
+      "republisher": "scanner-shenzhen-leo@archive.org",
+      "imagecount": "70",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/abzsofcooking03wing",
+      "identifier-ark": "ark:/13960/t85h8kc54",
+      "ocr": "ABBYY FineReader 8.0",
+      "external-identifier": [
+        "urn:acs6:abzsofcooking03wing:pdf:986e9679-922f-438f-af2c-483011096362",
+        "urn:acs6:abzsofcooking03wing:epub:7310dbdf-2d77-4f4c-b7f2-c2de3bfb5ca2",
+        "urn:oclc:record:1023799549",
+        "urn:lcp:abzsofcooking03wing:lcpdf:b6694a01-bc44-4866-a76b-5647e1a81f4f",
+        "urn:lcp:abzsofcooking03wing:epub:31b2219d-f901-4ebf-9ea2-b3e6c4f97c1c"
+      ],
+      "scanfee": "150",
+      "donor": "alibris",
+      "sponsordate": "not to be invoiced-past billing period",
+      "city": "Milwaukee, Wis.",
+      "oclc-id": [
+        "864453430",
+        "9557990"
+      ],
+      "lccn": "83102881",
+      "backup_location": "ia903605_29",
+      "republisher_operator": "scanner-shenzhen-leo@archive.org",
+      "openlibrary_edition": "OL3199092M",
+      "openlibrary_work": "OL15158592W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "85",
+      "pdf_module_version": "0.0.18",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ]
+    },
+    "server": "ia800208.us.archive.org",
+    "uniq": 1115923043,
+    "workable_servers": [
+      "ia800208.us.archive.org",
+      "ia600208.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/864453430?referer=xid"
+          ],
+          "publisher": "Ideals",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "83102881"
+          ],
+          "lang": "eng",
+          "city": "Milwaukee, Wis.",
+          "author": "edited by Lucy Wing with the Family circle food department.",
+          "year": "1982",
+          "isbn": [
+            "0824990013"
+          ],
+          "title": "ABZ's of cooking.",
+          "oclcnum": [
+            "864453430",
+            "9557990"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Wing, Lucy",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Milwaukee"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

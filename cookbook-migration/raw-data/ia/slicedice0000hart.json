@@ -1,0 +1,500 @@
+{
+  "source": "internet_archive",
+  "identifier": "slicedice0000hart",
+  "title": "Slice and dice",
+  "creator": "Hart, Ellen",
+  "year": 2000,
+  "subject": [
+    "Greenway, Sophie (Fictitious character) -- Fiction",
+    "Caterers and catering -- Fiction",
+    "Women in the food industry -- Minnesota -- Minneapolis -- Fiction",
+    "Detective and mystery stories",
+    "Caterers and catering",
+    "Greenway, Sophie (Fictitious character)",
+    "Women in the food industry",
+    "Minneapolis Metropolitan Area (Minn.) -- Fiction",
+    "Minnesota -- Minneapolis",
+    "Minnesota -- Minneapolis Metropolitan Area"
+  ],
+  "description": [
+    "345 pages ; 18 cm",
+    "Cooking queen Connie Buckridge's plans for a culinary empire and cooking academy in Minnesota are threatened by investigative writer Marie Damontraville, pursuing an anonymous online tip, and by the murder of a cooking colleague of food critic Sophie Greenway, a killing with ties to a forty-year-old secret",
+    "\"Fawcett books.\""
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/slicedice0000hart"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/slicedice0000hart"
+        }
+      ]
+    },
+    "created": 1758558600,
+    "d1": "ia902304.us.archive.org",
+    "d2": "ia802304.us.archive.org",
+    "dir": "/9/items/slicedice0000hart",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661105596",
+        "size": "26946",
+        "md5": "6de48efc137fc0c7bfb5137c54a44339",
+        "crc32": "680f4014",
+        "sha1": "2201a71f64d98d168fdd476362a2ba991d94d778",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/slicedice0000hart_iabdash_2018-11-0223:04:58.log",
+        "source": "original",
+        "mtime": "1541171101",
+        "size": "668",
+        "md5": "472307aeeaadafb9bf38858dd8357e40",
+        "crc32": "3db4edad",
+        "sha1": "af71333c0ca2b97bd4f1b2e619d452ad12c6e8e3",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/slicedice0000hart_scanning_2018-11-0223:04:53.log",
+        "source": "original",
+        "mtime": "1541171096",
+        "size": "1125086",
+        "md5": "ee9fab02627e0696675545150da98fb4",
+        "crc32": "6a99f2f7",
+        "sha1": "79aee8fb36dec4b9d126ef05bd9ea1878c4f668e",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "slicedice0000hart.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "slicedice0000hart_hocr.html",
+        "mtime": "1758342714",
+        "size": "5372283",
+        "private": "true",
+        "md5": "1c3fa20646acff3d19a93a5bc6060ed0",
+        "crc32": "54be1363",
+        "sha1": "99dd6ec27c2214e52e6ae5aa14f0e5069b0a6b9f"
+      },
+      {
+        "name": "slicedice0000hart.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "slicedice0000hart.pdf",
+        "mtime": "1758342351",
+        "size": "19393967",
+        "md5": "9fb6b31b5198c42fe86ee075c624f82d",
+        "crc32": "805a3607",
+        "sha1": "44acf892cde1d7df8983e5b14121c03181b62c5d"
+      },
+      {
+        "name": "slicedice0000hart.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "slicedice0000hart_page_numbers.json",
+        "mtime": "1723909627",
+        "size": "18580287",
+        "md5": "9dc265ded6efbfa3057181df4ed4e40a",
+        "crc32": "3e7167da",
+        "sha1": "4570051ee124489aaa870a6c4021433ea2514b0d",
+        "private": "true"
+      },
+      {
+        "name": "slicedice0000hart_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "slicedice0000hart_jp2.zip",
+        "mtime": "1541787696",
+        "size": "9449205",
+        "md5": "aae9f61f73207b54752ce2cbd46c2270",
+        "crc32": "b206d4b0",
+        "sha1": "bcd928c5ec28bca1a32e2e33d4f93f10fc4e93f0",
+        "private": "true"
+      },
+      {
+        "name": "slicedice0000hart_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "slicedice0000hart_abbyy.gz",
+        "mtime": "1661105366",
+        "size": "8435335",
+        "md5": "d28f95c430537b4d082b5739f932a70d",
+        "crc32": "9200ffba",
+        "sha1": "2a97c147a268ef62626a761884b229df666a27d2",
+        "private": "true"
+      },
+      {
+        "name": "slicedice0000hart_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "slicedice0000hart_scandata.xml",
+        "mtime": "1671284604",
+        "size": "759",
+        "md5": "d44d5e952ca18d4cba01cc28e0ab579f",
+        "crc32": "4c4807e8",
+        "sha1": "4910e6b48e3b3bbc3674e9ab80c4568efcac7522",
+        "private": "true"
+      },
+      {
+        "name": "slicedice0000hart_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1661105290",
+        "size": "2531",
+        "md5": "e2f3e6991fb5c0ad5ae98cbdcea35943",
+        "crc32": "9efdc72c",
+        "sha1": "880e5de50518c9c9fa586d494fdb179714db9f5d"
+      },
+      {
+        "name": "slicedice0000hart_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "slicedice0000hart_djvu.xml",
+        "mtime": "1661105589",
+        "size": "808836",
+        "md5": "be2e0a8288fe85fbd3d36f7dd401fb64",
+        "crc32": "a34cb200",
+        "sha1": "b7590e18165701c95e841dcd9c404311e0703a5b",
+        "private": "true"
+      },
+      {
+        "name": "slicedice0000hart_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "slicedice0000hart_hocr.html",
+        "mtime": "1661105469",
+        "size": "9688048",
+        "md5": "5dcc34735b73575d18d3d15bc67db8ef",
+        "crc32": "7227d352",
+        "sha1": "acd88b3e845afe0e28fb0566762e6cb96a571005",
+        "private": "true"
+      },
+      {
+        "name": "slicedice0000hart_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "slicedice0000hart_abbyy.gz",
+        "mtime": "1541790553",
+        "size": "2198922",
+        "md5": "d41520f160662f15c10f68d7853b0863",
+        "crc32": "6ed1e2e9",
+        "sha1": "cc729368aa97a8ba301b2028d7eb7e3426a9b419"
+      },
+      {
+        "name": "slicedice0000hart_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "slicedice0000hart.pdf",
+        "mtime": "1723910389",
+        "size": "18401915",
+        "md5": "63043b7522cbe615c36f5a02783ab0e2",
+        "crc32": "bb2c485d",
+        "sha1": "cf00d0bbc396f58e1854a0f5b259bef66f75457e"
+      },
+      {
+        "name": "slicedice0000hart_events.json",
+        "source": "original",
+        "mtime": "1541780184",
+        "size": "50",
+        "md5": "10d709db1ed6bde4b299ffe61e5a8341",
+        "crc32": "8a910d3a",
+        "sha1": "e3fc65b5ae4c70958061441131d43610cf777a6c",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "slicedice0000hart_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "d1fd3c332b21c582873e9e163aed7c3b",
+        "summation": "md5"
+      },
+      {
+        "name": "slicedice0000hart_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "slicedice0000hart_chocr.html.gz",
+        "mtime": "1661105445",
+        "size": "19370646",
+        "md5": "d9cd45bdfc4105f8638ec30e0c13869f",
+        "crc32": "18eb2101",
+        "sha1": "f327fc9786fa71a4d88af20a8e376555b5251f88",
+        "private": "true"
+      },
+      {
+        "name": "slicedice0000hart_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "slicedice0000hart_hocr.html",
+        "mtime": "1661105482",
+        "size": "4483",
+        "md5": "da235ef46e70878b6500e3159fd8a222",
+        "crc32": "4c55c70e",
+        "sha1": "8e144cec4c9c2ed052157a7c907e8aff1a4ffe9c",
+        "private": "true"
+      },
+      {
+        "name": "slicedice0000hart_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "488",
+        "word_conf_11_20": "113",
+        "word_conf_21_30": "294",
+        "word_conf_31_40": "435",
+        "word_conf_41_50": "982",
+        "word_conf_51_60": "2203",
+        "word_conf_61_70": "6618",
+        "word_conf_71_80": "17216",
+        "word_conf_81_90": "31379",
+        "word_conf_91_100": "62599",
+        "format": "OCR Search Text",
+        "original": "slicedice0000hart_hocr.html",
+        "mtime": "1661105554",
+        "size": "269967",
+        "md5": "9cb2896e2923d0acead91a7d883bbd31",
+        "crc32": "93acf187",
+        "sha1": "f41fd671e069c6da696e8a0cdd289e2151e83756",
+        "private": "true"
+      },
+      {
+        "name": "slicedice0000hart_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "slicedice0000hart_orig_jp2.tar",
+        "mtime": "1541786264",
+        "size": "263830600",
+        "md5": "10ea880537198e1f96f9376e33b8c76c",
+        "crc32": "a9fe63a5",
+        "sha1": "61adceafbd3bdbf1f23b2150b1c119b598771546",
+        "private": "true",
+        "filecount": "374"
+      },
+      {
+        "name": "slicedice0000hart_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "slicedice0000hart.epub",
+        "mtime": "1758343230",
+        "size": "5421666",
+        "md5": "36a87d81012e65e6eda099c26480bc1f",
+        "crc32": "52295f51",
+        "sha1": "c513135ceb99f02255f40e3dbbaf34d9ca978a31"
+      },
+      {
+        "name": "slicedice0000hart_loans.json",
+        "source": "original",
+        "mtime": "1594462642",
+        "size": "1324",
+        "format": "JSON",
+        "private": "true",
+        "md5": "9f6d4df4bfd3727992637277232e369a",
+        "crc32": "0b869c5c",
+        "sha1": "77cf4b6246890a7a39b9477bc64ba5fd1d85df7f"
+      },
+      {
+        "name": "slicedice0000hart_marc.xml",
+        "source": "original",
+        "mtime": "1661105290",
+        "size": "8903",
+        "format": "MARC",
+        "md5": "bb7bff14ac797adae6c6d9d0fb3b5fca",
+        "crc32": "ce561979",
+        "sha1": "786d3b07aade7a0c7d94b059904f2a7337f821fc"
+      },
+      {
+        "name": "slicedice0000hart_meta.mrc",
+        "source": "original",
+        "mtime": "1541171113",
+        "size": "2872",
+        "md5": "9ca0abd572f4409456e98f997815531c",
+        "crc32": "f0556027",
+        "sha1": "c39f715a5af61540d82703e408ad52d34885226b",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "slicedice0000hart_meta.sqlite",
+        "source": "original",
+        "mtime": "1541780247",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "a6a45b502f4a7b8f6a0ca5853382ee96",
+        "crc32": "bbf6bb43",
+        "sha1": "9a290f39eb50becd150b7a8281c5c25b3112cf2c"
+      },
+      {
+        "name": "slicedice0000hart_meta.xml",
+        "source": "original",
+        "mtime": "1758343230",
+        "size": "3868",
+        "format": "Metadata",
+        "md5": "21e62c93120498957739144d313a5241",
+        "crc32": "2a586175",
+        "sha1": "86d85365b4487d7fb77053e5f5c6fd52bb3d10ee"
+      },
+      {
+        "name": "slicedice0000hart_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1541780246",
+        "size": "895784960",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "086901e02d39b44c155c5d2f4c0b39ba",
+        "crc32": "17e2e7f0",
+        "sha1": "97642c87f225d243b1fee7c15dbacbb074e4208a",
+        "filecount": "374"
+      },
+      {
+        "name": "slicedice0000hart_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "97",
+        "format": "Page Numbers JSON",
+        "original": "slicedice0000hart_hocr.html",
+        "mtime": "1723909626",
+        "size": "62495",
+        "md5": "91e88d0312fe13b2e3f2e0763ae1770b",
+        "crc32": "ed5c49ab",
+        "sha1": "9ee5a68fad152c6b269a35b7a151ddf1f2115c13",
+        "private": "true"
+      },
+      {
+        "name": "slicedice0000hart_scandata.xml",
+        "source": "original",
+        "mtime": "1671284604",
+        "size": "383678",
+        "format": "Scandata",
+        "md5": "02381062d72828592480ee5e470e474d",
+        "crc32": "fe7d949f",
+        "sha1": "886ed3150861612b18283b44b02d15af451cd78e"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1758343230,
+    "item_size": 1278647708,
+    "metadata": {
+      "identifier": "slicedice0000hart",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Hart, Ellen",
+      "creator-alt-script": "None",
+      "date": "2000-01-01",
+      "description": [
+        "345 pages ; 18 cm",
+        "Cooking queen Connie Buckridge's plans for a culinary empire and cooking academy in Minnesota are threatened by investigative writer Marie Damontraville, pursuing an anonymous online tip, and by the murder of a cooking colleague of food critic Sophie Greenway, a killing with ties to a forty-year-old secret",
+        "\"Fawcett books.\""
+      ],
+      "isbn": [
+        "0345421531",
+        "9780345421531"
+      ],
+      "language": "eng",
+      "lccn": "2001575595",
+      "mediatype": "texts",
+      "operator": "associate-suiwa-cheung@archive.org",
+      "ppi": "300",
+      "printer": "DYMO_LabelWriter_450_Turbo",
+      "publisher": "New York : Ballantine Books",
+      "repub_state": "22",
+      "scanner": "ttscribe18.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "subject": [
+        "Greenway, Sophie (Fictitious character) -- Fiction",
+        "Caterers and catering -- Fiction",
+        "Women in the food industry -- Minnesota -- Minneapolis -- Fiction",
+        "Detective and mystery stories",
+        "Caterers and catering",
+        "Detective and mystery stories",
+        "Greenway, Sophie (Fictitious character)",
+        "Women in the food industry",
+        "Minneapolis Metropolitan Area (Minn.) -- Fiction",
+        "Minnesota -- Minneapolis",
+        "Minnesota -- Minneapolis Metropolitan Area"
+      ],
+      "title": "Slice and dice ",
+      "title-alt-script": "None",
+      "tts_version": "v1.61-final",
+      "uploader": "ttscribe18.hongkong@archive.org",
+      "addeddate": "2018-11-02 15:04:41",
+      "publicdate": "2018-11-02 15:05:21",
+      "imagecount": "374",
+      "scandate": "20181102161128",
+      "republisher_operator": "republisher4.dhaka@archive.org",
+      "republisher_date": "20181109221602",
+      "republisher_time": "583",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/slicedice0000hart",
+      "identifier-ark": "ark:/13960/t0dv8ws07",
+      "bookplateleaf": "0010",
+      "external-identifier": [
+        "urn:acs6:slicedice0000hart:epub:5d069806-6c03-436f-a474-35c9099f4fd4",
+        "urn:acs6:slicedice0000hart:pdf:146bedb2-6880-4951-b525-d0210ebc9818",
+        "urn:lcp:slicedice0000hart:lcpdf:3d18532b-c585-4b59-a967-51e197e62314",
+        "urn:lcp:slicedice0000hart:epub:e166079f-ed57-4411-b176-9de8e3378d76"
+      ],
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20181109192828[/date]",
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "openlibrary_edition": "OL3550371M",
+      "openlibrary_work": "OL82345W",
+      "boxid": "IA1399714",
+      "sponsordate": "20181130",
+      "access-restricted-item": "true",
+      "backup_location": "ia906803_25",
+      "oclc-id": [
+        "44995771",
+        "656834822"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "97",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia802304.us.archive.org",
+    "uniq": 1649685939,
+    "workable_servers": [
+      "ia802304.us.archive.org",
+      "ia902304.us.archive.org"
+    ]
+  },
+  "institution": "Hart, Ellen",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Minnesota",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Minnesota; Digitized scan available"
+}

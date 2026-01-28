@@ -1,0 +1,33 @@
+{
+  "source": "dpla",
+  "id": "ee0064adb4af91ddd82d750d9850d22a",
+  "identifier": "ee0064adb4af91ddd82d750d9850d22a",
+  "title": "Our favorite recipes",
+  "subject": [
+    "Cooking--Wisconsin",
+    "Cooking, American"
+  ],
+  "spatial": [
+    "Wisconsin"
+  ],
+  "description": "Includes index.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/102384220",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "data": {
+    "object": "https://books.google.com/books/content?id=FA30p4BxhOcC&printsec=frontcover&img=1&zoom=5",
+    "isShownAt": "http://catalog.hathitrust.org/Record/102384220"
+  },
+  "location": {
+    "state": "Wisconsin"
+  },
+  "curation": {
+    "score": 4,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Wisconsin; Digitized scan available"
+}

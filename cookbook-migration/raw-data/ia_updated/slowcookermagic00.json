@@ -1,0 +1,518 @@
+{
+  "source": "internet_archive",
+  "identifier": "slowcookermagic00",
+  "title": "Slow cooker magic",
+  "creator": null,
+  "year": 2004,
+  "subject": "Electric cooking, Slow",
+  "description": "Cover title",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/slowcookermagic00"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/slowcookermagic00"
+        }
+      ]
+    },
+    "created": 1758557093,
+    "d1": "ia600701.us.archive.org",
+    "d2": "ia800701.us.archive.org",
+    "dir": "/20/items/slowcookermagic00",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661106105",
+        "size": "21275",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "186543d43fa86696634d380fd18ff3b4",
+        "crc32": "98509bab",
+        "sha1": "16b65ac72fd57103f8a2979d40abab7680a2c41e"
+      },
+      {
+        "name": "slowcookermagic00.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "slowcookermagic00_hocr.html",
+        "mtime": "1758343240",
+        "size": "8175345",
+        "private": "true",
+        "md5": "91aa89643358db686261d1b63be63476",
+        "crc32": "6c3c7573",
+        "sha1": "d2a88fe32809c01409fb6c8666f8be5b028f1fd5"
+      },
+      {
+        "name": "slowcookermagic00.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "slowcookermagic00_jp2.zip",
+        "mtime": "1348523432",
+        "size": "259610",
+        "md5": "da0211260603f5cb0b2d6c9c1a2990c9",
+        "crc32": "7af8dbe8",
+        "sha1": "698e93e5e595739d5b0e7285a68c94f9d3c98821"
+      },
+      {
+        "name": "slowcookermagic00.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "slowcookermagic00.pdf",
+        "mtime": "1758343101",
+        "size": "4554922",
+        "md5": "0e27786299758273fd3c01a01f4d35bb",
+        "crc32": "f2d1e9fc",
+        "sha1": "743136fb7f8c5807f9872865355ad97c4ded87d9"
+      },
+      {
+        "name": "slowcookermagic00.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "slowcookermagic00_page_numbers.json",
+        "mtime": "1719633399",
+        "size": "4221616",
+        "md5": "ba909738c6671b977d3276057a20f37b",
+        "crc32": "eec4d2af",
+        "sha1": "c6b89c5828e0e82f8f673eeed1bb9b8ed9d2eb7b",
+        "private": "true"
+      },
+      {
+        "name": "slowcookermagic00.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1340044402",
+        "size": "449903",
+        "md5": "bc1b071e89e24d8bf8255e3c034d31a3",
+        "crc32": "efaecf71",
+        "sha1": "5bbed6551d962b3fd9d59cb1d19eb45bbcacce03"
+      },
+      {
+        "name": "slowcookermagic00.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "slowcookermagic00.warc.gz",
+        "mtime": "1348522992",
+        "size": "5641",
+        "md5": "278aebdb4b1a9ce5fbc9b810e4a1c55d",
+        "crc32": "693c7284",
+        "sha1": "610cce100d9f7274b46b08fabfff63703d1b49be",
+        "private": "true"
+      },
+      {
+        "name": "slowcookermagic00_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "slowcookermagic00_jp2.zip",
+        "mtime": "1348523736",
+        "size": "300098",
+        "md5": "d20bdbb28d96be0144c905b40d0cebe8",
+        "crc32": "e6223ee1",
+        "sha1": "4622633024286c8bf6f89ca8058a2cd705bf8d7d",
+        "private": "true"
+      },
+      {
+        "name": "slowcookermagic00_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "slowcookermagic00_abbyy.gz",
+        "mtime": "1661105607",
+        "size": "249615",
+        "md5": "5ab52954d8db458fccd0ef724a7518d3",
+        "crc32": "3e6e3fe1",
+        "sha1": "8c336ed6cc9ae25ec7ca35b54286a341dd0011d6",
+        "private": "true"
+      },
+      {
+        "name": "slowcookermagic00_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "slowcookermagic00_scandata.xml",
+        "mtime": "1671286323",
+        "size": "759",
+        "md5": "9c5a8acf167e4e5b17f003cf32958f3f",
+        "crc32": "5ae0880a",
+        "sha1": "c94ff40e21bb755ff483949288d1cd641b624fb6",
+        "private": "true"
+      },
+      {
+        "name": "slowcookermagic00_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1454744874",
+        "size": "602",
+        "md5": "f2017fdeec6abf2baa5e9e53ece839a0",
+        "crc32": "85c37c4b",
+        "sha1": "f024725f300a9c36b66be24f5eb84c6aa16dc0bd"
+      },
+      {
+        "name": "slowcookermagic00_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "slowcookermagic00_djvu.xml",
+        "mtime": "1719633481",
+        "size": "22249",
+        "md5": "88a293638ac296e74ac82ba2fbdd9801",
+        "crc32": "147efe68",
+        "sha1": "1ca084f4f5598e1bc18e10e9d5e81f60c30f89a5",
+        "private": "true"
+      },
+      {
+        "name": "slowcookermagic00_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "slowcookermagic00_hocr.html",
+        "mtime": "1719631990",
+        "size": "281060",
+        "md5": "e09dcaa3451d2577982124d7fedfd074",
+        "crc32": "cb79dc14",
+        "sha1": "46c97979bcd9e31721cc39125ab6bc1a2b0ad1dd",
+        "private": "true"
+      },
+      {
+        "name": "slowcookermagic00_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "slowcookermagic00_abbyy.gz",
+        "mtime": "1530252940",
+        "size": "9660372",
+        "md5": "981faeb908236c15a0d2326956e2784d",
+        "crc32": "3b949e4f",
+        "sha1": "cb16749bc12ed27ca1796e1dbaeb9a3479764cf1"
+      },
+      {
+        "name": "slowcookermagic00_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "slowcookermagic00.pdf",
+        "mtime": "1719633485",
+        "size": "4213512",
+        "md5": "0d7ea49d78d18226324c9837bb4c9e91",
+        "crc32": "d62965c5",
+        "sha1": "1ebf48d1b2de2e066501ac0d0ecb2469722e9441"
+      },
+      {
+        "name": "slowcookermagic00_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "488ebaf3996b0685e0404f270c789a61",
+        "summation": "md5"
+      },
+      {
+        "name": "slowcookermagic00_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "slowcookermagic00_chocr.html.gz",
+        "mtime": "1661106001",
+        "size": "553578",
+        "md5": "9470da2691188977b8a815601d657bb5",
+        "crc32": "14793005",
+        "sha1": "f7cbcdc278ac9fdae1d473d7f2b0bc067939286a",
+        "private": "true"
+      },
+      {
+        "name": "slowcookermagic00_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "slowcookermagic00_hocr.html",
+        "mtime": "1661106047",
+        "size": "354",
+        "md5": "dc86a9462342f102c6c9ded2c32eefd6",
+        "crc32": "9c05076a",
+        "sha1": "ea9fb9e6a47978e586d012900a58db3d5077e539",
+        "private": "true"
+      },
+      {
+        "name": "slowcookermagic00_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "252",
+        "word_conf_11_20": "204",
+        "word_conf_21_30": "520",
+        "word_conf_31_40": "471",
+        "word_conf_41_50": "613",
+        "word_conf_51_60": "563",
+        "word_conf_61_70": "321",
+        "word_conf_71_80": "115",
+        "word_conf_81_90": "82",
+        "word_conf_91_100": "106",
+        "format": "OCR Search Text",
+        "original": "slowcookermagic00_hocr.html",
+        "mtime": "1661106081",
+        "size": "6689",
+        "md5": "46db1362d6863f699747acefdd0a419c",
+        "crc32": "c2a61e89",
+        "sha1": "01d54c6b321116f0bd68ad15d24387ea799fe828",
+        "private": "true"
+      },
+      {
+        "name": "slowcookermagic00_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "slowcookermagic00_orig_jp2.tar",
+        "mtime": "1348523393",
+        "size": "14870039",
+        "md5": "674c646f9a1830d07c3e32f5ddffcbb6",
+        "crc32": "f4e24515",
+        "sha1": "f454ba1dbb27b8185bbbee4a0f15df3acc5b623f",
+        "private": "true",
+        "filecount": "34"
+      },
+      {
+        "name": "slowcookermagic00_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "slowcookermagic00.epub",
+        "mtime": "1758343444",
+        "size": "8228924",
+        "md5": "2138793f6bc240880d14050f076d23a4",
+        "crc32": "f8f6abea",
+        "sha1": "04f3b1b500de283fda1b0a9e53c865bfe863551c"
+      },
+      {
+        "name": "slowcookermagic00_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1454744874",
+        "size": "2891",
+        "md5": "ce1116ee01002de818887fb8f3d915c8",
+        "crc32": "d3b09a2f",
+        "sha1": "b87b81842a56754f33a89b15fb907c58b5d75284"
+      },
+      {
+        "name": "slowcookermagic00_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "slowcookermagic00_xisbn.json",
+        "mtime": "1454744876",
+        "size": "238",
+        "md5": "159200a30c5fab3d3b73d09be5a2ff6d",
+        "crc32": "f64755c2",
+        "sha1": "2d37e079863d31b0cbe72ceda24031c34969d96f",
+        "private": "true"
+      },
+      {
+        "name": "slowcookermagic00_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454744874",
+        "size": "806",
+        "md5": "45906189860138aff6a6dc10b747a983",
+        "crc32": "524bf6ad",
+        "sha1": "52ec5373f3b08640ad187dfe7f35df8b149fcbe6"
+      },
+      {
+        "name": "slowcookermagic00_meta.sqlite",
+        "source": "original",
+        "mtime": "1467733351",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "9f363aec41b42f9dc6dbdfe964443e5b",
+        "crc32": "9c1623b7",
+        "sha1": "930c4c88aea03b9e7d5c9ccf6c25479ee948eeb2"
+      },
+      {
+        "name": "slowcookermagic00_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1758343444",
+        "size": "3130",
+        "md5": "6142913cff6869a7994a671fdec56449",
+        "crc32": "5741520e",
+        "sha1": "54409da0aec4e93d988d47e2c91b7997d67a8f42"
+      },
+      {
+        "name": "slowcookermagic00_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1340044402",
+        "size": "291",
+        "md5": "0824adf3feb7dc233794c0885e59a2cf",
+        "crc32": "7351b3d2",
+        "sha1": "9c3a22f0ce82788dfcff7eef5b8a07ee92c442f9"
+      },
+      {
+        "name": "slowcookermagic00_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1347542207",
+        "size": "26050560",
+        "md5": "b099642db1f7304e288dc2e89e01a02c",
+        "crc32": "a1a5870c",
+        "sha1": "bb40a2efbede4d34e9563161a104955deed7159e",
+        "private": "true",
+        "filecount": "34"
+      },
+      {
+        "name": "slowcookermagic00_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "slowcookermagic00_hocr.html",
+        "mtime": "1719632196",
+        "size": "5553",
+        "md5": "6758e58e10b961a62818449444c22829",
+        "crc32": "06f103ff",
+        "sha1": "3a8bbd61179ffd1135fe94d58808ff6e9c1fd1a9",
+        "private": "true"
+      },
+      {
+        "name": "slowcookermagic00_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1671286323",
+        "size": "43825",
+        "md5": "6466d3b9c2214ac4925b9e98892f8c89",
+        "crc32": "21f3666c",
+        "sha1": "b70405f4d6e88e797c7a7dd1ccba55b58d6f18fa"
+      },
+      {
+        "name": "slowcookermagic00_xisbn.json",
+        "source": "original",
+        "mtime": "1454740765",
+        "size": "251",
+        "md5": "e03b45ab341a6a959c704ff6f4ade125",
+        "crc32": "efc91261",
+        "sha1": "57956900262dd59b14fad4ba9cbf84adc1d10fcb",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1758343444,
+    "item_size": 82189852,
+    "metadata": {
+      "openlibrary": "OL11715770M",
+      "isbn": [
+        "1412720680",
+        "9781412720687"
+      ],
+      "title": "Slow cooker magic",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-06-18 18:33:18",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "f0133",
+      "boxid": "IA156910",
+      "language": "eng",
+      "identifier": "slowcookermagic00",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2012-06-18 18:33:24",
+      "publicdate": "2012-06-18 18:33:29",
+      "scanner": "scribe21.shenzhen.archive.org",
+      "notes": "no page number in the book",
+      "repub_seconds": "61",
+      "ppi": "300",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-ling@archive.org",
+      "scandate": "20120906225115",
+      "republisher": "scanner-shenzhen-thomas@archive.org",
+      "imagecount": "34",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/slowcookermagic00",
+      "identifier-ark": "ark:/13960/t9b57th88",
+      "scanfee": "150",
+      "donor": "alibris",
+      "sponsordate": "not to be invoiced-past billing period",
+      "publisher": "Lincolnwood, IL : LW Press",
+      "date": "2004-01-01",
+      "subject": [
+        "Electric cooking, Slow",
+        "Electric cooking, Slow"
+      ],
+      "description": "Cover title",
+      "city": "Lincolnwood, IL",
+      "oclc-id": "57237442",
+      "backup_location": "ia903805_10",
+      "republisher_operator": "scanner-shenzhen-thomas@archive.org",
+      "republisher_date": "20120913131553",
+      "external-identifier": [
+        "urn:acs6:slowcookermagic00:pdf:c452512e-54f1-48d9-9062-b6c4675a23ce",
+        "urn:acs6:slowcookermagic00:epub:4d0bca97-b509-4c38-9e37-78f0a5f960fe",
+        "urn:oclc:record:1151396838",
+        "urn:lcp:slowcookermagic00:lcpdf:7f99db97-1aaa-4ea0-a49f-e12aba63ada2",
+        "urn:lcp:slowcookermagic00:epub:451d8f73-ad68-44fb-9ea8-e681e07fd97a"
+      ],
+      "openlibrary_edition": "OL11715770M",
+      "openlibrary_work": "OL18179001W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "filesxml": "Wed Apr 3 13:44:07 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia600701.us.archive.org",
+    "uniq": 623936922,
+    "workable_servers": [
+      "ia600701.us.archive.org",
+      "ia800701.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "publisher": "LW Press",
+          "url": [
+            "http://www.worldcat.org/oclc/57237442?referer=xid"
+          ],
+          "form": [
+            "BB"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "2004",
+          "isbn": [
+            "1412720680"
+          ],
+          "title": "Slow cooker magic.",
+          "oclcnum": [
+            "57237442"
+          ]
+        }
+      ]
+    }
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

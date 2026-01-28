@@ -1,0 +1,509 @@
+{
+  "source": "internet_archive",
+  "identifier": "spiceitup0000unse",
+  "title": "Spice it up!",
+  "creator": null,
+  "year": 1999,
+  "subject": [
+    "Cooking (Spices)",
+    "Spices",
+    "Cookery, International"
+  ],
+  "description": [
+    "142 p. : 27 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/spiceitup0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/spiceitup0000unse"
+        }
+      ]
+    },
+    "created": 1758556217,
+    "d1": "ia902806.us.archive.org",
+    "d2": "ia802806.us.archive.org",
+    "dir": "/22/items/spiceitup0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661117521",
+        "size": "20353",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "92403718cdebaa7def6d620a8b048bfa",
+        "crc32": "09813a1c",
+        "sha1": "502f6b05ce0ac6f68b54e6ea36021ac5b224243b"
+      },
+      {
+        "name": "logs/spiceitup0000unse_iabdash_2019-11-2000:06:53.log",
+        "source": "original",
+        "mtime": "1574179619",
+        "size": "1291",
+        "md5": "153669248fe9b5b2d9bad11a8a167116",
+        "crc32": "93321695",
+        "sha1": "71eba5ff9d21cca1eff6d53f047c68e7f6bfd7d5",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/spiceitup0000unse_scanning_2019-11-2000:07:00.log",
+        "source": "original",
+        "mtime": "1574179627",
+        "size": "462422",
+        "md5": "e174068b42bc4b70740fed8a68c3f8a5",
+        "crc32": "b7779582",
+        "sha1": "5af0b406243c064524d7287976b09fb93ca5d89a",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "spiceitup0000unse_hocr.html",
+        "mtime": "1758374962",
+        "size": "57409645",
+        "private": "true",
+        "md5": "771647c99d0f23bc823477f47856986a",
+        "crc32": "51cd0df3",
+        "sha1": "4ee4efda98bdd11f36e3bac49541d7fce1b42778"
+      },
+      {
+        "name": "spiceitup0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "spiceitup0000unse.pdf",
+        "mtime": "1758374644",
+        "size": "11202786",
+        "md5": "ce1a2dd0690969ee6011e5640c638518",
+        "crc32": "728ca171",
+        "sha1": "609856476c2ae4490e675a3c71d21925bd9a1562"
+      },
+      {
+        "name": "spiceitup0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "spiceitup0000unse_page_numbers.json",
+        "mtime": "1724362103",
+        "size": "10679499",
+        "md5": "1105556d3f67d573bfdf3142e6aa0950",
+        "crc32": "82b41fe4",
+        "sha1": "1f79baaac8d7dbdc21231d2868a87760d0b8bd3f",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "spiceitup0000unse_jp2.zip",
+        "mtime": "1574394384",
+        "size": "2345664",
+        "md5": "26fea2ce950f1457b857797184c9ae2c",
+        "crc32": "2fd080ed",
+        "sha1": "fda15fd61ce236fb07436b358856afa0823ef07e",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "spiceitup0000unse_abbyy.gz",
+        "mtime": "1661117354",
+        "size": "1980214",
+        "md5": "a70e38b56f2ccfab9e84e431be18b37e",
+        "crc32": "dd24f697",
+        "sha1": "a4b24b2fc437d7a3237123338f64e8746179de36",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "spiceitup0000unse_scandata.xml",
+        "mtime": "1671336861",
+        "size": "761",
+        "md5": "4c57058c02f7869bf98db0134af959ab",
+        "crc32": "42e006ee",
+        "sha1": "4bfa3b13100c1a6bff92248d8f9824a9a6f8fbbf",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1574389721",
+        "size": "1008",
+        "md5": "18fe70f114b4a15428457f764d414141",
+        "crc32": "386989c3",
+        "sha1": "9961c2c1221adec8acc6da605819072de6d87239"
+      },
+      {
+        "name": "spiceitup0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "spiceitup0000unse_djvu.xml",
+        "mtime": "1661117514",
+        "size": "180981",
+        "md5": "e2b11e5ffbbac6b57d1204b80689c77b",
+        "crc32": "a37a0f96",
+        "sha1": "cb13818c667a694913688ac799ef4b68001c4482",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "spiceitup0000unse_hocr.html",
+        "mtime": "1661117454",
+        "size": "2157346",
+        "md5": "9069e53bd4620ab86b4a7f1d6aaf61d3",
+        "crc32": "171293d1",
+        "sha1": "1b152e6ba71d6f1f77a190a40743a4b924b9f966",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "spiceitup0000unse_abbyy.gz",
+        "mtime": "1574395573",
+        "size": "3194560",
+        "md5": "ae5e7df28ee927ebc01e9d79018df0d0",
+        "crc32": "823fa7d7",
+        "sha1": "d5e89e253ff5b3dfc8e980e61845bb877e88cb4b"
+      },
+      {
+        "name": "spiceitup0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "spiceitup0000unse.pdf",
+        "mtime": "1724362964",
+        "size": "10599679",
+        "md5": "efc3dabb90a6a587d727739499b315e7",
+        "crc32": "248c59e5",
+        "sha1": "d2e7f18ee4bd49e3cb494cfd45f6abfd91b365b5"
+      },
+      {
+        "name": "spiceitup0000unse_events.json",
+        "source": "original",
+        "mtime": "1574389624",
+        "size": "66",
+        "md5": "93be239b1884a13185eb14e212aa5e78",
+        "crc32": "8f6a00a7",
+        "sha1": "442c1b5e10a48a482bc4cc12d762d282be7639d2",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "b341e43ff7695dd593e43fa11876e4b6",
+        "summation": "md5"
+      },
+      {
+        "name": "spiceitup0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "spiceitup0000unse_chocr.html.gz",
+        "mtime": "1661117435",
+        "size": "4434689",
+        "md5": "c43aabe5af709f4bb0eb5df9455f4496",
+        "crc32": "403b5d7a",
+        "sha1": "789d25760fbdbbb3f5751722b1a5898fa9897826",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "spiceitup0000unse_hocr.html",
+        "mtime": "1661117474",
+        "size": "1612",
+        "md5": "683afb16fe3f9fc3b67b09b823c3e1cf",
+        "crc32": "c458b23f",
+        "sha1": "1a09e81e8af2543409a31f2a9f2f18835e83f258",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "120",
+        "word_conf_11_20": "168",
+        "word_conf_21_30": "269",
+        "word_conf_31_40": "290",
+        "word_conf_41_50": "378",
+        "word_conf_51_60": "553",
+        "word_conf_61_70": "1062",
+        "word_conf_71_80": "2290",
+        "word_conf_81_90": "5589",
+        "word_conf_91_100": "14754",
+        "format": "OCR Search Text",
+        "original": "spiceitup0000unse_hocr.html",
+        "mtime": "1661117500",
+        "size": "50562",
+        "md5": "c74b3d9ea1d7e91a335357a87c6dd1e6",
+        "crc32": "9d217507",
+        "sha1": "7e0398fc811da25b945a30049127ba605c3e0e44",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "spiceitup0000unse_orig_jp2.tar",
+        "mtime": "1574393315",
+        "size": "86953699",
+        "md5": "c674b45a8ec1ce8b2540a854089fcfa5",
+        "crc32": "f2fc505c",
+        "sha1": "782b4669ccd1a86f528087f81cf89ef334b5e52b",
+        "private": "true",
+        "filecount": "154"
+      },
+      {
+        "name": "spiceitup0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "spiceitup0000unse.epub",
+        "mtime": "1758375482",
+        "size": "58184618",
+        "md5": "37baab870c493ee8299021c597907805",
+        "crc32": "95e72786",
+        "sha1": "92b4cd6f5856ce5fe45d1c7bf6693088b2f0275c"
+      },
+      {
+        "name": "spiceitup0000unse_loans.json",
+        "source": "original",
+        "mtime": "1594485122",
+        "size": "1324",
+        "format": "JSON",
+        "private": "true",
+        "md5": "85ef05643eae18a5c65658d891784eb6",
+        "crc32": "3faf422f",
+        "sha1": "8d189e24e02ff8542add37f3a01c3558b80bad85"
+      },
+      {
+        "name": "spiceitup0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1574389721",
+        "size": "2184",
+        "format": "MARC",
+        "md5": "c3764abe4773604f0ee655466c6b9508",
+        "crc32": "3741ac21",
+        "sha1": "ba8f3fd339cc5ef6d9b50b7ddecfe0d0c3d1cb12"
+      },
+      {
+        "name": "spiceitup0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1574179612",
+        "size": "651",
+        "md5": "15eabbb57b2f7bd35e9b6b05a00214c6",
+        "crc32": "db8c25c9",
+        "sha1": "01d6e760aff2b634c1c28dfa07828f801acd26ef",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "spiceitup0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1574389686",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "a5613ab3fb8ec470ed041f6cd73354ac",
+        "crc32": "005d96e7",
+        "sha1": "1a883df8fdbd05dcb85d1be53f8496d90586f4c4"
+      },
+      {
+        "name": "spiceitup0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1758375483",
+        "size": "2971",
+        "format": "Metadata",
+        "md5": "e08d7a970113e51b3b044445f4dd569e",
+        "crc32": "d9600351",
+        "sha1": "b18e6c8e4640bc94c1fe2fc1a17851316e547b0f"
+      },
+      {
+        "name": "spiceitup0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1574389685",
+        "size": "212408320",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "2859979f4424474618813d1cf1d627b5",
+        "crc32": "6105449d",
+        "sha1": "b866b3bab8762e8836f3865f6d757f891ae131a5",
+        "filecount": "154"
+      },
+      {
+        "name": "spiceitup0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "spiceitup0000unse_hocr.html",
+        "mtime": "1724362101",
+        "size": "25807",
+        "md5": "ad702ecc313bff1e2c7fca8e655ef86e",
+        "crc32": "db8c4aa5",
+        "sha1": "39b40966c18ba0e43435d757f80f0c486f3291fe",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671336861",
+        "size": "156689",
+        "format": "Scandata",
+        "md5": "08a6c3778913d6ce126bf8493f60e575",
+        "crc32": "b24f4026",
+        "sha1": "ad73162f4b8940654f9b6e531ee3a4c55ca4b78e"
+      },
+      {
+        "name": "spiceitup0000unse_slip.png",
+        "source": "original",
+        "mtime": "1574160618",
+        "size": "37766",
+        "md5": "d6a4c8f7d6a9782c3a97d728401fe53c",
+        "crc32": "d730a1ab",
+        "sha1": "d12a7313a53581589485956f6a5e518b9ece89ac",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "spiceitup0000unse_slip.png",
+        "mtime": "1574389725",
+        "size": "5233",
+        "md5": "a8f045ccd5ebb0978d24357934efdfa7",
+        "crc32": "98a6a58d",
+        "sha1": "aab4d077f1575b1d11c16f816f6f1272eaca7a6d",
+        "private": "true"
+      },
+      {
+        "name": "spiceitup0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "spiceitup0000unse_djvu.xml",
+        "mtime": "1671336574",
+        "size": "592",
+        "md5": "3a74ea4dda55b612b13d36a8611f150b",
+        "crc32": "6e550d9f",
+        "sha1": "9c50ffad6675e897cf09a933b88d3aee4dc7f7da",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1758375483,
+    "item_size": 462521424,
+    "metadata": {
+      "identifier": "spiceitup0000unse",
+      "associated-names": "Publications International, Ltd",
+      "boxid": "IA1698510",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "1999-01-01",
+      "description": [
+        "142 p. : 27 cm",
+        "Includes index"
+      ],
+      "isbn": "0785335498",
+      "language": "eng",
+      "lccn": "00689296",
+      "mediatype": "texts",
+      "old_pallet": "IA15404",
+      "openlibrary_edition": "OL11035065M",
+      "openlibrary_work": "OL18545185W",
+      "operator": "associate-gina-lanoy@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International, Ltd.",
+      "repub_state": "19",
+      "scanner": "station24.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780785335498",
+      "subject": [
+        "Cooking (Spices)",
+        "Spices",
+        "Cookery, International"
+      ],
+      "title": "Spice it up!",
+      "tts_version": "3.0-initial-170-gdf78d52",
+      "uploader": "station24.cebu@archive.org",
+      "addeddate": "2019-11-19 10:50:19",
+      "publicdate": "2019-11-19 10:50:28",
+      "access-restricted-item": "true",
+      "imagecount": "154",
+      "scandate": "20191119165921",
+      "republisher_operator": "associate-louiseviktoria-saligumba@archive.org",
+      "republisher_date": "20191122102700",
+      "republisher_time": "421",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/spiceitup0000unse",
+      "identifier-ark": "ark:/13960/t55f6wr9f",
+      "bookplateleaf": "0003",
+      "external-identifier": [
+        "urn:acs6:spiceitup0000unse:epub:0c4c9404-4d1c-4fbb-8c1d-22786748cd05",
+        "urn:acs6:spiceitup0000unse:pdf:46853feb-979a-4df4-af2b-5fc39ac4b913",
+        "urn:oclc:record:1151324597",
+        "urn:lcp:spiceitup0000unse:lcpdf:28ebe659-2c08-454a-81f6-98f0e6b39425",
+        "urn:lcp:spiceitup0000unse:epub:83fbbfca-70be-4ad4-9d85-d567b1ecc872"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191130",
+      "backup_location": "ia907006_28",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia902806.us.archive.org",
+    "uniq": 1232515511,
+    "workable_servers": [
+      "ia902806.us.archive.org",
+      "ia802806.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

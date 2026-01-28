@@ -1,0 +1,118 @@
+{
+  "source": "dpla",
+  "id": "ac9fe07fc47e2f172d1236223c9d85cf",
+  "identifier": "ac9fe07fc47e2f172d1236223c9d85cf",
+  "title": "The Palo cook book",
+  "subject": [
+    "Methodist Episcopal Church--Michigan--Palo",
+    "Methodist Episcopal Church (Palo, Mich.)",
+    "Cooking--Michigan--Palo",
+    "Palo (Mich.)--Religion"
+  ],
+  "spatial": [
+    "Palo (Mich.)",
+    "Michigan",
+    "Palo"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/003267862",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1917,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/ac9fe07fc47e2f172d1236223c9d85cf#SourceResource",
+      "creator": [
+        "Methodist Episcopal Church (Palo, Mich.)"
+      ],
+      "date": [
+        {
+          "displayDate": "[1917]"
+        }
+      ],
+      "extent": [
+        "88 p."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "(MiU)003267862",
+        "sdr-miu003267862",
+        "(OCoLC)39463648",
+        "Hathi: 003267862"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Palo, Mich., published by the Ladies Aid Society and Epworth League of the Methodist Episcopal church"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Palo (Mich.)"
+        },
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Palo"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Methodist Episcopal Church--Michigan--Palo"
+        },
+        {
+          "name": "Methodist Episcopal Church (Palo, Mich.)"
+        },
+        {
+          "name": "Cooking--Michigan--Palo"
+        },
+        {
+          "name": "Palo (Mich.)--Religion"
+        }
+      ],
+      "title": [
+        "The Palo cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1917-01-01",
+      "normalized_dates": [
+        "1917-01-01"
+      ]
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=z0PiAAAAMAAJ&printsec=frontcover&img=1&zoom=5",
+    "isShownAt": "http://catalog.hathitrust.org/Record/003267862"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Ladies Aid",
+      "Episcopal",
+      "Methodist"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church, Ladies Aid, Episcopal, Methodist; Digitized scan available"
+}

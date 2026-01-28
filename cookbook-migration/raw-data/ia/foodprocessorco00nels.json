@@ -1,0 +1,530 @@
+{
+  "source": "internet_archive",
+  "identifier": "foodprocessorco00nels",
+  "title": "Food processor cook book",
+  "creator": "Nelson, Diane",
+  "year": 1979,
+  "subject": "Food processor cookery",
+  "description": "Includes index",
+  "metadata": {
+    "created": 1758557927,
+    "d1": "ia904601.us.archive.org",
+    "d2": "ia804601.us.archive.org",
+    "dir": "/4/items/foodprocessorco00nels",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660024366",
+        "size": "23538",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "35ed0fafb1bd5c0851ed68020d3f6c44",
+        "crc32": "7b36fc0a",
+        "sha1": "d68622168157e24da2b0ff3ed82b84b5044c2020"
+      },
+      {
+        "name": "foodprocessorco00nels.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "foodprocessorco00nels_hocr.html",
+        "mtime": "1755982164",
+        "size": "14594808",
+        "private": "true",
+        "md5": "c79e8e2f37229403e80116ba4570e42c",
+        "crc32": "a5690adb",
+        "sha1": "3ea964e75221dd7122eae4d72fee85912c7f0c1e"
+      },
+      {
+        "name": "foodprocessorco00nels.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "foodprocessorco00nels_jp2.zip",
+        "md5": "b222b5db20e54586b0607606c77debb3",
+        "mtime": "1269285179",
+        "size": "278954",
+        "crc32": "d0160ed1",
+        "sha1": "5af164aa3c580215a81441e2c86fc6f35f71da76"
+      },
+      {
+        "name": "foodprocessorco00nels.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "foodprocessorco00nels.pdf",
+        "mtime": "1755981524",
+        "size": "9449166",
+        "md5": "4ea6344460fee41f93991ef45375a3f0",
+        "crc32": "adb72369",
+        "sha1": "0313da338fdec60a4d4dd3caa674eb198c8ac56d"
+      },
+      {
+        "name": "foodprocessorco00nels.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "foodprocessorco00nels_page_numbers.json",
+        "mtime": "1719511683",
+        "size": "8984928",
+        "md5": "b6061e7aa78b07e44b45a3ffb856272c",
+        "crc32": "193999f9",
+        "sha1": "67c15c44894ed50d244d25025f26648f1614d50d",
+        "private": "true"
+      },
+      {
+        "name": "foodprocessorco00nels_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "foodprocessorco00nels_jp2.zip",
+        "md5": "22e06403223e9fc61edd14c6c294cd82",
+        "mtime": "1269287943",
+        "size": "3761313",
+        "crc32": "a2855b15",
+        "sha1": "f50e2ef011f04a4f28d9b6bd08be0f22627987a0",
+        "private": "true"
+      },
+      {
+        "name": "foodprocessorco00nels_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "foodprocessorco00nels_abbyy.gz",
+        "mtime": "1660023965",
+        "size": "3104387",
+        "md5": "14b78772f49213ada4d8b41b425262ae",
+        "crc32": "eeec1851",
+        "sha1": "19cef9821b4ee026c76d2c7dee8daed8457ab06b",
+        "private": "true"
+      },
+      {
+        "name": "foodprocessorco00nels_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "foodprocessorco00nels_scandata.xml",
+        "mtime": "1670015801",
+        "size": "777",
+        "md5": "c10446d510b035abdfd178554fd4562f",
+        "crc32": "ed28eae2",
+        "sha1": "786150662cee5f618cae2affea1391aac833d796",
+        "private": "true"
+      },
+      {
+        "name": "foodprocessorco00nels_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "994eaf5db2105ca29223dd9b204c7740",
+        "mtime": "1267648123",
+        "size": "585",
+        "crc32": "497d48aa",
+        "sha1": "c33969f9ca94d32e5a8b11e05db10bfe62982c16"
+      },
+      {
+        "name": "foodprocessorco00nels_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "foodprocessorco00nels_djvu.xml",
+        "mtime": "1719511770",
+        "size": "283325",
+        "md5": "fe2e281808c136d76c459b5869ffb942",
+        "crc32": "0a7b112e",
+        "sha1": "965cee094252a37cf2ba04560aa8635b51e56303",
+        "private": "true"
+      },
+      {
+        "name": "foodprocessorco00nels_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "foodprocessorco00nels_hocr.html",
+        "mtime": "1719509591",
+        "size": "3392372",
+        "md5": "99f061294eb4b78b64bee08e5b858f71",
+        "crc32": "817ec772",
+        "sha1": "234a5b143d2f3c2f16c57ca5f142a5b4a0da06e2",
+        "private": "true"
+      },
+      {
+        "name": "foodprocessorco00nels_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "foodprocessorco00nels.pdf",
+        "mtime": "1719511773",
+        "size": "8959544",
+        "md5": "3f8501e25f29c29a0fb4ac0509f679a3",
+        "crc32": "c1b3f93f",
+        "sha1": "d26dac3f8b587e26b29a91622c8eb24f938a0588"
+      },
+      {
+        "name": "foodprocessorco00nels_extramarc.xml",
+        "source": "original",
+        "mtime": "1402191800",
+        "size": "2774",
+        "md5": "07843dc627c3851602a9570318c75975",
+        "crc32": "46f88fc1",
+        "sha1": "3b3f8ea51aa551277f0f6c6ac8e3f91656b615cc",
+        "format": "Metadata"
+      },
+      {
+        "name": "foodprocessorco00nels_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "cc1726f1251cbe0ef791632e3bf8cf39",
+        "summation": "md5"
+      },
+      {
+        "name": "foodprocessorco00nels_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "foodprocessorco00nels_chocr.html.gz",
+        "mtime": "1660024209",
+        "size": "7092645",
+        "md5": "a60c36b0ca4b78af642ad2d1737f2bcf",
+        "crc32": "1c983033",
+        "sha1": "1545cb2c8da83870ea5ca4073805698845911457",
+        "private": "true"
+      },
+      {
+        "name": "foodprocessorco00nels_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "foodprocessorco00nels_hocr.html",
+        "mtime": "1660024273",
+        "size": "1246",
+        "md5": "83a61d4f42c3b69b28e792ed63e0f1c6",
+        "crc32": "81db0455",
+        "sha1": "dcfcf8c37a46ef615e4fe6d359517bf6df18cc88",
+        "private": "true"
+      },
+      {
+        "name": "foodprocessorco00nels_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2729",
+        "word_conf_11_20": "1592",
+        "word_conf_21_30": "3070",
+        "word_conf_31_40": "3198",
+        "word_conf_41_50": "6331",
+        "word_conf_51_60": "7059",
+        "word_conf_61_70": "8326",
+        "word_conf_71_80": "4759",
+        "word_conf_81_90": "1390",
+        "word_conf_91_100": "3771",
+        "format": "OCR Search Text",
+        "original": "foodprocessorco00nels_hocr.html",
+        "mtime": "1660024338",
+        "size": "75073",
+        "md5": "fc8baeeda45b3f37b746479d599dfed7",
+        "crc32": "d05196c9",
+        "sha1": "946d93e181464460bbccf64ed88ae2b1aa34cb21",
+        "private": "true"
+      },
+      {
+        "name": "foodprocessorco00nels_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "foodprocessorco00nels_orig_jp2.tar",
+        "md5": "35f71e86649b0c842c1c15f515e637d4",
+        "mtime": "1269285059",
+        "size": "64165269",
+        "crc32": "bf7068d3",
+        "sha1": "e012a7ea9384b9dfd1518b650737641110efa90b",
+        "private": "true",
+        "filecount": "108"
+      },
+      {
+        "name": "foodprocessorco00nels_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "foodprocessorco00nels.epub",
+        "mtime": "1755982392",
+        "size": "14613564",
+        "md5": "6a4c5a786463a8718c897b11a63e0b07",
+        "crc32": "cec7116f",
+        "sha1": "ff3cab80d3479f642c0971d67b35b382766f033d"
+      },
+      {
+        "name": "foodprocessorco00nels_loans.json",
+        "source": "original",
+        "mtime": "1593701412",
+        "size": "1321",
+        "format": "JSON",
+        "private": "true",
+        "md5": "00f81a99464c1eb1bc642cf3764bbf7c",
+        "crc32": "090aaac4",
+        "sha1": "db2608ddd8d1d5798e8e3e27ea766785e7c268fc"
+      },
+      {
+        "name": "foodprocessorco00nels_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "e930c351570670c3857ad0682c4ad2e5",
+        "mtime": "1267648123",
+        "size": "3241",
+        "crc32": "70f2d83c",
+        "sha1": "e8ef10025e246ee8c3a9c59df3e120d61fbf0e00"
+      },
+      {
+        "name": "foodprocessorco00nels_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "foodprocessorco00nels_xisbn.json",
+        "mtime": "1454343939",
+        "size": "573",
+        "md5": "44c67e678c8a1ce1f432ba23bd092053",
+        "crc32": "3f006570",
+        "sha1": "bfcd6667605e9c0215d94a10fb067b3cba8383f2",
+        "private": "true"
+      },
+      {
+        "name": "foodprocessorco00nels_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "2c9279d5e53cddbb083492e9f6c60f9e",
+        "mtime": "1267648123",
+        "size": "1011",
+        "crc32": "f12c8ad9",
+        "sha1": "3144745bff8042db4eeb012540debf4f51c748be"
+      },
+      {
+        "name": "foodprocessorco00nels_meta.sqlite",
+        "source": "original",
+        "mtime": "1467417403",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "5eade783858346c3d3fd92217eb5af16",
+        "crc32": "451c09b1",
+        "sha1": "b7c2cefe1681b5039d3a055b61c4d20f28dae786"
+      },
+      {
+        "name": "foodprocessorco00nels_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1755982393",
+        "size": "3299",
+        "md5": "3f635ecb06f2b8498c972edc9d16dfa9",
+        "crc32": "5aa8da71",
+        "sha1": "168b7d48dd64acd297a5ddb2af23f39e6be97e2a"
+      },
+      {
+        "name": "foodprocessorco00nels_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "eebea5e51755f9c36561a4cc17bc3259",
+        "mtime": "1267648123",
+        "size": "397",
+        "crc32": "490b3bd",
+        "sha1": "908f1598c20d415703fa1b7af7fb580d27d596a9"
+      },
+      {
+        "name": "foodprocessorco00nels_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "d4d39a3f0d4c73831d0dd738bca80d14",
+        "mtime": "1269267242",
+        "size": "156784640",
+        "crc32": "df42eb9c",
+        "sha1": "6f48189eb243b80ebeca0d6987f961e3aee5547d",
+        "private": "true",
+        "filecount": "108"
+      },
+      {
+        "name": "foodprocessorco00nels_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "94",
+        "format": "Page Numbers JSON",
+        "original": "foodprocessorco00nels_hocr.html",
+        "mtime": "1719510104",
+        "size": "17054",
+        "md5": "3af95ab831deec171750c304678aa8d3",
+        "crc32": "c6bed780",
+        "sha1": "5aa7a74d215a8ebff3c64b28833aee495527f5ec",
+        "private": "true"
+      },
+      {
+        "name": "foodprocessorco00nels_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "e93d41dd1cc7086c2ff6ffe376ba0376",
+        "mtime": "1670015801",
+        "size": "56242",
+        "crc32": "ed7a9c24",
+        "sha1": "a93cbd964604b52de5cb1f5f2afdb142eaafe765"
+      },
+      {
+        "name": "foodprocessorco00nels_xisbn.json",
+        "source": "original",
+        "mtime": "1454343160",
+        "size": "647",
+        "md5": "31f6b8de10e9c4f45dd299497fbf9d03",
+        "crc32": "b6075687",
+        "sha1": "b6fcdbe9b1a7d7684deae1c71213541efadc617f",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1755982393,
+    "item_size": 295658837,
+    "metadata": {
+      "title": "Food processor cook book",
+      "creator": "Nelson, Diane",
+      "subject": "Food processor cookery",
+      "description": "Includes index",
+      "publisher": "Des Moines, IA : Meredith Corp.",
+      "date": "1979-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696003554",
+        "9780696003554"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA110204",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "la",
+      "mediatype": "texts",
+      "updatedate": "2010-03-03 20:28:44",
+      "updater": "LineK",
+      "identifier": "foodprocessorco00nels",
+      "uploader": "line@archive.org",
+      "addeddate": "2010-03-03 20:28:46",
+      "publicdate": "2010-03-03 20:28:58",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-angela-chance@archive.org",
+      "scanner": "scribe7.la.archive.org",
+      "scandate": "20100319220148",
+      "imagecount": "104",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/foodprocessorco00nels",
+      "identifier-ark": "ark:/13960/t2r50911j",
+      "bookplateleaf": "0002",
+      "curation": "[curator]kellycritch@archive.org[/curator][date]20100402191059[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:foodprocessorco00nels:pdf:73dcd594-2c7c-440e-b706-a0a1384f3278",
+        "urn:acs6:foodprocessorco00nels:epub:6d1e5f73-c642-4b04-8e1a-32b7148308fa",
+        "urn:oclc:record:1034664738",
+        "urn:lcp:foodprocessorco00nels:lcpdf:dcf4dde4-09ad-4cce-961b-681a38303519",
+        "urn:lcp:foodprocessorco00nels:epub:ecae3aac-9cd3-444d-ba39-5a1e2a6b0695"
+      ],
+      "donor": "alibris",
+      "extramarc": "University of Alberta Libraries",
+      "boxid_2": "CH129925",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": [
+        "4978341",
+        "607208221"
+      ],
+      "lccn": "78073181",
+      "related-external-id": [
+        "urn:isbn:0696010259",
+        "urn:lccn:78073181",
+        "urn:oclc:10657060",
+        "urn:oclc:607208221"
+      ],
+      "backup_location": "ia903604_34",
+      "openlibrary_edition": "OL4750863M",
+      "openlibrary_work": "OL15159070W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Thu Dec 24 8:20:19 UTC 2020",
+        "Wed Apr 3 2:47:50 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "94",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia804601.us.archive.org",
+    "uniq": 434872471,
+    "workable_servers": [
+      "ia804601.us.archive.org",
+      "ia904601.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/4978341?referer=xid"
+          ],
+          "publisher": "Meredith",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "78073181"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "ed": "1st ed.",
+          "year": "1979",
+          "isbn": [
+            "0696003554"
+          ],
+          "title": "Better homes and gardens food processor cook book.",
+          "oclcnum": [
+            "4978341",
+            "607208221"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/10657060?referer=xid"
+          ],
+          "publisher": "Meredith",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "78073181"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "ed": "Large-format ed.",
+          "year": "1979",
+          "isbn": [
+            "0696010259"
+          ],
+          "title": "Better homes and gardens food processor cook book.",
+          "oclcnum": [
+            "10657060",
+            "607208221"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Nelson, Diane",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

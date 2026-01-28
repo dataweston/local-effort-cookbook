@@ -1,0 +1,292 @@
+{
+  "source": "internet_archive",
+  "identifier": "bel60",
+  "title": "Whip Poor Will Cookbook Index",
+  "creator": "Whip Poor Will Members",
+  "year": 2011,
+  "subject": [
+    "Social events",
+    "Cookbooks and Recipes",
+    "Whip Poor Will",
+    "Index"
+  ],
+  "description": "Index to the Whip-Poor-Will cookbook including by recipe name, recipe category and contributor.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn710007.ca.archive.org",
+          "dir": "/0/items/bel60"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn710007.ca.archive.org",
+          "dir": "/0/items/bel60"
+        }
+      ]
+    },
+    "created": 1758558894,
+    "d1": "ia902808.us.archive.org",
+    "d2": "ia802808.us.archive.org",
+    "dir": "/34/items/bel60",
+    "files": [
+      {
+        "name": "WPW cookbook index.pdf",
+        "source": "original",
+        "mtime": "1707496803",
+        "size": "128398",
+        "md5": "70f6c42e1ac6fbc5520deff7e56f6128",
+        "crc32": "43708fe4",
+        "sha1": "64d697c492b22f17aa8386319c980d5819de7106",
+        "format": "Text PDF"
+      },
+      {
+        "name": "WPW cookbook index_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "WPW cookbook index_jp2.zip",
+        "mtime": "1707497068",
+        "size": "303724",
+        "md5": "777bd60d1b3f5ab4dec1f81ba5a018ae",
+        "crc32": "8077ce95",
+        "sha1": "0dd3585f080d7188bab90d1656a6a2c79226e0ea"
+      },
+      {
+        "name": "WPW cookbook index_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "WPW cookbook index_djvu.xml",
+        "mtime": "1707497416",
+        "size": "23623",
+        "md5": "fd312054c346bc238fb67f9d7925263f",
+        "crc32": "dc6be7a4",
+        "sha1": "bd6b0cfcba4d13a8e3bc62098b80b34f59592183"
+      },
+      {
+        "name": "WPW cookbook index_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "WPW cookbook index_hocr.html",
+        "mtime": "1707497210",
+        "size": "304817",
+        "md5": "37f1b3757c94168063b60694fa08b270",
+        "crc32": "837efbcf",
+        "sha1": "0973682427e010cee41ad36c3a7b24c41579860a"
+      },
+      {
+        "name": "WPW cookbook index_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.2.0",
+        "hocr_char_to_word_hocr_version": "1.1.45",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "WPW cookbook index_chocr.html.gz",
+        "mtime": "1707497170",
+        "size": "672109",
+        "md5": "046dc1642790ff54218a763ea8af8ef5",
+        "crc32": "15487128",
+        "sha1": "88bb05b983048689dea0016f4cad5752791e105e"
+      },
+      {
+        "name": "WPW cookbook index_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "WPW cookbook index_hocr.html",
+        "mtime": "1707497258",
+        "size": "118",
+        "md5": "39334e2d47058ff76e222a191156d33a",
+        "crc32": "80683e78",
+        "sha1": "64c11b52af1e127408fb907ead3ca396ad66ee2d"
+      },
+      {
+        "name": "WPW cookbook index_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "3",
+        "word_conf_11_20": "0",
+        "word_conf_21_30": "0",
+        "word_conf_31_40": "3",
+        "word_conf_41_50": "3",
+        "word_conf_51_60": "0",
+        "word_conf_61_70": "0",
+        "word_conf_71_80": "9",
+        "word_conf_81_90": "39",
+        "word_conf_91_100": "3198",
+        "format": "OCR Search Text",
+        "original": "WPW cookbook index_hocr.html",
+        "mtime": "1707497387",
+        "size": "5267",
+        "md5": "ccea16c0677b54ddea30044c0f9839f5",
+        "crc32": "fbe7bf73",
+        "sha1": "af16db3834620e6936a96f92c0c61d1cb62b2cb6"
+      },
+      {
+        "name": "WPW cookbook index_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "WPW cookbook index.pdf",
+        "mtime": "1707496951",
+        "size": "4565859",
+        "md5": "75c8cf800e52dc30b44c4d3aafab5f4c",
+        "crc32": "df76b9f9",
+        "sha1": "681436e93f3d5286e73a55e146a43c63b170573a",
+        "filecount": "7"
+      },
+      {
+        "name": "WPW cookbook index_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.3",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "57",
+        "format": "Page Numbers JSON",
+        "original": "WPW cookbook index_hocr.html",
+        "mtime": "1707497743",
+        "size": "1319",
+        "md5": "858ab06e39a1875b5088bbf4ea6877f9",
+        "crc32": "5c63ddb9",
+        "sha1": "ca401288e6db00152be8310de739e9d1198ae0f1"
+      },
+      {
+        "name": "WPW cookbook index_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "WPW cookbook index_djvu.xml",
+        "mtime": "1707497743",
+        "size": "2630",
+        "md5": "a8ce5a93a2b29793bfbd1aa5884bd8b9",
+        "crc32": "b6fac4d9",
+        "sha1": "a63d5785dbb4bf648ed162903d039f841b3ee075"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1707498034",
+        "size": "11655",
+        "md5": "09f97815e98db680928107f6f9932882",
+        "crc32": "0782466a",
+        "sha1": "94f21d7d689cecfc5a3c3c9b9a9f2452e637ad02",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "bel60_archive.torrent",
+        "source": "metadata",
+        "btih": "8639b57bf555a571134600e9497b4c52253d2f67",
+        "mtime": "1707498035",
+        "size": "3656",
+        "md5": "bd0dcfdd4f3b4ac021c522e34bc13c2a",
+        "crc32": "deb54b12",
+        "sha1": "4cd771f072dca6c1f1d73dfa11d5df4a15f1518b",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "bel60_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "d5440b66c3e4f7f09921df9c3ccd7a00",
+        "summation": "md5"
+      },
+      {
+        "name": "bel60_meta.sqlite",
+        "source": "original",
+        "mtime": "1707496826",
+        "size": "20480",
+        "md5": "0ae0a6fd25a360c1b77e04c243230bde",
+        "crc32": "37d1f597",
+        "sha1": "d35addc32f6e3dc4587f40ccc96e225fd9095aee",
+        "format": "Metadata"
+      },
+      {
+        "name": "bel60_meta.xml",
+        "source": "original",
+        "mtime": "1707497743",
+        "size": "1774",
+        "md5": "23aab31086514ceaf38913970decf456",
+        "crc32": "6308f84e",
+        "sha1": "4e63b14c90d75607bd73f5e5f6be5aa0f0d63142",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1707498035,
+    "item_size": 6045429,
+    "metadata": {
+      "identifier": "bel60",
+      "collection": [
+        "northlibertydigitalhistory",
+        "additional_collections"
+      ],
+      "color": "b/w",
+      "condition": "Very Good",
+      "contributor": "Joan Alt Belknap",
+      "coverage": [
+        "North Liberty",
+        "Iowa",
+        "Penn Township",
+        "Johnson County"
+      ],
+      "creator": "Whip Poor Will Members",
+      "date": "2011-01-01",
+      "description": "Index to the Whip-Poor-Will cookbook including by recipe name, recipe category and contributor.",
+      "language": "eng",
+      "licenseurl": "https://creativecommons.org/licenses/by-nc/4.0/deed.en",
+      "mediatype": "texts",
+      "scanner": "Internet Archive Python library 3.6.0",
+      "subject": [
+        "Social events",
+        "Cookbooks and Recipes",
+        "Whip Poor Will",
+        "Index"
+      ],
+      "title": "Whip Poor Will Cookbook Index",
+      "uploader": "nshimmin@northlibertyiowa.org",
+      "publicdate": "2024-02-09 16:40:13",
+      "addeddate": "2024-02-09 16:40:13",
+      "identifier-access": "http://archive.org/details/bel60",
+      "identifier-ark": "ark:/13960/s2mfch17mjh",
+      "ppi": "300",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "57",
+      "page_number_module_version": "1.0.3"
+    },
+    "server": "ia902808.us.archive.org",
+    "uniq": 1127638847,
+    "workable_servers": [
+      "ia902808.us.archive.org",
+      "ia802808.us.archive.org"
+    ]
+  },
+  "institution": "Whip Poor Will Members",
+  "pdf_url": "https://archive.org/download/bel60/WPW cookbook index.pdf",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

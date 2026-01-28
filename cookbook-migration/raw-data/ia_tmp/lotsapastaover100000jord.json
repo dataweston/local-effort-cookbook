@@ -1,0 +1,515 @@
+{
+  "source": "internet_archive",
+  "identifier": "lotsapastaover100000jord",
+  "title": "Lotsa pasta : [over 100 elegant and everyday recipes]",
+  "creator": "Jordan, Michele Anna",
+  "year": 2008,
+  "subject": [
+    "Cooking (Pasta)",
+    "Noodles",
+    "Sauces"
+  ],
+  "description": [
+    "176 pages : 24 cm",
+    "Subtitle from cover",
+    "Includes indexes"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/lotsapastaover100000jord"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/lotsapastaover100000jord"
+        }
+      ]
+    },
+    "created": 1758554914,
+    "d1": "ia903408.us.archive.org",
+    "d2": "ia803408.us.archive.org",
+    "dir": "/19/items/lotsapastaover100000jord",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660535530",
+        "size": "18101",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "eccccc0c6194faa0b85af1d918bf504c",
+        "crc32": "64e822d4",
+        "sha1": "1cf77dd33e2d0dfedd95f3d57eaf1b4d82e41cf9"
+      },
+      {
+        "name": "logs/lotsapastaover100000jord_iabdash_2018-06-29104040.log",
+        "source": "original",
+        "mtime": "1530240047",
+        "size": "357",
+        "md5": "1bcb6c83025900d8578e6296573be7c2",
+        "crc32": "e4bb6db9",
+        "sha1": "09feb54dafe5e8802042d4faa906ab788e0c48e2",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/lotsapastaover100000jord_scanning_2018-06-29104035.log",
+        "source": "original",
+        "mtime": "1530240041",
+        "size": "421878",
+        "md5": "7ecaa49f5a519942e5198cbb05dc7ba4",
+        "crc32": "f4cdca7b",
+        "sha1": "1c61a6e838eb1186db7e2a357f0a5b8337319ad4",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "lotsapastaover100000jord.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "lotsapastaover100000jord_hocr.html",
+        "mtime": "1753622957",
+        "size": "185025647",
+        "private": "true",
+        "md5": "465f236dc6dd0700f5746e792cfcf1dc",
+        "crc32": "327a2eb7",
+        "sha1": "0958a3a642a2c5ba2541d625aa9981d67a0c7bf4"
+      },
+      {
+        "name": "lotsapastaover100000jord.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "lotsapastaover100000jord.pdf",
+        "mtime": "1753622699",
+        "size": "48605999",
+        "md5": "6ca6f49d133348d2173c7f6c56e75f8e",
+        "crc32": "d3561c25",
+        "sha1": "4f499730432f2d33e12c7c4d33013afbabf1f3b4"
+      },
+      {
+        "name": "lotsapastaover100000jord.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "lotsapastaover100000jord_page_numbers.json",
+        "mtime": "1714900210",
+        "size": "48012280",
+        "md5": "68a777dc35b82020a0279432aaa5cc14",
+        "crc32": "71bebba1",
+        "sha1": "8391fa4560c1f814b70e9654bd6c6bd8f16e51a9",
+        "private": "true"
+      },
+      {
+        "name": "lotsapastaover100000jord_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "lotsapastaover100000jord_jp2.zip",
+        "mtime": "1530520651",
+        "size": "3236340",
+        "md5": "61c60cf22c24a4fbdcb52a9c5ed39cb9",
+        "crc32": "68ece592",
+        "sha1": "73fa88d5eab07180ffec7a91dfb26ab08f03c74d",
+        "private": "true"
+      },
+      {
+        "name": "lotsapastaover100000jord_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "lotsapastaover100000jord_abbyy.gz",
+        "mtime": "1660535370",
+        "size": "2745635",
+        "md5": "bec8bab2d71269a78669a2c49bf95d05",
+        "crc32": "cac20473",
+        "sha1": "2b0ef091cb6f24a1d458039a4430a21d6e7d0689",
+        "private": "true"
+      },
+      {
+        "name": "lotsapastaover100000jord_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "lotsapastaover100000jord_scandata.xml",
+        "mtime": "1670574656",
+        "size": "788",
+        "md5": "6569e2b6f2b2fedbbf9b3a6c3c6718b1",
+        "crc32": "3d7450ac",
+        "sha1": "a4a9c7b65b93d530846b1b09720aac73b40db2de",
+        "private": "true"
+      },
+      {
+        "name": "lotsapastaover100000jord_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660535339",
+        "size": "1308",
+        "md5": "1abf4993cd1089a3c441d07ad57574d5",
+        "crc32": "61ece4d8",
+        "sha1": "36e05178b6dd1c70408d6453f2bde3fe429d858b"
+      },
+      {
+        "name": "lotsapastaover100000jord_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "lotsapastaover100000jord_djvu.xml",
+        "mtime": "1660535522",
+        "size": "242222",
+        "md5": "8877a9a04f982d956cb3e5b7cbc09ca1",
+        "crc32": "b2cabd2f",
+        "sha1": "ae09243718dcc62f6b29386005bf20a9eb77c4d4",
+        "private": "true"
+      },
+      {
+        "name": "lotsapastaover100000jord_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "lotsapastaover100000jord_hocr.html",
+        "mtime": "1660535463",
+        "size": "2905545",
+        "md5": "3ab4ba00d84c6ecf5c435e5d581f87ce",
+        "crc32": "9e1ce739",
+        "sha1": "0552e04194396314acba98ab5a416f987eed13a8",
+        "private": "true"
+      },
+      {
+        "name": "lotsapastaover100000jord_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "lotsapastaover100000jord_abbyy.gz",
+        "mtime": "1530521961",
+        "size": "4801544",
+        "md5": "ea7c90ac1c3de82636cd93e5542b328f",
+        "crc32": "60021336",
+        "sha1": "6e248a299883b6b0d9a37a3adeab4a9fc58d6219"
+      },
+      {
+        "name": "lotsapastaover100000jord_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "lotsapastaover100000jord.pdf",
+        "mtime": "1714900255",
+        "size": "47905062",
+        "md5": "2c1c67526972b0f054176682d4419eb2",
+        "crc32": "4e908948",
+        "sha1": "6f2cf7d51778d15daf583a30e9c7ba31f93eda5d"
+      },
+      {
+        "name": "lotsapastaover100000jord_events.json",
+        "source": "original",
+        "mtime": "1530516215",
+        "size": "51",
+        "md5": "8f1e1c37b54a4be2e11661e6b721a174",
+        "crc32": "773bf481",
+        "sha1": "da821fa8b9bdecd452a7e1fd4d32866549c61178",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "lotsapastaover100000jord_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "60bc476444d3c912b09a20778d7da999",
+        "summation": "md5"
+      },
+      {
+        "name": "lotsapastaover100000jord_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "lotsapastaover100000jord_chocr.html.gz",
+        "mtime": "1660535441",
+        "size": "6036378",
+        "md5": "290ce497c0b137b697871808cd5bc01c",
+        "crc32": "9df6302f",
+        "sha1": "24ba899e7eb181b6753f08242bceb71290e149e2",
+        "private": "true"
+      },
+      {
+        "name": "lotsapastaover100000jord_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "lotsapastaover100000jord_hocr.html",
+        "mtime": "1660535475",
+        "size": "2053",
+        "md5": "ba1c2d545097a537403770e523406c21",
+        "crc32": "c5d47201",
+        "sha1": "b711a900d7422411581800cca0a5a41040f6fc9c",
+        "private": "true"
+      },
+      {
+        "name": "lotsapastaover100000jord_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "198",
+        "word_conf_11_20": "107",
+        "word_conf_21_30": "338",
+        "word_conf_31_40": "323",
+        "word_conf_41_50": "511",
+        "word_conf_51_60": "1399",
+        "word_conf_61_70": "2938",
+        "word_conf_71_80": "6631",
+        "word_conf_81_90": "10347",
+        "word_conf_91_100": "11558",
+        "format": "OCR Search Text",
+        "original": "lotsapastaover100000jord_hocr.html",
+        "mtime": "1660535505",
+        "size": "57407",
+        "md5": "4e1e24006810baa060eac3164e75a057",
+        "crc32": "f3e781b7",
+        "sha1": "567fcb372028c1026cf6c99679af78dc8db0b0b2",
+        "private": "true"
+      },
+      {
+        "name": "lotsapastaover100000jord_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "lotsapastaover100000jord_orig_jp2.tar",
+        "mtime": "1530518416",
+        "size": "282749116",
+        "md5": "15142d70d80f210860a27a44c7e2bd8e",
+        "crc32": "1cefcc5b",
+        "sha1": "efc7e92ef594877cf467df3723e85ceb63bf4deb",
+        "private": "true",
+        "filecount": "182"
+      },
+      {
+        "name": "lotsapastaover100000jord_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "lotsapastaover100000jord.epub",
+        "mtime": "1753623235",
+        "size": "185307022",
+        "md5": "e0e18e739fc44b574628671052c26e4f",
+        "crc32": "17ba73dc",
+        "sha1": "333366f2025514eb9b650d15c246e86ba0f32d6b"
+      },
+      {
+        "name": "lotsapastaover100000jord_loans.json",
+        "source": "original",
+        "mtime": "1585807773",
+        "size": "582",
+        "format": "JSON",
+        "private": "true",
+        "md5": "5c3dfb8dfd9f384e57a437e5cf2fc1ce",
+        "crc32": "7457f1f0",
+        "sha1": "c563e7692b71b269ae3330b9406d1aa7caf6bbc2"
+      },
+      {
+        "name": "lotsapastaover100000jord_marc.xml",
+        "source": "original",
+        "mtime": "1660535337",
+        "size": "5428",
+        "format": "MARC",
+        "md5": "fca4184ed76e2e809f84afcf80f7a7d5",
+        "crc32": "53ee2e0f",
+        "sha1": "25aab02b919efa95d1c095664f402582f6fbd5e7"
+      },
+      {
+        "name": "lotsapastaover100000jord_meta.mrc",
+        "source": "original",
+        "mtime": "1530240056",
+        "size": "1488",
+        "md5": "1b0bc56cae4472dc52c160843ff24638",
+        "crc32": "310d04d0",
+        "sha1": "13a6a6755598981c6e2c400ec232e292c0dc7ad3",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "lotsapastaover100000jord_meta.sqlite",
+        "source": "original",
+        "mtime": "1530516270",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "77ead63f5b016d7a5fb54ffb0835431d",
+        "crc32": "68d257b8",
+        "sha1": "12228dbb32b072d7bd8256d10ab9647799b4665c"
+      },
+      {
+        "name": "lotsapastaover100000jord_meta.xml",
+        "source": "original",
+        "mtime": "1753623236",
+        "size": "3572",
+        "format": "Metadata",
+        "md5": "367d4462074d691b1640953c62133f3d",
+        "crc32": "5b6246f6",
+        "sha1": "46fc5c60c528a7ee70b466bf7c8ce1a5c66d50f5"
+      },
+      {
+        "name": "lotsapastaover100000jord_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1530516268",
+        "size": "461066240",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "4f59f249400c9e5c967d5e86385eec64",
+        "crc32": "2756a307",
+        "sha1": "533ec1758008f70a1f88c58e161e6f473f7fe147",
+        "filecount": "182"
+      },
+      {
+        "name": "lotsapastaover100000jord_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "lotsapastaover100000jord_hocr.html",
+        "mtime": "1714900209",
+        "size": "30490",
+        "md5": "e71b0241824e859adeb5687041897979",
+        "crc32": "75b8fa20",
+        "sha1": "a29435d6ff9ff7ad593cf8a603781d088acd953b",
+        "private": "true"
+      },
+      {
+        "name": "lotsapastaover100000jord_scandata.xml",
+        "source": "original",
+        "mtime": "1670574656",
+        "size": "185932",
+        "format": "Scandata",
+        "md5": "4010616c0909730679141dfa85970dcf",
+        "crc32": "e096a8d5",
+        "sha1": "c59e2415a34bcda98bfcf46a7f54d9db774ed267"
+      },
+      {
+        "name": "lotsapastaover100000jord_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "lotsapastaover100000jord_djvu.xml",
+        "mtime": "1670574453",
+        "size": "7286",
+        "md5": "ab4ad3e7234714191e80dedbfff999a4",
+        "crc32": "22d1e1da",
+        "sha1": "307b09bfb83d34796e2c71a810cbfe2940fe93bb",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753623236,
+    "item_size": 1279392135,
+    "metadata": {
+      "identifier": "lotsapastaover100000jord",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Jordan, Michele Anna",
+      "date": "2008-01-01",
+      "isbn": [
+        "9781581593679",
+        "1581593678"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-manyee-fung@archive.org",
+      "ppi": "300",
+      "printer": "DYMO_LabelWriter_450_Turbo",
+      "publisher": "Minnetonka, MN : Shady Oak Press ; New York : Distributed by Sterling Publishing Co.",
+      "repub_state": "22",
+      "scanner": "ttscribe20.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "Lotsa pasta : [over 100 elegant and everyday recipes] ",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "uploader": "ttscribe20.hongkong@archive.org",
+      "addeddate": "2018-06-29 02:40:25",
+      "publicdate": "2018-06-29 02:41:04",
+      "imagecount": "182",
+      "scandate": "20180629043823",
+      "subject": [
+        "Cooking (Pasta)",
+        "Noodles",
+        "Sauces",
+        "Cooking (Pasta)",
+        "Noodles",
+        "Sauces"
+      ],
+      "description": [
+        "176 pages : 24 cm",
+        "Subtitle from cover",
+        "Includes indexes"
+      ],
+      "republisher_operator": "associate-hubizhong@archive.org",
+      "republisher_date": "20180702152251",
+      "republisher_time": "569",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/lotsapastaover100000jord",
+      "identifier-ark": "ark:/13960/t75v0mh6z",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:lotsapastaover100000jord:epub:86f144ef-2491-4a51-8297-2cced6d58e6e",
+        "urn:acs6:lotsapastaover100000jord:pdf:255770b5-c4ae-4045-bce0-36d0c07df8aa",
+        "urn:lcp:lotsapastaover100000jord:lcpdf:c7387873-92f6-419a-b7f3-45188212a159",
+        "urn:lcp:lotsapastaover100000jord:epub:d7f3c744-168c-40d4-8eaf-74f1deae17d5"
+      ],
+      "curation": "[curator]associate-francis-boyer@archive.org[/curator][date]20180702182856[/date][state]approved[/state][comment]199[/comment]",
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "boxid": "IA1260708",
+      "sponsordate": "20180630",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-03-16T01:10:12Z",
+      "loans__status__num_history": "8",
+      "openlibrary_edition": "OL12281019M",
+      "openlibrary_work": "OL9880333W",
+      "backup_location": "ia906707_28",
+      "access-restricted-item": "true",
+      "oclc-id": "179789079",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "filesxml": "Wed Apr 3 8:23:02 UTC 2024",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia903408.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "denverpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9781581593679"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2019-03-20 17:33:28.960422"
+        }
+      }
+    },
+    "uniq": 1152885839,
+    "workable_servers": [
+      "ia903408.us.archive.org",
+      "ia803408.us.archive.org"
+    ]
+  },
+  "institution": "Jordan, Michele Anna",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

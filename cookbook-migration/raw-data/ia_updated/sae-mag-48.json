@@ -1,0 +1,861 @@
+{
+  "source": "internet_archive",
+  "identifier": "sae-mag-48",
+  "title": "South American Explorer Number 48",
+  "creator": "The South American Explorers Club",
+  "year": 1997,
+  "subject": [
+    "magazines",
+    "South American Explorer",
+    "exploration",
+    "travel",
+    "South America",
+    "international"
+  ],
+  "description": "The forty-eighth issue of the South American Explorer magazine. Articles within this issue include: \"1659: The Last Voyage of the Aviso San Miguel Archangel\" by J. A. Ruth \"1996: The Salvage of the Aviso San Miguel Archangel - The Jupiter Wreck Excavation, 1996 Season\" by J. A. Ruth \"The Hostage Crisis: A Different Angle\" by Eric J. Lyman \"A Taste of Salvador\" by Kathleen O'Sullivan \"Andean Reflections: Solar Cooking on Lake Titicaca\" by Tara Miller \"Ecuador, Mi Amor\" by Jon Loomis",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/sae-mag-48"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/sae-mag-48"
+        }
+      ]
+    },
+    "created": 1758555905,
+    "d1": "ia601509.us.archive.org",
+    "d2": "ia801509.us.archive.org",
+    "dir": "/14/items/sae-mag-48",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1667585270",
+        "size": "21054",
+        "md5": "f1a88a8f5a78d3226b78187e537041d6",
+        "crc32": "387594c2",
+        "sha1": "176a4cb4bb2f140f165b37cbb8678c83016a6870",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "sae-mag-48.pdf",
+        "source": "original",
+        "mtime": "1667583660",
+        "size": "16652310",
+        "md5": "f22fc8032bb34fdbcaea7d80a2d8318f",
+        "crc32": "2bd24aff",
+        "sha1": "8274f258aeff100e309ad87bca98dbb81d7f6972",
+        "format": "Text PDF"
+      },
+      {
+        "name": "sae-mag-48_archive.torrent",
+        "source": "metadata",
+        "btih": "eb41bd33a75352137508bd83b56caaa6e8a44d11",
+        "mtime": "1673916991",
+        "size": "5685",
+        "md5": "dc041573c189592ed20e336828089e5e",
+        "crc32": "573600fa",
+        "sha1": "5edea646b25f8eb724831c041eb1ce64da6c67ff",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "sae-mag-48_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.2.0-1-gc42a",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.8840",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "sae-mag-48_jp2.zip",
+        "mtime": "1667584893",
+        "size": "3260651",
+        "md5": "c72aedc022a04ee4125a18d08478d09d",
+        "crc32": "590381a7",
+        "sha1": "2d049966640c6d34f9ff3983df98c707a005004f"
+      },
+      {
+        "name": "sae-mag-48_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "sae-mag-48_djvu.xml",
+        "mtime": "1667585239",
+        "size": "244462",
+        "md5": "773b4527310508735e9f16e430cce548",
+        "crc32": "2dbc58ca",
+        "sha1": "f19335bb1f7f524ff2f8084f6b7e510fa7c39666"
+      },
+      {
+        "name": "sae-mag-48_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "sae-mag-48_hocr.html",
+        "mtime": "1667585108",
+        "size": "3128069",
+        "md5": "f671426658db3eea0775e6caba11ca49",
+        "crc32": "6cbf9fe8",
+        "sha1": "acd8a00e6f16209dea5fcdc5c6f04f65547d357c"
+      },
+      {
+        "name": "sae-mag-48_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "449e5e53a02929d1762efa374a670cce",
+        "summation": "md5"
+      },
+      {
+        "name": "sae-mag-48_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.8840",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "sae-mag-48_chocr.html.gz",
+        "mtime": "1667585073",
+        "size": "6026303",
+        "md5": "8416212f2135587460532fbfb9a8ff1d",
+        "crc32": "0360ff60",
+        "sha1": "1fc9ea33e598d8066a464a9127dca594452b767d"
+      },
+      {
+        "name": "sae-mag-48_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "sae-mag-48_hocr.html",
+        "mtime": "1667585168",
+        "size": "780",
+        "md5": "de4a924c4ecd2f24db66aa1d620db20d",
+        "crc32": "8f0c0583",
+        "sha1": "a98cb2a3c25fca30c060c7d43e36d501267c79a6"
+      },
+      {
+        "name": "sae-mag-48_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "414",
+        "word_conf_11_20": "143",
+        "word_conf_21_30": "179",
+        "word_conf_31_40": "178",
+        "word_conf_41_50": "181",
+        "word_conf_51_60": "173",
+        "word_conf_61_70": "217",
+        "word_conf_71_80": "334",
+        "word_conf_81_90": "1178",
+        "word_conf_91_100": "35523",
+        "format": "OCR Search Text",
+        "original": "sae-mag-48_hocr.html",
+        "mtime": "1667585219",
+        "size": "104988",
+        "md5": "398501a6681d547cf8ab53732e307a41",
+        "crc32": "91325bdf",
+        "sha1": "62b5d0fd42108213b6716196cc20f24d315179ac"
+      },
+      {
+        "name": "sae-mag-48_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "sae-mag-48.pdf",
+        "mtime": "1667584236",
+        "size": "31182088",
+        "md5": "aea3a2e039db49406bee86cc347e3d30",
+        "crc32": "8d204879",
+        "sha1": "2ef8b59df576da4aa25b48901a2d46e51bdb8a76"
+      },
+      {
+        "name": "sae-mag-48_meta.sqlite",
+        "source": "original",
+        "mtime": "1667583668",
+        "size": "20480",
+        "md5": "799377e913ea34ca7a6b5155f8c237a5",
+        "crc32": "81a15f99",
+        "sha1": "037c9e6596e98702c63b2b9422cf3a0de5f8bcbe",
+        "format": "Metadata"
+      },
+      {
+        "name": "sae-mag-48_meta.xml",
+        "source": "original",
+        "mtime": "1673916989",
+        "size": "2214",
+        "md5": "f65dcaa5f39f5945235bd0bd9de34bde",
+        "crc32": "5af37ac7",
+        "sha1": "4d5b6b88feba186054aa6e8ba1daf614067a4f30",
+        "format": "Metadata"
+      },
+      {
+        "name": "sae-mag-48_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "sae-mag-48_djvu.xml",
+        "mtime": "1667585263",
+        "size": "12533",
+        "md5": "d1e364040939b596326cd05b6769910c",
+        "crc32": "ff8afcb6",
+        "sha1": "f6b6a1f77320685b7b9068f1bfa2cbbd764b5890"
+      },
+      {
+        "name": "sae-mag-48_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "sae-mag-48_djvu.xml",
+        "mtime": "1667585263",
+        "size": "22692",
+        "md5": "dfc6d9e5ec8056571a5429defc15c73e",
+        "crc32": "749e71f6",
+        "sha1": "9641c6b1e1c27033419e347440fdac354ebefd60"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1673916991,
+    "item_size": 60684309,
+    "metadata": {
+      "identifier": "sae-mag-48",
+      "mediatype": "texts",
+      "collection": [
+        "travelmagazinesmisc",
+        "travelmagazines",
+        "magazine_rack"
+      ],
+      "creator": "The South American Explorers Club",
+      "date": "1997-01-01",
+      "description": "The forty-eighth issue of the South American Explorer magazine. Articles within this issue include:<div><ul><li>\"1659: The Last Voyage of the Aviso San Miguel Archangel\" by J. A. Ruth</li><li>\"1996: The Salvage of the Aviso San Miguel Archangel - The Jupiter Wreck Excavation, 1996 Season\" by J. A. Ruth</li><li>\"The Hostage Crisis: A Different Angle\" by Eric J. Lyman</li><li>\"A Taste of Salvador\" by Kathleen O'Sullivan</li><li>\"Andean Reflections: Solar Cooking on Lake Titicaca\" by Tara Miller</li><li>\"Ecuador, Mi Amor\" by Jon Loomis</li></ul></div>",
+      "language": "eng",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "magazines",
+        "South American Explorer",
+        "exploration",
+        "travel",
+        "South America",
+        "international"
+      ],
+      "title": "South American Explorer Number 48",
+      "uploader": "nbuitrago2001@gmail.com",
+      "publicdate": "2022-10-27 17:27:52",
+      "addeddate": "2022-10-27 17:27:52",
+      "curation": "[curator]validator@archive.org[/curator][date]20221027173339[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/sae-mag-48",
+      "identifier-ark": "ark:/13960/s2g9v9xvd1p",
+      "imagecount": "64",
+      "ppi": "300",
+      "page_number_confidence": "93.65",
+      "ocr": "tesseract 5.2.0-1-gc42a",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.18",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.8840",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000"
+    },
+    "page_numbers": {
+      "identifier": "/var/tmp/autoclean/derive/sae-mag-48/sae-mag-48",
+      "confidence": 93.65079365079364,
+      "pages": [
+        {
+          "leafNum": 1,
+          "ocr_value": [
+            "511"
+          ],
+          "confidence": 0,
+          "pageNumber": ""
+        },
+        {
+          "leafNum": 2,
+          "ocr_value": [
+            "1997"
+          ],
+          "confidence": 0,
+          "pageNumber": ""
+        },
+        {
+          "leafNum": 3,
+          "ocr_value": [
+            "659",
+            "4"
+          ],
+          "confidence": 100,
+          "pageNumber": "4"
+        },
+        {
+          "leafNum": 4,
+          "ocr_value": [
+            "1997"
+          ],
+          "confidence": 100,
+          "pageNumber": "5"
+        },
+        {
+          "leafNum": 5,
+          "ocr_value": [
+            "5100",
+            "6"
+          ],
+          "confidence": 100,
+          "pageNumber": "6"
+        },
+        {
+          "leafNum": 6,
+          "ocr_value": [
+            "12",
+            "1997",
+            "7"
+          ],
+          "confidence": 100,
+          "pageNumber": "7"
+        },
+        {
+          "leafNum": 7,
+          "ocr_value": [
+            "30"
+          ],
+          "confidence": 100,
+          "pageNumber": "8"
+        },
+        {
+          "leafNum": 8,
+          "ocr_value": [
+            "60",
+            "1997",
+            "9"
+          ],
+          "confidence": 100,
+          "pageNumber": "9"
+        },
+        {
+          "leafNum": 9,
+          "ocr_value": [
+            "1649",
+            "1",
+            "10"
+          ],
+          "confidence": 100,
+          "pageNumber": "10"
+        },
+        {
+          "leafNum": 10,
+          "ocr_value": [
+            "1997",
+            "11"
+          ],
+          "confidence": 100,
+          "pageNumber": "11"
+        },
+        {
+          "leafNum": 11,
+          "ocr_value": [
+            "996",
+            "12"
+          ],
+          "confidence": 100,
+          "pageNumber": "12"
+        },
+        {
+          "leafNum": 12,
+          "ocr_value": [
+            "I",
+            "30",
+            "1997",
+            "13"
+          ],
+          "confidence": 100,
+          "pageNumber": "13"
+        },
+        {
+          "leafNum": 13,
+          "ocr_value": [
+            "760",
+            "14"
+          ],
+          "confidence": 100,
+          "pageNumber": "14"
+        },
+        {
+          "leafNum": 14,
+          "ocr_value": [
+            "I",
+            "1997",
+            "15"
+          ],
+          "confidence": 100,
+          "pageNumber": "15"
+        },
+        {
+          "leafNum": 15,
+          "ocr_value": [
+            "I",
+            "16"
+          ],
+          "confidence": 100,
+          "pageNumber": "16"
+        },
+        {
+          "leafNum": 16,
+          "ocr_value": [
+            "1985",
+            "1997",
+            "17"
+          ],
+          "confidence": 100,
+          "pageNumber": "17"
+        },
+        {
+          "leafNum": 17,
+          "ocr_value": [
+            "25",
+            "18"
+          ],
+          "confidence": 100,
+          "pageNumber": "18"
+        },
+        {
+          "leafNum": 18,
+          "ocr_value": [
+            "3",
+            "1997",
+            "19"
+          ],
+          "confidence": 100,
+          "pageNumber": "19"
+        },
+        {
+          "leafNum": 19,
+          "ocr_value": [
+            "20"
+          ],
+          "confidence": 100,
+          "pageNumber": "20"
+        },
+        {
+          "leafNum": 20,
+          "ocr_value": [
+            "1997",
+            "21"
+          ],
+          "confidence": 100,
+          "pageNumber": "21"
+        },
+        {
+          "leafNum": 21,
+          "ocr_value": [
+            "25",
+            "22"
+          ],
+          "confidence": 100,
+          "pageNumber": "22"
+        },
+        {
+          "leafNum": 22,
+          "ocr_value": [
+            "1997",
+            "23"
+          ],
+          "confidence": 100,
+          "pageNumber": "23"
+        },
+        {
+          "leafNum": 23,
+          "ocr_value": [
+            "24"
+          ],
+          "confidence": 100,
+          "pageNumber": "24"
+        },
+        {
+          "leafNum": 24,
+          "ocr_value": [
+            "1997",
+            "25"
+          ],
+          "confidence": 100,
+          "pageNumber": "25"
+        },
+        {
+          "leafNum": 25,
+          "ocr_value": [
+            "I",
+            "26"
+          ],
+          "confidence": 100,
+          "pageNumber": "26"
+        },
+        {
+          "leafNum": 26,
+          "ocr_value": [
+            "1997",
+            "27"
+          ],
+          "confidence": 100,
+          "pageNumber": "27"
+        },
+        {
+          "leafNum": 27,
+          "ocr_value": [
+            "I",
+            "28"
+          ],
+          "confidence": 100,
+          "pageNumber": "28"
+        },
+        {
+          "leafNum": 28,
+          "ocr_value": [
+            "I",
+            "1997",
+            "29"
+          ],
+          "confidence": 100,
+          "pageNumber": "29"
+        },
+        {
+          "leafNum": 29,
+          "ocr_value": [
+            "I",
+            "30"
+          ],
+          "confidence": 100,
+          "pageNumber": "30"
+        },
+        {
+          "leafNum": 30,
+          "ocr_value": [
+            "I",
+            "1997",
+            "31"
+          ],
+          "confidence": 100,
+          "pageNumber": "31"
+        },
+        {
+          "leafNum": 31,
+          "ocr_value": [
+            "I",
+            "32"
+          ],
+          "confidence": 100,
+          "pageNumber": "32"
+        },
+        {
+          "leafNum": 32,
+          "ocr_value": [
+            "I",
+            "1997",
+            "33"
+          ],
+          "confidence": 100,
+          "pageNumber": "33"
+        },
+        {
+          "leafNum": 33,
+          "ocr_value": [
+            "7"
+          ],
+          "confidence": 100,
+          "pageNumber": "34"
+        },
+        {
+          "leafNum": 34,
+          "ocr_value": [
+            "56",
+            "1997"
+          ],
+          "confidence": 100,
+          "pageNumber": "35"
+        },
+        {
+          "leafNum": 35,
+          "ocr_value": [
+            "Cc",
+            "422"
+          ],
+          "confidence": 100,
+          "pageNumber": "36"
+        },
+        {
+          "leafNum": 36,
+          "ocr_value": [
+            "799",
+            "011",
+            "726"
+          ],
+          "confidence": 100,
+          "pageNumber": "37"
+        },
+        {
+          "leafNum": 37,
+          "ocr_value": [
+            "14",
+            "695"
+          ],
+          "confidence": 100,
+          "pageNumber": "38"
+        },
+        {
+          "leafNum": 38,
+          "ocr_value": [
+            "303",
+            "2",
+            "593"
+          ],
+          "confidence": 100,
+          "pageNumber": "39"
+        },
+        {
+          "leafNum": 39,
+          "ocr_value": [
+            "442",
+            "40"
+          ],
+          "confidence": 100,
+          "pageNumber": "40"
+        },
+        {
+          "leafNum": 40,
+          "ocr_value": [
+            "8",
+            "3",
+            "1997",
+            "4"
+          ],
+          "confidence": 100,
+          "pageNumber": "41"
+        },
+        {
+          "leafNum": 41,
+          "ocr_value": [
+            "49",
+            "42"
+          ],
+          "confidence": 100,
+          "pageNumber": "42"
+        },
+        {
+          "leafNum": 42,
+          "ocr_value": [
+            "386",
+            "1997",
+            "43"
+          ],
+          "confidence": 100,
+          "pageNumber": "43"
+        },
+        {
+          "leafNum": 43,
+          "ocr_value": [
+            "1996"
+          ],
+          "confidence": 100,
+          "pageNumber": "44"
+        },
+        {
+          "leafNum": 44,
+          "ocr_value": [
+            "II"
+          ],
+          "confidence": 100,
+          "pageNumber": "45"
+        },
+        {
+          "leafNum": 45,
+          "ocr_value": [
+            "2",
+            "6"
+          ],
+          "confidence": 100,
+          "pageNumber": "46"
+        },
+        {
+          "leafNum": 46,
+          "ocr_value": [
+            "2",
+            "94607"
+          ],
+          "confidence": 100,
+          "pageNumber": "47"
+        },
+        {
+          "leafNum": 47,
+          "ocr_value": [
+            "I",
+            "1996"
+          ],
+          "confidence": 100,
+          "pageNumber": "48"
+        },
+        {
+          "leafNum": 48,
+          "ocr_value": [
+            "I",
+            "49"
+          ],
+          "confidence": 100,
+          "pageNumber": "49"
+        },
+        {
+          "leafNum": 49,
+          "ocr_value": [
+            "50"
+          ],
+          "confidence": 100,
+          "pageNumber": "50"
+        },
+        {
+          "leafNum": 50,
+          "ocr_value": [
+            "I",
+            "1997",
+            "51"
+          ],
+          "confidence": 100,
+          "pageNumber": "51"
+        },
+        {
+          "leafNum": 51,
+          "ocr_value": [
+            "48",
+            "07",
+            "52"
+          ],
+          "confidence": 100,
+          "pageNumber": "52"
+        },
+        {
+          "leafNum": 52,
+          "ocr_value": [
+            "1997",
+            "53"
+          ],
+          "confidence": 100,
+          "pageNumber": "53"
+        },
+        {
+          "leafNum": 53,
+          "ocr_value": [
+            "48",
+            "54"
+          ],
+          "confidence": 100,
+          "pageNumber": "54"
+        },
+        {
+          "leafNum": 54,
+          "ocr_value": [
+            "126",
+            "607",
+            "1997"
+          ],
+          "confidence": 100,
+          "pageNumber": "55"
+        },
+        {
+          "leafNum": 55,
+          "ocr_value": [
+            "i",
+            "014"
+          ],
+          "confidence": 100,
+          "pageNumber": "56"
+        },
+        {
+          "leafNum": 56,
+          "ocr_value": [
+            "75"
+          ],
+          "confidence": 100,
+          "pageNumber": "57"
+        },
+        {
+          "leafNum": 57,
+          "ocr_value": [
+            "1000"
+          ],
+          "confidence": 100,
+          "pageNumber": "58"
+        },
+        {
+          "leafNum": 58,
+          "ocr_value": [
+            "1997"
+          ],
+          "confidence": 100,
+          "pageNumber": "59"
+        },
+        {
+          "leafNum": 59,
+          "ocr_value": [
+            "1997"
+          ],
+          "confidence": 100,
+          "pageNumber": "60"
+        },
+        {
+          "leafNum": 60,
+          "ocr_value": [
+            "1997"
+          ],
+          "confidence": 100,
+          "pageNumber": "61"
+        },
+        {
+          "leafNum": 61,
+          "ocr_value": [
+            "800",
+            "62"
+          ],
+          "confidence": 100,
+          "pageNumber": "62"
+        },
+        {
+          "leafNum": 62,
+          "ocr_value": [
+            "365",
+            "1997"
+          ],
+          "confidence": 0,
+          "pageNumber": "63"
+        },
+        {
+          "leafNum": 63,
+          "ocr_value": [
+            "38",
+            "112"
+          ],
+          "confidence": 0,
+          "pageNumber": "64"
+        }
+      ]
+    },
+    "server": "ia801509.us.archive.org",
+    "uniq": 482641892,
+    "workable_servers": [
+      "ia801509.us.archive.org",
+      "ia601509.us.archive.org"
+    ]
+  },
+  "institution": "The South American Explorers Club",
+  "pdf_url": "https://archive.org/download/sae-mag-48/sae-mag-48.pdf",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,489 @@
+{
+  "source": "internet_archive",
+  "identifier": "madesimpleitalia0000unse",
+  "title": "Made simple. Italian",
+  "creator": null,
+  "year": 2008,
+  "subject": [
+    "Cooking, Italian",
+    "Quick and easy cooking",
+    "Brand name products"
+  ],
+  "description": [
+    "160 pages : 23 x 26 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720402.ca.archive.org",
+          "dir": "/0/items/madesimpleitalia0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720402.ca.archive.org",
+          "dir": "/0/items/madesimpleitalia0000unse"
+        }
+      ]
+    },
+    "created": 1758559062,
+    "d1": "ia600809.us.archive.org",
+    "d2": "ia800809.us.archive.org",
+    "dir": "/9/items/madesimpleitalia0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660542325",
+        "size": "12882",
+        "md5": "2e1c4d4679a7227575f8ef13750b93c7",
+        "crc32": "f9b1153c",
+        "sha1": "700401791fce3a769d96ce24c03003130637fdd5",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/madesimpleitalia0000unse_iabdash_2019-06-2120:31:43.log",
+        "source": "original",
+        "mtime": "1561120311",
+        "size": "1367",
+        "md5": "e3ca7f8f1e7959a1b72d6d38e7a8ddfc",
+        "crc32": "39b935c7",
+        "sha1": "b4620bd2ad05734bcc4dd094647520374c36eca0",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/madesimpleitalia0000unse_scanning_2019-06-2120:31:50.log",
+        "source": "original",
+        "mtime": "1561120317",
+        "size": "452241",
+        "md5": "f7051d9284e91b129e2362df93c5c880",
+        "crc32": "92a115fb",
+        "sha1": "09f367dd96cd990a80fc63cf6eef6ad4d4d04cd8",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "madesimpleitalia0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "madesimpleitalia0000unse_hocr.html",
+        "mtime": "1756984616",
+        "size": "116791106",
+        "private": "true",
+        "md5": "27bbea98a6248a12862b0b5572ae6dab",
+        "crc32": "c2615753",
+        "sha1": "0e1a4ccd5a59738ae9f37f1b0a0376af80f267f5"
+      },
+      {
+        "name": "madesimpleitalia0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "madesimpleitalia0000unse.pdf",
+        "mtime": "1756984368",
+        "size": "22037902",
+        "md5": "37010a231e785da5312abfcc7ac148d8",
+        "crc32": "4b11e7cc",
+        "sha1": "aa1cbee5015e8c20fb798207ab02b0f64259a8f4"
+      },
+      {
+        "name": "madesimpleitalia0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "madesimpleitalia0000unse_page_numbers.json",
+        "mtime": "1714975980",
+        "size": "21489571",
+        "md5": "5a725fb1dc7f7c8e388a8b509a0fee9a",
+        "crc32": "95085a08",
+        "sha1": "820eb1be7522a68612e7406d60d99532064acb27",
+        "private": "true"
+      },
+      {
+        "name": "madesimpleitalia0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "madesimpleitalia0000unse_jp2.zip",
+        "mtime": "1561128458",
+        "size": "1809986",
+        "md5": "9aa90da1d09bd472e827f040057ed1a6",
+        "crc32": "e4929684",
+        "sha1": "abd978112fcf1f387ff56b3457c987bbfb50a629",
+        "private": "true"
+      },
+      {
+        "name": "madesimpleitalia0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "madesimpleitalia0000unse_abbyy.gz",
+        "mtime": "1660541565",
+        "size": "1463754",
+        "md5": "ffebe68f6d3744854345797b31f2395a",
+        "crc32": "188607b4",
+        "sha1": "0f373cddb70d9dd9f6faed814e2182fe3ed2a674",
+        "private": "true"
+      },
+      {
+        "name": "madesimpleitalia0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "madesimpleitalia0000unse_scandata.xml",
+        "mtime": "1670588245",
+        "size": "789",
+        "md5": "66e83ea44a1471760684ec8140e68d3e",
+        "crc32": "930bc926",
+        "sha1": "4020610ec034dd7cd2af0c8e24162cf641fb57ef",
+        "private": "true"
+      },
+      {
+        "name": "madesimpleitalia0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1561123166",
+        "size": "1246",
+        "md5": "82f995fc36b4ea87f167dcae7b8fe3f7",
+        "crc32": "8e50106e",
+        "sha1": "9a04cdd56c74ee7e5ae0068909f8c510a723e520"
+      },
+      {
+        "name": "madesimpleitalia0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "madesimpleitalia0000unse_djvu.xml",
+        "mtime": "1660542320",
+        "size": "132087",
+        "md5": "661a83d884d0abce2ec1a5c4db997e44",
+        "crc32": "a1c5d4b2",
+        "sha1": "99030e0ba03019e908151601c3c923cd71459286",
+        "private": "true"
+      },
+      {
+        "name": "madesimpleitalia0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "madesimpleitalia0000unse_hocr.html",
+        "mtime": "1660541869",
+        "size": "1605101",
+        "md5": "aaacf1ebae3bdb972e7207d5023db3bc",
+        "crc32": "2122b7c8",
+        "sha1": "4c4e5845175797207cd40314c4e4c52cd6fa2833",
+        "private": "true"
+      },
+      {
+        "name": "madesimpleitalia0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "madesimpleitalia0000unse_abbyy.gz",
+        "mtime": "1561129263",
+        "size": "3488422",
+        "md5": "85b0e3994e96a9e0faa82193af04d3c2",
+        "crc32": "5e684bf6",
+        "sha1": "82a3b8a62e4011f4364d658d8fbc0798400648d7"
+      },
+      {
+        "name": "madesimpleitalia0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "madesimpleitalia0000unse.pdf",
+        "mtime": "1714976053",
+        "size": "21405955",
+        "md5": "90af2f725bf9a93238dce1a8c213c449",
+        "crc32": "a6f571c0",
+        "sha1": "9abaf20dd0f80eee0323ef3a236612563fdde918"
+      },
+      {
+        "name": "madesimpleitalia0000unse_events.json",
+        "source": "original",
+        "mtime": "1561123017",
+        "size": "51",
+        "md5": "f78c5ed7b2b0e85d6b36ebff4aec5bdf",
+        "crc32": "d266883a",
+        "sha1": "1c85bcc2c06f3f1dd07b39e93ab339c520aa04fe",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "madesimpleitalia0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "b21852c4d518346ef87c25e3ee390f36",
+        "summation": "md5"
+      },
+      {
+        "name": "madesimpleitalia0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "madesimpleitalia0000unse_chocr.html.gz",
+        "mtime": "1660541847",
+        "size": "3276141",
+        "md5": "c31f2ae41e0153cbece9e56966b4e838",
+        "crc32": "a2c71e19",
+        "sha1": "414988920eef1abd9286840d8811fbfa7d633c9c",
+        "private": "true"
+      },
+      {
+        "name": "madesimpleitalia0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "madesimpleitalia0000unse_hocr.html",
+        "mtime": "1660542002",
+        "size": "1854",
+        "md5": "a2b29c06d60598166882c56a5b6bfd86",
+        "crc32": "13225741",
+        "sha1": "05a736d79b7e4c159fe961fd63ade30790227d4c",
+        "private": "true"
+      },
+      {
+        "name": "madesimpleitalia0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "105",
+        "word_conf_11_20": "62",
+        "word_conf_21_30": "52",
+        "word_conf_31_40": "134",
+        "word_conf_41_50": "192",
+        "word_conf_51_60": "339",
+        "word_conf_61_70": "842",
+        "word_conf_71_80": "2180",
+        "word_conf_81_90": "5565",
+        "word_conf_91_100": "9014",
+        "format": "OCR Search Text",
+        "original": "madesimpleitalia0000unse_hocr.html",
+        "mtime": "1660542293",
+        "size": "33442",
+        "md5": "6bc09d6ec011d85ca2eb00ceaa495e93",
+        "crc32": "de2c475b",
+        "sha1": "2951f7b4526afc86f6477179f235e36b8a42fc76",
+        "private": "true"
+      },
+      {
+        "name": "madesimpleitalia0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "madesimpleitalia0000unse_orig_jp2.tar",
+        "mtime": "1561126659",
+        "size": "138275430",
+        "md5": "71bab2f9c141e51d46c8883047e8950a",
+        "crc32": "b6a7195d",
+        "sha1": "12904bf2394509853c1410a180b2bcd611c025ac",
+        "private": "true",
+        "filecount": "176"
+      },
+      {
+        "name": "madesimpleitalia0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "madesimpleitalia0000unse.epub",
+        "mtime": "1756985259",
+        "size": "117282464",
+        "md5": "6f025a36426bcf29f9fb3f3717e21c5e",
+        "crc32": "7a64e7fe",
+        "sha1": "65228148d0b5aa51e01098d867e53be47d7525a8"
+      },
+      {
+        "name": "madesimpleitalia0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593053641",
+        "size": "2167",
+        "format": "JSON",
+        "private": "true",
+        "md5": "43e062cd710e3a00920ecd6f92c546f2",
+        "crc32": "eddb84fe",
+        "sha1": "3533c9e3385b242874c7a4d85d97d3483e93657a"
+      },
+      {
+        "name": "madesimpleitalia0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1561123164",
+        "size": "4505",
+        "format": "MARC",
+        "md5": "7b1682b6f61635c466b8a9db3fb877c2",
+        "crc32": "c5eba449",
+        "sha1": "7677e07e8dc8cc0ef051bbcda050e65b0216f47a"
+      },
+      {
+        "name": "madesimpleitalia0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1561120304",
+        "size": "1304",
+        "md5": "f35b33e37591aa3faf341214d3dc9bac",
+        "crc32": "1f1088cf",
+        "sha1": "fc2d9b614f9792f6999ff4fdcc2c1be2520aa40d",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "madesimpleitalia0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1561123095",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "fae48ef24635bd20d496adda95d76022",
+        "crc32": "f2c89a97",
+        "sha1": "23881ca5339074388a48feae2d00bfbff3d321c4"
+      },
+      {
+        "name": "madesimpleitalia0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1756985260",
+        "size": "3069",
+        "format": "Metadata",
+        "md5": "b9a90b5bebbc28f7221b22cc9fbd53cc",
+        "crc32": "f13f0dee",
+        "sha1": "a6b7e1239ba8c296c30c8a88ce532faf50dae2f7"
+      },
+      {
+        "name": "madesimpleitalia0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1561123095",
+        "size": "348968960",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "83b3b692417dc2851dc065f66320f6e3",
+        "crc32": "1c1ee0ed",
+        "sha1": "7d4b74e2f59f77564eac0c4ad1f5710ade368241",
+        "filecount": "176"
+      },
+      {
+        "name": "madesimpleitalia0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "madesimpleitalia0000unse_hocr.html",
+        "mtime": "1714975980",
+        "size": "29675",
+        "md5": "33924a588529f4dd235f39fd554cf565",
+        "crc32": "3b38df16",
+        "sha1": "2db3475d98f1783906d3a541cfbba44daec4b1c4",
+        "private": "true"
+      },
+      {
+        "name": "madesimpleitalia0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670588244",
+        "size": "180207",
+        "format": "Scandata",
+        "md5": "16e107849eb478b283113b163a6d7ce2",
+        "crc32": "0420f161",
+        "sha1": "6b644823769f2e0347480bff5c6050fd0151b35e"
+      },
+      {
+        "name": "madesimpleitalia0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "madesimpleitalia0000unse_djvu.xml",
+        "mtime": "1670587712",
+        "size": "610",
+        "md5": "54e390571711e265ef182d7bd1baed6d",
+        "crc32": "8b982067",
+        "sha1": "a5b0905803a3bfa4b285ca938eca3256b4af7e1b",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1756985260,
+    "item_size": 798769696,
+    "metadata": {
+      "identifier": "madesimpleitalia0000unse",
+      "associated-names": "Publications International, Ltd",
+      "boxid": "IA1256623",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2008-01-01",
+      "description": [
+        "160 pages : 23 x 26 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "9781412729109",
+        "1412729106"
+      ],
+      "language": "eng",
+      "lccn": "2008920455",
+      "mediatype": "texts",
+      "old_pallet": "IA16218",
+      "operator": "associate-sheilamae-gonzales@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International, Ltd.",
+      "repub_state": "19",
+      "scanner": "station25.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781412729109",
+      "subject": [
+        "Cooking, Italian",
+        "Quick and easy cooking",
+        "Brand name products"
+      ],
+      "title": "Made simple. Italian",
+      "tts_version": "2.1-final-6-g58a4a27",
+      "uploader": "station25.cebu@archive.org",
+      "addeddate": "2019-06-21 12:31:20",
+      "publicdate": "2019-06-21 12:31:52",
+      "imagecount": "176",
+      "scandate": "20190621125529",
+      "republisher_operator": "archivebooks04.cebu@archive.org",
+      "republisher_date": "20190621211652",
+      "republisher_time": "766",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/madesimpleitalia0000unse",
+      "identifier-ark": "ark:/13960/t2r57bp6j",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:madesimpleitalia0000unse:epub:ddd45414-4fb8-47d9-b4f7-297d73cf9cc5",
+        "urn:acs6:madesimpleitalia0000unse:pdf:5552c869-f6df-490a-abf5-9f8ef567c247",
+        "urn:oclc:record:1150280984",
+        "urn:lcp:madesimpleitalia0000unse:lcpdf:48584e16-0afc-4898-be23-7bf70632dbfc",
+        "urn:lcp:madesimpleitalia0000unse:epub:f7139034-d1f0-43e4-8bd1-daa669236641"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_edition": "OL23229343M",
+      "openlibrary_work": "OL18583922W",
+      "sponsordate": "ramp_up_20190630",
+      "access-restricted-item": "true",
+      "backup_location": "ia906906_4",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia800809.us.archive.org",
+    "uniq": 731375355,
+    "workable_servers": [
+      "ia800809.us.archive.org",
+      "ia600809.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,470 @@
+{
+  "source": "internet_archive",
+  "identifier": "countrychristmas0000unse",
+  "title": "Country Christmas recipes",
+  "creator": "None",
+  "year": 1996,
+  "subject": "Cooking",
+  "description": [
+    "94 p. ; cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/countrychristmas0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/countrychristmas0000unse"
+        }
+      ]
+    },
+    "created": 1758556349,
+    "d1": "ia600104.us.archive.org",
+    "d2": "ia800104.us.archive.org",
+    "dir": "/3/items/countrychristmas0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659798036",
+        "size": "23113",
+        "md5": "ff2d61e282899e88f7560b82ad02ff60",
+        "crc32": "2930b2c8",
+        "sha1": "b98ffbda9ba4f971619fa8f55c7ea081f0a60983",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "countrychristmas0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "countrychristmas0000unse_hocr.html",
+        "mtime": "1753195521",
+        "size": "37309895",
+        "private": "true",
+        "md5": "8f9221ba0bfcc69c84fed46a18457d43",
+        "crc32": "1c791bd6",
+        "sha1": "d6d87b431a1d9f45ce43ef942c4fe66d3112fc46"
+      },
+      {
+        "name": "countrychristmas0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "countrychristmas0000unse.pdf",
+        "mtime": "1753195482",
+        "size": "8567689",
+        "md5": "b7085f25e5251ab3a7316692c14669a7",
+        "crc32": "d72b2eef",
+        "sha1": "390d5fb155c07028517e432148063fc889dd0cee"
+      },
+      {
+        "name": "countrychristmas0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "countrychristmas0000unse_page_numbers.json",
+        "mtime": "1719224185",
+        "size": "8116494",
+        "md5": "02dc6e4bdc6309a958b0cca7f4a1d856",
+        "crc32": "0f33197a",
+        "sha1": "73f16421ba099182f7c1c360d8b9400f7c63cd56",
+        "private": "true"
+      },
+      {
+        "name": "countrychristmas0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "countrychristmas0000unse_jp2.zip",
+        "mtime": "1540456588",
+        "size": "1684461",
+        "md5": "5703912efa8d049158764bb42a61b609",
+        "crc32": "3953cc73",
+        "sha1": "6196bbe50f9d2ddad53fc073a4d896730b795e02",
+        "private": "true"
+      },
+      {
+        "name": "countrychristmas0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "countrychristmas0000unse_abbyy.gz",
+        "mtime": "1659797940",
+        "size": "1354607",
+        "md5": "3aafe19f32b0842d3dbfd1aa7af473a6",
+        "crc32": "2e43deff",
+        "sha1": "c7e1a4c5cb87c5358a067c22eefed4e000b134a4",
+        "private": "true"
+      },
+      {
+        "name": "countrychristmas0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "countrychristmas0000unse_scandata.xml",
+        "mtime": "1669690564",
+        "size": "788",
+        "md5": "e96331c9a146340fa31a74ef247998d4",
+        "crc32": "b771adf7",
+        "sha1": "5e29763f98041b2e0e0191c5e3c73ff3c08bdffb",
+        "private": "true"
+      },
+      {
+        "name": "countrychristmas0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1540454691",
+        "size": "945",
+        "md5": "b79df98aa6e895d1a5549d9ccf8eec8a",
+        "crc32": "adb4a831",
+        "sha1": "a8dec38b70488bb3efd2fbf4b3b8614496a22e3e"
+      },
+      {
+        "name": "countrychristmas0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "countrychristmas0000unse_djvu.xml",
+        "mtime": "1659798031",
+        "size": "121027",
+        "md5": "86b88b16747430ecbdb23724da3ea732",
+        "crc32": "84e09240",
+        "sha1": "567f2eac26a6afa645fdd67990b60ad2ec9f9dfa",
+        "private": "true"
+      },
+      {
+        "name": "countrychristmas0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "countrychristmas0000unse_hocr.html",
+        "mtime": "1659797999",
+        "size": "1423755",
+        "md5": "b30d8a1e7770cf7fe708c35024ea3106",
+        "crc32": "609ae534",
+        "sha1": "b944918724cb47fc2b7d51f36cb16843075d8a6d",
+        "private": "true"
+      },
+      {
+        "name": "countrychristmas0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "countrychristmas0000unse_abbyy.gz",
+        "mtime": "1540457193",
+        "size": "2497914",
+        "md5": "f9e984a042cfc38ca151bbee8565dfc1",
+        "crc32": "f08f97b1",
+        "sha1": "f047896c13b4a75f5eceb98b15949a3e20574c29"
+      },
+      {
+        "name": "countrychristmas0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "countrychristmas0000unse.pdf",
+        "mtime": "1719224658",
+        "size": "8064483",
+        "md5": "90ef30ac8cfac6ecf04d74502275f1fd",
+        "crc32": "0df7158c",
+        "sha1": "724042d0b24b3f06c3a243eb7f79dfcf20fd0764"
+      },
+      {
+        "name": "countrychristmas0000unse_events.json",
+        "source": "original",
+        "mtime": "1540454332",
+        "size": "54",
+        "md5": "54ebdd8f57e7e376f0ba0f91b175ece5",
+        "crc32": "43e8c267",
+        "sha1": "8d23ec15a1734fe835f0281bf502bb2aca2aba75",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "countrychristmas0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "c29936452611537de1c1e282f48d1327",
+        "summation": "md5"
+      },
+      {
+        "name": "countrychristmas0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "countrychristmas0000unse_chocr.html.gz",
+        "mtime": "1659797983",
+        "size": "2942501",
+        "md5": "d371990219a8f6cfb720da029da5e2b2",
+        "crc32": "e2492785",
+        "sha1": "979cc21dd72b7e428b44c530323fb52f6ec5a9f7",
+        "private": "true"
+      },
+      {
+        "name": "countrychristmas0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "countrychristmas0000unse_hocr.html",
+        "mtime": "1659798007",
+        "size": "1078",
+        "md5": "9d75f2ddde17216c96a1285acc9998e7",
+        "crc32": "8a8a54d6",
+        "sha1": "3293b5b9620d4cb7e01d36ae11cd69c5bd91284e",
+        "private": "true"
+      },
+      {
+        "name": "countrychristmas0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "207",
+        "word_conf_11_20": "97",
+        "word_conf_21_30": "168",
+        "word_conf_31_40": "247",
+        "word_conf_41_50": "308",
+        "word_conf_51_60": "471",
+        "word_conf_61_70": "1135",
+        "word_conf_71_80": "2647",
+        "word_conf_81_90": "4922",
+        "word_conf_91_100": "6819",
+        "format": "OCR Search Text",
+        "original": "countrychristmas0000unse_hocr.html",
+        "mtime": "1659798022",
+        "size": "29259",
+        "md5": "312faec5fc43628cf1f839df8fde7324",
+        "crc32": "80bd450b",
+        "sha1": "ccfa4b045938a0d132072eb960656bdef05bb299",
+        "private": "true"
+      },
+      {
+        "name": "countrychristmas0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "countrychristmas0000unse_orig_jp2.tar",
+        "mtime": "1540455941",
+        "size": "52411429",
+        "md5": "c6558dbf0b08a671ea1d6f06e89d9f67",
+        "crc32": "d2ea74b1",
+        "sha1": "be4ffcfa92b8c7ad9e2de92a7438b44f7cce8679",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "countrychristmas0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "countrychristmas0000unse.epub",
+        "mtime": "1753195534",
+        "size": "37788059",
+        "md5": "0066b6b155fae962225b1abe21d754c1",
+        "crc32": "3337760e",
+        "sha1": "bcac7ed50818fcdb4b393f5b89b6dc5037e24fca"
+      },
+      {
+        "name": "countrychristmas0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1540454691",
+        "size": "2068",
+        "format": "MARC",
+        "md5": "41ef3764c7c3d206ffa3ad4abe6b0b6f",
+        "crc32": "5ca1d9a7",
+        "sha1": "c33cb7765ed7c087fba1e920cc888dd676f629d4"
+      },
+      {
+        "name": "countrychristmas0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1540266309",
+        "size": "619",
+        "md5": "637bc5b5e46651e76e312bdd64da94fe",
+        "crc32": "c1f07e35",
+        "sha1": "604a0c808e4a1beb24f3e57cd8727d634e487a52",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "countrychristmas0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1540454639",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "ff782d0121a15c902e40d094cd92a3d2",
+        "crc32": "bd8ebdb6",
+        "sha1": "40faeaadb3c3cc0da2ff1cbf906c6709dac2e18c"
+      },
+      {
+        "name": "countrychristmas0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753195535",
+        "size": "2857",
+        "format": "Metadata",
+        "md5": "97c4bcf9f3c00e0fe5b5cff5f78795df",
+        "crc32": "f24c5052",
+        "sha1": "06d905d05a83da0ff1e30e288e93b3e4ad2930fb"
+      },
+      {
+        "name": "countrychristmas0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1540454638",
+        "size": "102461440",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "5747a0f01b31aebf2d81598570c177e8",
+        "crc32": "e81bd54f",
+        "sha1": "8a0c3f4bb29efc9ffb157ff6345198be61aa4957",
+        "filecount": "102"
+      },
+      {
+        "name": "countrychristmas0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "71",
+        "format": "Page Numbers JSON",
+        "original": "countrychristmas0000unse_hocr.html",
+        "mtime": "1719224185",
+        "size": "17107",
+        "md5": "e2313511e04bf4207f0dc6cd110eecef",
+        "crc32": "a9c5bda8",
+        "sha1": "cc3db0dbea3934cf04a33e78121e7060f96ab6d5",
+        "private": "true"
+      },
+      {
+        "name": "countrychristmas0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1669690564",
+        "size": "104031",
+        "format": "Scandata",
+        "md5": "393b3b921ded8e69a91a8c27958d0d96",
+        "crc32": "05adbaf3",
+        "sha1": "1002eb7881bc14d0ae521b66888b35c5bff4944d"
+      },
+      {
+        "name": "countrychristmas0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "countrychristmas0000unse_djvu.xml",
+        "mtime": "1669690472",
+        "size": "524",
+        "md5": "3d2bdabbcb64e463e6dfacafbedc0c36",
+        "crc32": "216352f9",
+        "sha1": "ffc81ffbed03d35e1ffa15120ac16efa95a2480f",
+        "private": "true"
+      },
+      {
+        "name": "logs/countrychristmas0000unse_iabdash_2018-10-2311:44:49.log",
+        "source": "original",
+        "mtime": "1540266296",
+        "size": "1343",
+        "md5": "d9d108ec3fd632b4c18010f3ab6618ba",
+        "crc32": "829db8f2",
+        "sha1": "44b465459bc0f119a5ec32c649ba786c4e2a6f4f",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/countrychristmas0000unse_scanning_2018-10-2311:44:44.log",
+        "source": "original",
+        "mtime": "1540266290",
+        "size": "184588",
+        "md5": "ced31fb98f36c94ed9514c1de10d100d",
+        "crc32": "175918a0",
+        "sha1": "e478fb87400a2409d2b1b50ecf23b70ed0e48eb7",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1753195535,
+    "item_size": 265128512,
+    "metadata": {
+      "identifier": "countrychristmas0000unse",
+      "boxid": "IA1361319",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "None",
+      "creator-alt-script": "None",
+      "date": "1996-01-01",
+      "description": [
+        "94 p. ; cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "0785309896",
+        "9780785309895"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA15452",
+      "operator": "associate-ria-gargoles@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International, LTD",
+      "repub_state": "19",
+      "scanner": "station01.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "title": "Country Christmas recipes",
+      "title-alt-script": "None",
+      "tts_version": "v1.61-final",
+      "uploader": "station01.cebu@archive.org",
+      "addeddate": "2018-10-23 03:44:31",
+      "publicdate": "2018-10-23 03:46:27",
+      "imagecount": "102",
+      "scandate": "20181023064910",
+      "subject": "Cooking",
+      "republisher_operator": "associate-janice-capul@archive.org",
+      "republisher_date": "20181025155846",
+      "republisher_time": "238",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/countrychristmas0000unse",
+      "identifier-ark": "ark:/13960/t9384nv7x",
+      "bookplateleaf": "0004",
+      "external-identifier": [
+        "urn:acs6:countrychristmas0000unse:epub:150094f2-1a11-4c7d-b79c-10c1633a4cef",
+        "urn:acs6:countrychristmas0000unse:pdf:c425119c-7531-45ef-8990-ce03415b2f7a",
+        "urn:oclc:record:1148610679",
+        "urn:lcp:countrychristmas0000unse:lcpdf:ec927e50-c28d-4649-9db9-b3446dba32c1",
+        "urn:lcp:countrychristmas0000unse:epub:6864ce83-d096-4e5a-ad58-9159d41d14d3"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20181031",
+      "access-restricted-item": "true",
+      "backup_location": "ia906803_13",
+      "openlibrary_edition": "OL32089649M",
+      "openlibrary_work": "OL24257890W",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "71",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800104.us.archive.org",
+    "uniq": 881663260,
+    "workable_servers": [
+      "ia800104.us.archive.org",
+      "ia600104.us.archive.org"
+    ]
+  },
+  "institution": "None",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

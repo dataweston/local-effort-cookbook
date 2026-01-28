@@ -1,0 +1,537 @@
+{
+  "source": "internet_archive",
+  "identifier": "wagontrain0000brya",
+  "title": "The wagon train",
+  "creator": "Bryant, Jill",
+  "year": 2003,
+  "subject": [
+    "Frontier and pioneer life -- West (U.S.) -- Juvenile literature",
+    "Overland journeys to the Pacific -- Juvenile literature",
+    "Pioneers -- West (U.S.) -- History -- 19th century -- Juvenile literature",
+    "Frontier and pioneer life -- West (U.S.)",
+    "Overland journeys to the Pacific",
+    "Pioneers -- West (U.S.)",
+    "Frontier and pioneer life",
+    "Manners and customs",
+    "Pioneers",
+    "Pioneers -- West (U.S.) -- History -- 19th century",
+    "West (U.S.) -- History -- 19th century -- Juvenile literature",
+    "West (U.S.) -- Social life and customs -- 19th century -- Juvenile literature",
+    "West (U.S.) -- History",
+    "West (U.S.) -- Social life and customs",
+    "United States, West",
+    "West (U.S.) -- History -- 19th century",
+    "West (U.S.) -- Social life and customs -- 19th century"
+  ],
+  "description": [
+    "24 pages : 27 cm",
+    "Briefly explores what it was like to travel across the country by wagon train, including first-hand accounts about such things as cooking on the trail and dangers to be faced",
+    "Includes bibliographical references (page 20) and index",
+    "Includes bibliographical references and index",
+    "Safety in numbers -- Packing the wagon -- Wake up call -- Daily life -- The covered wagon -- Cooking on the trail -- The hardships -- Map of the major westward trails"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/wagontrain0000brya"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/wagontrain0000brya"
+        }
+      ]
+    },
+    "created": 1758559424,
+    "d1": "ia903109.us.archive.org",
+    "d2": "ia803109.us.archive.org",
+    "dir": "/20/items/wagontrain0000brya",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661248211",
+        "size": "22702",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "21f7f2c7fc8cafff176f767a9353cef6",
+        "crc32": "ede3e3f3",
+        "sha1": "70f3df70a97cce1e93294565c1e19271e0cd0614"
+      },
+      {
+        "name": "logs/wagontrain0000brya_iabdash_2018-05-19143707.log",
+        "source": "original",
+        "mtime": "1526711868",
+        "size": "1017",
+        "md5": "69c8e5b34b1da2986e7ffe12fd55050d",
+        "crc32": "b94016de",
+        "sha1": "99f68012e1cbcd3e2f68402c5051eff110ba2c42",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/wagontrain0000brya_scanning_2018-05-19143702.log",
+        "source": "original",
+        "mtime": "1526711861",
+        "size": "102498",
+        "md5": "a182bca0c44010e2bf77035a9487b32d",
+        "crc32": "c10bfb79",
+        "sha1": "76d3903085883c7b116de8aa441e4e391caaa9c6",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "wagontrain0000brya.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "wagontrain0000brya_hocr.html",
+        "mtime": "1754153991",
+        "size": "35130754",
+        "private": "true",
+        "md5": "c2f69ecd3b2b189b412d02a9b47101f8",
+        "crc32": "55b41601",
+        "sha1": "2256c34827ad94412b899439634e194f2bdd05c1"
+      },
+      {
+        "name": "wagontrain0000brya.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "wagontrain0000brya.pdf",
+        "mtime": "1754153864",
+        "size": "10203022",
+        "md5": "7dabcfa6e084a98f4d3da5da943fc8b4",
+        "crc32": "c51238c6",
+        "sha1": "bfbe548b20e4b1f6810014db73d49db1a5ee6ef3"
+      },
+      {
+        "name": "wagontrain0000brya.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "wagontrain0000brya_page_numbers.json",
+        "mtime": "1726515239",
+        "size": "9583804",
+        "md5": "1fc2212c8d4d122cdd7e1671d99bd75b",
+        "crc32": "9c96e4cb",
+        "sha1": "336c2240e992b630e701c2687852df5a55c2b694",
+        "private": "true"
+      },
+      {
+        "name": "wagontrain0000brya_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "wagontrain0000brya_jp2.zip",
+        "mtime": "1527148683",
+        "size": "222854",
+        "md5": "19aff66229561ce859033473b3aab4be",
+        "crc32": "939b8c4a",
+        "sha1": "3bca91c347a43e23211ddef008eb09d6b69e856f",
+        "private": "true"
+      },
+      {
+        "name": "wagontrain0000brya_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "wagontrain0000brya_abbyy.gz",
+        "mtime": "1661246483",
+        "size": "169469",
+        "md5": "ae7ece514443b742afb572d3f0cd1bbc",
+        "crc32": "6d363207",
+        "sha1": "a8fa2744470963f3b76e29a8134b1986aa0c4dc0",
+        "private": "true"
+      },
+      {
+        "name": "wagontrain0000brya_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "wagontrain0000brya_scandata.xml",
+        "mtime": "1671665976",
+        "size": "763",
+        "md5": "4b2cee903b5f03fadbf41a407b5f30de",
+        "crc32": "75d573b3",
+        "sha1": "d464aa5b54482acd2eb5eb2d1e21c975900605b5",
+        "private": "true"
+      },
+      {
+        "name": "wagontrain0000brya_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1527147263",
+        "size": "3275",
+        "md5": "047cf9aabd868bdd2f54d7940d9de42b",
+        "crc32": "36a30c55",
+        "sha1": "2d2703c9caa889d0bcd5901f86fd430fb59a76fd"
+      },
+      {
+        "name": "wagontrain0000brya_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "wagontrain0000brya_djvu.xml",
+        "mtime": "1661248201",
+        "size": "14204",
+        "md5": "aaef07362d56c7944faa1cb8ddf6db8e",
+        "crc32": "44db40c8",
+        "sha1": "cc94ec4ea41662c2a5e5c6ab002def36b240f214",
+        "private": "true"
+      },
+      {
+        "name": "wagontrain0000brya_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "wagontrain0000brya_hocr.html",
+        "mtime": "1661247370",
+        "size": "187643",
+        "md5": "68297961cf94ea3f4bf1aaa45208e666",
+        "crc32": "e51a4132",
+        "sha1": "892777432b7ac6b213e60354cf14e7215a1c3389",
+        "private": "true"
+      },
+      {
+        "name": "wagontrain0000brya_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "wagontrain0000brya_abbyy.gz",
+        "mtime": "1527149066",
+        "size": "2628600",
+        "md5": "526ac6885c601972ce2adac65598b9f8",
+        "crc32": "6ddd1ef5",
+        "sha1": "7c53b6911406544396c5bbba75f09f5f4e13d2c4"
+      },
+      {
+        "name": "wagontrain0000brya_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "wagontrain0000brya.pdf",
+        "mtime": "1726515432",
+        "size": "9568950",
+        "md5": "eb945377c9ed56ed6597c44f03092f34",
+        "crc32": "1ee94386",
+        "sha1": "6ade9d4c1df9d1425fc63707e142b4c03e17bd54"
+      },
+      {
+        "name": "wagontrain0000brya_events.json",
+        "source": "original",
+        "mtime": "1527146796",
+        "size": "51",
+        "md5": "5cdb7d92c83b9339fb88d924f870f972",
+        "crc32": "effed289",
+        "sha1": "f29c497d5c87349db8d61cc996c7d36e1daa4058",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "wagontrain0000brya_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9485e068827e4d558aca98c182f3b7b0",
+        "summation": "md5"
+      },
+      {
+        "name": "wagontrain0000brya_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "wagontrain0000brya_chocr.html.gz",
+        "mtime": "1661247209",
+        "size": "411061",
+        "md5": "bdf281abf0422468c050b6be39673c1c",
+        "crc32": "37a61cd2",
+        "sha1": "5d0872118f1219fb961639b80f6819386984d369",
+        "private": "true"
+      },
+      {
+        "name": "wagontrain0000brya_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "wagontrain0000brya_hocr.html",
+        "mtime": "1661247683",
+        "size": "364",
+        "md5": "e896631aeae9deb74fbbd35286afefd8",
+        "crc32": "5366150f",
+        "sha1": "c7ff7f25cf8b61b11804656139f229c36b52c1ce",
+        "private": "true"
+      },
+      {
+        "name": "wagontrain0000brya_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "66",
+        "word_conf_11_20": "11",
+        "word_conf_21_30": "13",
+        "word_conf_31_40": "21",
+        "word_conf_41_50": "25",
+        "word_conf_51_60": "47",
+        "word_conf_61_70": "102",
+        "word_conf_71_80": "254",
+        "word_conf_81_90": "497",
+        "word_conf_91_100": "1027",
+        "format": "OCR Search Text",
+        "original": "wagontrain0000brya_hocr.html",
+        "mtime": "1661248106",
+        "size": "5891",
+        "md5": "b2aa94fb9ffbd6c707d11b545b753e4c",
+        "crc32": "18772162",
+        "sha1": "22e045cdeadc95f57386ba22d548812913070af0",
+        "private": "true"
+      },
+      {
+        "name": "wagontrain0000brya_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "wagontrain0000brya_orig_jp2.tar",
+        "mtime": "1527147973",
+        "size": "67195732",
+        "md5": "16914f33f6404fd576409b0125d7e28f",
+        "crc32": "f7954e37",
+        "sha1": "4fffbf8cffe9be32bcba7849d7d7cc7c705c5127",
+        "private": "true",
+        "filecount": "34"
+      },
+      {
+        "name": "wagontrain0000brya_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "wagontrain0000brya.epub",
+        "mtime": "1754154194",
+        "size": "35820305",
+        "md5": "ca58957492beed00e6b2543e82787507",
+        "crc32": "53e4b474",
+        "sha1": "260d581311e631299b83c3e1889837933a82b770"
+      },
+      {
+        "name": "wagontrain0000brya_loans.json",
+        "source": "original",
+        "mtime": "1590190141",
+        "size": "1009",
+        "format": "JSON",
+        "private": "true",
+        "md5": "bf26a8455a17c10640413e4e2cf5da12",
+        "crc32": "9eab5b34",
+        "sha1": "8addd9d207c9453c584045c30e75cbf8e6cc4830"
+      },
+      {
+        "name": "wagontrain0000brya_marc.xml",
+        "source": "original",
+        "mtime": "1527147263",
+        "size": "10201",
+        "format": "MARC",
+        "md5": "26dc8eec7661106da1c1fb63fc0253d2",
+        "crc32": "a263bb51",
+        "sha1": "c2c181f823d395d0b5c8bcc00ec1075def0d5619"
+      },
+      {
+        "name": "wagontrain0000brya_meta.mrc",
+        "source": "original",
+        "mtime": "1526711878",
+        "size": "3207",
+        "md5": "73da01ad3387d7c35693f1351590b644",
+        "crc32": "a8fb8b3a",
+        "sha1": "38715d74197ac58d78659d8fb66cf9660b5d367d",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "wagontrain0000brya_meta.sqlite",
+        "source": "original",
+        "mtime": "1527147219",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "549bcb7bb390385fd64b50449c7a69b5",
+        "crc32": "b59de83d",
+        "sha1": "b7113a5fd5a743381d1783a6423fd69b0a73c9d2"
+      },
+      {
+        "name": "wagontrain0000brya_meta.xml",
+        "source": "original",
+        "mtime": "1754154194",
+        "size": "5115",
+        "format": "Metadata",
+        "md5": "18d661cce8e47e32a0623595371f0c30",
+        "crc32": "07fe15d6",
+        "sha1": "9705a34551453b0615b6be2369b5f33578b7b756"
+      },
+      {
+        "name": "wagontrain0000brya_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1527147218",
+        "size": "88862720",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "078933256268cbc6662ea3d736a0637b",
+        "crc32": "882edb55",
+        "sha1": "688682c2462dee97dbcd4b3ab0d34b3284cb89b6",
+        "filecount": "34"
+      },
+      {
+        "name": "wagontrain0000brya_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "wagontrain0000brya_hocr.html",
+        "mtime": "1726515239",
+        "size": "5554",
+        "md5": "9d24d9fda99dae18926b08777e2eca4d",
+        "crc32": "6fd57937",
+        "sha1": "a8023d489dae3fc707bf31c2e459c79debe309c5",
+        "private": "true"
+      },
+      {
+        "name": "wagontrain0000brya_scandata.xml",
+        "source": "original",
+        "mtime": "1671665976",
+        "size": "34741",
+        "format": "Scandata",
+        "md5": "7bc6d89ac47ce099fd6eeb659209908d",
+        "crc32": "0c0c728b",
+        "sha1": "cefb34da5f9c1edd70ff98c407b41758457950b5"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1754154194,
+    "item_size": 260211890,
+    "metadata": {
+      "identifier": "wagontrain0000brya",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Bryant, Jill",
+      "date": "2003-01-01",
+      "isbn": [
+        "1590360826",
+        "9781590360828"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-eko-szeto@archive.org",
+      "ppi": "300",
+      "publisher": "Mankato, MN : Weigl",
+      "repub_state": "22",
+      "scanner": "ttscribe23.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "The wagon train ",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "uploader": "ttscribe23.hongkong@archive.org",
+      "addeddate": "2018-05-19 06:37:27",
+      "publicdate": "2018-05-19 06:39:34",
+      "imagecount": "34",
+      "scandate": "20180519081240",
+      "subject": [
+        "Frontier and pioneer life -- West (U.S.) -- Juvenile literature",
+        "Overland journeys to the Pacific -- Juvenile literature",
+        "Pioneers -- West (U.S.) -- History -- 19th century -- Juvenile literature",
+        "Frontier and pioneer life -- West (U.S.)",
+        "Overland journeys to the Pacific",
+        "Pioneers -- West (U.S.)",
+        "Frontier and pioneer life",
+        "Manners and customs",
+        "Overland journeys to the Pacific",
+        "Pioneers",
+        "Frontier and pioneer life -- West (U.S.)",
+        "Overland journeys to the Pacific",
+        "Pioneers -- West (U.S.) -- History -- 19th century",
+        "West (U.S.) -- History -- 19th century -- Juvenile literature",
+        "West (U.S.) -- Social life and customs -- 19th century -- Juvenile literature",
+        "West (U.S.) -- History",
+        "West (U.S.) -- Social life and customs",
+        "United States, West",
+        "West (U.S.) -- History -- 19th century",
+        "West (U.S.) -- Social life and customs -- 19th century"
+      ],
+      "lccn": "2002012727",
+      "description": [
+        "24 pages : 27 cm",
+        "Briefly explores what it was like to travel across the country by wagon train, including first-hand accounts about such things as cooking on the trail and dangers to be faced",
+        "Includes bibliographical references (page 20) and index",
+        "Briefly explores what it was like to travel across the country by wagon train, including first-hand accounts about such things as cooking on the trail and dangers to be faced",
+        "Includes bibliographical references and index",
+        "Safety in numbers -- Packing the wagon -- Wake up call -- Daily life -- The covered wagon -- Cooking on the trail -- The hardships -- Map of the major westward trails"
+      ],
+      "republisher_operator": "republisher20.dhaka@archive.org",
+      "republisher_date": "20180524132618",
+      "republisher_time": "331",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/wagontrain0000brya",
+      "identifier-ark": "ark:/13960/t7vn12p3n",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:wagontrain0000brya:epub:cefb96ce-2927-4d1a-a875-c2f2145e0379",
+        "urn:acs6:wagontrain0000brya:pdf:0525517a-1c83-4b44-a2b6-c74d00d20e37",
+        "urn:oclc:record:1151670770",
+        "urn:lcp:wagontrain0000brya:lcpdf:86d053c4-64b6-4717-91c3-b735586d98fb",
+        "urn:lcp:wagontrain0000brya:epub:720479fc-1beb-4456-bf6f-d3592f71f957"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "curation": "[curator]associate-francis-boyer@archive.org[/curator][date]20180524204051[/date]",
+      "boxid": "IA1227701",
+      "sponsordate": "20180531",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-05-20T11:48:17Z",
+      "loans__status__num_history": "4",
+      "openlibrary_edition": "OL3556015M",
+      "openlibrary_work": "OL5954790W",
+      "backup_location": "ia906705_12",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "filesxml": "Wed Apr 3 16:20:00 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia803109.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "cnusd-ol": {
+          "notes": {
+            "isbn": [
+              "9781590360828"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-06-25 06:48:38.813967"
+        }
+      }
+    },
+    "uniq": 956296448,
+    "workable_servers": [
+      "ia803109.us.archive.org",
+      "ia903109.us.archive.org"
+    ]
+  },
+  "institution": "Bryant, Jill",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Mankato"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

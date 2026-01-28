@@ -1,0 +1,590 @@
+{
+  "source": "internet_archive",
+  "identifier": "betterhomesorien00desm",
+  "title": "Better homes and gardens oriental cook book",
+  "creator": "Better Homes and Gardens",
+  "year": 1982,
+  "subject": "Cookery, Asian",
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/betterhomesorien00desm"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/betterhomesorien00desm"
+        }
+      ]
+    },
+    "created": 1758557059,
+    "d1": "ia600704.us.archive.org",
+    "d2": "ia800704.us.archive.org",
+    "dir": "/9/items/betterhomesorien00desm",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658704953",
+        "size": "26100",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "c6c4ed23e12b0e4a4601ba3344eb2edc",
+        "crc32": "60fc1cd7",
+        "sha1": "7be73998f9277b0ac744e9de8def39085bf6214c"
+      },
+      {
+        "name": "betterhomesorien00desm.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "betterhomesorien00desm_hocr.html",
+        "mtime": "1755040787",
+        "size": "13662634",
+        "private": "true",
+        "md5": "81f7920d2009aba06efea76e71015d13",
+        "crc32": "64feb378",
+        "sha1": "49786de5df7d153b810330e872e1799dabe02059"
+      },
+      {
+        "name": "betterhomesorien00desm.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "betterhomesorien00desm_jp2.zip",
+        "md5": "69ea0d2139842a8a6281e1e3e449498b",
+        "mtime": "1262695716",
+        "size": "262986",
+        "crc32": "6bbeda30",
+        "sha1": "45f10eb5a73d1134d3eb239770b9451d7f9a380c"
+      },
+      {
+        "name": "betterhomesorien00desm.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "betterhomesorien00desm.pdf",
+        "mtime": "1755040717",
+        "size": "8691706",
+        "md5": "273bbc9b8f30c64ef3aac68650968dde",
+        "crc32": "c74adf88",
+        "sha1": "a9497c8d09334b84787c92e9d957b98b8664107c"
+      },
+      {
+        "name": "betterhomesorien00desm.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "betterhomesorien00desm_page_numbers.json",
+        "mtime": "1716665072",
+        "size": "8202321",
+        "md5": "0bdf6b6a3ead1e3af88914d6cf572657",
+        "crc32": "9f43aaf1",
+        "sha1": "38ac1b57049a7244fb94cb74ea793846397d343c",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesorien00desm_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "betterhomesorien00desm_jp2.zip",
+        "md5": "2730c23b7d4a8a00dd4b45f24552ec50",
+        "mtime": "1262701084",
+        "size": "3362784",
+        "crc32": "6264dd90",
+        "sha1": "995b1b5c0d32eec79df38056a87e46974823c6c8",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesorien00desm_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "betterhomesorien00desm_page_numbers.json",
+        "mtime": "1716665074",
+        "size": "6855038",
+        "md5": "44000f5260c3d10e222d452ae929868c",
+        "crc32": "81f5d238",
+        "sha1": "217e9d6d9d52b34ca6b3b36a6f41db71d684d62f",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesorien00desm_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "betterhomesorien00desm_abbyy.gz",
+        "mtime": "1658704720",
+        "size": "2792210",
+        "md5": "2b7562bdcc3c9f5557b67bb4c12543f1",
+        "crc32": "7fa64c66",
+        "sha1": "4a78c186acc621b91b8debc6545e61af937fb8e5",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesorien00desm_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "betterhomesorien00desm_scandata.xml",
+        "mtime": "1669422566",
+        "size": "779",
+        "md5": "a331baadafda5617713063120331e483",
+        "crc32": "d283a9a7",
+        "sha1": "8f64f66b2f9eb736b302defdee9da35509e020f5",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesorien00desm_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "77411bdc6a1dd9fc81eb675ca735ca7c",
+        "mtime": "1261664640",
+        "size": "555",
+        "crc32": "24436533",
+        "sha1": "c9fd91d824f64d8fdf24f161d1d9fe5c819c2dab"
+      },
+      {
+        "name": "betterhomesorien00desm_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "betterhomesorien00desm_djvu.xml",
+        "mtime": "1721593126",
+        "size": "261548",
+        "md5": "3b12343b652e15aaa689d87b2b9949fe",
+        "crc32": "6319c85e",
+        "sha1": "458e91705096028d0b15de57e7d169f7e15d9a2c",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesorien00desm_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "betterhomesorien00desm_hocr.html",
+        "mtime": "1721593124",
+        "size": "3086537",
+        "md5": "183e13ac77229461d6d8db0c8521daa0",
+        "crc32": "1b782b0d",
+        "sha1": "6f1989d2d5b97b1df8d612cb28e3db80d6fe4cea",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesorien00desm_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "betterhomesorien00desm.pdf",
+        "mtime": "1716665370",
+        "size": "8185256",
+        "md5": "9a297aaf8527c3828df824e2413e421e",
+        "crc32": "7c717a8f",
+        "sha1": "bb12f6a4ebb35801931e26db5a299d6ec5003074"
+      },
+      {
+        "name": "betterhomesorien00desm_extramarc.xml",
+        "source": "original",
+        "mtime": "1420449528",
+        "size": "1962",
+        "md5": "514947373c3248535b80591c8ea13b14",
+        "crc32": "c96d8b22",
+        "sha1": "3faf3ab80f0f33f33f3559026b3c77e51fd6def0",
+        "format": "Metadata"
+      },
+      {
+        "name": "betterhomesorien00desm_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "82181c9089c7d8137770fe7773b92ad0",
+        "summation": "md5"
+      },
+      {
+        "name": "betterhomesorien00desm_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "betterhomesorien00desm_chocr.html.gz",
+        "mtime": "1658704839",
+        "size": "6074428",
+        "md5": "6be885b7613613efa5882965c3aa833b",
+        "crc32": "f23dc10b",
+        "sha1": "34e99cdf0a7de14c7d854d31eda110d47041d36f",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesorien00desm_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "betterhomesorien00desm_hocr.html",
+        "mtime": "1658704882",
+        "size": "1227",
+        "md5": "c43fd486ac0d36e396788f5bdb19d1f9",
+        "crc32": "087a7c77",
+        "sha1": "d0e700f3602a649ff5095dc557d9efe43b9f9f7f",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesorien00desm_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1565",
+        "word_conf_11_20": "905",
+        "word_conf_21_30": "2327",
+        "word_conf_31_40": "1887",
+        "word_conf_41_50": "4746",
+        "word_conf_51_60": "6040",
+        "word_conf_61_70": "8290",
+        "word_conf_71_80": "5952",
+        "word_conf_81_90": "1672",
+        "word_conf_91_100": "3788",
+        "format": "OCR Search Text",
+        "original": "betterhomesorien00desm_hocr.html",
+        "mtime": "1658704929",
+        "size": "66379",
+        "md5": "22842246a16fb713d72f12501a8f11f5",
+        "crc32": "15fb5ca5",
+        "sha1": "1be19a5a44c99f48c7bdc12406c2316c9331d7ad",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesorien00desm_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "betterhomesorien00desm_orig_jp2.tar",
+        "md5": "d2375370c65e8e244914cbc59b3d0adf",
+        "mtime": "1262695678",
+        "size": "61744831",
+        "crc32": "7647bb73",
+        "sha1": "1ac33324f4de5d81b03d107b09ebb3d28caa826c",
+        "private": "true",
+        "filecount": "106"
+      },
+      {
+        "name": "betterhomesorien00desm_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "betterhomesorien00desm.epub",
+        "mtime": "1755040830",
+        "size": "13691240",
+        "md5": "f78a039659adb6b9a3ffd2c556f548cf",
+        "crc32": "08b16b69",
+        "sha1": "257cfe16112d764e85c2b69c03270174aeb8e1db"
+      },
+      {
+        "name": "betterhomesorien00desm_loans.json",
+        "source": "original",
+        "mtime": "1593369754",
+        "size": "2837",
+        "format": "JSON",
+        "private": "true",
+        "md5": "4d1025ff352f5bf643fc722ae806972d",
+        "crc32": "395b638a",
+        "sha1": "eadf7160d4beb569a207941ef462869e570af7f2"
+      },
+      {
+        "name": "betterhomesorien00desm_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "a58c2df0dcf217dcc5c12a5a20999871",
+        "mtime": "1261664640",
+        "size": "2917",
+        "crc32": "f272fb0e",
+        "sha1": "650feed8d75f77364be087b27f11df99fb48d7d0"
+      },
+      {
+        "name": "betterhomesorien00desm_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "betterhomesorien00desm_xisbn.json",
+        "mtime": "1454287766",
+        "size": "803",
+        "md5": "37b5a9f90e5c4c1e6377a9f0bf9df2e8",
+        "crc32": "6fc9a8a2",
+        "sha1": "d850e997653ea9ce61eff8f404d09f0acd3d2653",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesorien00desm_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "25a936b07198004d0da54a70e9b1d957",
+        "mtime": "1261664640",
+        "size": "870",
+        "crc32": "41899842",
+        "sha1": "66e2fb524501f40a796e8e4329dd17c665c68543"
+      },
+      {
+        "name": "betterhomesorien00desm_meta.sqlite",
+        "source": "original",
+        "mtime": "1466983222",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "88546e79b3f6de9f3bb4300eb889321c",
+        "crc32": "11d88a23",
+        "sha1": "49b52d4980b9022223e2acbdc80c888df8c0dc89"
+      },
+      {
+        "name": "betterhomesorien00desm_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1755040830",
+        "size": "3556",
+        "md5": "950428f4f15a5839d04e88dffc0b3bd7",
+        "crc32": "ad449cd9",
+        "sha1": "484c5b5de442f333032ddf640e5a3f3fee489ef1"
+      },
+      {
+        "name": "betterhomesorien00desm_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "9c6d068f414b2c8ea4841ab5c0cff045",
+        "mtime": "1261664640",
+        "size": "405",
+        "crc32": "8cdfdadc",
+        "sha1": "5a12db9ecbc9ef4872446881dc8be2f6681b0232"
+      },
+      {
+        "name": "betterhomesorien00desm_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "2117ac3aadc8394f777165fe9c9a21d2",
+        "mtime": "1262693577",
+        "size": "103669760",
+        "crc32": "b14c107a",
+        "sha1": "13a58a77dc6039f922f889d2216257a56323be45",
+        "private": "true",
+        "filecount": "106"
+      },
+      {
+        "name": "betterhomesorien00desm_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "98",
+        "format": "Page Numbers JSON",
+        "original": "betterhomesorien00desm_hocr.html",
+        "mtime": "1716665072",
+        "size": "17050",
+        "md5": "1758b2b25c71b126bcd721fdfca860d6",
+        "crc32": "628da29d",
+        "sha1": "40a160a2661331ad9d3953c3244b4e3eddbfffd3",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesorien00desm_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "73221a7ebb3fb3a920bd458ba89c2a17",
+        "mtime": "1669422566",
+        "size": "55184",
+        "crc32": "403d8bdd",
+        "sha1": "f875dbdff2710184a7a1f0ef6666fd712c24274d"
+      },
+      {
+        "name": "betterhomesorien00desm_xisbn.json",
+        "source": "original",
+        "mtime": "1454079618",
+        "size": "1071",
+        "md5": "83e88c77c691d25214992edddd172290",
+        "crc32": "feb1942f",
+        "sha1": "a073a046889fdb25fd1351662a7132deb04ab6ce",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1755040830,
+    "item_size": 240731118,
+    "metadata": {
+      "title": "Better homes and gardens oriental cook book",
+      "creator": "Better Homes and Gardens",
+      "subject": "Cookery, Asian",
+      "description": "Includes index",
+      "publisher": "Des Moines, Iowa : Meredith",
+      "date": "1982-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696010453",
+        "9780696010453"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA102406",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "nyc",
+      "mediatype": "texts",
+      "updatedate": "2009-12-24 14:24:00",
+      "updater": "Christine Wagner",
+      "identifier": "betterhomesorien00desm",
+      "uploader": "christine.w@archive.org",
+      "addeddate": "2009-12-24 14:24:02",
+      "publicdate": "2009-12-24 14:24:12",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-kiersten-newman@archive.org",
+      "scanner": "scribe8.nyc.archive.org",
+      "scandate": "20100105120600",
+      "imagecount": "104",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/betterhomesorien00desm",
+      "identifier-ark": "ark:/13960/t3hx1zj2p",
+      "bookplateleaf": "0002",
+      "ocr": "ABBYY FineReader 8.0",
+      "curation": "[curator]stacy@archive.org[/curator][date]20110103170454[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:betterhomesorien00desm:pdf:f77dea9a-9a03-4983-83c6-0fff8f7e30a8",
+        "urn:acs6:betterhomesorien00desm:epub:0c6d0b5c-f6fb-4607-96a2-ae9371759f90",
+        "urn:oclc:record:1028724743",
+        "urn:lcp:betterhomesorien00desm:lcpdf:0ec7cc11-a09f-47b2-a14a-c4949dbf26f9",
+        "urn:lcp:betterhomesorien00desm:epub:4cdf45d1-fc5e-408f-9b37-23903801f9e0"
+      ],
+      "boxid_2": "CH112601",
+      "extramarc": "University of Michigan",
+      "city": "Des Moines",
+      "edition": "Large-format ed.",
+      "oclc-id": [
+        "123751179",
+        "317410450",
+        "71397217",
+        "768190107",
+        "779635589",
+        "9793502"
+      ],
+      "lccn": "77074592",
+      "related-external-id": [
+        "urn:isbn:069601047X",
+        "urn:lccn:77074592",
+        "urn:oclc:12182492",
+        "urn:isbn:0696002051",
+        "urn:oclc:3419969",
+        "urn:oclc:54383710",
+        "urn:oclc:807203819"
+      ],
+      "backup_location": "ia903604_21",
+      "openlibrary_edition": "OL24201546M",
+      "openlibrary_work": "OL15134172W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 9:20:18 UTC 2020",
+        "Tue Apr 2 22:06:57 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "98",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia600704.us.archive.org",
+    "uniq": 1847598680,
+    "workable_servers": [
+      "ia600704.us.archive.org",
+      "ia800704.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/123751179?referer=xid"
+          ],
+          "publisher": "Meredith",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "77074592"
+          ],
+          "lang": "eng",
+          "city": "Des Moines",
+          "author": "by th staff and editors of Better homes and gardens.",
+          "ed": "Large-format ed.",
+          "year": "1983",
+          "isbn": [
+            "0696010453"
+          ],
+          "title": "Oriental cookbook.",
+          "oclcnum": [
+            "123751179",
+            "317410450",
+            "71397217",
+            "768190107",
+            "779635589",
+            "9793502"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/12182492?referer=xid"
+          ],
+          "publisher": "Meredith",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "77074592"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "Better Homes and Gardens.",
+          "ed": "Soft-cover ed.",
+          "year": "1983",
+          "isbn": [
+            "069601047X"
+          ],
+          "title": "Oriental cook book",
+          "oclcnum": [
+            "12182492"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/3419969?referer=xid"
+          ],
+          "publisher": "Meredith",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "77074592"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "Better Homes and Gardens.",
+          "ed": "1st ed.",
+          "year": "1977",
+          "isbn": [
+            "0696002051"
+          ],
+          "title": "Better homes and gardens oriental cook book.",
+          "oclcnum": [
+            "3419969",
+            "54383710",
+            "807203819"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Better Homes and Gardens",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa, Michigan; Digitized scan available"
+}

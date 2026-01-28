@@ -1,0 +1,588 @@
+{
+  "source": "internet_archive",
+  "identifier": "countrywomanchri00coun_0",
+  "title": "Country woman Christmas, 2003",
+  "creator": "Pohl, Kathy",
+  "year": 2003,
+  "subject": [
+    "Christmas cooking",
+    "Christmas decorations"
+  ],
+  "description": [
+    "Cover title",
+    "\"Country books\"--Spine",
+    "Includes food, crafts, and much more from the Country Woman magazine"
+  ],
+  "metadata": {
+    "created": 1758556146,
+    "d1": "ia903200.us.archive.org",
+    "d2": "ia803200.us.archive.org",
+    "dir": "/28/items/countrywomanchri00coun_0",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659798718",
+        "size": "27210",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "aed7b7573e7d9b1ec6496662f7cd5a9a",
+        "crc32": "8adb5764",
+        "sha1": "a560da8cac549a1c9ec02c368b4c6ae4999775f5"
+      },
+      {
+        "name": "countrywomanchri00coun_0.cdx.gz",
+        "source": "original",
+        "mtime": "1513858720",
+        "size": "7131",
+        "format": "Item CDX Index",
+        "private": "true",
+        "md5": "b9e486e9e1c72afe5f038a30f96e34ee",
+        "crc32": "955b88bc",
+        "sha1": "e2707bd1509b149b36c01981e1cd9d31b3aab485"
+      },
+      {
+        "name": "countrywomanchri00coun_0.cdx.idx",
+        "source": "original",
+        "mtime": "1513858720",
+        "size": "40",
+        "format": "Item CDX Meta-Index",
+        "private": "true",
+        "md5": "1b1f2fbede29a817d4cc1a8794c05f64",
+        "crc32": "15fecd21",
+        "sha1": "ebc6fc4f0e9502d85b7e1947ccf9ffb057ca452c"
+      },
+      {
+        "name": "countrywomanchri00coun_0.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "countrywomanchri00coun_0_hocr.html",
+        "mtime": "1753197578",
+        "size": "61552966",
+        "private": "true",
+        "md5": "19c71acd416bc1268eb191973507b484",
+        "crc32": "9c2a727c",
+        "sha1": "1d47f384c9079aa68a6efd3b6dd63302c28024ff"
+      },
+      {
+        "name": "countrywomanchri00coun_0.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "countrywomanchri00coun_0.pdf",
+        "mtime": "1753196670",
+        "size": "17161383",
+        "md5": "e2e782bc0c2962e472ae227d55b70af5",
+        "crc32": "92052609",
+        "sha1": "ffbf6ff751fc9cf74f0b4d9dad2a675cae7e14cb"
+      },
+      {
+        "name": "countrywomanchri00coun_0.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "countrywomanchri00coun_0_page_numbers.json",
+        "mtime": "1719242808",
+        "size": "16552824",
+        "md5": "5a95b4a12d7c9d0b955de903df605186",
+        "crc32": "c9401862",
+        "sha1": "a324407fff963f513418d2872306ea9efbb4394c",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1365611244",
+        "size": "563053",
+        "md5": "031186fc728569c9217ea56ddc6c1d31",
+        "crc32": "1a5a6ac6",
+        "sha1": "a6f0f6f857b29a5e9b6280dd83a64dc280d49f9c"
+      },
+      {
+        "name": "countrywomanchri00coun_0.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "countrywomanchri00coun_0.warc.gz",
+        "mtime": "1513854723",
+        "size": "7287",
+        "md5": "1388ca79792e775abb34f21fe2625ae2",
+        "crc32": "2324ca41",
+        "sha1": "1435687f01b4cdf199b59fc773c403c0544b754f",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "countrywomanchri00coun_0_jp2.zip",
+        "mtime": "1513857694",
+        "size": "4952256",
+        "md5": "37d2079344bfa538f43820c22e77626a",
+        "crc32": "9705367c",
+        "sha1": "c13cf81ef1df56f75f58e87aceb90e1a0b8d95ce",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "countrywomanchri00coun_0_abbyy.gz",
+        "mtime": "1659798612",
+        "size": "4221845",
+        "md5": "e05f3adbfe55145c649f0044a6f7ad90",
+        "crc32": "49d26366",
+        "sha1": "7cc35b3df9da9e9a8de4cec4a3f12c4fcba1ee43",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "countrywomanchri00coun_0_scandata.xml",
+        "mtime": "1669691415",
+        "size": "788",
+        "md5": "591d544010860f521935140e7fca1d56",
+        "crc32": "f96fad92",
+        "sha1": "491b14146060349472ec10f29ec9272f97452dcc",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1454891947",
+        "size": "1016",
+        "md5": "849232981c9a1af0336aa3e74bb58977",
+        "crc32": "7c82ee2d",
+        "sha1": "5fa85a114aa3bbfd679f6ba7e483c3708da50260"
+      },
+      {
+        "name": "countrywomanchri00coun_0_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "countrywomanchri00coun_0_djvu.xml",
+        "mtime": "1659798712",
+        "size": "395036",
+        "md5": "b120f9d87c4542be28454b3c800c89d7",
+        "crc32": "380c26ff",
+        "sha1": "d36d42ebdf6c4afab703391cfe72203d3f3accb4",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "countrywomanchri00coun_0_hocr.html",
+        "mtime": "1659798678",
+        "size": "4768024",
+        "md5": "f9ea1adacfa3b31f4f51b31612f0cb0c",
+        "crc32": "16ac91be",
+        "sha1": "afe06bd191f7e160816b668d19b06309a3781d5f",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "countrywomanchri00coun_0_abbyy.gz",
+        "mtime": "1528812742",
+        "size": "11809494",
+        "md5": "de7d2b99f5cafa30eb69429fd2fc5e67",
+        "crc32": "622bc658",
+        "sha1": "758a9ee154239c23a60621b60426b5bbd5aba3fa"
+      },
+      {
+        "name": "countrywomanchri00coun_0_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "countrywomanchri00coun_0.pdf",
+        "mtime": "1719243228",
+        "size": "16431331",
+        "md5": "b037fbf7e672fcdfe601fd489fc3674b",
+        "crc32": "5251a900",
+        "sha1": "45f17b67161e03c8d00ce2520e98eebf8a5e3619"
+      },
+      {
+        "name": "countrywomanchri00coun_0_events.json",
+        "source": "original",
+        "mtime": "1513854642",
+        "size": "55",
+        "md5": "aa975ee3789d2ce7f74919cd7354f0a4",
+        "crc32": "350424a9",
+        "sha1": "5b0f6ee140105967f6a83c7e673bac845dd41c98",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "f999890f511fd2b30002e5ab9f69b5cb",
+        "summation": "md5"
+      },
+      {
+        "name": "countrywomanchri00coun_0_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "countrywomanchri00coun_0_chocr.html.gz",
+        "mtime": "1659798663",
+        "size": "10102640",
+        "md5": "1b5109fd5e9522ba4aab200f7cbefdbb",
+        "crc32": "bf49d736",
+        "sha1": "c76122650695b549ef42ba7958db1ea1a06290b4",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "countrywomanchri00coun_0_hocr.html",
+        "mtime": "1659798684",
+        "size": "1439",
+        "md5": "34d691000f79f1ec84ea9e2a13438b6a",
+        "crc32": "df2d7be8",
+        "sha1": "e20ec9d8b1965f4dea8b6a18eb1dfdb63873ea75",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "585",
+        "word_conf_11_20": "151",
+        "word_conf_21_30": "164",
+        "word_conf_31_40": "269",
+        "word_conf_41_50": "423",
+        "word_conf_51_60": "818",
+        "word_conf_61_70": "2128",
+        "word_conf_71_80": "5864",
+        "word_conf_81_90": "14408",
+        "word_conf_91_100": "33310",
+        "format": "OCR Search Text",
+        "original": "countrywomanchri00coun_0_hocr.html",
+        "mtime": "1659798702",
+        "size": "120639",
+        "md5": "2e9c3c0b94f2ddd8b7ad8236875c2834",
+        "crc32": "7dfd2b5c",
+        "sha1": "558aab964f94cda96b767d1d3896bf0daca5c03a",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "countrywomanchri00coun_0_orig_jp2.tar",
+        "mtime": "1513856671",
+        "size": "120171885",
+        "md5": "fbce6d93356be5b4a31c0ccfdf640324",
+        "crc32": "4c3f0064",
+        "sha1": "4347e84093d752b207ba0a81ba0d3b6f490b78c8",
+        "private": "true",
+        "filecount": "122"
+      },
+      {
+        "name": "countrywomanchri00coun_0_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "countrywomanchri00coun_0.epub",
+        "mtime": "1753197781",
+        "size": "61935113",
+        "md5": "4ec8a3fdc8f54c2ac54cd4dcf7a1ded4",
+        "crc32": "61d2aaca",
+        "sha1": "d04306b9b4e6ed74a96cc3de72e4982ef671bb47"
+      },
+      {
+        "name": "countrywomanchri00coun_0_loans.json",
+        "source": "original",
+        "mtime": "1593521159",
+        "size": "4770",
+        "format": "JSON",
+        "private": "true",
+        "md5": "fb6226735fa5645a9a4b3bbd8b2142bc",
+        "crc32": "0a61a84e",
+        "sha1": "137feb42c5f98f66e2ed5c5ecc1441059d155098"
+      },
+      {
+        "name": "countrywomanchri00coun_0_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1454891947",
+        "size": "4737",
+        "md5": "4fa0739b85b17a921bd1f08ec18362ac",
+        "crc32": "65e41794",
+        "sha1": "d00096e7cdc52b0a92a40648e21ccbdfab8dcd6e"
+      },
+      {
+        "name": "countrywomanchri00coun_0_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "countrywomanchri00coun_0_xisbn.json",
+        "mtime": "1513854724",
+        "size": "145",
+        "md5": "b068c0e6c169803904bc4e9f570a60ab",
+        "crc32": "60dcd080",
+        "sha1": "efa8279624c162749cc533c6be2bc14b250b464f",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454891947",
+        "size": "1445",
+        "md5": "de2a7150e48c69ab84f83bf1949e38c4",
+        "crc32": "74f7b72f",
+        "sha1": "1e8da20d2a111637b4650dc1240e9226e5c993e3"
+      },
+      {
+        "name": "countrywomanchri00coun_0_meta.sqlite",
+        "source": "original",
+        "mtime": "1513854696",
+        "size": "14336",
+        "format": "Metadata",
+        "md5": "d16f515fe623cd468e7834e953c59a30",
+        "crc32": "b862454d",
+        "sha1": "2504b628bdbcdbd36dc16af7bb6fd96e1ae4fdb5"
+      },
+      {
+        "name": "countrywomanchri00coun_0_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753197782",
+        "size": "3308",
+        "md5": "b7bb29b0e765e92c36cecc20b439d7c1",
+        "crc32": "c9b12da0",
+        "sha1": "6bfbe0a89032b8f326b788032da5c3341d1f9d0e"
+      },
+      {
+        "name": "countrywomanchri00coun_0_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1365611244",
+        "size": "303",
+        "md5": "4ed09e80e8e59db765a6845574e40fa0",
+        "crc32": "de64bae1",
+        "sha1": "0b48d684f8a4ecdae34890e71220003505cf281c"
+      },
+      {
+        "name": "countrywomanchri00coun_0_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1513854696",
+        "size": "324034560",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "5e7788badf6ee34c5b4bb35fa739330d",
+        "crc32": "2140511a",
+        "sha1": "1f0cffa2cb9bd94038bec642e163f24004ffea43",
+        "filecount": "122"
+      },
+      {
+        "name": "countrywomanchri00coun_0_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "95",
+        "format": "Page Numbers JSON",
+        "original": "countrywomanchri00coun_0_hocr.html",
+        "mtime": "1719242807",
+        "size": "20229",
+        "md5": "f36dc0735e4a3981a4851c725fc96c30",
+        "crc32": "6aac0962",
+        "sha1": "a1539e1cbec5bf4df6eca840353c0f8e573c203a",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0_scandata.xml",
+        "source": "original",
+        "mtime": "1669691415",
+        "size": "124634",
+        "format": "Scandata",
+        "md5": "e7d5ca82e96f2ab2a1ffe97d3b745884",
+        "crc32": "100d2a2b",
+        "sha1": "275da6f79e4902581aba66e59d44939e4fb0d788"
+      },
+      {
+        "name": "countrywomanchri00coun_0_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "countrywomanchri00coun_0_djvu.xml",
+        "mtime": "1669691408",
+        "size": "575",
+        "md5": "82e12610db63b4f2187384f74e9dbbdf",
+        "crc32": "fcb087d9",
+        "sha1": "062f4da3759bb8410b8dd0023b46dd10d72fdb33",
+        "private": "true"
+      },
+      {
+        "name": "countrywomanchri00coun_0_xisbn.json",
+        "source": "original",
+        "mtime": "1454890560",
+        "size": "390",
+        "md5": "14faac85d14d05897d65f9b8391237ce",
+        "crc32": "bc3ea84e",
+        "sha1": "bea4af80f4803394cfaf9f41f58bdd1bb07ba7d5",
+        "format": "OCLC xISBN JSON"
+      },
+      {
+        "name": "logs/countrywomanchri00coun_0_iabdash_2017-12-21165524.log",
+        "source": "original",
+        "mtime": "1513846530",
+        "size": "360",
+        "md5": "bda1b8142765f2de1c158ea1b4690735",
+        "crc32": "1c02ae57",
+        "sha1": "3e2a32d3025898ba80028d79f76237a7fef6cf02",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/countrywomanchri00coun_0_scanning_2017-12-21165517.log",
+        "source": "original",
+        "mtime": "1513846523",
+        "size": "147693",
+        "md5": "46c90a87aee536fb6730eaa6f2ffd2f1",
+        "crc32": "e4eadf95",
+        "sha1": "c2cea29378604a1955f672bd562957deeb8ea12f",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 37,
+    "item_last_updated": 1753197782,
+    "item_size": 655140940,
+    "metadata": {
+      "isbn": [
+        "0898213819",
+        "9780898213812"
+      ],
+      "title": "Country woman Christmas, 2003",
+      "creator": [
+        "Pohl, Kathy",
+        "Anderson, Kathleen",
+        "Country woman (Magazine)"
+      ],
+      "publisher": "Greendale, WI : Reiman Media Group",
+      "date": "2003-01-01",
+      "external-identifier": [
+        "urn:asin:0898213819",
+        "urn:acs6:countrywomanchri00coun_0:pdf:5069fff0-0de0-4784-8e5d-cc6b38774b1c",
+        "urn:acs6:countrywomanchri00coun_0:epub:5e4335ad-33ce-475b-9676-cc49bea17c71",
+        "urn:oclc:record:1148631502",
+        "urn:lcp:countrywomanchri00coun_0:lcpdf:e5c41081-2696-4065-818c-73a7073270c5",
+        "urn:lcp:countrywomanchri00coun_0:epub:222321d3-e494-4985-a087-de28726c7eaa"
+      ],
+      "repub_state": "22",
+      "updatedate": "2013-04-10 16:27:21",
+      "updater": "associate-lotu-tii@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA1162208",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "hongkong",
+      "identifier": "countrywomanchri00coun_0",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2013-04-10 16:27:26",
+      "publicdate": "2013-04-10 16:27:44",
+      "donor": "alibris",
+      "subject": [
+        "Christmas cooking",
+        "Christmas decorations",
+        "Christmas cooking",
+        "Christmas decorations"
+      ],
+      "description": [
+        "Cover title",
+        "\"Country books\"--Spine",
+        "Includes food, crafts, and much more from the Country Woman magazine"
+      ],
+      "identifier-access": "http://archive.org/details/countrywomanchri00coun_0",
+      "identifier-ark": "ark:/13960/t5bc80200",
+      "city": "Greendale, WI",
+      "oclc-id": [
+        "52987130",
+        "858068787"
+      ],
+      "backup_location": "ia905609_8",
+      "scanner": "ttscribe17.hongkong.archive.org",
+      "operator": "associate-chuiyuk-cheung@archive.org",
+      "tts_version": "v1.57-initial-82-g2b8ab4d",
+      "imagecount": "122",
+      "scandate": "20171221093518",
+      "ppi": "300",
+      "republisher_operator": "associate-mahmuda-akter@archive.org",
+      "republisher_date": "20171221170806",
+      "republisher_time": "675",
+      "foldoutcount": "0",
+      "bookplateleaf": "0003",
+      "scanfee": "15",
+      "invoice": "1213",
+      "sponsordate": "20171231",
+      "openlibrary_edition": "OL8269046M",
+      "openlibrary_work": "OL17821067W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "95",
+      "filesxml": "Wed Apr 3 0:11:30 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia903200.us.archive.org",
+    "uniq": 549824369,
+    "workable_servers": [
+      "ia903200.us.archive.org",
+      "ia803200.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/52987130?referer=xid"
+          ],
+          "publisher": "Reiman Media Group",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Greendale, WI",
+          "author": "[executive editor : Kathy Pohl ; editor : Kathleen Anderson ; food editor : Janaan Cunningham.].",
+          "year": "2003",
+          "isbn": [
+            "0898213819"
+          ],
+          "title": "Country woman Christmas, 2003",
+          "oclcnum": [
+            "52987130",
+            "858068787"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Pohl, Kathy",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,586 @@
+{
+  "source": "internet_archive",
+  "identifier": "whatscookinghist0000whit",
+  "title": "What's cooking? : the history of American food",
+  "creator": "Whitman, Sylvia, 1961-",
+  "year": 2001,
+  "subject": [
+    "Food -- History -- Juvenile literature",
+    "Food supply -- United States -- History -- Juvenile literature",
+    "Food habits",
+    "Food supply",
+    "Food",
+    "Ernahrungsgewohnheit",
+    "Geschichte",
+    "Jugendsachbuch",
+    "Kochen",
+    "Eating customs",
+    "United States",
+    "USA"
+  ],
+  "description": [
+    "88 pages : 23 cm",
+    "A look at food in the United States from colonial times to the present, describing what we have eaten, where it came from, and how it reflected events in American history",
+    "Includes bibliographical references (pages 84-85) and index",
+    "Way to a country's heart -- Starting high on the hog -- Hitching science to the plow -- Oyster century -- Process, package, and sell -- Food will win the war -- Modern times"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/whatscookinghist0000whit"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/whatscookinghist0000whit"
+        }
+      ]
+    },
+    "created": 1758559085,
+    "d1": "ia600806.us.archive.org",
+    "d2": "ia800806.us.archive.org",
+    "dir": "/29/items/whatscookinghist0000whit",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661298095",
+        "size": "16578",
+        "md5": "18da32e70c02fcc09063eab3fee242d7",
+        "crc32": "dbcfe04a",
+        "sha1": "faf8d6a8dfcdc1960582c91dcd37675e8d219e05",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/whatscookinghist0000whit_iabdash_2018-07-11085037.log",
+        "source": "original",
+        "mtime": "1531270240",
+        "size": "358",
+        "md5": "c68ecebacee64e6c3bbf2b459a01f55d",
+        "crc32": "f287e08f",
+        "sha1": "1b60cd44d4bdf3a9adf80dba123837df0eaf3e2a",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/whatscookinghist0000whit_scanning_2018-07-11085031.log",
+        "source": "original",
+        "mtime": "1531270233",
+        "size": "217945",
+        "md5": "fafd51d203123f105b92e57f75c9a270",
+        "crc32": "f54e66d6",
+        "sha1": "8dac3b9461685818ec23e815c273e980b977b3b6",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "whatscookinghist0000whit.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "whatscookinghist0000whit_hocr.html",
+        "mtime": "1754161936",
+        "size": "70631543",
+        "private": "true",
+        "md5": "b006815deeb110f41c7d0c419a5d12ef",
+        "crc32": "65721ee6",
+        "sha1": "39a536ab6028e2b645a5d48b7fa9583bb0eb57fb"
+      },
+      {
+        "name": "whatscookinghist0000whit.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "whatscookinghist0000whit.pdf",
+        "mtime": "1754161847",
+        "size": "17871567",
+        "md5": "fe00625dae6d657da2b41e38b771c4b8",
+        "crc32": "e31a091b",
+        "sha1": "24fa43ab2656cc438f5997ea13e0e42c42c4b002"
+      },
+      {
+        "name": "whatscookinghist0000whit.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "whatscookinghist0000whit_page_numbers.json",
+        "mtime": "1726881620",
+        "size": "17301591",
+        "md5": "d1249932dd56985e4ef00e07f0652930",
+        "crc32": "7a07f844",
+        "sha1": "c12c14f6b469e98a238f3b489a88f6be201d871c",
+        "private": "true"
+      },
+      {
+        "name": "whatscookinghist0000whit_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "whatscookinghist0000whit_jp2.zip",
+        "mtime": "1531386654",
+        "size": "1984465",
+        "md5": "85c47e1e2b6e61703b77fae4d79412c6",
+        "crc32": "723d3a2b",
+        "sha1": "266c1bf4859d99acf2c42dc2877cd3a993d17311",
+        "private": "true"
+      },
+      {
+        "name": "whatscookinghist0000whit_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "whatscookinghist0000whit_abbyy.gz",
+        "mtime": "1661297274",
+        "size": "1678892",
+        "md5": "570364d4d9f3ac5eb7310378a0b6f698",
+        "crc32": "e544a17a",
+        "sha1": "9ebda72211e5c8ef592ae6496c72bdce58e26186",
+        "private": "true"
+      },
+      {
+        "name": "whatscookinghist0000whit_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "whatscookinghist0000whit_scandata.xml",
+        "mtime": "1671782293",
+        "size": "788",
+        "md5": "5f750ed0d5012b1c79438d9607653f13",
+        "crc32": "95b10291",
+        "sha1": "ec63020a1b1b9fa0dd738b6715898022ae8e1918",
+        "private": "true"
+      },
+      {
+        "name": "whatscookinghist0000whit_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1661296580",
+        "size": "2270",
+        "md5": "eb543e3c42e0ff09d189c2f3f6fb32a3",
+        "crc32": "63b21d70",
+        "sha1": "c23a620ca3617b027146a62f2fdea0c26d0ae957"
+      },
+      {
+        "name": "whatscookinghist0000whit_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "whatscookinghist0000whit_djvu.xml",
+        "mtime": "1661298090",
+        "size": "147727",
+        "md5": "1e161cfb0b8eef5a308638ea50c64abc",
+        "crc32": "14adba8a",
+        "sha1": "71fb2b956b75519f3ec173e1a523c46b645be7ed",
+        "private": "true"
+      },
+      {
+        "name": "whatscookinghist0000whit_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "whatscookinghist0000whit_hocr.html",
+        "mtime": "1661297708",
+        "size": "1684594",
+        "md5": "15896b71f490ca7aa21e29240868119c",
+        "crc32": "e6450533",
+        "sha1": "8bdde5578723a7f1bf28e7120e32fd1bcdd68eba",
+        "private": "true"
+      },
+      {
+        "name": "whatscookinghist0000whit_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "whatscookinghist0000whit_abbyy.gz",
+        "mtime": "1531387882",
+        "size": "1953055",
+        "md5": "eb5b663578502ae6e0e5867d39d0322f",
+        "crc32": "e307520a",
+        "sha1": "df029deade6c08c4f35deade6e18da30fdafb6a3"
+      },
+      {
+        "name": "whatscookinghist0000whit_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "whatscookinghist0000whit.pdf",
+        "mtime": "1726882081",
+        "size": "17259529",
+        "md5": "5b5fc697933d87299a68f8d1595cd113",
+        "crc32": "f717e4ac",
+        "sha1": "38a52fd6fb0f308f0a24035038d73fca0a90512b"
+      },
+      {
+        "name": "whatscookinghist0000whit_events.json",
+        "source": "original",
+        "mtime": "1531383728",
+        "size": "51",
+        "md5": "a84038049a9b9e23c645247e45f2448c",
+        "crc32": "c17ee175",
+        "sha1": "d60253d18db9b83aced56f2d12177c9b19adac94",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "whatscookinghist0000whit_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "ed5b5ae82181ad091ec0972da026613b",
+        "summation": "md5"
+      },
+      {
+        "name": "whatscookinghist0000whit_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "whatscookinghist0000whit_chocr.html.gz",
+        "mtime": "1661297675",
+        "size": "3445150",
+        "md5": "c92cd25be1dc242312f17ccdb1325490",
+        "crc32": "a722f2e0",
+        "sha1": "f8438a0ca6b5c72657d292e70bbc9abdb1c18650",
+        "private": "true"
+      },
+      {
+        "name": "whatscookinghist0000whit_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "whatscookinghist0000whit_hocr.html",
+        "mtime": "1661297831",
+        "size": "1132",
+        "md5": "de68b2c46d9166909bf7457ad377346b",
+        "crc32": "d8de5e36",
+        "sha1": "d96c6afd538372be056f159ba49dfa956c386465",
+        "private": "true"
+      },
+      {
+        "name": "whatscookinghist0000whit_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "211",
+        "word_conf_11_20": "38",
+        "word_conf_21_30": "107",
+        "word_conf_31_40": "154",
+        "word_conf_41_50": "340",
+        "word_conf_51_60": "784",
+        "word_conf_61_70": "1762",
+        "word_conf_71_80": "4128",
+        "word_conf_81_90": "6608",
+        "word_conf_91_100": "6390",
+        "format": "OCR Search Text",
+        "original": "whatscookinghist0000whit_hocr.html",
+        "mtime": "1661298034",
+        "size": "55692",
+        "md5": "2f7c986264986f9a44fdf35cae8a5977",
+        "crc32": "e561e765",
+        "sha1": "cbf60d56aed1120cbc4d5dc968be2dcdb4a6b398",
+        "private": "true"
+      },
+      {
+        "name": "whatscookinghist0000whit_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "whatscookinghist0000whit_orig_jp2.tar",
+        "mtime": "1531385555",
+        "size": "122902195",
+        "md5": "90818b31b907e645500f1a0fcf6d4146",
+        "crc32": "c3f11b62",
+        "sha1": "481273168603cac0bf1ff04f99c5cd56d29d5a24",
+        "private": "true",
+        "filecount": "98"
+      },
+      {
+        "name": "whatscookinghist0000whit_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "whatscookinghist0000whit.epub",
+        "mtime": "1754161997",
+        "size": "70672038",
+        "md5": "bea87955a4ad872bf0c25c9214523a4f",
+        "crc32": "45c8362f",
+        "sha1": "371d65edff75ce12673962c7edfb23bddead8171"
+      },
+      {
+        "name": "whatscookinghist0000whit_loans.json",
+        "source": "original",
+        "mtime": "1589344823",
+        "size": "6605",
+        "format": "JSON",
+        "private": "true",
+        "md5": "3154a6f23dff219ab12eb36f3e272507",
+        "crc32": "687f44f0",
+        "sha1": "6e9db0281230420e97646d35eb762c7209e26de7"
+      },
+      {
+        "name": "whatscookinghist0000whit_marc.xml",
+        "source": "original",
+        "mtime": "1661296579",
+        "size": "9642",
+        "format": "MARC",
+        "md5": "c975ac1373a5f99e42940fb3c34b96a0",
+        "crc32": "680475fb",
+        "sha1": "e262b0500274111d2be9aa4f2c65bb14059803dc"
+      },
+      {
+        "name": "whatscookinghist0000whit_meta.mrc",
+        "source": "original",
+        "mtime": "1531270255",
+        "size": "2779",
+        "md5": "c4d8bc22f45e2118f6d47930482ffca3",
+        "crc32": "bfc29e9c",
+        "sha1": "faf2b0e9afc2845271ce568cbfad5edaacfb1b92",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "whatscookinghist0000whit_meta.sqlite",
+        "source": "original",
+        "mtime": "1531383759",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "82f0caf3e0acfb801df36f8a7454e431",
+        "crc32": "3e98485b",
+        "sha1": "bb01d1a442640c3c13f3796f2f5b068e4c36c5f4"
+      },
+      {
+        "name": "whatscookinghist0000whit_meta.xml",
+        "source": "original",
+        "mtime": "1754161997",
+        "size": "4319",
+        "format": "Metadata",
+        "md5": "e88dc5c647c8e7b0a7a56f3aceccced0",
+        "crc32": "f8ae196e",
+        "sha1": "890861de40dd71e497ac5397c51e52f3221ad17e"
+      },
+      {
+        "name": "whatscookinghist0000whit_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1531383758",
+        "size": "216176640",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "073d435e112a172694aea27dbb0b195a",
+        "crc32": "ece326dd",
+        "sha1": "dee0b162aa177be453d850c442ddf277233c9904",
+        "filecount": "98"
+      },
+      {
+        "name": "whatscookinghist0000whit_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "92",
+        "format": "Page Numbers JSON",
+        "original": "whatscookinghist0000whit_hocr.html",
+        "mtime": "1726881620",
+        "size": "16115",
+        "md5": "644252f6142bf648bff9a85535ca8872",
+        "crc32": "f75d0a42",
+        "sha1": "81b755009ee6a140491981bf6d5533e35201d0f4",
+        "private": "true"
+      },
+      {
+        "name": "whatscookinghist0000whit_scandata.xml",
+        "source": "original",
+        "mtime": "1671782293",
+        "size": "100151",
+        "format": "Scandata",
+        "md5": "20ae5a2d13fbb8b2899bb17b92134664",
+        "crc32": "1f4395a2",
+        "sha1": "6d77680e9a21124f848e8354aa8013fea434e2ea"
+      },
+      {
+        "name": "whatscookinghist0000whit_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "whatscookinghist0000whit_djvu.xml",
+        "mtime": "1671782160",
+        "size": "7729",
+        "md5": "145dd90d9872327d8c0f7837f2c1fad1",
+        "crc32": "2ac44f45",
+        "sha1": "983141a8f56e9bc662ddcc861f21b704dbd54ead",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1754161997,
+    "item_size": 544167524,
+    "metadata": {
+      "identifier": "whatscookinghist0000whit",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Whitman, Sylvia, 1961-",
+      "date": "2001-01-01",
+      "isbn": [
+        "0822517329",
+        "9780822517320"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-helen-appleby@archive.org",
+      "ppi": "300",
+      "printer": "DYMO_LabelWriter_450_Turbo",
+      "publisher": "Minneapolis, MN : Lerner Publications",
+      "repub_state": "22",
+      "scanner": "ttscribe18.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "What's cooking? : the history of American food ",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "uploader": "ttscribe18.hongkong@archive.org",
+      "addeddate": "2018-07-11 00:50:14",
+      "publicdate": "2018-07-11 00:50:41",
+      "imagecount": "98",
+      "scandate": "20180711011439",
+      "subject": [
+        "Food -- History -- Juvenile literature",
+        "Food supply -- United States -- History -- Juvenile literature",
+        "Food habits",
+        "Food supply",
+        "Food",
+        "Food",
+        "Food supply",
+        "Ernahrungsgewohnheit",
+        "Geschichte",
+        "Jugendsachbuch",
+        "Kochen",
+        "Food",
+        "Food supply",
+        "Eating customs",
+        "United States",
+        "USA"
+      ],
+      "lccn": "00009168",
+      "description": [
+        "88 pages : 23 cm",
+        "A look at food in the United States from colonial times to the present, describing what we have eaten, where it came from, and how it reflected events in American history",
+        "Includes bibliographical references (pages 84-85) and index",
+        "Way to a country's heart -- Starting high on the hog -- Hitching science to the plow -- Oyster century -- Process, package, and sell -- Food will win the war -- Modern times"
+      ],
+      "republisher_operator": "republisher19.dhaka@archive.org",
+      "republisher_date": "20180712142154",
+      "republisher_time": "343",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/whatscookinghist0000whit",
+      "identifier-ark": "ark:/13960/t16n07p48",
+      "external-identifier": [
+        "urn:acs6:whatscookinghist0000whit:epub:4f5a45c6-19d2-4f7f-a700-1c1961602746",
+        "urn:acs6:whatscookinghist0000whit:pdf:a755d13d-e2fb-4db9-bad8-eeaae02ed751",
+        "urn:lcp:whatscookinghist0000whit:lcpdf:500fe7ea-dcc1-4120-bad7-15e998f96794",
+        "urn:lcp:whatscookinghist0000whit:epub:ee4a0cf2-9d05-4569-ab8d-2c04cf113ee1"
+      ],
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20180712182314[/date]",
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "boxid": "IA1270924",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "sponsordate": "20180731",
+      "loans__status__last_loan_date": "2020-04-04T17:29:49Z",
+      "loans__status__last_waitlist_date": "2018-11-03T03:21:32Z",
+      "loans__status__num_history": "13",
+      "openlibrary_edition": "OL18390297M",
+      "openlibrary_work": "OL15215585W",
+      "backup_location": "ia906708_22",
+      "access-restricted-item": "true",
+      "source": "removedNEL",
+      "oclc-id": "43977664",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "92",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800806.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "bpljordan-ol": {
+          "notes": {
+            "isbn": [
+              "9780822517320"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-04-14 08:08:35.690727"
+        },
+        "cnusd-ol": {
+          "notes": {
+            "isbn": [
+              "9780822517320"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-05-25 07:18:08.350628"
+        },
+        "marymount-ol": {
+          "notes": {
+            "isbn": [
+              "9780822517320"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-06-04 05:13:06.067268"
+        },
+        "spokanepubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780822517320"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-01-31 03:20:10.97648"
+        },
+        "uni-ol": {
+          "notes": {
+            "isbn": [
+              "9780822517320"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-04-24 04:20:53.845664"
+        }
+      }
+    },
+    "uniq": 1625425646,
+    "workable_servers": [
+      "ia800806.us.archive.org",
+      "ia600806.us.archive.org"
+    ]
+  },
+  "institution": "Whitman, Sylvia, 1961-",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

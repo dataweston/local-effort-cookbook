@@ -1,0 +1,297 @@
+{
+  "source": "internet_archive",
+  "identifier": "the-all-american-cook-book",
+  "title": "The All American Cook Book: Favorite Recipes of Famous Persons",
+  "creator": "Walsworth Brothers",
+  "year": 1954,
+  "subject": [
+    "Cookbook",
+    "Quad Cities",
+    "Silvis",
+    "Illinois",
+    "Recipes",
+    "Famous People"
+  ],
+  "description": "This publication of recipes compiled by the Walsworth Brothers was sponsored by the Women's Club of Silvis Illinois.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721800.ca.archive.org",
+          "dir": "/0/items/the-all-american-cook-book"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721800.ca.archive.org",
+          "dir": "/0/items/the-all-american-cook-book"
+        }
+      ]
+    },
+    "created": 1758556564,
+    "d1": "ia600700.us.archive.org",
+    "d2": "ia800700.us.archive.org",
+    "dir": "/6/items/the-all-american-cook-book",
+    "files": [
+      {
+        "name": "The All American Cook Book.pdf",
+        "source": "original",
+        "mtime": "1717011205",
+        "size": "128853390",
+        "md5": "b5545fad1dec84aeceb2c52ac120954b",
+        "crc32": "aa1ac4e4",
+        "sha1": "24948fceb937784724767cbb22934a39a24425c5",
+        "format": "Text PDF"
+      },
+      {
+        "name": "The All American Cook Book_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9420",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "The All American Cook Book_jp2.zip",
+        "mtime": "1717012967",
+        "size": "2147196",
+        "md5": "0e4237d1f76d1f0db3b5f2458d184306",
+        "crc32": "2e7b6c9c",
+        "sha1": "65e425b265b816e161e31e53173998dc9ea99b55"
+      },
+      {
+        "name": "The All American Cook Book_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "The All American Cook Book_djvu.xml",
+        "mtime": "1717013057",
+        "size": "150379",
+        "md5": "431387cf8a21cf954c5c3bdc776912a7",
+        "crc32": "99a973ed",
+        "sha1": "a91820e95e1161c208dfcfd23a81eb8ab193b401"
+      },
+      {
+        "name": "The All American Cook Book_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "The All American Cook Book_hocr.html",
+        "mtime": "1717013004",
+        "size": "2189529",
+        "md5": "de43adb048f12297fc92c14e25872f5c",
+        "crc32": "fa78bffd",
+        "sha1": "7cef3b99dc5d2ba3e677c88ecfb45972044674de"
+      },
+      {
+        "name": "The All American Cook Book_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9420",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "The All American Cook Book_chocr.html.gz",
+        "mtime": "1717012991",
+        "size": "4178226",
+        "md5": "b8de683643b021e73e78b4306c0ee541",
+        "crc32": "aa69d9a4",
+        "sha1": "c6cfe2157a9c6b381d2c7bbd6fceeb1b193a8db3"
+      },
+      {
+        "name": "The All American Cook Book_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "The All American Cook Book_hocr.html",
+        "mtime": "1717013013",
+        "size": "1427",
+        "md5": "b96ba581988e6443509708c925a2b239",
+        "crc32": "febdf488",
+        "sha1": "707ac27ce7e3325c7b2fe6dcdacc04a31c1780e5"
+      },
+      {
+        "name": "The All American Cook Book_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "762",
+        "word_conf_11_20": "394",
+        "word_conf_21_30": "527",
+        "word_conf_31_40": "393",
+        "word_conf_41_50": "315",
+        "word_conf_51_60": "233",
+        "word_conf_61_70": "281",
+        "word_conf_71_80": "327",
+        "word_conf_81_90": "711",
+        "word_conf_91_100": "21735",
+        "format": "OCR Search Text",
+        "original": "The All American Cook Book_hocr.html",
+        "mtime": "1717013032",
+        "size": "55482",
+        "md5": "d55be98f3e64ac7b42801c08ccdd4ca4",
+        "crc32": "20158b17",
+        "sha1": "137a6594f9beca791b9d818f7019a337660a8194"
+      },
+      {
+        "name": "The All American Cook Book_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "The All American Cook Book.pdf",
+        "mtime": "1717011949",
+        "size": "137076524",
+        "md5": "1f3217c99e72f3e83fc0fa54c4c3f8e1",
+        "crc32": "44e20a02",
+        "sha1": "f6c687cc948da54a65bf3207ee57172bb8131e71",
+        "filecount": "124"
+      },
+      {
+        "name": "The All American Cook Book_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "81",
+        "format": "Page Numbers JSON",
+        "original": "The All American Cook Book_hocr.html",
+        "mtime": "1717013132",
+        "size": "20837",
+        "md5": "4dec0a257b66fd225c09dfa54eb22f97",
+        "crc32": "fd342d3a",
+        "sha1": "88f6a6353c3445e084da3237de9f6bb25d74ff6c"
+      },
+      {
+        "name": "The All American Cook Book_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "The All American Cook Book_djvu.xml",
+        "mtime": "1717013132",
+        "size": "43476",
+        "md5": "70038f2011f99973e1ef96ca09a3f962",
+        "crc32": "cccd91ab",
+        "sha1": "bda0b3f3e636effe2fa19027c40986f43af6a03f"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1717013160",
+        "size": "25133",
+        "md5": "226c5a352b9908628c8b25861d7e5122",
+        "crc32": "b5dde8e5",
+        "sha1": "e38d345d1c8e88c04958acd2efb0a4c25e473745",
+        "format": "Item Tile"
+      },
+      {
+        "name": "the-all-american-cook-book_archive.torrent",
+        "source": "metadata",
+        "btih": "a2800735213420922da5f8fd3c768648be40442c",
+        "mtime": "1746407503",
+        "size": "14200",
+        "md5": "190fd0b3ca752ac528b9b605ae150817",
+        "crc32": "1ee940a3",
+        "sha1": "e5e26ea14ff285927ea073c5712695d81d259dd2",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "the-all-american-cook-book_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "2a88f35dbd467e98560e23557a4ebf44",
+        "summation": "md5"
+      },
+      {
+        "name": "the-all-american-cook-book_meta.sqlite",
+        "source": "original",
+        "mtime": "1717011235",
+        "size": "20480",
+        "md5": "0b18a4bd0092723aa10626c614688f10",
+        "crc32": "728a80cd",
+        "sha1": "a60757867136bb17709ecf829022d6ea6fcae98c",
+        "format": "Metadata"
+      },
+      {
+        "name": "the-all-american-cook-book_meta.xml",
+        "source": "original",
+        "mtime": "1746407499",
+        "size": "2045",
+        "md5": "e9da2e5cc5fee77f0ca481385bf79c57",
+        "crc32": "022ca68c",
+        "sha1": "7f69799c6da5f7ed8b5cae6e1c0d957a28728242",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1746407503,
+    "item_size": 274778324,
+    "metadata": {
+      "identifier": "the-all-american-cook-book",
+      "mediatype": "texts",
+      "collection": [
+        "communitycookbooks",
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "creator": "Walsworth Brothers",
+      "date": "1954-01-01",
+      "description": "This publication of recipes compiled by the Walsworth Brothers was sponsored by the Women's Club of Silvis Illinois.",
+      "language": "eng",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "Cookbook",
+        "Quad Cities",
+        "Silvis",
+        "Illinois",
+        "Recipes",
+        "Famous People"
+      ],
+      "title": "The All American Cook Book: Favorite Recipes of Famous Persons",
+      "uploader": "archivedatapetrel@gmail.com",
+      "publicdate": "2024-05-29 19:33:43",
+      "addeddate": "2024-05-29 19:33:43",
+      "curation": "[curator]validator@archive.org[/curator][date]20240529193406[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/the-all-american-cook-book",
+      "identifier-ark": "ark:/13960/s2qkb6p4wr7",
+      "ppi": "480",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9420",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "81",
+      "page_number_module_version": "1.0.5",
+      "year": "1954",
+      "rights": "Copyright: Walsworth Bro., Marceline, Mo",
+      "collection_added": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia800700.us.archive.org",
+    "uniq": 1413737949,
+    "workable_servers": [
+      "ia800700.us.archive.org",
+      "ia600700.us.archive.org"
+    ]
+  },
+  "institution": "Walsworth Brothers",
+  "pdf_url": "https://archive.org/download/the-all-american-cook-book/The All American Cook Book.pdf",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Women'S Club"
+    ]
+  },
+  "curation_notes": "State match: Illinois; Community markers: Women'S Club; Digitized scan available"
+}

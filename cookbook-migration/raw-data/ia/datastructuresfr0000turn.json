@@ -1,0 +1,519 @@
+{
+  "source": "internet_archive",
+  "identifier": "datastructuresfr0000turn",
+  "title": "Data structures from recipes to C",
+  "creator": "Turner, Lawrence E",
+  "year": 1994,
+  "subject": [
+    "Data structures (Computer science)",
+    "C (Computer program language)"
+  ],
+  "description": [
+    "xxvii, 608 pages ; 23 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/datastructuresfr0000turn"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/datastructuresfr0000turn"
+        }
+      ]
+    },
+    "created": 1758337274,
+    "d1": "ia601801.us.archive.org",
+    "d2": "ia801801.us.archive.org",
+    "dir": "/18/items/datastructuresfr0000turn",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659823467",
+        "size": "9686",
+        "md5": "165e45f4f2600866d16e2fabec59dc28",
+        "crc32": "75cd43b1",
+        "sha1": "27bc6dabde2d40082bd88ee0abc776e8199533e3",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "datastructuresfr0000turn.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "datastructuresfr0000turn_hocr.html",
+        "mtime": "1753214125",
+        "size": "3790124",
+        "private": "true",
+        "md5": "de2e6e8f3a954ba6369d44da2d21aab0",
+        "crc32": "ef75a454",
+        "sha1": "f9ed554fca43827c28fedbb5176f6e903d5e4bff"
+      },
+      {
+        "name": "datastructuresfr0000turn.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "datastructuresfr0000turn.pdf",
+        "mtime": "1753213945",
+        "size": "30087171",
+        "md5": "c596624967c57ae849531b95cbdefdfd",
+        "crc32": "f9ef1b64",
+        "sha1": "4cded86cd3773d2082cdef6f67e3f941abf91019"
+      },
+      {
+        "name": "datastructuresfr0000turn.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "datastructuresfr0000turn_page_numbers.json",
+        "mtime": "1719541426",
+        "size": "29917673",
+        "md5": "c76432976220c9228648ec4daa415d00",
+        "crc32": "6bbc89fa",
+        "sha1": "0c56a3a226837eb639ea7bcbc60745f6e4e8f9f1",
+        "private": "true"
+      },
+      {
+        "name": "datastructuresfr0000turn_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "datastructuresfr0000turn_jp2.zip",
+        "mtime": "1601297176",
+        "size": "15360588",
+        "md5": "528f2528e05f1b9bf90d77d45a986cff",
+        "crc32": "02bba5ac",
+        "sha1": "fd74d2697cf601323b7d3be7abdddae8dbe926ea",
+        "private": "true"
+      },
+      {
+        "name": "datastructuresfr0000turn_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.14",
+        "ocr_converted": "abbyy-to-hocr 1.1.11",
+        "format": "chOCR",
+        "original": "datastructuresfr0000turn_abbyy.gz",
+        "mtime": "1636440696",
+        "size": "13190362",
+        "md5": "a487f97fe993ae7ac94eebca26f4ae74",
+        "crc32": "9229f6aa",
+        "sha1": "14ce5aa1183ffc3ed7da162ede24d075d2049242",
+        "private": "true"
+      },
+      {
+        "name": "datastructuresfr0000turn_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "datastructuresfr0000turn_scandata.xml",
+        "mtime": "1669761570",
+        "size": "789",
+        "md5": "46a3db337d24512223ea71e2d7db3cb8",
+        "crc32": "94885e9e",
+        "sha1": "3652db81b78bc58358c5ae4148b18e8c9655ad54",
+        "private": "true"
+      },
+      {
+        "name": "datastructuresfr0000turn_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1601274838",
+        "size": "867",
+        "md5": "dcce28494f65189d4cd0610555fb1ef4",
+        "crc32": "dadc7fd0",
+        "sha1": "cd1a9d5e7e2c4586ea94f3321cfe407574ebbc89"
+      },
+      {
+        "name": "datastructuresfr0000turn_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "datastructuresfr0000turn_djvu.xml",
+        "mtime": "1636441170",
+        "size": "1199622",
+        "md5": "a4a3966a676ab4626cacfc6867c69893",
+        "crc32": "4f002edb",
+        "sha1": "2c759ef003697923e5e76e35e5d425573cabcc76",
+        "private": "true"
+      },
+      {
+        "name": "datastructuresfr0000turn_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "datastructuresfr0000turn_hocr.html",
+        "mtime": "1636440937",
+        "size": "15450016",
+        "md5": "e9aeb1e1a7f866300140c326d24d1e40",
+        "crc32": "427fb9b2",
+        "sha1": "d378a5703a98e1ed58b1a0b641965cb775166805",
+        "private": "true"
+      },
+      {
+        "name": "datastructuresfr0000turn_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "datastructuresfr0000turn_abbyy.gz",
+        "mtime": "1601297640",
+        "size": "2683705",
+        "md5": "dc2e9b3ad28465af065394350e8174a7",
+        "crc32": "7412ccdf",
+        "sha1": "7bb974cda955a9a1932012fabd47ef5c826974a0"
+      },
+      {
+        "name": "datastructuresfr0000turn_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "datastructuresfr0000turn.pdf",
+        "mtime": "1719542779",
+        "size": "29293784",
+        "md5": "e102f25e089e95ea13fe59a754e49f3b",
+        "crc32": "ca82606b",
+        "sha1": "bf4273cdc250b70ece49908f5af382a108974ef7"
+      },
+      {
+        "name": "datastructuresfr0000turn_events.json",
+        "source": "original",
+        "mtime": "1601271450",
+        "size": "111",
+        "md5": "6c3c52cb8a996760dd2a15f4cf5681b3",
+        "crc32": "e68e51f8",
+        "sha1": "fbce59fae4a0b64a74f6a901e31e71eec92780a5",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "datastructuresfr0000turn_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "e8406087a1534f029334c997e1418acd",
+        "summation": "md5"
+      },
+      {
+        "name": "datastructuresfr0000turn_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_module_version": "0.0.14",
+        "ocr_converted": "abbyy-to-hocr 1.1.11",
+        "format": "hOCR",
+        "original": "datastructuresfr0000turn_chocr.html.gz",
+        "mtime": "1636440863",
+        "size": "32946193",
+        "md5": "2b0e547f3fe4c114fccb43361021d48f",
+        "crc32": "6890db9b",
+        "sha1": "1970a157806f4166d7444f120385478054b50dd0",
+        "private": "true"
+      },
+      {
+        "name": "datastructuresfr0000turn_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "datastructuresfr0000turn_hocr.html",
+        "mtime": "1636441038",
+        "size": "7796",
+        "md5": "f3c7a2d108ad6ba04d272e3a855937b7",
+        "crc32": "165721a2",
+        "sha1": "e95655898fe05d05a57df074536de257dce41071",
+        "private": "true"
+      },
+      {
+        "name": "datastructuresfr0000turn_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "2282",
+        "word_conf_11_20": "869",
+        "word_conf_21_30": "1224",
+        "word_conf_31_40": "1923",
+        "word_conf_41_50": "2731",
+        "word_conf_51_60": "4744",
+        "word_conf_61_70": "11161",
+        "word_conf_71_80": "25279",
+        "word_conf_81_90": "49999",
+        "word_conf_91_100": "82710",
+        "format": "OCR Search Text",
+        "original": "datastructuresfr0000turn_hocr.html",
+        "mtime": "1636441123",
+        "size": "346615",
+        "md5": "afdcf67374359ba8f667cff310ee46f3",
+        "crc32": "e3d7a9d3",
+        "sha1": "ed5b1adddebdc685896561b9db5bbaf804ef5c0c",
+        "private": "true"
+      },
+      {
+        "name": "datastructuresfr0000turn_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "datastructuresfr0000turn_orig_jp2.tar",
+        "mtime": "1601293697",
+        "size": "242221685",
+        "md5": "ed36eed7806618741fcf81a3e590c652",
+        "crc32": "8fd66080",
+        "sha1": "4bfdf766de794c83a563665216d9cb164b79c292",
+        "private": "true",
+        "filecount": "644"
+      },
+      {
+        "name": "datastructuresfr0000turn_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "datastructuresfr0000turn.epub",
+        "mtime": "1753214523",
+        "size": "4254412",
+        "md5": "79e6d392c09d41cdb842b5c93d98cd7b",
+        "crc32": "e8c78aa5",
+        "sha1": "39761e2f13606a53a0f51d57a8e57f0b03e12d8f"
+      },
+      {
+        "name": "datastructuresfr0000turn_marc.xml",
+        "source": "original",
+        "mtime": "1600884968",
+        "size": "4937",
+        "md5": "cffb3e926cda85e6f95908c50fcd0b94",
+        "crc32": "ff2e5924",
+        "sha1": "7036212f623f95a02677c9e34b5fca6c0ecfb054",
+        "format": "MARC"
+      },
+      {
+        "name": "datastructuresfr0000turn_meta.mrc",
+        "source": "original",
+        "mtime": "1600884961",
+        "size": "1395",
+        "md5": "df76b13f70a128c2eb4529829ecb3ce2",
+        "crc32": "1194cd22",
+        "sha1": "5683423db3b9b4a16d7b5473f0cd79189779faa2",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "datastructuresfr0000turn_meta.sqlite",
+        "source": "original",
+        "mtime": "1601274323",
+        "size": "19456",
+        "md5": "57fde9c8713fe8aec4626a0d700e015f",
+        "crc32": "bed14f99",
+        "sha1": "8b1fa3204b4f0c48230f4ededea3a302c9cd283e",
+        "format": "Metadata"
+      },
+      {
+        "name": "datastructuresfr0000turn_meta.xml",
+        "source": "original",
+        "mtime": "1753214523",
+        "size": "2998",
+        "md5": "d55799b77430738de75df28b2fd72e48",
+        "crc32": "550abeb7",
+        "sha1": "efe9f0d8960ae37c4bb710a013e53f0cb1289945",
+        "format": "Metadata"
+      },
+      {
+        "name": "datastructuresfr0000turn_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1601274311",
+        "size": "660060160",
+        "md5": "bd5187b369433b11f1771478261178d7",
+        "crc32": "3b1ff17c",
+        "sha1": "d379d58ca12255ccd1c3e3eb708e6cc6c8c526d9",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "644"
+      },
+      {
+        "name": "datastructuresfr0000turn_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "datastructuresfr0000turn_hocr.html",
+        "mtime": "1719541425",
+        "size": "108372",
+        "md5": "03560ef63d96487f0ad3dd29b9bf9b3e",
+        "crc32": "4111ffb0",
+        "sha1": "d341f76f027294c54e630705b7f50f20600a4051",
+        "private": "true"
+      },
+      {
+        "name": "datastructuresfr0000turn_scandata.xml",
+        "source": "original",
+        "mtime": "1669761570",
+        "size": "658554",
+        "md5": "431e1ccda56b7bdfe935d38f1a1d22a1",
+        "crc32": "bbf424cf",
+        "sha1": "4f1f0d9bfd7afabb946e7e9cdcd910d19de949cb",
+        "format": "Scandata"
+      },
+      {
+        "name": "datastructuresfr0000turn_slip.png",
+        "source": "original",
+        "mtime": "1600871420",
+        "size": "39802",
+        "md5": "f2129fbafa7714e335c16043ad6012d3",
+        "crc32": "c445e41c",
+        "sha1": "f1002617d8f0b72ea77a56ac789bdc18315db17c",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "datastructuresfr0000turn_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "datastructuresfr0000turn_slip.png",
+        "mtime": "1601274855",
+        "size": "5686",
+        "md5": "ec90852a9183b33c77f42c5d823e8751",
+        "crc32": "6499bf98",
+        "sha1": "a43bbaf1776512820ddf2bd9cebcab1738e9b276",
+        "private": "true"
+      },
+      {
+        "name": "datastructuresfr0000turn_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "datastructuresfr0000turn_djvu.xml",
+        "mtime": "1669761526",
+        "size": "529",
+        "md5": "a9cf1b71b0cc673cea79ea7762e0caf5",
+        "crc32": "501c4cb7",
+        "sha1": "0c190929b6224811f16097099d8f645212098b8d",
+        "private": "true"
+      },
+      {
+        "name": "logs/datastructuresfr0000turn_iabdash_2020-09-2402:16:10.log",
+        "source": "original",
+        "mtime": "1600884976",
+        "size": "1353",
+        "md5": "086b7470c478074f99a6e7a6b678cc29",
+        "crc32": "bd7ede50",
+        "sha1": "5135a444e6a02fc15333fc175472990f7f469245",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/datastructuresfr0000turn_scanning_2020-09-2402:16:25.log",
+        "source": "original",
+        "mtime": "1600884988",
+        "size": "2359294",
+        "md5": "d80e658e893d22a156346663ccbe8ab3",
+        "crc32": "4afdc5b6",
+        "sha1": "ff131c35da116a682784d7febfc6a15a13f29408",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/datastructuresfr0000turn_status_history_2020-09-2402:16:18.log",
+        "source": "original",
+        "mtime": "1600884983",
+        "size": "409",
+        "md5": "bf5d2c40027b366a92522aa79b018190",
+        "crc32": "88cf84cc",
+        "sha1": "a148fda6f3de1aeab1ca96f1cce52e6a74ff1595",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753214523,
+    "item_size": 1084024144,
+    "metadata": {
+      "identifier": "datastructuresfr0000turn",
+      "boxid": "IA1947315",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Turner, Lawrence E",
+      "date": "1994-01-01",
+      "description": [
+        "xxvii, 608 pages ; 23 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "0697172864",
+        "9780697172860"
+      ],
+      "language": "eng",
+      "lccn": "93070080",
+      "mediatype": "texts",
+      "old_pallet": "IA19342",
+      "openlibrary_edition": "OL1439299M",
+      "openlibrary_work": "OL3964841W",
+      "operator": "associate-miralou-melgar@archive.org",
+      "ppi": "300",
+      "publisher": "Dubuque, Iowa : W.C. Brown",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station06.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780697172860",
+      "subject": [
+        "Data structures (Computer science)",
+        "C (Computer program language)"
+      ],
+      "title": "Data structures from recipes to C",
+      "tts_version": "4.0-initial-155-gbba175a5",
+      "uploader": "station06.cebu@archive.org",
+      "publicdate": "2020-09-23 14:30:34",
+      "access-restricted-item": "true",
+      "imagecount": "644",
+      "scandate": "20200923192433",
+      "republisher_operator": "associate-radel-luchavez@archive.org",
+      "republisher_date": "20200928133720",
+      "republisher_time": "651",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/datastructuresfr0000turn",
+      "identifier-ark": "ark:/13960/t5w75vk4f",
+      "ocr": "ABBYY FineReader 11.0 (Extended OCR)",
+      "external-identifier": [
+        "urn:acs6:datastructuresfr0000turn:epub:f0b7e6a9-b74a-4ddc-8acb-ddd3705b6f99",
+        "urn:acs6:datastructuresfr0000turn:pdf:25cfe167-a4e3-4b1c-b8e1-8f12b4ae1e8d",
+        "urn:oclc:record:1200291468",
+        "urn:lcp:datastructuresfr0000turn:lcpdf:0bae1b21-97c1-419a-96bb-e1a9ca0b264d",
+        "urn:lcp:datastructuresfr0000turn:epub:ee77d88d-1ea6-4c7e-a84f-6bec64901266"
+      ],
+      "page_number_confidence": "100",
+      "addeddate": "2020-09-28 16:03:20",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20200930",
+      "ocr_module_version": "0.0.14",
+      "ocr_converted": "abbyy-to-hocr 1.1.11",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "1994-01-01"
+      ]
+    },
+    "server": "ia801801.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "uni-ol": {
+          "notes": {
+            "isbn": [
+              "9780697172860"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-04-23 20:57:04.413927"
+        }
+      }
+    },
+    "uniq": 1507237521,
+    "workable_servers": [
+      "ia801801.us.archive.org",
+      "ia601801.us.archive.org"
+    ]
+  }
+}

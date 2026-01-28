@@ -1,0 +1,510 @@
+{
+  "source": "internet_archive",
+  "identifier": "sizzlingmexicanr0000unse",
+  "title": "Sizzling Mexican recipes",
+  "creator": null,
+  "year": 1995,
+  "subject": [
+    "Cooking, Mexican",
+    "Brand name products"
+  ],
+  "description": [
+    "128 pages : 22 cm",
+    "Cover title",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/sizzlingmexicanr0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/sizzlingmexicanr0000unse"
+        }
+      ]
+    },
+    "created": 1758556049,
+    "d1": "ia903106.us.archive.org",
+    "d2": "ia803106.us.archive.org",
+    "dir": "/6/items/sizzlingmexicanr0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661103938",
+        "size": "21744",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "01bcfc218f372a2c04fc447f17465a2c",
+        "crc32": "3c166425",
+        "sha1": "fe36faeb68d63f4643021924262f30af141f3fea"
+      },
+      {
+        "name": "logs/sizzlingmexicanr0000unse_iabdash_2019-11-1601:45:50.log",
+        "source": "original",
+        "mtime": "1573839953",
+        "size": "1352",
+        "md5": "e64de47702897d8f56ab95a257f9901b",
+        "crc32": "f4cb1e14",
+        "sha1": "4403bce4dc92598c743d1abfdf456b0bcbb9dfd8",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/sizzlingmexicanr0000unse_scanning_2019-11-1601:45:54.log",
+        "source": "original",
+        "mtime": "1573839961",
+        "size": "437203",
+        "md5": "c8abf3ccb729aef875fd504188450226",
+        "crc32": "3d0be95f",
+        "sha1": "8f00f74df25aece20d61a7bd940c0f3482431e37",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "sizzlingmexicanr0000unse_hocr.html",
+        "mtime": "1754036105",
+        "size": "28138293",
+        "private": "true",
+        "md5": "c9e58162b89089e2faf6bc6a29bbb3e9",
+        "crc32": "7ce9496c",
+        "sha1": "a724be4c756dad6a0a2462dee3e10cc689f429fd"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "sizzlingmexicanr0000unse.pdf",
+        "mtime": "1754035879",
+        "size": "6045559",
+        "md5": "af946aad4fe6352f188078b76b1c4c73",
+        "crc32": "390ff062",
+        "sha1": "e37537ec57f2d51772da8dec200355c0c7d84e66"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "sizzlingmexicanr0000unse_page_numbers.json",
+        "mtime": "1723880370",
+        "size": "5821614",
+        "md5": "a763f9b813b88d6201624f5214bd5ac3",
+        "crc32": "5d5bd892",
+        "sha1": "477a550218b32f811ec180f09f5ab222fe77afc3",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "sizzlingmexicanr0000unse_jp2.zip",
+        "mtime": "1574141304",
+        "size": "1807427",
+        "md5": "8f1f898873b3ec5203a4b7341d1ac7b0",
+        "crc32": "0625032d",
+        "sha1": "085a39fbabf94335ad6079cf4e8713d8bca7f131",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "sizzlingmexicanr0000unse_abbyy.gz",
+        "mtime": "1661103833",
+        "size": "1484837",
+        "md5": "1e82e23b94336eb712ab918a0ec6f832",
+        "crc32": "f90a8fe5",
+        "sha1": "154dda98f8fabc93ae3a9a3533866015fcfab5af",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "sizzlingmexicanr0000unse_scandata.xml",
+        "mtime": "1671277679",
+        "size": "788",
+        "md5": "51d82573855f50df0e8c4b0a5a4b9814",
+        "crc32": "b1cbdac6",
+        "sha1": "30c13d8f1d4723e2707301d8607f5a782c0faadd",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1661103812",
+        "size": "1134",
+        "md5": "1010a420a10cac59c5178693f491b651",
+        "crc32": "8361a4f1",
+        "sha1": "819f5d64a6751da00e7f39f7b050e1d2b8f17852"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "sizzlingmexicanr0000unse_djvu.xml",
+        "mtime": "1661103932",
+        "size": "133285",
+        "md5": "6f940d929ebe4ea216fdcfa623bd5e4f",
+        "crc32": "9a57835d",
+        "sha1": "f2667832c1d0f576a2b4e2434033b39bf8ac67b5",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "sizzlingmexicanr0000unse_hocr.html",
+        "mtime": "1661103893",
+        "size": "1611795",
+        "md5": "d60116398775f917735bcde79d7c65db",
+        "crc32": "0c165605",
+        "sha1": "e2c7203061a04d9a0d517f6c5c847e0f040cd1f3",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "sizzlingmexicanr0000unse_abbyy.gz",
+        "mtime": "1574141934",
+        "size": "902438",
+        "md5": "cfe81e24b7f76472ebae8dcb20b426a0",
+        "crc32": "bdef6dfe",
+        "sha1": "6a2556d0c3a8731a37fd9a2209f24713ddb4fffb"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "sizzlingmexicanr0000unse.pdf",
+        "mtime": "1723880911",
+        "size": "5754054",
+        "md5": "f8f55f5c9d3dcdca29eaf79eb81965f6",
+        "crc32": "2cfe4056",
+        "sha1": "75c552f2a2815a08ada13d24f30577eb6805bbee"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_events.json",
+        "source": "original",
+        "mtime": "1574136754",
+        "size": "55",
+        "md5": "4738e7e18b78863e9b00b8611952d452",
+        "crc32": "ada05b5f",
+        "sha1": "2c8ee1dd3dff0939a995684f88f0e76ad4bb2aef",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "341d845b0060551e42725a9f50acf688",
+        "summation": "md5"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "sizzlingmexicanr0000unse_chocr.html.gz",
+        "mtime": "1661103877",
+        "size": "3384858",
+        "md5": "fc2978286a72944b9f8834ef31c38110",
+        "crc32": "b8a7243b",
+        "sha1": "502a30b8d86c094b58f34f2b273841fb48fbd42d",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "sizzlingmexicanr0000unse_hocr.html",
+        "mtime": "1661103903",
+        "size": "1328",
+        "md5": "55c5de0ae83dfb919901c94057cabd29",
+        "crc32": "9d47cfe1",
+        "sha1": "a7ab3ebd7bc3489ed09345fa7ac3165badc711d3",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "55",
+        "word_conf_11_20": "54",
+        "word_conf_21_30": "84",
+        "word_conf_31_40": "116",
+        "word_conf_41_50": "125",
+        "word_conf_51_60": "173",
+        "word_conf_61_70": "460",
+        "word_conf_71_80": "1343",
+        "word_conf_81_90": "4141",
+        "word_conf_91_100": "12020",
+        "format": "OCR Search Text",
+        "original": "sizzlingmexicanr0000unse_hocr.html",
+        "mtime": "1661103921",
+        "size": "33953",
+        "md5": "b767634adde9c6f03d3bb34bebbec441",
+        "crc32": "c23d56d5",
+        "sha1": "55d494f9ebea261f1082b8b0fcf6f0add944e7cf",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "sizzlingmexicanr0000unse_orig_jp2.tar",
+        "mtime": "1574140798",
+        "size": "52671379",
+        "md5": "c037c6a9e27696965438a77e23fa2ec4",
+        "crc32": "8563bf8d",
+        "sha1": "44975be021b8f6c3d299969e2e5236562a54a7b7",
+        "private": "true",
+        "filecount": "134"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "sizzlingmexicanr0000unse.epub",
+        "mtime": "1754036475",
+        "size": "28490247",
+        "md5": "42ccf31036b9558f8d26ea4e1b9b191b",
+        "crc32": "17964c3b",
+        "sha1": "21407ed82d989f372f418806b0783f8112beee35"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593240413",
+        "size": "1787",
+        "format": "JSON",
+        "private": "true",
+        "md5": "8b846f39a97b14a019f2232eecbef03f",
+        "crc32": "1cf8d428",
+        "sha1": "dc547ffe3f57a8f3cb0f13f174f1671729b7bf66"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1661103812",
+        "size": "3959",
+        "format": "MARC",
+        "md5": "33ec376aaa43ca93937cfd4e84e65c2d",
+        "crc32": "88873d18",
+        "sha1": "6ca912c543e1ab1c642668de93890f463522fc01"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1573839949",
+        "size": "1133",
+        "md5": "a349b54b191228562ca9bd5f4fc97a8c",
+        "crc32": "b0b62f6e",
+        "sha1": "d236d91fc5d49019f1159aecc29eff185baf0ca1",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1574136951",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "33d062e8c0158d9f43108cadcde2f2c5",
+        "crc32": "d1da8185",
+        "sha1": "1e9ffe6baf460638b4638d698c826271f6d63bba"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1754036475",
+        "size": "2996",
+        "format": "Metadata",
+        "md5": "fdcd43ed07b3bc209f11d4c3188c8ded",
+        "crc32": "eb6ffdec",
+        "sha1": "069d9377e60bc68f27749b35862d768ebf0cb6df"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1574136951",
+        "size": "198379520",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "769acf530785625fcf6f3aadc58bfaae",
+        "crc32": "11e63e8a",
+        "sha1": "b6d5fde9672bf306cb06b9bbfed9444e55ad3523",
+        "filecount": "134"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "10",
+        "format": "Page Numbers JSON",
+        "original": "sizzlingmexicanr0000unse_hocr.html",
+        "mtime": "1723880370",
+        "size": "22488",
+        "md5": "4a9b1e8e8da10ae452ada0a38d469f7d",
+        "crc32": "46140759",
+        "sha1": "686e3ae07bb8da8dfeed2d0f627453c01c7cec56",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671277679",
+        "size": "72782",
+        "format": "Scandata",
+        "md5": "35f6ff5fb84ceb024cabb47620098be0",
+        "crc32": "4f8c62a1",
+        "sha1": "dc4e348c2e635009529b969452b87bc167659c39"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_slip.png",
+        "source": "original",
+        "mtime": "1573827346",
+        "size": "41011",
+        "md5": "ebf6c96a2db0752d0bccde6b742d42d8",
+        "crc32": "d7ec6ef4",
+        "sha1": "b3d66f7a8c84c6e62bccb5b07015b2f3cfe1ef70",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "sizzlingmexicanr0000unse_slip.png",
+        "mtime": "1574137033",
+        "size": "5517",
+        "md5": "d49329b29f190f8237d99f967f4a5ba0",
+        "crc32": "11ef8b8f",
+        "sha1": "70aaff8d520a24c731aadfb34181bfab1649786e",
+        "private": "true"
+      },
+      {
+        "name": "sizzlingmexicanr0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "sizzlingmexicanr0000unse_djvu.xml",
+        "mtime": "1671277652",
+        "size": "618",
+        "md5": "89557828bd8c0391f46e416f6b158a19",
+        "crc32": "72abdc41",
+        "sha1": "0f954b59b07235c3042cd716d6c2ba50f8a7f45d",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1754036475,
+    "item_size": 335292562,
+    "metadata": {
+      "identifier": "sizzlingmexicanr0000unse",
+      "boxid": "IA1696803",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "1995-01-01",
+      "description": [
+        "128 pages : 22 cm",
+        "Cover title",
+        "Includes index"
+      ],
+      "isbn": [
+        "0785313249",
+        "9780785313243"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA15411",
+      "operator": "associate-jerry-medayre@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International",
+      "repub_state": "19",
+      "scanner": "station01.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780785313243",
+      "subject": [
+        "Cooking, Mexican",
+        "Brand name products"
+      ],
+      "title": "Sizzling Mexican recipes",
+      "tts_version": "3.1-initial-268-ge641e8b",
+      "uploader": "station01.cebu@archive.org",
+      "addeddate": "2019-11-15 14:15:48",
+      "publicdate": "2019-11-15 14:16:01",
+      "access-restricted-item": "true",
+      "imagecount": "134",
+      "scandate": "20191115181446",
+      "notes": "inherent obscured text back cover due to sticker.<br />some pages are tight margin.<br />",
+      "republisher_operator": "associate-anarose-ytang@archive.org",
+      "republisher_date": "20191119121228",
+      "republisher_time": "434",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/sizzlingmexicanr0000unse",
+      "identifier-ark": "ark:/13960/t51g8rt82",
+      "external-identifier": [
+        "urn:acs6:sizzlingmexicanr0000unse:epub:8db348da-24b4-431c-981b-ad00459fc930",
+        "urn:acs6:sizzlingmexicanr0000unse:pdf:b8be8949-ba93-46e2-8dd5-7d5dcfb4c534",
+        "urn:lcp:sizzlingmexicanr0000unse:lcpdf:f3806b29-6dd6-41a2-8b85-f57eb11f88d5",
+        "urn:lcp:sizzlingmexicanr0000unse:epub:66c773ee-0090-4766-80e3-d98ac6211253"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191130",
+      "backup_location": "ia907006_16",
+      "openlibrary_edition": "OL32142274M",
+      "openlibrary_work": "OL24298870W",
+      "oclc-id": "40399113",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "10",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia903106.us.archive.org",
+    "uniq": 463036119,
+    "workable_servers": [
+      "ia903106.us.archive.org",
+      "ia803106.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

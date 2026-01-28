@@ -1,0 +1,89 @@
+{
+  "source": "dpla",
+  "id": "8b19e6e090270031c27038e655660f10",
+  "identifier": "8b19e6e090270031c27038e655660f10",
+  "title": "Valley Cook Book",
+  "subject": [],
+  "spatial": [
+    "Iowa Park, Wichita County, Texas"
+  ],
+  "description": "A cookbook compiled by the First State Bank in Iowa Park, Texas.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/154",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "year": 1920,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/8b19e6e090270031c27038e655660f10#SourceResource",
+      "collection": [
+        {
+          "title": "DeGolyer Library Cookbook Collection"
+        }
+      ],
+      "creator": [
+        "First State Bank (Iowa Park, Tex.)"
+      ],
+      "date": [
+        {
+          "displayDate": "ca. 1920s"
+        }
+      ],
+      "description": [
+        "A cookbook compiled by the First State Bank in Iowa Park, Texas."
+      ],
+      "identifier": [
+        "TX715 .V348 1920z"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "DeGolyer Library"
+      ],
+      "rights": [
+        "Please cite DeGolyer Library, Southern Methodist University as the source of this file. A high-resolution version of this file may be obtained for a fee. For details, see the https://www.smu.edu/libraries/degolyer/using/images web page. For more information, contact degolyer@smu.edu."
+      ],
+      "spatial": [
+        {
+          "name": "Iowa Park, Wichita County, Texas"
+        }
+      ],
+      "title": [
+        "Valley Cook Book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1920-01-01",
+      "normalized_dates": [
+        "1920-01-01"
+      ]
+    }
+  },
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/154",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/154"
+  },
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Methodist"
+    ]
+  },
+  "curation_notes": "State match: Iowa; Community markers: Methodist; Digitized scan available"
+}

@@ -1,0 +1,350 @@
+{
+  "source": "internet_archive",
+  "identifier": "IMT_1947112801",
+  "title": "Irma times (1947-11-28)",
+  "creator": null,
+  "year": 1947,
+  "subject": "Irma times",
+  "description": "Page 1: - Southern Sayings - Christmas Mails - Flicks and Flashes - Local News - More Time for Alberta Shippers - W. Il Meeting Dec. 4th - Calf Club Meeting - Easterly Echoes - Northern Nuggets - Boxing Card for Friday, Dec. 12th - Ladies' Curling Club Hold Annual Meeting - Attention, Irma and District - Local News - Motorists Warned of Poisonous Fumes - Community Cook Book - Items from Kinsella District - In Memoriam - Tests of Drivers is A. M. A. Convention Topic Page 2: Page 3: - Viking Items - Damaged Parcels Emphasize Need for Proper Packing - Local News - Local News Page 4: - The World of Wheat - Festive Table Laid with Irish Linen - Locals",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/IMT_1947112801"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/IMT_1947112801"
+        }
+      ]
+    },
+    "created": 1758558430,
+    "d1": "ia601405.us.archive.org",
+    "d2": "ia801405.us.archive.org",
+    "dir": "/1/items/IMT_1947112801",
+    "files": [
+      {
+        "name": "1947112801.xml",
+        "source": "original",
+        "mtime": "1663747594",
+        "size": "12365",
+        "md5": "8b7fb614a4fb28f468ac98638973d685",
+        "crc32": "dadab0c9",
+        "sha1": "e7d24ef55220a19988d64059a4d3dedd4a6f3ba7",
+        "format": "Metadata"
+      },
+      {
+        "name": "IMT.xml",
+        "source": "original",
+        "mtime": "1663747611",
+        "size": "2528",
+        "md5": "fda5c1b2421c2c2e1cc3c8b74f0413da",
+        "crc32": "3688ffab",
+        "sha1": "8698678a7586182047459fe23a663dfa3cbd1084",
+        "format": "Metadata"
+      },
+      {
+        "name": "IMT_1947112801.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.19",
+        "format": "Text PDF",
+        "original": "IMT_1947112801_page_numbers.json",
+        "mtime": "1663748058",
+        "size": "7705788",
+        "md5": "a1a4973d2f6b5f58d945046525303663",
+        "crc32": "6e230e55",
+        "sha1": "307b71683558785b604ca60d937b18a38e463ae1"
+      },
+      {
+        "name": "IMT_1947112801_archive.torrent",
+        "source": "metadata",
+        "btih": "8940b2ed32953c3109e496d2031572e135318c32",
+        "mtime": "1684336092",
+        "size": "5834",
+        "md5": "3e12bbae9fa1c1f1610e247b3f61a585",
+        "crc32": "0534920a",
+        "sha1": "3b9b09c6e0601374ea781946d58bd9a1b9b6e365",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "IMT_1947112801_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.2.0-1-gc42a",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "ocr_degraded": "tesseract-crash",
+        "format": "chOCR",
+        "original": "IMT_1947112801_jp2.zip",
+        "mtime": "1663747873",
+        "size": "479120",
+        "md5": "f19ceed86dae258a0fe16715a9aa6b9e",
+        "crc32": "d8913d01",
+        "sha1": "f3edb9398df694842b3649beef152b31212f3e58"
+      },
+      {
+        "name": "IMT_1947112801_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "IMT_1947112801_djvu.xml",
+        "mtime": "1663747965",
+        "size": "33509",
+        "md5": "96c14f04f0a03e646b9b618ab2fc26dd",
+        "crc32": "06167d43",
+        "sha1": "58083ab6b86a47b71df7ba0e4e075e78ef73fb29"
+      },
+      {
+        "name": "IMT_1947112801_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "IMT_1947112801_hocr.html",
+        "mtime": "1663747911",
+        "size": "488617",
+        "md5": "c0d96365da0fcb4d7984e15c9250d9a6",
+        "crc32": "9358c49f",
+        "sha1": "a71206b1e4bc2c65fd96627300a0e3e53a5abb58"
+      },
+      {
+        "name": "IMT_1947112801_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "e7df606e7690ae846a7149c1d3b109d5",
+        "summation": "md5"
+      },
+      {
+        "name": "IMT_1947112801_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "ocr_degraded": "tesseract-crash",
+        "format": "hOCR",
+        "original": "IMT_1947112801_chocr.html.gz",
+        "mtime": "1663747896",
+        "size": "961251",
+        "md5": "abcef5e5b603ea41fc3887ab1e3475ca",
+        "crc32": "90315e34",
+        "sha1": "9d570526df2a0d91b93cb01f01cd0a0d37a50213"
+      },
+      {
+        "name": "IMT_1947112801_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "IMT_1947112801_hocr.html",
+        "mtime": "1663747925",
+        "size": "88",
+        "md5": "16a0c0defc18f8aef52bc46496ff7f81",
+        "crc32": "18b4b1e1",
+        "sha1": "325a0e13a9d388250105401c0d99957fa7a997be"
+      },
+      {
+        "name": "IMT_1947112801_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "305",
+        "word_conf_11_20": "135",
+        "word_conf_21_30": "160",
+        "word_conf_31_40": "197",
+        "word_conf_41_50": "168",
+        "word_conf_51_60": "128",
+        "word_conf_61_70": "169",
+        "word_conf_71_80": "236",
+        "word_conf_81_90": "444",
+        "word_conf_91_100": "3777",
+        "format": "OCR Search Text",
+        "original": "IMT_1947112801_hocr.html",
+        "mtime": "1663747953",
+        "size": "16090",
+        "md5": "4952cd80e0503a9c1c37857815cdd3f0",
+        "crc32": "93e0387c",
+        "sha1": "a2043ccf27fe1420bc71ed8860e4b99869219f82"
+      },
+      {
+        "name": "IMT_1947112801_images.zip",
+        "source": "original",
+        "mtime": "1663747619",
+        "size": "17410229",
+        "md5": "4674e900234811c7b65cfa11c6b89be7",
+        "crc32": "e026e944",
+        "sha1": "592bd3452515a7cd01b5addfa6e56914780cbc0c",
+        "format": "Generic Raw Book Zip",
+        "filecount": "4"
+      },
+      {
+        "name": "IMT_1947112801_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "IMT_1947112801_images.zip",
+        "mtime": "1663747743",
+        "size": "17414572",
+        "md5": "2741fc983e9fa01e247251a4b44ea31b",
+        "crc32": "36584e18",
+        "sha1": "789ee2b8af7e4d62d7efe9ad564436f79160b06c",
+        "filecount": "4"
+      },
+      {
+        "name": "IMT_1947112801_meta.sqlite",
+        "source": "original",
+        "mtime": "1663747648",
+        "size": "36864",
+        "md5": "9358198221cbad14cb616e6ad26b0536",
+        "crc32": "fa72cfb2",
+        "sha1": "d0548ee48b60e4d6d27304f07da5d85cc2be7a00",
+        "format": "Metadata"
+      },
+      {
+        "name": "IMT_1947112801_meta.xml",
+        "source": "original",
+        "mtime": "1684336075",
+        "size": "2620",
+        "md5": "1c850b8d7d65a7bce0c63ec007a45395",
+        "crc32": "3d321408",
+        "sha1": "6afec5d215d8b284aefbf8d36d42bb1d1b88ee26",
+        "format": "Metadata"
+      },
+      {
+        "name": "IMT_1947112801_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "IMT_1947112801_djvu.xml",
+        "mtime": "1663747991",
+        "size": "617",
+        "md5": "38c29344520fecbf1f3268e7ba00a222",
+        "crc32": "fef8f242",
+        "sha1": "dd81a77530f1a98eb7a88634d83c9d145930380b"
+      },
+      {
+        "name": "IMT_1947112801_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "IMT_1947112801_djvu.xml",
+        "mtime": "1663747974",
+        "size": "1399",
+        "md5": "9b3819b80cca85c47d0d3171704cc8b7",
+        "crc32": "fc9891ee",
+        "sha1": "454c99528a01ca7bd72157fa574e903986d4800e"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1663748075",
+        "size": "23346",
+        "md5": "26b8122c12585a35cc584419282ff320",
+        "crc32": "39ce628c",
+        "sha1": "06cd9118658496c7daa2926322f04849da5c1432",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "articles_1947112801.xml",
+        "source": "original",
+        "mtime": "1663747607",
+        "size": "53223",
+        "md5": "f48f15e9509464a1ed32361bb50fa043",
+        "crc32": "6d6044c4",
+        "sha1": "6918964f10aede7270fb4c2396005f2e61470fca",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 19,
+    "item_last_updated": 1684336092,
+    "item_size": 44648060,
+    "metadata": {
+      "identifier": "IMT_1947112801",
+      "adaptive_ocr": "true",
+      "collection": [
+        "peel_newspapers",
+        "peel",
+        "university_of_alberta_libraries",
+        "toronto"
+      ],
+      "collective_title": "Irma times",
+      "coverage": "Canada;Alberta;Irma",
+      "date": "1947-11-28",
+      "description": "Page 1: \n \n - Southern Sayings \n \n - Christmas Mails \n \n - Flicks and Flashes \n \n - Local News \n \n - More Time for Alberta Shippers \n \n - W. Il Meeting Dec. 4th \n \n - Calf Club Meeting \n \n - Easterly Echoes \n \n - Northern Nuggets \n \n - Boxing Card for Friday, Dec. 12th \n \n - Ladies' Curling Club Hold Annual Meeting \n \n - Attention, Irma and District \n \n - Local News \n \n - Motorists Warned of Poisonous Fumes \n \n - Community Cook Book \n \n - Items from Kinsella District \n \n - In Memoriam \n \n - Tests of Drivers is A. M. A. Convention Topic \n \nPage 2: \n \nPage 3: \n \n - Viking Items \n \n - Damaged Parcels Emphasize Need for Proper Packing \n \n - Local News \n \n - Local News \n \nPage 4: \n \n - The World of Wheat \n \n - Festive Table Laid with Irish Linen \n \n - Locals \n \n \n",
+      "extent": "v. : ill.",
+      "genre": "Newspaper",
+      "issuance": "continuing",
+      "language": "English",
+      "mediatype": "texts",
+      "notes": "[public]: Weekly. Imprint varies. Published [9?] February 1917 to 29 August 1969 as &lt;i&gt;Irma times&lt;/i&gt;. 3 September 1969 amalgamated with &lt;i&gt;Viking news&lt;/i&gt; to form &lt;i&gt;Viking news and Irma times&lt;/i&gt;. Publication suspended 28 March to 14 May 1925.  ",
+      "scanner": "Internet Archive Python library 2.1.0",
+      "title": "Irma times (1947-11-28)",
+      "uploader": "digitization.IAscript@ualberta.ca",
+      "publicdate": "2022-09-21 08:06:54",
+      "addeddate": "2022-09-21 08:06:54",
+      "identifier-access": "http://archive.org/details/IMT_1947112801",
+      "identifier-ark": "ark:/13960/s22q1vjc5vj",
+      "imagecount": "4",
+      "ocr": "tesseract 5.2.0-1-gc42a",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.18",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "ocr_degraded": "tesseract-crash",
+      "pdf_module_version": "0.0.19",
+      "subject": "Irma times"
+    },
+    "page_numbers": {
+      "identifier": "/var/tmp/autoclean/derive/imt_1947112801/imt_1947112801",
+      "confidence": 0,
+      "pages": [
+        {
+          "leafNum": 1,
+          "ocr_value": [
+            "500",
+            "CL"
+          ],
+          "confidence": 0,
+          "pageNumber": "1"
+        },
+        {
+          "leafNum": 2,
+          "ocr_value": [],
+          "confidence": 0,
+          "pageNumber": "2"
+        },
+        {
+          "leafNum": 3,
+          "ocr_value": [
+            "42"
+          ],
+          "confidence": 0,
+          "pageNumber": "3"
+        }
+      ]
+    },
+    "server": "ia801405.us.archive.org",
+    "uniq": 1807594101,
+    "workable_servers": [
+      "ia801405.us.archive.org",
+      "ia601405.us.archive.org"
+    ]
+  },
+  "pdf_url": "https://archive.org/download/IMT_1947112801/IMT_1947112801.pdf",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

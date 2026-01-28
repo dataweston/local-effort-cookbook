@@ -1,0 +1,653 @@
+{
+  "source": "internet_archive",
+  "identifier": "isbn_9780848733193",
+  "title": "Cooking through the seasons: an everyday guide to enjoying the freshest food",
+  "creator": "[by the editors of Cooking light].",
+  "year": 2010,
+  "subject": [
+    "Seasonal cooking",
+    "Low-fat diet"
+  ],
+  "description": [
+    "Includes index",
+    "Organized around the four seasons, this cookbook takes readers on a culinary journey throughout the year, beginning with spring's first Strawberry Shortcake to fall's family-favorite holiday casserole",
+    "Why cook seasonally? -- Spring -- Summer -- Autumn -- Winter"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/isbn_9780848733193"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/isbn_9780848733193"
+        }
+      ]
+    },
+    "created": 1758335537,
+    "d1": "ia600202.us.archive.org",
+    "d2": "ia800202.us.archive.org",
+    "dir": "/4/items/isbn_9780848733193",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660367881",
+        "size": "19129",
+        "md5": "82dea74eeff962f39b93657e44ddb7e2",
+        "crc32": "032ab272",
+        "sha1": "6a23dc184a0b7ecf7f6296fb6116dbbecfc655c3",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "isbn_9780848733193.cdx.gz",
+        "source": "original",
+        "mtime": "1455023887",
+        "size": "286",
+        "md5": "de114c1bb1ecbf247651a2a62e978dce",
+        "crc32": "e6e3a688",
+        "sha1": "827e4d59d257b7a4dedff5cfef6ce33c346aa3d8",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193.cdx.idx",
+        "source": "original",
+        "mtime": "1455023887",
+        "size": "33",
+        "md5": "21a42bc66baef28f5807da7bbd1f6a19",
+        "crc32": "c817c7bd",
+        "sha1": "c4acf59a5528ebd27ed4a082d54425d68429e1ec",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "isbn_9780848733193_hocr.html",
+        "mtime": "1753544773",
+        "size": "190997096",
+        "private": "true",
+        "md5": "9cadb5f2bb7c021e75e044639ee0095c",
+        "crc32": "f4391d3b",
+        "sha1": "ac084da7c230c59b07dac62457fe374bbcf1cf66"
+      },
+      {
+        "name": "isbn_9780848733193.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "isbn_9780848733193.pdf",
+        "mtime": "1753544443",
+        "size": "37683329",
+        "md5": "063a4de28ab2cc1261898e6757b24c52",
+        "crc32": "6c5e2f16",
+        "sha1": "60a9fac5a3e4d41570f2f85f444768a2b4a20c0f"
+      },
+      {
+        "name": "isbn_9780848733193.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "isbn_9780848733193_page_numbers.json",
+        "mtime": "1726439331",
+        "size": "37295886",
+        "md5": "ffd05f8b50e74069e31fbb522d8118aa",
+        "crc32": "b845df6c",
+        "sha1": "353ec205f7b63a2acd63365e65fb6443cc10f6e0",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1432127582",
+        "size": "4965",
+        "md5": "fa9aafff6aae986f477b0125f573b962",
+        "crc32": "46680359",
+        "sha1": "edb966ffbe0d368600240deea0811ecd369353a2"
+      },
+      {
+        "name": "isbn_9780848733193.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "isbn_9780848733193.warc.gz",
+        "mtime": "1455023873",
+        "size": "286",
+        "md5": "187478f95f745e3ccba3eb0bfc3888b4",
+        "crc32": "34829aca",
+        "sha1": "26317c78f41084e1c7cb67006b51618dd492df6c",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "isbn_9780848733193_jp2.zip",
+        "mtime": "1530977986",
+        "size": "8789416",
+        "md5": "ec732c5985643b502cd2837d368be784",
+        "crc32": "a7792dcb",
+        "sha1": "6626b35e195352644e4ce488c8d67dbe03da49ee",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "isbn_9780848733193_abbyy.gz",
+        "mtime": "1660365895",
+        "size": "7462651",
+        "md5": "1a84b2510c71ae7666e359d5f01f3566",
+        "crc32": "accc8fe9",
+        "sha1": "5857a0f8bb615d8f0cc987a037e9d719aaa4becc",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "isbn_9780848733193_scandata.xml",
+        "mtime": "1670379634",
+        "size": "765",
+        "md5": "f5d4d4c61e53987bcb705f5ce3a3b0b1",
+        "crc32": "c5090a14",
+        "sha1": "29e80b97194039d50e4c04dc9fdf3b78a49a52a8",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1455023869",
+        "size": "1335",
+        "md5": "bed95bdc911734ab760f0bac962bd3d8",
+        "crc32": "2e4b6405",
+        "sha1": "1837a2b84ca848c465eed2758fb9d53f4f5925ce"
+      },
+      {
+        "name": "isbn_9780848733193_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "isbn_9780848733193_djvu.xml",
+        "mtime": "1660367870",
+        "size": "680928",
+        "md5": "82cecf06c2aaa1ba193c90bd412d4cc3",
+        "crc32": "f9fb8e5c",
+        "sha1": "644ecab2d975d4ec9d0933d2ec6d3aad82d44ff8",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "isbn_9780848733193_hocr.html",
+        "mtime": "1660367446",
+        "size": "8027772",
+        "md5": "a83e2f03c3c1a30762346b59ea4a2104",
+        "crc32": "a3bde130",
+        "sha1": "d86785b58251e2fafab5f7141b934da6b8c0383f",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "isbn_9780848733193_abbyy.gz",
+        "mtime": "1530980953",
+        "size": "15771770",
+        "md5": "c3b654d5c2658c204fb5c7c1993d0257",
+        "crc32": "0931394b",
+        "sha1": "d0f93faf4062e2d8c3e5dc941bcb0425879a34db"
+      },
+      {
+        "name": "isbn_9780848733193_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "isbn_9780848733193.pdf",
+        "mtime": "1726440351",
+        "size": "37031751",
+        "md5": "8efb01d0ad26813c0b7ca2ca346a1212",
+        "crc32": "5a1330ed",
+        "sha1": "4375473d8b211e5fe39c540a9767720a917c0c7d"
+      },
+      {
+        "name": "isbn_9780848733193_events.json",
+        "source": "original",
+        "mtime": "1530964366",
+        "size": "51",
+        "md5": "117193f217a91b2696fda17bc482bed3",
+        "crc32": "99d4cccc",
+        "sha1": "ecc6d2e718ac4abfa92d849774d22c38f51a82a4",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "78ab4c832b1361f00e5f0bfc26021e4c",
+        "summation": "md5"
+      },
+      {
+        "name": "isbn_9780848733193_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "isbn_9780848733193_chocr.html.gz",
+        "mtime": "1660367394",
+        "size": "16604556",
+        "md5": "5f5b694b6f31a55eb2f4cfd4b3f3c313",
+        "crc32": "d8858490",
+        "sha1": "dac87b3c3db07fb361c8904c3213205551e10f21",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "isbn_9780848733193_hocr.html",
+        "mtime": "1660367638",
+        "size": "4725",
+        "md5": "c7561efa0cb664a9ff15a25112d90b38",
+        "crc32": "f1d8abc9",
+        "sha1": "ee3c804c4b34cbd68b932160893ec91d5cf23ab7",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "490",
+        "word_conf_11_20": "648",
+        "word_conf_21_30": "1042",
+        "word_conf_31_40": "1265",
+        "word_conf_41_50": "1652",
+        "word_conf_51_60": "2205",
+        "word_conf_61_70": "4391",
+        "word_conf_71_80": "10401",
+        "word_conf_81_90": "24842",
+        "word_conf_91_100": "49665",
+        "format": "OCR Search Text",
+        "original": "isbn_9780848733193_hocr.html",
+        "mtime": "1660367833",
+        "size": "193239",
+        "md5": "838ca541361890311715f434f359541d",
+        "crc32": "a92360bc",
+        "sha1": "0c02e4874ae82afc5a62362f757211e8244f0a70",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "isbn_9780848733193_orig_jp2.tar",
+        "mtime": "1530975589",
+        "size": "299838685",
+        "md5": "b903c7e91cb6f275a4201d25d48ea2c5",
+        "crc32": "9a64ae0a",
+        "sha1": "56b9f3fd36633980af5bd39884e3565b86d36d3d",
+        "private": "true",
+        "filecount": "410"
+      },
+      {
+        "name": "isbn_9780848733193_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "isbn_9780848733193.epub",
+        "mtime": "1753544802",
+        "size": "191524091",
+        "md5": "1159f53ab50845d621f3914464889814",
+        "crc32": "29306053",
+        "sha1": "0998053a76c32f9fab0ae5cfc8e1879da929b378"
+      },
+      {
+        "name": "isbn_9780848733193_loans.json",
+        "source": "original",
+        "mtime": "1592383203",
+        "size": "1383",
+        "format": "JSON",
+        "private": "true",
+        "md5": "2f2f88b0abad57325734306d86cb54fa",
+        "crc32": "df826c7e",
+        "sha1": "9a7973f953a1b363f9f51c205f1246bebcdf8e7a"
+      },
+      {
+        "name": "isbn_9780848733193_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1455023869",
+        "size": "3727",
+        "md5": "6cc8197caa456503f0bedf261111771c",
+        "crc32": "a0f37324",
+        "sha1": "133e4a0fede9a192b820d3a887c21a99fb774c2a"
+      },
+      {
+        "name": "isbn_9780848733193_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "isbn_9780848733193_xisbn.json",
+        "mtime": "1455023874",
+        "size": "354",
+        "md5": "f31953df12bba05965dfacb55e1c1946",
+        "crc32": "ae49817e",
+        "sha1": "d528950f5e7455314873efbabce227f99b7167f0",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1455023869",
+        "size": "1230",
+        "md5": "5d3f7e7b3ca1be4b1fa08df54262f5a9",
+        "crc32": "4fdc3477",
+        "sha1": "c5cbc61c41d27c27d5ef7c25308919834623df8a"
+      },
+      {
+        "name": "isbn_9780848733193_meta.sqlite",
+        "source": "original",
+        "mtime": "1530964581",
+        "size": "14336",
+        "format": "Metadata",
+        "md5": "e970a8cc18d32031985027641897e1b5",
+        "crc32": "cb270a83",
+        "sha1": "15b881e78f9108d83ab4022e2d52d03733539f25"
+      },
+      {
+        "name": "isbn_9780848733193_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753544803",
+        "size": "3893",
+        "md5": "ed3796a3e97538cd9394e9d857d8c9ef",
+        "crc32": "f79df516",
+        "sha1": "51d67bb7424f58640224ce29cac41e608c6659f7"
+      },
+      {
+        "name": "isbn_9780848733193_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1432127582",
+        "size": "295",
+        "md5": "23072546310e98a402cd0e6138d654b0",
+        "crc32": "72be1d47",
+        "sha1": "1597dc9401e240b4ec90c493b209fbb7bd5852cb"
+      },
+      {
+        "name": "isbn_9780848733193_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1530964576",
+        "size": "816926720",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "2c5a19f33da89df76c36bcd93da3a6d7",
+        "crc32": "0783481c",
+        "sha1": "7b0665ff9a31d2eafaaa0a753e035465ac5457de",
+        "filecount": "410"
+      },
+      {
+        "name": "isbn_9780848733193_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "isbn_9780848733193_hocr.html",
+        "mtime": "1726439309",
+        "size": "69530",
+        "md5": "dfb96905aab11c45a65532a2d4d65708",
+        "crc32": "c8bdc095",
+        "sha1": "9e9f7a4bd342aeb575ad2b85e3acf13fe740b888",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193_scandata.xml",
+        "source": "original",
+        "mtime": "1670379634",
+        "size": "418568",
+        "format": "Scandata",
+        "md5": "e6a7c0833e34fa43e1a498dc4e9a3f8b",
+        "crc32": "e9f83888",
+        "sha1": "df2ffa5434010bea05f2a4ca8b35e6807680ee8f"
+      },
+      {
+        "name": "isbn_9780848733193_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "isbn_9780848733193_djvu.xml",
+        "mtime": "1670379611",
+        "size": "21952",
+        "md5": "ed801015b2fa798aea557c3ff2b5e68f",
+        "crc32": "0851668f",
+        "sha1": "f730263a858c6065b5263343421114ce6ea0a5fc",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780848733193_xisbn.json",
+        "source": "original",
+        "mtime": "1454986519",
+        "size": "427",
+        "md5": "ae5f40fc2129192fa3aa21d8f26282f2",
+        "crc32": "1746bf51",
+        "sha1": "4cb0f2a7004c4d17191611e7c4a37f3857eef8c7",
+        "format": "OCLC xISBN JSON"
+      },
+      {
+        "name": "logs/isbn_9780848733193_iabdash_2018-07-06085520.log",
+        "source": "original",
+        "mtime": "1530838535",
+        "size": "353",
+        "md5": "78295a6cefa01b0f4952260a03323a7f",
+        "crc32": "7958b370",
+        "sha1": "535b5f64c993c8289dffa90223c94706826bd890",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/isbn_9780848733193_scanning_2018-07-06085515.log",
+        "source": "original",
+        "mtime": "1530838529",
+        "size": "841324",
+        "md5": "5b071277f8ff00fa495c8ba2c5584c6c",
+        "crc32": "c20624eb",
+        "sha1": "0e1f5dd736714657dd1193852f6b755602c65bfb",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 37,
+    "item_last_updated": 1753544803,
+    "item_size": 1670236837,
+    "metadata": {
+      "isbn": [
+        "9780848733193",
+        "0848733193"
+      ],
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "22",
+      "updatedate": "2015-05-20 13:13:00",
+      "updater": "associate-lotu-tii@archive.org",
+      "boxid": "IA1267506",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "hongkong",
+      "title": "Cooking through the seasons: an everyday guide to enjoying the freshest food",
+      "identifier": "isbn_9780848733193",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2015-05-20 13:13:04.631488",
+      "publicdate": "2015-05-20 13:13:10",
+      "donor": "allen_county",
+      "openlibrary": "OL25130529M",
+      "publisher": "Des Moines, Iowa : Oxmoor House",
+      "date": "2010-01-01",
+      "subject": [
+        "Seasonal cooking",
+        "Low-fat diet"
+      ],
+      "lccn": "2009937173",
+      "description": [
+        "Includes index",
+        "Organized around the four seasons, this cookbook takes readers on a culinary journey throughout the year, beginning with spring's first Strawberry Shortcake to fall's family-favorite holiday casserole",
+        "Why cook seasonally? -- Spring -- Summer -- Autumn -- Winter"
+      ],
+      "identifier-access": "http://archive.org/details/isbn_9780848733193",
+      "identifier-ark": "ark:/13960/t6tx7d46h",
+      "creator": "[by the editors of Cooking light].",
+      "city": "[Birmingham, Ala.]",
+      "oclc-id": [
+        "464590466",
+        "559818493",
+        "781870195"
+      ],
+      "shipping_container": "SZ0025",
+      "backup_location": "ia905305_31",
+      "scanner": "ttscribe2.hongkong.archive.org",
+      "operator": "associate-chuiyuk-cheung@archive.org",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "imagecount": "410",
+      "scandate": "20180706015515",
+      "ppi": "300",
+      "republisher_operator": "republisher20.dhaka@archive.org;republisher7.dhaka@archive.org",
+      "republisher_date": "20180707174704",
+      "republisher_time": "1074",
+      "foldoutcount": "0",
+      "bookplateleaf": "0004",
+      "external-identifier": [
+        "urn:acs6:isbn_9780848733193:epub:f4da43c6-c26a-40b2-a89f-2acac05e83f5",
+        "urn:acs6:isbn_9780848733193:pdf:8a1cabd1-b92e-4ba9-be18-280ca694c034",
+        "urn:oclc:record:1150050074",
+        "urn:lcp:isbn_9780848733193:lcpdf:56017375-40fc-482d-9db4-ef3a833cda8b",
+        "urn:lcp:isbn_9780848733193:epub:b7644959-a1d7-4f25-86d8-91addc84d117"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "openlibrary_edition": "OL26468459M",
+      "openlibrary_work": "OL17890266W",
+      "curation": "[curator]associate-francis-boyer@archive.org[/curator][date]20180709203447[/date]",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-06-13T18:46:30Z",
+      "sponsordate": "20180731",
+      "loans__status__num_history": "12",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "2010-01-01"
+      ]
+    },
+    "server": "ia600202.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "delawarecountydistrictlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780848733193"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-01-11 07:07:57.785969"
+        },
+        "miltonpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780848733193"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-12-04 04:29:35.585829"
+        },
+        "stmaryscountylibrary": {
+          "notes": [
+            {
+              "isbn": "9780848733193"
+            }
+          ],
+          "sys_changed_by": {
+            "source": "task",
+            "task_id": "747764185"
+          },
+          "sys_last_changed": "2017-10-02 22:33:30.874533"
+        },
+        "worthingtonlibraries-ol": {
+          "notes": {
+            "isbn": [
+              "9780848733193"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2018-12-19 03:55:34.364422"
+        }
+      }
+    },
+    "uniq": 868482654,
+    "workable_servers": [
+      "ia600202.us.archive.org",
+      "ia800202.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/464590466?referer=xid"
+          ],
+          "publisher": "Oxmoor House",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2009937173"
+          ],
+          "lang": "eng",
+          "city": "[Birmingham, Ala.]",
+          "author": "[by the editors of Cooking light].",
+          "year": "2010",
+          "isbn": [
+            "0848733193"
+          ],
+          "title": "Cooking light : cooking through the seasons : an everyday guide to enjoying the freshest food",
+          "oclcnum": [
+            "464590466",
+            "559818493",
+            "781870195"
+          ]
+        }
+      ]
+    }
+  }
+}

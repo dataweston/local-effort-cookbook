@@ -1,0 +1,508 @@
+{
+  "source": "internet_archive",
+  "identifier": "breakfastincairo0000unse",
+  "title": "Breakfast in Cairo, dinner in Rome",
+  "creator": null,
+  "year": 1999,
+  "subject": [
+    "International cooking",
+    "Cooking -- Minnesota -- Minneapolis",
+    "Cooking",
+    "Minnesota -- Minneapolis"
+  ],
+  "description": [
+    "viii, 304 pages : 24 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/breakfastincairo0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/breakfastincairo0000unse"
+        }
+      ]
+    },
+    "created": 1758532366,
+    "d1": "ia904500.us.archive.org",
+    "d2": "ia804500.us.archive.org",
+    "dir": "/23/items/breakfastincairo0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659304222",
+        "size": "20697",
+        "md5": "7567112fb12155d864352ba4949741b3",
+        "crc32": "21901b72",
+        "sha1": "5c6e74ed052b29fca68c652c65a5b85581dd95e8",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "breakfastincairo0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "breakfastincairo0000unse_hocr.html",
+        "mtime": "1755162011",
+        "size": "1430120",
+        "private": "true",
+        "md5": "802273f98b8812f68800ef136039a2cb",
+        "crc32": "27df01f2",
+        "sha1": "453cf6b7e36d2c02520851b78efd8c3f60390245"
+      },
+      {
+        "name": "breakfastincairo0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "breakfastincairo0000unse.pdf",
+        "mtime": "1755161989",
+        "size": "17243710",
+        "md5": "7b52f630dba9ae715ae58f1eb08b1b4b",
+        "crc32": "fe9d3b08",
+        "sha1": "cd56d45096987077558e91a4fb934e612bef2402"
+      },
+      {
+        "name": "breakfastincairo0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "breakfastincairo0000unse_page_numbers.json",
+        "mtime": "1717649360",
+        "size": "16731338",
+        "md5": "92ab5225ac6f13c347c79c217ac3f57e",
+        "crc32": "5684f388",
+        "sha1": "06d899d533f60cc808714c335a226c807abf719a",
+        "private": "true"
+      },
+      {
+        "name": "breakfastincairo0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "breakfastincairo0000unse_jp2.zip",
+        "mtime": "1627553020",
+        "size": "6059728",
+        "md5": "a4d15d7d9651957e1e8a684cc7429462",
+        "crc32": "5442ef46",
+        "sha1": "fa29dfb629b0d1edd818d3847e6623e6f495eb9c",
+        "private": "true"
+      },
+      {
+        "name": "breakfastincairo0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "breakfastincairo0000unse_scandata.xml",
+        "mtime": "1669476624",
+        "size": "789",
+        "md5": "17752a1965b8c264dc60801251bc8fad",
+        "crc32": "28ac0d96",
+        "sha1": "4d750d37ba102bb946669c0eb87466c6ddf204a4",
+        "private": "true"
+      },
+      {
+        "name": "breakfastincairo0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1627542082",
+        "size": "952",
+        "md5": "d1174bef4dd5e5569d96d8c852f19cda",
+        "crc32": "95d0eaf0",
+        "sha1": "105974dac439fcd873415ed93e2972a8908b37aa"
+      },
+      {
+        "name": "breakfastincairo0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "breakfastincairo0000unse_djvu.xml",
+        "mtime": "1627553134",
+        "size": "452902",
+        "md5": "2d228f918ebea8b2e18e407961486290",
+        "crc32": "2c4b0767",
+        "sha1": "a2cae9579bea7a81b29ea62fa74d7ff1754b4972",
+        "private": "true"
+      },
+      {
+        "name": "breakfastincairo0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "breakfastincairo0000unse_hocr.html",
+        "mtime": "1627553091",
+        "size": "5947869",
+        "md5": "21a222ba63147c37d5e20669292c9d55",
+        "crc32": "76358110",
+        "sha1": "a5eca5a42f3dd8f7f504106b2750b8bd22bc216b",
+        "private": "true"
+      },
+      {
+        "name": "breakfastincairo0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "breakfastincairo0000unse.pdf",
+        "mtime": "1717650988",
+        "size": "16652600",
+        "md5": "801e0b9545568e08555253ceb7729715",
+        "crc32": "5969e0ba",
+        "sha1": "3b18a40141696f47eacca6b99946f12c1bb9b2ef"
+      },
+      {
+        "name": "breakfastincairo0000unse_events.json",
+        "source": "original",
+        "mtime": "1627541856",
+        "size": "60",
+        "md5": "08fbad2e816f06269c5224cd3ffc9e86",
+        "crc32": "168e87a2",
+        "sha1": "ce50c1d4034d8098f3164d767f4615ab2519392a",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "breakfastincairo0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9da6e246c8ecc08adf7d889450dd895f",
+        "summation": "md5"
+      },
+      {
+        "name": "breakfastincairo0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "breakfastincairo0000unse_chocr.html.gz",
+        "mtime": "1627553066",
+        "size": "11251674",
+        "md5": "c137c09f9a8450e7ffa13be8190725c4",
+        "crc32": "2c2b3c0c",
+        "sha1": "31bea47ff34f4119d03e3126c6130d2eeb453444",
+        "private": "true"
+      },
+      {
+        "name": "breakfastincairo0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "breakfastincairo0000unse_hocr.html",
+        "mtime": "1627553102",
+        "size": "3751",
+        "md5": "0aba9999efb86b95d5b2ccc556e22aa6",
+        "crc32": "1c05267a",
+        "sha1": "27ee34358fb59be211f7c91d5d2f60045b9fb571",
+        "private": "true"
+      },
+      {
+        "name": "breakfastincairo0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "2529",
+        "word_conf_11_20": "1033",
+        "word_conf_21_30": "1026",
+        "word_conf_31_40": "747",
+        "word_conf_41_50": "458",
+        "word_conf_51_60": "407",
+        "word_conf_61_70": "411",
+        "word_conf_71_80": "491",
+        "word_conf_81_90": "1308",
+        "word_conf_91_100": "64032",
+        "format": "OCR Search Text",
+        "original": "breakfastincairo0000unse_hocr.html",
+        "mtime": "1627553122",
+        "size": "150668",
+        "md5": "b18eb25c26adea3ddea70a01cf8c9d18",
+        "crc32": "07ffa54a",
+        "sha1": "fc1e178accea3a42dc0cd2baa9c0efbaca44d3d2",
+        "private": "true"
+      },
+      {
+        "name": "breakfastincairo0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "breakfastincairo0000unse_orig_jp2.tar",
+        "mtime": "1627550532",
+        "size": "131388850",
+        "md5": "6e473e9e7221ae1d1ebc5dca524783df",
+        "crc32": "367f1600",
+        "sha1": "c567818be26723242bb8111b396c458c057c1e27",
+        "private": "true",
+        "filecount": "316"
+      },
+      {
+        "name": "breakfastincairo0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "breakfastincairo0000unse.epub",
+        "mtime": "1755162030",
+        "size": "1447300",
+        "md5": "c06cd9542477d96fb717d154e82f89d6",
+        "crc32": "175840f8",
+        "sha1": "91a40ad2cf898deb19cf0e0a17af6f172048a024"
+      },
+      {
+        "name": "breakfastincairo0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1627390244",
+        "size": "3983",
+        "md5": "33d2f877ed24c0bd87767dc05a01b78e",
+        "crc32": "bbe14018",
+        "sha1": "717bdf15d6f60347e5d50b5f120883ba1999fa43",
+        "format": "MARC"
+      },
+      {
+        "name": "breakfastincairo0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1627390236",
+        "size": "1183",
+        "md5": "b039dc4c4b55167558a9555e15753e29",
+        "crc32": "d2100a4f",
+        "sha1": "95795fcf4a6703e6725ea86f02265aae94979008",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "breakfastincairo0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1627542017",
+        "size": "45056",
+        "md5": "85631fc71cafef71b114cbf7126e8671",
+        "crc32": "9b332ef0",
+        "sha1": "773661981d40289c5d4e96c7b6420956abc2c93d",
+        "format": "Metadata"
+      },
+      {
+        "name": "breakfastincairo0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1755162030",
+        "size": "3329",
+        "md5": "d32eb843b9278a45f992b2672b7a7af6",
+        "crc32": "29df2f10",
+        "sha1": "5679aeb40c06e3e0817ea21febf45b4039faf221",
+        "format": "Metadata"
+      },
+      {
+        "name": "breakfastincairo0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1627542016",
+        "size": "550512640",
+        "md5": "85f1aa5efc238698aa1d4341dbd9b420",
+        "crc32": "6686b78c",
+        "sha1": "cd2ddef60318b34a2b2200b1aaf1f9dd7adcbfc2",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "316"
+      },
+      {
+        "name": "breakfastincairo0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "94",
+        "format": "Page Numbers JSON",
+        "original": "breakfastincairo0000unse_hocr.html",
+        "mtime": "1717649346",
+        "size": "52832",
+        "md5": "92c71399d001ebb6128b29988adc89ee",
+        "crc32": "da9f4e5c",
+        "sha1": "8d6df569ef6f46488a3c52fb5a8e622a294f5715",
+        "private": "true"
+      },
+      {
+        "name": "breakfastincairo0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1669476624",
+        "size": "343175",
+        "md5": "fbbe370e00af4cf10674e18f17db1d12",
+        "crc32": "6c499938",
+        "sha1": "f6fd49bb31dc626dd2bbf80651c5bce53c8cfc80",
+        "format": "Scandata"
+      },
+      {
+        "name": "breakfastincairo0000unse_slip.png",
+        "source": "original",
+        "mtime": "1627385948",
+        "size": "41937",
+        "md5": "eec30b3934af0e8e87de62969c092ca0",
+        "crc32": "7c3b265c",
+        "sha1": "c5adbaafa758fee4d160591e1c2cb90f32af5439",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "breakfastincairo0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "breakfastincairo0000unse_slip.png",
+        "mtime": "1627542087",
+        "size": "8657",
+        "md5": "0517fc305a34acddf85cf93a87c85838",
+        "crc32": "33d5fb22",
+        "sha1": "f8d0349b7733e53548f79ab57ed44f04e1752ba6",
+        "private": "true"
+      },
+      {
+        "name": "breakfastincairo0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "breakfastincairo0000unse_djvu.xml",
+        "mtime": "1669476608",
+        "size": "535",
+        "md5": "54b9677505dd106ffac88bcdefaf03a8",
+        "crc32": "1e46d6f2",
+        "sha1": "4e17faf3cc1686c551beaa649f8602b55d8aa48c",
+        "private": "true"
+      },
+      {
+        "name": "logs/breakfastincairo0000unse_iabdash_2021-07-2720:50:52.log",
+        "source": "original",
+        "mtime": "1627390259",
+        "size": "1354",
+        "md5": "785b37496d3df63c778e7fcf4ca5d153",
+        "crc32": "f1838a5e",
+        "sha1": "49acaef342e532793189eca2057f7bc0068611f0",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/breakfastincairo0000unse_scanning_2021-07-2720:51:09.log",
+        "source": "original",
+        "mtime": "1627390277",
+        "size": "962233",
+        "md5": "1c4ff280af6939f1784b38506ac50175",
+        "crc32": "9da0efb1",
+        "sha1": "eb8cb7e3601e80fe7ba13f96a79fa50d09f2168d",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/breakfastincairo0000unse_status_history_2021-07-2720:51:01.log",
+        "source": "original",
+        "mtime": "1627390269",
+        "size": "408",
+        "md5": "a14d90bda2ad5b2136e617c62084c5ac",
+        "crc32": "1e07c771",
+        "sha1": "956d3a92974e72b6a94f3286b1980c55a12cfb1a",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1755162030,
+    "item_size": 760760330,
+    "metadata": {
+      "identifier": "breakfastincairo0000unse",
+      "associated-names": "International School of Minnesota Foundation",
+      "boxid": "IA40138201",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "1999-01-01",
+      "description": [
+        "viii, 304 pages : 24 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "0967216907",
+        "9780967216904"
+      ],
+      "language": "eng",
+      "lccn": "99068083",
+      "mediatype": "texts",
+      "old_pallet": "IA-NS-2000382",
+      "openlibrary_edition": "OL11746955M",
+      "operator": "associate-jolane-monsanto@archive.org",
+      "publisher": "Eden Prairie, MN : International School of Minnesota Foundation",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station57.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780967216904",
+      "subject": [
+        "International cooking",
+        "Cooking -- Minnesota -- Minneapolis",
+        "Cooking",
+        "Minnesota -- Minneapolis"
+      ],
+      "title": "Breakfast in Cairo, dinner in Rome",
+      "tts_version": "4.5-initial-63-g7e8faad7",
+      "uploader": "station57.cebu@archive.org",
+      "publicdate": "2021-07-27 11:39:29",
+      "access-restricted-item": "true",
+      "imagecount": "316",
+      "scandate": "20210727132806",
+      "notes": "Some texts are skewed\nSome texts cut",
+      "ppi": "360",
+      "republisher_operator": "associate-philfrancis-otadoy@archive.org",
+      "republisher_date": "20210729145732",
+      "republisher_time": "993",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/breakfastincairo0000unse",
+      "identifier-ark": "ark:/13960/t1ph3r43x",
+      "bookplateleaf": "0002",
+      "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.13",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "94",
+      "pdf_module_version": "0.0.15",
+      "external-identifier": [
+        "urn:acs6:breakfastincairo0000unse:pdf:3a7baf05-8509-4fb5-9d18-dbb66c3a1d00",
+        "urn:oclc:record:1280720600",
+        "urn:lcp:breakfastincairo0000unse:lcpdf:2d308f1f-3842-4c06-8729-8542a5a032ed",
+        "urn:lcp:breakfastincairo0000unse:epub:8b4887ba-c840-42a2-a9a8-738b582de76f"
+      ],
+      "addeddate": "2021-07-29 11:03:34",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20210731",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia804500.us.archive.org",
+    "uniq": 1528313574,
+    "workable_servers": [
+      "ia804500.us.archive.org",
+      "ia904500.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Minnesota",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 7,
+    "has_digital_assets": true,
+    "matched_community": [
+      "School"
+    ]
+  },
+  "curation_notes": "State match: Minnesota; Community markers: School; Digitized scan available"
+}

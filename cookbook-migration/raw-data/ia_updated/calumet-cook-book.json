@@ -1,0 +1,289 @@
+{
+  "source": "internet_archive",
+  "identifier": "calumet-cook-book",
+  "title": "Calumet Cook Book \"Reliable Recipes\" 26th Edition",
+  "creator": "Calumet Baking Powder Co.",
+  "year": null,
+  "subject": [
+    "calumet",
+    "cookbook",
+    "1920s",
+    "recipes",
+    "housekeeping"
+  ],
+  "description": "Calumet Cook Book Reliable Recipes 26th Edition \"A concise compend of tested recipes, which make most delicious dishes, together with a compilation of helps and hints of value to every housekeeper.\" Published by Calumet Baking Powder Co., Chicago, Illinois Price $1.00",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn710200.ca.archive.org",
+          "dir": "/0/items/calumet-cook-book"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn710200.ca.archive.org",
+          "dir": "/0/items/calumet-cook-book"
+        }
+      ]
+    },
+    "created": 1758555135,
+    "d1": "ia600905.us.archive.org",
+    "d2": "ia800905.us.archive.org",
+    "dir": "/19/items/calumet-cook-book",
+    "files": [
+      {
+        "name": "CalumetCookBook.pdf",
+        "source": "original",
+        "mtime": "1688349318",
+        "size": "51807138",
+        "md5": "7a5548b585d664eab327c77ec4419f34",
+        "crc32": "b8cc8749",
+        "sha1": "2d1ff6f06ee0eb791abe3cd740c98d26362e9ce8",
+        "format": "Image Container PDF"
+      },
+      {
+        "name": "CalumetCookBook_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-3-g9920",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "CalumetCookBook_jp2.zip",
+        "mtime": "1688351267",
+        "size": "2308386",
+        "md5": "a9912052079371aaecdefda1c05ebddb",
+        "crc32": "d4cb7a88",
+        "sha1": "f60ab0f6465142b1f9b9e290de658b93ae5d0a28"
+      },
+      {
+        "name": "CalumetCookBook_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "CalumetCookBook_djvu.xml",
+        "mtime": "1688353457",
+        "size": "171356",
+        "md5": "cb5114f312f3cb498260e7cf26f5c610",
+        "crc32": "a942ea19",
+        "sha1": "4b3eccffc093a10cb048eeae2097c7eb8fc971d0"
+      },
+      {
+        "name": "CalumetCookBook_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "CalumetCookBook_hocr.html",
+        "mtime": "1688353276",
+        "size": "2343511",
+        "md5": "3d488e50ed3e5a7eb844d029b33026fd",
+        "crc32": "4ad2d19e",
+        "sha1": "7ec95b60f75bea33063cf4170af2f99244afadd5"
+      },
+      {
+        "name": "CalumetCookBook_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "CalumetCookBook_chocr.html.gz",
+        "mtime": "1688352847",
+        "size": "4412669",
+        "md5": "47c728a554f72b659d128c1059ceaec7",
+        "crc32": "83c439ed",
+        "sha1": "a51a6dbcfaf1892ba182cc6cf77f9363e7ba0031"
+      },
+      {
+        "name": "CalumetCookBook_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "CalumetCookBook_hocr.html",
+        "mtime": "1688353337",
+        "size": "564",
+        "md5": "c719ff4cc7a34d1a891ce6c88ce2440e",
+        "crc32": "6f767c00",
+        "sha1": "0095e4328840e0a973d8744cba8fdafc2e2c1846"
+      },
+      {
+        "name": "CalumetCookBook_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "790",
+        "word_conf_11_20": "285",
+        "word_conf_21_30": "303",
+        "word_conf_31_40": "288",
+        "word_conf_41_50": "265",
+        "word_conf_51_60": "251",
+        "word_conf_61_70": "266",
+        "word_conf_71_80": "348",
+        "word_conf_81_90": "767",
+        "word_conf_91_100": "25507",
+        "format": "OCR Search Text",
+        "original": "CalumetCookBook_hocr.html",
+        "mtime": "1688353408",
+        "size": "58216",
+        "md5": "144db7064f14783d1502b13e23c0ef91",
+        "crc32": "a8b03dc5",
+        "sha1": "7fc70bbe808e17790b25dcfaa1da40c334290ff4"
+      },
+      {
+        "name": "CalumetCookBook_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "CalumetCookBook.pdf",
+        "mtime": "1688349749",
+        "size": "38159322",
+        "md5": "f77ca85ff6682943a102ab2eb1d5dc6b",
+        "crc32": "b024965e",
+        "sha1": "c86470a429fd583d029a26a1b61d5f775f196e89",
+        "filecount": "47"
+      },
+      {
+        "name": "CalumetCookBook_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "CalumetCookBook_djvu.xml",
+        "mtime": "1688353506",
+        "size": "7972",
+        "md5": "035e847e06503f8d431f5b39b09f8e5f",
+        "crc32": "03ce3634",
+        "sha1": "15262d45d063a711dc529b2ba5222ebefce0c3a2"
+      },
+      {
+        "name": "CalumetCookBook_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "CalumetCookBook_djvu.xml",
+        "mtime": "1688353496",
+        "size": "15259",
+        "md5": "adf8389de6dbc7df7b818a76803070df",
+        "crc32": "213252d6",
+        "sha1": "57fcdb995ad8880564cd04e7c0fd36fbbe4cdf40"
+      },
+      {
+        "name": "CalumetCookBook_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Additional Text PDF",
+        "original": "CalumetCookBook_page_numbers.json",
+        "mtime": "1688354262",
+        "size": "7712466",
+        "md5": "ac61a3fce576c80f9936dcdf3cc572d3",
+        "crc32": "9d58a5b0",
+        "sha1": "917615d8e619d65324fd9a47ad673d60bafd45aa"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1688354441",
+        "size": "7698",
+        "md5": "76a70a7329eeaeb71877d14af8c43818",
+        "crc32": "dfeb0b1c",
+        "sha1": "e994a36dcd1b35540a2b445d82f042253b7ec866",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "calumet-cook-book_archive.torrent",
+        "source": "metadata",
+        "btih": "921252bf5f0a23e8889be807687aa68dccbc7e91",
+        "mtime": "1688354451",
+        "size": "7785",
+        "md5": "7e6884586d14e79c7f3c9746addaf266",
+        "crc32": "c65ecc94",
+        "sha1": "cc4fba22d4d9b58911f150e156de5274c6bc09e4",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "calumet-cook-book_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "b362b7616332337fe77427ab4802d014",
+        "summation": "md5"
+      },
+      {
+        "name": "calumet-cook-book_meta.sqlite",
+        "source": "original",
+        "mtime": "1688349406",
+        "size": "20480",
+        "md5": "5e7bcb9119ffd640b0c141bd28f2983d",
+        "crc32": "d8a7f136",
+        "sha1": "7c4fc83125d89ad0e4d92032d34bb6ce5288dd56",
+        "format": "Metadata"
+      },
+      {
+        "name": "calumet-cook-book_meta.xml",
+        "source": "original",
+        "mtime": "1688354267",
+        "size": "1932",
+        "md5": "3013967c2abdc86edcd0765b890ad23a",
+        "crc32": "58e871c5",
+        "sha1": "c338bde6ccc35d8e8c2b0ce99542db8a8f5dffdd",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1688354451,
+    "item_size": 107034754,
+    "metadata": {
+      "identifier": "calumet-cook-book",
+      "mediatype": "texts",
+      "collection": "opensource",
+      "creator": "Calumet Baking Powder Co.",
+      "description": "<b>Calumet Cook Book</b><div><b>Reliable Recipes</b><div>26th Edition</div><div><br /></div><div>\"A concise compend of tested recipes, which make most delicious dishes, together with a compilation of helps and hints of value to every housekeeper.\"</div><div><br /></div><div>Published by Calumet Baking Powder Co., Chicago, Illinois</div><div>Price $1.00<br /><div><b><br /></b></div></div></div>",
+      "language": "eng",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "calumet",
+        "cookbook",
+        "1920s",
+        "recipes",
+        "housekeeping"
+      ],
+      "title": "Calumet Cook Book \"Reliable Recipes\" 26th Edition",
+      "uploader": "ostorozhno@protonmail.com",
+      "publicdate": "2023-07-03 01:56:05",
+      "addeddate": "2023-07-03 01:56:05",
+      "curation": "[curator]validator@archive.org[/curator][date]20230703015759[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/calumet-cook-book",
+      "identifier-ark": "ark:/13960/s2kvs5zgj0c",
+      "ppi": "300",
+      "ocr": "tesseract 5.3.0-3-g9920",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "pdf_module_version": "0.0.23"
+    },
+    "server": "ia800905.us.archive.org",
+    "uniq": 876210697,
+    "workable_servers": [
+      "ia800905.us.archive.org",
+      "ia600905.us.archive.org"
+    ]
+  },
+  "institution": "Calumet Baking Powder Co.",
+  "pdf_url": "https://archive.org/download/calumet-cook-book/CalumetCookBook.pdf",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

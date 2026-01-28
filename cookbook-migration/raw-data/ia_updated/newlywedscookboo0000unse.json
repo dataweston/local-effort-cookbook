@@ -1,0 +1,482 @@
+{
+  "source": "internet_archive",
+  "identifier": "newlywedscookboo0000unse",
+  "title": "The newlyweds cookbook : discover cooking together",
+  "creator": "None",
+  "year": 2006,
+  "subject": "Cooking for two",
+  "description": [
+    "124 pages : 21 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/newlywedscookboo0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/newlywedscookboo0000unse"
+        }
+      ]
+    },
+    "created": 1758556378,
+    "d1": "ia601802.us.archive.org",
+    "d2": "ia801802.us.archive.org",
+    "dir": "/10/items/newlywedscookboo0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660742853",
+        "size": "23522",
+        "md5": "5130eab62649da55ac738ff3a3f43a3b",
+        "crc32": "7f8f71e3",
+        "sha1": "5ac98bcecc63f8e89db77a84fa12a758a85059b1",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/newlywedscookboo0000unse_iabdash_2019-01-2114:22:15.log",
+        "source": "original",
+        "mtime": "1548051741",
+        "size": "1368",
+        "md5": "e3174dd9eadb5022591ea17e18025bf7",
+        "crc32": "33b39fe7",
+        "sha1": "b4c96845712e2512e1090da24f55da7c06c367ad",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/newlywedscookboo0000unse_scanning_2019-01-2114:22:07.log",
+        "source": "original",
+        "mtime": "1548051734",
+        "size": "240379",
+        "md5": "de5b15b868ecb8028825e24ced5d9560",
+        "crc32": "78938885",
+        "sha1": "c971e74d05af32aa12dbc495c9cee50df9ae8ce0",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "newlywedscookboo0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "newlywedscookboo0000unse_hocr.html",
+        "mtime": "1757147835",
+        "size": "5323098",
+        "private": "true",
+        "md5": "941f044bcce87d593662844531eb4b69",
+        "crc32": "479039a1",
+        "sha1": "249e254b4ab86649b52cfcaf76480025a25cb206"
+      },
+      {
+        "name": "newlywedscookboo0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "newlywedscookboo0000unse.pdf",
+        "mtime": "1757147694",
+        "size": "5081676",
+        "md5": "c4224d28f927505967188585510b33fe",
+        "crc32": "e0791312",
+        "sha1": "9e5c829f3c07daeaf0653ce04ce0d5b54bc12d03"
+      },
+      {
+        "name": "newlywedscookboo0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "newlywedscookboo0000unse_page_numbers.json",
+        "mtime": "1717543820",
+        "size": "4707423",
+        "md5": "b01a56d94e1a2373e85285602aa7818e",
+        "crc32": "091e50db",
+        "sha1": "43977bbee2a6e86fdb5d1dea753be63987d9d9a6",
+        "private": "true"
+      },
+      {
+        "name": "newlywedscookboo0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "newlywedscookboo0000unse_jp2.zip",
+        "mtime": "1548310101",
+        "size": "1953363",
+        "md5": "9949d8a39b858fdca9e9fdd1fd833ebf",
+        "crc32": "64a54107",
+        "sha1": "6b19077eb19ee1dd063c89866c3095d35ecbbb2b",
+        "private": "true"
+      },
+      {
+        "name": "newlywedscookboo0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "newlywedscookboo0000unse_abbyy.gz",
+        "mtime": "1660742692",
+        "size": "1487641",
+        "md5": "2f57c8f2670f040176f43b9cf91eccbd",
+        "crc32": "8726ef5c",
+        "sha1": "6da72cb5e13379dd91a4ec8efb6e453363fc112c",
+        "private": "true"
+      },
+      {
+        "name": "newlywedscookboo0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "newlywedscookboo0000unse_scandata.xml",
+        "mtime": "1670745714",
+        "size": "789",
+        "md5": "632e61abf790eec1f38b0f0a20bc4530",
+        "crc32": "693be7a6",
+        "sha1": "6e8429b535048ad6b0fec7a7fc2f53d73a28b02e",
+        "private": "true"
+      },
+      {
+        "name": "newlywedscookboo0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660742669",
+        "size": "1032",
+        "md5": "f29278ec58c4ef8b19e2f6375bd6a9bc",
+        "crc32": "cb7d5b19",
+        "sha1": "5c756cd5cb8daf065856c81bb81fe80b00dfc5c3"
+      },
+      {
+        "name": "newlywedscookboo0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "newlywedscookboo0000unse_djvu.xml",
+        "mtime": "1660742847",
+        "size": "129038",
+        "md5": "08d1391782806f7c27f90a7297ae3e6a",
+        "crc32": "08b82d4d",
+        "sha1": "0e033e180a8e2a48064a9940df3c21a4ec806bf3",
+        "private": "true"
+      },
+      {
+        "name": "newlywedscookboo0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "newlywedscookboo0000unse_hocr.html",
+        "mtime": "1660742768",
+        "size": "1703451",
+        "md5": "bb2f917835c17945cabc8bb6d4ac627c",
+        "crc32": "351ecdff",
+        "sha1": "83f8c652f5f9c2cb8b105e66da471366f33e3afc",
+        "private": "true"
+      },
+      {
+        "name": "newlywedscookboo0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "newlywedscookboo0000unse_abbyy.gz",
+        "mtime": "1548310400",
+        "size": "821684",
+        "md5": "2539bbda6b6d8a8c453edb4363ac311c",
+        "crc32": "11735f0c",
+        "sha1": "80d357019b58a231fd9498ee1fc142dabc94c0a7"
+      },
+      {
+        "name": "newlywedscookboo0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "newlywedscookboo0000unse.pdf",
+        "mtime": "1717544579",
+        "size": "4633556",
+        "md5": "e780ed842b130f27dfe3af6b48b4d2f4",
+        "crc32": "f87b3207",
+        "sha1": "cf79a70a6772184aec4280d4366cf240396550b1"
+      },
+      {
+        "name": "newlywedscookboo0000unse_events.json",
+        "source": "original",
+        "mtime": "1548308361",
+        "size": "56",
+        "md5": "3a21b9193282a64dd4ed4f796c365a1c",
+        "crc32": "2b534453",
+        "sha1": "2bff0892de2ab289aa100694bb3426708084a316",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "newlywedscookboo0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "b272445b1f2b1f4a6bfa4aa17f98f3b5",
+        "summation": "md5"
+      },
+      {
+        "name": "newlywedscookboo0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "newlywedscookboo0000unse_chocr.html.gz",
+        "mtime": "1660742754",
+        "size": "3698308",
+        "md5": "9836faaf29192fe91d0448fde71a2bec",
+        "crc32": "4e702d88",
+        "sha1": "6d64b78729ba0b577c08cb80cfc14f02d57931e8",
+        "private": "true"
+      },
+      {
+        "name": "newlywedscookboo0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "newlywedscookboo0000unse_hocr.html",
+        "mtime": "1660742791",
+        "size": "1505",
+        "md5": "c2a3048f7ea583c517e26b974ce29ede",
+        "crc32": "97d47829",
+        "sha1": "37f7c485ab1a144693602b52f23450ae2ee0d6ed",
+        "private": "true"
+      },
+      {
+        "name": "newlywedscookboo0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1218",
+        "word_conf_11_20": "216",
+        "word_conf_21_30": "195",
+        "word_conf_31_40": "219",
+        "word_conf_41_50": "327",
+        "word_conf_51_60": "612",
+        "word_conf_61_70": "1360",
+        "word_conf_71_80": "2160",
+        "word_conf_81_90": "4089",
+        "word_conf_91_100": "9502",
+        "format": "OCR Search Text",
+        "original": "newlywedscookboo0000unse_hocr.html",
+        "mtime": "1660742827",
+        "size": "31525",
+        "md5": "e013b8b8d1f2c364516c940060f7cc0a",
+        "crc32": "ae587378",
+        "sha1": "eba4e3ab86d29f7a05945e78e81427a990d5eaf9",
+        "private": "true"
+      },
+      {
+        "name": "newlywedscookboo0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "newlywedscookboo0000unse_orig_jp2.tar",
+        "mtime": "1548309802",
+        "size": "37826928",
+        "md5": "5db0f0c47303f1734d11090f9e236e4f",
+        "crc32": "41fa887e",
+        "sha1": "b31e8c496e7977641469aad26dcf5d3886ed143f",
+        "private": "true",
+        "filecount": "134"
+      },
+      {
+        "name": "newlywedscookboo0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "newlywedscookboo0000unse.epub",
+        "mtime": "1757148116",
+        "size": "5584578",
+        "md5": "0913fccc176395ccc9841f8a99964ba3",
+        "crc32": "fedbe520",
+        "sha1": "d855d61b1417b50931390710a847c15487097bd3"
+      },
+      {
+        "name": "newlywedscookboo0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593244282",
+        "size": "1766",
+        "format": "JSON",
+        "private": "true",
+        "md5": "4d0190afd6785f78c8c4c6a331c5bbbc",
+        "crc32": "2b413fa8",
+        "sha1": "604b0a149dfe0bcb7bdda53e8d2e42bc3c9caf27"
+      },
+      {
+        "name": "newlywedscookboo0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1660742669",
+        "size": "4412",
+        "format": "MARC",
+        "md5": "70060ea67fc23f756563be785f65740b",
+        "crc32": "2e8c6c6c",
+        "sha1": "b8742c381cfac677caaebc4b8b2ad54257f2d814"
+      },
+      {
+        "name": "newlywedscookboo0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1548051753",
+        "size": "1201",
+        "md5": "a50777a23e0fe75e318991a5368e106a",
+        "crc32": "9e52e10c",
+        "sha1": "2339c0441be9f820874dcfbb1c7bf368bce01422",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "newlywedscookboo0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1548308402",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "c627d05599e970dbb3819cfeda64453d",
+        "crc32": "35fc6501",
+        "sha1": "ccb7e985408f7d5ffdb92a5adfc0ef058c8d8a00"
+      },
+      {
+        "name": "newlywedscookboo0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1757148118",
+        "size": "2908",
+        "format": "Metadata",
+        "md5": "1fc483a53234958ba221f10062a5075a",
+        "crc32": "f083c385",
+        "sha1": "98be427336681dd6e9108db091f24b23e8b1ad83"
+      },
+      {
+        "name": "newlywedscookboo0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1548308400",
+        "size": "300124160",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "cb0533f46c618adcfb8eca3b75cdfc15",
+        "crc32": "178e30e4",
+        "sha1": "96ac86501026209f5284139bf8e141a0ca273319",
+        "filecount": "134"
+      },
+      {
+        "name": "newlywedscookboo0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "97",
+        "format": "Page Numbers JSON",
+        "original": "newlywedscookboo0000unse_hocr.html",
+        "mtime": "1717543820",
+        "size": "22345",
+        "md5": "f49674752a0ab7c043ee0fec907f29ab",
+        "crc32": "be46b875",
+        "sha1": "6110d671c38bc4afc231138fed51504d63f6e085",
+        "private": "true"
+      },
+      {
+        "name": "newlywedscookboo0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670745714",
+        "size": "137307",
+        "format": "Scandata",
+        "md5": "3985c3f986e362b9754a7a51b59528f9",
+        "crc32": "0d12c61a",
+        "sha1": "a2ad571ce64ce2437ca29e9b58ae032c554b1c1c"
+      },
+      {
+        "name": "newlywedscookboo0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "newlywedscookboo0000unse_djvu.xml",
+        "mtime": "1670745647",
+        "size": "551",
+        "md5": "b7b8bc062e0b0d85c91450260749fc53",
+        "crc32": "429c26e2",
+        "sha1": "16d648cda3809021e3dc828cf762cdc1a9afb95f",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1757148118,
+    "item_size": 373561954,
+    "metadata": {
+      "identifier": "newlywedscookboo0000unse",
+      "associated-names": "CQ Products (Firm)",
+      "boxid": "IA1633816",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "None",
+      "creator-alt-script": "None",
+      "date": "2006-01-01",
+      "description": [
+        "124 pages : 21 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "1563832372",
+        "9781563832376"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA14811",
+      "operator": "associate-marioenrico-olaybar@archive.org",
+      "ppi": "300",
+      "publisher": "Waverly, IA : CQ Products",
+      "repub_state": "19",
+      "scanner": "station25.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "subject": "Cooking for two",
+      "title": "The newlyweds cookbook : discover cooking together",
+      "title-alt-script": "None",
+      "tts_version": "1.62-final-2-g3110b6e",
+      "uploader": "station25.cebu@archive.org",
+      "addeddate": "2019-01-21 06:21:55",
+      "publicdate": "2019-01-21 06:22:34",
+      "imagecount": "134",
+      "scandate": "20190121080916",
+      "republisher_operator": "associate-rowella-baroro@archive.org",
+      "republisher_date": "20190124133918",
+      "republisher_time": "235",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/newlywedscookboo0000unse",
+      "identifier-ark": "ark:/13960/t6j17j020",
+      "bookplateleaf": "0006",
+      "external-identifier": [
+        "urn:acs6:newlywedscookboo0000unse:epub:a4ddeda2-27c9-4309-9939-817d5f25afe6",
+        "urn:acs6:newlywedscookboo0000unse:pdf:344cb1df-8b27-4d2a-835d-8b9f2ad40138",
+        "urn:lcp:newlywedscookboo0000unse:lcpdf:d19074a9-7273-4947-9e2e-b1b3f0d6993e",
+        "urn:lcp:newlywedscookboo0000unse:epub:abe7e16a-e1ab-4e17-b24f-6e47a2e8ec75"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_edition": "OL12137048M",
+      "openlibrary_work": "OL8874562W",
+      "sponsordate": "20190131",
+      "access-restricted-item": "true",
+      "backup_location": "ia906806_27",
+      "oclc-id": "173274346",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "97",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801802.us.archive.org",
+    "uniq": 795697861,
+    "workable_servers": [
+      "ia801802.us.archive.org",
+      "ia601802.us.archive.org"
+    ]
+  },
+  "institution": "None",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

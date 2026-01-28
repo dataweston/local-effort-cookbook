@@ -1,0 +1,571 @@
+{
+  "source": "internet_archive",
+  "identifier": "grandmasclassicr00pub_2t8",
+  "title": "Grandma's classic recipes",
+  "creator": "Publications International, Ltd",
+  "year": 2000,
+  "subject": "Cooking, American",
+  "description": null,
+  "metadata": {
+    "created": 1758558462,
+    "d1": "ia601903.us.archive.org",
+    "d2": "ia801903.us.archive.org",
+    "dir": "/17/items/grandmasclassicr00pub_2t8",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660096267",
+        "size": "18618",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "3a48f074d245938d48003f4aa015db1e",
+        "crc32": "1f04b1f4",
+        "sha1": "579560a1241e7ce63c4525d6708affb17504b48d"
+      },
+      {
+        "name": "bak/2017/grandmasclassicr00pub_2t8_meta.sqlite.bak",
+        "source": "original",
+        "mtime": "1496854324",
+        "size": "10240",
+        "md5": "e46ea9021372a7a96eb9ff14ae0149df",
+        "crc32": "29b230e1",
+        "sha1": "da1020064c84506f05c16d35a7000b42013963df",
+        "format": "Backup",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8.cdx.gz",
+        "source": "original",
+        "mtime": "1496911754",
+        "size": "7247",
+        "format": "Item CDX Index",
+        "private": "true",
+        "md5": "1c673000807b93170cffe98eb6065305",
+        "crc32": "9797aad0",
+        "sha1": "a6ab837f508e16d45a17650ef32ccaae9ec534de"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8.cdx.idx",
+        "source": "original",
+        "mtime": "1496911754",
+        "size": "41",
+        "format": "Item CDX Meta-Index",
+        "private": "true",
+        "md5": "de5c6318b39ee5234fc91f7426d9df0d",
+        "crc32": "f655293e",
+        "sha1": "f4ba4cf0e35893909afa4ab9e8fddc2c8bb7baee"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "grandmasclassicr00pub_2t8_hocr.html",
+        "mtime": "1753400491",
+        "size": "98171354",
+        "private": "true",
+        "md5": "1ddbe8f77f31e8b04e6c78bc15e4dc1c",
+        "crc32": "b47cdcbf",
+        "sha1": "65cf40945e3e1eba06164da629a879efe0ad7221"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "grandmasclassicr00pub_2t8.pdf",
+        "mtime": "1753400206",
+        "size": "27038937",
+        "md5": "686e1a279a8a3c5ba55f2538bab60bbc",
+        "crc32": "e165bb79",
+        "sha1": "5dfa35c397ad943ae2b66b1575712730e623420f"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "grandmasclassicr00pub_2t8_page_numbers.json",
+        "mtime": "1723721776",
+        "size": "26566557",
+        "md5": "2e3e9a5c54ee535406de254987058693",
+        "crc32": "46d05edc",
+        "sha1": "c2023fbe8b0517c3bbc8535bf6f17279eda15a82",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1365182947",
+        "size": "512837",
+        "md5": "84242b33c43e8ec47d64d643039e2cc8",
+        "crc32": "5cdb8389",
+        "sha1": "46c422dc372b01e7dc530507594841f537e79143"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "grandmasclassicr00pub_2t8.warc.gz",
+        "mtime": "1496905075",
+        "size": "7409",
+        "md5": "2dd229cbea49501a296b16b7b3d52658",
+        "crc32": "a5137b7b",
+        "sha1": "cc142a19d6685aa9bb8335d9cef3de843bed6aa3",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "grandmasclassicr00pub_2t8_jp2.zip",
+        "mtime": "1496910516",
+        "size": "1460606",
+        "md5": "2b3a94b609c2ed01e4416c0a530fd558",
+        "crc32": "b895f031",
+        "sha1": "0443d8f560cb9be7b289cc0025295db0ac9d1fec",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "grandmasclassicr00pub_2t8_abbyy.gz",
+        "mtime": "1660095076",
+        "size": "1239357",
+        "md5": "8cc0f77850963546ba30c5d41a2d75ee",
+        "crc32": "1c37b5ee",
+        "sha1": "0900735880e52b9eada9cef02e033792630f362a",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "grandmasclassicr00pub_2t8_scandata.xml",
+        "mtime": "1670087542",
+        "size": "791",
+        "md5": "371604e07d3df53ae5086921d9f9253e",
+        "crc32": "e1a3a038",
+        "sha1": "e6f6bb235157a964eaac4c4d3a0b20a6df6b379f",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1509053635",
+        "size": "926",
+        "md5": "8c775354eef98e4944c59d26489def30",
+        "crc32": "d8f4806a",
+        "sha1": "7cb17e27cff6c15dab926c521f589c9b27d4ffb8"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "grandmasclassicr00pub_2t8_djvu.xml",
+        "mtime": "1660096244",
+        "size": "107834",
+        "md5": "eacad50f1c889cdfc64eaef244005878",
+        "crc32": "edbe0596",
+        "sha1": "82c9582342a2ec5fb4b838e588829f6a8a73d9aa",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "grandmasclassicr00pub_2t8_hocr.html",
+        "mtime": "1660096074",
+        "size": "1374955",
+        "md5": "227ca8e5b0d5fa2ee9f74479d3449bdf",
+        "crc32": "ed222890",
+        "sha1": "bc1ec2b7a2416fd0c1b089df0e55bc2e8101d1e8",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "grandmasclassicr00pub_2t8_jpg.pdf",
+        "mtime": "1509054706",
+        "size": "2080729",
+        "md5": "e0484637eddb5936f4a1d60916d9873c",
+        "crc32": "c6d29b98",
+        "sha1": "d9d79089c7a00c44aff3ea7a98445f4cd7761e9e"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "grandmasclassicr00pub_2t8.pdf",
+        "mtime": "1723722141",
+        "size": "26546122",
+        "md5": "3f678d4580f506df51c6f30657e5d6e8",
+        "crc32": "5273c157",
+        "sha1": "228b7c99ee23974fb172f526b477b5fa61e6c00f"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_events.json",
+        "source": "original",
+        "mtime": "1496904988",
+        "size": "53",
+        "md5": "2aeccd26319c469c3fa5f63a0588d883",
+        "crc32": "918eb5b4",
+        "sha1": "297624d992dbbaff3909f2a1ee11daa2ba344a93",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_extramarc.xml",
+        "source": "original",
+        "mtime": "1403055509",
+        "size": "1762",
+        "md5": "e1e800c8a6b2d42e8cad3f90090a1e7b",
+        "crc32": "781f994b",
+        "sha1": "79ce2312e37deb7a3cfad904e8f3cc593c223c1e",
+        "format": "Metadata"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "bbaa3517ea14b87199a324099e8df932",
+        "summation": "md5"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "grandmasclassicr00pub_2t8_chocr.html.gz",
+        "mtime": "1660095992",
+        "size": "2783585",
+        "md5": "e8bd51917008ca672edf958d213f9194",
+        "crc32": "023068e9",
+        "sha1": "0fcec7757846d7891061200c8e0c76afc8f6aa48",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "grandmasclassicr00pub_2t8_hocr.html",
+        "mtime": "1660096122",
+        "size": "1458",
+        "md5": "e6c523218104653b4d2bfbbf3f1953db",
+        "crc32": "49d17f96",
+        "sha1": "2405d02bc60a35ac239b7ee4d4ddac8109024a80",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1389",
+        "word_conf_11_20": "648",
+        "word_conf_21_30": "828",
+        "word_conf_31_40": "910",
+        "word_conf_41_50": "1187",
+        "word_conf_51_60": "1255",
+        "word_conf_61_70": "1490",
+        "word_conf_71_80": "1486",
+        "word_conf_81_90": "1443",
+        "word_conf_91_100": "5834",
+        "format": "OCR Search Text",
+        "original": "grandmasclassicr00pub_2t8_hocr.html",
+        "mtime": "1660096213",
+        "size": "31837",
+        "md5": "d4c5dbb7b2b40b4cee6a8fbe3e476fef",
+        "crc32": "65700a06",
+        "sha1": "dd0060b3db06d897aac2f794fa932e2b8f2e1086",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "grandmasclassicr00pub_2t8_orig_jp2.tar",
+        "mtime": "1496908072",
+        "size": "129198412",
+        "md5": "ca030d4001ea7c1cc920459d4319edfd",
+        "crc32": "996cbe35",
+        "sha1": "b095f7e9556a9b9af48f9c3953720471293b311b",
+        "private": "true",
+        "filecount": "130"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_jpg.pdf",
+        "source": "derivative",
+        "format": "JPEG-Compressed PDF",
+        "original": "grandmasclassicr00pub_2t8_abbyy.gz",
+        "mtime": "1509054631",
+        "size": "43258101",
+        "md5": "d10a1a11a56623eed6340f91aa054027",
+        "crc32": "8681546f",
+        "sha1": "f8f56a27bf8aa36c844cff81f341c18622c817c8",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "grandmasclassicr00pub_2t8.epub",
+        "mtime": "1753400628",
+        "size": "98266723",
+        "md5": "f760bce1ea543cfbeb682a1f35d32919",
+        "crc32": "5cd7b372",
+        "sha1": "4660127d0478a6f048d90119fb61d7ad304ae840"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_loans.json",
+        "source": "original",
+        "mtime": "1593764473",
+        "size": "6542",
+        "format": "JSON",
+        "private": "true",
+        "md5": "ce77f74217c1f2a52c4747d0ca6bfd1a",
+        "crc32": "f9aa3bc6",
+        "sha1": "9c4bae513bdc02622e0b1511d5262c8f870d8bf4"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1509053635",
+        "size": "3018",
+        "md5": "4c52c392be04f14006de8cdc9836ab34",
+        "crc32": "42570453",
+        "sha1": "2c2028da5118e1469ea993707410d9a0fd54c76f"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "grandmasclassicr00pub_2t8_xisbn.json",
+        "mtime": "1496905077",
+        "size": "144",
+        "md5": "be3530dd20ea0419f03b31bc1a35470d",
+        "crc32": "8fee0678",
+        "sha1": "6a63c826b499f20e6e46c6c2d159c72efc0fcc9c",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454935428",
+        "size": "859",
+        "md5": "6e077eec9e9f85d2e56d8a237135f5b6",
+        "crc32": "4e8fa78a",
+        "sha1": "017a7eb12d6a69ebc595085d199f9c382c2c6923"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_meta.sqlite",
+        "source": "original",
+        "mtime": "1496905029",
+        "size": "12288",
+        "format": "Metadata",
+        "md5": "c5ebe89c2fe26eb8953fd7419cc592df",
+        "crc32": "37743ee4",
+        "sha1": "4f41dacf4ae88cab340e38dee0bf17e4936b2f4f"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753400629",
+        "size": "3035",
+        "md5": "2ba99e7d657e7cafdc0722c600c2d2cb",
+        "crc32": "44c1d914",
+        "sha1": "5db8f8974fc43ed8943ba090cef35648f0de4590"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1365182947",
+        "size": "290",
+        "md5": "df1acaba4ead50d6f66ddb8bd62c335c",
+        "crc32": "8f1e2a84",
+        "sha1": "7587d20910312f39ef5f63f594b642c069b3495a"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1496905029",
+        "size": "258590720",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "c8ac897d32e17344d762d220ceee7360",
+        "crc32": "93c3851d",
+        "sha1": "312783004da905b7540760e2d48c4d36cc2e4bc2",
+        "filecount": "130"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "grandmasclassicr00pub_2t8_hocr.html",
+        "mtime": "1723721741",
+        "size": "21503",
+        "md5": "5419defbb2c1223f420cc7b29de88f1c",
+        "crc32": "2fe240c7",
+        "sha1": "c203c00753bad573ba49b1d74a405236de67465e",
+        "private": "true"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_scandata.xml",
+        "source": "original",
+        "mtime": "1670087542",
+        "size": "132832",
+        "format": "Scandata",
+        "md5": "71030e2af3993ac69c6879a33b4d53f6",
+        "crc32": "6414be56",
+        "sha1": "d2d532f61516045712af8697d52d13fc8ff1db8c"
+      },
+      {
+        "name": "grandmasclassicr00pub_2t8_xisbn.json",
+        "source": "original",
+        "mtime": "1454933964",
+        "size": "309",
+        "md5": "2e71992243bbba53cfff3d0bd8750e7c",
+        "crc32": "6017ddbc",
+        "sha1": "138f10eff78da5ac8a9f177724de3c53b7c5da08",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 37,
+    "item_last_updated": 1753400629,
+    "item_size": 717458031,
+    "metadata": {
+      "publisher": "Lincolnwood, IL : Publications International",
+      "title": "Grandma's classic recipes",
+      "isbn": [
+        "0785342192",
+        "9780785342199"
+      ],
+      "language": "eng",
+      "date": "2000-01-01",
+      "openlibrary": "OL8101307M",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "22",
+      "updatedate": "2013-04-05 17:28:58",
+      "updater": "associate-lotu-tii@archive.org",
+      "contributor": "Internet Archive",
+      "scanningcenter": "hongkong",
+      "shiptracking": "f0199",
+      "boxid": "IA1152506",
+      "identifier": "grandmasclassicr00pub_2t8",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2013-04-05 17:29:09",
+      "publicdate": "2013-04-05 17:29:12",
+      "donor": "alibris",
+      "extramarc": "OhioLINK Library Catalog",
+      "creator": "Publications International, Ltd",
+      "lccn": "00101276",
+      "identifier-access": "http://archive.org/details/grandmasclassicr00pub_2t8",
+      "identifier-ark": "ark:/13960/t9b60m73g",
+      "city": "Lincolnwood, IL",
+      "oclc-id": [
+        "797034856",
+        "49237171"
+      ],
+      "backup_location": "ia905609_2",
+      "scanner": "ttScribe9.hongkong.archive.org",
+      "operator": "associate-suiwa-cheung@archive.org",
+      "imagecount": "130",
+      "scandate": "20170607181409",
+      "notes": "the original books is too bright<br />",
+      "subject": "Cooking, American",
+      "ppi": "300",
+      "republisher_operator": "republisher2.shenzhen@archive.org",
+      "republisher_date": "20170608125659",
+      "republisher_time": "1066",
+      "foldoutcount": "0",
+      "scanfee": "15",
+      "invoice": "1213",
+      "sponsordate": "20170630",
+      "external-identifier": [
+        "urn:acs6:grandmasclassicr00pub_2t8:pdf:983d9e47-73c8-41b7-be06-367d2295b55e",
+        "urn:acs6:grandmasclassicr00pub_2t8:epub:e3525bf1-1877-456b-b5cf-a7ec696e7d3c",
+        "urn:oclc:record:1035311537",
+        "urn:lcp:grandmasclassicr00pub_2t8:lcpdf:a05ec271-4133-456e-9518-e8431241955b",
+        "urn:lcp:grandmasclassicr00pub_2t8:epub:2e58aea3-f0ab-44e3-b443-ee04105bcee9"
+      ],
+      "openlibrary_edition": "OL26322401M",
+      "openlibrary_work": "OL17721015W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "filesxml": "Wed Apr 3 3:42:33 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801903.us.archive.org",
+    "uniq": 1719416783,
+    "workable_servers": [
+      "ia801903.us.archive.org",
+      "ia601903.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/49237171?referer=xid"
+          ],
+          "publisher": "Publications International",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "00101276"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "2000",
+          "isbn": [
+            "0785342192"
+          ],
+          "title": "Grandma's classic recipes.",
+          "oclcnum": [
+            "49237171",
+            "797034856"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Publications International, Ltd",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

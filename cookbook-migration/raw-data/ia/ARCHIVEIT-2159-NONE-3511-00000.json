@@ -1,0 +1,134 @@
+{
+  "source": "internet_archive",
+  "identifier": "ARCHIVEIT-2159-NONE-3511-00000",
+  "title": "Archive-It Crawl Data: Partner 478 Collection 2159 Recurrence NONE (around 2014-09-18T21:47:53Z)",
+  "creator": "Archive-It",
+  "year": 2014,
+  "subject": null,
+  "description": "recurrence=NONE, maxDuration=86400, maxDocumentCount=null, isTestCrawl=false, isPatchCrawl=false, oneTimeSubtype=CRAWL_SELECTED_SEEDS, seedCount=1, accountId=478, accountType=SUBSCRIBER, organizationName=\"Wisconsin Historical Society\", collectionId=2159, collectionName=\"Wisconsin State Government \", collectionPublic=true",
+  "metadata": {
+    "created": 1758318539,
+    "d1": "ia903108.us.archive.org",
+    "d2": "ia803108.us.archive.org",
+    "dir": "/24/items/ARCHIVEIT-2159-NONE-3511-00000",
+    "files": [
+      {
+        "name": "ARCHIVEIT-2159-NONE-3511-00000.cdx.gz",
+        "source": "original",
+        "mtime": "1411191730",
+        "size": "60291",
+        "md5": "9b34b180cb66a2c7cb05e236268432d7",
+        "crc32": "4824dc25",
+        "sha1": "d615c757ac584125e7e9ff3f7c7ddfd72fb3d9b3",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "ARCHIVEIT-2159-NONE-3511-00000.cdx.idx",
+        "source": "original",
+        "mtime": "1411191730",
+        "size": "47",
+        "md5": "dcc1bf7575ddbbcafcb8aceae400f2a0",
+        "crc32": "ecbcbfa4",
+        "sha1": "c7b10534dead6a825ce2f2ea688c08ac30c4183b",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "ARCHIVEIT-2159-NONE-3511-00000_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "17866662498012f69778a21c9ec693ac",
+        "summation": "md5"
+      },
+      {
+        "name": "ARCHIVEIT-2159-NONE-3511-00000_meta.sqlite",
+        "source": "original",
+        "mtime": "1411089661",
+        "size": "11264",
+        "md5": "cd821ce2c62666876f7dfce56c027f27",
+        "crc32": "feef5b32",
+        "sha1": "c7114c71fbab29709fc9cdd49f2e3d0cf64bda34",
+        "format": "Metadata"
+      },
+      {
+        "name": "ARCHIVEIT-2159-NONE-3511-00000_meta.xml",
+        "source": "original",
+        "mtime": "1718775405",
+        "size": "1870",
+        "format": "Metadata",
+        "md5": "dc8bec8eb1257bd92801a205fa9dad80",
+        "crc32": "0c605349",
+        "sha1": "2488dbfa0a5411e7a980cc7ff86d1904d290f012"
+      },
+      {
+        "name": "ARCHIVEIT-2159-NONE-3511-20140918214752493-00000-wbgrp-crawl105.us.archive.org-6443.warc.gz",
+        "source": "original",
+        "mtime": "1411089632",
+        "size": "159926502",
+        "md5": "9b0baf791ff2a5da07b76ffa67fa2f4d",
+        "crc32": "8e505e42",
+        "sha1": "c056ec1964e98157527789da388143b0412ad00c",
+        "format": "Web ARChive GZ",
+        "private": "true"
+      },
+      {
+        "name": "ARCHIVEIT-2159-NONE-3511-20140918214752493-00000-wbgrp-crawl105.us.archive.org-6443.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "ARCHIVEIT-2159-NONE-3511-20140918214752493-00000-wbgrp-crawl105.us.archive.org-6443.warc.gz",
+        "mtime": "1411166275",
+        "size": "61585",
+        "md5": "c5df6794a92bccf2674d0fb8decb1612",
+        "crc32": "3af7a780",
+        "sha1": "b1b00ab3846e048a043aaf4819bb166c7f93bb32",
+        "private": "true"
+      }
+    ],
+    "files_count": 7,
+    "item_last_updated": 1718775405,
+    "item_size": 160061559,
+    "metadata": {
+      "identifier": "ARCHIVEIT-2159-NONE-3511-00000",
+      "archiveit-account-id": "478",
+      "archiveit-account-organization-name": "Wisconsin Historical Society",
+      "archiveit-collection-id": "2159",
+      "archiveit-collection-name": "Wisconsin State Government",
+      "archiveit-recurrence": "NONE",
+      "contributor": "Internet Archive",
+      "crawler": "Heritrix/3.3.0-SNAPSHOT-20140909-0106",
+      "creator": "Archive-It",
+      "date": "2014-01-01",
+      "description": "recurrence=NONE, maxDuration=86400, maxDocumentCount=null, isTestCrawl=false, isPatchCrawl=false, oneTimeSubtype=CRAWL_SELECTED_SEEDS, seedCount=1, accountId=478, accountType=SUBSCRIBER, organizationName=\"Wisconsin Historical Society\", collectionId=2159, collectionName=\"Wisconsin State Government \", collectionPublic=true",
+      "mediatype": "web",
+      "scandate": "20140918214753",
+      "scanner": "wbgrp-crawl105.us.archive.org",
+      "sponsor": "Wisconsin Historical Society",
+      "title": "Archive-It Crawl Data: Partner 478 Collection 2159 Recurrence NONE (around 2014-09-18T21:47:53Z)",
+      "collection": [
+        "ArchiveIt-Collection-2159",
+        "ArchiveIt-Partner-478",
+        "archiveitdigitalcollection",
+        "web",
+        "archiveitpartners"
+      ],
+      "publicdate": "2014-09-19 01:20:33",
+      "uploader": "archiveit-uploads@archive.org",
+      "addeddate": "2014-09-19 01:20:33",
+      "imagecount": "1329",
+      "firstfiledate": "20140918214753",
+      "lastfiledate": "20140918221920",
+      "backup_location": "ia905904_11",
+      "access-restricted-item": "true",
+      "normalized_dates": [
+        "2014-01-01"
+      ]
+    },
+    "server": "ia903108.us.archive.org",
+    "uniq": 773910080,
+    "workable_servers": [
+      "ia903108.us.archive.org",
+      "ia803108.us.archive.org"
+    ]
+  }
+}

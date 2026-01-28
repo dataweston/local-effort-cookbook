@@ -1,0 +1,535 @@
+{
+  "source": "internet_archive",
+  "identifier": "monstercookbooks0000schu",
+  "title": "A monster cookbook : simple recipes for kids",
+  "creator": "Schuette, Sarah L., 1976-",
+  "year": 2011,
+  "subject": [
+    "Cooking -- Juvenile literature",
+    "Cooking",
+    "Cookbooks"
+  ],
+  "description": [
+    "24 p. : 27 cm",
+    "\"Provides instructions and close-up photos for making a variety of simple snacks and drinks with a monster theme\"--",
+    "\"RL: 1-2; IL: 1-3\"--P. [4] of cover",
+    "Includes bibliographical references (p. 23) and index",
+    "Tools -- Techniques -- Cyclops eyes -- Swampy s'mores -- King Kong krunch -- Godzilla salad -- Giant squid sandwich -- Nessie's breakfast -- Bigfoot's boogers"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/monstercookbooks0000schu"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/monstercookbooks0000schu"
+        }
+      ]
+    },
+    "created": 1758556586,
+    "d1": "ia902803.us.archive.org",
+    "d2": "ia802803.us.archive.org",
+    "dir": "/20/items/monstercookbooks0000schu",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660693279",
+        "size": "12915",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "b9fae08a93bcb1b28e51d3cc5e08706f",
+        "crc32": "06805beb",
+        "sha1": "107f61fbc631ac5bb734e737d6f519cec8dc414d"
+      },
+      {
+        "name": "logs/monstercookbooks0000schu_iabdash_2019-12-1707:07:13.log",
+        "source": "original",
+        "mtime": "1576537643",
+        "size": "1344",
+        "md5": "b4a9071583941ad96b327a829215adda",
+        "crc32": "86b93104",
+        "sha1": "dfb23f3302bf85e166add6f7d0115e1882c322aa",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/monstercookbooks0000schu_scanning_2019-12-1707:07:28.log",
+        "source": "original",
+        "mtime": "1576537654",
+        "size": "114842",
+        "md5": "49271893b454cf75495ff07ff3c8ee1a",
+        "crc32": "98f0999b",
+        "sha1": "a99deaaefaba746825577bafbceaf714ea13b98c",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "monstercookbooks0000schu_hocr.html",
+        "mtime": "1753655919",
+        "size": "13278595",
+        "private": "true",
+        "md5": "108e521ce02b79ea587734e9a0641700",
+        "crc32": "d5a8104f",
+        "sha1": "9b378ba95bb0e63c973b81d0c59aae49fec75fee"
+      },
+      {
+        "name": "monstercookbooks0000schu.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "monstercookbooks0000schu.pdf",
+        "mtime": "1753655647",
+        "size": "3069882",
+        "md5": "30ff4d3fa1f5269c71e1b3df6dcb6b49",
+        "crc32": "9e45df2c",
+        "sha1": "8d5cf051676fd25a70dfcfd338fd2b4e034d7595"
+      },
+      {
+        "name": "monstercookbooks0000schu.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "monstercookbooks0000schu_page_numbers.json",
+        "mtime": "1716410770",
+        "size": "2815978",
+        "md5": "eb5026822dddd57aa652017a997028d7",
+        "crc32": "995c3fb2",
+        "sha1": "9721fb4642fdc44dccf24a4c31c24536df340327",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "monstercookbooks0000schu_jp2.zip",
+        "mtime": "1576659302",
+        "size": "229101",
+        "md5": "56a6bed1df8ed394ad59133779dcfc98",
+        "crc32": "2f172f07",
+        "sha1": "3e1e89a6cfd9eeae60d1e3229f7b9628ae6ac244",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "monstercookbooks0000schu_abbyy.gz",
+        "mtime": "1660692174",
+        "size": "180251",
+        "md5": "cd739365c3c9ffbf2333e022ebc9300e",
+        "crc32": "9e41edd2",
+        "sha1": "b85e2ec567d938f8e2ea5c090bed15e0867a1e8e",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "monstercookbooks0000schu_scandata.xml",
+        "mtime": "1670695468",
+        "size": "787",
+        "md5": "0ccf7cffac68966b387627dd51f08a0d",
+        "crc32": "1513d886",
+        "sha1": "f8b90c1dec0797ec8c0919349f05b9a374ad9a45",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1576658336",
+        "size": "1617",
+        "md5": "c11a978bf8dee32f1db7d20cba6ab0a8",
+        "crc32": "99d53daf",
+        "sha1": "290aa0be94c47d08db9cdc6e6e389325502b836b"
+      },
+      {
+        "name": "monstercookbooks0000schu_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "monstercookbooks0000schu_djvu.xml",
+        "mtime": "1660693272",
+        "size": "15017",
+        "md5": "7458b8e2c98e7a694a0116e1dbc3035f",
+        "crc32": "fcd14c35",
+        "sha1": "c7b0839c7f8bb9cf14c2193dee8fe38780710313",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "monstercookbooks0000schu_hocr.html",
+        "mtime": "1660692600",
+        "size": "202546",
+        "md5": "3f0a0c73d52ddccde354845bceecc84d",
+        "crc32": "8f84e701",
+        "sha1": "35806e20dcf8526a304e945bdffc4dfedd477193",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "monstercookbooks0000schu_abbyy.gz",
+        "mtime": "1576659321",
+        "size": "2415493",
+        "md5": "555b76268c1a6581f04b5ab640c1b710",
+        "crc32": "9ec2a39d",
+        "sha1": "7d7236b8bf1edbae934ca1c0e1ceb94b800f4126"
+      },
+      {
+        "name": "monstercookbooks0000schu_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "monstercookbooks0000schu.pdf",
+        "mtime": "1716411949",
+        "size": "2795305",
+        "md5": "19d0560bce67c0442cca5efb5548c669",
+        "crc32": "18c46bec",
+        "sha1": "57997abbefcfd8b26403119b4b44f9c5ec0430a7"
+      },
+      {
+        "name": "monstercookbooks0000schu_events.json",
+        "source": "original",
+        "mtime": "1576657017",
+        "size": "56",
+        "md5": "81cf949bce9bca3be7d3078745cae484",
+        "crc32": "21df58c3",
+        "sha1": "2350530295dde2353dd8fb668772c8263a58b089",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9334d6bb84d617c1893b0bb715ad77ea",
+        "summation": "md5"
+      },
+      {
+        "name": "monstercookbooks0000schu_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "monstercookbooks0000schu_chocr.html.gz",
+        "mtime": "1660692521",
+        "size": "442963",
+        "md5": "9f4da18579819e75828779020f793edc",
+        "crc32": "99fa8076",
+        "sha1": "0d1286cf7f6fb2d3e124736f3196530255d67911",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "monstercookbooks0000schu_hocr.html",
+        "mtime": "1660693028",
+        "size": "359",
+        "md5": "2bfae6a229226e700ff45172b4888d17",
+        "crc32": "f07f8c74",
+        "sha1": "a77106df23f7d4556195c618a0cc5feb09e03ab0",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "115",
+        "word_conf_11_20": "24",
+        "word_conf_21_30": "39",
+        "word_conf_31_40": "41",
+        "word_conf_41_50": "45",
+        "word_conf_51_60": "86",
+        "word_conf_61_70": "145",
+        "word_conf_71_80": "337",
+        "word_conf_81_90": "542",
+        "word_conf_91_100": "738",
+        "format": "OCR Search Text",
+        "original": "monstercookbooks0000schu_hocr.html",
+        "mtime": "1660693229",
+        "size": "5643",
+        "md5": "b0536d125123a92a418f6ce5d7addad6",
+        "crc32": "65d1e7c2",
+        "sha1": "c3472d69396b7989e1240de6701b0480cbc6a122",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "monstercookbooks0000schu_orig_jp2.tar",
+        "mtime": "1576659029",
+        "size": "33879111",
+        "md5": "112851a342dbe76e9f8178eb33529c74",
+        "crc32": "f157d7ea",
+        "sha1": "c30ed0ae15e80a979df7a330028d9181e4d0dbb0",
+        "private": "true",
+        "filecount": "34"
+      },
+      {
+        "name": "monstercookbooks0000schu_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "monstercookbooks0000schu.epub",
+        "mtime": "1753656281",
+        "size": "13890917",
+        "md5": "35a082d667cb648c74992e79e434887e",
+        "crc32": "99f0a60c",
+        "sha1": "6f9789e7680a1591783778a9d4b491b6fc1780ce"
+      },
+      {
+        "name": "monstercookbooks0000schu_loans.json",
+        "source": "original",
+        "mtime": "1593408979",
+        "size": "1352",
+        "format": "JSON",
+        "private": "true",
+        "md5": "d1f651435f206f1ad4a96be8b61f0fee",
+        "crc32": "7d1b8fdf",
+        "sha1": "5b9d122ac273789c387c63fd37ff90d6f35ee89b"
+      },
+      {
+        "name": "monstercookbooks0000schu_marc.xml",
+        "source": "original",
+        "mtime": "1576658336",
+        "size": "3950",
+        "format": "MARC",
+        "md5": "2a3c842bd4f5565332cd558ba104b71a",
+        "crc32": "b7dc8b80",
+        "sha1": "76ca3814294b951bd6c65429918f607309e8dfa2"
+      },
+      {
+        "name": "monstercookbooks0000schu_meta.mrc",
+        "source": "original",
+        "mtime": "1576537632",
+        "size": "1377",
+        "md5": "51ebeadafa869097415501641d7e6a2c",
+        "crc32": "74f03f3d",
+        "sha1": "fa40b75b000d40f5b09cb9e107b751f04aca0127",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "monstercookbooks0000schu_meta.sqlite",
+        "source": "original",
+        "mtime": "1576933348",
+        "size": "21504",
+        "format": "Metadata",
+        "md5": "115dec94774cfaea47a6a501927958e0",
+        "crc32": "b5be8576",
+        "sha1": "a0eb90c919b4a0530bd061e07932f6f614d04eea"
+      },
+      {
+        "name": "monstercookbooks0000schu_meta.xml",
+        "source": "original",
+        "mtime": "1753656281",
+        "size": "3416",
+        "format": "Metadata",
+        "md5": "343bb0c171fd4b7ed642bfff4419edcf",
+        "crc32": "fedd4e0b",
+        "sha1": "2b44b61dabfc901b81ba43853e30bbed038da02c"
+      },
+      {
+        "name": "monstercookbooks0000schu_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1576658294",
+        "size": "58757120",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "3b7f65971786ec4c33780fb79f9d142d",
+        "crc32": "47edc8f0",
+        "sha1": "d73f1190dc20c1d3d42f2bd813164329e6843ad5",
+        "filecount": "34"
+      },
+      {
+        "name": "monstercookbooks0000schu_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "36",
+        "format": "Page Numbers JSON",
+        "original": "monstercookbooks0000schu_hocr.html",
+        "mtime": "1716410770",
+        "size": "5571",
+        "md5": "43170eface05e0f00ae4a50e62bb8441",
+        "crc32": "0c29baa1",
+        "sha1": "b87fbe380c150f3a7b5d2a464d01e7955b61c78b",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu_scandata.xml",
+        "source": "original",
+        "mtime": "1670695468",
+        "size": "34942",
+        "format": "Scandata",
+        "md5": "ec3765b63b50e61aa7a6fe0034c82fe6",
+        "crc32": "25047aef",
+        "sha1": "c7d8327d52b7a55f10c6d9ebf1b59bdbf2588c12"
+      },
+      {
+        "name": "monstercookbooks0000schu_slip.png",
+        "source": "original",
+        "mtime": "1576502494",
+        "size": "41164",
+        "md5": "9f3fe8ada4bf066486b6940a7c45ae42",
+        "crc32": "9eaabc43",
+        "sha1": "c03fbac4fa77f3684bcbdcb952d951e07355d49d",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "monstercookbooks0000schu_slip.png",
+        "mtime": "1576658339",
+        "size": "5889",
+        "md5": "2d8b140884ce5061255e5f0d1da57b0a",
+        "crc32": "036b2a0a",
+        "sha1": "8a65628e960e5d7dc053ec8cfe18b2fabdb7378f",
+        "private": "true"
+      },
+      {
+        "name": "monstercookbooks0000schu_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "monstercookbooks0000schu_djvu.xml",
+        "mtime": "1670695430",
+        "size": "635",
+        "md5": "d0188e5a0bd2442a0c0ddbff2ade242c",
+        "crc32": "b965f67a",
+        "sha1": "bc3bb66e6d2fa4fa4bc458e37e1ffd5cb7a1e753",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753656281,
+    "item_size": 132229642,
+    "metadata": {
+      "identifier": "monstercookbooks0000schu",
+      "boxid": "IA1744915",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Schuette, Sarah L., 1976-",
+      "date": "2011-01-01",
+      "description": [
+        "24 p. : 27 cm",
+        "\"Provides instructions and close-up photos for making a variety of simple snacks and drinks with a monster theme\"--",
+        "\"RL: 1-2; IL: 1-3\"--P. [4] of cover",
+        "Includes bibliographical references (p. 23) and index",
+        "Tools -- Techniques -- Cyclops eyes -- Swampy s'mores -- King Kong krunch -- Godzilla salad -- Giant squid sandwich -- Nessie's breakfast -- Bigfoot's boogers"
+      ],
+      "isbn": [
+        "9781429653770",
+        "1429653779"
+      ],
+      "language": "eng",
+      "lccn": "2010028140",
+      "mediatype": "texts",
+      "old_pallet": "IA17026",
+      "openlibrary_edition": "OL24422546M",
+      "openlibrary_work": "OL15455476W",
+      "operator": "associate-jimbo-lucernas@archive.org",
+      "ppi": "300",
+      "publisher": "Mankato, Minn. : Capstone Press",
+      "repub_state": "19",
+      "scanner": "station20.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781429653770",
+      "subject": [
+        "Cooking -- Juvenile literature",
+        "Cooking",
+        "Cookbooks"
+      ],
+      "title": "A monster cookbook : simple recipes for kids",
+      "tts_version": "3.2-rc-2-g0d7c1ed",
+      "uploader": "station20.cebu@archive.org",
+      "addeddate": "2019-12-16 13:21:34",
+      "publicdate": "2019-12-16 13:21:47",
+      "access-restricted-item": "true",
+      "imagecount": "34",
+      "scandate": "20191216232735",
+      "republisher_operator": "associate-radel-luchavez@gmail.com",
+      "republisher_date": "20191218161651",
+      "republisher_time": "174",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/monstercookbooks0000schu",
+      "identifier-ark": "ark:/13960/t0qs2zn8z",
+      "external-identifier": [
+        "urn:acs6:monstercookbooks0000schu:epub:be3acf21-2158-4383-8f25-3b9b264e88d4",
+        "urn:acs6:monstercookbooks0000schu:pdf:2dced2b3-a5dd-4a33-bfdc-80b98f147503",
+        "urn:oclc:record:1150824964",
+        "urn:lcp:monstercookbooks0000schu:lcpdf:73e1eb71-753c-4196-90f8-357d0b47e91a",
+        "urn:lcp:monstercookbooks0000schu:epub:ffd77f17-d789-46b2-b70c-a92493ab017f"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191231",
+      "page_number_confidence": "36",
+      "backup_location": "ia907009_11",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia802803.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "worthingtonlibraries-ol": {
+          "notes": {
+            "isbn": [
+              "9781429653770"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-10-08 05:13:17.110039"
+        }
+      }
+    },
+    "uniq": 1300577260,
+    "workable_servers": [
+      "ia802803.us.archive.org",
+      "ia902803.us.archive.org"
+    ]
+  },
+  "institution": "Schuette, Sarah L., 1976-",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Mankato"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,105 @@
+{
+  "source": "dpla",
+  "id": "07194e4f64a1d55ac56f33299da6265c",
+  "identifier": "07194e4f64a1d55ac56f33299da6265c",
+  "title": "The Cook book of left-overs",
+  "subject": [
+    "Cooking, American",
+    "Cooking (Leftovers)",
+    "Community cookbooks--Illinois--Rochelle"
+  ],
+  "spatial": [
+    "Illinois",
+    "Rochelle"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/009053465",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1920,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/07194e4f64a1d55ac56f33299da6265c#SourceResource",
+      "contributor": [
+        "More Nurses in Training Movement"
+      ],
+      "date": [
+        {
+          "displayDate": "c1920"
+        }
+      ],
+      "extent": [
+        "183 p. ; 20 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "LC call number: TX652 .C727 1920",
+        "sdr-hvd007719513",
+        "(OCoLC)18522231",
+        "Hathi: 009053465"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "[Rochelle, Ill.] : The Movement"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        },
+        {
+          "name": "Rochelle"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Cooking (Leftovers)"
+        },
+        {
+          "name": "Community cookbooks--Illinois--Rochelle"
+        }
+      ],
+      "title": [
+        "The Cook book of left-overs"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1920-01-01",
+      "normalized_dates": [
+        "1920-01-01"
+      ]
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=TQ4UAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/009053465"
+  },
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

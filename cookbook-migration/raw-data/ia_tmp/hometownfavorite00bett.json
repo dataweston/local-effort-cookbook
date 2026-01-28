@@ -1,0 +1,569 @@
+{
+  "source": "internet_archive",
+  "identifier": "hometownfavorite00bett",
+  "title": "Hometown favorites : more than 120 delicious, down-home recipes",
+  "creator": "Thomas, Kristi M",
+  "year": 2009,
+  "subject": [
+    "Casserole cooking",
+    "Cooking, American"
+  ],
+  "description": [
+    "At head of title: Better homes and gardens",
+    "\"Volume 1\"--Spine",
+    "Includes index",
+    "Previously published as: Hometown potluck favorites"
+  ],
+  "metadata": {
+    "created": 1758554849,
+    "d1": "ia600607.us.archive.org",
+    "d2": "ia800607.us.archive.org",
+    "dir": "/0/items/hometownfavorite00bett",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660169104",
+        "size": "17949",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "f5f4e2d3e07960ab4a837554c22bd1e1",
+        "crc32": "04650837",
+        "sha1": "5b34a34a2d04127a3e8f35bbdc5d73e2a16e4462"
+      },
+      {
+        "name": "hometownfavorite00bett.cdx.gz",
+        "source": "original",
+        "mtime": "1384840569",
+        "size": "5900",
+        "md5": "a370ec767156f8d5d4b7e5dca671c9fb",
+        "crc32": "58efc535",
+        "sha1": "df09c0f2876bebc2dc9cb19b836a33588dbd313d",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett.cdx.idx",
+        "source": "original",
+        "mtime": "1384840569",
+        "size": "38",
+        "md5": "453ec90dd8ece423fe2191173ccb0f27",
+        "crc32": "ff0fe6e1",
+        "sha1": "ef14eaf1e79a4223e229be4256ca051318b30121",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "hometownfavorite00bett_hocr.html",
+        "mtime": "1756157538",
+        "size": "102090618",
+        "private": "true",
+        "md5": "949ed520b676f7da03b5723967d2d44b",
+        "crc32": "95fa7e2a",
+        "sha1": "8e832ad610968bd609e235b1fc4ad59275997c98"
+      },
+      {
+        "name": "hometownfavorite00bett.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "hometownfavorite00bett_jp2.zip",
+        "mtime": "1384834570",
+        "size": "242335",
+        "md5": "d8898e94e10e9a86f0557adf1989772a",
+        "crc32": "7289ca26",
+        "sha1": "f9719054e88a8c73f3f3cba66ad0e3e731dafc3c"
+      },
+      {
+        "name": "hometownfavorite00bett.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "hometownfavorite00bett.pdf",
+        "mtime": "1756157198",
+        "size": "20003132",
+        "md5": "c36b51005543bc86e3cb6fc997b660f8",
+        "crc32": "ec17d6ca",
+        "sha1": "348a20b8e8d1d3cd7077290b4ca61d489d2cb20f"
+      },
+      {
+        "name": "hometownfavorite00bett.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "hometownfavorite00bett_page_numbers.json",
+        "mtime": "1724659396",
+        "size": "19604944",
+        "md5": "8f26aed6ccddeab3010fe48c10c38a89",
+        "crc32": "d2da1952",
+        "sha1": "9319c2e82dc25cb410d10ceba3b30f76e1bb6e7d",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1346902253",
+        "size": "502562",
+        "md5": "e390891170bb002dc392cdc3f49f446b",
+        "crc32": "aaa15f55",
+        "sha1": "85ff6c4e457c7ace078ed079534919ddf3304f71"
+      },
+      {
+        "name": "hometownfavorite00bett.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "hometownfavorite00bett.warc.gz",
+        "mtime": "1384831181",
+        "size": "6033",
+        "md5": "06da8a7446e7e1fa00cc21031c968842",
+        "crc32": "d75ffa13",
+        "sha1": "5562b53daa24490beec057a7ec2d51d205a54fc1",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "hometownfavorite00bett_jp2.zip",
+        "mtime": "1384837176",
+        "size": "3596212",
+        "md5": "165d31b6dc5e28c727e6ab1e6b72aecb",
+        "crc32": "5d6e3a9e",
+        "sha1": "bacfa3b01575fc1d0a1c257e9e921c3a1480450b",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "hometownfavorite00bett_abbyy.gz",
+        "mtime": "1660168355",
+        "size": "3202444",
+        "md5": "a28a1e4fac13d50536ab1cde2c870c17",
+        "crc32": "df85aff3",
+        "sha1": "83ea90118981cb96ff1de7430eae2ee45bd8d912",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "hometownfavorite00bett_scandata.xml",
+        "mtime": "1667180965",
+        "size": "779",
+        "md5": "47a2608ad5e8062c411989cb1f46e087",
+        "crc32": "a1d71867",
+        "sha1": "4f5199a7da20bbecd913a0390a466cfe1e4f0250",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1505765161",
+        "size": "1315",
+        "md5": "23c3a81ac1847f913d3e6f930fa8c7a9",
+        "crc32": "c0f2c550",
+        "sha1": "51cc0b03c909482f6403b5945275b3e84155756c"
+      },
+      {
+        "name": "hometownfavorite00bett_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "hometownfavorite00bett_djvu.xml",
+        "mtime": "1667180990",
+        "size": "289742",
+        "md5": "b7406faa36a1f946586513d1a6b4a6c4",
+        "crc32": "b00e5f73",
+        "sha1": "29172a33c16240eff552dfe39b2963fe5082637f",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "hometownfavorite00bett_hocr.html",
+        "mtime": "1667180838",
+        "size": "3696425",
+        "md5": "4aef3b32a1342805e98bc0727ff7ff8e",
+        "crc32": "b2115fc7",
+        "sha1": "5f862a4c5ccc8ddd502cdde6e3487f761118ba06",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "hometownfavorite00bett.pdf",
+        "mtime": "1724659679",
+        "size": "19555726",
+        "md5": "d4598495ddb79c0a2749722bfff54469",
+        "crc32": "8b0e7370",
+        "sha1": "04bb200c29903c9c569fec31113749ea1ea21948"
+      },
+      {
+        "name": "hometownfavorite00bett_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "5dec1f85ad033eaee57339b56530db7c",
+        "summation": "md5"
+      },
+      {
+        "name": "hometownfavorite00bett_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "hometownfavorite00bett_chocr.html.gz",
+        "mtime": "1660168626",
+        "size": "7522291",
+        "md5": "ff601cc0721cef05dfc1bd0799ba5482",
+        "crc32": "3de21bcc",
+        "sha1": "34a26d083ccc80369321da105ecc6ee61f989694",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "hometownfavorite00bett_hocr.html",
+        "mtime": "1660168875",
+        "size": "2134",
+        "md5": "04dbb10052189e5a5196fb4e86f1aa5a",
+        "crc32": "bd99641e",
+        "sha1": "047f43cb929dc64028e65249ccd7f814f985e79a",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2674",
+        "word_conf_11_20": "1535",
+        "word_conf_21_30": "2070",
+        "word_conf_31_40": "2355",
+        "word_conf_41_50": "2931",
+        "word_conf_51_60": "3260",
+        "word_conf_61_70": "3750",
+        "word_conf_71_80": "4156",
+        "word_conf_81_90": "4054",
+        "word_conf_91_100": "14811",
+        "format": "OCR Search Text",
+        "original": "hometownfavorite00bett_hocr.html",
+        "mtime": "1660169066",
+        "size": "67676",
+        "md5": "e8d3490e5f9bc56126321d2ff4d8cccc",
+        "crc32": "12af1d00",
+        "sha1": "f674a29f51d0d5d5a7fe18b51fd9456f4818aa1f",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "hometownfavorite00bett_orig_jp2.tar",
+        "mtime": "1384834511",
+        "size": "136648476",
+        "md5": "e88ec5be8f52f42d0d8a0e8015ca31e1",
+        "crc32": "fdda532c",
+        "sha1": "2e6cd1b9740b0aa463e3a7419d34b01675856cf7",
+        "private": "true",
+        "filecount": "202"
+      },
+      {
+        "name": "hometownfavorite00bett_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "hometownfavorite00bett.epub",
+        "mtime": "1756157976",
+        "size": "102686296",
+        "md5": "59eb5cced856166a0f6f69cc8714dbf7",
+        "crc32": "0cfbd8fc",
+        "sha1": "dd270ed61a614fd3a7a1cc0c3f6881dbe3246057"
+      },
+      {
+        "name": "hometownfavorite00bett_loans.json",
+        "source": "original",
+        "mtime": "1593821954",
+        "size": "5978",
+        "format": "JSON",
+        "private": "true",
+        "md5": "939bce4284f25453fc11ccce7a448b29",
+        "crc32": "c95a7021",
+        "sha1": "5fb3650721e0ddd47c70dc4564a848705f7f306d"
+      },
+      {
+        "name": "hometownfavorite00bett_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1505765161",
+        "size": "4059",
+        "md5": "a75f7be0c9fdab7934ed76478653f477",
+        "crc32": "13f2d28b",
+        "sha1": "639dfe3dd33433e3165036927616f0d2d911c2a5"
+      },
+      {
+        "name": "hometownfavorite00bett_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "hometownfavorite00bett_xisbn.json",
+        "mtime": "1454531793",
+        "size": "246",
+        "md5": "a3ac774208188d3e8466e7b130026849",
+        "crc32": "1e9ccd58",
+        "sha1": "e45e6110d7ec9158f9336dee3b710342fd5e7455",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454531791",
+        "size": "1271",
+        "md5": "86dbe6b54066e097a94c5974a1a2c216",
+        "crc32": "3d4160fa",
+        "sha1": "ef778cd2dca5c25f12f324cf6f4ae04eb5dcb8c5"
+      },
+      {
+        "name": "hometownfavorite00bett_meta.sqlite",
+        "source": "original",
+        "mtime": "1466239075",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "3b35543c6b79ca8fc1f981915e2f915c",
+        "crc32": "a937e803",
+        "sha1": "a92d8ef31a1f63ae677144233eefd26e3428b7a0"
+      },
+      {
+        "name": "hometownfavorite00bett_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1756157977",
+        "size": "3347",
+        "md5": "8df8515eaaab763ca682f94cde2c0ced",
+        "crc32": "d227a0bd",
+        "sha1": "bc03edc3870b138f27d5712943e3e98f222e261a"
+      },
+      {
+        "name": "hometownfavorite00bett_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1346902253",
+        "size": "297",
+        "md5": "8d3a11c7e4de54b9f0b97b67d1b52695",
+        "crc32": "06274c46",
+        "sha1": "1334606273141322327b21a17a72c97d8f7bbbcb"
+      },
+      {
+        "name": "hometownfavorite00bett_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1384825892",
+        "size": "187432960",
+        "md5": "a30d3b01bae011be00ce726873e89e0b",
+        "crc32": "8205ffee",
+        "sha1": "a6eebd717fce0669adfc449f6ae1979b20b375cc",
+        "private": "true",
+        "filecount": "202"
+      },
+      {
+        "name": "hometownfavorite00bett_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "80",
+        "format": "Page Numbers JSON",
+        "original": "hometownfavorite00bett_hocr.html",
+        "mtime": "1724659396",
+        "size": "33554",
+        "md5": "f723ebb640762c33b977861d0fae87b8",
+        "crc32": "6105d0d6",
+        "sha1": "8ece4554526d6550040d3109d98e764143c2d4af",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1667180965",
+        "size": "263253",
+        "md5": "3a8cf10a51e1cb45d60bbf2bae5152b1",
+        "crc32": "61c7fe4d",
+        "sha1": "db391a588a5dcbb65488bfc8516e53350a7deedb"
+      },
+      {
+        "name": "hometownfavorite00bett_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "hometownfavorite00bett_djvu.xml",
+        "mtime": "1667180993",
+        "size": "5588",
+        "md5": "cd3ab6e1f85c94ba7ebb2471b645bb92",
+        "crc32": "5649881c",
+        "sha1": "aceec3b87003e46d6f801676f8fb66dbe11ace8d",
+        "private": "true"
+      },
+      {
+        "name": "hometownfavorite00bett_xisbn.json",
+        "source": "original",
+        "mtime": "1454531331",
+        "size": "344",
+        "md5": "beb3122c7ecd69c72fce85e3de245dab",
+        "crc32": "056ac0d8",
+        "sha1": "977d2973f2c08877e72c75c8549241659e906cc4",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 34,
+    "item_last_updated": 1756157977,
+    "item_size": 607500068,
+    "metadata": {
+      "isbn": [
+        "9780696242267",
+        "0696242265"
+      ],
+      "title": "Hometown favorites : more than 120 delicious, down-home recipes",
+      "creator": "Thomas, Kristi M",
+      "publisher": "Des Moines, Iowa : Meredith Books",
+      "date": "2009-01-01",
+      "external-identifier": [
+        "urn:asin:0696242265",
+        "urn:acs6:hometownfavorite00bett:pdf:d5cfc80c-7f15-4a8c-bd57-2b42e086b485",
+        "urn:acs6:hometownfavorite00bett:epub:e779d0d5-f17d-4b4b-b542-4d805719cafb",
+        "urn:oclc:record:1035593404",
+        "urn:lcp:hometownfavorite00bett:lcpdf:df3f815d-679b-4d6c-ac64-ac3d3c81bc66",
+        "urn:lcp:hometownfavorite00bett:epub:2e647f44-2168-4ac3-b9dd-9c655781603c"
+      ],
+      "updatedate": "2012-09-06 03:30:50",
+      "updater": "bapi_blogistics_1@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA1108514",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "shenzhen",
+      "sponsor": "Internet Archive",
+      "identifier": "hometownfavorite00bett",
+      "uploader": "bapi_blogistics_1@archive.org",
+      "addeddate": "2012-09-06 03:30:55",
+      "publicdate": "2012-09-06 03:30:58",
+      "donor": "blogistics",
+      "repub_state": "4",
+      "repub_seconds": "306",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "associate-xuwenfei@archive.org",
+      "scanner": "scribe7.shenzhen.archive.org",
+      "scandate": "20131113035106",
+      "republisher": "associate-xiemingshan@archive.org",
+      "imagecount": "198",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/hometownfavorite00bett",
+      "identifier-ark": "ark:/13960/t9r239667",
+      "sponsordate": "20150430",
+      "scanfee": "100",
+      "invoice": "11",
+      "subject": [
+        "Casserole cooking",
+        "Cooking, American",
+        "Casserole cooking",
+        "Cooking, American"
+      ],
+      "description": [
+        "At head of title: Better homes and gardens",
+        "\"Volume 1\"--Spine",
+        "Includes index",
+        "Previously published as: Hometown potluck favorites"
+      ],
+      "city": "Des Moines, Iowa",
+      "oclc-id": "431401914",
+      "backup_location": "ia903907_5",
+      "republisher_operator": "associate-xiemingshan@archive.org",
+      "republisher_date": "20131119014631",
+      "openlibrary_edition": "OL26328661M",
+      "openlibrary_work": "OL17727583W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "80",
+      "pdf_module_version": "0.0.20",
+      "filesxml": "Wed Apr 3 4:36:39 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800607.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA-MC-0000022",
+              "IA-MC-1200002"
+            ],
+            "num_copies": 2
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-02-05 06:02:31.502156"
+        }
+      }
+    },
+    "uniq": 216435759,
+    "workable_servers": [
+      "ia800607.us.archive.org",
+      "ia600607.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/431401914?referer=xid"
+          ],
+          "publisher": "Meredith Books",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Kristi M. Fuller].",
+          "year": "2009",
+          "isbn": [
+            "0696242265"
+          ],
+          "title": "Hometown favorites : more than 120 delicious, down-home recipes",
+          "oclcnum": [
+            "431401914"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Thomas, Kristi M",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

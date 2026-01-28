@@ -1,0 +1,578 @@
+{
+  "source": "internet_archive",
+  "identifier": "tasteofhomecasse0000unse_e1l8",
+  "title": "Taste of home. Casseroles, slow cooker & soups : [536 family pleasing recipes]",
+  "creator": null,
+  "year": 2008,
+  "subject": [
+    "Casserole cooking",
+    "Electric cooking, Slow",
+    "Soups",
+    "Mets en casserole",
+    "Cuisson lente à l'électricité",
+    "Soupes"
+  ],
+  "description": [
+    "384 pages : 24 cm",
+    "Subtitle from cover",
+    "\"Three books in one\"--Cover",
+    "Includes index",
+    "Originally published separately as \"Savory casseroles\", \"Slow cooker classics\", and \"Simmering soups.\""
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/tasteofhomecasse0000unse_e1l8"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/tasteofhomecasse0000unse_e1l8"
+        }
+      ]
+    },
+    "created": 1758556805,
+    "d1": "ia601507.us.archive.org",
+    "d2": "ia801507.us.archive.org",
+    "dir": "/32/items/tasteofhomecasse0000unse_e1l8",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1655811557",
+        "size": "22154",
+        "md5": "dae89e5fc78d8d9eee860523dfbb08e3",
+        "crc32": "fee2e4b5",
+        "sha1": "6f02d7272aae8d658f26b48a2ba49460e211dda8",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/tasteofhomecasse0000unse_e1l8_iabdash_2022-06-1904:25:08.log",
+        "source": "original",
+        "mtime": "1655583911",
+        "size": "1383",
+        "md5": "a6db04c110aa66f2377287bb2d47baf8",
+        "crc32": "cb2a891f",
+        "sha1": "737471d6d9acaaedef3105e5fb9e5fb00bc9dd50",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/tasteofhomecasse0000unse_e1l8_scanning_2022-06-1904:25:16.log",
+        "source": "original",
+        "mtime": "1655583919",
+        "size": "1379305",
+        "md5": "9f5a87b4f81bbd89d977c67ceb069453",
+        "crc32": "1afcf922",
+        "sha1": "b48e98b3d9d5f3523e7d3328cd5af75ac490b7e7",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/tasteofhomecasse0000unse_e1l8_status_history_2022-06-1904:25:12.log",
+        "source": "original",
+        "mtime": "1655583915",
+        "size": "551",
+        "md5": "9a88f009a6cab182672ccf635c0a3e56",
+        "crc32": "699c73d7",
+        "sha1": "fc465f85a5e4e872213b0dd9054720fb130a45fb",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "tasteofhomecasse0000unse_e1l8_hocr.html",
+        "mtime": "1754102214",
+        "size": "131692036",
+        "private": "true",
+        "md5": "91591610dede5d857435478fb2b27913",
+        "crc32": "fc6487c6",
+        "sha1": "68ae8ba099ae327c6a5ef10edc0d13062a20e31a"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "tasteofhomecasse0000unse_e1l8.pdf",
+        "mtime": "1754101683",
+        "size": "33809523",
+        "md5": "9e3e03854a6ff21e91f402cc48cfaa53",
+        "crc32": "abf32896",
+        "sha1": "46e3e00ab26ea0e44c62e920a7e6b7d2ab6e8e44"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "tasteofhomecasse0000unse_e1l8_page_numbers.json",
+        "mtime": "1724927101",
+        "size": "33171845",
+        "md5": "ab981659b551e44c8ef7172f424f9a79",
+        "crc32": "743ea662",
+        "sha1": "55e93b4b089e47cdbaecf8448a058cb078caae1f",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.1.0-1-ge935",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.16",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9607",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "tasteofhomecasse0000unse_e1l8_jp2.zip",
+        "mtime": "1655808889",
+        "size": "9092350",
+        "md5": "189f6f66d09ef05b1812e486e42cab30",
+        "crc32": "869830ff",
+        "sha1": "ce97e3bde9b497fcc9f027679fc207b0026236ef",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.1",
+        "format": "Cloth Cover Detection Log",
+        "original": "tasteofhomecasse0000unse_e1l8_scandata.xml",
+        "mtime": "1655811517",
+        "size": "806",
+        "md5": "f661780c9dc71680f4329c063c70573b",
+        "crc32": "8f31328f",
+        "sha1": "5bded026550fc1472cddcac0ba550ec3d6bdc661",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1655584229",
+        "size": "1305",
+        "md5": "0355d63675f2284dd672eccd6600257c",
+        "crc32": "f6679905",
+        "sha1": "e5b657c8ec71304fda82e36d83e1c3725b9bfac2"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "tasteofhomecasse0000unse_e1l8_djvu.xml",
+        "mtime": "1655809055",
+        "size": "670171",
+        "md5": "24d4d77a1aa4f59b63867094ae2d18dd",
+        "crc32": "e1add0ed",
+        "sha1": "9db12f7a35c816d23879437a4f0f636180c4ea82",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "tasteofhomecasse0000unse_e1l8_hocr.html",
+        "mtime": "1655809010",
+        "size": "9298348",
+        "md5": "92fc920cac50f775ab82bad85aecee52",
+        "crc32": "7d548243",
+        "sha1": "bf24d6e2408b76372dee2a199d64d6404da67e51",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "tasteofhomecasse0000unse_e1l8.pdf",
+        "mtime": "1724928124",
+        "size": "33073597",
+        "md5": "6a5ac55cc762d78e51226257f16b92bd",
+        "crc32": "47d970d6",
+        "sha1": "1c8fd11cdf9fb920cb369bfbdf2349c6ae1a67e5"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_events.json",
+        "source": "original",
+        "mtime": "1655796631",
+        "size": "53",
+        "md5": "5c7b15748792b8f84fbe98e8ebcb3bba",
+        "crc32": "a71f9af9",
+        "sha1": "6d26944673bc4a142c6f107ee5473d2a19e367d6",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "summation": "md5",
+        "md5": "036d2728d6f7c86cafe238c19dbf1f37"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.16",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9607",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "tasteofhomecasse0000unse_e1l8_chocr.html.gz",
+        "mtime": "1655808948",
+        "size": "18650786",
+        "md5": "68e2e375b430c7e2b8ba5aa08c176f70",
+        "crc32": "c706343e",
+        "sha1": "dfb623d90ea2d264fc5f44f99765b78842ea89b9",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "tasteofhomecasse0000unse_e1l8_hocr.html",
+        "mtime": "1655809027",
+        "size": "4320",
+        "md5": "2130e793975a7672eddc73fdeb440350",
+        "crc32": "629731cd",
+        "sha1": "a508f13465a851282a14af02ace0c92a854f9d8c",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "437",
+        "word_conf_11_20": "208",
+        "word_conf_21_30": "273",
+        "word_conf_31_40": "309",
+        "word_conf_41_50": "412",
+        "word_conf_51_60": "596",
+        "word_conf_61_70": "994",
+        "word_conf_71_80": "1461",
+        "word_conf_81_90": "4235",
+        "word_conf_91_100": "96701",
+        "format": "OCR Search Text",
+        "original": "tasteofhomecasse0000unse_e1l8_hocr.html",
+        "mtime": "1655809044",
+        "size": "160551",
+        "md5": "47cb45dc1a8b4d161efbd1feee450885",
+        "crc32": "4a1d2cf7",
+        "sha1": "7e3195257c64ce16621843fd78c9f6340f225ccd",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "tasteofhomecasse0000unse_e1l8_orig_jp2.tar",
+        "mtime": "1655804943",
+        "size": "252297285",
+        "md5": "126221ab9e2ce45639b9fd71649b69b5",
+        "crc32": "1b8cf540",
+        "sha1": "9e44bd5de23b603935ca2f6c3b0d21bbfd72de29",
+        "private": "true",
+        "filecount": "394"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "tasteofhomecasse0000unse_e1l8.epub",
+        "mtime": "1754103106",
+        "size": "132370294",
+        "md5": "b9c2c902cf49a09f801e81bd3c5cfbf2",
+        "crc32": "d5b3f09d",
+        "sha1": "c02af9348aa2febf63e7105e922bafe3861caaeb"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_marc.xml",
+        "source": "original",
+        "mtime": "1655583906",
+        "size": "6949",
+        "md5": "a5de99ec8de5c9b1c4e1f5a230bab5b7",
+        "crc32": "74e9f369",
+        "sha1": "cdc8d947d47d5d48c57b7b3154c0b365aacf4264",
+        "format": "MARC"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_meta.mrc",
+        "source": "original",
+        "mtime": "1655583903",
+        "size": "2171",
+        "md5": "9e05e38953456605faedc014bca503ef",
+        "crc32": "e88ab329",
+        "sha1": "2e87322e2390ab5c51fa23c371169d529ddc233a",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_meta.sqlite",
+        "source": "original",
+        "mtime": "1655796693",
+        "size": "45056",
+        "md5": "7f5e05328121f4ab150d978630038212",
+        "crc32": "ad6d41f2",
+        "sha1": "461b01e7f0a11c77d9ab83cd7bda5a887fa61984",
+        "format": "Metadata"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_meta.xml",
+        "source": "original",
+        "mtime": "1754103107",
+        "size": "3606",
+        "md5": "89959a609e3383f295af7af6c74d7752",
+        "crc32": "5c50ecc7",
+        "sha1": "0d3ade4f22acfaaa00ec35266b51c2fda29e8c3c",
+        "format": "Metadata"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "original": "tasteofhomecasse0000unse_e1l8_preimage.zip",
+        "mtime": "1655796690",
+        "size": "740198400",
+        "md5": "19817066d7787c403d695e9cf7a4676c",
+        "crc32": "3501dd7f",
+        "sha1": "20b43db2cc7645a35198de3e2788d3307335a688",
+        "private": "true",
+        "filecount": "394"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "tasteofhomecasse0000unse_e1l8_hocr.html",
+        "mtime": "1724927100",
+        "size": "66485",
+        "md5": "f19727c152802b43ee54ace108240074",
+        "crc32": "a708ddea",
+        "sha1": "3663c72ad55252a20394ccad012c514d90e33d23",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_repub_final.log",
+        "source": "derivative",
+        "republisher_deriver_version": "0.0.14",
+        "confidence_accurate": "False",
+        "crops_accurate": "False",
+        "initial_crop_confidence": "100",
+        "format": "RePublisher Final Processing Log",
+        "original": "tasteofhomecasse0000unse_e1l8_scandata.xml",
+        "mtime": "1655811538",
+        "size": "109377",
+        "md5": "07197b005beeb1f4ed1ded78b083fde9",
+        "crc32": "38e88388",
+        "sha1": "05bbdb11a534f0654da74c26f7cffa5d591e3402",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_repub_initial.log",
+        "source": "derivative",
+        "republisher_deriver_version": "0.0.14",
+        "format": "RePublisher Initial Processing Log",
+        "original": "tasteofhomecasse0000unse_e1l8_preimage.zip",
+        "mtime": "1655588772",
+        "size": "27",
+        "md5": "08ec62964ef5fd9ce32e032e552b9d58",
+        "crc32": "2960f426",
+        "sha1": "40d9163175b1d24f4b2d6c4c44067eb0bf6af787",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "original": "tasteofhomecasse0000unse_e1l8_preimage.zip",
+        "mtime": "1655811517",
+        "size": "418654",
+        "crc32": "d592b39b",
+        "sha1": "b528e0891fe9ef1ae1950a951ee07a419c8d0f45",
+        "md5": "a13f54f6a17e25cd04cd8bb60730bea4"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_slip.png",
+        "source": "original",
+        "mtime": "1655582218",
+        "size": "42587",
+        "md5": "9844e4f93a461a31b12ad5adf33b92d4",
+        "crc32": "68508a22",
+        "sha1": "eda3c074665c98f75ec21eae31d9a09fafd34c63",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "tasteofhomecasse0000unse_e1l8_slip.png",
+        "mtime": "1655584233",
+        "size": "8737",
+        "md5": "e44d0ade1a7917c4c2c84d61d5280780",
+        "crc32": "ba60fc86",
+        "sha1": "e7f56dd75fff33766a1f00115c96ba63bdfe6d15",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_thumb_avif.zip",
+        "source": "original",
+        "format": "AVIF Thumbnails ZIP",
+        "original": "tasteofhomecasse0000unse_e1l8_preimage.zip",
+        "mtime": "1655588771",
+        "size": "41041091",
+        "md5": "280607c6cb77e51c1a51092b9da5abdb",
+        "crc32": "26f92b10",
+        "sha1": "f581970ae49736126d25ec03d3ea3bb7739252de",
+        "private": "true",
+        "filecount": "394"
+      },
+      {
+        "name": "tasteofhomecasse0000unse_e1l8_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "tasteofhomecasse0000unse_e1l8_djvu.xml",
+        "mtime": "1655809052",
+        "size": "632",
+        "md5": "74d32b5889a6afefa65fdd67027ff185",
+        "crc32": "75db9cc6",
+        "sha1": "c64fca9bfcd5bd5c28916ff273139d7c5cc59534",
+        "private": "true"
+      }
+    ],
+    "files_count": 33,
+    "item_last_updated": 1754103107,
+    "item_size": 1437640435,
+    "metadata": {
+      "identifier": "tasteofhomecasse0000unse_e1l8",
+      "boxid": "IA40576115",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2008-01-01",
+      "description": [
+        "384 pages : 24 cm",
+        "Subtitle from cover",
+        "\"Three books in one\"--Cover",
+        "Includes index",
+        "Originally published separately as \"Savory casseroles\", \"Slow cooker classics\", and \"Simmering soups.\""
+      ],
+      "isbn": [
+        "9780898216325",
+        "089821632X"
+      ],
+      "language": "eng",
+      "lccn": "2007928162",
+      "mediatype": "texts",
+      "oclc-id": [
+        "864514173",
+        "460252658",
+        "611071925"
+      ],
+      "old_pallet": "IA-NS-0001188",
+      "operator": "associate-sherwin-pasaylo@archive.org",
+      "publisher": "Greendale, WI : Reiman Media",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station37.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780898216325",
+      "subject": [
+        "Casserole cooking",
+        "Electric cooking, Slow",
+        "Soups",
+        "Mets en casserole",
+        "Cuisson lente à l'électricité",
+        "Soupes"
+      ],
+      "title": "Taste of home. Casseroles, slow cooker & soups : [536 family pleasing recipes]",
+      "tts_version": "5.1-refactored-15-g1773b315",
+      "uploader": "station37.cebu@archive.org",
+      "publicdate": "2022-06-18 19:57:07",
+      "access-restricted-item": "true",
+      "identifier-access": "http://archive.org/details/tasteofhomecasse0000unse_e1l8",
+      "identifier-ark": "ark:/13960/s2wrx62b8cd",
+      "scandate": "20220618214611",
+      "imagecount": "394",
+      "autocrop_version": "0.0.14_books-20220331-0.2",
+      "ppi": "360",
+      "republisher_operator": "associate-jobert-apor@archive.org",
+      "republisher_date": "20220621153015",
+      "republisher_time": "325",
+      "foldoutcount": "0",
+      "bookplateleaf": "0002",
+      "ocr": "tesseract 5.1.0-1-ge935",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.16",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9607",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "100",
+      "pdf_module_version": "0.0.18",
+      "external-identifier": [
+        "urn:acs6:tasteofhomecasse0000unse_e1l8:pdf:90b4bfb0-24d9-4304-8ec1-b13efb3f5347",
+        "urn:oclc:record:1336436044",
+        "urn:lcp:tasteofhomecasse0000unse_e1l8:lcpdf:39c45327-6916-45fb-bf34-d025096ba277",
+        "urn:lcp:tasteofhomecasse0000unse_e1l8:epub:5d1f6735-994b-4c02-8242-7ed75da8dd64"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "addeddate": "2022-06-21 12:18:36",
+      "sponsordate": "20220630",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801507.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "hamiltonpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780898216325"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-07-14 00:59:27.552059"
+        }
+      }
+    },
+    "uniq": 566743260,
+    "workable_servers": [
+      "ia801507.us.archive.org",
+      "ia601507.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,103 @@
+{
+  "source": "dpla",
+  "id": "86c53c124c9069f95a4194c1c06c7ea5",
+  "identifier": "86c53c124c9069f95a4194c1c06c7ea5",
+  "title": "O. E. S. cook book",
+  "subject": [
+    "Cooking",
+    "Community cookbooks",
+    "Cooking, American"
+  ],
+  "spatial": [
+    "Michigan",
+    "Stockbridge"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5x34qt1s",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1916,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/86c53c124c9069f95a4194c1c06c7ea5#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "contributor": [
+        "Order of the Eastern Star (Stockbridge, Mich.)"
+      ],
+      "date": [
+        {
+          "begin": "1916",
+          "displayDate": "1916",
+          "end": "1916"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Stockbridge"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Community cookbooks"
+        },
+        {
+          "name": "Cooking, American"
+        }
+      ],
+      "title": [
+        "O. E. S. cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1916-01-01",
+      "normalized_dates": [
+        "1916-01-01"
+      ],
+      "date_range": {
+        "begin": "1916-01-01",
+        "end": "1916-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5x34qt1s/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5x34qt1s"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

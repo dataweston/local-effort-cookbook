@@ -1,0 +1,472 @@
+{
+  "source": "internet_archive",
+  "identifier": "classicfishcooke0000clar",
+  "title": "Classic fish cookery",
+  "creator": "Clarke, Eileen, 1947-",
+  "year": 1997,
+  "subject": "Cooking (Fish)",
+  "description": [
+    "Includes index",
+    "128 pages : 29 cm"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/classicfishcooke0000clar"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/classicfishcooke0000clar"
+        }
+      ]
+    },
+    "created": 1758558851,
+    "d1": "ia903100.us.archive.org",
+    "d2": "ia803100.us.archive.org",
+    "dir": "/4/items/classicfishcooke0000clar",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659751040",
+        "size": "17153",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "dbf315662a13f747bd8162ecb1c4b8ab",
+        "crc32": "9819b814",
+        "sha1": "054b1b4a0c8c568326181a01e77cf9afbb0c0b28"
+      },
+      {
+        "name": "classicfishcooke0000clar.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "classicfishcooke0000clar_hocr.html",
+        "mtime": "1753156284",
+        "size": "62389899",
+        "private": "true",
+        "md5": "f03349341bf6593693a6c8deb32640dc",
+        "crc32": "8a7fc9c2",
+        "sha1": "3cb8cff77311016d16bab673ed6b5a80d0b8a74a"
+      },
+      {
+        "name": "classicfishcooke0000clar.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "classicfishcooke0000clar.pdf",
+        "mtime": "1753156008",
+        "size": "13296529",
+        "md5": "49567fbdba02d5a6bc3e68b34ac8f29c",
+        "crc32": "36353071",
+        "sha1": "fd0ba824eaa3cb127528d27a1c5c12db6598cb5b"
+      },
+      {
+        "name": "classicfishcooke0000clar.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "classicfishcooke0000clar_page_numbers.json",
+        "mtime": "1718699278",
+        "size": "12767058",
+        "md5": "3a10028e821b18fab810c6ffe6293b61",
+        "crc32": "97a6e41e",
+        "sha1": "6ac110e8e2db8113c6c268030515270a28ffd375",
+        "private": "true"
+      },
+      {
+        "name": "classicfishcooke0000clar_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "classicfishcooke0000clar_jp2.zip",
+        "mtime": "1521685420",
+        "size": "3620273",
+        "md5": "68fc9f8ad025162a01674b73389428d6",
+        "crc32": "564a09aa",
+        "sha1": "7df58d48e7944f6183b030fd578c55d1f8f6cb25",
+        "private": "true"
+      },
+      {
+        "name": "classicfishcooke0000clar_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "classicfishcooke0000clar_abbyy.gz",
+        "mtime": "1659750859",
+        "size": "3169360",
+        "md5": "53ac1349725db6e54779cc1d04a23f6d",
+        "crc32": "1be2277d",
+        "sha1": "738e6ac95cf23cf3b86e5088b403101f8f4636cc",
+        "private": "true"
+      },
+      {
+        "name": "classicfishcooke0000clar_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "classicfishcooke0000clar_scandata.xml",
+        "mtime": "1669595955",
+        "size": "789",
+        "md5": "cda577449460499a46cbebc7747adf3d",
+        "crc32": "573e5535",
+        "sha1": "25b58af2acbb2498bb630e92bb85cf3e7c6e610b",
+        "private": "true"
+      },
+      {
+        "name": "classicfishcooke0000clar_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1528153609",
+        "size": "1072",
+        "md5": "246552e527630fd825c1e847f6baa07a",
+        "crc32": "8946ab9e",
+        "sha1": "8b9a12d0ce894df7a9805c63ac09280c76556780"
+      },
+      {
+        "name": "classicfishcooke0000clar_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "classicfishcooke0000clar_djvu.xml",
+        "mtime": "1659751035",
+        "size": "286254",
+        "md5": "8a2d15fd028775c42026df184a4097b8",
+        "crc32": "d3115e1e",
+        "sha1": "cd396ca353489398c2750a3e1717032f33e6420d",
+        "private": "true"
+      },
+      {
+        "name": "classicfishcooke0000clar_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "classicfishcooke0000clar_hocr.html",
+        "mtime": "1659751000",
+        "size": "3530422",
+        "md5": "541209c55417ecf5ebe9ae7345b7efb4",
+        "crc32": "4fa80c32",
+        "sha1": "781a6a73f3c45778910aa4689613617cd8e90884",
+        "private": "true"
+      },
+      {
+        "name": "classicfishcooke0000clar_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "classicfishcooke0000clar_abbyy.gz",
+        "mtime": "1528153748",
+        "size": "2066935",
+        "md5": "5341b090a3bbe8d49547561a19a9c14c",
+        "crc32": "fc47353a",
+        "sha1": "7245b42f7fdd9da0375df47cdff0d1c05566f520"
+      },
+      {
+        "name": "classicfishcooke0000clar_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "classicfishcooke0000clar.pdf",
+        "mtime": "1718699413",
+        "size": "12691438",
+        "md5": "2217d2ffd78382de4b09ff5afe04ea0a",
+        "crc32": "3c5dad6b",
+        "sha1": "850d65032d76b2fe36c209c141aa74789613909f"
+      },
+      {
+        "name": "classicfishcooke0000clar_events.json",
+        "source": "original",
+        "mtime": "1521681298",
+        "size": "48",
+        "md5": "6f665b8f095f66cda62dae40564288d8",
+        "crc32": "a921b1e7",
+        "sha1": "2a96b99b0075750d5ea8fdb2031281cddcb35316",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "classicfishcooke0000clar_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "6d2a00a7cd864b1e66a607dfab7c13e0",
+        "summation": "md5"
+      },
+      {
+        "name": "classicfishcooke0000clar_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "classicfishcooke0000clar_chocr.html.gz",
+        "mtime": "1659750987",
+        "size": "7237229",
+        "md5": "3206140997c14e80f96b6864b405311a",
+        "crc32": "992de4b1",
+        "sha1": "b1a7e6e29ea3b07f8d974bdd1942a4e483836ec4",
+        "private": "true"
+      },
+      {
+        "name": "classicfishcooke0000clar_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "classicfishcooke0000clar_hocr.html",
+        "mtime": "1659751009",
+        "size": "1626",
+        "md5": "edf1739865fef5e18a5f060893e558ea",
+        "crc32": "1720027b",
+        "sha1": "0b7f44c16a9a6c161acadce771ba3a3f6b1d6cfb",
+        "private": "true"
+      },
+      {
+        "name": "classicfishcooke0000clar_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "239",
+        "word_conf_11_20": "55",
+        "word_conf_21_30": "138",
+        "word_conf_31_40": "305",
+        "word_conf_41_50": "457",
+        "word_conf_51_60": "976",
+        "word_conf_61_70": "2602",
+        "word_conf_71_80": "6699",
+        "word_conf_81_90": "13356",
+        "word_conf_91_100": "18932",
+        "format": "OCR Search Text",
+        "original": "classicfishcooke0000clar_hocr.html",
+        "mtime": "1659751024",
+        "size": "89832",
+        "md5": "d5041f88a0830ac7f75a443ff2440d43",
+        "crc32": "4014de56",
+        "sha1": "b98905ab699a919d3126018b1dd3942f04a23d7b",
+        "private": "true"
+      },
+      {
+        "name": "classicfishcooke0000clar_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "classicfishcooke0000clar_orig_jp2.tar",
+        "mtime": "1521684702",
+        "size": "90466002",
+        "md5": "3e21903ac7339f3ea8266003efcde408",
+        "crc32": "7dc33c8c",
+        "sha1": "920111b71bc904d96408280a82ab03d08e21a891",
+        "private": "true",
+        "filecount": "138"
+      },
+      {
+        "name": "classicfishcooke0000clar_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "classicfishcooke0000clar.epub",
+        "mtime": "1753156602",
+        "size": "63028758",
+        "md5": "a7de8a3ddacba43ab93216baffe4e070",
+        "crc32": "a9c4a167",
+        "sha1": "c490a485a8a2184dd16c5e09bc319b00e0b64240"
+      },
+      {
+        "name": "classicfishcooke0000clar_loans.json",
+        "source": "original",
+        "mtime": "1593478960",
+        "size": "3015",
+        "format": "JSON",
+        "private": "true",
+        "md5": "325ebed84f5e156f6e9cefd04c7e8acc",
+        "crc32": "d439160f",
+        "sha1": "025a4dc544c4d31fc1033d612682210b318be15b"
+      },
+      {
+        "name": "classicfishcooke0000clar_marc.xml",
+        "source": "original",
+        "mtime": "1528153609",
+        "size": "4248",
+        "format": "MARC",
+        "md5": "d96c50de254f334726f1fabd072d70b8",
+        "crc32": "44f3b108",
+        "sha1": "ad3c769a6b1d556779982e07407f6bb98649c965"
+      },
+      {
+        "name": "classicfishcooke0000clar_meta.mrc",
+        "source": "original",
+        "mtime": "1520411586",
+        "size": "1211",
+        "md5": "ca2d11ddbd72c405a5003f9de8e2c852",
+        "crc32": "7a0abf2e",
+        "sha1": "d2b6f1d1b33a09d39586c1c4ed32b55d0e4f6543",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "classicfishcooke0000clar_meta.sqlite",
+        "source": "original",
+        "mtime": "1521681825",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "d432326e164ea02701339510d4b5179b",
+        "crc32": "19b02099",
+        "sha1": "ccf82e62ae03e94bd5a7551185c98e16e8e7d757"
+      },
+      {
+        "name": "classicfishcooke0000clar_meta.xml",
+        "source": "original",
+        "mtime": "1753156603",
+        "size": "2880",
+        "format": "Metadata",
+        "md5": "071f2d7b0ca737f29fed727e4514771a",
+        "crc32": "905e19e6",
+        "sha1": "44766c92fd4042534d5bb8c0d734b8f76483aa94"
+      },
+      {
+        "name": "classicfishcooke0000clar_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1521681825",
+        "size": "247296000",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "36cc75f911675823737200a6a5d88ddf",
+        "crc32": "1d55e55b",
+        "sha1": "aebe35d32ec7afae6a9aab1eca295a63ca8ee09b",
+        "filecount": "138"
+      },
+      {
+        "name": "classicfishcooke0000clar_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "96",
+        "format": "Page Numbers JSON",
+        "original": "classicfishcooke0000clar_hocr.html",
+        "mtime": "1718699266",
+        "size": "23174",
+        "md5": "0fb8ea4ceff31c7b1cd34612e2bab8cf",
+        "crc32": "2b04e6f2",
+        "sha1": "0615028bde66903eaf74c813d3350c8cf2be6952",
+        "private": "true"
+      },
+      {
+        "name": "classicfishcooke0000clar_scandata.xml",
+        "source": "original",
+        "mtime": "1669595955",
+        "size": "140998",
+        "format": "Scandata",
+        "md5": "4a6e4307be18ca77ea4df174887788d7",
+        "crc32": "9a6ad0df",
+        "sha1": "46890cb024c493bd237bfe2ef5289e7dc3e1fe37"
+      },
+      {
+        "name": "logs/classicfishcooke0000clar_iabdash_2018-03-07163240.log",
+        "source": "original",
+        "mtime": "1520411571",
+        "size": "360",
+        "md5": "1671591cbd73a32d62c6de2b5415c900",
+        "crc32": "940093db",
+        "sha1": "e42d5486525274469da5d401dac2ea32fd65b881",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/classicfishcooke0000clar_scanning_2018-03-07163232.log",
+        "source": "original",
+        "mtime": "1520411564",
+        "size": "285395",
+        "md5": "19743ce1fe56dc33695f37f0d20953e1",
+        "crc32": "ac3ce524",
+        "sha1": "a75b7006fc6f4ec5f1ac8a722735a9c74b54681c",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1753156603,
+    "item_size": 522434342,
+    "metadata": {
+      "identifier": "classicfishcooke0000clar",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": [
+        "Clarke, Eileen, 1947-",
+        "North American Fishing Club"
+      ],
+      "date": "1997-01-01",
+      "isbn": [
+        "0914697846",
+        "9780914697848"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-chuiyuk-cheung@archive.org",
+      "ppi": "300",
+      "publisher": "Minneapolis, MN : North American Outdoor Group",
+      "repub_state": "22",
+      "scanner": "ttscribe17.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "Classic fish cookery",
+      "tts_version": "v1.58-final-5-g8c4c1bd",
+      "publicdate": "2018-03-07 08:32:26",
+      "uploader": "ttscribe17.hongkong@archive.org",
+      "addeddate": "2018-03-07 08:32:26",
+      "imagecount": "138",
+      "scandate": "20180307092957",
+      "lccn": "00689024",
+      "description": [
+        "Includes index",
+        "128 pages : 29 cm"
+      ],
+      "republisher_operator": "associate-zhouyi@archive.org",
+      "republisher_date": "20180322091339",
+      "republisher_time": "392",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/classicfishcooke0000clar",
+      "identifier-ark": "ark:/13960/t4gn4tf21",
+      "bookplateleaf": "0004",
+      "external-identifier": [
+        "urn:acs6:classicfishcooke0000clar:pdf:cadb98e2-cd19-4239-9117-8df870c73a2d",
+        "urn:acs6:classicfishcooke0000clar:epub:a0af2653-4bad-4749-a930-68367a566119",
+        "urn:oclc:record:1040019910",
+        "urn:lcp:classicfishcooke0000clar:lcpdf:33a5272e-9af1-403a-ae0c-9949937a05c5",
+        "urn:lcp:classicfishcooke0000clar:epub:09e0b5d9-f153-460b-a32a-723a8fd0b7bd"
+      ],
+      "scanfee": "15",
+      "invoice": "1213",
+      "openlibrary_edition": "OL8325080M",
+      "openlibrary_work": "OL2629319W",
+      "boxid": "IA1170716",
+      "sponsordate": "20180331",
+      "subject": "Cooking (Fish)",
+      "backup_location": "ia906700_18",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "96",
+      "filesxml": "Tue Apr 2 23:33:12 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia803100.us.archive.org",
+    "uniq": 83595399,
+    "workable_servers": [
+      "ia803100.us.archive.org",
+      "ia903100.us.archive.org"
+    ]
+  },
+  "institution": "Clarke, Eileen, 1947-",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

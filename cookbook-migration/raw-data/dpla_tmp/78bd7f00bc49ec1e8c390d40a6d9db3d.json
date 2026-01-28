@@ -1,0 +1,93 @@
+{
+  "source": "dpla",
+  "id": "78bd7f00bc49ec1e8c390d40a6d9db3d",
+  "identifier": "78bd7f00bc49ec1e8c390d40a6d9db3d",
+  "title": "The Home Cook Book, ca. 1910",
+  "subject": [],
+  "spatial": [
+    "Traverse City, Grand Traverse County, Michigan"
+  ],
+  "description": "\"The Home Cook Book\" was published around 1910, and featured the recipes of Traverse City women and housewives, making it a community cookbook.",
+  "isShownAt": "https://localhistory.tadl.org/items/show/1991",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1910,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/78bd7f00bc49ec1e8c390d40a6d9db3d#SourceResource",
+      "collection": [
+        {
+          "title": "Physical copy of this work is held in the Nelson Room, Traverse Area District Library, Traverse City (Mich.)"
+        }
+      ],
+      "contributor": [
+        "Mrs. Lewis W. Smith, who carefully arranged and classified recipes"
+      ],
+      "creator": [
+        "Lewis W. Smith, Compiler, Circulator for the Evening Record, Traverse City (Mich.)"
+      ],
+      "date": [
+        {
+          "displayDate": "ca. 1910."
+        }
+      ],
+      "description": [
+        "\"The Home Cook Book\" was published around 1910, and featured the recipes of Traverse City women and housewives, making it a community cookbook."
+      ],
+      "format": [
+        "PDF."
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Evening Record, Traverse City (Mich.)"
+      ],
+      "rights": [
+        "COPYRIGHT UNDETERMINED The copyright and related rights status of this Item has been reviewed by the organization that has made the Item available, but the organization was unable to make a conclusive determination as to the copyright status of the Item. Please refer to the organization that has made the Item available for more information. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use."
+      ],
+      "spatial": [
+        {
+          "name": "Traverse City, Grand Traverse County, Michigan"
+        }
+      ],
+      "title": [
+        "The Home Cook Book, ca. 1910"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1910-01-01",
+      "normalized_dates": [
+        "1910-01-01"
+      ]
+    }
+  },
+  "data": {
+    "object": "https://localhistory.tadl.org/files/thumbnails/9330c143c42b48255181c1778a8fa65d.jpg",
+    "isShownAt": "https://localhistory.tadl.org/items/show/1991"
+  },
+  "location": {
+    "state": "Michigan",
+    "county": "Traverse County"
+  },
+  "curation": {
+    "score": 9,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Home Cook"
+    ]
+  },
+  "curation_notes": "County match: Traverse County; State match: Michigan; Community markers: Home Cook; Digitized scan available"
+}

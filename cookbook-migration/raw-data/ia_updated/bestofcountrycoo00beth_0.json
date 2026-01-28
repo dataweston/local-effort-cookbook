@@ -1,0 +1,597 @@
+{
+  "source": "internet_archive",
+  "identifier": "bestofcountrycoo00beth_0",
+  "title": "The best of country cooking, 2006",
+  "creator": "Wittlinger, Beth",
+  "year": 2006,
+  "subject": "Cooking, American",
+  "description": "Includes index",
+  "metadata": {
+    "created": 1758556010,
+    "d1": "ia601901.us.archive.org",
+    "d2": "ia801901.us.archive.org",
+    "dir": "/5/items/bestofcountrycoo00beth_0",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658703205",
+        "size": "22990",
+        "md5": "23964a01e9b4a8a4ef01a73c620723a6",
+        "crc32": "81210aa2",
+        "sha1": "91fb7199ad31621dd18f5dd85a8ecafc23194b9c",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0.cdx.gz",
+        "source": "original",
+        "mtime": "1454861448",
+        "size": "7276",
+        "md5": "cfc92cd7d690f9c06d9dcc03837e0292",
+        "crc32": "f3c814aa",
+        "sha1": "775773f9870a3a74d45a97f551b08cb3b7ed79e7",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0.cdx.idx",
+        "source": "original",
+        "mtime": "1454861448",
+        "size": "40",
+        "md5": "2087e1a29a4139f183dedd77a65855e1",
+        "crc32": "3212412d",
+        "sha1": "eb57f3869e2b2254f5e23b5d9c9a34c68ea49096",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "bestofcountrycoo00beth_0_hocr.html",
+        "mtime": "1753045638",
+        "size": "97632629",
+        "private": "true",
+        "md5": "d0b21866128d39594a6f3891d29f91c5",
+        "crc32": "5e8e3e31",
+        "sha1": "718bd0e39876fef8bf2160227e5edcfa5f70ed39"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "bestofcountrycoo00beth_0.pdf",
+        "mtime": "1753045517",
+        "size": "26690019",
+        "md5": "23d8200ba0bbd3a13bfdeab57c964714",
+        "crc32": "722eefcc",
+        "sha1": "10533057bdb2b6d70bca3e76e3abd8dcf088bf3d"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "bestofcountrycoo00beth_0_page_numbers.json",
+        "mtime": "1716646676",
+        "size": "26106338",
+        "md5": "43c44e9ab93cb434da68e29d4e4974af",
+        "crc32": "c4d8c2aa",
+        "sha1": "5de1443931a1b088f34993969c2d2568e62a1f51",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1363191885",
+        "size": "574301",
+        "md5": "6135dd1bad3189daed246a37eb05b7fd",
+        "crc32": "bab8f012",
+        "sha1": "ca002003ae4874614f717fe005b4d734ad5f5c6e"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "bestofcountrycoo00beth_0.warc.gz",
+        "mtime": "1454861358",
+        "size": "7440",
+        "md5": "fd290c96b67b5ed47822a478a177352c",
+        "crc32": "bee06847",
+        "sha1": "ab5da91461e1572df685b4669658c0895ab732f3",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "bestofcountrycoo00beth_0_jp2.zip",
+        "mtime": "1533788437",
+        "size": "6906827",
+        "md5": "1e83b75a4bcb47a8f8ec8de872191a2d",
+        "crc32": "b90e294a",
+        "sha1": "0ff70722c6ae002bf15414cb3e9d105a885b695f",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "bestofcountrycoo00beth_0_abbyy.gz",
+        "mtime": "1658702820",
+        "size": "5741719",
+        "md5": "49cec7e020606b2528c45815ac240e1b",
+        "crc32": "0233d101",
+        "sha1": "74bacd75bd36a02c7c82313f0480c213b1cc98ca",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "bestofcountrycoo00beth_0_scandata.xml",
+        "mtime": "1669419048",
+        "size": "789",
+        "md5": "bec6ac7d3266b15e5f3d3aeb75653085",
+        "crc32": "16cbf690",
+        "sha1": "92e3f15e92e3a37aa9fbe3651b10317ba8f6af32",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1454861345",
+        "size": "803",
+        "md5": "6d0ecf528a8e469487de0b1d10b8825c",
+        "crc32": "fca4ff31",
+        "sha1": "b12d56dda9927d9fd8a761d12c0cdc47d12ac2d6"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "bestofcountrycoo00beth_0_djvu.xml",
+        "mtime": "1658703194",
+        "size": "510651",
+        "md5": "40c2b8f8a2bce8fa9d2d1c2fe5f551bf",
+        "crc32": "af88a2a1",
+        "sha1": "c96c54c88049761cab83b7e8cb0f084152a60759",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "bestofcountrycoo00beth_0_hocr.html",
+        "mtime": "1658703014",
+        "size": "6029957",
+        "md5": "2d2a4beaecf148738595ff4ebb9a280c",
+        "crc32": "1e78ddc5",
+        "sha1": "e55cc3b877524beb593ea7841e97cedf3062f364",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "bestofcountrycoo00beth_0_abbyy.gz",
+        "mtime": "1533789520",
+        "size": "14123783",
+        "md5": "730821b39145900b25b14f7e1ac48b18",
+        "crc32": "1d6138d4",
+        "sha1": "87dd9dde65d5c1886377e831c8cea3c4797f2d01"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "bestofcountrycoo00beth_0.pdf",
+        "mtime": "1716647330",
+        "size": "25921648",
+        "md5": "fa55fe71c7b40f6ba5283aed5354fb77",
+        "crc32": "97750191",
+        "sha1": "e3b960cd019c48614a8b46dafe11a9c12cc3eb96"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_events.json",
+        "source": "original",
+        "mtime": "1533783265",
+        "size": "50",
+        "md5": "ef791ac2647f363e8ed39b2fc6dcb7aa",
+        "crc32": "6fa6af0b",
+        "sha1": "b6cb8490a0ccbfc1b4aa1ef38be67c3bf1abbee8",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "f829dad9864b8273a3e3d6b504737f8f",
+        "summation": "md5"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "bestofcountrycoo00beth_0_chocr.html.gz",
+        "mtime": "1658702980",
+        "size": "12725983",
+        "md5": "7319cd073f8467c8ccbcebdc1b08c7eb",
+        "crc32": "c60793fc",
+        "sha1": "2de0b9484035b4e36aba3e8d0b1aaa9b0599796f",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "bestofcountrycoo00beth_0_hocr.html",
+        "mtime": "1658703058",
+        "size": "2318",
+        "md5": "67492b6f13508b27502ba4f366b8e52d",
+        "crc32": "ef9bc094",
+        "sha1": "5c214d5f2bb61ef390d36c7c7153616c0ab2ed32",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "552",
+        "word_conf_11_20": "330",
+        "word_conf_21_30": "341",
+        "word_conf_31_40": "699",
+        "word_conf_41_50": "1350",
+        "word_conf_51_60": "3060",
+        "word_conf_61_70": "6630",
+        "word_conf_71_80": "13003",
+        "word_conf_81_90": "20603",
+        "word_conf_91_100": "25616",
+        "format": "OCR Search Text",
+        "original": "bestofcountrycoo00beth_0_hocr.html",
+        "mtime": "1658703172",
+        "size": "133470",
+        "md5": "bfd968b26de5d4ee671b4c621eb7c905",
+        "crc32": "92511c62",
+        "sha1": "f50de06a1d93cce9f892563a9ddab4bbf030d12b",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "bestofcountrycoo00beth_0_orig_jp2.tar",
+        "mtime": "1533786647",
+        "size": "178459183",
+        "md5": "fc7218a63ee5b87ea367fda13fceeb92",
+        "crc32": "64afd7ec",
+        "sha1": "63b142397507640d9ac25ba8df2f9d49b7847917",
+        "private": "true",
+        "filecount": "194"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "bestofcountrycoo00beth_0.epub",
+        "mtime": "1753045660",
+        "size": "98035678",
+        "md5": "dd2b6b043fb0c2a52418a8e525693a03",
+        "crc32": "cdc9da76",
+        "sha1": "a5da0fd0aa1538097a259861b8279c69082cda05"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_loans.json",
+        "source": "original",
+        "mtime": "1593080096",
+        "size": "3921",
+        "format": "JSON",
+        "private": "true",
+        "md5": "6444ee2567dc76cf5feae858da4f6e9e",
+        "crc32": "dbcbd832",
+        "sha1": "cab8cf860cffb3e69cc21b8b2168fe068a5b6af8"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1454861345",
+        "size": "3608",
+        "md5": "793f0d4520deddb50717f4bad0bf2393",
+        "crc32": "49cc63c0",
+        "sha1": "04ac007dc647419cc72990e27b0fef54987ce9dc"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "bestofcountrycoo00beth_0_xisbn.json",
+        "mtime": "1454861359",
+        "size": "244",
+        "md5": "a9846d2ae5c7bbc850ccf50e22e62287",
+        "crc32": "dc93ac30",
+        "sha1": "27fea7aabf08282cb21532d602ec36877339975d",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454861345",
+        "size": "1106",
+        "md5": "25f1d4a587cee3e53795907869afafd2",
+        "crc32": "b4767494",
+        "sha1": "5e1343f64a0d7923e300f30420d70b98d713822d"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_meta.sqlite",
+        "source": "original",
+        "mtime": "1533783324",
+        "size": "14336",
+        "format": "Metadata",
+        "md5": "adb76f8f5a25cbd2b32955f57c5fab99",
+        "crc32": "10d6a8b3",
+        "sha1": "eda24f2d8c593aa78a85c2f244e0f6dcf32d0159"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753045660",
+        "size": "3259",
+        "md5": "53ad4d782d0dadccc036b7b52f05a8f1",
+        "crc32": "2ef11d56",
+        "sha1": "de79e43b5f73dae3aac6137a3dbcc08fae937051"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1363191885",
+        "size": "311",
+        "md5": "bec24668bc79bbdc51079463253ea721",
+        "crc32": "7e0075fd",
+        "sha1": "0990f9ef77c200eccdde20f189b98dbc395c25b4"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1533783318",
+        "size": "493690880",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "e7e8c455df0dbff1af67c4c0dce1217d",
+        "crc32": "6b884248",
+        "sha1": "e8fbdc9f80c2a0e4ac3e0a9aaaad22a0d2fbc64a",
+        "filecount": "194"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "99",
+        "format": "Page Numbers JSON",
+        "original": "bestofcountrycoo00beth_0_hocr.html",
+        "mtime": "1716646675",
+        "size": "32204",
+        "md5": "52258708a131a5471d5d833864ef39c2",
+        "crc32": "a0efef14",
+        "sha1": "42088145f71477a7208d27eef5b9355aeb9e0302",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_scandata.xml",
+        "source": "original",
+        "mtime": "1669419048",
+        "size": "198222",
+        "format": "Scandata",
+        "md5": "e78adc36896eca599731da1fe0a94f5f",
+        "crc32": "f60bdce1",
+        "sha1": "ee4b71c05fb5ac2e0ce88f98d192486203211ac4"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "bestofcountrycoo00beth_0_djvu.xml",
+        "mtime": "1669418894",
+        "size": "7500",
+        "md5": "81931831d7b1e3ef8301c9820c3f45eb",
+        "crc32": "8ea16ade",
+        "sha1": "6e372ab7d7efe4bfb59fafc66ef04fa1c88a5243",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00beth_0_xisbn.json",
+        "source": "original",
+        "mtime": "1454860268",
+        "size": "371",
+        "md5": "4f584852366989422534a39787361da8",
+        "crc32": "864fb1da",
+        "sha1": "19620379a610815361b45b9dba870435400201b0",
+        "format": "OCLC xISBN JSON"
+      },
+      {
+        "name": "logs/bestofcountrycoo00beth_0_iabdash_2018-08-04004026.log",
+        "source": "original",
+        "mtime": "1533314434",
+        "size": "358",
+        "md5": "f5ee24e31d1298c86de79760832eff7a",
+        "crc32": "8a2e65dc",
+        "sha1": "ea6d2178a918192daf8650a9fd969d63a7618c14",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/bestofcountrycoo00beth_0_scanning_2018-08-04004018.log",
+        "source": "original",
+        "mtime": "1533314426",
+        "size": "459001",
+        "md5": "277c07aac953407d9bbb52fa09951c1e",
+        "crc32": "91c41f9e",
+        "sha1": "320040c529348ec4a0e49b0d92113146ca04d0a5",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 37,
+    "item_last_updated": 1753045660,
+    "item_size": 994049213,
+    "metadata": {
+      "isbn": [
+        "089821498X",
+        "9780898214987"
+      ],
+      "title": "The best of country cooking, 2006",
+      "creator": [
+        "Wittlinger, Beth",
+        "Arndt, Lori",
+        "Cunningham, Janaan",
+        "Taste of Home Books"
+      ],
+      "publisher": "Greendale, WI : Taste of Home Books",
+      "date": "2006-01-01",
+      "external-identifier": [
+        "urn:asin:089821498X",
+        "urn:acs6:bestofcountrycoo00beth_0:epub:5581386c-3898-4178-a42c-08ebc2c9610b",
+        "urn:acs6:bestofcountrycoo00beth_0:pdf:72c22ac3-3904-4e40-8ae5-922cd164403a",
+        "urn:oclc:record:1147739138",
+        "urn:lcp:bestofcountrycoo00beth_0:lcpdf:c9f7a657-0115-42ab-8da8-83f40e28cc34",
+        "urn:lcp:bestofcountrycoo00beth_0:epub:ee6781bd-e053-4bc2-988d-37057590bed8"
+      ],
+      "repub_state": "22",
+      "updatedate": "2013-03-13 16:24:42",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA1294507",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "hongkong",
+      "identifier": "bestofcountrycoo00beth_0",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2013-03-13 16:24:47",
+      "publicdate": "2013-03-13 16:24:51",
+      "donor": "alibris",
+      "subject": [
+        "Cooking, American",
+        "Cooking, American"
+      ],
+      "description": "Includes index",
+      "identifier-access": "http://archive.org/details/bestofcountrycoo00beth_0",
+      "identifier-ark": "ark:/13960/t53f8rb9j",
+      "city": "Greendale, WI",
+      "oclc-id": "71824959",
+      "backup_location": "ia905608_4",
+      "scanner": "ttscribe2.hongkong.archive.org",
+      "operator": "associatechuiyuk-cheung@archive.org",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "imagecount": "194",
+      "scandate": "20180803175405",
+      "notes": "Copyright is on title page.<br />",
+      "ppi": "300",
+      "republisher_operator": "republisher7.dhaka@archive.org",
+      "republisher_date": "20180809085409",
+      "republisher_time": "962",
+      "foldoutcount": "0",
+      "bookplateleaf": "0004",
+      "ocr": "ABBYY FineReader 11.0 (Extended OCR)",
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "curation": "[curator]associate-michael-wankoff@archive.org[/curator][date]20180809180901[/date]",
+      "sponsordate": "20180831",
+      "openlibrary_edition": "OL8269082M",
+      "openlibrary_work": "OL17905978W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "99",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ]
+    },
+    "server": "ia801901.us.archive.org",
+    "servers_unavailable": true,
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA-MC-0000134",
+              "IA-MC-1300006",
+              "IA-MC-0000027",
+              "IA-MC-0000026",
+              "IA-MC-1200022",
+              "IA-MC-0000060",
+              "IA40088319"
+            ],
+            "num_copies": 7
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 03:39:40.476957"
+        }
+      }
+    },
+    "uniq": 1263153008,
+    "workable_servers": [
+      "ia801901.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/71824959?referer=xid"
+          ],
+          "publisher": "Taste of Home Books",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Greendale, WI",
+          "author": "editor, Beth Wittlinger ; art director, Lori Arndt ; food editor, Janaan Cunningham.",
+          "year": "2006",
+          "isbn": [
+            "089821498X"
+          ],
+          "title": "The best of country cooking, 2006",
+          "oclcnum": [
+            "71824959"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Wittlinger, Beth",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,503 @@
+{
+  "source": "internet_archive",
+  "identifier": "returnengagement0000unse",
+  "title": "Return engagement : a collection of recipes",
+  "creator": null,
+  "year": 1989,
+  "subject": "Cooking",
+  "description": [
+    "303 pages : 26 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/returnengagement0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/returnengagement0000unse"
+        }
+      ]
+    },
+    "created": 1758555789,
+    "d1": "ia902809.us.archive.org",
+    "d2": "ia802809.us.archive.org",
+    "dir": "/7/items/returnengagement0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660992120",
+        "size": "17360",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "3e2b33661d24d9c955d8888b5c77ad31",
+        "crc32": "b58a4515",
+        "sha1": "be2ac49711cfa4f7aecc4011515319b6b5dd54ea"
+      },
+      {
+        "name": "logs/returnengagement0000unse_iabdash_2019-12-0211:30:46.log",
+        "source": "original",
+        "mtime": "1575257451",
+        "size": "1362",
+        "md5": "b3d3a5d92c3d9e35b92dc0952a79be8e",
+        "crc32": "1d457d59",
+        "sha1": "aed1553787404988be703ba605bbb036b089b426",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/returnengagement0000unse_scanning_2019-12-0211:30:52.log",
+        "source": "original",
+        "mtime": "1575257459",
+        "size": "1074089",
+        "md5": "e0d41ccfd30c77e985ea503727c99a8e",
+        "crc32": "be461328",
+        "sha1": "f9d97b3fac03fb05b18ef4ae27b0386cf7bf5327",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "returnengagement0000unse_hocr.html",
+        "mtime": "1758245904",
+        "size": "11987435",
+        "private": "true",
+        "md5": "c2a8a086c0e33435608296e4104e84df",
+        "crc32": "745a3b98",
+        "sha1": "376b3b0487e62875385498b2cdec31fd0990dfa3"
+      },
+      {
+        "name": "returnengagement0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "returnengagement0000unse.pdf",
+        "mtime": "1758244965",
+        "size": "15681193",
+        "md5": "384b2c3fdef18625a2a2d0875ae1d1d4",
+        "crc32": "c4163caa",
+        "sha1": "8d8552a9c7a3857c5d95a8f3148021afe4bcbffc"
+      },
+      {
+        "name": "returnengagement0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "returnengagement0000unse_page_numbers.json",
+        "mtime": "1722099016",
+        "size": "15348499",
+        "md5": "ded7f779af7f4241e9e4232f506a3955",
+        "crc32": "02ab8b01",
+        "sha1": "d4cbfca9abd6c1f30733adf7ee697debd6a90721",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "returnengagement0000unse_jp2.zip",
+        "mtime": "1575553547",
+        "size": "6966236",
+        "md5": "63d5ad0851817b0635d3bf1bd4208e88",
+        "crc32": "b390274f",
+        "sha1": "04a64fd2e54435003f37396b437b82ddaa8a61c1",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "returnengagement0000unse_abbyy.gz",
+        "mtime": "1660991258",
+        "size": "5786588",
+        "md5": "6a85002adf76c98c7e76d69e86320f3d",
+        "crc32": "8bfb6a0c",
+        "sha1": "7e1e97e66f5c6a4857ce478c65d8efd74822bd57",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "returnengagement0000unse_scandata.xml",
+        "mtime": "1671113590",
+        "size": "789",
+        "md5": "aa03a59125103bce2e3641435201b916",
+        "crc32": "236a5809",
+        "sha1": "dc673086c09c43688512fa6d89fa03b207d4d0f1",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1575544678",
+        "size": "1064",
+        "md5": "76e3b1f4647c3a58343186694794dbf2",
+        "crc32": "14a81e9c",
+        "sha1": "5b29c6f5d23026cedc29111c4acd48239621b06c"
+      },
+      {
+        "name": "returnengagement0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "returnengagement0000unse_djvu.xml",
+        "mtime": "1660992109",
+        "size": "517847",
+        "md5": "0f01665a1a2287aced9a6423ba4c341b",
+        "crc32": "5c07e194",
+        "sha1": "fe099b5698ed7fdc9c658d2cc515eb485dbd0f3d",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "returnengagement0000unse_hocr.html",
+        "mtime": "1660991820",
+        "size": "6235542",
+        "md5": "1cf00de2cdb2650692126593c189886a",
+        "crc32": "abcd500c",
+        "sha1": "cedd7418a6526e7a7a2a9b66a2cb9c509883f37a",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "returnengagement0000unse_abbyy.gz",
+        "mtime": "1575556461",
+        "size": "1438842",
+        "md5": "8a7745eb80e4246d8c4e9776da619476",
+        "crc32": "da10cd10",
+        "sha1": "5d04b8757c90e74cffe3e15296a0f8a81fd2fa0c"
+      },
+      {
+        "name": "returnengagement0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "returnengagement0000unse.pdf",
+        "mtime": "1722099705",
+        "size": "15135118",
+        "md5": "93fecc3c05b648698110056185cfb694",
+        "crc32": "d07ce3e3",
+        "sha1": "9d91217b7a94db8b243ca2d05e37d48f4529fda7"
+      },
+      {
+        "name": "returnengagement0000unse_events.json",
+        "source": "original",
+        "mtime": "1575544589",
+        "size": "53",
+        "md5": "f8aba29b93bccbf664f31f12ebc79477",
+        "crc32": "cf2048fa",
+        "sha1": "6230e02ea5300eb0bde493718f068d75e7dc8049",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "49a4b755102f8600c9cf1608f76ac152",
+        "summation": "md5"
+      },
+      {
+        "name": "returnengagement0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "returnengagement0000unse_chocr.html.gz",
+        "mtime": "1660991752",
+        "size": "12990651",
+        "md5": "c9cf65f587999d0ad68bc3afdd6f2b43",
+        "crc32": "2ae181c1",
+        "sha1": "01741f7399d63dbf688b92844b5014077876aa95",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "returnengagement0000unse_hocr.html",
+        "mtime": "1660992045",
+        "size": "3878",
+        "md5": "98c85e3e0e5c4b46ebca1ef24f46e5c3",
+        "crc32": "7ed64405",
+        "sha1": "d798e6372964e2624f159186400235eda9901618",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "97",
+        "word_conf_11_20": "44",
+        "word_conf_21_30": "98",
+        "word_conf_31_40": "175",
+        "word_conf_41_50": "286",
+        "word_conf_51_60": "654",
+        "word_conf_61_70": "1718",
+        "word_conf_71_80": "5517",
+        "word_conf_81_90": "16797",
+        "word_conf_91_100": "47548",
+        "format": "OCR Search Text",
+        "original": "returnengagement0000unse_hocr.html",
+        "mtime": "1660992093",
+        "size": "134617",
+        "md5": "570ca368a5d69aa05c2ce1cabe3be6dd",
+        "crc32": "a85aa118",
+        "sha1": "bc21f5e74b9de82aa638af7978642793447878e9",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "returnengagement0000unse_orig_jp2.tar",
+        "mtime": "1575552470",
+        "size": "132126539",
+        "md5": "858773fcb7b4ad51d2bd5c0afe3339b5",
+        "crc32": "cecd4fee",
+        "sha1": "844d60a3b62b1228d14b80bc606f536af2d3df50",
+        "private": "true",
+        "filecount": "326"
+      },
+      {
+        "name": "returnengagement0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "returnengagement0000unse.epub",
+        "mtime": "1758246141",
+        "size": "12573458",
+        "md5": "7b075612dce8955ab9ea46b4beb84e18",
+        "crc32": "89a39e17",
+        "sha1": "b3dc420d67c4419497fd298d0d1f9f951ae8cc0f"
+      },
+      {
+        "name": "returnengagement0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593047371",
+        "size": "470",
+        "format": "JSON",
+        "private": "true",
+        "md5": "80c8ff484c7039f48fe85c90479eeccd",
+        "crc32": "0c81fdf9",
+        "sha1": "e9ea57bcecadd3e915133acebf0d0a2e92e917c6"
+      },
+      {
+        "name": "returnengagement0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1575544678",
+        "size": "3842",
+        "format": "MARC",
+        "md5": "18ea4d63d045ab6a3d872bf4e9ada086",
+        "crc32": "fd3fcbcc",
+        "sha1": "8fa69cac529ee152549f9685af695d0459d6a1a6"
+      },
+      {
+        "name": "returnengagement0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1575257445",
+        "size": "1138",
+        "md5": "98945e1b97e4f7168d3d0d87661c8ab9",
+        "crc32": "c70e14db",
+        "sha1": "57bbf4f7086162ab23195d359266630b93722b9f",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "returnengagement0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1575544639",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "7eb43c6c579a9560741742cd1bc26e5e",
+        "crc32": "414fa58f",
+        "sha1": "ca169ceff19e766196da1f847ea20862e3c258a9"
+      },
+      {
+        "name": "returnengagement0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1758246141",
+        "size": "2984",
+        "format": "Metadata",
+        "md5": "1e6a8a5f257af23fd2845a6bf288e2d6",
+        "crc32": "b76542bf",
+        "sha1": "bb314eebc47488345940c3a26021bc5ff42db413"
+      },
+      {
+        "name": "returnengagement0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1575544638",
+        "size": "323471360",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "02b20607df60e7d4cf04cb2002cfec41",
+        "crc32": "4607f9bb",
+        "sha1": "70547bec79456ec4c066fe32ecf456b8bd3f8b7a",
+        "filecount": "326"
+      },
+      {
+        "name": "returnengagement0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "returnengagement0000unse_hocr.html",
+        "mtime": "1722099015",
+        "size": "55344",
+        "md5": "b7914c826b63251ca9358488c760e387",
+        "crc32": "9534d48f",
+        "sha1": "1a16b56182de4099b09f18544ef48bc2e82618a4",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671113590",
+        "size": "333157",
+        "format": "Scandata",
+        "md5": "2d8442b0fe3288cc83a911e492b7ee87",
+        "crc32": "2804e204",
+        "sha1": "0a3ded46e258110169c6fcc1bb5b6cebbc09f113"
+      },
+      {
+        "name": "returnengagement0000unse_slip.png",
+        "source": "original",
+        "mtime": "1575253314",
+        "size": "39222",
+        "md5": "e5221b9b043192f5e14b9ee59e761865",
+        "crc32": "4dfac453",
+        "sha1": "79790ba126b545137039bb832487da0393c25cd8",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "returnengagement0000unse_slip.png",
+        "mtime": "1575544681",
+        "size": "5800",
+        "md5": "8ec5c0d7b0782e0e96774b030d214e66",
+        "crc32": "cad23cdf",
+        "sha1": "4f87e22fd93c42b9e06b7e10bb2d1c141d98af2d",
+        "private": "true"
+      },
+      {
+        "name": "returnengagement0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "returnengagement0000unse_djvu.xml",
+        "mtime": "1671113552",
+        "size": "588",
+        "md5": "8d32abc04953bd4ba7abd94cad1ce501",
+        "crc32": "7755f8c1",
+        "sha1": "dcfa2c6b71f5c512258a6a11df1d68d7cfb34561",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1758246141,
+    "item_size": 561953497,
+    "metadata": {
+      "identifier": "returnengagement0000unse",
+      "associated-names": "Quad City Symphony Orchestra Association (Davenport, Iowa). Junior Board",
+      "boxid": "IA1718418",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "1989-01-01",
+      "description": [
+        "303 pages : 26 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "0962173304",
+        "9780962173301"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA15388",
+      "openlibrary_edition": "OL11693098M",
+      "openlibrary_work": "OL9712047W",
+      "operator": "associate-famelajean-sipolo@archive.org",
+      "ppi": "300",
+      "publisher": "Davenport, Iowa : Junior Board",
+      "repub_state": "19",
+      "scanner": "station01.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780962173301",
+      "subject": "Cooking",
+      "title": "Return engagement : a collection of recipes",
+      "tts_version": "3.1-initial-268-ge641e8b",
+      "uploader": "station01.cebu@archive.org",
+      "addeddate": "2019-12-02 02:21:55",
+      "publicdate": "2019-12-02 02:22:11",
+      "access-restricted-item": "true",
+      "imagecount": "326",
+      "scandate": "20191202040731",
+      "republisher_operator": "associate-lyn-pestano@gmail.com",
+      "republisher_date": "20191205191622",
+      "republisher_time": "1030",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/returnengagement0000unse",
+      "identifier-ark": "ark:/13960/t08x1j34v",
+      "bookplateleaf": "0004",
+      "external-identifier": [
+        "urn:acs6:returnengagement0000unse:epub:7f84631f-dc85-4cb7-9815-c7d051b05eb3",
+        "urn:acs6:returnengagement0000unse:pdf:3147dc47-81d0-474a-8924-31f8fa954642",
+        "urn:oclc:record:1151151426",
+        "urn:lcp:returnengagement0000unse:lcpdf:5054c921-ece3-4fc4-82b3-ced8cd4be0f9",
+        "urn:lcp:returnengagement0000unse:epub:441c37d4-bfdc-40c1-97fb-67a457c9fa03"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191231",
+      "backup_location": "ia907007_32",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia802809.us.archive.org",
+    "uniq": 742146802,
+    "workable_servers": [
+      "ia802809.us.archive.org",
+      "ia902809.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

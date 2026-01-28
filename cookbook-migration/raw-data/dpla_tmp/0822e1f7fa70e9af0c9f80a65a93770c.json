@@ -1,0 +1,111 @@
+{
+  "source": "dpla",
+  "id": "0822e1f7fa70e9af0c9f80a65a93770c",
+  "identifier": "0822e1f7fa70e9af0c9f80a65a93770c",
+  "title": "Cook book",
+  "subject": [
+    "Cookbooks--Michigan--Flint",
+    "Cooking, American",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan",
+    "Flint"
+  ],
+  "description": "OSU's c.1 part of the Peter D. Franklin cookbook collection.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/101672856",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1953,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/0822e1f7fa70e9af0c9f80a65a93770c#SourceResource",
+      "contributor": [
+        "St. Paul Lutheran Church (Flint, Mich.)"
+      ],
+      "date": [
+        {
+          "displayDate": "1953]"
+        }
+      ],
+      "description": [
+        "OSU's c.1 part of the Peter D. Franklin cookbook collection."
+      ],
+      "extent": [
+        "183 p. ; 22 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-osu.b50188847",
+        ".b50188847",
+        "(OCoLC)40254833",
+        "Hathi: 101672856"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "[Flint, Mich. : St. Paul Lutheran Church"
+      ],
+      "rights": [
+        "Public domain only when viewed in the US. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Flint"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cookbooks--Michigan--Flint"
+        },
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "Cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1953-01-01",
+      "normalized_dates": [
+        "1953-01-01"
+      ]
+    }
+  },
+  "data": {
+    "isShownAt": "http://catalog.hathitrust.org/Record/101672856"
+  },
+  "location": {
+    "state": "Michigan",
+    "city": "St. Paul"
+  },
+  "curation": {
+    "score": 7,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Lutheran"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church, Lutheran; Digitized scan available"
+}

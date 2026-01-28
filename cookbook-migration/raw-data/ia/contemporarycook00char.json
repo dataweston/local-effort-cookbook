@@ -1,0 +1,756 @@
+{
+  "source": "internet_archive",
+  "identifier": "contemporarycook00char",
+  "title": "Contemporary cooking",
+  "creator": "Charlton, James. edt",
+  "year": 1984,
+  "subject": null,
+  "description": [
+    "Manjka 9. zv",
+    "Kazalo na koncu vsakega zvezka",
+    "Vol. 1. - cop. 1984. - 109 str. -- Vol. 2. - cop. 1984. - 109 str. -- Vol. 3. - cop. 1984. - 109 str. -- Vol. 4. - cop. 1984. - 109 str. -- Vol. 5. - cop. 1985. - 109 str. -- Vol. 6. - cop. 1985. - 109 str. -- Vol. 7. - cop. 1985. - 109 str. -- Vol. 8. - cop. 1985. - 109 str. -- Vol. 10. - 1985. - 109 str. -- Vol. 11. - cop. 1985. - 109 str. -- Vol. 12. - cop. 1985. - 109 str"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/contemporarycook00char"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/contemporarycook00char"
+        }
+      ]
+    },
+    "created": 1758556830,
+    "d1": "ia600200.us.archive.org",
+    "d2": "ia800200.us.archive.org",
+    "dir": "/1/items/contemporarycook00char",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659789134",
+        "size": "21026",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "059e74a4a5cb2fbef34b7f11f8f218cd",
+        "crc32": "d007f197",
+        "sha1": "b791f4625501e4d8f8f6f7ef436d0a41a5dbae6a"
+      },
+      {
+        "name": "contemporarycook00char.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "contemporarycook00char_hocr.html",
+        "mtime": "1755612666",
+        "size": "29325442",
+        "private": "true",
+        "md5": "47c3c3361f35e8527d065ea2e6e1cb45",
+        "crc32": "3a68f57d",
+        "sha1": "e0c8a1a26f27258ca47198feb7eddc053ea0848e"
+      },
+      {
+        "name": "contemporarycook00char.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "contemporarycook00char_jp2.zip",
+        "md5": "7b6c5b626c22fc8c4376434533f1c5c8",
+        "mtime": "1275715055",
+        "size": "247965",
+        "crc32": "ec847699",
+        "sha1": "79e1e46d845e2768a07c44429158112d5ef225ff"
+      },
+      {
+        "name": "contemporarycook00char.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "contemporarycook00char.pdf",
+        "mtime": "1755612396",
+        "size": "9078599",
+        "md5": "ddb257c48ba87090af92b7e5ba10a7cb",
+        "crc32": "8826e678",
+        "sha1": "9e7e01bf6a9dd3092cf2d2ec815a86d65cd1de59"
+      },
+      {
+        "name": "contemporarycook00char.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "contemporarycook00char_page_numbers.json",
+        "mtime": "1719009176",
+        "size": "8639342",
+        "md5": "df714ad721a619b7218fce6df22508a9",
+        "crc32": "d07e6fb2",
+        "sha1": "2840532a5adfe9d8399223e3ece02e5b108900e2",
+        "private": "true"
+      },
+      {
+        "name": "contemporarycook00char_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "contemporarycook00char_jp2.zip",
+        "md5": "a9449fa0795648788fa8d6928e8acda0",
+        "mtime": "1275718495",
+        "size": "3617944",
+        "crc32": "dca81b8e",
+        "sha1": "e09f4aa9845f6efb00aa6d5d989a82a1dfb82525",
+        "private": "true"
+      },
+      {
+        "name": "contemporarycook00char_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "contemporarycook00char_page_numbers.json",
+        "mtime": "1719009177",
+        "size": "6916729",
+        "md5": "8c01a88896ca442a3bd45c67f3c74afe",
+        "crc32": "fc51ad13",
+        "sha1": "f347f23e4310ee09789f5e58c692acc01f2fa856",
+        "private": "true"
+      },
+      {
+        "name": "contemporarycook00char_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "contemporarycook00char_abbyy.gz",
+        "mtime": "1659788593",
+        "size": "3048728",
+        "md5": "9a63cfd033d22e31f883d52598ff378f",
+        "crc32": "9c8b45d7",
+        "sha1": "07774435065f8ebdf559a6674a8297ba0fdea4a0",
+        "private": "true"
+      },
+      {
+        "name": "contemporarycook00char_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "contemporarycook00char_scandata.xml",
+        "mtime": "1669668874",
+        "size": "779",
+        "md5": "cb3a2a18fa375c77f41e18b4b0c7c9af",
+        "crc32": "2aaef36e",
+        "sha1": "0d366c4fedaebd6d8c709a2cb53b01893632f37b",
+        "private": "true"
+      },
+      {
+        "name": "contemporarycook00char_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "0bab4df4e49417531096b404a46f0834",
+        "mtime": "1274811540",
+        "size": "2358",
+        "crc32": "c5acab3f",
+        "sha1": "4090e3e5d1e6eda13640e87baf2b16b525ff0392"
+      },
+      {
+        "name": "contemporarycook00char_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "contemporarycook00char_djvu.xml",
+        "mtime": "1721764931",
+        "size": "291242",
+        "md5": "5c8230cc96979d6f1a872b13ac24ab97",
+        "crc32": "d55e2cfa",
+        "sha1": "74b1012b45691059513d009cd7f495ad2b68359b",
+        "private": "true"
+      },
+      {
+        "name": "contemporarycook00char_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "contemporarycook00char_hocr.html",
+        "mtime": "1721764929",
+        "size": "3571959",
+        "md5": "a341a50fe6440f454b1b39a19b7aa5c3",
+        "crc32": "9520011f",
+        "sha1": "110880999c4fbe84094d49d288a940371e7266a7",
+        "private": "true"
+      },
+      {
+        "name": "contemporarycook00char_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "contemporarycook00char.pdf",
+        "mtime": "1719009546",
+        "size": "8617714",
+        "md5": "231c5c02537dfbead79a7319b07ae1d9",
+        "crc32": "9b510831",
+        "sha1": "5a8bb16e7ffd7f2e8b1f72094e46afe4937ac4e0"
+      },
+      {
+        "name": "contemporarycook00char_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "0167ac651491ea84d3de153e71488582",
+        "summation": "md5"
+      },
+      {
+        "name": "contemporarycook00char_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "contemporarycook00char_chocr.html.gz",
+        "mtime": "1659788862",
+        "size": "6999806",
+        "md5": "7fdaf753b818811004e49aaa7c6c7701",
+        "crc32": "219a4ebd",
+        "sha1": "639348064369744def5c5d01e0afb8616d50a07b",
+        "private": "true"
+      },
+      {
+        "name": "contemporarycook00char_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "contemporarycook00char_hocr.html",
+        "mtime": "1659789053",
+        "size": "1540",
+        "md5": "81fde2d9ad32b6ba1e45a875cabe3658",
+        "crc32": "01285b6b",
+        "sha1": "97500340b61981761b497d7f9fc31027d789a499",
+        "private": "true"
+      },
+      {
+        "name": "contemporarycook00char_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1279",
+        "word_conf_11_20": "691",
+        "word_conf_21_30": "2255",
+        "word_conf_31_40": "1927",
+        "word_conf_41_50": "6579",
+        "word_conf_51_60": "8848",
+        "word_conf_61_70": "9579",
+        "word_conf_71_80": "5888",
+        "word_conf_81_90": "1779",
+        "word_conf_91_100": "4420",
+        "format": "OCR Search Text",
+        "original": "contemporarycook00char_hocr.html",
+        "mtime": "1659789109",
+        "size": "87643",
+        "md5": "e7bb64b389b581821ef9450824717ddd",
+        "crc32": "ff80f9c3",
+        "sha1": "d02de63f249d26609ee7edbc3cd602000857b584",
+        "private": "true"
+      },
+      {
+        "name": "contemporarycook00char_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "contemporarycook00char_orig_jp2.tar",
+        "md5": "4ab0f30b375d503b4b3a87e15d4c0a0c",
+        "mtime": "1275715027",
+        "size": "59079935",
+        "crc32": "28bae97e",
+        "sha1": "a631ae9080e7877d6e43d55b11d9f47d37f35ff8",
+        "private": "true",
+        "filecount": "134"
+      },
+      {
+        "name": "contemporarycook00char_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "contemporarycook00char.epub",
+        "mtime": "1755612693",
+        "size": "29467965",
+        "md5": "e79fab280632596e931f2debf66b7278",
+        "crc32": "2283cd3c",
+        "sha1": "77cb84e25824a336f5b51d70709f1fbb0e1dd448"
+      },
+      {
+        "name": "contemporarycook00char_loans.json",
+        "source": "original",
+        "mtime": "1593509312",
+        "size": "1022",
+        "format": "JSON",
+        "private": "true",
+        "md5": "c9e5aa3cc883dc73d3b8e1907e91389f",
+        "crc32": "ae06f513",
+        "sha1": "3eefb31e3948b170c64530e2a0520ae55843de2d"
+      },
+      {
+        "name": "contemporarycook00char_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "f24535154956c9affb90035928653414",
+        "mtime": "1274811540",
+        "size": "5307",
+        "crc32": "47bf4c44",
+        "sha1": "f64434dbd5f74acdb4f44b8ac80e5f12d07c0b8e"
+      },
+      {
+        "name": "contemporarycook00char_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "contemporarycook00char_xisbn.json",
+        "mtime": "1454274838",
+        "size": "821",
+        "md5": "e3c757c9edf589f86ea5f7789609d90f",
+        "crc32": "e027a31a",
+        "sha1": "3ef3dcbb3614b075e75044526cffd4ae7f97f57f",
+        "private": "true"
+      },
+      {
+        "name": "contemporarycook00char_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "6189096dde02b9d8193e70811f97399a",
+        "mtime": "1274811540",
+        "size": "1938",
+        "crc32": "3c789872",
+        "sha1": "c3db6304d284caf69c75e50aa7e36fc7a6acb198"
+      },
+      {
+        "name": "contemporarycook00char_meta.sqlite",
+        "source": "original",
+        "mtime": "1466227960",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "9469d27122ab21606f434e4a9b86a48c",
+        "crc32": "bf46230e",
+        "sha1": "0f3efcc4e1fa34495a403f6e3586933e435df6a0"
+      },
+      {
+        "name": "contemporarycook00char_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1755612693",
+        "size": "4684",
+        "md5": "53b6409d264889943a8011c3cfdee9a1",
+        "crc32": "d953f47e",
+        "sha1": "e8571e40a91ebba04094858cb6a20b40ef540bfb"
+      },
+      {
+        "name": "contemporarycook00char_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "e0823cf76d4a9495ce93c5c96b9b34da",
+        "mtime": "1274811540",
+        "size": "458",
+        "crc32": "ac0d4cd1",
+        "sha1": "0589276309476b7c559b1672e5f53aa02e590e90"
+      },
+      {
+        "name": "contemporarycook00char_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "206011293c6b0d3a0cecaaca9930dd49",
+        "mtime": "1275684150",
+        "size": "85053440",
+        "crc32": "26bca0ef",
+        "sha1": "883a335b795f32e6d361909f62e5984f86b45bf2",
+        "private": "true",
+        "filecount": "134"
+      },
+      {
+        "name": "contemporarycook00char_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "contemporarycook00char_hocr.html",
+        "mtime": "1719009176",
+        "size": "21550",
+        "md5": "91e017bdcab25d1c13445a4927e1fb31",
+        "crc32": "c46c4a69",
+        "sha1": "d34b694e60ef262cc459819167bbed896e743f76",
+        "private": "true"
+      },
+      {
+        "name": "contemporarycook00char_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "f9553c93a798e67189e21a1ac38f5d1e",
+        "mtime": "1669668874",
+        "size": "69411",
+        "crc32": "25d0231f",
+        "sha1": "0d4d0d09d2280a0723d9ae0cbb822106853747ce"
+      },
+      {
+        "name": "contemporarycook00char_xisbn.json",
+        "source": "original",
+        "mtime": "1454178163",
+        "size": "3476",
+        "md5": "23c283d745a3c56733679b3b869a81b3",
+        "crc32": "78164c9b",
+        "sha1": "69bafaa001e0e6f61fdde4a618f6693447b91a1e",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1755612693,
+    "item_size": 254184967,
+    "metadata": {
+      "title": "Contemporary cooking",
+      "creator": "Charlton, James. edt",
+      "description": [
+        "Manjka 9. zv",
+        "Kazalo na koncu vsakega zvezka",
+        "Vol. 1. - cop. 1984. - 109 str. -- Vol. 2. - cop. 1984. - 109 str. -- Vol. 3. - cop. 1984. - 109 str. -- Vol. 4. - cop. 1984. - 109 str. -- Vol. 5. - cop. 1985. - 109 str. -- Vol. 6. - cop. 1985. - 109 str. -- Vol. 7. - cop. 1985. - 109 str. -- Vol. 8. - cop. 1985. - 109 str. -- Vol. 10. - 1985. - 109 str. -- Vol. 11. - cop. 1985. - 109 str. -- Vol. 12. - cop. 1985. - 109 str"
+      ],
+      "publisher": "[S. l.] : Minnesota mining and manufacturing company",
+      "date": "1984-01-01",
+      "language": "eng",
+      "isbn": [
+        "0881590002",
+        "9780881590005",
+        "0881590010",
+        "9780881590012",
+        "0881590037",
+        "9780881590036",
+        "0881590045",
+        "9780881590043",
+        "0881590053",
+        "9780881590050",
+        "0881590061",
+        "9780881590067",
+        "088159007X",
+        "9780881590074",
+        "0881590096",
+        "9780881590098",
+        "088159010X",
+        "9780881590104",
+        "0881590118",
+        "9780881590111",
+        "0881595004",
+        "9780881595000"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA1491410",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sfdowntown",
+      "mediatype": "texts",
+      "updatedate": "2010-05-25 18:19:00",
+      "updater": "adriana.g@archive.org",
+      "identifier": "contemporarycook00char",
+      "uploader": "adriana.g@archive.org",
+      "addeddate": "2010-05-25 18:19:02",
+      "publicdate": "2010-05-25 18:19:05",
+      "ppi": "400",
+      "camera": "Canon 5D",
+      "operator": "scanner-tiffany-lawrence@archive.org",
+      "scanner": "scribe5.sfdowntown.archive.org",
+      "scandate": "20100604203620",
+      "imagecount": "132",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/contemporarycook00char",
+      "identifier-ark": "ark:/13960/t00z7vm5x",
+      "bookplateleaf": "0002",
+      "curatestate": "approved",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20100707153438[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:contemporarycook00char:pdf:c148a5e6-b72c-4c41-8513-39713afd0376",
+        "urn:acs6:contemporarycook00char:epub:cd43eae9-3801-414a-87ae-1c336a8f10eb",
+        "urn:oclc:record:1028567625",
+        "urn:lcp:contemporarycook00char:lcpdf:28c7cd2f-2732-4d39-acda-1fa9946e3566",
+        "urn:lcp:contemporarycook00char:epub:2f8bb462-ee37-4c9d-becf-6355a70b6081"
+      ],
+      "donor": "alibris",
+      "city": "[S. l.]",
+      "edition": "1st repr.",
+      "oclc-id": [
+        "440250585",
+        "444059597"
+      ],
+      "related-external-id": [
+        "urn:isbn:0881590037",
+        "urn:oclc:440250585",
+        "urn:oclc:444059597",
+        "urn:isbn:0881590029",
+        "urn:isbn:088159007X",
+        "urn:isbn:0881590096",
+        "urn:isbn:0881590045",
+        "urn:isbn:0881590118",
+        "urn:isbn:0881590061",
+        "urn:isbn:0881590010",
+        "urn:isbn:0881590053",
+        "urn:isbn:088159010X"
+      ],
+      "backup_location": "ia903605_18",
+      "openlibrary_edition": "OL11223545M",
+      "openlibrary_work": "OL16477328W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 21:12:14 UTC 2020",
+        "Wed Apr 3 0:01:09 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia600200.us.archive.org",
+    "uniq": 841996577,
+    "workable_servers": [
+      "ia600200.us.archive.org",
+      "ia800200.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/440250585?referer=xid"
+          ],
+          "publisher": "Minnesota mining and manufacturing company",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[S. l.]",
+          "author": "[editor-in-chief James Charlton].",
+          "ed": "1st repr.",
+          "year": "1984",
+          "isbn": [
+            "0881590002"
+          ],
+          "title": "Contemporary cooking",
+          "oclcnum": [
+            "440250585",
+            "444059597"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/440250585?referer=xid"
+          ],
+          "publisher": "Minnesota mining and manufacturing company",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[S. l.]",
+          "author": "[editor-in-chief James Charlton].",
+          "ed": "1st repr.",
+          "year": "1984",
+          "isbn": [
+            "0881590037"
+          ],
+          "title": "Contemporary cooking",
+          "oclcnum": [
+            "440250585",
+            "444059597"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/444059597?referer=xid"
+          ],
+          "publisher": "Marshall Cavendisch",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[London]",
+          "author": "[editorin-chief James Charlton].",
+          "ed": "1st repr.",
+          "year": "1985",
+          "isbn": [
+            "0881590029"
+          ],
+          "title": "Contemporary cooking",
+          "oclcnum": [
+            "444059597"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/440250585?referer=xid"
+          ],
+          "publisher": "Minnesota mining and manufacturing company",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[S. l.]",
+          "author": "[editor-in-chief James Charlton].",
+          "year": "1984",
+          "isbn": [
+            "088159007X"
+          ],
+          "title": "Contemporary cooking",
+          "oclcnum": [
+            "440250585"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/440250585?referer=xid"
+          ],
+          "publisher": "Minnesota mining and manufacturing company",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[S. l.]",
+          "author": "[editor-in-chief James Charlton].",
+          "year": "1984",
+          "isbn": [
+            "0881590096"
+          ],
+          "title": "Contemporary cooking",
+          "oclcnum": [
+            "440250585"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/440250585?referer=xid"
+          ],
+          "publisher": "Minnesota mining and manufacturing company",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[S. l.]",
+          "author": "[editor-in-chief James Charlton].",
+          "ed": "1st repr.",
+          "year": "1984",
+          "isbn": [
+            "0881590045"
+          ],
+          "title": "Contemporary cooking",
+          "oclcnum": [
+            "440250585",
+            "444059597"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/440250585?referer=xid"
+          ],
+          "publisher": "Minnesota mining and manufacturing company",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[S. l.]",
+          "author": "[editor-in-chief James Charlton].",
+          "year": "1984",
+          "isbn": [
+            "0881590118"
+          ],
+          "title": "Contemporary cooking",
+          "oclcnum": [
+            "440250585"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/440250585?referer=xid"
+          ],
+          "publisher": "Minnesota mining and manufacturing company",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[S. l.]",
+          "author": "[editor-in-chief James Charlton].",
+          "year": "1984",
+          "isbn": [
+            "0881590061"
+          ],
+          "title": "Contemporary cooking",
+          "oclcnum": [
+            "440250585"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/440250585?referer=xid"
+          ],
+          "publisher": "Minnesota mining and manufacturing company",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[S. l.]",
+          "author": "[editor-in-chief James Charlton].",
+          "ed": "1st repr.",
+          "year": "1984",
+          "isbn": [
+            "0881590010"
+          ],
+          "title": "Contemporary cooking",
+          "oclcnum": [
+            "440250585",
+            "444059597"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/440250585?referer=xid"
+          ],
+          "publisher": "Minnesota mining and manufacturing company",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[S. l.]",
+          "author": "[editor-in-chief James Charlton].",
+          "year": "1984",
+          "isbn": [
+            "0881590053"
+          ],
+          "title": "Contemporary cooking",
+          "oclcnum": [
+            "440250585"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/440250585?referer=xid"
+          ],
+          "publisher": "Minnesota mining and manufacturing company",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "[S. l.]",
+          "author": "[editor-in-chief James Charlton].",
+          "year": "1984",
+          "isbn": [
+            "088159010X"
+          ],
+          "title": "Contemporary cooking",
+          "oclcnum": [
+            "440250585"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Charlton, James. edt",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Minnesota"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Minnesota; Digitized scan available"
+}

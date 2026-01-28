@@ -1,0 +1,585 @@
+{
+  "source": "internet_archive",
+  "identifier": "bundtclassicscoo00nord",
+  "title": "Bundt classics",
+  "creator": "Dalquist, Dorothy",
+  "year": 2003,
+  "subject": [
+    "Cake",
+    "Cooking"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/bundtclassicscoo00nord"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/bundtclassicscoo00nord"
+        }
+      ]
+    },
+    "created": 1758556764,
+    "d1": "ia600206.us.archive.org",
+    "d2": "ia800206.us.archive.org",
+    "dir": "/34/items/bundtclassicscoo00nord",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659333390",
+        "size": "12911",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "378b93c39b77eb1c8a88ebebfe5cae76",
+        "crc32": "0c0cf739",
+        "sha1": "290d25b1367172a7fdc4116da691017ecb805f45"
+      },
+      {
+        "name": "bundtclassicscoo00nord.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "bundtclassicscoo00nord_hocr.html",
+        "mtime": "1753108408",
+        "size": "5465231",
+        "private": "true",
+        "md5": "ff0c8a019c6a61fffb34602e2bbeb3ec",
+        "crc32": "0d6a9a1f",
+        "sha1": "76443ad49eaba2b67fec4ce91e9c9dbb867fbec7"
+      },
+      {
+        "name": "bundtclassicscoo00nord.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "bundtclassicscoo00nord_jp2.zip",
+        "mtime": "1349026239",
+        "size": "282658",
+        "md5": "92cb1bd5765b8a5a87f2ce0d2a57b247",
+        "crc32": "e338b4ae",
+        "sha1": "4163a91ac909b489e306b92e4989a6000d0a8608"
+      },
+      {
+        "name": "bundtclassicscoo00nord.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "bundtclassicscoo00nord.pdf",
+        "mtime": "1753108271",
+        "size": "9498071",
+        "md5": "ac52f99fa51c83fd882c642c03af091e",
+        "crc32": "0dff8e63",
+        "sha1": "88b967405a705f20304464d5329c3c58e759a46b"
+      },
+      {
+        "name": "bundtclassicscoo00nord.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "bundtclassicscoo00nord_page_numbers.json",
+        "mtime": "1717854764",
+        "size": "9082497",
+        "md5": "ee866662498015ce2cfb532e81b40000",
+        "crc32": "c3394753",
+        "sha1": "8c0af7c5d74d3d9f61e1ab0c5b829b43397b75a7",
+        "private": "true"
+      },
+      {
+        "name": "bundtclassicscoo00nord.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1340726743",
+        "size": "498408",
+        "md5": "0e4c99e1946c36152d339ea6370fc7aa",
+        "crc32": "ad553a3f",
+        "sha1": "e7721be3b68ddf047c12cfb631ef8e618a27dc55"
+      },
+      {
+        "name": "bundtclassicscoo00nord.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "bundtclassicscoo00nord.warc.gz",
+        "mtime": "1349023483",
+        "size": "6474",
+        "md5": "85384337df4745044cbf2557ae5d126e",
+        "crc32": "fe4e1054",
+        "sha1": "517cf9857aa7c2089181375ff8ad3e0618f94867",
+        "private": "true"
+      },
+      {
+        "name": "bundtclassicscoo00nord_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "bundtclassicscoo00nord_jp2.zip",
+        "mtime": "1349027358",
+        "size": "2379386",
+        "md5": "bb303ceec9ba10abcce7b8239b80e79a",
+        "crc32": "f71bb785",
+        "sha1": "7cc0f14cc1de14ddb283b0f4598bb3e3f3f6ea7d",
+        "private": "true"
+      },
+      {
+        "name": "bundtclassicscoo00nord_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "bundtclassicscoo00nord_abbyy.gz",
+        "mtime": "1659333063",
+        "size": "2015472",
+        "md5": "fa1f13ce4588ae307b0173a1cefd5375",
+        "crc32": "ddd0ddac",
+        "sha1": "eb2831c28e111eea8b2722d8f55b1d4616385b00",
+        "private": "true"
+      },
+      {
+        "name": "bundtclassicscoo00nord_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "bundtclassicscoo00nord_scandata.xml",
+        "mtime": "1669501021",
+        "size": "779",
+        "md5": "1b30a0b7ce4e872c8fc6fa580af077b3",
+        "crc32": "4ef7fea8",
+        "sha1": "4c2a5905ddb70e6385755f8f30ff10191c3a066e",
+        "private": "true"
+      },
+      {
+        "name": "bundtclassicscoo00nord_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1509970469",
+        "size": "1153",
+        "md5": "db4e899e6720f0f364226bb97b3e0194",
+        "crc32": "6dc660aa",
+        "sha1": "6d43d18188a2ea3b820bd4dc11cf048f42040e17"
+      },
+      {
+        "name": "bundtclassicscoo00nord_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "bundtclassicscoo00nord_djvu.xml",
+        "mtime": "1719204674",
+        "size": "185229",
+        "md5": "211108129ca3f510f02c603d9d19d9b5",
+        "crc32": "059f9fa5",
+        "sha1": "77b8bdc8c6d67297131fdf39f623a282d561f344",
+        "private": "true"
+      },
+      {
+        "name": "bundtclassicscoo00nord_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "bundtclassicscoo00nord_hocr.html",
+        "mtime": "1719204671",
+        "size": "2375784",
+        "md5": "8bb42bbdd05351cf8528a98f24e5d4c5",
+        "crc32": "b8869f78",
+        "sha1": "8ae8e9fea7a09e307fc11c34881fd3c64e01b304",
+        "private": "true"
+      },
+      {
+        "name": "bundtclassicscoo00nord_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "bundtclassicscoo00nord.pdf",
+        "mtime": "1717855164",
+        "size": "9048037",
+        "md5": "7451e93a6edb19a4b8f08bd7c6b4d3ff",
+        "crc32": "b5090210",
+        "sha1": "4910c924eb36b3ddef7e5e08714f5be19d31e895"
+      },
+      {
+        "name": "bundtclassicscoo00nord_extramarc.xml",
+        "source": "original",
+        "mtime": "1396864556",
+        "size": "3844",
+        "md5": "6406cb9368b4fb1bf151db7380c176c9",
+        "crc32": "ca7e0dea",
+        "sha1": "9df0d94c6c6488bb1589f7f0db75018dd183b398",
+        "format": "Metadata"
+      },
+      {
+        "name": "bundtclassicscoo00nord_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "85315a25d7d35ac6aecdaa9098a52779",
+        "summation": "md5"
+      },
+      {
+        "name": "bundtclassicscoo00nord_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "bundtclassicscoo00nord_chocr.html.gz",
+        "mtime": "1659333216",
+        "size": "4541321",
+        "md5": "44f06640e03e2ba452da51e712b166a6",
+        "crc32": "91b87127",
+        "sha1": "b1f44525abaca0bfade98ad741ff31c4ed7afb7d",
+        "private": "true"
+      },
+      {
+        "name": "bundtclassicscoo00nord_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "bundtclassicscoo00nord_hocr.html",
+        "mtime": "1659333305",
+        "size": "2407",
+        "md5": "6ba6ea5ed7a6469aba00aae88662e8ba",
+        "crc32": "5d5eeafd",
+        "sha1": "3254138b18b0b0100bf01f8f117dad1a2ff2932c",
+        "private": "true"
+      },
+      {
+        "name": "bundtclassicscoo00nord_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1083",
+        "word_conf_11_20": "810",
+        "word_conf_21_30": "2762",
+        "word_conf_31_40": "2209",
+        "word_conf_41_50": "4436",
+        "word_conf_51_60": "5093",
+        "word_conf_61_70": "4962",
+        "word_conf_71_80": "2906",
+        "word_conf_81_90": "1083",
+        "word_conf_91_100": "1950",
+        "format": "OCR Search Text",
+        "original": "bundtclassicscoo00nord_hocr.html",
+        "mtime": "1659333367",
+        "size": "34739",
+        "md5": "b74fc5e58c9719800bde00ead85eed1b",
+        "crc32": "5058d210",
+        "sha1": "74d627e6750d2605b50cd0dc42f2733b1347e2f7",
+        "private": "true"
+      },
+      {
+        "name": "bundtclassicscoo00nord_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "bundtclassicscoo00nord_orig_jp2.tar",
+        "mtime": "1349026215",
+        "size": "51602499",
+        "md5": "ee096549a15c0ebccef61ac78aa3a284",
+        "crc32": "e69265a3",
+        "sha1": "8c183fd6be70deb3227c83b997e2185bed12512c",
+        "private": "true",
+        "filecount": "214"
+      },
+      {
+        "name": "bundtclassicscoo00nord_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "bundtclassicscoo00nord.epub",
+        "mtime": "1753108584",
+        "size": "5489287",
+        "md5": "66aa5c9933734dc9cb83d2c58eadfa45",
+        "crc32": "8b0f234c",
+        "sha1": "2694e5b1418dde757b17a0d061f26d1eb17d86c0"
+      },
+      {
+        "name": "bundtclassicscoo00nord_loans.json",
+        "source": "original",
+        "mtime": "1593412398",
+        "size": "8776",
+        "format": "JSON",
+        "private": "true",
+        "md5": "d1202aeba5e87691fb432cdf3bf3cf3a",
+        "crc32": "eed7d6b8",
+        "sha1": "9c65c0c385b9a351e76db40258312db87d925813"
+      },
+      {
+        "name": "bundtclassicscoo00nord_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1509970469",
+        "size": "4036",
+        "md5": "039707154adeb0bb714def7c523dbfd5",
+        "crc32": "82c09a08",
+        "sha1": "e31e29536223eb8436fd6edc6bfb1e39169a993f"
+      },
+      {
+        "name": "bundtclassicscoo00nord_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "bundtclassicscoo00nord_xisbn.json",
+        "mtime": "1454283244",
+        "size": "377",
+        "md5": "fed70a14233bbfed96f96ea7f1271dbf",
+        "crc32": "bd13d409",
+        "sha1": "620c66d69ba7a8929d43257484f6f65764442538",
+        "private": "true"
+      },
+      {
+        "name": "bundtclassicscoo00nord_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454283243",
+        "size": "1102",
+        "md5": "919e375440a3c25572a0781f362d5c89",
+        "crc32": "4ecf8f42",
+        "sha1": "bdba7162ad0772d8e5daabf8afa3944151eed3e2"
+      },
+      {
+        "name": "bundtclassicscoo00nord_meta.sqlite",
+        "source": "original",
+        "mtime": "1466806523",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "34ab4b8fba5436191013961509d1df62",
+        "crc32": "d834e2af",
+        "sha1": "9b22a94b1659a68b5210e2efc3f362cdbfe904e0"
+      },
+      {
+        "name": "bundtclassicscoo00nord_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753108585",
+        "size": "3446",
+        "md5": "6c3679d5330e43b5daea0dc72e586e36",
+        "crc32": "7962b59f",
+        "sha1": "df2ab4b2213e9e3242d91adac038c58024d72967"
+      },
+      {
+        "name": "bundtclassicscoo00nord_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1340726743",
+        "size": "301",
+        "md5": "1b2c08b36c0364a3ce2b77250f4b2158",
+        "crc32": "1643c672",
+        "sha1": "a49e7ba23a3561c84bca0642095299abc0997d8d"
+      },
+      {
+        "name": "bundtclassicscoo00nord_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1347559403",
+        "size": "100823040",
+        "md5": "84f11489de873afeb7592c54cc42586f",
+        "crc32": "3bde23bd",
+        "sha1": "7e9e81c16722f51dea16e68b84f751d45138eec8",
+        "private": "true",
+        "filecount": "214"
+      },
+      {
+        "name": "bundtclassicscoo00nord_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "bundtclassicscoo00nord_hocr.html",
+        "mtime": "1717854763",
+        "size": "36091",
+        "md5": "6c69a41f37134c8a59521d49de8a6bcf",
+        "crc32": "38b3fc02",
+        "sha1": "1a633c19a177884f193e417dffc3339350f25cd9",
+        "private": "true"
+      },
+      {
+        "name": "bundtclassicscoo00nord_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669501021",
+        "size": "214099",
+        "md5": "84dd14e59cb0301515a2a6b3cd688164",
+        "crc32": "c4d528cc",
+        "sha1": "7fe1f9b8af02e895c513e6c3618bb688aa474ff9"
+      },
+      {
+        "name": "bundtclassicscoo00nord_xisbn.json",
+        "source": "original",
+        "mtime": "1454118052",
+        "size": "556",
+        "md5": "7ccc08c3895f09769a284cc0ee57faf8",
+        "crc32": "521ce9af",
+        "sha1": "6ae9c20a0bfdd365dcd321c369e4657fa8b4425a",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753108585,
+    "item_size": 203624155,
+    "metadata": {
+      "isbn": [
+        "0974460508",
+        "9780974460505",
+        "0974460516",
+        "9780974460512"
+      ],
+      "title": "Bundt classics",
+      "creator": [
+        "Dalquist, Dorothy",
+        "Nordic Ware (Firm)"
+      ],
+      "publisher": "Minneapolis, MN : Nordic Ware",
+      "date": "2003-01-01",
+      "external-identifier": [
+        "urn:asin:0974460508",
+        "urn:acs6:bundtclassicscoo00nord:pdf:9787be9c-652f-4230-922e-c8221dff78d5",
+        "urn:acs6:bundtclassicscoo00nord:epub:4cff6cc1-23a3-434b-8017-c70c242f35bc",
+        "urn:oclc:record:1028866537",
+        "urn:lcp:bundtclassicscoo00nord:lcpdf:b4d42fd4-6c40-4274-ae58-9976ce986b84",
+        "urn:lcp:bundtclassicscoo00nord:epub:f657bd5e-0753-4f4a-8660-49f078dd7207"
+      ],
+      "updatedate": "2012-06-26 16:05:41",
+      "updater": "associate-lotu-tii@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA156924",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "shenzhen",
+      "sponsor": "Internet Archive",
+      "identifier": "bundtclassicscoo00nord",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2012-06-26 16:05:45",
+      "publicdate": "2012-06-26 16:05:49",
+      "repub_state": "4",
+      "repub_seconds": "746",
+      "ppi": "500",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-sen@archive.org",
+      "scanner": "scribe23.shenzhen.archive.org",
+      "scandate": "20120822213750",
+      "republisher": "scanner-shenzhen-thomas@archive.org",
+      "imagecount": "214",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/bundtclassicscoo00nord",
+      "identifier-ark": "ark:/13960/t5s76ms2q",
+      "bookplateleaf": "0002",
+      "ocr": "ABBYY FineReader 8.0",
+      "scanfee": "125",
+      "donor": "internetarchivebookdrive",
+      "sponsordate": "not to be invoiced-past billing period",
+      "extramarc": "University of Alberta Libraries",
+      "boxid_2": "CH129007",
+      "containerid_2": "X0008",
+      "subject": [
+        "Cake",
+        "Cooking",
+        "Cake",
+        "Cooking"
+      ],
+      "description": "Includes index",
+      "city": "Minneapolis, MN",
+      "oclc-id": "56392015",
+      "related-external-id": [
+        "urn:isbn:0974460516",
+        "urn:oclc:56392015"
+      ],
+      "backup_location": "ia903805_24",
+      "republisher_operator": "scanner-shenzhen-thomas@archive.org",
+      "republisher_date": "20120913175103",
+      "openlibrary_edition": "OL8582475M",
+      "openlibrary_work": "OL18154232W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "filesxml": "Tue Apr 2 22:45:24 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800206.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA-MC-1200004",
+              "IA-MC-0000116",
+              "IA-MC-0000010",
+              "IA-MC-1300034",
+              "IA-MC-1300037"
+            ],
+            "num_copies": 5
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 04:08:56.65014"
+        }
+      }
+    },
+    "uniq": 1439226495,
+    "workable_servers": [
+      "ia800206.us.archive.org",
+      "ia600206.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/56392015?referer=xid"
+          ],
+          "publisher": "Nordic Ware",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Minneapolis, MN",
+          "author": "[Dorothy Dalquist, author].",
+          "year": "2003",
+          "isbn": [
+            "0974460508"
+          ],
+          "title": "Bundt classics",
+          "oclcnum": [
+            "56392015"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/56392015?referer=xid"
+          ],
+          "publisher": "Nordic Ware",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Minneapolis, MN",
+          "author": "[Dorothy Dalquist, author].",
+          "year": "2003",
+          "isbn": [
+            "0974460516"
+          ],
+          "title": "Bundt classics",
+          "oclcnum": [
+            "56392015"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Dalquist, Dorothy",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

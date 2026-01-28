@@ -1,0 +1,281 @@
+{
+  "source": "internet_archive",
+  "identifier": "optimizing-gula-apong-production-with-an-iot-based-temperature-monitoring-system",
+  "title": "Optimizing gula apong production with an IoT-based temperature monitoring system",
+  "creator": "Shafrida Sahrani, Dayang Azra Awang Mat, Dyg Norkhairunnisa Abang Zaidel, Kismet Anak Hong Ping",
+  "year": 2024,
+  "subject": [
+    "Internet of Things (IoT)",
+    "Smart Agri-food",
+    "Gula Apong",
+    "Remote Management",
+    "Temperature Monitoring"
+  ],
+  "description": "Determining the quality of  gula apong  is crucial to optimizing its production, with cooking temperature being a key factor affecting both taste and shelf life. The  gula apong  industry faced challenges due to the lack of reliable real-time temperature monitoring methods during the cooking process. Traditional approaches were inefficient and inaccurate, leading to difficulties in maintaining consistent product quality and meeting market demands. This highlights the necessity of monitoring the temperature throughout each cooking process. This research aims to develop an internet of things (IoT)- based cooking temperature monitoring system to enhance quality control measures in the production of  gula apong . The IoT prototype collects temperature data from the thermocouple sensor, then transmits it to cloud storage through a Wi-Fi communication network, utilizing the Node-RED platform for data processing and analysis. Data obtained from the on-site measurement shows that the optimal temperature for producing standard-quality  gula apong  is approximately around 165 °C. The recommended boiling temperature for Nipah sap is 140 °C. This IoT system can reduce the cooking time of  gula apong  to 3 hours from the traditional 4 to 6 hours. Utilizing the data acquired from this study helps the producers not only maintaining the quality of  gula apong  but also reduce the cooking time and cost.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720701.ca.archive.org",
+          "dir": "/0/items/optimizing-gula-apong-production-with-an-iot-based-temperature-monitoring-system"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720701.ca.archive.org",
+          "dir": "/0/items/optimizing-gula-apong-production-with-an-iot-based-temperature-monitoring-system"
+        }
+      ]
+    },
+    "created": 1758555262,
+    "d1": "ia601502.us.archive.org",
+    "d2": "ia801502.us.archive.org",
+    "dir": "/6/items/optimizing-gula-apong-production-with-an-iot-based-temperature-monitoring-system",
+    "files": [
+      {
+        "name": "36393-74545-1-PB.pdf",
+        "source": "original",
+        "mtime": "1745485003",
+        "size": "638296",
+        "md5": "b4927ddbe2ee736736a7216859a97fe1",
+        "crc32": "5acf1be7",
+        "sha1": "a7115baff1e7a8e0f607138c44eff0c0839fbda7",
+        "format": "Text PDF",
+        "viruscheck": "1745485364"
+      },
+      {
+        "name": "36393-74545-1-PB_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "36393-74545-1-PB_jp2.zip",
+        "mtime": "1745485589",
+        "size": "513212",
+        "md5": "079ba352c8b90ec249cea8acc5804387",
+        "crc32": "a85e4433",
+        "sha1": "ed2afa95bb4e13fd07bea82e03c8074b4a98045a"
+      },
+      {
+        "name": "36393-74545-1-PB_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "36393-74545-1-PB_djvu.xml",
+        "mtime": "1745486636",
+        "size": "40515",
+        "md5": "a2e2712301364a5f03daf0088cd5f9fd",
+        "crc32": "7b6e4109",
+        "sha1": "f1776bbf5186cccfd7a3435736d535d2bfac7e99"
+      },
+      {
+        "name": "36393-74545-1-PB_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "36393-74545-1-PB_hocr.html",
+        "mtime": "1745485958",
+        "size": "462410",
+        "md5": "03ef417e08abcaa17397f8b774eab5ce",
+        "crc32": "e7ca3275",
+        "sha1": "10fdb363eb6b22d29a2f420b8ad1ab3746080e53"
+      },
+      {
+        "name": "36393-74545-1-PB_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "36393-74545-1-PB_chocr.html.gz",
+        "mtime": "1745485880",
+        "size": "833715",
+        "md5": "769229f1b08b5fb0d9e710cae9372936",
+        "crc32": "e4977596",
+        "sha1": "ee7bd353b3153eddccebe0b9f54b73d298f955be"
+      },
+      {
+        "name": "36393-74545-1-PB_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "36393-74545-1-PB_hocr.html",
+        "mtime": "1745486016",
+        "size": "151",
+        "md5": "e37a17cddb1279a358c34767d7177c5c",
+        "crc32": "441444be",
+        "sha1": "8b38f0896ab5bdb6212b2578e2a517488019cfd5"
+      },
+      {
+        "name": "36393-74545-1-PB_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "11",
+        "word_conf_11_20": "8",
+        "word_conf_21_30": "7",
+        "word_conf_31_40": "16",
+        "word_conf_41_50": "13",
+        "word_conf_51_60": "14",
+        "word_conf_61_70": "23",
+        "word_conf_71_80": "35",
+        "word_conf_81_90": "196",
+        "word_conf_91_100": "5530",
+        "format": "OCR Search Text",
+        "original": "36393-74545-1-PB_hocr.html",
+        "mtime": "1745486185",
+        "size": "13903",
+        "md5": "92fbb3e4299f6b8ae27911bfdcb0ce7b",
+        "crc32": "7d68acaf",
+        "sha1": "a1dc31dc5e8813872e84cf75a3c575eaec2d6b60"
+      },
+      {
+        "name": "36393-74545-1-PB_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "36393-74545-1-PB.pdf",
+        "mtime": "1745485456",
+        "size": "7059009",
+        "md5": "d7d9b223a91a8fee235f8b9ecf31cdbc",
+        "crc32": "16ae649f",
+        "sha1": "cd4ba6d4612a2f8477480959912d27583c01c2b5",
+        "filecount": "10"
+      },
+      {
+        "name": "36393-74545-1-PB_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "76",
+        "format": "Page Numbers JSON",
+        "original": "36393-74545-1-PB_hocr.html",
+        "mtime": "1745486940",
+        "size": "1904",
+        "md5": "541eb39daf5b61c46e277fdf8cd7b62b",
+        "crc32": "736dc512",
+        "sha1": "2d698bc3c62ba074ebba9dba7450f30daafedb94"
+      },
+      {
+        "name": "36393-74545-1-PB_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "36393-74545-1-PB_djvu.xml",
+        "mtime": "1745486941",
+        "size": "3846",
+        "md5": "8b65c742c918d368de968f7e13cbf8f7",
+        "crc32": "f6dc4018",
+        "sha1": "29a9b5e2593c8e18e8361968b64254090b16a5e4"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1745487007",
+        "size": "12906",
+        "md5": "353341df4ee2b0df1cba828f1a06c80d",
+        "crc32": "75052e61",
+        "sha1": "29e3ad6fdb56ddc15239b52b0d4e0c97c8c974e6",
+        "format": "Item Tile"
+      },
+      {
+        "name": "optimizing-gula-apong-production-with-an-iot-based-temperature-monitoring-system_archive.torrent",
+        "source": "metadata",
+        "btih": "f9e24bc9f6778be839c2d6058b7ed22a1bc253d4",
+        "mtime": "1745492952",
+        "size": "4452",
+        "md5": "0cd74aaa5545344854bb02bcde93f97b",
+        "crc32": "d0c95073",
+        "sha1": "9985a688afef22bcee0123f28c3c059a33917e8a",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "optimizing-gula-apong-production-with-an-iot-based-temperature-monitoring-system_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "6a165d29a337453431abd24b0f62e864",
+        "summation": "md5"
+      },
+      {
+        "name": "optimizing-gula-apong-production-with-an-iot-based-temperature-monitoring-system_meta.sqlite",
+        "source": "original",
+        "mtime": "1745485047",
+        "size": "28672",
+        "md5": "9450efd3c19c37457a356ae917e2afe0",
+        "crc32": "b0b45869",
+        "sha1": "809a4d68bf67806ab90bf9807686aa69baaaa8f7",
+        "format": "Metadata"
+      },
+      {
+        "name": "optimizing-gula-apong-production-with-an-iot-based-temperature-monitoring-system_meta.xml",
+        "source": "original",
+        "mtime": "1745492949",
+        "size": "3609",
+        "md5": "7f600af7f59336e79e54784a32d6f178",
+        "crc32": "92c946dd",
+        "sha1": "c440425489a7f6030220d17663f774d16c2b4342",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1745492952,
+    "item_size": 9616600,
+    "metadata": {
+      "identifier": "optimizing-gula-apong-production-with-an-iot-based-temperature-monitoring-system",
+      "mediatype": "texts",
+      "collection": [
+        "journals_contributions",
+        "journals"
+      ],
+      "creator": "Shafrida Sahrani, Dayang Azra Awang Mat, Dyg Norkhairunnisa Abang Zaidel, Kismet Anak Hong Ping",
+      "date": "2024-06-01",
+      "description": "<div style=\"color:rgb(102,102,102);font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11.2px;background-color:rgb(255,255,255);\"><p style=\"margin:1em 0px;\">Determining the quality of <em>gula apong</em> is crucial to optimizing its production, with cooking temperature being a key factor affecting both taste and shelf life. The <em>gula apong</em> industry faced challenges due to the lack of reliable real-time temperature monitoring methods during the cooking process. Traditional approaches were inefficient and inaccurate, leading to difficulties in maintaining consistent product quality and meeting market demands. This highlights the necessity of monitoring the temperature throughout each cooking process. This research aims to develop an internet of things (IoT)- based cooking temperature monitoring system to enhance quality control measures in the production of <em>gula apong</em>. The IoT prototype collects temperature data from the thermocouple sensor, then transmits it to cloud storage through a Wi-Fi communication network, utilizing the Node-RED platform for data processing and analysis. Data obtained from the on-site measurement shows that the optimal temperature for producing standard-quality <em>gula apong</em> is approximately around 165 °C. The recommended boiling temperature for Nipah sap is 140 °C. This IoT system can reduce the cooking time of <em>gula apong</em> to 3 hours from the traditional 4 to 6 hours. Utilizing the data acquired from this study helps the producers not only maintaining the quality of <em>gula apong</em> but also reduce the cooking time and cost.</p></div>",
+      "language": "eng",
+      "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": "Internet of Things (IoT); Smart Agri-food; Gula Apong; Remote Management; Temperature Monitoring",
+      "title": "Optimizing gula apong production with an IoT-based temperature monitoring system",
+      "uploader": "ijeecsteam@gmail.com",
+      "publicdate": "2025-04-24 08:57:11",
+      "addeddate": "2025-04-24 08:57:11",
+      "curation": "[curator]jscott@archive.org[/curator][date]20250424070902[/date][state][/state][comment]Moved automatically by CHARM Script Setting.[/comment]",
+      "identifier-access": "http://archive.org/details/optimizing-gula-apong-production-with-an-iot-based-temperature-monitoring-system",
+      "identifier-ark": "ark:/13960/s261jkbhz4t",
+      "ppi": "300",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "76",
+      "page_number_module_version": "1.0.5",
+      "collection_added": "journals"
+    },
+    "server": "ia801502.us.archive.org",
+    "uniq": 299728736,
+    "workable_servers": [
+      "ia801502.us.archive.org",
+      "ia601502.us.archive.org"
+    ]
+  },
+  "institution": "Shafrida Sahrani, Dayang Azra Awang Mat, Dyg Norkhairunnisa Abang Zaidel, Kismet Anak Hong Ping",
+  "pdf_url": "https://archive.org/download/optimizing-gula-apong-production-with-an-iot-based-temperature-monitoring-system/36393-74545-1-PB.pdf",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

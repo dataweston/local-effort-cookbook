@@ -1,0 +1,565 @@
+{
+  "source": "internet_archive",
+  "identifier": "ilfornaiobakingb00gall",
+  "title": "The Il Fornaio baking book",
+  "creator": "Franco Galli",
+  "year": 1993,
+  "subject": [
+    "Foranio",
+    "Baking -- Italy",
+    "Cookery, Italian",
+    "Bread -- Italy"
+  ],
+  "description": null,
+  "metadata": {
+    "created": 1758555918,
+    "d1": "ia600200.us.archive.org",
+    "d2": "ia800200.us.archive.org",
+    "dir": "/2/items/ilfornaiobakingb00gall",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660253575",
+        "size": "13388",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "5c0e767f807350f6ccd13e51567e12c3",
+        "crc32": "b97a8541",
+        "sha1": "087cc6dcea57a7f2020e654e1e28a439ca7518b6"
+      },
+      {
+        "name": "ilfornaiobakingb00gall.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "ilfornaiobakingb00gall_hocr.html",
+        "mtime": "1753480774",
+        "size": "12934981",
+        "private": "true",
+        "md5": "0e26ecefea88dd399da493edbff0d012",
+        "crc32": "a5da8cb5",
+        "sha1": "b117ecc370fa941c8c559efbb2361a2b655515ad"
+      },
+      {
+        "name": "ilfornaiobakingb00gall.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "ilfornaiobakingb00gall_jp2.zip",
+        "mtime": "1346884182",
+        "size": "202376",
+        "md5": "bb5274ecf4d8f1c36c559bf7e1de0ed0",
+        "crc32": "54ee3e6b",
+        "sha1": "c04eb9fc836f27d7fdeb13b093f62a6a78c97f02"
+      },
+      {
+        "name": "ilfornaiobakingb00gall.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "ilfornaiobakingb00gall.pdf",
+        "mtime": "1753480509",
+        "size": "13330650",
+        "md5": "bde5e5256147e6ec9c6f3ed2411d8b33",
+        "crc32": "609e89b1",
+        "sha1": "0607aa9942643d9e8c7ccde9d44801225ecbee96"
+      },
+      {
+        "name": "ilfornaiobakingb00gall.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "ilfornaiobakingb00gall_page_numbers.json",
+        "mtime": "1718035770",
+        "size": "12549658",
+        "md5": "2645939b9e85e4cc7d39b9cdbbe2335a",
+        "crc32": "13b3164d",
+        "sha1": "b8de6e4f48327f46ee74b57527e07cf869068db3",
+        "private": "true"
+      },
+      {
+        "name": "ilfornaiobakingb00gall.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1339784438",
+        "size": "559959",
+        "md5": "01dc0643360270fba6085d267e899b94",
+        "crc32": "fe353a5e",
+        "sha1": "8625231a42ac36448e96eb940c0c72842e9b4626"
+      },
+      {
+        "name": "ilfornaiobakingb00gall.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "ilfornaiobakingb00gall.warc.gz",
+        "mtime": "1346881793",
+        "size": "6959",
+        "md5": "4e7831769366aa7c97672a86937627a8",
+        "crc32": "3f6e53ff",
+        "sha1": "350a7aed911fe5e967e2d2950bc7f8630e52ac83",
+        "private": "true"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "ilfornaiobakingb00gall_jp2.zip",
+        "mtime": "1346887086",
+        "size": "4983605",
+        "md5": "85102104e8902c6e90818c425cd6ac6c",
+        "crc32": "3917b219",
+        "sha1": "370610994fc7c85440b63bf53512fa194ab79c9f",
+        "private": "true"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "ilfornaiobakingb00gall_abbyy.gz",
+        "mtime": "1660251909",
+        "size": "4152737",
+        "md5": "c0a08a4f74784eb0f161b5ec5bf0185e",
+        "crc32": "9479e52a",
+        "sha1": "56c01c447a2b126b822f57a2b625ab6b4d23c3dc",
+        "private": "true"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "ilfornaiobakingb00gall_scandata.xml",
+        "mtime": "1670242774",
+        "size": "778",
+        "md5": "95d707f3e2a35e40e75f30e74e78119f",
+        "crc32": "a29c8b69",
+        "sha1": "8b2dfbfc8d504ca4c813e993dad7f135db8f3506",
+        "private": "true"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1339784438",
+        "size": "1133",
+        "md5": "8ed09aadb24882b1f37db2017450b7d2",
+        "crc32": "7ecd0299",
+        "sha1": "107f13be13d72f4e9c5b62a7c32b13c77b1b6f24"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "ilfornaiobakingb00gall_djvu.xml",
+        "mtime": "1718035908",
+        "size": "377743",
+        "md5": "d883f4d5c5b3e6ca3899555fdf722365",
+        "crc32": "cc9212a4",
+        "sha1": "bcdb20cb9dab5c9ec2442c7ccc075b4a3576fc3e",
+        "private": "true"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "ilfornaiobakingb00gall_hocr.html",
+        "mtime": "1718033155",
+        "size": "4668351",
+        "md5": "82d1a2e4249410aa4bd36661e7bcfe1f",
+        "crc32": "35265821",
+        "sha1": "1a31f0075f8780e992c99f0e269f1c2cf560255b",
+        "private": "true"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "ilfornaiobakingb00gall.pdf",
+        "mtime": "1718035911",
+        "size": "12498679",
+        "md5": "67641998e93292df0b5f5b5223f0a603",
+        "crc32": "5ed337dc",
+        "sha1": "0143262ed713d782792e0c1144471872c60e78dd"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_extramarc.xml",
+        "source": "original",
+        "mtime": "1399933517",
+        "size": "3129",
+        "md5": "b54b0ef8f31c6068a1cbfba45ec360f4",
+        "crc32": "1a83e6b4",
+        "sha1": "09aca6b8b9b93007e8496f4ccb2ee408795df67f",
+        "format": "Metadata"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "6da969c602448d0d3aeae5c95a4825c3",
+        "summation": "md5"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "ilfornaiobakingb00gall_chocr.html.gz",
+        "mtime": "1660252263",
+        "size": "8974758",
+        "md5": "9d542adee8ff15d5d9e59914ee076fba",
+        "crc32": "b37d6346",
+        "sha1": "677640bbf6ab5b6244bf96ea15a70fc45001355b",
+        "private": "true"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "ilfornaiobakingb00gall_hocr.html",
+        "mtime": "1660252561",
+        "size": "2270",
+        "md5": "d5f8addff152be8bccfc8c84cba7f7a2",
+        "crc32": "6e6cca9b",
+        "sha1": "fdea8c303035ca7ef774766f01ecedc82bac7390",
+        "private": "true"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "6605",
+        "word_conf_11_20": "6549",
+        "word_conf_21_30": "8763",
+        "word_conf_31_40": "9121",
+        "word_conf_41_50": "9927",
+        "word_conf_51_60": "8289",
+        "word_conf_61_70": "4638",
+        "word_conf_71_80": "1541",
+        "word_conf_81_90": "521",
+        "word_conf_91_100": "1036",
+        "format": "OCR Search Text",
+        "original": "ilfornaiobakingb00gall_hocr.html",
+        "mtime": "1660253433",
+        "size": "103373",
+        "md5": "7f3cf72e69bb293369a28b076b3a7d52",
+        "crc32": "cee072b1",
+        "sha1": "90611b3028c83c262f5416dca34a173103079c51",
+        "private": "true"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "ilfornaiobakingb00gall_orig_jp2.tar",
+        "mtime": "1346884153",
+        "size": "81714346",
+        "md5": "3773d91553df32a250285fce9c7df5bf",
+        "crc32": "fc37b660",
+        "sha1": "0d3ddc5fabd394fa21c0198e27b0c5bcc5231577",
+        "private": "true",
+        "filecount": "202"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "ilfornaiobakingb00gall.epub",
+        "mtime": "1753481048",
+        "size": "13047774",
+        "md5": "faa73beef07a31405990891f3df019b7",
+        "crc32": "ac0081c8",
+        "sha1": "bb2b465a1ee7728234d53fac6923c19cb04a872d"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_loans.json",
+        "source": "original",
+        "mtime": "1595037910",
+        "size": "20105",
+        "format": "JSON",
+        "private": "true",
+        "md5": "84fdd477d52ca221ef9d20f2cb77a2bd",
+        "crc32": "19a884d5",
+        "sha1": "60adaa3ebf769886b81d74e28a51fe50b3899a12"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1339784438",
+        "size": "2939",
+        "md5": "b48b7302d1cce4221ad56414d7acafb2",
+        "crc32": "923e3c66",
+        "sha1": "26bfe3d6220fb5f8768c350973f50171a516aef8"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "ilfornaiobakingb00gall_xisbn.json",
+        "mtime": "1454553904",
+        "size": "554",
+        "md5": "687085b9129a3848beec1bf3d4dea799",
+        "crc32": "bb67dfbd",
+        "sha1": "52cbf387e34b0f0ee278443fadd77bdd2b1331aa",
+        "private": "true"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1339784438",
+        "size": "950",
+        "md5": "7af0b45f24f474315979a5f2fd8c87fe",
+        "crc32": "2896854e",
+        "sha1": "0974ad9a1216b5eee8fead3c234317b334ab8599"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_meta.sqlite",
+        "source": "original",
+        "mtime": "1464178652",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "e2bd3621249f2cc90b23da25c9461a4c",
+        "crc32": "db8fd4bf",
+        "sha1": "d5bae60f7c163fce9ac22f23b7996a35451f8f8c"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753481048",
+        "size": "4165",
+        "md5": "aa856ff4241e5aee33b6eb02b8c97a31",
+        "crc32": "f57664b7",
+        "sha1": "4706b4bd9a61d9320d4c70dae5a10c2d4518a607"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1339784438",
+        "size": "319",
+        "md5": "91c3aafdc569738d02e4790a99612638",
+        "crc32": "a0e6ff7c",
+        "sha1": "b91680522836e3b5aebe29aa577ca118450dd9d4"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1345913309",
+        "size": "167854080",
+        "md5": "8b33cc00601b468ed422478fe62cd3bb",
+        "crc32": "b4b3450a",
+        "sha1": "2ab7c87228984c5cc30d930d6599717847b791d5",
+        "private": "true",
+        "filecount": "202"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "ilfornaiobakingb00gall_hocr.html",
+        "mtime": "1718033544",
+        "size": "34051",
+        "md5": "17e45438c2849dfdbf11c7b82f0129bc",
+        "crc32": "74aaf0bf",
+        "sha1": "9d10c24df32c12fd4024932be542816464f7615c",
+        "private": "true"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670242774",
+        "size": "106969",
+        "md5": "ea5dfcb65257ec9383a8c75b9a203ad1",
+        "crc32": "b0fee76a",
+        "sha1": "2649a0db866466c8e09560c84e944ff09194e372"
+      },
+      {
+        "name": "ilfornaiobakingb00gall_xisbn.json",
+        "source": "original",
+        "mtime": "1454542403",
+        "size": "732",
+        "md5": "eb27103ed2bd4b3b8244e728f203a3dc",
+        "crc32": "6b7f8150",
+        "sha1": "00d2397c65a80e32245e2cb9c94660ca3336e5ef",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753481048,
+    "item_size": 338157655,
+    "metadata": {
+      "isbn": [
+        "9780811803236",
+        "0811803236"
+      ],
+      "openlibrary": "OL1718738M",
+      "title": "The Il Fornaio baking book",
+      "creator": "Franco Galli",
+      "language": "eng",
+      "publisher": "Chronicle Books",
+      "subject": [
+        "Foranio",
+        "Baking -- Italy",
+        "Cookery, Italian",
+        "Bread -- Italy"
+      ],
+      "date": "1993-01-01",
+      "external-identifier": [
+        "urn:asin:0811803236",
+        "urn:acs6:ilfornaiobakingb00gall:pdf:12411a9f-6925-4cd1-bc4f-700419d1afe5",
+        "urn:acs6:ilfornaiobakingb00gall:epub:06414ef0-feb8-4102-9483-9c1b6d2da03c",
+        "urn:oclc:record:1035620194",
+        "urn:lcp:ilfornaiobakingb00gall:lcpdf:186fdb60-32e6-4ed8-8f07-476e79cfd661",
+        "urn:lcp:ilfornaiobakingb00gall:epub:9bba4eef-7f65-4a3d-8587-ff9915d420e9"
+      ],
+      "updatedate": "2012-06-15 18:20:36",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA153801",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "sponsor": "Internet Archive",
+      "identifier": "ilfornaiobakingb00gall",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2012-06-15 18:20:41",
+      "publicdate": "2012-06-15 18:20:45",
+      "repub_state": "4",
+      "repub_seconds": "1978",
+      "ppi": "500",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-ling@archive.org",
+      "scanner": "scribe6.shenzhen.archive.org",
+      "scandate": "20120825055010",
+      "republisher": "scanner-shenzhen-cop@archive.org",
+      "imagecount": "202",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/ilfornaiobakingb00gall",
+      "identifier-ark": "ark:/13960/t9t167c81",
+      "scanfee": "125",
+      "curation": "[curator]scanner-shenzhen-leo@archive.org[/curator][date]20130122073813[/date][state]approved[/state][comment]199[/comment]",
+      "donor": "cityofsausalitolibrary",
+      "sponsordate": "not to be invoiced-past billing period",
+      "extramarc": "University of Illinois Urbana-Champaign (PZ)",
+      "city": "San Francisco",
+      "oclc-id": "26720404",
+      "lccn": "92021533",
+      "related-external-id": [
+        "urn:isbn:081183297X",
+        "urn:lccn:92021533",
+        "urn:oclc:316501584",
+        "urn:oclc:48109019",
+        "urn:oclc:26720404"
+      ],
+      "backup_location": "ia903805_6",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-07-12T13:04:32Z",
+      "openlibrary_edition": "OL1718738M",
+      "openlibrary_work": "OL4294097W",
+      "republisher_operator": "scanner-shenzhen-thomas@archive.org;scanner-shenzhen-cop@archive.org",
+      "republisher_date": "20120825164712",
+      "loans__status__last_waitlist_date": "2020-03-06T20:51:26Z",
+      "loans__status__num_history": "51",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "filesxml": "Wed Apr 3 5:05:57 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia800200.us.archive.org",
+    "uniq": 1897832973,
+    "workable_servers": [
+      "ia800200.us.archive.org",
+      "ia600200.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/26720404?referer=xid"
+          ],
+          "publisher": "Chronicle Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "92021533"
+          ],
+          "lang": "eng",
+          "city": "San Francisco",
+          "author": "by Franco Galli.",
+          "year": "1993",
+          "isbn": [
+            "0811803236"
+          ],
+          "title": "The Il Fornaio baking book : sweet and savory recipes from the Italian kitchen",
+          "oclcnum": [
+            "26720404"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/316501584?referer=xid"
+          ],
+          "publisher": "Chronicle",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "92021533"
+          ],
+          "lang": "eng",
+          "city": "San Francisco, Calif.",
+          "author": "by Franco Galli.",
+          "year": "2003",
+          "isbn": [
+            "081183297X"
+          ],
+          "title": "The Il Fornaio baking book : sweet and savory recipes from the Italian kitchen",
+          "oclcnum": [
+            "316501584",
+            "48109019",
+            "26720404"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Franco Galli",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

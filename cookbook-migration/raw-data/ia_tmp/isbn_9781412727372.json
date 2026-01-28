@@ -1,0 +1,478 @@
+{
+  "source": "internet_archive",
+  "identifier": "isbn_9781412727372",
+  "title": "Crock-pot slow cooker recipes for all occasions",
+  "creator": null,
+  "year": 2007,
+  "subject": "Electric cooking, Slow",
+  "description": [
+    "96 pages : 28 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/isbn_9781412727372"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/isbn_9781412727372"
+        }
+      ]
+    },
+    "created": 1758554916,
+    "d1": "ia601503.us.archive.org",
+    "d2": "ia801503.us.archive.org",
+    "dir": "/30/items/isbn_9781412727372",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660371898",
+        "size": "25555",
+        "md5": "eaef96b39a32c2ced62b1b94a397d747",
+        "crc32": "a785eef8",
+        "sha1": "bc7adf689c457ce6737c717d3b685124b90131f4",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "isbn_9781412727372.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "isbn_9781412727372_hocr.html",
+        "mtime": "1756419739",
+        "size": "30438825",
+        "private": "true",
+        "md5": "51382ca3fe8373a83fc12b9d43f877a5",
+        "crc32": "53dd0282",
+        "sha1": "c2374e0ea3ee6ae33f734427d5a6408f27e86323"
+      },
+      {
+        "name": "isbn_9781412727372.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "isbn_9781412727372.pdf",
+        "mtime": "1756419592",
+        "size": "6063002",
+        "md5": "fe195888b6194a352580e36385b93227",
+        "crc32": "d0ba00db",
+        "sha1": "fe8c7230973baabfe76170c4535205fd6b17ef6a"
+      },
+      {
+        "name": "isbn_9781412727372.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "isbn_9781412727372_page_numbers.json",
+        "mtime": "1726609003",
+        "size": "5751447",
+        "md5": "c0b0413ee7bb8a558750fcbc0bf00b01",
+        "crc32": "f977274c",
+        "sha1": "d4f3ccbeb4df2557cba34322fcf087b668d92920",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412727372_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "isbn_9781412727372_jp2.zip",
+        "mtime": "1548405940",
+        "size": "878184",
+        "md5": "99fc89ffb957a3cdffb46121bbfa25de",
+        "crc32": "b330880b",
+        "sha1": "27d0413b9f4694e19d3d169626c4f2bdfb2668e4",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412727372_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "isbn_9781412727372_abbyy.gz",
+        "mtime": "1660371436",
+        "size": "695040",
+        "md5": "a1f39c1f8c426ebaaa7ba7240de7cff1",
+        "crc32": "a36ba3e2",
+        "sha1": "1799462783aa34276cc1805a80e071b2155be8f5",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412727372_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "isbn_9781412727372_scandata.xml",
+        "mtime": "1670383907",
+        "size": "763",
+        "md5": "2b32f647fdcd51eaf175dd0a826035b8",
+        "crc32": "ddd757ef",
+        "sha1": "f74fe3949d669bf718b7468ed54cdd43d703107c",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412727372_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1577743335",
+        "size": "781",
+        "md5": "d089f474cfcf19cba1245ac365f1473e",
+        "crc32": "5e2a84fc",
+        "sha1": "2f5787fd67be4a4df42a070dc50a9ce2a84d5bed"
+      },
+      {
+        "name": "isbn_9781412727372_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "isbn_9781412727372_djvu.xml",
+        "mtime": "1660371891",
+        "size": "61868",
+        "md5": "24175b0bf9abfc60b6617a5727492881",
+        "crc32": "dd3676d4",
+        "sha1": "6d429e426d78140e912b28cfc26e366c45c4ab42",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412727372_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "isbn_9781412727372_hocr.html",
+        "mtime": "1660371810",
+        "size": "789253",
+        "md5": "a88cadedcccebc81b31122b5c68a4662",
+        "crc32": "4ec009c8",
+        "sha1": "bc2e5ba0c97dfc5acafcd886129005984600aea1",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412727372_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "isbn_9781412727372_abbyy.gz",
+        "mtime": "1548406187",
+        "size": "2828456",
+        "md5": "6c6f6b7ced3dfb227c75e184deaecfe0",
+        "crc32": "0677635e",
+        "sha1": "cb8eaaac9a8c87572368e61512b3d23e64cc96aa"
+      },
+      {
+        "name": "isbn_9781412727372_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "isbn_9781412727372.pdf",
+        "mtime": "1726609764",
+        "size": "5709757",
+        "md5": "cf3ebb2e70a89c8b1f31245b3166cc9f",
+        "crc32": "903a4d07",
+        "sha1": "04667e38b7110000ee6f800ea36ddf0d5643d5c4"
+      },
+      {
+        "name": "isbn_9781412727372_events.json",
+        "source": "original",
+        "mtime": "1548404590",
+        "size": "57",
+        "md5": "1194627a6b2c45f8ca738589cac03785",
+        "crc32": "b7fa2268",
+        "sha1": "5439f6805ec05c9305f7257fc51c61ca92ad0f8c",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412727372_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "591a001eae0653e9134aef69f20e919a",
+        "summation": "md5"
+      },
+      {
+        "name": "isbn_9781412727372_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "isbn_9781412727372_chocr.html.gz",
+        "mtime": "1660371791",
+        "size": "1655321",
+        "md5": "1b02e6fab329ec04d17a8e372645e76a",
+        "crc32": "b63f52de",
+        "sha1": "3682fe589143f5679fad822ce5df06bbdfe743eb",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412727372_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "isbn_9781412727372_hocr.html",
+        "mtime": "1660371842",
+        "size": "866",
+        "md5": "66b7badf203b014aba8dbc555b635482",
+        "crc32": "72398003",
+        "sha1": "bffe6257a48a980c733a46a67447ed3b49148dd6",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412727372_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "360",
+        "word_conf_11_20": "110",
+        "word_conf_21_30": "111",
+        "word_conf_31_40": "118",
+        "word_conf_41_50": "186",
+        "word_conf_51_60": "213",
+        "word_conf_61_70": "337",
+        "word_conf_71_80": "615",
+        "word_conf_81_90": "1352",
+        "word_conf_91_100": "5789",
+        "format": "OCR Search Text",
+        "original": "isbn_9781412727372_hocr.html",
+        "mtime": "1660371877",
+        "size": "17231",
+        "md5": "497ca881071ec6b3efcab1eeaee25e3f",
+        "crc32": "27e95e50",
+        "sha1": "35ad3eb5e462b443a8eac2524601291b3bf964dc",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412727372_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "isbn_9781412727372_orig_jp2.tar",
+        "mtime": "1548405606",
+        "size": "44491431",
+        "md5": "3f9bbf0a799ff113da7d5d3fc4dc8a16",
+        "crc32": "abc2f035",
+        "sha1": "cc12c0bdf034c34f133cf9f0721a024d362d658c",
+        "private": "true",
+        "filecount": "86"
+      },
+      {
+        "name": "isbn_9781412727372_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "isbn_9781412727372.epub",
+        "mtime": "1756419947",
+        "size": "30478550",
+        "md5": "4cf37b49cb1f087756a638ba308d53fc",
+        "crc32": "6ff252e2",
+        "sha1": "723f631de9e1a3e5b8bdd39774cefdf9151a55fa"
+      },
+      {
+        "name": "isbn_9781412727372_loans.json",
+        "source": "original",
+        "mtime": "1593935335",
+        "size": "462",
+        "format": "JSON",
+        "private": "true",
+        "md5": "cc57dcac9c3d2688e4598c9680459395",
+        "crc32": "0943100d",
+        "sha1": "8517079743d22c3daf615df996cb33181092298c"
+      },
+      {
+        "name": "isbn_9781412727372_marc.xml",
+        "source": "original",
+        "mtime": "1577743325",
+        "size": "3590",
+        "md5": "9cf8dd7e75c36ba2b7b51b41d4522ba7",
+        "crc32": "2bfbb24b",
+        "sha1": "0a70264414e2e4389750e2682f3b8d9788a7e76a",
+        "format": "MARC"
+      },
+      {
+        "name": "isbn_9781412727372_meta.mrc",
+        "source": "original",
+        "mtime": "1577743325",
+        "size": "1072",
+        "md5": "3069dc64686be498c812b8299293ce64",
+        "crc32": "6ac89b92",
+        "sha1": "cc923ba544216b1bdcb10c27f752f0762c03907b",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "isbn_9781412727372_meta.sqlite",
+        "source": "original",
+        "mtime": "1548404613",
+        "size": "14336",
+        "format": "Metadata",
+        "md5": "a6a1912edb5e83fbcab9c5745a801bbf",
+        "crc32": "97cdc32b",
+        "sha1": "fb86514e9086e6c0bbf98c95df3b2e37514293d7"
+      },
+      {
+        "name": "isbn_9781412727372_meta.xml",
+        "source": "original",
+        "mtime": "1756419947",
+        "size": "2743",
+        "format": "Metadata",
+        "md5": "84d67a7db1f89f912bbb56103dea0f2a",
+        "crc32": "286e7d2b",
+        "sha1": "d1323ca6ee834ab10d62fe49f024fb923cc4d1a1"
+      },
+      {
+        "name": "isbn_9781412727372_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1548404612",
+        "size": "244930560",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "cfde11c7f36231552860fe0455fa5f52",
+        "crc32": "7af3a851",
+        "sha1": "76dba7a6539d0e1e588560d82f3751d604ce823b",
+        "filecount": "86"
+      },
+      {
+        "name": "isbn_9781412727372_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "82",
+        "format": "Page Numbers JSON",
+        "original": "isbn_9781412727372_hocr.html",
+        "mtime": "1726609003",
+        "size": "14382",
+        "md5": "e00025e7718a8ff0b7c43772d1a699a4",
+        "crc32": "65c99236",
+        "sha1": "2230656dbdd1d0e96304bd1f4349fd1c4ee11e00",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412727372_scandata.xml",
+        "source": "original",
+        "mtime": "1670383907",
+        "size": "88263",
+        "format": "Scandata",
+        "md5": "3e620d420d71b229060ea2cd54105ec7",
+        "crc32": "2ba3a594",
+        "sha1": "9c02ecbd402a70f14336603b430fe77cdcd3bb54"
+      },
+      {
+        "name": "isbn_9781412727372_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "isbn_9781412727372_djvu.xml",
+        "mtime": "1670383599",
+        "size": "769",
+        "md5": "3110056f70e47688ac4246dd1b8bc288",
+        "crc32": "94fdeebd",
+        "sha1": "3a1dca2a69f6de60c98ec5186ecbf6c6fa2da823",
+        "private": "true"
+      },
+      {
+        "name": "logs/isbn_9781412727372_iabdash_2019-01-2313:58:10.log",
+        "source": "original",
+        "mtime": "1548223102",
+        "size": "1331",
+        "md5": "217266088e0a4c2341d9d751eaf375aa",
+        "crc32": "86fa9be3",
+        "sha1": "6bf0ce040a38aa1aaca3c6ff30172fc424dedd6d",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/isbn_9781412727372_scanning_2019-01-2313:58:06.log",
+        "source": "original",
+        "mtime": "1548223097",
+        "size": "159151",
+        "md5": "f5b87233392731dfd777dff8fe550137",
+        "crc32": "c5ae31d9",
+        "sha1": "93222e386468914846176fad01ac21c3af73f8a0",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1756419947,
+    "item_size": 375103046,
+    "metadata": {
+      "identifier": "isbn_9781412727372",
+      "boxid": "IA1633811",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "isbn": [
+        "1412728355",
+        "9781412728355"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA14820",
+      "operator": "associate-cybellegrace-ventic@archive.org",
+      "ppi": "300",
+      "repub_state": "19",
+      "scanner": "station24.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "tts_version": "1.63-final-2-gf73c3fa",
+      "title": "Crock-pot slow cooker recipes for all occasions",
+      "uploader": "station24.cebu@archive.org",
+      "addeddate": "2019-01-23 05:58:04",
+      "publicdate": "2019-01-23 05:58:31",
+      "imagecount": "86",
+      "scandate": "20190123070026",
+      "republisher_operator": "associate-mariejoy-gelves@archive.org",
+      "republisher_date": "20190125162307",
+      "republisher_time": "298",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/isbn_9781412727372",
+      "identifier-ark": "ark:/13960/t0jt74r7k",
+      "external-identifier": [
+        "urn:acs6:isbn_9781412727372:epub:c41e6c3a-ed30-4297-8611-6fa83ef97b90",
+        "urn:acs6:isbn_9781412727372:pdf:540ed89b-c36c-46bb-a897-03c436ee2f1a",
+        "urn:oclc:record:1150023183",
+        "urn:lcp:isbn_9781412727372:lcpdf:947f4110-2a3a-4f43-8943-53dc501ba39e",
+        "urn:lcp:isbn_9781412727372:epub:7afa0ae0-85c6-401a-abac-70f950e8f6ab"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "ramp_up_20190131",
+      "access-restricted-item": "true",
+      "publisher": "Lincolnwood, IL : Publications International, Ltd.",
+      "date": "2007-01-01",
+      "subject": [
+        "Electric cooking, Slow",
+        "Electric cooking, Slow"
+      ],
+      "description": [
+        "96 pages : 28 cm",
+        "Includes index"
+      ],
+      "associated-names": "Publications International, Ltd",
+      "backup_location": "ia906806_29",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "82",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601503.us.archive.org",
+    "uniq": 1431847177,
+    "workable_servers": [
+      "ia601503.us.archive.org",
+      "ia801503.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

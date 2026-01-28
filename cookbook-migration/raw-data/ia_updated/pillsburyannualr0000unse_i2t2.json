@@ -1,0 +1,513 @@
+{
+  "source": "internet_archive",
+  "identifier": "pillsburyannualr0000unse_i2t2",
+  "title": "Pillsbury annual recipes 2010 : including Pillsbury Bake-off contest winners",
+  "creator": null,
+  "year": 2010,
+  "subject": [
+    "Cooking",
+    "Baking"
+  ],
+  "description": [
+    "352 pages : 28 cm",
+    "Includes index",
+    "Cover title"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/pillsburyannualr0000unse_i2t2"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/pillsburyannualr0000unse_i2t2"
+        }
+      ]
+    },
+    "created": 1758555393,
+    "d1": "ia902800.us.archive.org",
+    "d2": "ia802800.us.archive.org",
+    "dir": "/32/items/pillsburyannualr0000unse_i2t2",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660905602",
+        "size": "18312",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "5cec4d7456ea38485a38dbacedda00d2",
+        "crc32": "3ce430f8",
+        "sha1": "83f23b95b27680cb3adddb4f122b38fc1d8be5d4"
+      },
+      {
+        "name": "logs/pillsburyannualr0000unse_i2t2_iabdash_2019-11-2208:18:39.log",
+        "source": "original",
+        "mtime": "1574381934",
+        "size": "1378",
+        "md5": "c77f702e0e9efe9b2045ad026f57a85e",
+        "crc32": "e3f0a6d8",
+        "sha1": "7fb85564b4bbc5bcb90cf8403f2d9325d9259b2d",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/pillsburyannualr0000unse_i2t2_scanning_2019-11-2208:18:56.log",
+        "source": "original",
+        "mtime": "1574381941",
+        "size": "874753",
+        "md5": "414f70af1e35696c46c3247e8a04e74f",
+        "crc32": "6003c573",
+        "sha1": "69186de7836e3542629633ccde227adf943cdd7f",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "pillsburyannualr0000unse_i2t2_hocr.html",
+        "mtime": "1753749922",
+        "size": "223195302",
+        "private": "true",
+        "md5": "e59e6ad27a82b28390040246b063a836",
+        "crc32": "3402c4fd",
+        "sha1": "d5ab4ffbcc9e6bec97977ff0492403fb295b3bfd"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "pillsburyannualr0000unse_i2t2.pdf",
+        "mtime": "1753749346",
+        "size": "41003650",
+        "md5": "b07c39305b778e2f658e94058a02ce7f",
+        "crc32": "02f33451",
+        "sha1": "ce37636fa848b057753f8cb61205397265f54804"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "pillsburyannualr0000unse_i2t2_page_numbers.json",
+        "mtime": "1718911531",
+        "size": "40685115",
+        "md5": "42728d50b8be97e61ff0ffd7392fddf2",
+        "crc32": "3a527981",
+        "sha1": "959b448039aeb1f1e38372a648fabb3d4a972b85",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "pillsburyannualr0000unse_i2t2_jp2.zip",
+        "mtime": "1574657804",
+        "size": "9374032",
+        "md5": "8783d9d8232769774d94830a5f95cbea",
+        "crc32": "7fb8f38e",
+        "sha1": "31e066e80385f98d5c35a5d7b2cf78218f7cadc8",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "pillsburyannualr0000unse_i2t2_abbyy.gz",
+        "mtime": "1660904965",
+        "size": "7683420",
+        "md5": "7f3e24952c639ddd16120dfaab887e42",
+        "crc32": "c95a566d",
+        "sha1": "79ed4f1306379b49023311a43169f545640c22aa",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "pillsburyannualr0000unse_i2t2_scandata.xml",
+        "mtime": "1670902269",
+        "size": "807",
+        "md5": "dfa4d032f23405351862c5e7c6fd9fc6",
+        "crc32": "d0166254",
+        "sha1": "f22390c873af97cd4285d58df4c5f27f09f14e10",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660904821",
+        "size": "1291",
+        "md5": "50fb971e986ca73072e89db9b6c87802",
+        "crc32": "2a61ea52",
+        "sha1": "df753de3ab7fa87dcb50ba9852253851f2f34fa9"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "pillsburyannualr0000unse_i2t2_djvu.xml",
+        "mtime": "1660905530",
+        "size": "677807",
+        "md5": "5bf98b5ae49c0ca2b35955451be488b3",
+        "crc32": "6d35de50",
+        "sha1": "a8473c2e3060a19b85733c98ddf4f1348fd46f56",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "pillsburyannualr0000unse_i2t2_hocr.html",
+        "mtime": "1660905313",
+        "size": "8444552",
+        "md5": "c1d7d91372e4847df7467ee628cbcd0e",
+        "crc32": "449d0036",
+        "sha1": "889fa658243bc0f5a06ec3944cac56ac5608d762",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "pillsburyannualr0000unse_i2t2_abbyy.gz",
+        "mtime": "1574661372",
+        "size": "10406518",
+        "md5": "61a3d0d67505c1c3fc0346a6c7be8312",
+        "crc32": "0516dbcd",
+        "sha1": "ce54cfdd41663dd7e7033d2169dcd9931d95aa8e"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "pillsburyannualr0000unse_i2t2.pdf",
+        "mtime": "1718911743",
+        "size": "40218818",
+        "md5": "428ce6f4786364b4ead3fc3aec077052",
+        "crc32": "b62c6acb",
+        "sha1": "84ce8726d177ef1ab043317caf90743674e97699"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_events.json",
+        "source": "original",
+        "mtime": "1574643463",
+        "size": "59",
+        "md5": "09bab5b529e9af969bdd4caf618a9318",
+        "crc32": "bc73e97b",
+        "sha1": "8f26f4c852d48ed7efe4c342bb672c7f5a6c7491",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "60d37847b86fb324ba28010ecb98b252",
+        "summation": "md5"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "pillsburyannualr0000unse_i2t2_chocr.html.gz",
+        "mtime": "1660905274",
+        "size": "18890873",
+        "md5": "e7506ac3e6ec9941fb237517140bfe7b",
+        "crc32": "9c54d7e3",
+        "sha1": "ff2173774afaffb1d4d5101ea67d65ac65752530",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "pillsburyannualr0000unse_i2t2_hocr.html",
+        "mtime": "1660905405",
+        "size": "4315",
+        "md5": "40b4f5d8bff1adba00f636f04e4d44ef",
+        "crc32": "15f65e16",
+        "sha1": "92931216b7ddad71933cefd2f989de45b594a09d",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "867",
+        "word_conf_11_20": "550",
+        "word_conf_21_30": "639",
+        "word_conf_31_40": "994",
+        "word_conf_41_50": "1770",
+        "word_conf_51_60": "2091",
+        "word_conf_61_70": "4679",
+        "word_conf_71_80": "10005",
+        "word_conf_81_90": "21417",
+        "word_conf_91_100": "50938",
+        "format": "OCR Search Text",
+        "original": "pillsburyannualr0000unse_i2t2_hocr.html",
+        "mtime": "1660905494",
+        "size": "149748",
+        "md5": "4d81cf5bea487bd791673062d24fe6dc",
+        "crc32": "9973fc05",
+        "sha1": "90fd7768a72a247bd2f515ab5e66780098a08cf4",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "pillsburyannualr0000unse_i2t2_orig_jp2.tar",
+        "mtime": "1574654516",
+        "size": "396604225",
+        "md5": "a75a787621da33a73eb579550c9e0421",
+        "crc32": "134b7859",
+        "sha1": "561b306c71301f6fb96b1bec6d8d59ae4c9cf351",
+        "private": "true",
+        "filecount": "362"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "pillsburyannualr0000unse_i2t2.epub",
+        "mtime": "1753750305",
+        "size": "224743055",
+        "md5": "59b321a96dcd9659a3672a33aed8318f",
+        "crc32": "d6857532",
+        "sha1": "6550fde2c3bbaed9c2295fb2dae18d592e48bc00"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_loans.json",
+        "source": "original",
+        "mtime": "1594257057",
+        "size": "1815",
+        "format": "JSON",
+        "private": "true",
+        "md5": "45d1b4cb7b7ac157789212538f9f94ce",
+        "crc32": "cefd7a96",
+        "sha1": "535be364db5af244b821657f53282ff38338b04b"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_marc.xml",
+        "source": "original",
+        "mtime": "1660904821",
+        "size": "4416",
+        "format": "MARC",
+        "md5": "093c636495dcc38166ec45a6f20f1103",
+        "crc32": "6d4689d3",
+        "sha1": "251290d833c43fa13321b16ba9f110c96dc5836d"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_meta.mrc",
+        "source": "original",
+        "mtime": "1574381918",
+        "size": "1222",
+        "md5": "2f7adc6af03c4493a96fd5b60ed277f7",
+        "crc32": "14ea6f25",
+        "sha1": "a2f4859ebc54b4279cd5a217b80fd5308833fe4f",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_meta.sqlite",
+        "source": "original",
+        "mtime": "1574643600",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "9bde29d470b48d5f66368cac6793b078",
+        "crc32": "4e0d00a6",
+        "sha1": "32a991bb63afdab19fbf83e685bb47e42c515c0c"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_meta.xml",
+        "source": "original",
+        "mtime": "1753750306",
+        "size": "3060",
+        "format": "Metadata",
+        "md5": "d754cbc610980ecd1e35386bb459e640",
+        "crc32": "280d1586",
+        "sha1": "8e760f0132f0e8064497142add399f27f3b38bc0"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1574643599",
+        "size": "623872000",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "2cc7a2293201eabb66a8bb412d49ee0e",
+        "crc32": "be065658",
+        "sha1": "9d33b17f69c4a376fa7673e8f2ec992c1cc809c2",
+        "filecount": "362"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "98",
+        "format": "Page Numbers JSON",
+        "original": "pillsburyannualr0000unse_i2t2_hocr.html",
+        "mtime": "1718911530",
+        "size": "61179",
+        "md5": "0355fc13e1e8b8aa2f1a8ddddeabfd05",
+        "crc32": "38a11060",
+        "sha1": "2b184b22733193105ec1b2f9f537bdf9cd821fe0",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_scandata.xml",
+        "source": "original",
+        "mtime": "1670902269",
+        "size": "369309",
+        "format": "Scandata",
+        "md5": "7ae8f773461f3de8e77d6a01b88fbe23",
+        "crc32": "43d805a0",
+        "sha1": "393e297b93acb494166e95f44cf48aa796695679"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_slip.png",
+        "source": "original",
+        "mtime": "1574375820",
+        "size": "40919",
+        "md5": "1da2e30f7396d0a874e010efebc3f8e2",
+        "crc32": "84a7f03c",
+        "sha1": "eec87eec94a59ea31deb80b2135bb1ac294fd5eb",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "pillsburyannualr0000unse_i2t2_slip.png",
+        "mtime": "1574643788",
+        "size": "5812",
+        "md5": "66acfe0c9a37aabfaf6ac5e2f22f5472",
+        "crc32": "1a08ec1d",
+        "sha1": "23354f676c8002c86dee4193dea09842ded748c4",
+        "private": "true"
+      },
+      {
+        "name": "pillsburyannualr0000unse_i2t2_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "pillsburyannualr0000unse_i2t2_djvu.xml",
+        "mtime": "1670902226",
+        "size": "775",
+        "md5": "ef0c424616230f93e79bed6ac5339634",
+        "crc32": "c386d2aa",
+        "sha1": "c4d57f0bd49e6678e0bf75dfd3c0b649e578b7c3",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753750306,
+    "item_size": 1647356969,
+    "metadata": {
+      "identifier": "pillsburyannualr0000unse_i2t2",
+      "boxid": "IA1701316",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2010-01-01",
+      "description": [
+        "352 pages : 28 cm",
+        "Includes index",
+        "Cover title"
+      ],
+      "isbn": [
+        "9780898217612",
+        "089821761X"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA14977",
+      "operator": "associate-saeirulos-apa@archive.org",
+      "ppi": "300",
+      "publisher": "Greendale, WI : Taste of Home Books, Reiman Media Group, Inc.",
+      "repub_state": "19",
+      "scanner": "station17.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780898217612",
+      "subject": [
+        "Cooking",
+        "Baking"
+      ],
+      "title": "Pillsbury annual recipes 2010 : including Pillsbury Bake-off contest winners",
+      "tts_version": "3.0-initial-170-gdf78d52",
+      "uploader": "station17.cebu@archive.org",
+      "addeddate": "2019-11-21 22:37:00",
+      "publicdate": "2019-11-21 22:37:11",
+      "access-restricted-item": "true",
+      "imagecount": "362",
+      "scandate": "20191122012932",
+      "republisher_operator": "associate-glennblair-beduya@archive.org;associate-sweetzelle-cutora@archive.org",
+      "republisher_date": "20191125085739",
+      "republisher_time": "675",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/pillsburyannualr0000unse_i2t2",
+      "identifier-ark": "ark:/13960/t7qp47518",
+      "external-identifier": [
+        "urn:acs6:pillsburyannualr0000unse_i2t2:epub:501a32f1-1413-4d2a-8d4f-23367411dcb3",
+        "urn:acs6:pillsburyannualr0000unse_i2t2:pdf:52c725c7-4ad4-41cb-9477-fa75393f24de",
+        "urn:lcp:pillsburyannualr0000unse_i2t2:lcpdf:0753c9eb-1aef-420d-ba10-33bed5629531",
+        "urn:lcp:pillsburyannualr0000unse_i2t2:epub:3fb94b0d-db1d-443d-bf09-6ea725f4a222"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191130",
+      "backup_location": "ia907007_0",
+      "openlibrary_work": "OL24292053W",
+      "openlibrary_edition": "OL32133456M",
+      "oclc-id": [
+        "506020187",
+        "528742431",
+        "778988418"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "98",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia902800.us.archive.org",
+    "uniq": 1817821856,
+    "workable_servers": [
+      "ia902800.us.archive.org",
+      "ia802800.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

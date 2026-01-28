@@ -1,0 +1,105 @@
+{
+  "source": "dpla",
+  "id": "5985edd5ca5436de44e035a1aaca15a1",
+  "identifier": "5985edd5ca5436de44e035a1aaca15a1",
+  "title": "Delicate dishes : a cook book",
+  "subject": [
+    "Cookery--Illinois",
+    "Cookery, American"
+  ],
+  "spatial": [
+    "Illinois"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/009601022",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1896,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/5985edd5ca5436de44e035a1aaca15a1#SourceResource",
+      "contributor": [
+        "St. Pauls Church (Chicago, Ill.)"
+      ],
+      "date": [
+        {
+          "begin": "1896",
+          "displayDate": "1896",
+          "end": "1896"
+        }
+      ],
+      "extent": [
+        "186 p. ; 18 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "LC call number: TX715 .C539",
+        "sdr-ia-loc9621388",
+        "(OCoLC)14196172",
+        "Hathi: 009601022"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Chicago, Il. : E.B. Smith & Co."
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cookery--Illinois"
+        },
+        {
+          "name": "Cookery, American"
+        }
+      ],
+      "title": [
+        "Delicate dishes : a cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1896-01-01",
+      "normalized_dates": [
+        "1896-01-01"
+      ],
+      "date_range": {
+        "begin": "1896-01-01",
+        "end": "1896-01-01"
+      }
+    }
+  },
+  "data": {
+    "isShownAt": "http://catalog.hathitrust.org/Record/009601022"
+  },
+  "location": {
+    "state": "Illinois",
+    "city": "St. Paul"
+  },
+  "curation": {
+    "score": 7,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church"
+    ]
+  },
+  "curation_notes": "State match: Illinois; Community markers: Church; Digitized scan available"
+}

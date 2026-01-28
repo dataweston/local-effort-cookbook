@@ -1,0 +1,510 @@
+{
+  "source": "internet_archive",
+  "identifier": "supersupperscook0002byrd",
+  "title": "Super suppers cookbook 2",
+  "creator": "Byrd, Judie",
+  "year": 2008,
+  "subject": [
+    "Dinners and dining",
+    "Suppers",
+    "Quick and easy cooking",
+    "Make-ahead cooking"
+  ],
+  "description": "224 pages : 24 cm",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/supersupperscook0002byrd"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/supersupperscook0002byrd"
+        }
+      ]
+    },
+    "created": 1758554875,
+    "d1": "ia600701.us.archive.org",
+    "d2": "ia800701.us.archive.org",
+    "dir": "/3/items/supersupperscook0002byrd",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661137076",
+        "size": "25369",
+        "md5": "2a08271eb2d2de1b5a30f71ab98b4432",
+        "crc32": "f7e4ed66",
+        "sha1": "7a311f3c8c04fa3daa7b2e792df79edc1c91ec85",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/supersupperscook0002byrd_iabdash_2018-11-2217:18:00.log",
+        "source": "original",
+        "mtime": "1542878291",
+        "size": "1354",
+        "md5": "6aeecbb07e03c51daeed741b49ccb1e5",
+        "crc32": "a7ce10b4",
+        "sha1": "0f46262ddcf1c1b5b23e410738dec0d5611eb9bf",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/supersupperscook0002byrd_scanning_2018-11-2217:17:53.log",
+        "source": "original",
+        "mtime": "1542878285",
+        "size": "433411",
+        "md5": "e9660e2a80e11498873cf5399ae5a65b",
+        "crc32": "8789c4a0",
+        "sha1": "93f4e8ff2b5a90f12f5d21838f1e442c50ff1a54",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "supersupperscook0002byrd.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "supersupperscook0002byrd_hocr.html",
+        "mtime": "1758413743",
+        "size": "81515401",
+        "private": "true",
+        "md5": "418b894cd79e76033ea3ac1d811dda29",
+        "crc32": "034d6331",
+        "sha1": "2f34e5dbfb9876d5d5426678dcfe55fdd49fd427"
+      },
+      {
+        "name": "supersupperscook0002byrd.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "supersupperscook0002byrd.pdf",
+        "mtime": "1758413514",
+        "size": "20574654",
+        "md5": "87163a9760bad57924bb40a8c4f947b1",
+        "crc32": "2f61d5e2",
+        "sha1": "82111a7149ab8e2d463d2617c3945622bc7271da"
+      },
+      {
+        "name": "supersupperscook0002byrd.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "supersupperscook0002byrd_page_numbers.json",
+        "mtime": "1661137134",
+        "size": "19897904",
+        "md5": "9c9dca75c64e30ffad9d5987bdafe009",
+        "crc32": "03370d86",
+        "sha1": "04014c76e4fca02fe8844a7087bfc606f11b8e6e",
+        "private": "true"
+      },
+      {
+        "name": "supersupperscook0002byrd_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "supersupperscook0002byrd_jp2.zip",
+        "mtime": "1542959549",
+        "size": "3828562",
+        "md5": "6b1fcd18b81ffeadcb593eca67f77d9a",
+        "crc32": "87de4e0b",
+        "sha1": "8429052af449b6beb58fa144cc7b3f526993376b",
+        "private": "true"
+      },
+      {
+        "name": "supersupperscook0002byrd_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "supersupperscook0002byrd_abbyy.gz",
+        "mtime": "1661136571",
+        "size": "3108999",
+        "md5": "aac1664954d5d706c81503818bf10cfb",
+        "crc32": "512aa6fa",
+        "sha1": "6ceca84b56f9c3e9d02907ef100f02a273e66553",
+        "private": "true"
+      },
+      {
+        "name": "supersupperscook0002byrd_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "supersupperscook0002byrd_scandata.xml",
+        "mtime": "1671399111",
+        "size": "789",
+        "md5": "3720993e2c23e17b68a66ac4d7e53d24",
+        "crc32": "47ba4c15",
+        "sha1": "378aa3c3afa41c617fc5fe49e207131a9669bf00",
+        "private": "true"
+      },
+      {
+        "name": "supersupperscook0002byrd_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1661136498",
+        "size": "1238",
+        "md5": "b88f72b5d901c27cf5103750772dc2dc",
+        "crc32": "96b3a834",
+        "sha1": "246dfcd11464232cccc826a07a3c0b77235b57d6"
+      },
+      {
+        "name": "supersupperscook0002byrd_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "supersupperscook0002byrd_djvu.xml",
+        "mtime": "1661137045",
+        "size": "269508",
+        "md5": "14a1500178b99ede70c99a6123a3f57e",
+        "crc32": "61c50f4d",
+        "sha1": "5d570e70481b9ef91bba16ccacbc21134e3932c6",
+        "private": "true"
+      },
+      {
+        "name": "supersupperscook0002byrd_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "supersupperscook0002byrd_hocr.html",
+        "mtime": "1661136681",
+        "size": "3339205",
+        "md5": "a442133beb33e5cf2bb8754092a179d7",
+        "crc32": "0cf729e0",
+        "sha1": "3e616ea1100b21940f84632620477364ffd52dad",
+        "private": "true"
+      },
+      {
+        "name": "supersupperscook0002byrd_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "supersupperscook0002byrd_abbyy.gz",
+        "mtime": "1542961025",
+        "size": "13398601",
+        "md5": "f18a28694b206d0f347afd619675826c",
+        "crc32": "e0b5818a",
+        "sha1": "db2c19fca76f0ad701ba9a91443f8c19e782a5c1"
+      },
+      {
+        "name": "supersupperscook0002byrd_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "supersupperscook0002byrd.pdf",
+        "mtime": "1671399049",
+        "size": "19898164",
+        "md5": "af8522d20b4eb09385e50cf98ffe16d4",
+        "crc32": "62167aeb",
+        "sha1": "82dc49b46a7f62223be945b27ad1b72c7f8e0086"
+      },
+      {
+        "name": "supersupperscook0002byrd_events.json",
+        "source": "original",
+        "mtime": "1542953031",
+        "size": "54",
+        "md5": "9996f5205620bf05658776fa4610a940",
+        "crc32": "4370ba43",
+        "sha1": "4d51cd9f9cb8c5a5da5ab3ba655b6885646f3ea6",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "supersupperscook0002byrd_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "778ae4fd42a21f779d61a35e2e4e1abb",
+        "summation": "md5"
+      },
+      {
+        "name": "supersupperscook0002byrd_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "supersupperscook0002byrd_chocr.html.gz",
+        "mtime": "1661136664",
+        "size": "7006985",
+        "md5": "6ede2b35abf8eec64e900c3b2a7cda90",
+        "crc32": "9e7dd82c",
+        "sha1": "a026afc12e497a72c8a412c86a57f0d100285f04",
+        "private": "true"
+      },
+      {
+        "name": "supersupperscook0002byrd_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "supersupperscook0002byrd_hocr.html",
+        "mtime": "1661136714",
+        "size": "2537",
+        "md5": "b19a0551ff3c7a6d284529965942a54d",
+        "crc32": "91b4389e",
+        "sha1": "792ed42142f1d23185fddd4408b61bc89fd2c56a",
+        "private": "true"
+      },
+      {
+        "name": "supersupperscook0002byrd_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "703",
+        "word_conf_11_20": "448",
+        "word_conf_21_30": "871",
+        "word_conf_31_40": "834",
+        "word_conf_41_50": "1032",
+        "word_conf_51_60": "1659",
+        "word_conf_61_70": "3693",
+        "word_conf_71_80": "7097",
+        "word_conf_81_90": "10130",
+        "word_conf_91_100": "11706",
+        "format": "OCR Search Text",
+        "original": "supersupperscook0002byrd_hocr.html",
+        "mtime": "1661136973",
+        "size": "72457",
+        "md5": "18fc7a53a1c31d5d7a87f334ed0f85f4",
+        "crc32": "b555d46e",
+        "sha1": "4c59caab4b9c00b426f516a3c082202b3dfcfaa1",
+        "private": "true"
+      },
+      {
+        "name": "supersupperscook0002byrd_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "supersupperscook0002byrd_orig_jp2.tar",
+        "mtime": "1542957147",
+        "size": "179744924",
+        "md5": "7bb8f9f6023e7edba332c88cffb20d53",
+        "crc32": "3a688db1",
+        "sha1": "eb84cb139b688e4872b980f2aae5e49099537c17",
+        "private": "true",
+        "filecount": "230"
+      },
+      {
+        "name": "supersupperscook0002byrd_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "supersupperscook0002byrd.epub",
+        "mtime": "1758413883",
+        "size": "81733263",
+        "md5": "b09f8d66a48e923dcea40b0809c8a2ea",
+        "crc32": "09f34ccd",
+        "sha1": "bf0f8d021f9aa254e29d5f4f7b3a7bcb12698a25"
+      },
+      {
+        "name": "supersupperscook0002byrd_loans.json",
+        "source": "original",
+        "mtime": "1598984634",
+        "size": "591",
+        "format": "JSON",
+        "private": "true",
+        "md5": "4b525d0c32ec7b2124e720104dde375b",
+        "crc32": "74aa4f00",
+        "sha1": "5a7f7e4111d3dc76995ef4eb4f0b9dd8b0e3e034"
+      },
+      {
+        "name": "supersupperscook0002byrd_marc.xml",
+        "source": "original",
+        "mtime": "1661136498",
+        "size": "5598",
+        "format": "MARC",
+        "md5": "b1ba7ceec0b1f08e55db72fa8bf24aea",
+        "crc32": "60f1d55a",
+        "sha1": "2ca99b691197f68deab8caed676f6b3d735b581e"
+      },
+      {
+        "name": "supersupperscook0002byrd_meta.mrc",
+        "source": "original",
+        "mtime": "1542878304",
+        "size": "1565",
+        "md5": "3773a363d56017bb5037eb4bcba1ad4a",
+        "crc32": "cd3fb34e",
+        "sha1": "e11efc128e7f8e971ba8f0498d37aadaa3949b22",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "supersupperscook0002byrd_meta.sqlite",
+        "source": "original",
+        "mtime": "1542953197",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "af051a1da388d0a7e39cf6b19625ff52",
+        "crc32": "68af468d",
+        "sha1": "400e5d4ab11473728fe364da4b869cae2c5d9ac9"
+      },
+      {
+        "name": "supersupperscook0002byrd_meta.xml",
+        "source": "original",
+        "mtime": "1758413884",
+        "size": "3359",
+        "format": "Metadata",
+        "md5": "9c27b8a270c20e9a40265d80ef09241f",
+        "crc32": "39af0104",
+        "sha1": "c8d74492a430b31b8712e3a623c172ae0d0177eb"
+      },
+      {
+        "name": "supersupperscook0002byrd_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1542953196",
+        "size": "453662720",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "c4f97f316531f68e0a9202baa7b890c7",
+        "crc32": "84e37617",
+        "sha1": "217ffa43e538d9819ab9dbbdd3f1b13885bc53a1",
+        "filecount": "230"
+      },
+      {
+        "name": "supersupperscook0002byrd_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "supersupperscook0002byrd_djvu.xml",
+        "mtime": "1661137047",
+        "size": "41978",
+        "md5": "053decdd890416216df75176f2a12906",
+        "crc32": "0dad3ac2",
+        "sha1": "95aa69c5085f64686c8996fd66318670667634f8",
+        "private": "true"
+      },
+      {
+        "name": "supersupperscook0002byrd_scandata.xml",
+        "source": "original",
+        "mtime": "1671399111",
+        "size": "124228",
+        "format": "Scandata",
+        "md5": "75ddc3cd2ae0d5db039874e40c5fe340",
+        "crc32": "8dfb5dc0",
+        "sha1": "a409510f8ed62f9df8ccd680dc0452952c110262"
+      },
+      {
+        "name": "supersupperscook0002byrd_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "supersupperscook0002byrd_djvu.xml",
+        "mtime": "1671399090",
+        "size": "568",
+        "md5": "08bc9a75bf7d0483f5393e70398978ea",
+        "crc32": "b56cf28a",
+        "sha1": "2464f4dee2ef2702945abbb55123cdee084fa8cb",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1758413884,
+    "item_size": 888711394,
+    "metadata": {
+      "identifier": "supersupperscook0002byrd",
+      "boxid": "IA1398913",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Byrd, Judie",
+      "creator-alt-script": "None",
+      "date": "2008-01-01",
+      "description": "224 pages : 24 cm",
+      "isbn": [
+        "9780696241802",
+        "0696241803"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA14116",
+      "operator": "associate-jercyl-tradio@archive.org",
+      "ppi": "300",
+      "publisher": "Des Moines, Iowa : Meredith",
+      "repub_state": "19",
+      "scanner": "station05.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "subject": [
+        "Dinners and dining",
+        "Suppers",
+        "Quick and easy cooking",
+        "Make-ahead cooking",
+        "Dinners and dining",
+        "Make-ahead cooking",
+        "Quick and easy cooking",
+        "Suppers"
+      ],
+      "title": "Super suppers cookbook 2",
+      "title-alt-script": "None",
+      "tts_version": "v1.61-final",
+      "volume": "2",
+      "uploader": "station05.cebu@archive.org",
+      "addeddate": "2018-11-22 09:17:46",
+      "publicdate": "2018-11-22 09:18:25",
+      "imagecount": "230",
+      "scandate": "20181122103236",
+      "republisher_operator": "associate-ria-gargoles@archive.org",
+      "republisher_date": "20181123140347",
+      "republisher_time": "376",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/supersupperscook0002byrd",
+      "identifier-ark": "ark:/13960/t83k0vb51",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:supersupperscook0002byrd:epub:f0ad884c-1ef9-4e99-bfd1-325b84a34a94",
+        "urn:acs6:supersupperscook0002byrd:pdf:df13a974-9458-49a4-8f57-0124992d51c6",
+        "urn:lcp:supersupperscook0002byrd:lcpdf:2754778f-b05c-4f1f-a9ff-ec4011241177",
+        "urn:lcp:supersupperscook0002byrd:epub:982a0b22-e66a-45a4-bfad-19056329e3f9"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_edition": "OL26150090M",
+      "openlibrary_work": "OL17559645W",
+      "sponsordate": "20181130",
+      "loans__status__status": "UNAVAILABLE",
+      "loans__status__num_loans": "1",
+      "loans__status__num_waitlist": "0",
+      "loans__status__num_history": "5",
+      "loans__status__last_loan_date": "2020-09-01T18:23:51Z",
+      "access-restricted-item": "true",
+      "backup_location": "ia906804_16",
+      "oclc-id": [
+        "962880142",
+        "231581876"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "96.93",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia600701.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "cnusd-ol": {
+          "notes": {
+            "isbn": [
+              "9780696241802"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-06-25 05:17:47.089991"
+        }
+      }
+    },
+    "uniq": 18340489,
+    "workable_servers": [
+      "ia600701.us.archive.org",
+      "ia800701.us.archive.org"
+    ]
+  },
+  "institution": "Byrd, Judie",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

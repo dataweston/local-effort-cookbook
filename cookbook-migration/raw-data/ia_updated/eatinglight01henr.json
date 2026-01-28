@@ -1,0 +1,549 @@
+{
+  "source": "internet_archive",
+  "identifier": "eatinglight01henr",
+  "title": "Eating light",
+  "creator": "Henry, Linda",
+  "year": 1985,
+  "subject": "Cookery",
+  "description": [
+    "At head of title: Better homes and gardens",
+    "Includes index"
+  ],
+  "metadata": {
+    "created": 1758555849,
+    "d1": "ia902801.us.archive.org",
+    "d2": "ia802801.us.archive.org",
+    "dir": "/28/items/eatinglight01henr",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659909946",
+        "size": "19277",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "7ca70e265e582ce88cca2173098c50aa",
+        "crc32": "8ce26ab6",
+        "sha1": "74012b01ba4174274848819af3170902f3616c9c"
+      },
+      {
+        "name": "eatinglight01henr.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "eatinglight01henr_hocr.html",
+        "mtime": "1753260124",
+        "size": "20902667",
+        "private": "true",
+        "md5": "10060035a40a196552998064404e9006",
+        "crc32": "e7cee66f",
+        "sha1": "a81dbe6cdb62a26e0f90e512733e9597f67b3c74"
+      },
+      {
+        "name": "eatinglight01henr.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "eatinglight01henr_jp2.zip",
+        "mtime": "1322434956",
+        "size": "245449",
+        "md5": "ea3393a0a599b218f593fe620026e9a6",
+        "crc32": "c8f2f21b",
+        "sha1": "16a82010cb34a3115097fc67d69041512969bef4"
+      },
+      {
+        "name": "eatinglight01henr.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "eatinglight01henr.pdf",
+        "mtime": "1753259783",
+        "size": "10273526",
+        "md5": "01253d35070cbe1df010494784b6d584",
+        "crc32": "94512df6",
+        "sha1": "4b80d49da371ec945ebf3be2b8385f03a953e77e"
+      },
+      {
+        "name": "eatinglight01henr.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "eatinglight01henr_page_numbers.json",
+        "mtime": "1715152293",
+        "size": "9962454",
+        "md5": "34d915dc515c8f5d450a7bb9684bda74",
+        "crc32": "28e8fe49",
+        "sha1": "2253fd0ba59bbb4aac572c8be4d90527a4be3e75",
+        "private": "true"
+      },
+      {
+        "name": "eatinglight01henr_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "eatinglight01henr_jp2.zip",
+        "mtime": "1322435869",
+        "size": "2307671",
+        "md5": "46440dea9c6d4e6882e5a817d278e97d",
+        "crc32": "953fe53d",
+        "sha1": "a419ca03f47ed3c0db65e387059d7af8dd4a8991",
+        "private": "true"
+      },
+      {
+        "name": "eatinglight01henr_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "eatinglight01henr_abbyy.gz",
+        "mtime": "1659909779",
+        "size": "1946365",
+        "md5": "a5322d71317bdb13cdcfd38bac878cf7",
+        "crc32": "6243bcc6",
+        "sha1": "f3697f817b68be2cabd1832187ba6fcfe3722ed2",
+        "private": "true"
+      },
+      {
+        "name": "eatinglight01henr_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "eatinglight01henr_scandata.xml",
+        "mtime": "1669843433",
+        "size": "761",
+        "md5": "c4ccd9eec7d281cf54029dab4bd1e1f4",
+        "crc32": "ddc5efb3",
+        "sha1": "28fb08e664a77a51295a15b6cd36fb96fe35a7ce",
+        "private": "true"
+      },
+      {
+        "name": "eatinglight01henr_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1268086089",
+        "size": "741",
+        "md5": "3339eca563c7626ebaf35adcc8bbc4eb",
+        "crc32": "d329d454",
+        "sha1": "087dfd8b51616e640b86ec2b49e10f390118b6da"
+      },
+      {
+        "name": "eatinglight01henr_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "eatinglight01henr_djvu.xml",
+        "mtime": "1715152342",
+        "size": "177876",
+        "md5": "2ab119fc569aebe9c4f665b3879e78a7",
+        "crc32": "896b8394",
+        "sha1": "50229ba7e2688c0c9c6d8240a79747cff81887e2",
+        "private": "true"
+      },
+      {
+        "name": "eatinglight01henr_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "eatinglight01henr_hocr.html",
+        "mtime": "1715150296",
+        "size": "2222421",
+        "md5": "bcf4c5914276fe1fe6f207fb15388237",
+        "crc32": "75cf149e",
+        "sha1": "4a2b02387b7e1de228b519a0247088aa123e48c5",
+        "private": "true"
+      },
+      {
+        "name": "eatinglight01henr_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "eatinglight01henr.pdf",
+        "mtime": "1715152344",
+        "size": "9937059",
+        "md5": "225fb0226737ff41ca31d9cf434fa498",
+        "crc32": "8fd9aef4",
+        "sha1": "923b9b935e621b9f91225edf6bada727e0860c3d"
+      },
+      {
+        "name": "eatinglight01henr_extramarc.xml",
+        "source": "original",
+        "mtime": "1402228306",
+        "size": "3341",
+        "md5": "e4ad15d4ec564d2fa81a6955a46c80d4",
+        "crc32": "7d0b92fd",
+        "sha1": "2090b5b5193d58d687af68fc1586cc16c847bd4b",
+        "format": "Metadata"
+      },
+      {
+        "name": "eatinglight01henr_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "bb9f890da62a93ad531dd3407bcc2de6",
+        "summation": "md5"
+      },
+      {
+        "name": "eatinglight01henr_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "eatinglight01henr_chocr.html.gz",
+        "mtime": "1659909871",
+        "size": "4607599",
+        "md5": "43aff0cd212c2828dc6f0fa901a3722f",
+        "crc32": "3e8e8e2f",
+        "sha1": "65a7d954189b21ccc5431ec811955a440f2fd298",
+        "private": "true"
+      },
+      {
+        "name": "eatinglight01henr_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "eatinglight01henr_hocr.html",
+        "mtime": "1659909907",
+        "size": "1160",
+        "md5": "39faa8fda64d127212cc79900df68e81",
+        "crc32": "fe53c321",
+        "sha1": "a2d7d99ad363f683ff8a66ef88cc2ba761c1dbf8",
+        "private": "true"
+      },
+      {
+        "name": "eatinglight01henr_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1170",
+        "word_conf_11_20": "334",
+        "word_conf_21_30": "1680",
+        "word_conf_31_40": "2140",
+        "word_conf_41_50": "3830",
+        "word_conf_51_60": "4764",
+        "word_conf_61_70": "5088",
+        "word_conf_71_80": "2618",
+        "word_conf_81_90": "1035",
+        "word_conf_91_100": "2696",
+        "format": "OCR Search Text",
+        "original": "eatinglight01henr_hocr.html",
+        "mtime": "1659909930",
+        "size": "48471",
+        "md5": "b8fb7debb237eee5ab8ecad03ee439fd",
+        "crc32": "482f757f",
+        "sha1": "1bc54e159463eb11b506295f6f56d5e63c031b42",
+        "private": "true"
+      },
+      {
+        "name": "eatinglight01henr_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "eatinglight01henr_orig_jp2.tar",
+        "mtime": "1322434873",
+        "size": "50979241",
+        "md5": "7f92497561194a20ad7098a01ba532c8",
+        "crc32": "307d3343",
+        "sha1": "9a8f67279c7d0544607c28b9ce3e1f3706c02aeb",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "eatinglight01henr_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "eatinglight01henr.epub",
+        "mtime": "1753260277",
+        "size": "21000983",
+        "md5": "36815ba3be75f1dc37eeee77b827ea9f",
+        "crc32": "72e24a99",
+        "sha1": "5cbffaf68032abb7ac21248bf0cadefc5a4f1c96"
+      },
+      {
+        "name": "eatinglight01henr_loans.json",
+        "source": "original",
+        "mtime": "1593605383",
+        "size": "3298",
+        "format": "JSON",
+        "private": "true",
+        "md5": "9cb1a3167f8fff897119bdf1c6fe3629",
+        "crc32": "c4f1f28a",
+        "sha1": "5c2233dcce6577bdfbd63c428e953d7de1433419"
+      },
+      {
+        "name": "eatinglight01henr_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1268086089",
+        "size": "6818",
+        "md5": "03b92440792931e0e36f71857f266f21",
+        "crc32": "46e89f19",
+        "sha1": "422fb96beb54bcccf9dc94ff103917935586a2ed"
+      },
+      {
+        "name": "eatinglight01henr_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "eatinglight01henr_xisbn.json",
+        "mtime": "1454265772",
+        "size": "759",
+        "md5": "75dc188c198ed61246975dfc196f8c4a",
+        "crc32": "f9e3c8a3",
+        "sha1": "1c810b56d79fe0618771667ed33d1c9a4d476af6",
+        "private": "true"
+      },
+      {
+        "name": "eatinglight01henr_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1268086089",
+        "size": "1797",
+        "md5": "ca12038e85c91946d8278b4961e9ef94",
+        "crc32": "41cd0ec0",
+        "sha1": "1585d7e90c7fddb5492750ab47469faa77e495ec"
+      },
+      {
+        "name": "eatinglight01henr_meta.sqlite",
+        "source": "original",
+        "mtime": "1464939119",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "538e8d1be4b3f2d25cdee477ef35e7e4",
+        "crc32": "1f7a5443",
+        "sha1": "07e821d82d22695c91121777797a34d670ae5aac"
+      },
+      {
+        "name": "eatinglight01henr_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753260278",
+        "size": "3624",
+        "md5": "92e2c386e62f1dcdf3ad32085b403b25",
+        "crc32": "064fa5a6",
+        "sha1": "1e41c4f5f53e22ce863df1785e26a36f642e2656"
+      },
+      {
+        "name": "eatinglight01henr_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1268086089",
+        "size": "396",
+        "md5": "688d3fa82a6ee98847ec6005488b1194",
+        "crc32": "7a9ea444",
+        "sha1": "381fbcc777c4bce355c2d8f1cbd90f30773efc43"
+      },
+      {
+        "name": "eatinglight01henr_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1321715337",
+        "size": "70656000",
+        "md5": "02dd0a1e6eb3d5b789fe942805399a96",
+        "crc32": "dc48609b",
+        "sha1": "8f31eadd4d34d8be87d7579da6514325f7d50e2f",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "eatinglight01henr_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "eatinglight01henr_hocr.html",
+        "mtime": "1715150520",
+        "size": "16901",
+        "md5": "d8beea4c807d61930b89c2f856377828",
+        "crc32": "98e9320b",
+        "sha1": "3a45af28d09127e9fd96bbcc79c44db7df6b1ddf",
+        "private": "true"
+      },
+      {
+        "name": "eatinglight01henr_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669843433",
+        "size": "101512",
+        "md5": "f6dea535795a4ad4f2871ebce7a5228f",
+        "crc32": "6c5dabbc",
+        "sha1": "84b2eff1b0372f33d6b36f0f27d2bf79535f0a7c"
+      },
+      {
+        "name": "eatinglight01henr_xisbn.json",
+        "source": "original",
+        "mtime": "1454243156",
+        "size": "705",
+        "md5": "547fba0fa79985febd6f4760a09e31fb",
+        "crc32": "506a152f",
+        "sha1": "64c77aff3037b5a3344a23961374234c03ca75a3",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753260278,
+    "item_size": 205435016,
+    "metadata": {
+      "title": "Eating light",
+      "creator": "Henry, Linda",
+      "subject": "Cookery",
+      "description": [
+        "At head of title: Better homes and gardens",
+        "Includes index"
+      ],
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "date": "1985-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696014750",
+        "9780696014758",
+        "0696014807",
+        "9780696014802"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA112124",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-03-08 22:08:09",
+      "updater": "Craig.B",
+      "identifier": "eatinglight01henr",
+      "uploader": "craig.b@archive.org",
+      "addeddate": "2010-03-08 22:08:11",
+      "publicdate": "2010-03-08 22:08:16",
+      "scanner": "scribe6.shenzhen.archive.org",
+      "repub_seconds": "85",
+      "ppi": "386",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-tiger@archive.org",
+      "scandate": "20111119150847",
+      "imagecount": "102",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/eatinglight01henr",
+      "identifier-ark": "ark:/13960/t8x93741s",
+      "bookplateleaf": "0002",
+      "scanfee": "125",
+      "sponsordate": "sent20111205",
+      "external-identifier": [
+        "urn:acs6:eatinglight01henr:pdf:ae0e34ab-3cfe-43ea-b521-91bdc0789b4d",
+        "urn:acs6:eatinglight01henr:epub:713f980c-2a0a-4f86-813a-642e2a39c9a3",
+        "urn:oclc:record:1033563874",
+        "urn:lcp:eatinglight01henr:lcpdf:98d0cace-6ee4-4124-bd1b-3b84e1e56a2e",
+        "urn:lcp:eatinglight01henr:epub:c687c26f-153b-4cb7-8066-a9e52c3d2842"
+      ],
+      "donor": "alibris",
+      "extramarc": "University of Alberta Libraries",
+      "boxid_2": "CH129925",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": [
+        "12134038",
+        "635071752"
+      ],
+      "lccn": "84061308",
+      "related-external-id": [
+        "urn:isbn:0696014807",
+        "urn:lccn:84061309",
+        "urn:lccn:84061308",
+        "urn:oclc:11891138",
+        "urn:oclc:427170190",
+        "urn:oclc:748342481",
+        "urn:oclc:795366730",
+        "urn:oclc:12134038",
+        "urn:oclc:635071752"
+      ],
+      "backup_location": "ia903604_35",
+      "openlibrary_edition": "OL7760203M",
+      "openlibrary_work": "OL8194232W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Thu Dec 24 3:07:41 UTC 2020",
+        "Wed Apr 3 1:32:36 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia802801.us.archive.org",
+    "uniq": 1875465866,
+    "workable_servers": [
+      "ia802801.us.archive.org",
+      "ia902801.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/12134038?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "84061308"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Linda Henry].",
+          "ed": "1st ed.",
+          "year": "1985",
+          "isbn": [
+            "0696014750"
+          ],
+          "title": "Eating light",
+          "oclcnum": [
+            "12134038",
+            "635071752"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/11891138?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "84061309",
+            "84061308"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "Better Homes and Gardens.",
+          "ed": "1st ed.",
+          "year": "1985",
+          "isbn": [
+            "0696014807"
+          ],
+          "title": "Kids' snacks",
+          "oclcnum": [
+            "11891138",
+            "427170190",
+            "748342481",
+            "795366730",
+            "12134038",
+            "635071752"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Henry, Linda",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

@@ -1,0 +1,502 @@
+{
+  "source": "internet_archive",
+  "identifier": "onedishrecipesmo0000unse",
+  "title": "One dish recipes & more",
+  "creator": null,
+  "year": 2003,
+  "subject": "Casserole cooking",
+  "description": [
+    "704 pages : 24 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/onedishrecipesmo0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/onedishrecipesmo0000unse"
+        }
+      ]
+    },
+    "created": 1758555960,
+    "d1": "ia903100.us.archive.org",
+    "d2": "ia803100.us.archive.org",
+    "dir": "/29/items/onedishrecipesmo0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660796870",
+        "size": "19989",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "816fc449de198328ec9445d806006a59",
+        "crc32": "95cd7d62",
+        "sha1": "c20add87c1c6d03f80813cc73e42f3c662c4d806"
+      },
+      {
+        "name": "logs/onedishrecipesmo0000unse_iabdash_2019-12-0514:18:55.log",
+        "source": "original",
+        "mtime": "1575526739",
+        "size": "1352",
+        "md5": "d76bfd34237f33ddae369d3b0e9c114e",
+        "crc32": "bae7b3c9",
+        "sha1": "298303db70b282e90336dd84eb46517b873847cd",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/onedishrecipesmo0000unse_scanning_2019-12-0514:19:00.log",
+        "source": "original",
+        "mtime": "1575526746",
+        "size": "1802980",
+        "md5": "345e710d64e050141f5fe4f000b269b1",
+        "crc32": "82a52580",
+        "sha1": "b380228020860be12162274ebbe9be1904a73460",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "onedishrecipesmo0000unse_hocr.html",
+        "mtime": "1757186009",
+        "size": "22565561",
+        "private": "true",
+        "md5": "90a20cbe69adc9a22e040d5c3a915957",
+        "crc32": "52a26932",
+        "sha1": "9b607f177e503080796537764dd7ae46c045eceb"
+      },
+      {
+        "name": "onedishrecipesmo0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "onedishrecipesmo0000unse.pdf",
+        "mtime": "1757185680",
+        "size": "43293456",
+        "md5": "4d1515db8a8ea44fdc3576b55adfa7a7",
+        "crc32": "6a636de7",
+        "sha1": "4a88f26736c91ba7b3c575f97c927958a9e80217"
+      },
+      {
+        "name": "onedishrecipesmo0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "onedishrecipesmo0000unse_page_numbers.json",
+        "mtime": "1718282556",
+        "size": "42837570",
+        "md5": "820aee7fd5cd98b1fbf29b425a129f15",
+        "crc32": "d446b2ec",
+        "sha1": "f93319a1c30d76c7fd52d8a09d428b473b674307",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "onedishrecipesmo0000unse_jp2.zip",
+        "mtime": "1575873268",
+        "size": "14010855",
+        "md5": "98902628f46651e5be7f93f8fb6d35bd",
+        "crc32": "28f49167",
+        "sha1": "1052a0ce57f6f29e06512d7fedee9ad37bb2cda8",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.14",
+        "ocr_converted": "abbyy-to-hocr 1.1.11",
+        "format": "chOCR",
+        "original": "onedishrecipesmo0000unse_abbyy.gz",
+        "mtime": "1638187697",
+        "size": "11717175",
+        "md5": "fdefb947f40c64c3971858b6cb0ed091",
+        "crc32": "2063f9be",
+        "sha1": "bdcd075f6a1313d4a50b7f7cf70006e95280a553",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "onedishrecipesmo0000unse_scandata.xml",
+        "mtime": "1670803159",
+        "size": "787",
+        "md5": "89f7ba1d3217668bafb2a2b0aa2b60ef",
+        "crc32": "eba0e265",
+        "sha1": "07704f0d6350c396d93ea9e563ac1e0c91b687b5",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1638187473",
+        "size": "992",
+        "md5": "27a710cd16af9cd2464473826b81afea",
+        "crc32": "dbd598e6",
+        "sha1": "ede2570e1f68c7ed3b09a07d2496b980604e1a8b"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "onedishrecipesmo0000unse_djvu.xml",
+        "mtime": "1638188166",
+        "size": "1025966",
+        "md5": "afe5ed137ab200b7adef4b891ef1f81e",
+        "crc32": "65b566a5",
+        "sha1": "87437e91292ce0034ebbfaa8a3d25b0cee7acfd0",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "onedishrecipesmo0000unse_hocr.html",
+        "mtime": "1638187976",
+        "size": "12450484",
+        "md5": "79e1179420e1df565f5b35d8313588d2",
+        "crc32": "e8a0465a",
+        "sha1": "7089e7290b9b9244b7947de03da786ad3e5b9e6b",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "onedishrecipesmo0000unse_abbyy.gz",
+        "mtime": "1575881367",
+        "size": "12383577",
+        "md5": "da8ed08f722e580d1d820255836f6f36",
+        "crc32": "987c251b",
+        "sha1": "9c7fffa66f7015175b5ddb7627857b550b74ce5c"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "onedishrecipesmo0000unse.pdf",
+        "mtime": "1718283551",
+        "size": "42255233",
+        "md5": "4ebd582b105d911faf93ff2f2b8065ae",
+        "crc32": "8668c9f5",
+        "sha1": "9d2a137e506b57001831e4fc53e2dcaf578ce114"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_events.json",
+        "source": "original",
+        "mtime": "1575854574",
+        "size": "58",
+        "md5": "83a2d7b9b5ec159e7dacfc2bab86b623",
+        "crc32": "0bcb0dbc",
+        "sha1": "f3b1fe7930f5215e58f3909c61ac8ee4dcdb5c0e",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9725cda424cad2342749a9ad075a1305",
+        "summation": "md5"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_module_version": "0.0.14",
+        "ocr_converted": "abbyy-to-hocr 1.1.11",
+        "format": "hOCR",
+        "original": "onedishrecipesmo0000unse_chocr.html.gz",
+        "mtime": "1638187894",
+        "size": "27230115",
+        "md5": "e6059f4f272ef40adfaff2421e5578e5",
+        "crc32": "08aadbcc",
+        "sha1": "8ad95a64c66fa80c7301220e5f63f97a0d7e3131",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "onedishrecipesmo0000unse_hocr.html",
+        "mtime": "1638188076",
+        "size": "8475",
+        "md5": "f14ba70e62b369aef1d0b78ee1a60b56",
+        "crc32": "ae5d6374",
+        "sha1": "5230c1beb01fd68e32811c610eddfb0c2b055d63",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "661",
+        "word_conf_11_20": "402",
+        "word_conf_21_30": "779",
+        "word_conf_31_40": "1184",
+        "word_conf_41_50": "1790",
+        "word_conf_51_60": "2972",
+        "word_conf_61_70": "6062",
+        "word_conf_71_80": "12984",
+        "word_conf_81_90": "34561",
+        "word_conf_91_100": "81256",
+        "format": "OCR Search Text",
+        "original": "onedishrecipesmo0000unse_hocr.html",
+        "mtime": "1638188127",
+        "size": "247602",
+        "md5": "7f0c1e17e4c393d5c02f5cefe7e65805",
+        "crc32": "661f2ccc",
+        "sha1": "57f1d9e5f042266aef4a56c7f9171576bb2a96d1",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "onedishrecipesmo0000unse_orig_jp2.tar",
+        "mtime": "1575870446",
+        "size": "352760696",
+        "md5": "f69d62a39708bb1cbbc817f7845c101c",
+        "crc32": "19a96c94",
+        "sha1": "2a5eb91d49376a1f2934d7dffae8365c4b946d2f",
+        "private": "true",
+        "filecount": "710"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "onedishrecipesmo0000unse.epub",
+        "mtime": "1757186185",
+        "size": "22909178",
+        "md5": "3e6a8df77793efc27935424d5ed42330",
+        "crc32": "556d0e84",
+        "sha1": "84babe4a4c9c5a73dc9565902d9369d0144ef2cb"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593247470",
+        "size": "901",
+        "format": "JSON",
+        "private": "true",
+        "md5": "3819723737659b1848599807d35a4fca",
+        "crc32": "8fdaaefb",
+        "sha1": "45f1c24adc245e1ed07468485694efae2e887ce2"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1638187473",
+        "size": "4111",
+        "format": "MARC",
+        "md5": "53d1b86ef650b445ce5837292aa8a536",
+        "crc32": "662d6da6",
+        "sha1": "343fc008f442663aa907658fb87dde3baab5b8f1"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1575526734",
+        "size": "1131",
+        "md5": "d4d929f2e604f095a237da5107c3f6ad",
+        "crc32": "07add294",
+        "sha1": "798d757e89fefe99391db3aff6db3ef159ea2257",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1575854665",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "1d7df730a677fa1affaf49dfdc463c16",
+        "crc32": "54d637a3",
+        "sha1": "325184f17522c09cab75969d63de4ecce8425a94"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1757186186",
+        "size": "2841",
+        "format": "Metadata",
+        "md5": "379d5d644f3ad3be72d0226995dfc632",
+        "crc32": "fb0765d3",
+        "sha1": "0f56e00f3582f75f88cf99442ad58bccaa7f624d"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1575854664",
+        "size": "816640000",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "9468a3213b70741a9b136bdb7805dbc3",
+        "crc32": "26f3829d",
+        "sha1": "eff8c7ebcbba32efef91b36276ac0ff150215dc0",
+        "filecount": "710"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "onedishrecipesmo0000unse_hocr.html",
+        "mtime": "1718282556",
+        "size": "120544",
+        "md5": "d3b3617b9c1e0f133936269dbdbf715d",
+        "crc32": "5df08ca8",
+        "sha1": "137c26249320533f29a32d26f7dc1e6f74500772",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670803159",
+        "size": "727320",
+        "format": "Scandata",
+        "md5": "0c240fa20d919477bda2ada2fefecc1a",
+        "crc32": "817bf0be",
+        "sha1": "2714435a1fc9d0b38629a6f62fa15ebcbd06d6d6"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_slip.png",
+        "source": "original",
+        "mtime": "1575462492",
+        "size": "40789",
+        "md5": "1608b0df0159f0cf820276753e4efd54",
+        "crc32": "f03dc507",
+        "sha1": "01969b33c35128c5af8114ff7d27fdc4ca1541fd",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "onedishrecipesmo0000unse_slip.png",
+        "mtime": "1575854770",
+        "size": "5584",
+        "md5": "ed3c8ef437d43b1e406beb2fcbb2b41e",
+        "crc32": "b1a290b6",
+        "sha1": "7a9522696c74f5cbdb10b8c21266a5026e6e467d",
+        "private": "true"
+      },
+      {
+        "name": "onedishrecipesmo0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "onedishrecipesmo0000unse_djvu.xml",
+        "mtime": "1670803072",
+        "size": "566",
+        "md5": "35e54e34df0289e6ff086e7312c4e699",
+        "crc32": "d03e230c",
+        "sha1": "2582e27fea412e06012335e22c5157a4328d8130",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1757186186,
+    "item_size": 1425083296,
+    "metadata": {
+      "identifier": "onedishrecipesmo0000unse",
+      "boxid": "IA1728513",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2003-01-01",
+      "description": [
+        "704 pages : 24 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "0785398171",
+        "9780785398172"
+      ],
+      "language": "eng",
+      "lccn": "2004274210",
+      "mediatype": "texts",
+      "old_pallet": "IA15469",
+      "openlibrary_edition": "OL8101666M",
+      "operator": "associate-jerald-capanay@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International, Ltd.",
+      "repub_state": "19",
+      "scanner": "station30.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780785398172",
+      "subject": "Casserole cooking",
+      "title": "One dish recipes & more",
+      "tts_version": "3.2-rc-2-g0d7c1ed",
+      "uploader": "station30.cebu@archive.org",
+      "addeddate": "2019-12-04 12:28:12",
+      "publicdate": "2019-12-04 12:28:23",
+      "access-restricted-item": "true",
+      "imagecount": "710",
+      "scandate": "20191205080108",
+      "republisher_operator": "associate-genevieve-dimiao@archive.org",
+      "republisher_date": "20191209092243",
+      "republisher_time": "827",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/onedishrecipesmo0000unse",
+      "identifier-ark": "ark:/13960/t87h9qc49",
+      "ocr": "ABBYY FineReader 11.0 (Extended OCR)",
+      "external-identifier": [
+        "urn:acs6:onedishrecipesmo0000unse:epub:c748e095-d926-4ab9-a6af-bd8ab3328fa7",
+        "urn:acs6:onedishrecipesmo0000unse:pdf:c475273e-377a-4f34-8354-47c5396aebbb",
+        "urn:lcp:onedishrecipesmo0000unse:lcpdf:cac162e4-dd22-40c5-b353-175a7fd0f7ea",
+        "urn:lcp:onedishrecipesmo0000unse:epub:a2e6b0a5-4193-4850-97ad-0ed6c5cedfd0"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_work": "OL20525940W",
+      "sponsordate": "20191231",
+      "backup_location": "ia907008_3",
+      "ocr_module_version": "0.0.14",
+      "ocr_converted": "abbyy-to-hocr 1.1.11",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia803100.us.archive.org",
+    "uniq": 18326235,
+    "workable_servers": [
+      "ia803100.us.archive.org",
+      "ia903100.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,100 @@
+{
+  "source": "dpla",
+  "id": "14e51170d70e9a0093329193a76d6060",
+  "identifier": "14e51170d70e9a0093329193a76d6060",
+  "title": "Mason cook book",
+  "subject": [
+    "Cooking, American",
+    "Cooking",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan",
+    "Mason"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5v40p09p",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1899,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/14e51170d70e9a0093329193a76d6060#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "date": [
+        {
+          "begin": "1899",
+          "displayDate": "1899",
+          "end": "1899"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Mason"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "Mason cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1899-01-01",
+      "normalized_dates": [
+        "1899-01-01"
+      ],
+      "date_range": {
+        "begin": "1899-01-01",
+        "end": "1899-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5v40p09p/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5v40p09p"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

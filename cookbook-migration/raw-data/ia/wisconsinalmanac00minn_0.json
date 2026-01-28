@@ -1,0 +1,577 @@
+{
+  "source": "internet_archive",
+  "identifier": "wisconsinalmanac00minn_0",
+  "title": "The Wisconsin almanac : being a loosely-organized compendium of facts, history, lore, remembrances, puzzles, recipes, and both household and gardening advice with which to offer elucidation, assistance, and occasional amusement to the conscientious reader",
+  "creator": "Minnich, Jerry",
+  "year": 1989,
+  "subject": null,
+  "description": null,
+  "metadata": {
+    "created": 1758337147,
+    "d1": "ia600608.us.archive.org",
+    "d2": "ia800608.us.archive.org",
+    "dir": "/21/items/wisconsinalmanac00minn_0",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661315697",
+        "size": "31288",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "9687cd4f3f676e4c7d80cb5cf251f78a",
+        "crc32": "3f4a2bfe",
+        "sha1": "dbd2ae4a53919112eafd298dc3cb41f7458819ee"
+      },
+      {
+        "name": "bak/2017/wisconsinalmanac00minn_0_meta.sqlite.bak",
+        "source": "original",
+        "mtime": "1495877032",
+        "size": "11264",
+        "md5": "c306b1748f185049aa4195430a06e3c3",
+        "crc32": "12b9ea42",
+        "sha1": "9fd22912aefc0ba11ec299412939b3944d98e7bd",
+        "format": "Backup",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0.cdx.gz",
+        "source": "original",
+        "mtime": "1496220858",
+        "size": "6460",
+        "format": "Item CDX Index",
+        "private": "true",
+        "md5": "baf9566985b9e41a3003ca6cf9af4a1b",
+        "crc32": "84cb34e7",
+        "sha1": "18abe6577b16754842c9b9907830abe1a1c604f1"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0.cdx.idx",
+        "source": "original",
+        "mtime": "1496220858",
+        "size": "40",
+        "format": "Item CDX Meta-Index",
+        "private": "true",
+        "md5": "2525805d969e1e0a6e5687d0a2a1a578",
+        "crc32": "e5797fc4",
+        "sha1": "f6a1e00515f5541692b4061e8f51ca1c5f891e46"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "wisconsinalmanac00minn_0_hocr.html",
+        "mtime": "1754170195",
+        "size": "78701370",
+        "private": "true",
+        "md5": "b64bfc0692b984a088a9cb6c8fc4b3c2",
+        "crc32": "bd4c461c",
+        "sha1": "83e9225ac832f0776192803c4c644ce0f715bbaa"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "wisconsinalmanac00minn_0.pdf",
+        "mtime": "1754169936",
+        "size": "30345239",
+        "md5": "1128fde6de3fa557de03defe5266a374",
+        "crc32": "06caefee",
+        "sha1": "a4df79bee513f79dddf97b5a9771ab0c66a1c17c"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "wisconsinalmanac00minn_0_page_numbers.json",
+        "mtime": "1727086962",
+        "size": "29546961",
+        "md5": "63db41416b365621ed8a4b07f70acffb",
+        "crc32": "4d176d6d",
+        "sha1": "bc0dfa8a5c7f081aa5bcef6222fe9618e9c9087f",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1434477063",
+        "size": "733238",
+        "md5": "573f1a68e643b95652eeca125d1415de",
+        "crc32": "86843523",
+        "sha1": "95c8dc7f915574a7a00061e363c9375ac3937069"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "wisconsinalmanac00minn_0.warc.gz",
+        "mtime": "1496208408",
+        "size": "6582",
+        "md5": "d8fc2dba153fd7e6acaaf3f64acad7dd",
+        "crc32": "367fc611",
+        "sha1": "d9254fa6830548f12caa4a83f7b0be1accd73230",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "wisconsinalmanac00minn_0_jp2.zip",
+        "mtime": "1496218465",
+        "size": "7039446",
+        "md5": "b231085454102326a34ce417c0fb9051",
+        "crc32": "e923e3db",
+        "sha1": "d64b865869eadffdc447146c215ff1933053a5d1",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "wisconsinalmanac00minn_0_abbyy.gz",
+        "mtime": "1661314917",
+        "size": "6160939",
+        "md5": "b2f134d28871ff6da58863e78ffac763",
+        "crc32": "aebbff67",
+        "sha1": "f73483d18c2100c44a4085ba15211600f9e7ad4c",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "wisconsinalmanac00minn_0_scandata.xml",
+        "mtime": "1671844339",
+        "size": "789",
+        "md5": "27bd6468d1396d06f685657cad854a65",
+        "crc32": "71addfe8",
+        "sha1": "8f294fa7e3ff9c0560624972e8225977783bf0f6",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1434477063",
+        "size": "1100",
+        "md5": "35ff0cbf40fc47c7eff0409c401b6810",
+        "crc32": "33be916d",
+        "sha1": "899650fa8a97160fca0f46f116e0d860db8b3c4d"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "wisconsinalmanac00minn_0_djvu.xml",
+        "mtime": "1661315690",
+        "size": "551803",
+        "md5": "ff66a1f7609f1d520f234bee718441e9",
+        "crc32": "5c6443e5",
+        "sha1": "01e87f0ad414081ab3e2db9866d746eed1b3be40",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "wisconsinalmanac00minn_0_hocr.html",
+        "mtime": "1661315342",
+        "size": "6947560",
+        "md5": "7f8776d1a9f8cdacb45f3e5ca9ef9022",
+        "crc32": "a01273fd",
+        "sha1": "d5a57a6e9f962bc98b595add8ba18260d455144b",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "wisconsinalmanac00minn_0_jpg.pdf",
+        "mtime": "1509249255",
+        "size": "4300835",
+        "md5": "98b010d41e7092082681bb65a8ec6cf7",
+        "crc32": "cc8c75e0",
+        "sha1": "6ce1890a95208770aec7f33b42038538737c4b7d"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "wisconsinalmanac00minn_0.pdf",
+        "mtime": "1727087634",
+        "size": "29503317",
+        "md5": "1be518b2a0c107a70da4a066a01318c9",
+        "crc32": "38874fac",
+        "sha1": "ecce255c0750f464fb229c243044b39cd11dca57"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_events.json",
+        "source": "original",
+        "mtime": "1496208242",
+        "size": "53",
+        "md5": "742e98c4a9181614ff5ce8a972586255",
+        "crc32": "9e9c2675",
+        "sha1": "ade523d961e025211ce2ec27c47eeaf1a2abe0be",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "ab455b2423cca1a45d414082eb62dbaf",
+        "summation": "md5"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "wisconsinalmanac00minn_0_chocr.html.gz",
+        "mtime": "1661315319",
+        "size": "14893015",
+        "md5": "ec1920a55598f9e6e9a82adab384430a",
+        "crc32": "832d6b2f",
+        "sha1": "94544ffe06b6265474301b829e6b35f2e1f8b9bf",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "wisconsinalmanac00minn_0_hocr.html",
+        "mtime": "1661315513",
+        "size": "3277",
+        "md5": "ab70dab4262873c6296332ca8a82bf3d",
+        "crc32": "d71ef645",
+        "sha1": "219a1f3bc281d3bfa0242245c57200001f5c5201",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1808",
+        "word_conf_11_20": "701",
+        "word_conf_21_30": "1369",
+        "word_conf_31_40": "2622",
+        "word_conf_41_50": "4983",
+        "word_conf_51_60": "8524",
+        "word_conf_61_70": "12242",
+        "word_conf_71_80": "13882",
+        "word_conf_81_90": "13144",
+        "word_conf_91_100": "23882",
+        "format": "OCR Search Text",
+        "original": "wisconsinalmanac00minn_0_hocr.html",
+        "mtime": "1661315648",
+        "size": "202340",
+        "md5": "012bfac6b62e07d193a4f48272b57a5a",
+        "crc32": "7619da3e",
+        "sha1": "638975b399f5af291a98e22457e40ed92a4b29a1",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "wisconsinalmanac00minn_0_orig_jp2.tar",
+        "mtime": "1496215229",
+        "size": "261670683",
+        "md5": "c878201f2fcf147267a1be22cc2d85b2",
+        "crc32": "ad9a8476",
+        "sha1": "c434b7328a08102fccc9ed801ec339a43fddb5fc",
+        "private": "true",
+        "filecount": "278"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_jpg.pdf",
+        "source": "derivative",
+        "format": "JPEG-Compressed PDF",
+        "original": "wisconsinalmanac00minn_0_abbyy.gz",
+        "mtime": "1509249031",
+        "size": "63673570",
+        "md5": "a6a11d1dfd682c05fc50379946728d54",
+        "crc32": "9a9d1a6e",
+        "sha1": "27d2ee63d1a0d3fc0fbbf9c6e88e69e574b2de3f",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "wisconsinalmanac00minn_0.epub",
+        "mtime": "1754170376",
+        "size": "79054622",
+        "md5": "78c7e66c9a15fb1ef5b512bbf2effdd9",
+        "crc32": "68cc033d",
+        "sha1": "4b485add0c64d8af9dba5ccf67e1568574adc9d5"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_loans.json",
+        "source": "original",
+        "mtime": "1593259534",
+        "size": "2578",
+        "format": "JSON",
+        "private": "true",
+        "md5": "bf237f9d28f406e1144410b202200994",
+        "crc32": "745bfaec",
+        "sha1": "97b6414e43a5928bd76c4f93ffbd5e3c3807c098"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1434477063",
+        "size": "2431",
+        "md5": "40680e0d34ec279a65af50344f92f1cb",
+        "crc32": "243e08a4",
+        "sha1": "a6b753d413955c0900cac7ac4d7fc2da884133ae"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "wisconsinalmanac00minn_0_xisbn.json",
+        "mtime": "1496208410",
+        "size": "144",
+        "md5": "c82e14ba6f68289138b3f416a05b25c5",
+        "crc32": "ffce9e7b",
+        "sha1": "63bf9d0f4409fe5eb929170bbc705c6623597b7e",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_meta.sqlite",
+        "source": "original",
+        "mtime": "1496208348",
+        "size": "13312",
+        "format": "Metadata",
+        "md5": "00621061337a22ba2f2d5f46f7600db7",
+        "crc32": "48091147",
+        "sha1": "1fe9aeacea7e1993099b7df6a0d6e7515f23fb2b"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1754170377",
+        "size": "3376",
+        "md5": "3559af8ae2f6b2c758d7df1fab9890be",
+        "crc32": "813e251e",
+        "sha1": "2ccf758a4499e550d7d42bde2fd4e5417d17a6b8"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1434477063",
+        "size": "242",
+        "md5": "c416b34f9435867d0d85b2ed4ac6a522",
+        "crc32": "6fb11a5d",
+        "sha1": "c6d6a42d45a62d3baa8bff36aea0343e16b52e5a"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1496208342",
+        "size": "652922880",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "b88c357a3dd12d7c1ce51428a696ed86",
+        "crc32": "676d0653",
+        "sha1": "dc4ab27b7d099762b933ea74107ac34b7bad4316",
+        "filecount": "278"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_origin.txt",
+        "source": "original",
+        "mtime": "1495876811",
+        "size": "43",
+        "format": "Text",
+        "private": "true",
+        "md5": "2726cdef128e5747559fe36a101739e2",
+        "crc32": "e69c4231",
+        "sha1": "7b4a2ceecc12e5103dc53a1765c1b41a6c6614b1"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "wisconsinalmanac00minn_0_hocr.html",
+        "mtime": "1727086962",
+        "size": "47074",
+        "md5": "d5b70c061598f3d74e8a34ed049b2888",
+        "crc32": "2e1b8d95",
+        "sha1": "382147fd01c5bae152bc6135fddb96f82a2dedcf",
+        "private": "true"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_scandata.xml",
+        "source": "original",
+        "mtime": "1671844338",
+        "size": "285161",
+        "format": "Scandata",
+        "md5": "a3cb9424599b1022be4701e8982cc031",
+        "crc32": "84efa2c9",
+        "sha1": "f263e7727d996a4561e12fcbf3ee3fe4aaad78e9"
+      },
+      {
+        "name": "wisconsinalmanac00minn_0_xisbn.json",
+        "source": "original",
+        "mtime": "1455137459",
+        "size": "1115",
+        "md5": "8fcf836377e59f95e273974180115718",
+        "crc32": "4a40bb6e",
+        "sha1": "8c243b58dee855d6c52ba5d8c233bb3f6a4be7a3",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 36,
+    "item_last_updated": 1754170377,
+    "item_size": 1266664147,
+    "metadata": {
+      "scanningcenter": "hongkong",
+      "contributor": "Internet Archive",
+      "donor": "bwb",
+      "language": "eng",
+      "extramarc": "works/wanted/0944133061",
+      "isbn": [
+        "0944133061",
+        "9780944133064"
+      ],
+      "boxid": "IA1152211",
+      "title": "The Wisconsin almanac : being a loosely-organized compendium of facts, history, lore, remembrances, puzzles, recipes, and both household and gardening advice with which to offer elucidation, assistance, and occasional amusement to the conscientious reader",
+      "creator": "Minnich, Jerry",
+      "publisher": "Madison, Wis. : North Country Press",
+      "date": "1989-01-01",
+      "lccn": "89039590",
+      "mediatype": "texts",
+      "updatedate": "2015-06-16 17:51:03",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "identifier": "wisconsinalmanac00minn_0",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2015-06-16 17:51:05.94058",
+      "publicdate": "2015-06-16 17:51:08",
+      "identifier-access": "http://archive.org/details/wisconsinalmanac00minn_0",
+      "identifier-ark": "ark:/13960/t5jb0964x",
+      "city": "Madison, Wis.",
+      "oclc-id": "20319526",
+      "related-external-id": [
+        "urn:isbn:1879483491",
+        "urn:lccn:97047785",
+        "urn:oclc:38113467"
+      ],
+      "repub_state": "22",
+      "backup_location": "ia905307_1",
+      "scanner": "ttscribe1.hongkong.archive.org",
+      "operator": "associate-waichung-chan@archive.org",
+      "imagecount": "278",
+      "scandate": "20170527110902",
+      "ppi": "300",
+      "republisher_operator": "republisher2.shenzhen@archive.org",
+      "republisher_date": "20170531111841",
+      "republisher_time": "799",
+      "foldoutcount": "0",
+      "bookplateleaf": "0008",
+      "scanfee": "15",
+      "invoice": "1213",
+      "curation": "[curator]associate-francis-boyer@archive.org[/curator][date]20170531173213[/date][state]approved[/state][comment]199[/comment]",
+      "sponsordate": "20170531",
+      "external-identifier": [
+        "urn:acs6:wisconsinalmanac00minn_0:pdf:1e06e490-b192-4a9b-a257-641d04737070",
+        "urn:acs6:wisconsinalmanac00minn_0:epub:c3b70d78-e5c0-4606-9397-92ec13e96484",
+        "urn:oclc:record:1036931537",
+        "urn:lcp:wisconsinalmanac00minn_0:lcpdf:c3029721-7c34-4c41-a7d6-c23ae7ff4a33",
+        "urn:lcp:wisconsinalmanac00minn_0:epub:ccb650fd-16d0-412f-9a72-7d3cf7cbcf89"
+      ],
+      "openlibrary_edition": "OL2216326M",
+      "openlibrary_work": "OL17718231W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "filesxml": "Wed Apr 3 17:00:55 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "1989-01-01"
+      ]
+    },
+    "server": "ia800608.us.archive.org",
+    "uniq": 254648026,
+    "workable_servers": [
+      "ia800608.us.archive.org",
+      "ia600608.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/20319526?referer=xid"
+          ],
+          "publisher": "North Country Press",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "89039590"
+          ],
+          "lang": "eng",
+          "city": "Madison, Wis.",
+          "author": "Jerry Minnich, general editor.",
+          "year": "1989",
+          "isbn": [
+            "0944133061"
+          ],
+          "title": "The Wisconsin almanac : being a loosely organized compendium of facts, history, lore, remembrances, puzzles, recipes, and both household and gardening advice with which to offer elucidation, assistance, and occasional amusement to the conscientious reader",
+          "oclcnum": [
+            "20319526"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/38113467?referer=xid"
+          ],
+          "publisher": "Prairie Oak Press",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "97047785"
+          ],
+          "lang": "eng",
+          "city": "Madison, Wis.",
+          "author": "Jerry Minnich, general editor.",
+          "ed": "2nd ed., rev.",
+          "year": "1998",
+          "isbn": [
+            "1879483491"
+          ],
+          "title": "The Wisconsin almanac : being a loosely organized compendium of facts, history, lore, remembrances, puzzles, recipes, and both household and gardening advice with which to offer elucidation, assistance, and occasional amusement to the conscientious reader",
+          "oclcnum": [
+            "38113467"
+          ]
+        }
+      ]
+    }
+  }
+}

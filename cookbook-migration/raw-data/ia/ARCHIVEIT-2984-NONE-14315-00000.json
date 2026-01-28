@@ -1,0 +1,148 @@
+{
+  "source": "internet_archive",
+  "identifier": "ARCHIVEIT-2984-NONE-14315-00000",
+  "title": "ARCHIVEIT-2984-NONE-14315-00000",
+  "creator": "Archive-It",
+  "year": 2013,
+  "subject": null,
+  "description": "recurrence=NONE, maxDuration=86400, maxDocumentCount=null, isTestCrawl=false, isPatchCrawl=false, oneTimeSubtype=CRAWL_SELECTED_SEEDS, seedCount=1, accountId=478, accountType=SUBSCRIBER, organizationName=\"Wisconsin Historical Society\", collectionId=2984, collectionName=\"Online Publications (Full Site Index)\"",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721501.ca.archive.org",
+          "dir": "/0/items/ARCHIVEIT-2984-NONE-14315-00000"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721501.ca.archive.org",
+          "dir": "/0/items/ARCHIVEIT-2984-NONE-14315-00000"
+        }
+      ]
+    },
+    "created": 1758318587,
+    "d1": "ia601906.us.archive.org",
+    "d2": "ia801906.us.archive.org",
+    "dir": "/33/items/ARCHIVEIT-2984-NONE-14315-00000",
+    "files": [
+      {
+        "name": "ARCHIVEIT-2984-NONE-14315-00000.cdx.gz",
+        "source": "original",
+        "mtime": "1409339068",
+        "size": "7207",
+        "format": "Item CDX Index",
+        "private": "true",
+        "md5": "8c338d3f626e266db6b19a450e2777fd",
+        "crc32": "79b42c62",
+        "sha1": "8cc8d56c050ac988c020245b04e4ea0bbfcbf0db"
+      },
+      {
+        "name": "ARCHIVEIT-2984-NONE-14315-00000.cdx.idx",
+        "source": "original",
+        "mtime": "1409339068",
+        "size": "47",
+        "format": "Item CDX Meta-Index",
+        "private": "true",
+        "md5": "cef4004b570ee9828c6bfdc8489090c8",
+        "crc32": "13543515",
+        "sha1": "36d4b6eb2be63a5f6768801fdad7b4dbd49aff55"
+      },
+      {
+        "name": "ARCHIVEIT-2984-NONE-14315-00000_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "053f899a650a4ca8359644276d55b1e9",
+        "summation": "md5"
+      },
+      {
+        "name": "ARCHIVEIT-2984-NONE-14315-00000_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1718733678",
+        "size": "1803",
+        "md5": "bf28d2f9c7d097cb7cfcc82e750d596c",
+        "crc32": "a5935b48",
+        "sha1": "27ec4aa3865351e18d3ea9837d443a5c34504fe8"
+      },
+      {
+        "name": "ARCHIVEIT-2984-NONE-14315-20130510160745184-00000-wbgrp-crawl058.us.archive.org-6441.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1368202649",
+        "size": "79703672",
+        "md5": "f983bafbdcd124d5f82b64354b38429f",
+        "crc32": "63ee9796",
+        "sha1": "377df698cc4e3bd56235d2e0fd2073f555e33e39",
+        "private": "true"
+      },
+      {
+        "name": "ARCHIVEIT-2984-NONE-14315-20130510160745184-00000-wbgrp-crawl058.us.archive.org-6441.warc.gz_meta.txt",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1368202650",
+        "size": "1569",
+        "md5": "8ca4785d5149500ac8d8dbf03961e238",
+        "crc32": "361f6fc1",
+        "sha1": "7eca800bb5debb5afb11e40d193d4f88a967383c"
+      },
+      {
+        "name": "ARCHIVEIT-2984-NONE-14315-20130510160745184-00000-wbgrp-crawl058.us.archive.org-6441.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "ARCHIVEIT-2984-NONE-14315-20130510160745184-00000-wbgrp-crawl058.us.archive.org-6441.warc.gz",
+        "mtime": "1409339057",
+        "size": "7434",
+        "md5": "4a87bb54bb150064800c5e074cf5a7a2",
+        "crc32": "6772f54a",
+        "sha1": "c1190cae2ebbb3d07cd55edf122fc4f1d61b1704",
+        "private": "true"
+      }
+    ],
+    "files_count": 7,
+    "item_last_updated": 1718733678,
+    "item_size": 79721732,
+    "metadata": {
+      "identifier": "ARCHIVEIT-2984-NONE-14315-00000",
+      "archiveit-account-id": "478",
+      "archiveit-account-organization-name": "Wisconsin Historical Society",
+      "archiveit-collection-id": "2984",
+      "archiveit-collection-name": "Online Publications (Full Site Index)",
+      "archiveit-recurrence": "NONE",
+      "contributor": "Internet Archive",
+      "crawler": "Heritrix/3.1.2-SNAPSHOT-20130430-0206",
+      "creator": "Archive-It",
+      "description": "recurrence=NONE, maxDuration=86400, maxDocumentCount=null, isTestCrawl=false, isPatchCrawl=false, oneTimeSubtype=CRAWL_SELECTED_SEEDS, seedCount=1, accountId=478, accountType=SUBSCRIBER, organizationName=\"Wisconsin Historical Society\", collectionId=2984, collectionName=\"Online Publications (Full Site Index)\"",
+      "mediatype": "web",
+      "scandate": "20130510160746",
+      "scanner": "wbgrp-crawl058.us.archive.org",
+      "sponsor": "Wisconsin Historical Society",
+      "collection": [
+        "ArchiveIt-Collection-2984",
+        "ArchiveIt-Partner-478",
+        "archiveitdigitalcollection",
+        "web",
+        "archiveitpartners"
+      ],
+      "title": "ARCHIVEIT-2984-NONE-14315-00000",
+      "uploader": "archiveit-uploads@archive.org",
+      "addeddate": "2013-05-10 16:17:30",
+      "publicdate": "2013-05-10 16:18:44",
+      "imagecount": "141",
+      "firstfiledate": "20130510160746",
+      "lastfiledate": "20130510161554",
+      "date": "2013-01-01",
+      "backup_location": "ia905700_19",
+      "access-restricted-item": "true",
+      "normalized_dates": [
+        "2013-01-01"
+      ]
+    },
+    "server": "ia801906.us.archive.org",
+    "uniq": 1533819060,
+    "workable_servers": [
+      "ia801906.us.archive.org",
+      "ia601906.us.archive.org"
+    ]
+  }
+}

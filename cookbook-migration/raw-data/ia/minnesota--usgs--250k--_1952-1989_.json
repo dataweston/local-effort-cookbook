@@ -1,0 +1,87 @@
+{
+  "source": "internet_archive",
+  "identifier": "minnesota--usgs--250k--_1952-1989_",
+  "title": "minnesota--usgs--250k--_1952-1989_",
+  "creator": null,
+  "year": null,
+  "subject": null,
+  "description": "Downloaded from mapstor.com",
+  "metadata": {
+    "created": 1758319906,
+    "d1": "ia600902.us.archive.org",
+    "d2": "ia800902.us.archive.org",
+    "dir": "/18/items/minnesota--usgs--250k--_1952-1989_",
+    "files": [
+      {
+        "name": "minnesota--usgs--250k--(1952-1989).zip",
+        "source": "original",
+        "mtime": "1751251066",
+        "size": "618715819",
+        "md5": "6142a524d3626f81a2ed45c6e4cee60b",
+        "crc32": "95f0b98c",
+        "sha1": "5bad7dd8855f26decb1ada5c34a79a22cb109498",
+        "format": "ZIP",
+        "filecount": "126"
+      },
+      {
+        "name": "minnesota--usgs--250k--_1952-1989__archive.torrent",
+        "source": "metadata",
+        "btih": "dd44dbe2903cd6ec73bf363387e0d4c966ae837a",
+        "mtime": "1751523298",
+        "size": "25476",
+        "md5": "d89973325c8723a50661dbcb8af7c728",
+        "crc32": "0e7a6bc9",
+        "sha1": "c729ca9842efa4b9a7b9a7c3aa32b0de4e4cfa97",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "minnesota--usgs--250k--_1952-1989__files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "2a481e285c15150fc8bb421629a5f9b0",
+        "summation": "md5"
+      },
+      {
+        "name": "minnesota--usgs--250k--_1952-1989__meta.sqlite",
+        "source": "original",
+        "mtime": "1751251123",
+        "size": "20480",
+        "md5": "5cd2b7c614d4a144c2f5f4f7f0dc19f5",
+        "crc32": "7026600f",
+        "sha1": "6dd8038aca4df31a2fc6280c2daddb030692ff70",
+        "format": "Metadata"
+      },
+      {
+        "name": "minnesota--usgs--250k--_1952-1989__meta.xml",
+        "source": "original",
+        "mtime": "1751523289",
+        "size": "638",
+        "md5": "d53df04b40669708dfe710bf0bf7f18f",
+        "crc32": "2238eee3",
+        "sha1": "066b2d43a7145943567f81f7f518450468c029c4",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 5,
+    "item_last_updated": 1751523298,
+    "item_size": 618762413,
+    "metadata": {
+      "identifier": "minnesota--usgs--250k--_1952-1989_",
+      "description": "Downloaded from mapstor.com",
+      "mediatype": "data",
+      "scanner": "Internet Archive Python library 5.4.0",
+      "title": "minnesota--usgs--250k--_1952-1989_",
+      "uploader": "nmalcolm.personal@gmail.com",
+      "collection": "topographic-maps",
+      "publicdate": "2025-06-30 02:38:06",
+      "addeddate": "2025-06-30 02:38:06",
+      "curation": "[curator]validator@archive.org[/curator][date]20250630024146[/date][comment]checked for malware[/comment]"
+    },
+    "server": "ia800902.us.archive.org",
+    "uniq": 1039181635,
+    "workable_servers": [
+      "ia800902.us.archive.org",
+      "ia600902.us.archive.org"
+    ]
+  }
+}

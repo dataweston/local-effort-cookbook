@@ -1,0 +1,686 @@
+{
+  "source": "internet_archive",
+  "identifier": "isbn_9780800733179",
+  "title": "Don't panic, more dinner's in the freezer : a second helping of tasty meals you can make ahead",
+  "creator": "Martinez, Susie",
+  "year": 2009,
+  "subject": [
+    "Make-ahead cookery",
+    "Quick and easy cookery",
+    "Cooking (Frozen foods)"
+  ],
+  "description": "Includes bibliographical references and index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/isbn_9780800733179"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/isbn_9780800733179"
+        }
+      ]
+    },
+    "created": 1758555649,
+    "d1": "ia601202.us.archive.org",
+    "d2": "ia801202.us.archive.org",
+    "dir": "/7/items/isbn_9780800733179",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660360478",
+        "size": "22750",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "f8cfc2b5b2446f41d7a16a57caef469e",
+        "crc32": "d26150e5",
+        "sha1": "20c0b619dc3e6becfe6f94c17b2ef45a396bdaac"
+      },
+      {
+        "name": "bak/2017/isbn_9780800733179_meta.sqlite.bak",
+        "source": "original",
+        "mtime": "1497889196",
+        "size": "8192",
+        "md5": "373490a9b928da8b1b8a59869915da61",
+        "crc32": "82ca986e",
+        "sha1": "84cd6adeec7e3070cf93dad7fb84257fa9490839",
+        "format": "Backup",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179.cdx.gz",
+        "source": "original",
+        "mtime": "1497956639",
+        "size": "186",
+        "format": "Item CDX Index",
+        "private": "true",
+        "md5": "940134d19fe7c814a3a6870c767d56e9",
+        "crc32": "d788a686",
+        "sha1": "f551d4fb1c9a023d8574d23bcc91cc5f53c64ad3"
+      },
+      {
+        "name": "isbn_9780800733179.cdx.idx",
+        "source": "original",
+        "mtime": "1497956639",
+        "size": "33",
+        "format": "Item CDX Meta-Index",
+        "private": "true",
+        "md5": "aee67565b7529c793567b347b103af36",
+        "crc32": "e47c7998",
+        "sha1": "a41fb553f0315285064433090f0f6d79d99eb68f"
+      },
+      {
+        "name": "isbn_9780800733179.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "isbn_9780800733179_hocr.html",
+        "mtime": "1753543119",
+        "size": "6203924",
+        "private": "true",
+        "md5": "46c48c21dee674a181d1086698abf00a",
+        "crc32": "d8a977cd",
+        "sha1": "4a5a6c57478210df97d593bbcf5f26cf045ace89"
+      },
+      {
+        "name": "isbn_9780800733179.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "isbn_9780800733179.pdf",
+        "mtime": "1753543046",
+        "size": "21131248",
+        "md5": "b0d1427baebf12bcc6e1db9bf9a744ee",
+        "crc32": "2bb3592c",
+        "sha1": "d145dd822da56281024e28a44487ad9f811fba10"
+      },
+      {
+        "name": "isbn_9780800733179.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "isbn_9780800733179_page_numbers.json",
+        "mtime": "1726424911",
+        "size": "20564589",
+        "md5": "e7c51732294f85a78d704ff52f0dafc3",
+        "crc32": "390d1b73",
+        "sha1": "a0f4e991a292e12757b188b9300a24406685705a",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1445618309",
+        "size": "3550",
+        "md5": "067be0b4428ae995ceef7b6c812301b9",
+        "crc32": "f0b113a6",
+        "sha1": "020b6b4588433126fab7b7fbfcae71f8ed955f47"
+      },
+      {
+        "name": "isbn_9780800733179.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "isbn_9780800733179.warc.gz",
+        "mtime": "1497946078",
+        "size": "186",
+        "md5": "701b75b80fd3676fd74d16fbbbe83359",
+        "crc32": "0f654bbf",
+        "sha1": "2671626d0aa4b29e032db81215b7f8d092859064",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "isbn_9780800733179_jp2.zip",
+        "mtime": "1497954714",
+        "size": "4674772",
+        "md5": "7ffd8a563526f89e65d10d59367fd13d",
+        "crc32": "3578354f",
+        "sha1": "6cb6301d4e9731fb050c819e5381fdf30fcb3251",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "isbn_9780800733179_abbyy.gz",
+        "mtime": "1660359917",
+        "size": "4108455",
+        "md5": "a6ea5fa2b2d3bbdeedae4f86dc04de5b",
+        "crc32": "9f0919ac",
+        "sha1": "07c646aa12465aa124f4dcec88ae186df837abe3",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "isbn_9780800733179_scandata.xml",
+        "mtime": "1670377172",
+        "size": "764",
+        "md5": "97d28b677521a13993b9c4f7f3506bff",
+        "crc32": "05c86cac",
+        "sha1": "1dc1b9b85792e2e4fee667ba85bdd9599e91a99c",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1454984973",
+        "size": "1142",
+        "md5": "bad113ab994e9aa2558fc956d5f786c1",
+        "crc32": "d609806e",
+        "sha1": "22b88a06a46564c96fe3487fafed6782cb7545fe"
+      },
+      {
+        "name": "isbn_9780800733179_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "isbn_9780800733179_djvu.xml",
+        "mtime": "1660360463",
+        "size": "350893",
+        "md5": "83f12d2f866008addcd581ed4f276bea",
+        "crc32": "8a507512",
+        "sha1": "b20692ef42c15ca4312e7dd21b31f1f7df22e2b6",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "isbn_9780800733179_hocr.html",
+        "mtime": "1660360322",
+        "size": "4636433",
+        "md5": "0d460fc8aca800373a38825888df405d",
+        "crc32": "8ef34039",
+        "sha1": "94c13687d37761df97fc3c7f41e09c0d79c6e710",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "isbn_9780800733179_jpg.pdf",
+        "mtime": "1509095104",
+        "size": "672115",
+        "md5": "7d1fd274f82a1898c7e9e4d25f1176d9",
+        "crc32": "55a3fd3f",
+        "sha1": "3f3eec223674a4845f288cd681c6c42beea199ad"
+      },
+      {
+        "name": "isbn_9780800733179_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "isbn_9780800733179.pdf",
+        "mtime": "1726425394",
+        "size": "20517943",
+        "md5": "6c51cd44456b4be07ba529dd66179f88",
+        "crc32": "4bd3ca64",
+        "sha1": "95521c2715b8005e1dbe1f37e7b98cb1f0ffc485"
+      },
+      {
+        "name": "isbn_9780800733179_events.json",
+        "source": "original",
+        "mtime": "1497945863",
+        "size": "53",
+        "md5": "5c7dc6513eabb15e4ff42211abd6339a",
+        "crc32": "f40e8db7",
+        "sha1": "aca506f322fd5632a87bc7b5dfa90cf1c88c0fdb",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "84a08399b293f85149d48484e1a5764b",
+        "summation": "md5"
+      },
+      {
+        "name": "isbn_9780800733179_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "isbn_9780800733179_chocr.html.gz",
+        "mtime": "1660360294",
+        "size": "10173621",
+        "md5": "b32421d8095f30399b6069de4cd48374",
+        "crc32": "7ebf59d2",
+        "sha1": "9dd5da01ef5ceec2b5903452a769644651d109f8",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "isbn_9780800733179_hocr.html",
+        "mtime": "1660360354",
+        "size": "3468",
+        "md5": "581b03e70c1dd463f15f36b7c69a42ed",
+        "crc32": "ba059674",
+        "sha1": "75bb373e98e561e6d4a8691aa9768f376eff48fc",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "3847",
+        "word_conf_11_20": "1558",
+        "word_conf_21_30": "1279",
+        "word_conf_31_40": "1293",
+        "word_conf_41_50": "2081",
+        "word_conf_51_60": "3479",
+        "word_conf_61_70": "5773",
+        "word_conf_71_80": "8620",
+        "word_conf_81_90": "9119",
+        "word_conf_91_100": "19474",
+        "format": "OCR Search Text",
+        "original": "isbn_9780800733179_hocr.html",
+        "mtime": "1660360437",
+        "size": "98734",
+        "md5": "0fd650c840695387f8b5fd5395d84031",
+        "crc32": "db5edd81",
+        "sha1": "d374322f2a9b083613326882303a0438a466f5be",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "isbn_9780800733179_orig_jp2.tar",
+        "mtime": "1497950975",
+        "size": "187904534",
+        "md5": "f2443cc75756891418d787dc0f303ae2",
+        "crc32": "f7b7dede",
+        "sha1": "8e0660bb6aafd373ff4eab1d7244cd9fd75ffc6c",
+        "private": "true",
+        "filecount": "294"
+      },
+      {
+        "name": "isbn_9780800733179_jpg.pdf",
+        "source": "derivative",
+        "format": "JPEG-Compressed PDF",
+        "original": "isbn_9780800733179_abbyy.gz",
+        "mtime": "1509095016",
+        "size": "41923666",
+        "md5": "9c5da7fc81b83e350203800072a3e3c6",
+        "crc32": "59c61a89",
+        "sha1": "4dbc04261d96b8290926ad3df188c416ff504210",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "isbn_9780800733179.epub",
+        "mtime": "1753543145",
+        "size": "6610532",
+        "md5": "43fae27f8358efb43ca2fa9f0ad21e13",
+        "crc32": "915a555f",
+        "sha1": "8f907af118edbb6281027d8b8ef70f7f0b35b403"
+      },
+      {
+        "name": "isbn_9780800733179_loans.json",
+        "source": "original",
+        "mtime": "1583365603",
+        "size": "6944",
+        "format": "JSON",
+        "private": "true",
+        "md5": "3db26644c33498dd23e6a3bd01472ade",
+        "crc32": "f61b5eb6",
+        "sha1": "11eb9d3bef057916162e4bdcece35b2e15d5c02f"
+      },
+      {
+        "name": "isbn_9780800733179_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1454984973",
+        "size": "2484",
+        "md5": "4f7353b2886760b8715cf09166153f2a",
+        "crc32": "87a255db",
+        "sha1": "e1d787647c1efc9be46593570dd4c7c67bbdcf1a"
+      },
+      {
+        "name": "isbn_9780800733179_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "isbn_9780800733179_xisbn.json",
+        "mtime": "1497946079",
+        "size": "138",
+        "md5": "bcd99313bb57d540bda46213bfcf771e",
+        "crc32": "b55b930b",
+        "sha1": "1c071208d9fa0b13934a68d70100fd54deefe48d",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454984973",
+        "size": "833",
+        "md5": "625e52670d62c0d6d0c941658236a16d",
+        "crc32": "b23a9608",
+        "sha1": "77d54fa5dac8608ad14ba6b4b44c10d8ea2edcd6"
+      },
+      {
+        "name": "isbn_9780800733179_meta.sqlite",
+        "source": "original",
+        "mtime": "1497946039",
+        "size": "12288",
+        "format": "Metadata",
+        "md5": "e4ca1e175fb3400effcabd7d479ed357",
+        "crc32": "ce1bb7c7",
+        "sha1": "9f704e372a5f068c6124605a2a122ac58ead7bb1"
+      },
+      {
+        "name": "isbn_9780800733179_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753543146",
+        "size": "3943",
+        "md5": "c48b188ca8f2ec208822abc0125e820c",
+        "crc32": "9c8268a3",
+        "sha1": "0ea7cdb3d78070be109d632e2b04dbd9caade488"
+      },
+      {
+        "name": "isbn_9780800733179_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1445618309",
+        "size": "303",
+        "md5": "f8667484df1bbc466182a60eedb82d83",
+        "crc32": "580c776a",
+        "sha1": "1065191e00736c4b10672f43849b498a43e2b04e"
+      },
+      {
+        "name": "isbn_9780800733179_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1497946037",
+        "size": "503152640",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "3cb1a777d16506ad2666db3ad24372e6",
+        "crc32": "2d012a57",
+        "sha1": "1dc45f28cf6a706450bd347127eaf1890887b3ec",
+        "filecount": "294"
+      },
+      {
+        "name": "isbn_9780800733179_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "82",
+        "format": "Page Numbers JSON",
+        "original": "isbn_9780800733179_hocr.html",
+        "mtime": "1726424911",
+        "size": "50006",
+        "md5": "f5f811ff7e0feb4eb639a5965ebc2ee5",
+        "crc32": "81c10353",
+        "sha1": "f3a49d40eaaac2d157deae7f468bc51d745a36e9",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780800733179_scandata.xml",
+        "source": "original",
+        "mtime": "1670377172",
+        "size": "300677",
+        "format": "Scandata",
+        "md5": "faccd93fa389fd68cc26be8b83e0e4b1",
+        "crc32": "60f528bc",
+        "sha1": "6d722f8ac4da28791b1f9fe5182dc7d2cb81a108"
+      },
+      {
+        "name": "isbn_9780800733179_xisbn.json",
+        "source": "original",
+        "mtime": "1454984507",
+        "size": "816",
+        "md5": "6ec479a03cde24784ff9d8ae0175e625",
+        "crc32": "87eb2c1f",
+        "sha1": "0a194147ebdc0e4147e483d9a45964dda1f8fe3c",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 36,
+    "item_last_updated": 1753543146,
+    "item_size": 833142855,
+    "metadata": {
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "22",
+      "updatedate": "2015-10-23 16:38:27",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "boxid": "IA1152810",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "hongkong",
+      "title": "Don't panic, more dinner's in the freezer : a second helping of tasty meals you can make ahead",
+      "identifier": "isbn_9780800733179",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2015-10-23 16:38:32.034941",
+      "publicdate": "2015-10-23 16:38:35",
+      "donor": "allen_county",
+      "openlibrary": "OL22685430M",
+      "creator": [
+        "Martinez, Susie",
+        "Howell, Vanda",
+        "Garcia, Bonnie"
+      ],
+      "publisher": "Grand Rapids, MI : Revell",
+      "date": "2009-01-01",
+      "subject": [
+        "Make-ahead cookery",
+        "Quick and easy cookery",
+        "Cooking (Frozen foods)"
+      ],
+      "isbn": [
+        "9780800733179",
+        "0800733177"
+      ],
+      "lccn": "2008049540",
+      "description": "Includes bibliographical references and index",
+      "identifier-access": "http://archive.org/details/isbn_9780800733179",
+      "identifier-ark": "ark:/13960/t0jt3qc6p",
+      "city": "Grand Rapids, MI",
+      "oclc-id": "276140400",
+      "related-external-id": [
+        "urn:isbn:1441203818",
+        "urn:oclc:710985479",
+        "urn:oclc:730044689",
+        "urn:oclc:851585643",
+        "urn:oclc:863233510"
+      ],
+      "shipping_container": "SZ0025",
+      "backup_location": "ia905504_1",
+      "scanner": "ttscribe12.hongkong.archive.org",
+      "operator": "associate-waiyin-chan@archive.org",
+      "imagecount": "294",
+      "scandate": "20170619194323",
+      "notes": "Page 288 text is cut off in gutter.<br />",
+      "ppi": "300",
+      "republisher_operator": "republisher2.shenzhen@archive.org",
+      "republisher_date": "20170620140421",
+      "republisher_time": "985",
+      "foldoutcount": "0",
+      "bookplateleaf": "0008",
+      "scanfee": "15",
+      "invoice": "1213",
+      "sponsordate": "20170630",
+      "external-identifier": [
+        "urn:acs6:isbn_9780800733179:pdf:e7a8d5b0-54b8-4cb7-8564-56f07ec9c9b8",
+        "urn:acs6:isbn_9780800733179:epub:39c2a196-234f-4957-8caf-a0efa07dc96c",
+        "urn:oclc:record:1035675731",
+        "urn:lcp:isbn_9780800733179:lcpdf:66eb61c8-30cf-47d8-9711-deb21ba42dcf",
+        "urn:lcp:isbn_9780800733179:epub:6602b8b2-c4df-45eb-a06c-ba5ac2d60a13"
+      ],
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-03-04T23:35:28Z",
+      "openlibrary_edition": "OL22685430M",
+      "openlibrary_work": "OL2288245W",
+      "loans__status__num_history": "13",
+      "access-restricted-item": "true",
+      "source": "removedNEL",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "82",
+      "filesxml": "Wed Apr 3 6:11:12 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601202.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "delawarecountydistrictlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780800733179"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-01-11 06:40:39.127556"
+        },
+        "denverpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780800733179"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2019-03-20 11:46:06.058687"
+        },
+        "miltonpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780800733179"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-12-04 04:13:28.499051"
+        },
+        "spokanepubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780800733179"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-01-31 02:54:18.389661"
+        },
+        "worthingtonlibraries-ol": {
+          "notes": {
+            "isbn": [
+              "9780800733179"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2018-12-19 03:54:07.140549"
+        }
+      }
+    },
+    "uniq": 574366426,
+    "workable_servers": [
+      "ia601202.us.archive.org",
+      "ia801202.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/276140400?referer=xid"
+          ],
+          "publisher": "Revell",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "2008049540"
+          ],
+          "lang": "eng",
+          "city": "Grand Rapids, MI",
+          "author": "Susie Martinez, Vanda Howell, and Bonnie Garcia.",
+          "year": "2009",
+          "isbn": [
+            "0800733177"
+          ],
+          "title": "Don't panic, more dinner's in the freezer  : a second helping of tasty meals you can make ahead",
+          "oclcnum": [
+            "276140400"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/710985479?referer=xid"
+          ],
+          "publisher": "Revell",
+          "form": [
+            "BA",
+            "DA"
+          ],
+          "lang": "eng",
+          "city": "Grand Rapids, MI",
+          "author": "Susie Martinez, Vanda Howell, and Bonnie Garcia.",
+          "year": "2011",
+          "isbn": [
+            "1441203818"
+          ],
+          "title": "Don't panic, more dinner's in the freezer a second helping of tasty meals you can make ahead",
+          "oclcnum": [
+            "710985479",
+            "730044689",
+            "851585643",
+            "863233510"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Martinez, Susie",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,612 @@
+{
+  "source": "internet_archive",
+  "identifier": "idontlikepeas00mari",
+  "title": "I don't like peas",
+  "creator": "Vinje, Marie",
+  "year": 1992,
+  "subject": [
+    "Children's 4-8",
+    "Children's Books/Ages 4-8 Fiction",
+    "Children: Grades 1-2",
+    "Readers - Beginner",
+    "CHILDREN'S FICTION",
+    "FOOD_FICTION",
+    "Juvenile Fiction / Cooking & Food",
+    "Juvenile Fiction",
+    "Food habits",
+    "Readers (Primary)",
+    "Peas"
+  ],
+  "description": "\"Ages 4-7\"--Cover",
+  "metadata": {
+    "created": 1758557008,
+    "d1": "ia903403.us.archive.org",
+    "d2": "ia803403.us.archive.org",
+    "dir": "/5/items/idontlikepeas00mari",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660248938",
+        "size": "16625",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "8ba42c94e127fafbbd9db27708356f40",
+        "crc32": "49ea31aa",
+        "sha1": "1fc912f5485678ee8be4d7de8a6ebc274e6f26f3"
+      },
+      {
+        "name": "idontlikepeas00mari.cdx.gz",
+        "source": "original",
+        "mtime": "1383703411",
+        "size": "6526",
+        "md5": "245d4295814153e650ff363610c9ec98",
+        "crc32": "c3539242",
+        "sha1": "b4b7f75cf6bd57c644fc9c190b090e078e214732",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari.cdx.idx",
+        "source": "original",
+        "mtime": "1383703411",
+        "size": "35",
+        "md5": "ba89b1a47aa755f621bc760d322b9953",
+        "crc32": "7dc3ca8f",
+        "sha1": "8103482444a365d9841606049fdf82c02753d96f",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "idontlikepeas00mari_hocr.html",
+        "mtime": "1753479419",
+        "size": "12428750",
+        "private": "true",
+        "md5": "58e58fdcdff038c4c3b1d144845ad77e",
+        "crc32": "06ed6338",
+        "sha1": "92ec5a8391cf99777cfd0b8f3e09aa0f91c569cc"
+      },
+      {
+        "name": "idontlikepeas00mari.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "idontlikepeas00mari_jp2.zip",
+        "mtime": "1383702376",
+        "size": "93452",
+        "md5": "33997359467024eac53576fa239e896a",
+        "crc32": "d529de45",
+        "sha1": "6c02545833835f9f629c9633703482c5e23f77e0"
+      },
+      {
+        "name": "idontlikepeas00mari.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "idontlikepeas00mari.pdf",
+        "mtime": "1753479309",
+        "size": "3832276",
+        "md5": "1d423f37c320c62c6b972b427dfd62f0",
+        "crc32": "8601303e",
+        "sha1": "f1d4db6b9b18597bfb5ad376a1a2a3cc60278d39"
+      },
+      {
+        "name": "idontlikepeas00mari.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "idontlikepeas00mari_page_numbers.json",
+        "mtime": "1715625674",
+        "size": "3485299",
+        "md5": "605ae97861966dd0c5ee01d05f1dd4db",
+        "crc32": "166b64c3",
+        "sha1": "ee91848d2053a6325e63fd1f671308126294ee24",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1346957909",
+        "size": "549865",
+        "md5": "05f44c3e1d086e2b4b6196678ce05521",
+        "crc32": "4a467936",
+        "sha1": "dcf271a27e49c9615ef36994371379db4efd8891"
+      },
+      {
+        "name": "idontlikepeas00mari.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "idontlikepeas00mari.warc.gz",
+        "mtime": "1383701820",
+        "size": "6675",
+        "md5": "68f5abffc5bc316da6dde272e26055e4",
+        "crc32": "fc74d858",
+        "sha1": "5b7893238356f352c6143a641bdc75c06d97a371",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "idontlikepeas00mari_jp2.zip",
+        "mtime": "1383702771",
+        "size": "53642",
+        "md5": "c7150a0a6339574b5245953ef7251b76",
+        "crc32": "a4104dd5",
+        "sha1": "15e70ef9564954a315045ec832a786da02c981fa",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "idontlikepeas00mari_abbyy.gz",
+        "mtime": "1660248257",
+        "size": "47869",
+        "md5": "5f5de0f5553aaca78a54534530194ab6",
+        "crc32": "b1d09740",
+        "sha1": "363f79c1c2eb6e50d62ea62052920a3b04affe58",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "idontlikepeas00mari_scandata.xml",
+        "mtime": "1670238176",
+        "size": "767",
+        "md5": "4f0bb39d82782928f2eae2462ee1a3b1",
+        "crc32": "3b4bc254",
+        "sha1": "2137c6bd826619010279701f9dda14f6d6f82b0c",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1509012527",
+        "size": "1142",
+        "md5": "c434353c70f44c454a9d82d149f9da19",
+        "crc32": "0031916c",
+        "sha1": "f8f313c3975282335519da1dcbf079a992da1713"
+      },
+      {
+        "name": "idontlikepeas00mari_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "idontlikepeas00mari_djvu.xml",
+        "mtime": "1715625862",
+        "size": "4092",
+        "md5": "97d3d02a3cc34baaad13aaef74a94a9c",
+        "crc32": "ed4eef15",
+        "sha1": "aeea67dcc1ff7c2254c73533261455e102665baf",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "idontlikepeas00mari_hocr.html",
+        "mtime": "1715624716",
+        "size": "67176",
+        "md5": "0d4dcefb02d12c693f4d3ba073b45f8f",
+        "crc32": "dc396d34",
+        "sha1": "542d4fad34a9d12e6e6c23a8e347ce706bd47f77",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "idontlikepeas00mari.pdf",
+        "mtime": "1715625867",
+        "size": "3476169",
+        "md5": "78071c7cd4d345351fe1ba52a11db73f",
+        "crc32": "665c56e2",
+        "sha1": "b09171285cc9e41035526713a50092b6c96a07ba"
+      },
+      {
+        "name": "idontlikepeas00mari_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "c2be87f30d1cadfaa6e506d13022fb0d",
+        "summation": "md5"
+      },
+      {
+        "name": "idontlikepeas00mari_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "idontlikepeas00mari_chocr.html.gz",
+        "mtime": "1660248581",
+        "size": "111815",
+        "md5": "e236ddf2a37cc89d2db1101c0972aaa6",
+        "crc32": "b3acab2f",
+        "sha1": "c69eb32da327874c126dc3314601f85095b8737e",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "idontlikepeas00mari_hocr.html",
+        "mtime": "1660248773",
+        "size": "346",
+        "md5": "a57a27aa6abbe23c5f9a12f6066f655b",
+        "crc32": "cafe75d2",
+        "sha1": "913377d4f6a16f35a42d579c3d87419cf2d3bde7",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "38",
+        "word_conf_11_20": "18",
+        "word_conf_21_30": "12",
+        "word_conf_31_40": "14",
+        "word_conf_41_50": "35",
+        "word_conf_51_60": "72",
+        "word_conf_61_70": "62",
+        "word_conf_71_80": "102",
+        "word_conf_81_90": "88",
+        "word_conf_91_100": "165",
+        "format": "OCR Search Text",
+        "original": "idontlikepeas00mari_hocr.html",
+        "mtime": "1660248902",
+        "size": "1846",
+        "md5": "4d1ff0bacfa3dac198edd38c391efdf1",
+        "crc32": "df92b446",
+        "sha1": "7ecc66122537004bfbc9a1449a7a9b23c50169f2",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "idontlikepeas00mari_orig_jp2.tar",
+        "mtime": "1383702346",
+        "size": "15342785",
+        "md5": "6059684f287bccf71f161a6f8523be74",
+        "crc32": "26b2055a",
+        "sha1": "b08db60dd155ad2dd2e88f9100806f40fb952b5a",
+        "private": "true",
+        "filecount": "38"
+      },
+      {
+        "name": "idontlikepeas00mari_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "idontlikepeas00mari.epub",
+        "mtime": "1753479600",
+        "size": "13960958",
+        "md5": "a127d387a0dfff7b094a6d83f5eeba6f",
+        "crc32": "68c22449",
+        "sha1": "9266ad52309e948df0df2c096564161cd49f9c47"
+      },
+      {
+        "name": "idontlikepeas00mari_loans.json",
+        "source": "original",
+        "mtime": "1593063645",
+        "size": "7461",
+        "format": "JSON",
+        "private": "true",
+        "md5": "23156fe990b219892d7857d3fd1527cf",
+        "crc32": "b034022c",
+        "sha1": "f5a69e8307eb611e61339a9ea8f6af2a268b9d20"
+      },
+      {
+        "name": "idontlikepeas00mari_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1509012526",
+        "size": "4595",
+        "md5": "b1c3701a4a763490dfa3c3faf9d5923b",
+        "crc32": "bfad4f46",
+        "sha1": "a4c71aae9354c4a301ce564de8bd46b8d4790b7a"
+      },
+      {
+        "name": "idontlikepeas00mari_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "idontlikepeas00mari_xisbn.json",
+        "mtime": "1454543970",
+        "size": "506",
+        "md5": "df96b58eb64e2703425fc0e366cf97c3",
+        "crc32": "79d5a342",
+        "sha1": "e9ab25106004dce3afa690a6e1abd9528f6fea55",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454543967",
+        "size": "1270",
+        "md5": "20f615457b399945c918aece19810ce4",
+        "crc32": "ef6a7c59",
+        "sha1": "9988c8340637dcdcd19d8d2023bfc93c85d6f217"
+      },
+      {
+        "name": "idontlikepeas00mari_meta.sqlite",
+        "source": "original",
+        "mtime": "1466621551",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "afabf08a9e15d7b964a1dd12ebe006e7",
+        "crc32": "c8b185d8",
+        "sha1": "7a2cd4983d8fe0482470945a65bbabb62c8b4a9b"
+      },
+      {
+        "name": "idontlikepeas00mari_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753479600",
+        "size": "4146",
+        "md5": "50ddb293eb8c1a4a1183d89fb5e3d97c",
+        "crc32": "d3db1766",
+        "sha1": "762b52e577e7e9aaed00e53e4967646252cf1763"
+      },
+      {
+        "name": "idontlikepeas00mari_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1346957909",
+        "size": "304",
+        "md5": "e79717a6be71a8252830897bd757fe4a",
+        "crc32": "93db8b90",
+        "sha1": "a423e61239b2374b133d2ebf10092bb14f4fcec8"
+      },
+      {
+        "name": "idontlikepeas00mari_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1383642994",
+        "size": "29235200",
+        "md5": "4b4efd1a58c17e04b1dc712821c389ef",
+        "crc32": "9b4fe212",
+        "sha1": "5a0cab11b3428ce3f10500a3fdd47b43a9bdcfb4",
+        "private": "true",
+        "filecount": "38"
+      },
+      {
+        "name": "idontlikepeas00mari_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "53",
+        "format": "Page Numbers JSON",
+        "original": "idontlikepeas00mari_hocr.html",
+        "mtime": "1715624822",
+        "size": "6231",
+        "md5": "a936194a00fe185fec3294ef30ce8fe5",
+        "crc32": "fb27680f",
+        "sha1": "706f63d3bdb3fe2646291b9ef86238b505f07707",
+        "private": "true"
+      },
+      {
+        "name": "idontlikepeas00mari_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670238176",
+        "size": "50146",
+        "md5": "5e7dd897fcebbc31d67d24236aa59848",
+        "crc32": "d2195ae0",
+        "sha1": "4e3dab3f4894893f30af4d26704543414caf46a5"
+      },
+      {
+        "name": "idontlikepeas00mari_xisbn.json",
+        "source": "original",
+        "mtime": "1454541466",
+        "size": "704",
+        "md5": "6b6096dc49143b2bbc1f804c59e125b6",
+        "crc32": "27c8718c",
+        "sha1": "8788aa554215e58567a8d1f69dcefb75770168bf",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 33,
+    "item_last_updated": 1753479600,
+    "item_size": 82804817,
+    "metadata": {
+      "isbn": [
+        "0887434304",
+        "9780887434303"
+      ],
+      "openlibrary": "OL8199198M",
+      "title": "I don't like peas",
+      "creator": [
+        "Vinje, Marie",
+        "Koontz, Robin Michal, illustrator"
+      ],
+      "language": "eng",
+      "publisher": "Grand Haven, MI : School Zone Pub. Co.",
+      "subject": [
+        "Children's 4-8",
+        "Children's Books/Ages 4-8 Fiction",
+        "Children: Grades 1-2",
+        "Readers - Beginner",
+        "CHILDREN'S FICTION",
+        "FOOD_FICTION",
+        "Juvenile Fiction / Cooking & Food",
+        "Juvenile Fiction",
+        "Food habits",
+        "Readers (Primary)",
+        "Peas"
+      ],
+      "date": "1992-01-01",
+      "external-identifier": [
+        "urn:asin:0887434304",
+        "urn:acs6:idontlikepeas00mari:pdf:9d9e3758-2ccb-445a-90d8-55d369a62a76",
+        "urn:acs6:idontlikepeas00mari:epub:0e921ecd-2149-4612-847a-49416122aa7e",
+        "urn:oclc:record:1035613904",
+        "urn:lcp:idontlikepeas00mari:lcpdf:fada12b6-d390-4949-bcb7-de921ef11a02",
+        "urn:lcp:idontlikepeas00mari:epub:1df90086-6a61-4084-b03a-06cab469632b"
+      ],
+      "updatedate": "2012-09-06 18:58:26",
+      "updater": "bapi_blogistics_1@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA1107503",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "sponsor": "Internet Archive",
+      "identifier": "idontlikepeas00mari",
+      "uploader": "bapi_blogistics_1@archive.org",
+      "addeddate": "2012-09-06 18:58:31",
+      "publicdate": "2012-09-06 18:58:34",
+      "donor": "blogistics",
+      "repub_state": "4",
+      "repub_seconds": "89",
+      "ppi": "500",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-leo@archive.org",
+      "scanner": "scribe5.shenzhen.archive.org",
+      "scandate": "20131031122201",
+      "republisher": "scanner-shenzhen-leo@archive.org",
+      "imagecount": "38",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/idontlikepeas00mari",
+      "identifier-ark": "ark:/13960/t9c55vj19",
+      "bookplateleaf": "0002",
+      "sponsordate": "20150430",
+      "scanfee": "200",
+      "invoice": "11",
+      "description": "\"Ages 4-7\"--Cover",
+      "city": "Grand Haven, MI",
+      "oclc-id": [
+        "27132994",
+        "37716815",
+        "43689930"
+      ],
+      "related-external-id": [
+        "urn:isbn:0887432697",
+        "urn:oclc:27133014",
+        "urn:oclc:404708848",
+        "urn:isbn:0088743438"
+      ],
+      "backup_location": "ia903907_6",
+      "loans__status__status": "UNAVAILABLE",
+      "loans__status__num_loans": "1",
+      "loans__status__num_waitlist": "0",
+      "openlibrary_edition": "OL8199198M",
+      "openlibrary_work": "OL7830340W",
+      "republisher_operator": "scanner-shenzhen-leo@archive.org",
+      "republisher_date": "20131105091509",
+      "loans__status__last_loan_date": "2020-06-22T12:50:04Z",
+      "loans__status__num_history": "29",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "53",
+      "filesxml": "Wed Apr 3 5:01:58 UTC 2024",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia903403.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "bpljordan-ol": {
+          "notes": {
+            "isbn": [
+              "9780887434303"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-06-27 11:12:30.661038"
+        }
+      }
+    },
+    "uniq": 220307537,
+    "workable_servers": [
+      "ia903403.us.archive.org",
+      "ia803403.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/27132994?referer=xid"
+          ],
+          "publisher": "School Zone Pub. Co.",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Grand Haven, MI",
+          "author": "written by Marie Vinje ; illustrated by Robin Michal Koontz.",
+          "year": "1992",
+          "isbn": [
+            "0887434304"
+          ],
+          "title": "I don't like peas",
+          "oclcnum": [
+            "27132994",
+            "37716815",
+            "43689930"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/27133014?referer=xid"
+          ],
+          "publisher": "School Zone Pub. Co.",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Grand Haven, MI",
+          "author": "written by Marie Vinje ; illustrated by Robin Michal Koontz.",
+          "year": "1992",
+          "isbn": [
+            "0887432697"
+          ],
+          "title": "I don't like peas",
+          "oclcnum": [
+            "27133014",
+            "404708848"
+          ]
+        },
+        {
+          "isbn": [
+            "0088743438"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Vinje, Marie",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "School"
+    ]
+  },
+  "curation_notes": "Community markers: School; Digitized scan available"
+}

@@ -1,0 +1,122 @@
+{
+  "source": "dpla",
+  "id": "4b2f313548dae6f18fa91d9b84f9016f",
+  "identifier": "4b2f313548dae6f18fa91d9b84f9016f",
+  "title": "Penny Mite cook book",
+  "subject": [
+    "Janice Bluestein Longone Culinary Archive",
+    "Charity cookbooks--Illinois--Woodstock",
+    "Cooking--Illinois--Woodstock",
+    "Cooking, American--Illinois--Woodstock"
+  ],
+  "spatial": [
+    "Illinois",
+    "Woodstock"
+  ],
+  "description": "Includes index.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/005706552",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1921,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/4b2f313548dae6f18fa91d9b84f9016f#SourceResource",
+      "contributor": [
+        "Penny Mite Society (Woodstock, Ill.)"
+      ],
+      "date": [
+        {
+          "begin": "1921",
+          "displayDate": "1921",
+          "end": "1921"
+        }
+      ],
+      "description": [
+        "Includes index.",
+        "Includes advertisements.",
+        "Recipes are attributed.",
+        "White hard cover binding.",
+        "ACQ: 37042; Virginia Bartlett; gift; 8/15/2005."
+      ],
+      "extent": [
+        "187, [23] p. ; 21 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "(MiU)005706552",
+        "sdr-miu005706552",
+        "(OCoLC)146703960",
+        "Hathi: 005706552"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Woodstock, Ill. : Penny Mite Society"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        },
+        {
+          "name": "Woodstock"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Janice Bluestein Longone Culinary Archive"
+        },
+        {
+          "name": "Charity cookbooks--Illinois--Woodstock"
+        },
+        {
+          "name": "Cooking--Illinois--Woodstock"
+        },
+        {
+          "name": "Cooking, American--Illinois--Woodstock"
+        }
+      ],
+      "title": [
+        "Penny Mite cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1921-01-01",
+      "normalized_dates": [
+        "1921-01-01"
+      ],
+      "date_range": {
+        "begin": "1921-01-01",
+        "end": "1921-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=P-09AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/005706552"
+  },
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

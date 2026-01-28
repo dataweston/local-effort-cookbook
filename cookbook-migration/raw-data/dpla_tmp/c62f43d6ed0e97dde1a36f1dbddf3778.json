@@ -1,0 +1,36 @@
+{
+  "source": "dpla",
+  "id": "c62f43d6ed0e97dde1a36f1dbddf3778",
+  "identifier": "c62f43d6ed0e97dde1a36f1dbddf3778",
+  "title": "Brownwood cook book",
+  "subject": [],
+  "spatial": [
+    "Brownwood, Brown County, Texas"
+  ],
+  "description": "A cookbook compiled by the First Christian Church in Brownwood, Texas.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/131",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/131",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/131"
+  },
+  "location": {
+    "state": "Wi",
+    "county": "Brown County"
+  },
+  "curation": {
+    "score": 8,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church"
+    ]
+  },
+  "curation_notes": "County match: Brown County; Community markers: Church; Digitized scan available"
+}

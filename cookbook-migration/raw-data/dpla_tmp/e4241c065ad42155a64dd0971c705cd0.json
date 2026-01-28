@@ -1,0 +1,106 @@
+{
+  "source": "dpla",
+  "id": "e4241c065ad42155a64dd0971c705cd0",
+  "identifier": "e4241c065ad42155a64dd0971c705cd0",
+  "title": "Salem cook book",
+  "subject": [
+    "Cooking",
+    "Cooking, American",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan",
+    "Salem"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5t14xq8p",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1923,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/e4241c065ad42155a64dd0971c705cd0#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "contributor": [
+        "Second Congregational Church (Salem, Mich.). Ladies Auxiliary"
+      ],
+      "date": [
+        {
+          "begin": "1923",
+          "displayDate": "1923",
+          "end": "1923"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Salem"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "Salem cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1923-01-01",
+      "normalized_dates": [
+        "1923-01-01"
+      ],
+      "date_range": {
+        "begin": "1923-01-01",
+        "end": "1923-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5t14xq8p/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5t14xq8p"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Auxiliary",
+      "Church"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Auxiliary, Church; Digitized scan available"
+}

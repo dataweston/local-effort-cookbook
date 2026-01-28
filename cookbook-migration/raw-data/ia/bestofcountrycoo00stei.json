@@ -1,0 +1,549 @@
+{
+  "source": "internet_archive",
+  "identifier": "bestofcountrycoo00stei",
+  "title": "The best of country cooking, 2000",
+  "creator": "Steiner, Jean",
+  "year": 2000,
+  "subject": "Cooking, American",
+  "description": "Includes index, pp. 180-186",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/bestofcountrycoo00stei"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/bestofcountrycoo00stei"
+        }
+      ]
+    },
+    "created": 1758557811,
+    "d1": "ia601309.us.archive.org",
+    "d2": "ia801309.us.archive.org",
+    "dir": "/35/items/bestofcountrycoo00stei",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658703175",
+        "size": "20803",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "d17776b3b30d336ca64d9a42a68632f2",
+        "crc32": "6b3736c2",
+        "sha1": "2efa805fb1d6df4a602cb757dab18b1b40c2959c"
+      },
+      {
+        "name": "bestofcountrycoo00stei.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "bestofcountrycoo00stei_hocr.html",
+        "mtime": "1753046312",
+        "size": "29532383",
+        "private": "true",
+        "md5": "b781b64569b58736acd612e8ae0887bd",
+        "crc32": "e4b72493",
+        "sha1": "25ab1b839280ef613b067fa3dde731898ea3e28b"
+      },
+      {
+        "name": "bestofcountrycoo00stei.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "bestofcountrycoo00stei_jp2.zip",
+        "mtime": "1319570507",
+        "size": "269751",
+        "md5": "b6374533f3afea2296dbb1eb55567e38",
+        "crc32": "7b98bbad",
+        "sha1": "5f8ebbd16b66a21828e58e0521a1131c76316c28"
+      },
+      {
+        "name": "bestofcountrycoo00stei.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "bestofcountrycoo00stei.pdf",
+        "mtime": "1753046052",
+        "size": "16306804",
+        "md5": "bea22a74d3c375f6e6cb9a94ea29df15",
+        "crc32": "d380f6d1",
+        "sha1": "9826fe466a675571ab4fe968591eaf138031bfed"
+      },
+      {
+        "name": "bestofcountrycoo00stei.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "bestofcountrycoo00stei_page_numbers.json",
+        "mtime": "1716646775",
+        "size": "15973420",
+        "md5": "e910a5e69cde4c5557984edc04a0ee74",
+        "crc32": "b70ddcdd",
+        "sha1": "ae5f6ff8fdfb1d69a22529f94d554554dca00722",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00stei_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "bestofcountrycoo00stei_jp2.zip",
+        "mtime": "1319575611",
+        "size": "7194471",
+        "md5": "98ef1b1f918e05fbd61a9971ad43efdb",
+        "crc32": "3f25f1a",
+        "sha1": "70f869acb9e47d3fba94238a40fe882781209d5c",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00stei_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "bestofcountrycoo00stei_page_numbers.json",
+        "mtime": "1716646776",
+        "size": "15416687",
+        "md5": "ad972753d3505c1525494dbb3d42391f",
+        "crc32": "3496834d",
+        "sha1": "9355de7cfc7e57e1f3486bce64f3c05b60125e64",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00stei_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "bestofcountrycoo00stei_abbyy.gz",
+        "mtime": "1658702693",
+        "size": "5930531",
+        "md5": "a94c1661fc807451440cd4813186a9ec",
+        "crc32": "0c554725",
+        "sha1": "6990d424cc44e50ca2ad04bbf629dc6fe5b7f010",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00stei_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "bestofcountrycoo00stei_scandata.xml",
+        "mtime": "1669418399",
+        "size": "779",
+        "md5": "180569a5723619aedb146ff53ee41719",
+        "crc32": "405e49cc",
+        "sha1": "ecdf29cb0dbb0eae95011705a0579d5c393e495b",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00stei_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1280323117",
+        "size": "606",
+        "md5": "33391064ceb4148b2e26a8a8e3db1200",
+        "crc32": "e279e7ed",
+        "sha1": "599539e0a7f2f2d4658865f4d36a7d02f7ef5201"
+      },
+      {
+        "name": "bestofcountrycoo00stei_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "bestofcountrycoo00stei_djvu.xml",
+        "mtime": "1720976718",
+        "size": "539194",
+        "md5": "63033510df152144105862ad4a549fbf",
+        "crc32": "91485f8d",
+        "sha1": "0cfeede02209ed458f052a75215fc658ff4f9c82",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00stei_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "bestofcountrycoo00stei_hocr.html",
+        "mtime": "1720976715",
+        "size": "6356938",
+        "md5": "5f8ad076eaff08aef7059911bcbbda6d",
+        "crc32": "26571d14",
+        "sha1": "c5b21ab76bbafe89c95fd92bb1d725a20b0d1e33",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00stei_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "bestofcountrycoo00stei.pdf",
+        "mtime": "1716647953",
+        "size": "15940447",
+        "md5": "70b4a03e9a9a2257cf632dbbdd6a2312",
+        "crc32": "b4eebbfb",
+        "sha1": "5490756b20a7611855a0e905d66423ca862f23a3"
+      },
+      {
+        "name": "bestofcountrycoo00stei_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "3f1970a6463e15f7cd1ee758d8efd0bf",
+        "summation": "md5"
+      },
+      {
+        "name": "bestofcountrycoo00stei_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "bestofcountrycoo00stei_chocr.html.gz",
+        "mtime": "1658702905",
+        "size": "12408205",
+        "md5": "b7d39aec1d91dd1e2f4a929dffc60f86",
+        "crc32": "d99ac08d",
+        "sha1": "3ed45c02e7d0b6926f102549bf5e8a94da99e0ae",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00stei_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "bestofcountrycoo00stei_hocr.html",
+        "mtime": "1658702996",
+        "size": "2274",
+        "md5": "792ba3dd4ef7e5ea0146775bb3e07b3d",
+        "crc32": "ac921b71",
+        "sha1": "51bdb56f849678323d099570c79f912b08649028",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00stei_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "4031",
+        "word_conf_11_20": "4295",
+        "word_conf_21_30": "9572",
+        "word_conf_31_40": "9044",
+        "word_conf_41_50": "13423",
+        "word_conf_51_60": "14912",
+        "word_conf_61_70": "11312",
+        "word_conf_71_80": "5256",
+        "word_conf_81_90": "2087",
+        "word_conf_91_100": "2875",
+        "format": "OCR Search Text",
+        "original": "bestofcountrycoo00stei_hocr.html",
+        "mtime": "1658703081",
+        "size": "148326",
+        "md5": "23e6f2bd7b26251eb58e4b315090f9ae",
+        "crc32": "02afd2e4",
+        "sha1": "a171f767e10c9fedbc8ff4daa8f4e17ef36ed006",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00stei_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "bestofcountrycoo00stei_orig_jp2.tar",
+        "mtime": "1319570357",
+        "size": "95254110",
+        "md5": "22f69795ce4f288396a449e3e68a7556",
+        "crc32": "0c992be1",
+        "sha1": "6c4c1d3eecc51e7f048fcb56880db17ee9b560cc",
+        "private": "true",
+        "filecount": "194"
+      },
+      {
+        "name": "bestofcountrycoo00stei_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "bestofcountrycoo00stei.epub",
+        "mtime": "1753046652",
+        "size": "29836519",
+        "md5": "455575615e9f5c1fc195be95899553a0",
+        "crc32": "efacec6a",
+        "sha1": "b507851b2a4d07a4aeb4778518b6e74342814b17"
+      },
+      {
+        "name": "bestofcountrycoo00stei_loans.json",
+        "source": "original",
+        "mtime": "1593367671",
+        "size": "4959",
+        "format": "JSON",
+        "private": "true",
+        "md5": "4cf96450aa9a87adc81cf3393cb2ab09",
+        "crc32": "2bb99960",
+        "sha1": "77d74acc6c54ff7ac5dde39a414c07f64adc8066"
+      },
+      {
+        "name": "bestofcountrycoo00stei_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1280323117",
+        "size": "2239",
+        "md5": "fb0019a78b44093ecae1a3f5baf89265",
+        "crc32": "1859a20a",
+        "sha1": "66c028bee93fbd0a74360a4b586ab49f73f8ee85"
+      },
+      {
+        "name": "bestofcountrycoo00stei_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "bestofcountrycoo00stei_xisbn.json",
+        "mtime": "1454288019",
+        "size": "368",
+        "md5": "28850b1a866bfeb8633598db643df6ed",
+        "crc32": "ce93a3ec",
+        "sha1": "7e220df2f2fe280b95e15204effee84c57d3ba83",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00stei_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1280323117",
+        "size": "736",
+        "md5": "6af763584650df0a6efc92a59776f3a1",
+        "crc32": "53b12ee6",
+        "sha1": "6d61ff7f5c838a0be30b35ea1bec18a0900a44da"
+      },
+      {
+        "name": "bestofcountrycoo00stei_meta.sqlite",
+        "source": "original",
+        "mtime": "1466989313",
+        "size": "8192",
+        "format": "Metadata",
+        "md5": "411ae1eef88369e2b67c36b9e693c003",
+        "crc32": "74798599",
+        "sha1": "fdbad705642071e7fbbc1e3031f2a52d8ab3234f"
+      },
+      {
+        "name": "bestofcountrycoo00stei_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753046652",
+        "size": "3123",
+        "md5": "6d1c9ea7de4df5b2232841822381dd0f",
+        "crc32": "5bec5c89",
+        "sha1": "51f0d261e296a093fb65b331d89fab5763f705bd"
+      },
+      {
+        "name": "bestofcountrycoo00stei_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1280323117",
+        "size": "398",
+        "md5": "06178566485e6f24fc28f1e0a4e0e7a7",
+        "crc32": "131609bf",
+        "sha1": "5874b7b26df1d2caa940d7b758d3fbcc94622f7e"
+      },
+      {
+        "name": "bestofcountrycoo00stei_mets.xml",
+        "source": "original",
+        "mtime": "1439310246",
+        "size": "2049",
+        "md5": "058649347e3769b3f4548c0877258b04",
+        "crc32": "d9d55beb",
+        "sha1": "1096ae46c2a7bd916a87e5b2d67223dd5c897d1d",
+        "format": "METS",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00stei_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1319074755",
+        "size": "137728000",
+        "md5": "af92078ddc4791e8e3b8fbb722dade42",
+        "crc32": "0a9cd50c",
+        "sha1": "70b1d898fcb5158e9e47439f2b2e4d4ddca7fa41",
+        "private": "true",
+        "filecount": "194"
+      },
+      {
+        "name": "bestofcountrycoo00stei_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "96",
+        "format": "Page Numbers JSON",
+        "original": "bestofcountrycoo00stei_hocr.html",
+        "mtime": "1716646775",
+        "size": "32428",
+        "md5": "0be2e930d872cd5cd295d5a476b70be9",
+        "crc32": "e789d061",
+        "sha1": "1f021765a9bbe4a9dcbec4e88ebe6303f07f2bf7",
+        "private": "true"
+      },
+      {
+        "name": "bestofcountrycoo00stei_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669418399",
+        "size": "191751",
+        "md5": "56d13018394601655f2a21347dd18584",
+        "crc32": "c04fe2f5",
+        "sha1": "316a8c3efa40ca686d1f19adba392f63f90beeeb"
+      },
+      {
+        "name": "bestofcountrycoo00stei_xisbn.json",
+        "source": "original",
+        "mtime": "1454077661",
+        "size": "417",
+        "md5": "2946be43c365418680375851aac27022",
+        "crc32": "56c89e39",
+        "sha1": "a0fb98856b194e74d41ab999126a98f6654e2a95",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753046652,
+    "item_size": 389106908,
+    "metadata": {
+      "title": "The best of country cooking, 2000",
+      "creator": "Steiner, Jean",
+      "subject": "Cooking, American",
+      "description": "Includes index, pp. 180-186",
+      "publisher": "Greendale, WI : Reiman Publications",
+      "date": "2000-01-01",
+      "language": "eng",
+      "isbn": [
+        "089821288X",
+        "9780898212884"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA121413",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-07-28 13:18:37",
+      "updater": "PhanS",
+      "identifier": "bestofcountrycoo00stei",
+      "uploader": "phan@archive.org",
+      "addeddate": "2010-07-28 13:18:39",
+      "publicdate": "2010-07-28 13:41:20",
+      "scanner": "scribe15.shenzhen.archive.org",
+      "filesxml": [
+        "Mon Oct 24 16:57:03 UTC 2011",
+        "Wed Dec 23 9:15:38 UTC 2020",
+        "Tue Apr 2 22:04:23 UTC 2024"
+      ],
+      "repub_seconds": "160",
+      "ppi": "386",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-andy@archive.org",
+      "scandate": "20111020013903",
+      "imagecount": "194",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/bestofcountrycoo00stei",
+      "identifier-ark": "ark:/13960/t85h8hx9d",
+      "ocr": "ABBYY FineReader 8.0",
+      "scanfee": "100",
+      "sponsordate": "sent20111107",
+      "boxid_2": "CH101801",
+      "curation": "[curator]scanner-shenzhen-leo@archive.org[/curator][date]20120406013241[/date][state]approved[/state][comment]199[/comment]",
+      "donor": "alibris",
+      "external-identifier": [
+        "urn:acs6:bestofcountrycoo00stei:pdf:c3d88f05-3c91-4f25-b5fd-c5acf66f3feb",
+        "urn:acs6:bestofcountrycoo00stei:epub:d70bd4b2-38db-4d51-9cdd-4abc3d93a64c",
+        "urn:oclc:record:1028728355",
+        "urn:lcp:bestofcountrycoo00stei:lcpdf:57a3b3a4-b1cb-47a4-a4f7-7e7a2153cd08",
+        "urn:lcp:bestofcountrycoo00stei:epub:a3146bdd-bde4-4660-9035-9360806751f4"
+      ],
+      "containerid_2": "X0001",
+      "city": "Greendale, WI",
+      "oclc-id": [
+        "44566065",
+        "762221965",
+        "858068898"
+      ],
+      "lccn": "95071712",
+      "backup_location": "ia903605_35",
+      "openlibrary_edition": "OL8269021M",
+      "openlibrary_work": "OL2954482W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "96",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601309.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA-MC-0000018",
+              "IA-MC-1300013",
+              "IA-MC-0000018",
+              "IA-MC-0000038",
+              "IA-MC-1300007",
+              "IA-MC-0000004"
+            ],
+            "num_copies": 6
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-01-27 06:01:55.611198"
+        }
+      }
+    },
+    "uniq": 1591910349,
+    "workable_servers": [
+      "ia601309.us.archive.org",
+      "ia801309.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/44566065?referer=xid"
+          ],
+          "publisher": "Reiman Publications",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "95071712"
+          ],
+          "lang": "eng",
+          "city": "Greendale, WI",
+          "author": "editor, Jean Steiner ; art director, Claudia Wardius ; food editor, Janaan Cunningham.",
+          "year": "2000",
+          "isbn": [
+            "089821288X"
+          ],
+          "title": "The best of country cooking, 2000",
+          "oclcnum": [
+            "44566065",
+            "762221965",
+            "858068898"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Steiner, Jean",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

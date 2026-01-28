@@ -1,0 +1,591 @@
+{
+  "source": "internet_archive",
+  "identifier": "eveningmeal00wats",
+  "title": "Evening meal",
+  "creator": "Watson, Tom",
+  "year": 1982,
+  "subject": [
+    "Dinners and dining",
+    "Food habits",
+    "Cookery, International"
+  ],
+  "description": [
+    "Includes index",
+    "Describes the evening eating habits of people in all parts of the world and the foods they choose to eat, as well as how they grow or shop for their food and prepare their evening meal"
+  ],
+  "metadata": {
+    "created": 1758555268,
+    "d1": "ia902302.us.archive.org",
+    "d2": "ia802302.us.archive.org",
+    "dir": "/26/items/eveningmeal00wats",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659963095",
+        "size": "16324",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "110aec00e197c219fa3fe034e4d040e0",
+        "crc32": "462835db",
+        "sha1": "98523e847229be5ff89a624abebeeff850c8a224"
+      },
+      {
+        "name": "eveningmeal00wats.cdx.gz",
+        "source": "original",
+        "mtime": "1371670449",
+        "size": "6520",
+        "md5": "c681c77fbab49dd25cf96cc8949bdecd",
+        "crc32": "d3d4d99f",
+        "sha1": "3df630b9d262068d687bee51018d5f655758c4e7",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats.cdx.idx",
+        "source": "original",
+        "mtime": "1371670449",
+        "size": "33",
+        "md5": "73f7d7649af5ad58a5805eb40625b078",
+        "crc32": "3543e7e3",
+        "sha1": "873b76d36dbd53bacccd89e4f18daf91bd7603b0",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "eveningmeal00wats_hocr.html",
+        "mtime": "1755885208",
+        "size": "36262147",
+        "private": "true",
+        "md5": "f2e72a7ef162baaa4501923224fff343",
+        "crc32": "94f69b87",
+        "sha1": "1166f213bf1cd1914588756582b3c89337163e76"
+      },
+      {
+        "name": "eveningmeal00wats.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "eveningmeal00wats_jp2.zip",
+        "mtime": "1371668558",
+        "size": "242921",
+        "md5": "8575229c7fd50cfd8e33dc00693d3b4e",
+        "crc32": "95d1e642",
+        "sha1": "ac11a600b684b605ac7ede23882b24e8bf5f4c66"
+      },
+      {
+        "name": "eveningmeal00wats.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "eveningmeal00wats.pdf",
+        "mtime": "1755885025",
+        "size": "11038531",
+        "md5": "b6fcfb84ba28c8d20e264ee3bd1ae755",
+        "crc32": "b0b2c441",
+        "sha1": "5023c2435769546eafead808ba12783c0368b657"
+      },
+      {
+        "name": "eveningmeal00wats.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "eveningmeal00wats_page_numbers.json",
+        "mtime": "1720135707",
+        "size": "10629508",
+        "md5": "0bb17812ef696e3f0df816e1edffa096",
+        "crc32": "7fde6468",
+        "sha1": "b5beaa41fabf4b63310a43253204fdea7062d6bb",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1359561739",
+        "size": "493812",
+        "md5": "0fb2e831996f957588d4524febf3ae87",
+        "crc32": "3de77f2b",
+        "sha1": "dc3eaf07603c8fcb61ac7ff1042ab03a7ff582ed"
+      },
+      {
+        "name": "eveningmeal00wats.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "eveningmeal00wats.warc.gz",
+        "mtime": "1371667618",
+        "size": "6654",
+        "md5": "db4b25c1f006967a6c023a008788cbba",
+        "crc32": "6892c4d6",
+        "sha1": "00d413e3fdfc6175c83e4d60ec0119085875af70",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "eveningmeal00wats_jp2.zip",
+        "mtime": "1371669209",
+        "size": "802559",
+        "md5": "07df85a52e182e4d2437b4b7bd4d3f2a",
+        "crc32": "4d99f98d",
+        "sha1": "3bb5a4b6d3b9cc61d9ce7e9f7261462f3ad983b5",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "eveningmeal00wats_abbyy.gz",
+        "mtime": "1659962923",
+        "size": "677845",
+        "md5": "ceab289c6cd2d3669a0b6e2ca50d5561",
+        "crc32": "41e98685",
+        "sha1": "bc2623f9754650029dc955bc84c109dc81df7f3c",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "eveningmeal00wats_scandata.xml",
+        "mtime": "1669929648",
+        "size": "756",
+        "md5": "eafdc6620e1f385314e8b53d729e28c4",
+        "crc32": "236f0fc4",
+        "sha1": "51b02a6bdc1e88df9b2f748ce0a1ec197b3c15a5",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1359561739",
+        "size": "1236",
+        "md5": "fb8d58cab6f02f76d521d4378fde7130",
+        "crc32": "fd4af974",
+        "sha1": "1bd468b7d4f3f7383ff7909b159b1df6b5a57cb5"
+      },
+      {
+        "name": "eveningmeal00wats_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "eveningmeal00wats_djvu.xml",
+        "mtime": "1720135738",
+        "size": "59701",
+        "md5": "aa2d20d6c7c78a309f2c1a1b50dedfb0",
+        "crc32": "ea4c8811",
+        "sha1": "e599053b6d9c9de175a31f676fcc83c6f38cabc2",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "eveningmeal00wats_hocr.html",
+        "mtime": "1720134089",
+        "size": "761144",
+        "md5": "31fc637e296fe1b4bdde37c5be2c58d9",
+        "crc32": "8d4f5819",
+        "sha1": "aa05851da451a8f905cb18b3c7699db1558c7cd1",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "eveningmeal00wats.pdf",
+        "mtime": "1720135741",
+        "size": "10611266",
+        "md5": "e031e8edcd98d73489c62ec514cf8d46",
+        "crc32": "b0f89c13",
+        "sha1": "6e003704f8aaf074e0692d033e43b94b7231714a"
+      },
+      {
+        "name": "eveningmeal00wats_extramarc.xml",
+        "source": "original",
+        "mtime": "1396928849",
+        "size": "3773",
+        "md5": "3bc2e6edd49ba2a570749e5cbeae7f65",
+        "crc32": "b275937c",
+        "sha1": "54fa1722f8dbc5003a88924ce07eba3b80c24cb0",
+        "format": "Metadata"
+      },
+      {
+        "name": "eveningmeal00wats_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "add432f37bfcbb7e9b2eccfac98ff2da",
+        "summation": "md5"
+      },
+      {
+        "name": "eveningmeal00wats_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "eveningmeal00wats_chocr.html.gz",
+        "mtime": "1659963037",
+        "size": "1445960",
+        "md5": "698ff17cebe39126697b8d6b7eab36ef",
+        "crc32": "ba3cc9d0",
+        "sha1": "0426064b8af1488b2be9b9e2e0c51db2e54223f3",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "eveningmeal00wats_hocr.html",
+        "mtime": "1659963061",
+        "size": "789",
+        "md5": "42b6f62d90e192c47728c60f9dc7783f",
+        "crc32": "3386526e",
+        "sha1": "329fddeef263957905458b2df18df62dcf19d1f4",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "261",
+        "word_conf_11_20": "170",
+        "word_conf_21_30": "746",
+        "word_conf_31_40": "1067",
+        "word_conf_41_50": "2253",
+        "word_conf_51_60": "2027",
+        "word_conf_61_70": "1384",
+        "word_conf_71_80": "508",
+        "word_conf_81_90": "214",
+        "word_conf_91_100": "380",
+        "format": "OCR Search Text",
+        "original": "eveningmeal00wats_hocr.html",
+        "mtime": "1659963079",
+        "size": "21437",
+        "md5": "883415a1a3b5616304a4d6ba95818417",
+        "crc32": "3683af31",
+        "sha1": "460cd51b3dced107bc288a28cb0908a12b271a56",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "eveningmeal00wats_orig_jp2.tar",
+        "mtime": "1371668533",
+        "size": "55013336",
+        "md5": "74818935a2739dfb5e54d4ad9143183b",
+        "crc32": "f1851a60",
+        "sha1": "018230c98b947da3145daf4c98875758829a4c61",
+        "private": "true",
+        "filecount": "74"
+      },
+      {
+        "name": "eveningmeal00wats_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "eveningmeal00wats.epub",
+        "mtime": "1755885381",
+        "size": "36334168",
+        "md5": "1059c21c1664f58265126c2f17fec55c",
+        "crc32": "a2201741",
+        "sha1": "c1fac175578d993f657e00ff9ed9b08eb6748714"
+      },
+      {
+        "name": "eveningmeal00wats_loans.json",
+        "source": "original",
+        "mtime": "1573663027",
+        "size": "2134",
+        "format": "JSON",
+        "private": "true",
+        "md5": "99e837ec3c110b914f7f028a033479b9",
+        "crc32": "4477d392",
+        "sha1": "cb2dadb65d8f6c75ccb527289002e0497357cd25"
+      },
+      {
+        "name": "eveningmeal00wats_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1359561739",
+        "size": "3371",
+        "md5": "ff999a45651f2f380748de6b3c8f4a4b",
+        "crc32": "4e9abce7",
+        "sha1": "37d8dea6b51771cf08ef2d5ad0052709bdda17a6"
+      },
+      {
+        "name": "eveningmeal00wats_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "eveningmeal00wats_xisbn.json",
+        "mtime": "1454325525",
+        "size": "317",
+        "md5": "141bb25bd4f5072bedcf1caa636f20d2",
+        "crc32": "9109734a",
+        "sha1": "ebac17a81c6ea7487d9c7124fdcdf3df53efc581",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1359561739",
+        "size": "1148",
+        "md5": "3ba3342613ffbe421becea2f7068b40a",
+        "crc32": "5089166a",
+        "sha1": "0918331e9bebb93934bbba508f22f381485bad16"
+      },
+      {
+        "name": "eveningmeal00wats_meta.sqlite",
+        "source": "original",
+        "mtime": "1467350177",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "8f038234fe4a697e7b38e8d857699991",
+        "crc32": "3d6414d4",
+        "sha1": "184943b8c2b0f264e3ba3a20807ec42d49f505db"
+      },
+      {
+        "name": "eveningmeal00wats_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1755885382",
+        "size": "4087",
+        "md5": "5124cd806702b7b075decee7ce4fc258",
+        "crc32": "f623538f",
+        "sha1": "9160007b5a44cd10dfdffba20d1bb9389a7b50a7"
+      },
+      {
+        "name": "eveningmeal00wats_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1359561739",
+        "size": "282",
+        "md5": "f7948bcc9aec9c5f86ea3223014e11c6",
+        "crc32": "b819f1bc",
+        "sha1": "3c61aa72eff93c4f55e6d22a4e4b8b9f07f9a0e4"
+      },
+      {
+        "name": "eveningmeal00wats_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1371667596",
+        "size": "74106880",
+        "md5": "17f6dff4e438272895c3000689a1d1a4",
+        "crc32": "0f47eed9",
+        "sha1": "92f1289d51b80ecb5b353576d59a6810cbbc9292",
+        "private": "true",
+        "filecount": "74"
+      },
+      {
+        "name": "eveningmeal00wats_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "99",
+        "format": "Page Numbers JSON",
+        "original": "eveningmeal00wats_hocr.html",
+        "mtime": "1720134605",
+        "size": "12221",
+        "md5": "d1553ebb876e6f8de6adada94f21306f",
+        "crc32": "54e30a56",
+        "sha1": "1d92f1f15c3d499d686c1c01832b1b7ab77a8bf9",
+        "private": "true"
+      },
+      {
+        "name": "eveningmeal00wats_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669929647",
+        "size": "96869",
+        "md5": "486cf70b0f11f7ec35c17b67b556e7c5",
+        "crc32": "48677a84",
+        "sha1": "a4ba9d3f2c33509cd41a5ba33a5a06e6f10d8666"
+      },
+      {
+        "name": "eveningmeal00wats_xisbn.json",
+        "source": "original",
+        "mtime": "1454268526",
+        "size": "340",
+        "md5": "7479051c059ddd5b0e08999397b97335",
+        "crc32": "63d6430a",
+        "sha1": "646da4b8ed1c8fbcc914cf1d7bdb3d3fb1a22eba",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 34,
+    "item_last_updated": 1755885382,
+    "item_size": 238664213,
+    "metadata": {
+      "title": "Evening meal",
+      "creator": [
+        "Watson, Tom",
+        "Watson, Jenny"
+      ],
+      "publisher": "[Chicago, IL] : Childrens Press International",
+      "date": "1982-01-01",
+      "language": "eng",
+      "isbn": [
+        "0516018582",
+        "9780516018584"
+      ],
+      "openlibrary": "OL3499702M",
+      "subject": [
+        "Dinners and dining",
+        "Food habits",
+        "Cookery, International",
+        "Dinners and dining",
+        "Food habits"
+      ],
+      "lccn": "82019909",
+      "description": [
+        "Includes index",
+        "Describes the evening eating habits of people in all parts of the world and the foods they choose to eat, as well as how they grow or shop for their food and prepare their evening meal"
+      ],
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2013-01-30 16:02:13",
+      "updater": "associate-lotu-tii@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sanfrancisco",
+      "shiptracking": "y0791",
+      "boxid": "IA1511501",
+      "identifier": "eveningmeal00wats",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2013-01-30 16:02:25",
+      "publicdate": "2013-01-30 16:02:28",
+      "scanner": "scribe5.sanfrancisco.archive.org",
+      "notes": "some content may be lost due to the binding of the book.",
+      "repub_seconds": "192",
+      "ppi": "500",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "associate-lan-zhu@archive.org",
+      "scandate": "20130618221933",
+      "republisher": "associate-karina-martinez@archive.org",
+      "imagecount": "74",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/eveningmeal00wats",
+      "identifier-ark": "ark:/13960/t8hd9g02z",
+      "bookplateleaf": "0003",
+      "donor": "bostonpubliclibrary",
+      "scanfee": "150",
+      "invoice": "11",
+      "extramarc": "University of Alberta Libraries",
+      "external-identifier": [
+        "urn:acs6:eveningmeal00wats:pdf:06f65b99-d7de-4629-a0b5-4be25204ac5b",
+        "urn:acs6:eveningmeal00wats:epub:cd7e312d-1ff0-4b5a-86d2-88af3566e5fb",
+        "urn:oclc:record:1034677864",
+        "urn:lcp:eveningmeal00wats:lcpdf:b52ce032-ee3e-4379-9d21-f91e4b090a00",
+        "urn:lcp:eveningmeal00wats:epub:617c730f-acf9-446a-8170-f23ba5b2ca96"
+      ],
+      "city": "Chicago",
+      "edition": "American ed.",
+      "oclc-id": [
+        "759888761",
+        "78231107",
+        "8931453"
+      ],
+      "backup_location": "ia905605_24",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "openlibrary_edition": "OL3499702M",
+      "openlibrary_work": "OL5910452W",
+      "republisher_operator": "associate-karina-martinez@archive.org",
+      "republisher_date": "20130619184324",
+      "loans__status__last_loan_date": "2019-10-30T15:04:27Z",
+      "loans__status__num_history": "4",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "99",
+      "filesxml": "Wed Apr 3 2:05:46 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia802302.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "bpljordan-ol": {
+          "notes": {
+            "isbn": [
+              "9780516018584"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-06-27 05:33:23.858157"
+        }
+      }
+    },
+    "uniq": 1229016337,
+    "workable_servers": [
+      "ia802302.us.archive.org",
+      "ia902302.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/759888761?referer=xid"
+          ],
+          "publisher": "Childrens Press",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "82019909"
+          ],
+          "lang": "eng",
+          "city": "Chicago",
+          "author": "Tom and Jenny Watson.",
+          "ed": "American ed.",
+          "year": "1983",
+          "isbn": [
+            "0516018582"
+          ],
+          "title": "Evening meal",
+          "oclcnum": [
+            "759888761",
+            "78231107",
+            "8931453"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Watson, Tom",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

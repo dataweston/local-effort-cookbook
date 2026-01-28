@@ -1,0 +1,538 @@
+{
+  "source": "internet_archive",
+  "identifier": "quiltsfrommygard0000snyd",
+  "title": "Quilts from my garden : 20 projects with recipes fresh from the garden",
+  "creator": "Snyder, Karen, 1953-",
+  "year": 2008,
+  "subject": [
+    "Quilting -- Patterns",
+    "Cooking",
+    "Gardens in art",
+    "Quilting"
+  ],
+  "description": [
+    "127 pages : 28 cm",
+    "A quilting and cooking guide, which includes over 12 garden-inspired quilt projects, explained in photos and illustrations; and accompanied by more than eight recipes. It features projects and recipes, which include a seed-packet wall-hanging and Rosemary Potatoes, and a needle case and Maple Apple Chicken recipe"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720504.ca.archive.org",
+          "dir": "/0/items/quiltsfrommygard0000snyd"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720504.ca.archive.org",
+          "dir": "/0/items/quiltsfrommygard0000snyd"
+        }
+      ]
+    },
+    "created": 1758557104,
+    "d1": "ia600205.us.archive.org",
+    "d2": "ia800205.us.archive.org",
+    "dir": "/17/items/quiltsfrommygard0000snyd",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660964574",
+        "size": "24090",
+        "md5": "fdaad3d26e8c2717213e1e47979e6a5f",
+        "crc32": "f0473050",
+        "sha1": "981b173a7748a681f564a0dfe059a1c1d9b63b33",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/quiltsfrommygard0000snyd_iabdash_2018-08-1104:15:26.log",
+        "source": "original",
+        "mtime": "1533932134",
+        "size": "687",
+        "md5": "927f9366573ae76fc04c6a748e8c1cf6",
+        "crc32": "4a4ebc3d",
+        "sha1": "169dbb6af7c1804ac06438018bdb318d50c57bf3",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/quiltsfrommygard0000snyd_scanning_2018-08-1104:15:18.log",
+        "source": "original",
+        "mtime": "1533932126",
+        "size": "472409",
+        "md5": "3994d37873b32132481f1209d71143bc",
+        "crc32": "be17e113",
+        "sha1": "9c7f318c46d4594ac2259b2932298f670a84cca2",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "quiltsfrommygard0000snyd_hocr.html",
+        "mtime": "1753951433",
+        "size": "64634023",
+        "private": "true",
+        "md5": "5155163c486b71f5e5e3a5c4f91a58d3",
+        "crc32": "ecc26c36",
+        "sha1": "e8165296c8e7ad049129894b58ad3d39e53a19e3"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "quiltsfrommygard0000snyd.pdf",
+        "mtime": "1753951046",
+        "size": "12964393",
+        "md5": "8f87701013cde10947f62b01c96598d5",
+        "crc32": "b8f6073c",
+        "sha1": "71317b9f4f1e57a6d66edb3fb7973c97b29187c1"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "quiltsfrommygard0000snyd_page_numbers.json",
+        "mtime": "1720723021",
+        "size": "12539537",
+        "md5": "04f8e2104e1808a0d8609bb592254a38",
+        "crc32": "32d43fda",
+        "sha1": "3aac83c1555738114a543cd5a710477313b08812",
+        "private": "true"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "quiltsfrommygard0000snyd_jp2.zip",
+        "mtime": "1534069805",
+        "size": "1514480",
+        "md5": "03f7ad6f9d858bc117b44b5843186f43",
+        "crc32": "6b4727cf",
+        "sha1": "28d482eb4a4f903fcd502b965913f9ce753a0397",
+        "private": "true"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "quiltsfrommygard0000snyd_abbyy.gz",
+        "mtime": "1660964266",
+        "size": "1209954",
+        "md5": "e82b2e78818d529b854e08c382aa1530",
+        "crc32": "9590fab2",
+        "sha1": "46b70907670b47cf233d756db0a2c8037645e13b",
+        "private": "true"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "quiltsfrommygard0000snyd_scandata.xml",
+        "mtime": "1671050836",
+        "size": "788",
+        "md5": "0f4a30c838e9b1e8f55b36b5a97af4bb",
+        "crc32": "0ca727b4",
+        "sha1": "93311122209f173351023944f09d465d8d18e609",
+        "private": "true"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1534067440",
+        "size": "1568",
+        "md5": "900d3a85a811711aba071c180c522c7e",
+        "crc32": "17d45d27",
+        "sha1": "824a628cfadb7191ec21c03eb935f1de16d83421"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "quiltsfrommygard0000snyd_djvu.xml",
+        "mtime": "1660964527",
+        "size": "106222",
+        "md5": "1d9ccf33d06fed5a8b7ff7161ea20c7f",
+        "crc32": "8f35bf00",
+        "sha1": "19c4528813f9ffd3cb22f4af5cdb7555c2ea5c11",
+        "private": "true"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "quiltsfrommygard0000snyd_hocr.html",
+        "mtime": "1660964402",
+        "size": "1394538",
+        "md5": "0b1d7de28b0d76614a882783cd6892fd",
+        "crc32": "1f1d17db",
+        "sha1": "3343114739c8f9b2e4b91451bce2c73a3fdf832f",
+        "private": "true"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "quiltsfrommygard0000snyd_abbyy.gz",
+        "mtime": "1534070341",
+        "size": "5042012",
+        "md5": "2fdee6345d619d541dbeab1cb997f73f",
+        "crc32": "d6dd81e4",
+        "sha1": "c54ef14e458e6d9257cc1719b79de26d468b457d"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "quiltsfrommygard0000snyd.pdf",
+        "mtime": "1720723549",
+        "size": "12467478",
+        "md5": "71ffcde05303be0e58231ec166eab6b3",
+        "crc32": "df1e3436",
+        "sha1": "c24b37911aaa6140ff39027a4787d8bfa9b53711"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_events.json",
+        "source": "original",
+        "mtime": "1534066676",
+        "size": "51",
+        "md5": "866fb5f9ff53cd82e5e8d6f5bbae03ef",
+        "crc32": "c5fba6a7",
+        "sha1": "9852f4ccaaacfdd1c3943148c00e77e912b9f665",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "86b2191165a685869bbe411446b682a4",
+        "summation": "md5"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "quiltsfrommygard0000snyd_chocr.html.gz",
+        "mtime": "1660964389",
+        "size": "3012951",
+        "md5": "5563b4a2091a6883fb8470c81fe5d43a",
+        "crc32": "555a0225",
+        "sha1": "1603c38521a6da5be05827ff7b3fea16135f1266",
+        "private": "true"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "quiltsfrommygard0000snyd_hocr.html",
+        "mtime": "1660964415",
+        "size": "1474",
+        "md5": "a822ffc63a2823f68799805f3f88327e",
+        "crc32": "09cf15ee",
+        "sha1": "acfe41c9ba574278db206fd336ad09ef91033336",
+        "private": "true"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "314",
+        "word_conf_11_20": "145",
+        "word_conf_21_30": "179",
+        "word_conf_31_40": "185",
+        "word_conf_41_50": "273",
+        "word_conf_51_60": "432",
+        "word_conf_61_70": "1164",
+        "word_conf_71_80": "2790",
+        "word_conf_81_90": "4242",
+        "word_conf_91_100": "6444",
+        "format": "OCR Search Text",
+        "original": "quiltsfrommygard0000snyd_hocr.html",
+        "mtime": "1660964506",
+        "size": "32713",
+        "md5": "f5cd189e2c80a0bc1daccf5dea2c8b1f",
+        "crc32": "3fce04ba",
+        "sha1": "717d42385bc892672e0dd7f159fbc694bf8c8551",
+        "private": "true"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "quiltsfrommygard0000snyd_orig_jp2.tar",
+        "mtime": "1534069035",
+        "size": "86601288",
+        "md5": "9e5000de0c6633bba9a5dae315738308",
+        "crc32": "a3d8a3c2",
+        "sha1": "0929520604349d4ec8c9deda397c4f09be0b5f83",
+        "private": "true",
+        "filecount": "134"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "quiltsfrommygard0000snyd.epub",
+        "mtime": "1753952004",
+        "size": "65122740",
+        "md5": "c7b37c54e08f316c034f250ff4ff5470",
+        "crc32": "cc7baad9",
+        "sha1": "9650a323942b256de1392dd7cedbc91a41f63073"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_loans.json",
+        "source": "original",
+        "mtime": "1582341848",
+        "size": "1021",
+        "format": "JSON",
+        "private": "true",
+        "md5": "6aed330557d32f87f7c6e2af4bc646d4",
+        "crc32": "1c8e7add",
+        "sha1": "d310498743db163ce40f8dc5bba7b8067caf049b"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_marc.xml",
+        "source": "original",
+        "mtime": "1534067440",
+        "size": "6435",
+        "format": "MARC",
+        "md5": "18c843a04e744d088c78efb5ea03d900",
+        "crc32": "3144832a",
+        "sha1": "f8f4c01f4001844691c5cfc571d03dc30dfed50c"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_meta.mrc",
+        "source": "original",
+        "mtime": "1533932144",
+        "size": "1922",
+        "md5": "c6b6bfbab0a8cbe7475dabda66ef3668",
+        "crc32": "818de487",
+        "sha1": "c7f9e030cb8a4e2e777ec762bba3c6b97bda66b7",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_meta.sqlite",
+        "source": "original",
+        "mtime": "1534067399",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "fa828cfe216c85d4e59d8f913f1abd2d",
+        "crc32": "b0b494d6",
+        "sha1": "1ab9f6bcb1c116cf7a201fdd73a2c6934a49db5c"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_meta.xml",
+        "source": "original",
+        "mtime": "1753952005",
+        "size": "3701",
+        "format": "Metadata",
+        "md5": "9bcc47ed7e24a95d11c4dfd443e3a7d0",
+        "crc32": "d35e020a",
+        "sha1": "1b5d67e19343febe29ca901e3f0152c9723e4af7"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1534067398",
+        "size": "274022400",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "b1a7641dfbd92b4d658be6b70f2bcc1f",
+        "crc32": "33c951c9",
+        "sha1": "2a83f08d91186bee17eb31b3db345e4942fa8866",
+        "filecount": "134"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "quiltsfrommygard0000snyd_hocr.html",
+        "mtime": "1720723021",
+        "size": "22493",
+        "md5": "9222d7464eeb87bbbed875b1e6e8d170",
+        "crc32": "544d0459",
+        "sha1": "bd2831de1b9fed08c5c317ecc42a3388310f1acf",
+        "private": "true"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_scandata.xml",
+        "source": "original",
+        "mtime": "1671050836",
+        "size": "137163",
+        "format": "Scandata",
+        "md5": "6cdc5364b75d48f9bccf980ace17cf1f",
+        "crc32": "61ddc5b5",
+        "sha1": "869850f6335f6fedb6d4abb4879ac5193784c696"
+      },
+      {
+        "name": "quiltsfrommygard0000snyd_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "quiltsfrommygard0000snyd_djvu.xml",
+        "mtime": "1671050774",
+        "size": "17135",
+        "md5": "0d1d92d030f6d3fb0e02d8192b5fba21",
+        "crc32": "d118c846",
+        "sha1": "529127793604a3f2da9c3f4edabccce9535ad4c5",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753952005,
+    "item_size": 541373074,
+    "metadata": {
+      "identifier": "quiltsfrommygard0000snyd",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Snyder, Karen, 1953-",
+      "creator-alt-script": "None",
+      "date": "2008-01-01",
+      "description": [
+        "127 pages : 28 cm",
+        "A quilting and cooking guide, which includes over 12 garden-inspired quilt projects, explained in photos and illustrations; and accompanied by more than eight recipes. It features projects and recipes, which include a seed-packet wall-hanging and Rosemary Potatoes, and a needle case and Maple Apple Chicken recipe"
+      ],
+      "isbn": [
+        "9780896895805",
+        "0896895807"
+      ],
+      "language": "eng",
+      "lccn": "2007940514",
+      "mediatype": "texts",
+      "operator": "associate-chingai-kee@archive.org",
+      "ppi": "300",
+      "publisher": "Iola, WI : Krause Publications",
+      "repub_state": "22",
+      "scanner": "ttscribe17.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "subject": [
+        "Quilting -- Patterns",
+        "Cooking",
+        "Gardens in art",
+        "Cooking",
+        "Gardens in art",
+        "Quilting"
+      ],
+      "title": "Quilts from my garden : 20 projects with recipes fresh from the garden ",
+      "title-alt-script": "None",
+      "tts_version": "v1.60-81-g663174d",
+      "uploader": "ttscribe17.hongkong@archive.org",
+      "addeddate": "2018-08-10 20:15:06",
+      "publicdate": "2018-08-10 20:15:34",
+      "imagecount": "134",
+      "scandate": "20180810212321",
+      "republisher_operator": "republisher11.dhaka@archive.org",
+      "republisher_date": "20180812160719",
+      "republisher_time": "428",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/quiltsfrommygard0000snyd",
+      "identifier-ark": "ark:/13960/t9675kj8h",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:quiltsfrommygard0000snyd:epub:4f67f713-668f-498a-b23c-f97621191e0c",
+        "urn:acs6:quiltsfrommygard0000snyd:pdf:c84757b9-32ad-488b-b47d-642ba45b138a",
+        "urn:oclc:record:1151097549",
+        "urn:lcp:quiltsfrommygard0000snyd:lcpdf:a8157d9e-7167-478b-bcde-af2abf8577f9",
+        "urn:lcp:quiltsfrommygard0000snyd:epub:942c29fb-cec5-47b6-b471-750430280f27"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "boxid": "IA1305817",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "sponsordate": "20180831",
+      "loans__status__last_loan_date": "2020-02-22T03:06:09Z",
+      "loans__status__num_history": "3",
+      "openlibrary_edition": "OL11328398M",
+      "openlibrary_work": "OL8634744W",
+      "access-restricted-item": "true",
+      "backup_location": "ia906800_19",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "0",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800205.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "delawarecountydistrictlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780896895805"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-01-11 07:18:07.548391"
+        },
+        "hamiltonpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780896895805"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2019-05-06 10:26:01.674248"
+        },
+        "spokanepubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780896895805"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-01-31 03:40:08.566436"
+        }
+      }
+    },
+    "uniq": 838992465,
+    "workable_servers": [
+      "ia800205.us.archive.org",
+      "ia600205.us.archive.org"
+    ]
+  },
+  "institution": "Snyder, Karen, 1953-",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

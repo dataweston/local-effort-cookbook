@@ -1,0 +1,491 @@
+{
+  "source": "internet_archive",
+  "identifier": "reynoldscookingw0000unse",
+  "title": "Reynolds cooking with foil",
+  "creator": "None",
+  "year": 2006,
+  "subject": [
+    "Cooking",
+    "Aluminum foil"
+  ],
+  "description": [
+    "92 pages : 29 cm",
+    "Demonstrates the use of aluminum foil packets for cooking food in oven or on grill",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/reynoldscookingw0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/reynoldscookingw0000unse"
+        }
+      ]
+    },
+    "created": 1758555152,
+    "d1": "ia904606.us.archive.org",
+    "d2": "ia804606.us.archive.org",
+    "dir": "/29/items/reynoldscookingw0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660994325",
+        "size": "21448",
+        "md5": "38b413c37be50a9af4f3a87e164c5978",
+        "crc32": "e99e26ad",
+        "sha1": "587f5912ade0ceb7bd87bc6079de1dc6f6283ccf",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/reynoldscookingw0000unse_iabdash_2018-10-0616:55:10.log",
+        "source": "original",
+        "mtime": "1538816119",
+        "size": "686",
+        "md5": "3a440658ed614ee70567be8b0f5cca7a",
+        "crc32": "bdd671a1",
+        "sha1": "e8afa933c0bcd353e980f444dcd94f16422b19f3",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/reynoldscookingw0000unse_scanning_2018-10-0616:55:04.log",
+        "source": "original",
+        "mtime": "1538816113",
+        "size": "277917",
+        "md5": "48144dfc7b3dc3db26afbf14f61b7068",
+        "crc32": "5ddb2769",
+        "sha1": "731dec42586f0fe880480654771155b54be115b2",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "reynoldscookingw0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "reynoldscookingw0000unse_hocr.html",
+        "mtime": "1753978595",
+        "size": "49726817",
+        "private": "true",
+        "md5": "d4bf3ec8a224d3cba907245a37583620",
+        "crc32": "377907f7",
+        "sha1": "c91b60659e2193add03470f77b15914e1e7175a6"
+      },
+      {
+        "name": "reynoldscookingw0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "reynoldscookingw0000unse.pdf",
+        "mtime": "1753978389",
+        "size": "12088223",
+        "md5": "ec0b8b2e5bf0283fafe2229b57184bcc",
+        "crc32": "41fd7c82",
+        "sha1": "98bc3815ce27af850babb82f47a1e8f38ffb13c6"
+      },
+      {
+        "name": "reynoldscookingw0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "reynoldscookingw0000unse_page_numbers.json",
+        "mtime": "1722140754",
+        "size": "11707765",
+        "md5": "c7f5e9ea140b2f0e1337533bcc512438",
+        "crc32": "0560fe7b",
+        "sha1": "124ad44dc620961348cb78606d7d6fd54be82186",
+        "private": "true"
+      },
+      {
+        "name": "reynoldscookingw0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "reynoldscookingw0000unse_jp2.zip",
+        "mtime": "1539326154",
+        "size": "1430676",
+        "md5": "a02c5b7c847863bab6ccb3544a72235f",
+        "crc32": "b0f38a74",
+        "sha1": "7a1f891248991b218e082a90455e42fc5f26c526",
+        "private": "true"
+      },
+      {
+        "name": "reynoldscookingw0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "reynoldscookingw0000unse_abbyy.gz",
+        "mtime": "1660994201",
+        "size": "1197817",
+        "md5": "fdcb71fa30443447e287549aeb863bee",
+        "crc32": "6c9cad82",
+        "sha1": "4d12c2b3dd91cb1a85e32ed714164da558ee46f8",
+        "private": "true"
+      },
+      {
+        "name": "reynoldscookingw0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "reynoldscookingw0000unse_scandata.xml",
+        "mtime": "1671119356",
+        "size": "788",
+        "md5": "687ea2566883e878b39df3df8f368cb5",
+        "crc32": "1c491610",
+        "sha1": "e5a2885085b315ed3f8133947518cc55d864e2d7",
+        "private": "true"
+      },
+      {
+        "name": "reynoldscookingw0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660994152",
+        "size": "1161",
+        "md5": "58261a4a6e852cf7c195db55ac7b6126",
+        "crc32": "66575441",
+        "sha1": "95f267d9741f7b6f8dfd97619e2a135457fd2779"
+      },
+      {
+        "name": "reynoldscookingw0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "reynoldscookingw0000unse_djvu.xml",
+        "mtime": "1660994319",
+        "size": "106414",
+        "md5": "9adf8b37e7c01ea19e7a1d8f4ad42a73",
+        "crc32": "7d7e1d7e",
+        "sha1": "b6c24f86450b7dc119beda35437b19b24a5a10c5",
+        "private": "true"
+      },
+      {
+        "name": "reynoldscookingw0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "reynoldscookingw0000unse_hocr.html",
+        "mtime": "1660994290",
+        "size": "1318318",
+        "md5": "6ea1fa86aa2d723fc7b08a932df87b8f",
+        "crc32": "61fdfc55",
+        "sha1": "d249636826505cd96c27787447c191d486368bf4",
+        "private": "true"
+      },
+      {
+        "name": "reynoldscookingw0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "reynoldscookingw0000unse_abbyy.gz",
+        "mtime": "1539326848",
+        "size": "1962409",
+        "md5": "72b47d9d1edb278a7d37d9e8d27b8886",
+        "crc32": "c942079f",
+        "sha1": "b604c1c7fc0bb3d3097de8391a3d32b5c52f377f"
+      },
+      {
+        "name": "reynoldscookingw0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "reynoldscookingw0000unse.pdf",
+        "mtime": "1722141022",
+        "size": "11643606",
+        "md5": "dba9f15b2c10e91d76497d0886c373bf",
+        "crc32": "65c14c1c",
+        "sha1": "60fc92b1782431ec081c8df7128b166effb36ace"
+      },
+      {
+        "name": "reynoldscookingw0000unse_events.json",
+        "source": "original",
+        "mtime": "1539322607",
+        "size": "51",
+        "md5": "3f176610ad4f53a8a1ca29bf16c5bad3",
+        "crc32": "160d9720",
+        "sha1": "aed6581fad95611ac3d1a7893c83769b2ce48053",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "reynoldscookingw0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "dfa776176d6c1904b446b2a88c5b5703",
+        "summation": "md5"
+      },
+      {
+        "name": "reynoldscookingw0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "reynoldscookingw0000unse_chocr.html.gz",
+        "mtime": "1660994280",
+        "size": "2865659",
+        "md5": "5dd7cb30454ff895caac12f90971673e",
+        "crc32": "7dc3fd8a",
+        "sha1": "136603bb155352500845136f9a0b5918ad9b89bd",
+        "private": "true"
+      },
+      {
+        "name": "reynoldscookingw0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "reynoldscookingw0000unse_hocr.html",
+        "mtime": "1660994298",
+        "size": "1079",
+        "md5": "71ba1ab7e98bdd29fcdb615462bd6a48",
+        "crc32": "d383a722",
+        "sha1": "c357444b1a40bf746d16fed4d1f9be5d6edaa813",
+        "private": "true"
+      },
+      {
+        "name": "reynoldscookingw0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "210",
+        "word_conf_11_20": "56",
+        "word_conf_21_30": "80",
+        "word_conf_31_40": "76",
+        "word_conf_41_50": "158",
+        "word_conf_51_60": "257",
+        "word_conf_61_70": "464",
+        "word_conf_71_80": "1011",
+        "word_conf_81_90": "2516",
+        "word_conf_91_100": "10225",
+        "format": "OCR Search Text",
+        "original": "reynoldscookingw0000unse_hocr.html",
+        "mtime": "1660994312",
+        "size": "25680",
+        "md5": "5fd7ecc006189250d69e380b955d3514",
+        "crc32": "19324ad6",
+        "sha1": "90ec9870960115bb6d84c107aeaa6eefb1ca51fa",
+        "private": "true"
+      },
+      {
+        "name": "reynoldscookingw0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "reynoldscookingw0000unse_orig_jp2.tar",
+        "mtime": "1539325514",
+        "size": "74340438",
+        "md5": "aed34550137b55f94d5c82447a4814ed",
+        "crc32": "185dbfaf",
+        "sha1": "4ce38db3df6bcd868a5f1533a98f2ffff22929f7",
+        "private": "true",
+        "filecount": "98"
+      },
+      {
+        "name": "reynoldscookingw0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "reynoldscookingw0000unse.epub",
+        "mtime": "1753978919",
+        "size": "49881437",
+        "md5": "b8572b56e4e395290910a463b9d31208",
+        "crc32": "d869eb54",
+        "sha1": "2bd87d945b7087566400da43281a598da53e8cba"
+      },
+      {
+        "name": "reynoldscookingw0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593047011",
+        "size": "2236",
+        "format": "JSON",
+        "private": "true",
+        "md5": "d7f616e3fdb2b794a3b934bd4d107e9e",
+        "crc32": "92188c05",
+        "sha1": "379d3582926f251c7d3b5e323af5b8bfee71cc61"
+      },
+      {
+        "name": "reynoldscookingw0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1660994152",
+        "size": "3629",
+        "format": "MARC",
+        "md5": "550da0e92481440da46affcd75c74746",
+        "crc32": "e1a7c345",
+        "sha1": "0b74ab0bb05bf1afdf64ad057db8cc2ed7754105"
+      },
+      {
+        "name": "reynoldscookingw0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1538816129",
+        "size": "1067",
+        "md5": "2238e6c3a1138bf0e64df79db77107c5",
+        "crc32": "d3a64256",
+        "sha1": "d4d9be96c8a2fc7d5a0f829618fdd9c1694de0e1",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "reynoldscookingw0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1539322632",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "ee3ff6dbf57d1e07b991174eb8e776cb",
+        "crc32": "52104ba8",
+        "sha1": "32d8e54e9d403a7e2fe4bf4876148ae86e32b03a"
+      },
+      {
+        "name": "reynoldscookingw0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753978920",
+        "size": "3089",
+        "format": "Metadata",
+        "md5": "e19bf1bcba2bf856cfdeb6f429f1dcd8",
+        "crc32": "4ea4ecbf",
+        "sha1": "80f2f33bff85016b60b4b1e8a26e4947ef955010"
+      },
+      {
+        "name": "reynoldscookingw0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1539322632",
+        "size": "177510400",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "b53eafe23f31fcb102311b2031e636d7",
+        "crc32": "ae15c89a",
+        "sha1": "13e2e03b64966349b0db1f6943ad9acad141db4f",
+        "filecount": "98"
+      },
+      {
+        "name": "reynoldscookingw0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "reynoldscookingw0000unse_hocr.html",
+        "mtime": "1722140747",
+        "size": "16387",
+        "md5": "161b5d3123673e3f578e8a12b7a22931",
+        "crc32": "06686275",
+        "sha1": "ac5f16cb53cdeda70a87d4fa663ae481e5890cbc",
+        "private": "true"
+      },
+      {
+        "name": "reynoldscookingw0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671119356",
+        "size": "100369",
+        "format": "Scandata",
+        "md5": "73a1ae65c21ce8ec3934187e6a968049",
+        "crc32": "e616894b",
+        "sha1": "05b0cae6f378edbc334a02edfd8425284acc0e24"
+      },
+      {
+        "name": "reynoldscookingw0000unse_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "reynoldscookingw0000unse_djvu.xml",
+        "mtime": "1671119148",
+        "size": "63",
+        "md5": "fc0dab8869088e8709a16a2ae929d17d",
+        "crc32": "bac0d2d2",
+        "sha1": "ce1f3e95218083ac9f09de6f43fe9d7f8ce362ad",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753978920,
+    "item_size": 396253037,
+    "metadata": {
+      "identifier": "reynoldscookingw0000unse",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "None",
+      "creator-alt-script": "None",
+      "date": "2006-01-01",
+      "description": [
+        "92 pages : 29 cm",
+        "Demonstrates the use of aluminum foil packets for cooking food in oven or on grill",
+        "Includes index"
+      ],
+      "isbn": [
+        "9781412725309",
+        "1412725305"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-law-chiyeung@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International",
+      "repub_state": "22",
+      "scanner": "ttscribe3.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "subject": [
+        "Cooking",
+        "Aluminum foil",
+        "Aluminum foil",
+        "Cooking"
+      ],
+      "title": "Reynolds cooking with foil",
+      "title-alt-script": "None",
+      "tts_version": "v1.60-1-g2f920ca",
+      "uploader": "ttscribe3.hongkong@archive.org",
+      "addeddate": "2018-10-06 08:54:55",
+      "publicdate": "2018-10-06 08:55:37",
+      "imagecount": "98",
+      "scandate": "20181006103051",
+      "republisher_operator": "republisher12.dhaka@archive.org",
+      "republisher_date": "20181012113634",
+      "republisher_time": "282",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/reynoldscookingw0000unse",
+      "identifier-ark": "ark:/13960/t5fc2bq09",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:reynoldscookingw0000unse:epub:0b359178-8a92-4386-9fc8-607a4f31b967",
+        "urn:acs6:reynoldscookingw0000unse:pdf:0c31e43e-5e3e-405e-8b5c-44cb08f73bdb",
+        "urn:lcp:reynoldscookingw0000unse:lcpdf:ab060732-117c-4856-a1e6-374c4465c621",
+        "urn:lcp:reynoldscookingw0000unse:epub:c88bf6e4-2e1f-480c-9703-6fa1b83ff48d"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20181012183501[/date]",
+      "boxid": "IA1375705",
+      "sponsordate": "20181031",
+      "openlibrary_edition": "OL26648755M",
+      "openlibrary_work": "OL18177678W",
+      "access-restricted-item": "true",
+      "backup_location": "ia906802_28",
+      "oclc-id": "1040695592",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia904606.us.archive.org",
+    "uniq": 1785673803,
+    "workable_servers": [
+      "ia904606.us.archive.org",
+      "ia804606.us.archive.org"
+    ]
+  },
+  "institution": "None",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

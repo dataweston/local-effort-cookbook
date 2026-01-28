@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "public/**", "use": "@vercel/static" },
+    { "src": "cookbook-migration/public-cookbook/**", "use": "@vercel/static" }
+  ],
+  "routes": [
+    {
+      "src": "/cookbook/?$",
+      "dest": "/cookbook-migration/public-cookbook/index.json"
+    },
+    {
+      "src": "/cookbook/(.*)",
+      "dest": "/cookbook-migration/public-cookbook/$1"
+    },
+    { "src": "/", "dest": "/public/index.html" },
+    { "src": "/(.*)", "dest": "/public/$1" }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "source": "internet_archive",
+  "identifier": "easyas123familyf00ladi",
+  "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+  "creator": "by the editors of Ladies' home journal.",
+  "year": 1985,
+  "subject": [
+    "COOKBOOK",
+    "Cooking",
+    "Nutrition"
+  ],
+  "description": [
+    "Includes index",
+    "Issued in a slipcase",
+    "Volumes also published separately",
+    "Ladies' Home Journal easy as 1-2-3 warm weather cookbook -- Ladies' home journal easy as 1-2-3 family favorites cookbook -- Ladies' home journal easy as 1-2-3 entertaining cookbook -- Ladies' home journal easy as 1-2-3 hearty meals cookbook -- Ladies' home journal easy as 1-2-3 nutritious and delicious cookbook"
+  ],
+  "metadata": {
+    "created": 1758555646,
+    "d1": "ia600901.us.archive.org",
+    "d2": "ia800901.us.archive.org",
+    "dir": "/32/items/easyas123familyf00ladi",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659909862",
+        "size": "23436",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "8fcf707071f87b36436d094025e25136",
+        "crc32": "2e683768",
+        "sha1": "4d8092ac767e98f316e48e5f3804ef65f53197e5"
+      },
+      {
+        "name": "easyas123familyf00ladi.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "easyas123familyf00ladi_hocr.html",
+        "mtime": "1753259306",
+        "size": "8635829",
+        "private": "true",
+        "md5": "8f4ecb8ec10600be1aff838aa3cce3a4",
+        "crc32": "d502aa94",
+        "sha1": "ddc197f63feecc24337538fa16bdf35c2fdb1fc4"
+      },
+      {
+        "name": "easyas123familyf00ladi.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "easyas123familyf00ladi_jp2.zip",
+        "mtime": "1345921170",
+        "size": "316208",
+        "md5": "5ab37749cab620790882a7b75a5d5900",
+        "crc32": "c12553aa",
+        "sha1": "704b5e25ba1d68de1a2efa85c336a7c0849692ed"
+      },
+      {
+        "name": "easyas123familyf00ladi.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "easyas123familyf00ladi.pdf",
+        "mtime": "1753259113",
+        "size": "10762185",
+        "md5": "41e6d43a83a7946b499e59fd0d4843a9",
+        "crc32": "72a6ab01",
+        "sha1": "8e37b68473e75cf685e5ef5e7697bbacc1d6e929"
+      },
+      {
+        "name": "easyas123familyf00ladi.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "easyas123familyf00ladi_page_numbers.json",
+        "mtime": "1715856982",
+        "size": "10355129",
+        "md5": "696d72084382837d42c690f5088b75c8",
+        "crc32": "2ff6aacf",
+        "sha1": "e1bdcdce28390aa33100e9295f457913121c0aeb",
+        "private": "true"
+      },
+      {
+        "name": "easyas123familyf00ladi.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1338997922",
+        "size": "455909",
+        "md5": "2ce3ee93749bbd6a5fd491a1d8ff668a",
+        "crc32": "e0e68f57",
+        "sha1": "3d88aa7906bd1137661aa9595ca5debd591b9f95"
+      },
+      {
+        "name": "easyas123familyf00ladi.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "easyas123familyf00ladi.warc.gz",
+        "mtime": "1345919191",
+        "size": "5756",
+        "md5": "1d8857421e44722e997a21ec376f2277",
+        "crc32": "d7e58cc5",
+        "sha1": "02339b93be6505d009448bae0763263736bd2465",
+        "private": "true"
+      },
+      {
+        "name": "easyas123familyf00ladi_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "easyas123familyf00ladi_jp2.zip",
+        "mtime": "1345922159",
+        "size": "1971427",
+        "md5": "1d49620aba1fe0ad85da5d13bf6719d8",
+        "crc32": "9dd3fb80",
+        "sha1": "dedd7d8ce1d8f7a633e0bfdf775c199e9600c7b3",
+        "private": "true"
+      },
+      {
+        "name": "easyas123familyf00ladi_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "easyas123familyf00ladi_abbyy.gz",
+        "mtime": "1659909117",
+        "size": "1684921",
+        "md5": "b7f717b71d502b2a6524acc862041bdb",
+        "crc32": "b8602817",
+        "sha1": "62aabb023c88636b88e27aef5443e496a53f2793",
+        "private": "true"
+      },
+      {
+        "name": "easyas123familyf00ladi_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "easyas123familyf00ladi_scandata.xml",
+        "mtime": "1669842299",
+        "size": "781",
+        "md5": "e6673f754f36675dfd95c8f39a83ab8d",
+        "crc32": "fc71dbc2",
+        "sha1": "d1a443f11e57ca1f0ea2041521cd5ee76690f512",
+        "private": "true"
+      },
+      {
+        "name": "easyas123familyf00ladi_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1454265851",
+        "size": "1712",
+        "md5": "5932ffcc02cacf0e6464e9f705827dc1",
+        "crc32": "6d452f2c",
+        "sha1": "c75a0b39e2be031f1b76770181cb21c062afc2ce"
+      },
+      {
+        "name": "easyas123familyf00ladi_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "easyas123familyf00ladi_djvu.xml",
+        "mtime": "1715857124",
+        "size": "151151",
+        "md5": "e4692e4f03dfd7d605a63581e7abebfd",
+        "crc32": "7cf1a6c5",
+        "sha1": "453795a89608a7dfb680f6e8900825c2ab871193",
+        "private": "true"
+      },
+      {
+        "name": "easyas123familyf00ladi_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "easyas123familyf00ladi_hocr.html",
+        "mtime": "1715855666",
+        "size": "1888782",
+        "md5": "b727406facc209d301f2142bfa6a47b4",
+        "crc32": "f73edf62",
+        "sha1": "27785a3c3d1acea4d9d43d330b4b2e3eaf4856f2",
+        "private": "true"
+      },
+      {
+        "name": "easyas123familyf00ladi_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "easyas123familyf00ladi.pdf",
+        "mtime": "1715857127",
+        "size": "10329807",
+        "md5": "22e58eded4d462458f2ee96135a0f13b",
+        "crc32": "5861aa86",
+        "sha1": "efab0d1900a8a4d56b2ac1e1f335aa44cb48df4e"
+      },
+      {
+        "name": "easyas123familyf00ladi_extramarc.xml",
+        "source": "original",
+        "mtime": "1420433844",
+        "size": "3404",
+        "md5": "f791f895bc5264147b2200d6e0739ea3",
+        "crc32": "559677f9",
+        "sha1": "3c9fc1fc16d8843ddfe80e07449f045d7c76fc6c",
+        "format": "Metadata"
+      },
+      {
+        "name": "easyas123familyf00ladi_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "bfcf25e93cd29aa7a7861d57e11c42d3",
+        "summation": "md5"
+      },
+      {
+        "name": "easyas123familyf00ladi_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "easyas123familyf00ladi_chocr.html.gz",
+        "mtime": "1659909189",
+        "size": "4053450",
+        "md5": "09b852ef4900eaae0b043469a8a14e64",
+        "crc32": "4abfad48",
+        "sha1": "7b970fb702aaaa43059874a7a73229c3a6de6b4e",
+        "private": "true"
+      },
+      {
+        "name": "easyas123familyf00ladi_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "easyas123familyf00ladi_hocr.html",
+        "mtime": "1659909770",
+        "size": "1170",
+        "md5": "f4d011ada6178ded35e00758b1d7c0a2",
+        "crc32": "804644d1",
+        "sha1": "31f4bc14d2d5f3c5277d86bff4aef33e7aff8666",
+        "private": "true"
+      },
+      {
+        "name": "easyas123familyf00ladi_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1792",
+        "word_conf_11_20": "385",
+        "word_conf_21_30": "1046",
+        "word_conf_31_40": "999",
+        "word_conf_41_50": "2481",
+        "word_conf_51_60": "3828",
+        "word_conf_61_70": "4234",
+        "word_conf_71_80": "2686",
+        "word_conf_81_90": "1206",
+        "word_conf_91_100": "2332",
+        "format": "OCR Search Text",
+        "original": "easyas123familyf00ladi_hocr.html",
+        "mtime": "1659909824",
+        "size": "44410",
+        "md5": "82cc63afa227c0d6350f13dadeebb182",
+        "crc32": "66d48a48",
+        "sha1": "8d85de41f2ed20697a0e82274ce2c4bd81ddde07",
+        "private": "true"
+      },
+      {
+        "name": "easyas123familyf00ladi_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "easyas123familyf00ladi_orig_jp2.tar",
+        "mtime": "1345921089",
+        "size": "55374150",
+        "md5": "a775587a58a7e14b47abbfdcf7e425a6",
+        "crc32": "5bb926ee",
+        "sha1": "ccc53b1fb0bd84aa9a9de62679d3ff9dece18cdf",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "easyas123familyf00ladi_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "easyas123familyf00ladi.epub",
+        "mtime": "1753259570",
+        "size": "8648335",
+        "md5": "e0381ddef01a27e756eed07ff7b55825",
+        "crc32": "6708156c",
+        "sha1": "5692f222b989d056c8d2d6d836ef972b8bffbdfc"
+      },
+      {
+        "name": "easyas123familyf00ladi_loans.json",
+        "source": "original",
+        "mtime": "1593603213",
+        "size": "3160",
+        "format": "JSON",
+        "private": "true",
+        "md5": "1ce7ef8569abc9b6d47f8412fdb73f04",
+        "crc32": "33e54e25",
+        "sha1": "038827a98b9e270af0746981538d381fb033dd98"
+      },
+      {
+        "name": "easyas123familyf00ladi_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1454265851",
+        "size": "7313",
+        "md5": "e47f10147b98ccb100afbd3e82d7044c",
+        "crc32": "86c33d6b",
+        "sha1": "2b274c1d4e0e59c7223adcad609af99a7b6c9362"
+      },
+      {
+        "name": "easyas123familyf00ladi_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "easyas123familyf00ladi_xisbn.json",
+        "mtime": "1454265853",
+        "size": "589",
+        "md5": "f090f5b0fb2227a8cf3b8ace020ae1ba",
+        "crc32": "c1276b83",
+        "sha1": "ff2af3604761ae232120b9a93893cff5f2ab70c3",
+        "private": "true"
+      },
+      {
+        "name": "easyas123familyf00ladi_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454265851",
+        "size": "2627",
+        "md5": "953b35d5214fe87cb2e40c504c5af0f1",
+        "crc32": "6399e364",
+        "sha1": "c00e7b3d9eaf3d18db3bf9da3eda127753e287b8"
+      },
+      {
+        "name": "easyas123familyf00ladi_meta.sqlite",
+        "source": "original",
+        "mtime": "1464948952",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "9aec38c57d75a2f4c9210763a286cadf",
+        "crc32": "b1689bcb",
+        "sha1": "2d497cd9b45478ecb95683748bbfb8e465c240cb"
+      },
+      {
+        "name": "easyas123familyf00ladi_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753259570",
+        "size": "4551",
+        "md5": "f6f3c4782590df43b8889b01b1faa819",
+        "crc32": "df495073",
+        "sha1": "07f203e78ed8c4ea40c2a26313afbdffc9c06585"
+      },
+      {
+        "name": "easyas123familyf00ladi_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1338997922",
+        "size": "296",
+        "md5": "0b3f7eea3ebc14c6dbc2a3ac01f1e437",
+        "crc32": "11b3dc1d",
+        "sha1": "0483bba71ac0d9de0cfb2df670210801fa478f4f"
+      },
+      {
+        "name": "easyas123familyf00ladi_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1345127198",
+        "size": "69201920",
+        "md5": "eb3f39d2347d705fa801a537ad5668f3",
+        "crc32": "b678dfb8",
+        "sha1": "916467c2b4832c5acee03eb36e5245880c2c917d",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "easyas123familyf00ladi_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "96",
+        "format": "Page Numbers JSON",
+        "original": "easyas123familyf00ladi_hocr.html",
+        "mtime": "1715855700",
+        "size": "17010",
+        "md5": "400ca8ed9d5117e744b79b5df70a803e",
+        "crc32": "91452f93",
+        "sha1": "f1ff0d77fbbeac2d28872f796d99268f5657e642",
+        "private": "true"
+      },
+      {
+        "name": "easyas123familyf00ladi_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669842299",
+        "size": "132939",
+        "md5": "11ebffefdf3aabcdd53a9272c9238f16",
+        "crc32": "b6b567c0",
+        "sha1": "1c4b1523410b67c5a5f5f0ee1526b4163e21890d"
+      },
+      {
+        "name": "easyas123familyf00ladi_xisbn.json",
+        "source": "original",
+        "mtime": "1454242492",
+        "size": "1966",
+        "md5": "3df7e3faafd03313fd60586241c76c0f",
+        "crc32": "204c91b4",
+        "sha1": "e15f4aaa5ff317c348996af11db17c92ff51758c",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753259570,
+    "item_size": 184086467,
+    "metadata": {
+      "publisher": "Des Moines, IA : Meredith Corporation",
+      "language": "eng",
+      "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+      "isbn": [
+        "0696021501",
+        "9780696021503",
+        "069602151X",
+        "9780696021510",
+        "0696021536",
+        "9780696021534",
+        "0696021544",
+        "9780696021541",
+        "0696021552",
+        "9780696021558",
+        "0696021528",
+        "9780696021527"
+      ],
+      "date": "1985-01-01",
+      "openlibrary": "OL11184089M",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "subject": [
+        "COOKBOOK",
+        "Cooking",
+        "Nutrition"
+      ],
+      "updatedate": "2012-06-06 15:51:54",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "f0133",
+      "boxid": "IA137009",
+      "identifier": "easyas123familyf00ladi",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2012-06-06 15:52:04",
+      "publicdate": "2012-06-06 15:52:18",
+      "scanner": "scribe21.shenzhen.archive.org",
+      "repub_seconds": "97",
+      "ppi": "500",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-roy@archive.org",
+      "scandate": "20120815145222",
+      "republisher": "scanner-shenzhen-sun@archive.org",
+      "imagecount": "102",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/easyas123familyf00ladi",
+      "identifier-ark": "ark:/13960/t5z61r43n",
+      "scanfee": "150",
+      "curation": "[curator]scanner-shenzhen-leo@archive.org[/curator][date]20130107024507[/date][state]approved[/state][comment]199[/comment]",
+      "boxid_2": "CH117101",
+      "donor": "alibris",
+      "sponsordate": "not to be invoiced-past billing period",
+      "external-identifier": [
+        "urn:acs6:easyas123familyf00ladi:pdf:8f44403e-1011-49e4-bd6d-cc17aa584052",
+        "urn:acs6:easyas123familyf00ladi:epub:d5156bd7-4091-49d1-bafe-d9da2f7a0d3b",
+        "urn:oclc:record:1033583886",
+        "urn:lcp:easyas123familyf00ladi:lcpdf:a803d283-80b9-48a5-88c3-64d6b1a9b0ad",
+        "urn:lcp:easyas123familyf00ladi:epub:81138cc6-df85-4acd-920f-4955f43b9552"
+      ],
+      "extramarc": "OhioLINK Library Catalog",
+      "description": [
+        "Includes index",
+        "Issued in a slipcase",
+        "Volumes also published separately",
+        "Ladies' Home Journal easy as 1-2-3 warm weather cookbook -- Ladies' home journal easy as 1-2-3 family favorites cookbook -- Ladies' home journal easy as 1-2-3 entertaining cookbook -- Ladies' home journal easy as 1-2-3 hearty meals cookbook -- Ladies' home journal easy as 1-2-3 nutritious and delicious cookbook"
+      ],
+      "creator": "by the editors of Ladies' home journal.",
+      "city": "Des Moines, IA",
+      "oclc-id": "43401731",
+      "related-external-id": [
+        "urn:isbn:069602151X",
+        "urn:oclc:43401731",
+        "urn:isbn:0696021528",
+        "urn:isbn:0696021552",
+        "urn:isbn:0696021501",
+        "urn:isbn:0696021544"
+      ],
+      "backup_location": "ia903804_25",
+      "republisher_operator": "scanner-shenzhen-sun@archive.org",
+      "republisher_date": "20120816142515",
+      "openlibrary_edition": "OL11184089M",
+      "openlibrary_work": "OL18158174W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "96",
+      "filesxml": "Wed Apr 3 1:31:42 UTC 2024",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia800901.us.archive.org",
+    "uniq": 225057833,
+    "workable_servers": [
+      "ia800901.us.archive.org",
+      "ia600901.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43401731?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "by the editors of Ladies' home journal.",
+          "year": "1985",
+          "isbn": [
+            "0696021536"
+          ],
+          "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+          "oclcnum": [
+            "43401731"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43401731?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "by the editors of Ladies' home journal.",
+          "year": "1985",
+          "isbn": [
+            "069602151X"
+          ],
+          "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+          "oclcnum": [
+            "43401731"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43401731?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "by the editors of Ladies' home journal.",
+          "year": "1985",
+          "isbn": [
+            "0696021528"
+          ],
+          "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+          "oclcnum": [
+            "43401731"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43401731?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "by the editors of Ladies' home journal.",
+          "year": "1985",
+          "isbn": [
+            "0696021552"
+          ],
+          "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+          "oclcnum": [
+            "43401731"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43401731?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "by the editors of Ladies' home journal.",
+          "year": "1985",
+          "isbn": [
+            "0696021501"
+          ],
+          "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+          "oclcnum": [
+            "43401731"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43401731?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "by the editors of Ladies' home journal.",
+          "year": "1985",
+          "isbn": [
+            "0696021544"
+          ],
+          "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+          "oclcnum": [
+            "43401731"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "by the editors of Ladies' home journal.",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

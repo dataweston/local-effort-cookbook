@@ -1,0 +1,109 @@
+{
+  "source": "dpla",
+  "id": "4e508a44c6c706fb83187b17a8c2b17f",
+  "identifier": "4e508a44c6c706fb83187b17a8c2b17f",
+  "title": "The new century cook book : compiled from recipes contributed by ladies of Chicago and other cities and towns, and published for the benefit of Wesley Hospital, Chicago",
+  "subject": [
+    "Hospitals--Illinois--Chicago",
+    "Cooking, American"
+  ],
+  "spatial": [
+    "Illinois",
+    "Chicago"
+  ],
+  "description": "Advertisements: p. [293] - 317.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/007487083",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1899,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/4e508a44c6c706fb83187b17a8c2b17f#SourceResource",
+      "creator": [
+        "Wesley Hospital Bazaar Committee (Chicago, Ill.)"
+      ],
+      "date": [
+        {
+          "begin": "1899",
+          "displayDate": "1899",
+          "end": "1899"
+        }
+      ],
+      "description": [
+        "Advertisements: p. [293] - 317."
+      ],
+      "extent": [
+        "vii, 317 p. ; 22 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-chi3918711",
+        "(OCoLC)26226242",
+        "Hathi: 007487083"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Chicago : The Committee"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        },
+        {
+          "name": "Chicago"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Hospitals--Illinois--Chicago"
+        },
+        {
+          "name": "Cooking, American"
+        }
+      ],
+      "title": [
+        "The new century cook book : compiled from recipes contributed by ladies of Chicago and other cities and towns, and published for the benefit of Wesley Hospital, Chicago"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1899-01-01",
+      "normalized_dates": [
+        "1899-01-01"
+      ],
+      "date_range": {
+        "begin": "1899-01-01",
+        "end": "1899-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=1SQxAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/007487083"
+  },
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

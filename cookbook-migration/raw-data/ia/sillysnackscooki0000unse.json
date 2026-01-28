@@ -1,0 +1,533 @@
+{
+  "source": "internet_archive",
+  "identifier": "sillysnackscooki0000unse",
+  "title": "Silly snacks : cooking with kids",
+  "creator": null,
+  "year": 2008,
+  "subject": [
+    "Snack foods",
+    "Cooking"
+  ],
+  "description": [
+    "46 p. : 20 cm",
+    "Cover title",
+    "On board pages"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/sillysnackscooki0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/sillysnackscooki0000unse"
+        }
+      ]
+    },
+    "created": 1758558001,
+    "d1": "ia903105.us.archive.org",
+    "d2": "ia803105.us.archive.org",
+    "dir": "/10/items/sillysnackscooki0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661065459",
+        "size": "21091",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "3951a57f45823e1a1743b5b67acfe06b",
+        "crc32": "2f33c75e",
+        "sha1": "5f90e5d1fa5595bae75dfcb414e2c1d8d9867406"
+      },
+      {
+        "name": "logs/sillysnackscooki0000unse_iabdash_2019-11-1512:16:23.log",
+        "source": "original",
+        "mtime": "1573791387",
+        "size": "1343",
+        "md5": "0e2574a6891dd5ee59f89baa6bebad50",
+        "crc32": "1daef1ca",
+        "sha1": "3eb72f2a96a75c29adc4369adbae4f14fb517a93",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/sillysnackscooki0000unse_scanning_2019-11-1512:16:28.log",
+        "source": "original",
+        "mtime": "1573791392",
+        "size": "180323",
+        "md5": "033246664f203a1f20bf4db5b3e86f3e",
+        "crc32": "b6d0cbcc",
+        "sha1": "cfb18c6085ee30bd49d45b8e66f8d3feb912f602",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "sillysnackscooki0000unse_hocr.html",
+        "mtime": "1754030189",
+        "size": "12189593",
+        "private": "true",
+        "md5": "2d1a475bfce8433170f566e6071573b6",
+        "crc32": "1fb63cc8",
+        "sha1": "bc94bc9af2df445f742de39103fbb8ab811e23d3"
+      },
+      {
+        "name": "sillysnackscooki0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "sillysnackscooki0000unse.pdf",
+        "mtime": "1754030011",
+        "size": "2965602",
+        "md5": "1f64eb68aa437db4ecdd1e7f4c280234",
+        "crc32": "fd512e63",
+        "sha1": "6b23117e5ce2f843429ca23b6a4a3892503c6283"
+      },
+      {
+        "name": "sillysnackscooki0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "sillysnackscooki0000unse_page_numbers.json",
+        "mtime": "1723768740",
+        "size": "2604157",
+        "md5": "8cb1f742ae1f471350147c2aa323a901",
+        "crc32": "9b5081a2",
+        "sha1": "d161a8178b9612138ac930441488fb44b31f2bd7",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "sillysnackscooki0000unse_jp2.zip",
+        "mtime": "1573906544",
+        "size": "671606",
+        "md5": "3c7353351f93eb7c5f55b5086e930c4d",
+        "crc32": "cd6a4481",
+        "sha1": "66ed86088cb7779cc70f95168f4d869f06e5676d",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "sillysnackscooki0000unse_abbyy.gz",
+        "mtime": "1661065158",
+        "size": "455838",
+        "md5": "3de1b046e57cff968555177612859c72",
+        "crc32": "f2775fbf",
+        "sha1": "90db82e45923803d05d73aafb96104067b9e924a",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "sillysnackscooki0000unse_scandata.xml",
+        "mtime": "1671265712",
+        "size": "788",
+        "md5": "8a3424e48bd238ce47b40acd98f1b113",
+        "crc32": "3f0d553c",
+        "sha1": "c923bc355d778e47cfa2819eac0056d8127c2dae",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1573905103",
+        "size": "1254",
+        "md5": "ca57aa01f97dc2210c94d82bf38da96c",
+        "crc32": "2a2eab08",
+        "sha1": "9f4e261908965738c623f9cb165e40dde73a09ce"
+      },
+      {
+        "name": "sillysnackscooki0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "sillysnackscooki0000unse_djvu.xml",
+        "mtime": "1661065452",
+        "size": "39389",
+        "md5": "97f5e59c456b62358ca410f818654810",
+        "crc32": "73ccab0a",
+        "sha1": "da8d9407047a8c25006c26a0bfa21bd0e92951b7",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "sillysnackscooki0000unse_hocr.html",
+        "mtime": "1661065293",
+        "size": "496843",
+        "md5": "2f6b868ea727850d3caa0637e57943ee",
+        "crc32": "6767aebc",
+        "sha1": "4aa4a882193d828efa1efd86c79f329ec2321786",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "sillysnackscooki0000unse_abbyy.gz",
+        "mtime": "1573906841",
+        "size": "1659627",
+        "md5": "1c8c15400fc9076f03eb5e128cb256b0",
+        "crc32": "fc01f72e",
+        "sha1": "b321d7cad5f728cc06ccb6f87e2b3ce03ab0ff1f"
+      },
+      {
+        "name": "sillysnackscooki0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "sillysnackscooki0000unse.pdf",
+        "mtime": "1723770093",
+        "size": "2580264",
+        "md5": "fa4a577d3aa65fb33781509b54f1536b",
+        "crc32": "2e4e96ab",
+        "sha1": "f18900ffc5f7abfd35e045b0e09f3fda7df0bc84"
+      },
+      {
+        "name": "sillysnackscooki0000unse_events.json",
+        "source": "original",
+        "mtime": "1573905047",
+        "size": "58",
+        "md5": "64476dcea42a4bfe65f60c113ed49dde",
+        "crc32": "5220e26d",
+        "sha1": "1c5462cf3e3b168c6940a5009bf82b92d5bcfba7",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "780f84a33094481e11c28bd330312589",
+        "summation": "md5"
+      },
+      {
+        "name": "sillysnackscooki0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "sillysnackscooki0000unse_chocr.html.gz",
+        "mtime": "1661065259",
+        "size": "1022304",
+        "md5": "acd039f8d623ff96e3a8c856b9fc5a25",
+        "crc32": "fa58f70a",
+        "sha1": "8bf358cbc31f88ee6bfdece37417d71a2eee79c5",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "sillysnackscooki0000unse_hocr.html",
+        "mtime": "1661065302",
+        "size": "535",
+        "md5": "2091ea761e2f210c69851bfc3986f101",
+        "crc32": "71921fa0",
+        "sha1": "d91b01a5ffd64d31c6d93a3f78a453f132742d6e",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "345",
+        "word_conf_11_20": "155",
+        "word_conf_21_30": "173",
+        "word_conf_31_40": "157",
+        "word_conf_41_50": "209",
+        "word_conf_51_60": "283",
+        "word_conf_61_70": "496",
+        "word_conf_71_80": "806",
+        "word_conf_81_90": "1344",
+        "word_conf_91_100": "1827",
+        "format": "OCR Search Text",
+        "original": "sillysnackscooki0000unse_hocr.html",
+        "mtime": "1661065404",
+        "size": "14472",
+        "md5": "f9093f5806206d8eb9c2a32cb177856d",
+        "crc32": "dba5df98",
+        "sha1": "8df36a8c8e1954f38f0b721dec0af221be739fed",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "sillysnackscooki0000unse_orig_jp2.tar",
+        "mtime": "1573906272",
+        "size": "23644351",
+        "md5": "b09d04014eb0d618462652e9b505275a",
+        "crc32": "02cf1f6e",
+        "sha1": "f029d2ffa0398eecc06902f909cfe74e8fdc61f7",
+        "private": "true",
+        "filecount": "50"
+      },
+      {
+        "name": "sillysnackscooki0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "sillysnackscooki0000unse.epub",
+        "mtime": "1754030469",
+        "size": "12241102",
+        "md5": "72ea330a8ae54d67ff4936878804372a",
+        "crc32": "df922b76",
+        "sha1": "7170d377ca0e4888f1e490a251ff10e9b836179c"
+      },
+      {
+        "name": "sillysnackscooki0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593093308",
+        "size": "988",
+        "format": "JSON",
+        "private": "true",
+        "md5": "baa2bfef97ca14572ae07899333b2cce",
+        "crc32": "f7c10d82",
+        "sha1": "4db33d3cf187e98fa171646068771df550aee1e4"
+      },
+      {
+        "name": "sillysnackscooki0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1573905101",
+        "size": "2972",
+        "format": "MARC",
+        "md5": "7c3c8ecd30b1135890c2f8e1b8524ddc",
+        "crc32": "eadde4a2",
+        "sha1": "2b5bae46de2006de4902f50fbf7882b5a920ecc4"
+      },
+      {
+        "name": "sillysnackscooki0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1573791382",
+        "size": "923",
+        "md5": "cc3d27882aa144e9a50732d6befb9d13",
+        "crc32": "bd734902",
+        "sha1": "41bd82771e042cf0ba28abf51627e7d8cf5fc5b5",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "sillysnackscooki0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1573905060",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "4eb79929752f6c3ee2320bc7ec41d486",
+        "crc32": "71383e7c",
+        "sha1": "042905a66ce1797af6e838a7731a8876e6c8abde"
+      },
+      {
+        "name": "sillysnackscooki0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1754030470",
+        "size": "3295",
+        "format": "Metadata",
+        "md5": "5310b105ccaa49b0c5efefeedcc42447",
+        "crc32": "84ad91b9",
+        "sha1": "e066520f9d7215299266964fc1a202f8be4e0f8c"
+      },
+      {
+        "name": "sillysnackscooki0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1573905060",
+        "size": "64563200",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "5e8a6c7c24036862037d4c318aa58f1d",
+        "crc32": "ae9b62ae",
+        "sha1": "e4531c0ce961b902591db45fcc331a7e833f8153",
+        "filecount": "50"
+      },
+      {
+        "name": "sillysnackscooki0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "sillysnackscooki0000unse_hocr.html",
+        "mtime": "1723768737",
+        "size": "8264",
+        "md5": "e78672ad20192df9b2359c194e1c5b65",
+        "crc32": "3056b167",
+        "sha1": "8f951093f361f91493f571cf212b9fdc7408bf47",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671265712",
+        "size": "51532",
+        "format": "Scandata",
+        "md5": "cb2d5d7079a7225e0a94482c49f58133",
+        "crc32": "3567745e",
+        "sha1": "898af4a7be00f308f94befef45cdbd4cdb08b528"
+      },
+      {
+        "name": "sillysnackscooki0000unse_slip.png",
+        "source": "original",
+        "mtime": "1573790665",
+        "size": "40630",
+        "md5": "0b6b28cd0474255d974205d609e89a22",
+        "crc32": "083ac855",
+        "sha1": "0fa5cb8e796a866fa962469d8ea265284b2a087c",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "sillysnackscooki0000unse_slip.png",
+        "mtime": "1573905110",
+        "size": "5695",
+        "md5": "2c0d6e7ca568d9866e5d72d039af7fdd",
+        "crc32": "8067fa4d",
+        "sha1": "9a261999ed72c5e521db015ebcb37a51a4f758ca",
+        "private": "true"
+      },
+      {
+        "name": "sillysnackscooki0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "sillysnackscooki0000unse_djvu.xml",
+        "mtime": "1671265705",
+        "size": "621",
+        "md5": "1cf273cc799854ab9530ae73995b7ce3",
+        "crc32": "d1fd3be5",
+        "sha1": "2dcd8e63af0427535dec32be72446a5dd97c74bb",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1754030470,
+    "item_size": 125487092,
+    "metadata": {
+      "identifier": "sillysnackscooki0000unse",
+      "associated-names": "Publications International, Ltd",
+      "boxid": "IA1695913",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2008-01-01",
+      "description": [
+        "46 p. : 20 cm",
+        "Cover title",
+        "On board pages"
+      ],
+      "isbn": [
+        "9781412729437",
+        "1412729432",
+        "9781412775519",
+        "1412775515"
+      ],
+      "language": "eng",
+      "lccn": "2009417813",
+      "mediatype": "texts",
+      "old_pallet": "IA15381",
+      "openlibrary_edition": "OL23215391M",
+      "openlibrary_work": "OL18802689W",
+      "operator": "associate-bethoven-rico@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International",
+      "repub_state": "19",
+      "scanner": "station10.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781412729437",
+      "subject": [
+        "Snack foods",
+        "Cooking"
+      ],
+      "title": "Silly snacks : cooking with kids",
+      "tts_version": "3.0-final-2-g1eae69c",
+      "uploader": "station10.cebu@archive.org",
+      "addeddate": "2019-11-15 04:04:26",
+      "publicdate": "2019-11-15 04:04:41",
+      "access-restricted-item": "true",
+      "imagecount": "50",
+      "scandate": "20191115050526",
+      "republisher_operator": "associate-marycris-avenido@archive.org",
+      "republisher_date": "20191116195042",
+      "republisher_time": "329",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/sillysnackscooki0000unse",
+      "identifier-ark": "ark:/13960/t9191c09z",
+      "external-identifier": [
+        "urn:acs6:sillysnackscooki0000unse:epub:d40468b9-f7a7-434c-912b-49d8578c419e",
+        "urn:acs6:sillysnackscooki0000unse:pdf:11c43788-5bb5-40e8-a248-7c90a8714983",
+        "urn:oclc:record:1151394765",
+        "urn:lcp:sillysnackscooki0000unse:lcpdf:51942312-94bd-4075-a7ff-b9bb546568fe",
+        "urn:lcp:sillysnackscooki0000unse:epub:f86ab870-f404-44fe-981c-a87f34127131"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191130",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__num_history": "3",
+      "backup_location": "ia907006_15",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia803105.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "cnusd-ol": {
+          "notes": {
+            "isbn": [
+              "9781412775519"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-06-25 06:28:03.084428"
+        }
+      }
+    },
+    "uniq": 1765981626,
+    "workable_servers": [
+      "ia803105.us.archive.org",
+      "ia903105.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

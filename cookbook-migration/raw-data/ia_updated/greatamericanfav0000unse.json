@@ -1,0 +1,499 @@
+{
+  "source": "internet_archive",
+  "identifier": "greatamericanfav0000unse",
+  "title": "Great American favorite brand name cook book",
+  "creator": "None",
+  "year": 1993,
+  "subject": [
+    "Cooking, American",
+    "Brand name products"
+  ],
+  "description": "607 pages :",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/greatamericanfav0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/greatamericanfav0000unse"
+        }
+      ]
+    },
+    "created": 1758555725,
+    "d1": "ia600606.us.archive.org",
+    "d2": "ia800606.us.archive.org",
+    "dir": "/16/items/greatamericanfav0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660096543",
+        "size": "26450",
+        "md5": "92f841dfbb32a0c7f6f38c021392b39c",
+        "crc32": "c3431026",
+        "sha1": "2ac08c0377871bb660618762759f8aefed642a45",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "greatamericanfav0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "greatamericanfav0000unse_hocr.html",
+        "mtime": "1753402982",
+        "size": "431238199",
+        "private": "true",
+        "md5": "9434926dbc999f868ed235ffa9458197",
+        "crc32": "375e03ab",
+        "sha1": "3e268d5ac30b0213b40b64960e2b1cb4e9a1b072"
+      },
+      {
+        "name": "greatamericanfav0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "greatamericanfav0000unse.pdf",
+        "mtime": "1753402010",
+        "size": "80823597",
+        "md5": "7ff9578e819719e105589f8b737cbf7c",
+        "crc32": "4be21125",
+        "sha1": "fce8b1e085e772bacbb2f711a1975c3555dcdf9f"
+      },
+      {
+        "name": "greatamericanfav0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "greatamericanfav0000unse_page_numbers.json",
+        "mtime": "1723841674",
+        "size": "80232627",
+        "md5": "cec9b274a25ad052d3432017c6c0e058",
+        "crc32": "b875b23b",
+        "sha1": "d38e01e154090e0150292be15343e9398e0db8a9",
+        "private": "true"
+      },
+      {
+        "name": "greatamericanfav0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "greatamericanfav0000unse_jp2.zip",
+        "mtime": "1537439967",
+        "size": "26021910",
+        "md5": "6af63df4d70b6c7ed62d94db8d265b8b",
+        "crc32": "ddfdbd9f",
+        "sha1": "cd6528b36a106bcacc158c63636344254261408f",
+        "private": "true"
+      },
+      {
+        "name": "greatamericanfav0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.14",
+        "ocr_converted": "abbyy-to-hocr 1.1.11",
+        "format": "chOCR",
+        "original": "greatamericanfav0000unse_abbyy.gz",
+        "mtime": "1636916259",
+        "size": "21653020",
+        "md5": "5ab095befb770e3215a9025ddd8b47ab",
+        "crc32": "a9dfcb29",
+        "sha1": "ac381169826f3665610ed9ab9fa364ff1d05c179",
+        "private": "true"
+      },
+      {
+        "name": "greatamericanfav0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "greatamericanfav0000unse_scandata.xml",
+        "mtime": "1670089061",
+        "size": "789",
+        "md5": "fe04b343afbcfa7216525015be570317",
+        "crc32": "bba67e75",
+        "sha1": "d45a41f2384b6ffc62b6271e13169c1e3552970f",
+        "private": "true"
+      },
+      {
+        "name": "greatamericanfav0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1636916037",
+        "size": "1032",
+        "md5": "1b4a632b73275d26f446397593950f37",
+        "crc32": "dbca5775",
+        "sha1": "7b6d60c8fe045c410997cb4accd569eafff9cfe7"
+      },
+      {
+        "name": "greatamericanfav0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "greatamericanfav0000unse_djvu.xml",
+        "mtime": "1636916548",
+        "size": "1945860",
+        "md5": "1ad3d13d2e94c044052f41c5f0967f2c",
+        "crc32": "0cbec7b1",
+        "sha1": "6c55cf0445684877145bd57dbaaf3a626929917a",
+        "private": "true"
+      },
+      {
+        "name": "greatamericanfav0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "greatamericanfav0000unse_hocr.html",
+        "mtime": "1636916428",
+        "size": "22922697",
+        "md5": "0b5b2dd4e7149cf552f3749488c9b920",
+        "crc32": "0f37ea65",
+        "sha1": "9813a74dcfee0c2873a9e325a13de8ad2e16dd74",
+        "private": "true"
+      },
+      {
+        "name": "greatamericanfav0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "greatamericanfav0000unse_abbyy.gz",
+        "mtime": "1537446406",
+        "size": "35860504",
+        "md5": "fb3b6a0ed455ee35e443eee982b8d907",
+        "crc32": "4b35d0d3",
+        "sha1": "4021167e41bca39d9ea75058ad150cb74ce5da04"
+      },
+      {
+        "name": "greatamericanfav0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "greatamericanfav0000unse.pdf",
+        "mtime": "1723843112",
+        "size": "79574555",
+        "md5": "e6af7c53be33d70d06ebb5615996caa9",
+        "crc32": "a18140e5",
+        "sha1": "3deedb4b40199d0b0285dad34b556a3c11ae5b99"
+      },
+      {
+        "name": "greatamericanfav0000unse_events.json",
+        "source": "original",
+        "mtime": "1537423748",
+        "size": "51",
+        "md5": "5e1137048a1976da234b89f391b4c327",
+        "crc32": "5d9260d4",
+        "sha1": "34bc27b45a2676cdac83b89b03ba43ecdd06a4ae",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "greatamericanfav0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "fa05ab09a20b28362d604d7f463a0845",
+        "summation": "md5"
+      },
+      {
+        "name": "greatamericanfav0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_module_version": "0.0.14",
+        "ocr_converted": "abbyy-to-hocr 1.1.11",
+        "format": "hOCR",
+        "original": "greatamericanfav0000unse_chocr.html.gz",
+        "mtime": "1636916363",
+        "size": "49902263",
+        "md5": "caa6a012d042587295560379e6244377",
+        "crc32": "6252b6b3",
+        "sha1": "cb807b2a21135591f7d27580a9273892b394290a",
+        "private": "true"
+      },
+      {
+        "name": "greatamericanfav0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "greatamericanfav0000unse_hocr.html",
+        "mtime": "1636916462",
+        "size": "7604",
+        "md5": "028e455c12f71faceca921561a300b9b",
+        "crc32": "3ae5bf77",
+        "sha1": "78763e50ab2931d0033bc557ec683ee88e09948e",
+        "private": "true"
+      },
+      {
+        "name": "greatamericanfav0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "216",
+        "word_conf_11_20": "385",
+        "word_conf_21_30": "694",
+        "word_conf_31_40": "1091",
+        "word_conf_41_50": "2301",
+        "word_conf_51_60": "3822",
+        "word_conf_61_70": "9118",
+        "word_conf_71_80": "21145",
+        "word_conf_81_90": "64400",
+        "word_conf_91_100": "165468",
+        "format": "OCR Search Text",
+        "original": "greatamericanfav0000unse_hocr.html",
+        "mtime": "1636916528",
+        "size": "465017",
+        "md5": "338901f456cfe017d825d8a98e4752c7",
+        "crc32": "a64eb939",
+        "sha1": "62ea4ba7ebf8d3c1953417ec8a003d68aa6e05d2",
+        "private": "true"
+      },
+      {
+        "name": "greatamericanfav0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "greatamericanfav0000unse_orig_jp2.tar",
+        "mtime": "1537431331",
+        "size": "602989214",
+        "md5": "205e104b83088ce2332ad2bb283171a4",
+        "crc32": "b469debb",
+        "sha1": "1dd98b9e8b8ef8e1dee4ed76958af8774db1fb74",
+        "private": "true",
+        "filecount": "618"
+      },
+      {
+        "name": "greatamericanfav0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "greatamericanfav0000unse.epub",
+        "mtime": "1753403099",
+        "size": "432419925",
+        "md5": "0cc496ef479394cd88ebc37fca10f2b8",
+        "crc32": "72e31d51",
+        "sha1": "8263ae79dd2f8350d84810b8e55ea1989949c98f"
+      },
+      {
+        "name": "greatamericanfav0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593076798",
+        "size": "3499",
+        "format": "JSON",
+        "private": "true",
+        "md5": "5f0293f1972c40c78d4f9c4e46c2a5fb",
+        "crc32": "54a4d2da",
+        "sha1": "bd9d79afcc7bfc42d21a4b70f76739acdfd52ace"
+      },
+      {
+        "name": "greatamericanfav0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1636916037",
+        "size": "3126",
+        "format": "MARC",
+        "md5": "137d322676b4225149468ae01e22ea16",
+        "crc32": "eaf59a80",
+        "sha1": "3fccbb9fc0e474ed83c2d165f05a4911482ac780"
+      },
+      {
+        "name": "greatamericanfav0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1536927241",
+        "size": "925",
+        "md5": "27f6ac556eac7eddd58b74ce6781b45e",
+        "crc32": "d7b60453",
+        "sha1": "e437c9689f4958f5f1c105b6aaa125b07498f707",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "greatamericanfav0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1537424289",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "3bb2b2ce6b6026d9e49e11f5494e247c",
+        "crc32": "8640869d",
+        "sha1": "4c2523951684b347ddb0423b4c06c52f8e1ffa73"
+      },
+      {
+        "name": "greatamericanfav0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753403102",
+        "size": "2998",
+        "format": "Metadata",
+        "md5": "33629953ed71596dbd8dcc48d33f3246",
+        "crc32": "2d1b0f79",
+        "sha1": "88b2111e5fbbda2dcbca0843a583f408894ac7b1"
+      },
+      {
+        "name": "greatamericanfav0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1537424286",
+        "size": "1233940480",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "e1e0e7b416b84d7c2c1a283bd92490ec",
+        "crc32": "c4af6341",
+        "sha1": "aed9e62ee933715818047220a86480edecee3943",
+        "filecount": "618"
+      },
+      {
+        "name": "greatamericanfav0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "greatamericanfav0000unse_hocr.html",
+        "mtime": "1723841673",
+        "size": "105157",
+        "md5": "f2c8b8d42de38bb7af85a775f83a2df3",
+        "crc32": "a00aa7c4",
+        "sha1": "85d5de8eb6ad23d2dddf281792d5f9e65bc548d1",
+        "private": "true"
+      },
+      {
+        "name": "greatamericanfav0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670089060",
+        "size": "630371",
+        "format": "Scandata",
+        "md5": "0602d89d2ccb6da8a507a889e06455fd",
+        "crc32": "f96a205c",
+        "sha1": "77d512d2bd5d72fe199fb2c706b5c1a9c68e0529"
+      },
+      {
+        "name": "greatamericanfav0000unse_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "greatamericanfav0000unse_djvu.xml",
+        "mtime": "1670088925",
+        "size": "11932",
+        "md5": "7749c4566f9017fb06d75c1a1e7b6d7f",
+        "crc32": "551e33a8",
+        "sha1": "8b0652c00fb0efa3b35e1468e95fa0d7a366b01e",
+        "private": "true"
+      },
+      {
+        "name": "logs/greatamericanfav0000unse_iabdash_2018-09-1420:13:38.log",
+        "source": "original",
+        "mtime": "1536927228",
+        "size": "691",
+        "md5": "146a85a68b803d298eaea7df055a2b54",
+        "crc32": "4a02e5ce",
+        "sha1": "dbd71c070979d7b59a2729b676e77f5429e46cea",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/greatamericanfav0000unse_scanning_2018-09-1420:13:33.log",
+        "source": "original",
+        "mtime": "1536927220",
+        "size": "1705446",
+        "md5": "eb70501d55747316e6f4b56c447b6ecb",
+        "crc32": "1a1b7dac",
+        "sha1": "60eb73ff7482cc46e9676e2c8a9a02c7904e7fbf",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753403102,
+    "item_size": 3102506323,
+    "metadata": {
+      "identifier": "greatamericanfav0000unse",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "None",
+      "creator-alt-script": "None",
+      "date": "1993-01-01",
+      "description": "607 pages :",
+      "isbn": [
+        "9780785315759",
+        "0785315756"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-law-chiyeung@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International",
+      "repub_state": "22",
+      "scanner": "ttscribe17.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "subject": [
+        "Cooking, American",
+        "Brand name products",
+        "Brand name products",
+        "Cooking, American"
+      ],
+      "title": "Great American favorite brand name cook book",
+      "title-alt-script": "None",
+      "tts_version": "v1.60-1-g2f920ca",
+      "uploader": "ttscribe17.hongkong@archive.org",
+      "addeddate": "2018-09-14 12:13:21",
+      "publicdate": "2018-09-14 12:16:37",
+      "imagecount": "618",
+      "scandate": "20180914152309",
+      "republisher_operator": "republisher19.dhaka@archive.org",
+      "republisher_date": "20180920120733",
+      "republisher_time": "749",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/greatamericanfav0000unse",
+      "identifier-ark": "ark:/13960/t5s82kv40",
+      "bookplateleaf": "0004",
+      "ocr": "ABBYY FineReader 11.0 (Extended OCR)",
+      "external-identifier": [
+        "urn:acs6:greatamericanfav0000unse:epub:7b8b6605-5cc0-46dd-9f47-531b0dedd067",
+        "urn:acs6:greatamericanfav0000unse:pdf:c0979b05-ace2-4adf-b332-807b1a553795",
+        "urn:lcp:greatamericanfav0000unse:lcpdf:7abd2e81-6e65-492d-873d-832851acded2",
+        "urn:lcp:greatamericanfav0000unse:epub:c9f8e6f9-6a8d-4b70-a4c8-0b8f3f68f9f2"
+      ],
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20180920182557[/date]",
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "boxid": "IA1346724",
+      "sponsordate": "20180930",
+      "openlibrary_edition": "OL8101017M",
+      "openlibrary_work": "OL17924370W",
+      "access-restricted-item": "true",
+      "backup_location": "ia906801_34",
+      "ocr_module_version": "0.0.14",
+      "ocr_converted": "abbyy-to-hocr 1.1.11",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800606.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40657517"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 06:53:21.228948"
+        }
+      }
+    },
+    "uniq": 1255958688,
+    "workable_servers": [
+      "ia800606.us.archive.org",
+      "ia600606.us.archive.org"
+    ]
+  },
+  "institution": "None",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

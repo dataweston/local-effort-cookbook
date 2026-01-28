@@ -1,0 +1,576 @@
+{
+  "source": "internet_archive",
+  "identifier": "ingoodtastesampl00",
+  "title": "In good taste : a sampling of recipes from the best chefs of Wisconsin : to benefit the Muscular Dystrophy Association",
+  "creator": "Muscular Dystrophy Association",
+  "year": 1997,
+  "subject": [
+    "Cooking",
+    "Cooks"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "created": 1758556061,
+    "d1": "ia601902.us.archive.org",
+    "d2": "ia801902.us.archive.org",
+    "dir": "/26/items/ingoodtastesampl00",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660271037",
+        "size": "25979",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "f1f3be1766c5741fe64a6641e14daa6e",
+        "crc32": "2b0b42fc",
+        "sha1": "8bd890c237673f0f15f4a7eddb0428f3acc4d967"
+      },
+      {
+        "name": "bak/2017/ingoodtastesampl00_meta.sqlite.bak",
+        "source": "original",
+        "mtime": "1512544461",
+        "size": "12288",
+        "md5": "d4948565bf421ce4fdf83614e5ab17a5",
+        "crc32": "be0293e8",
+        "sha1": "0f5b752f7f9d6d1ab4003b738e9632b216cd429e",
+        "format": "Backup",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00.cdx.gz",
+        "source": "original",
+        "mtime": "1512553930",
+        "size": "6863",
+        "format": "Item CDX Index",
+        "private": "true",
+        "md5": "19762a3ea2877d544b57df1e177a8f4e",
+        "crc32": "7291a953",
+        "sha1": "38f14dffe86880fe998cb90325d484bd23c75cdc"
+      },
+      {
+        "name": "ingoodtastesampl00.cdx.idx",
+        "source": "original",
+        "mtime": "1512553930",
+        "size": "34",
+        "format": "Item CDX Meta-Index",
+        "private": "true",
+        "md5": "947e7193c4d83d19b44a347c4d1d415b",
+        "crc32": "6872c425",
+        "sha1": "95930da5eea0523162e4ef8cc5565a46e2125ec0"
+      },
+      {
+        "name": "ingoodtastesampl00.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "ingoodtastesampl00_hocr.html",
+        "mtime": "1753491761",
+        "size": "52268478",
+        "private": "true",
+        "md5": "d6f2d83b7101c07a403dd2f43e2cb2d0",
+        "crc32": "3b8f179b",
+        "sha1": "c3541cc5c4d9920ac929481f536fb89443ce76c9"
+      },
+      {
+        "name": "ingoodtastesampl00.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "ingoodtastesampl00.pdf",
+        "mtime": "1753491281",
+        "size": "12762208",
+        "md5": "ce09e16272ae427273e83dba0eafe5f6",
+        "crc32": "843d005b",
+        "sha1": "badd83b830ee0a1b0bb9f2e56b590340dbad8748"
+      },
+      {
+        "name": "ingoodtastesampl00.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "ingoodtastesampl00_page_numbers.json",
+        "mtime": "1725752887",
+        "size": "12181519",
+        "md5": "d60e4afdf44b84022a3a5306545bbbfd",
+        "crc32": "1af8afd0",
+        "sha1": "f1752736da07fd2fbf52ee4111eea4d05f83794d",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1365703247",
+        "size": "500725",
+        "md5": "d1dc33fd458fe52ba790705bd24bee22",
+        "crc32": "3c699472",
+        "sha1": "3b07c0e65a6c3fe4b7bae4bc655bab554a2731a8"
+      },
+      {
+        "name": "ingoodtastesampl00.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "ingoodtastesampl00.warc.gz",
+        "mtime": "1512550496",
+        "size": "7020",
+        "md5": "e375981aa5c46483a2836d68ff781c2d",
+        "crc32": "af8ef87a",
+        "sha1": "f8bfda20fd4700d7d3c96782cd5b083fbe502ad2",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "ingoodtastesampl00_jp2.zip",
+        "mtime": "1512553010",
+        "size": "1908053",
+        "md5": "a0fab243a330ffd035d574d7aaf2af1f",
+        "crc32": "42760e55",
+        "sha1": "8d4e5750a6eb3b7710466e4de8324f066b2d968f",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "ingoodtastesampl00_abbyy.gz",
+        "mtime": "1660270710",
+        "size": "1617318",
+        "md5": "5860bd2476e7f3fae124b5dd3b141ff4",
+        "crc32": "d2e9f529",
+        "sha1": "11fe3290485814033f9210d41e9546b98888672d",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "ingoodtastesampl00_scandata.xml",
+        "mtime": "1670285121",
+        "size": "764",
+        "md5": "b77b10c564a9b435800181a4462afe3b",
+        "crc32": "67f4ae5b",
+        "sha1": "3ed9b9dd2ba9f512b676ac982f9062f8f76b22c4",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1512550493",
+        "size": "1111",
+        "md5": "025b8fb467e0b1e99401f9a4caf96a04",
+        "crc32": "f7f5ee21",
+        "sha1": "343da528f0dfa5b7ed5253a864716f01b5e0cea3"
+      },
+      {
+        "name": "ingoodtastesampl00_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "ingoodtastesampl00_djvu.xml",
+        "mtime": "1660271032",
+        "size": "139060",
+        "md5": "c1ab4d90ca4e1831293b8d764be86df5",
+        "crc32": "e9e12724",
+        "sha1": "6ad1215b2011901b4f119432d69e1ecefb282a97",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "ingoodtastesampl00_hocr.html",
+        "mtime": "1660270890",
+        "size": "1745608",
+        "md5": "e6c5d2b7dba678d3a7014f52db0b6125",
+        "crc32": "a7f281d0",
+        "sha1": "42588dbb3b22c8c6d61a9f827537d96902a4d7f5",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "ingoodtastesampl00_abbyy.gz",
+        "mtime": "1528803573",
+        "size": "3091935",
+        "md5": "f2df096b0821968b426eeffd51b0aff0",
+        "crc32": "21ceb554",
+        "sha1": "efe926f8cfa7922fe43283bc2fd63cd592223002"
+      },
+      {
+        "name": "ingoodtastesampl00_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "ingoodtastesampl00.pdf",
+        "mtime": "1725753150",
+        "size": "12114904",
+        "md5": "039eb9760fbf2984a7f5a936c8e2ff1c",
+        "crc32": "6d72b20a",
+        "sha1": "776c9c41f451fa774687e447a37dfbc3419f8937"
+      },
+      {
+        "name": "ingoodtastesampl00_events.json",
+        "source": "original",
+        "mtime": "1512550419",
+        "size": "63",
+        "md5": "b4d39c8619e7d9a27b50cc9bcf1b30ea",
+        "crc32": "c669e5b9",
+        "sha1": "42b0b1d4c7d17cb990f79a86108566973eb49aac",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "f590c0332a51c1dd38cb8721b642d835",
+        "summation": "md5"
+      },
+      {
+        "name": "ingoodtastesampl00_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "ingoodtastesampl00_chocr.html.gz",
+        "mtime": "1660270878",
+        "size": "3792451",
+        "md5": "cc661928e2236901583f9051bdbe2795",
+        "crc32": "76e140a8",
+        "sha1": "f40825e316fe98bda5eacae0fb18b658a1df294b",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "ingoodtastesampl00_hocr.html",
+        "mtime": "1660270935",
+        "size": "1327",
+        "md5": "a14e1dd531d596cf0763d95cc7799b25",
+        "crc32": "04753fe8",
+        "sha1": "e6428ff3fd71e79bbb4cc3e05cdac24c6419d503",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "301",
+        "word_conf_11_20": "103",
+        "word_conf_21_30": "148",
+        "word_conf_31_40": "274",
+        "word_conf_41_50": "376",
+        "word_conf_51_60": "784",
+        "word_conf_61_70": "1654",
+        "word_conf_71_80": "3639",
+        "word_conf_81_90": "5966",
+        "word_conf_91_100": "6787",
+        "format": "OCR Search Text",
+        "original": "ingoodtastesampl00_hocr.html",
+        "mtime": "1660271006",
+        "size": "41388",
+        "md5": "68a18e0699dae45b13c580a86aa14c7d",
+        "crc32": "8cec6348",
+        "sha1": "57ed344fc6cdc77c2e16407629ab4fdc03edb014",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "ingoodtastesampl00_orig_jp2.tar",
+        "mtime": "1512552195",
+        "size": "113558442",
+        "md5": "cb30247a6f5b965a95f377b21a2c18e4",
+        "crc32": "d00dcadb",
+        "sha1": "88808bb11094ecbec49d942a098c73ac5798f12f",
+        "private": "true",
+        "filecount": "118"
+      },
+      {
+        "name": "ingoodtastesampl00_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "ingoodtastesampl00.epub",
+        "mtime": "1753492049",
+        "size": "52574055",
+        "md5": "b9b3030b9488ca8d667d7f5a1c52c3bb",
+        "crc32": "d0172d80",
+        "sha1": "ada153f3cc131b30ae2d9d9f9af52675831bcc22"
+      },
+      {
+        "name": "ingoodtastesampl00_loans.json",
+        "source": "original",
+        "mtime": "1593799902",
+        "size": "2182",
+        "format": "JSON",
+        "private": "true",
+        "md5": "c2fcd10fc2e8fac87ff96572bd5d9fe9",
+        "crc32": "57050dd1",
+        "sha1": "18fe4cf893caae936dc9ea338a2b5d697df7964c"
+      },
+      {
+        "name": "ingoodtastesampl00_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1512550493",
+        "size": "4315",
+        "md5": "a1874f445296f6dc2888136a71a26d38",
+        "crc32": "25871a75",
+        "sha1": "bbb8aeb732ebf1837bb6a15f4b02cfa0e9ff0a40"
+      },
+      {
+        "name": "ingoodtastesampl00_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "ingoodtastesampl00_xisbn.json",
+        "mtime": "1512550497",
+        "size": "137",
+        "md5": "1bb4cd6201c3b71e71c512cd0139596d",
+        "crc32": "e7e13ce9",
+        "sha1": "79cae792084c7a3320e69fd9d9a29aa4d55af57d",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454963679",
+        "size": "1231",
+        "md5": "d9edf80655285e3c0d66384c79db5a57",
+        "crc32": "b4725c34",
+        "sha1": "87d42416103dc0f2a5bab32655ddbf1e74a53e16"
+      },
+      {
+        "name": "ingoodtastesampl00_meta.sqlite",
+        "source": "original",
+        "mtime": "1512550472",
+        "size": "14336",
+        "format": "Metadata",
+        "md5": "34b9b1582de3832896d79d419cb8de9a",
+        "crc32": "cd44b6eb",
+        "sha1": "08c289652fa84610f8665694c9e4c973705c34fe"
+      },
+      {
+        "name": "ingoodtastesampl00_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753492049",
+        "size": "3109",
+        "md5": "27b946d417bae20b2c8068f51fe8f35f",
+        "crc32": "f74a9c6a",
+        "sha1": "1e0391cab8acc3bf67248fe2736a9a456a346764"
+      },
+      {
+        "name": "ingoodtastesampl00_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1365703247",
+        "size": "297",
+        "md5": "dd5b6346dca84d2b3ba7e8beb3725f99",
+        "crc32": "10899723",
+        "sha1": "5fa441734e858c9c1ce472e3baf362a106b52cbb"
+      },
+      {
+        "name": "ingoodtastesampl00_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1512550472",
+        "size": "234956800",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "65526eb5b6aa7aa7b29102a01315306d",
+        "crc32": "717e8747",
+        "sha1": "0173c13d8a066ff6a4ff9c02a15d56347afabb84",
+        "filecount": "118"
+      },
+      {
+        "name": "ingoodtastesampl00_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "ingoodtastesampl00_hocr.html",
+        "mtime": "1725752886",
+        "size": "19475",
+        "md5": "58dbc86cd0efade35e220c673efe0d94",
+        "crc32": "72ab6806",
+        "sha1": "7e089635af6e43b9634d31ab23d813addf7b191f",
+        "private": "true"
+      },
+      {
+        "name": "ingoodtastesampl00_scandata.xml",
+        "source": "original",
+        "mtime": "1670285121",
+        "size": "120233",
+        "format": "Scandata",
+        "md5": "bf10506474d5dd2565d1a2e83ce88a01",
+        "crc32": "abe2fa90",
+        "sha1": "a3d646624fdd024df465a151bd1073654ae91788"
+      },
+      {
+        "name": "ingoodtastesampl00_xisbn.json",
+        "source": "original",
+        "mtime": "1454961495",
+        "size": "394",
+        "md5": "57595e39e00a168ac1909b9f099e1c7b",
+        "crc32": "398b0880",
+        "sha1": "9634b16e5857e01fddd8627e297de8868b03034b",
+        "format": "OCLC xISBN JSON"
+      },
+      {
+        "name": "logs/ingoodtastesampl00_iabdash_2017-12-06151411.log",
+        "source": "original",
+        "mtime": "1512544457",
+        "size": "351",
+        "md5": "676c8c8009a03ce0d52dbfe10a4f46e7",
+        "crc32": "5363bfa0",
+        "sha1": "7a8f224ed5226324fa90901648e8959c61cce5af",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/ingoodtastesampl00_scanning_2017-12-06151406.log",
+        "source": "original",
+        "mtime": "1512544452",
+        "size": "145259",
+        "md5": "5b121db9707cabc9472c2a22d3a91223",
+        "crc32": "60c1aaa5",
+        "sha1": "458508aa5fe6b029c8ee4e236dae4f7af56c3bb9",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 37,
+    "item_last_updated": 1753492049,
+    "item_size": 503619712,
+    "metadata": {
+      "isbn": [
+        "0942495721",
+        "9780942495720"
+      ],
+      "title": "In good taste : a sampling of recipes from the best chefs of Wisconsin : to benefit the Muscular Dystrophy Association",
+      "publisher": "Wauwatosa, Wis. : The Association",
+      "date": "1997-01-01",
+      "external-identifier": [
+        "urn:asin:0942495721",
+        "urn:acs6:ingoodtastesampl00:pdf:dd9917b4-b75b-4dd5-9bfb-a214ed46b933",
+        "urn:acs6:ingoodtastesampl00:epub:30c47f9e-1250-48b1-9a2d-044addf9e250",
+        "urn:oclc:record:1149448790",
+        "urn:lcp:ingoodtastesampl00:lcpdf:7f8f1701-d0e1-4684-aa61-7349cb8374af",
+        "urn:lcp:ingoodtastesampl00:epub:d2aeeb38-6aa5-431c-a7aa-718575c56535"
+      ],
+      "repub_state": "22",
+      "updatedate": "2013-04-11 18:00:44",
+      "updater": "associate-lotu-tii@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA1160502",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "hongkong",
+      "identifier": "ingoodtastesampl00",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2013-04-11 18:00:49",
+      "publicdate": "2013-04-11 18:00:53",
+      "donor": "alibris",
+      "creator": "Muscular Dystrophy Association",
+      "subject": [
+        "Cooking",
+        "Cooks",
+        "Cooking",
+        "Cooks"
+      ],
+      "lccn": "97066759",
+      "description": "Includes index",
+      "identifier-access": "http://archive.org/details/ingoodtastesampl00",
+      "identifier-ark": "ark:/13960/t3sv1mw2t",
+      "city": "Wauwatosa, Wis.",
+      "edition": "1st ed.",
+      "oclc-id": "37917461",
+      "backup_location": "ia905609_9",
+      "scanner": "ttscribe4.hongkong.archive.org",
+      "operator": "associate-tszshan-fong@archive.org",
+      "tts_version": "v1.55-final",
+      "imagecount": "118",
+      "scandate": "20171206080312",
+      "ppi": "300",
+      "republisher_operator": "associate-mohammed-saiful-islam@archive.org",
+      "republisher_date": "20171206145328",
+      "republisher_time": "595",
+      "foldoutcount": "0",
+      "bookplateleaf": "0002",
+      "scanfee": "15",
+      "invoice": "1213",
+      "sponsordate": "20171130",
+      "openlibrary_edition": "OL706253M",
+      "openlibrary_work": "OL17816737W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "filesxml": "Wed Apr 3 5:17:10 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801902.us.archive.org",
+    "uniq": 1197971681,
+    "workable_servers": [
+      "ia801902.us.archive.org",
+      "ia601902.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/37917461?referer=xid"
+          ],
+          "publisher": "The Association",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "97066759"
+          ],
+          "lang": "eng",
+          "city": "Wauwatosa, Wis.",
+          "ed": "1st ed.",
+          "year": "1997",
+          "isbn": [
+            "0942495721"
+          ],
+          "title": "In good taste : a sampling of recipes from the best chefs of Wisconsin : to benefit the Muscular Dystrophy Association.",
+          "oclcnum": [
+            "37917461"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Muscular Dystrophy Association",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Wisconsin"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Wisconsin; Digitized scan available"
+}

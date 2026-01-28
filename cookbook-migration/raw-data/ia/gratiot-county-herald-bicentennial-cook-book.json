@@ -1,0 +1,307 @@
+{
+  "source": "internet_archive",
+  "identifier": "gratiot-county-herald-bicentennial-cook-book",
+  "title": "Gratiot County Herald Bicentennial Cook Book",
+  "creator": null,
+  "year": null,
+  "subject": [
+    "Gratiot County",
+    "cook book"
+  ],
+  "description": "Recipes submitted by local Gratiot County Michigan residents to the Gratiot County Herald for the bicentennial of the county.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/gratiot-county-herald-bicentennial-cook-book"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/gratiot-county-herald-bicentennial-cook-book"
+        }
+      ]
+    },
+    "created": 1758559200,
+    "d1": "ia600105.us.archive.org",
+    "d2": "ia800105.us.archive.org",
+    "dir": "/13/items/gratiot-county-herald-bicentennial-cook-book",
+    "files": [
+      {
+        "name": "Gratiot county herald bicentennial cook book.pdf",
+        "source": "original",
+        "mtime": "1675023605",
+        "size": "22163881",
+        "md5": "8f9d8a3f11152fa27378385617b4eb14",
+        "crc32": "4d13cc00",
+        "sha1": "5c05bd5f8d246f088ca5bf5b99fc7836a6f90b96",
+        "format": "Image Container PDF",
+        "viruscheck": "1675066920"
+      },
+      {
+        "name": "Gratiot county herald bicentennial cook book_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-1-gd3a4",
+        "ocr_parameters": "-l eng+kaz+kir+lat+Latin+Cyrillic",
+        "ocr_module_version": "0.0.18",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": [
+          "Latin",
+          "Cyrillic"
+        ],
+        "ocr_detected_script_conf": [
+          "0.9829",
+          "0.0171"
+        ],
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Gratiot county herald bicentennial cook book_jp2.zip",
+        "mtime": "1675067671",
+        "size": "1189338",
+        "md5": "5ab5b138555d2dfe63db4ebfc4c25bc7",
+        "crc32": "b72a0f8f",
+        "sha1": "55a323c7d061582f69f8b0006830bc3943f871e0"
+      },
+      {
+        "name": "Gratiot county herald bicentennial cook book_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Gratiot county herald bicentennial cook book_djvu.xml",
+        "mtime": "1675067715",
+        "size": "82154",
+        "md5": "532e22796f3de3ce3fb26e2953c480f9",
+        "crc32": "e66cd5be",
+        "sha1": "fc6056979b6d2a1fce7f8f6008e7bf9f339d5129"
+      },
+      {
+        "name": "Gratiot county herald bicentennial cook book_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Gratiot county herald bicentennial cook book_hocr.html",
+        "mtime": "1675067694",
+        "size": "1204647",
+        "md5": "b90f876ceee712baa3711d0f2d68d610",
+        "crc32": "019f7ddd",
+        "sha1": "5123c6a6371e96920076bc152d3aa78fb84f1e9c"
+      },
+      {
+        "name": "Gratiot county herald bicentennial cook book_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng+kaz+kir+lat+Latin+Cyrillic",
+        "ocr_module_version": "0.0.18",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": [
+          "Latin",
+          "Cyrillic"
+        ],
+        "ocr_detected_script_conf": [
+          "0.9829",
+          "0.0171"
+        ],
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Gratiot county herald bicentennial cook book_chocr.html.gz",
+        "mtime": "1675067686",
+        "size": "2576504",
+        "md5": "77f35a73049e9ff63ba9588dfcf06ddc",
+        "crc32": "72642c5b",
+        "sha1": "931d33062b4904aff770142af759c79d3711c479"
+      },
+      {
+        "name": "Gratiot county herald bicentennial cook book_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "Gratiot county herald bicentennial cook book_hocr.html",
+        "mtime": "1675067698",
+        "size": "303",
+        "md5": "350e9175989bc859fe69b86c053877fd",
+        "crc32": "b4149ac8",
+        "sha1": "9bf8d6514f8f25a95c72e8c9fec47fd36b69828d"
+      },
+      {
+        "name": "Gratiot county herald bicentennial cook book_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "34",
+        "word_conf_11_20": "25",
+        "word_conf_21_30": "73",
+        "word_conf_31_40": "94",
+        "word_conf_41_50": "140",
+        "word_conf_51_60": "173",
+        "word_conf_61_70": "229",
+        "word_conf_71_80": "371",
+        "word_conf_81_90": "891",
+        "word_conf_91_100": "12143",
+        "format": "OCR Search Text",
+        "original": "Gratiot county herald bicentennial cook book_hocr.html",
+        "mtime": "1675067708",
+        "size": "32123",
+        "md5": "1fcaef3abe07cb18312dedd9b648b743",
+        "crc32": "94106fca",
+        "sha1": "80985b2e356af2ee5c4c139373470aa03fddd472"
+      },
+      {
+        "name": "Gratiot county herald bicentennial cook book_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Gratiot county herald bicentennial cook book.pdf",
+        "mtime": "1675066984",
+        "size": "22525602",
+        "md5": "a81d32e3b7f6a8abc43ca2be091c8cff",
+        "crc32": "589ee805",
+        "sha1": "291398da61626e5ae564eea966e73e6ab87f35df",
+        "filecount": "24"
+      },
+      {
+        "name": "Gratiot county herald bicentennial cook book_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "Gratiot county herald bicentennial cook book_djvu.xml",
+        "mtime": "1675067724",
+        "size": "4682",
+        "md5": "d35ac1d39928ff1ad3f1524736a9972c",
+        "crc32": "7a0c4064",
+        "sha1": "31ae41c251b4ac19ea1b320e47c89991e4bc04e1"
+      },
+      {
+        "name": "Gratiot county herald bicentennial cook book_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Gratiot county herald bicentennial cook book_djvu.xml",
+        "mtime": "1675067724",
+        "size": "8365",
+        "md5": "136808f9f163ce81837082c352c11cdc",
+        "crc32": "93f19e98",
+        "sha1": "c192ba371644bccaf4470838f319629456163606"
+      },
+      {
+        "name": "Gratiot county herald bicentennial cook book_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.20",
+        "format": "Additional Text PDF",
+        "original": "Gratiot county herald bicentennial cook book_page_numbers.json",
+        "mtime": "1675067827",
+        "size": "8762957",
+        "md5": "98ea66c38569576e7545228bdb0cef4a",
+        "crc32": "fc6ce2cc",
+        "sha1": "8923ab0632d535d355c5d52db9a9ae633a5ef62f"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1675067842",
+        "size": "21959",
+        "md5": "e6fa48bafd8a05ef785fa8a324b8f8b6",
+        "crc32": "4bd7caad",
+        "sha1": "c6fa919dca31d36d7fef3b7349656742b88a335d",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "gratiot-county-herald-bicentennial-cook-book_archive.torrent",
+        "source": "metadata",
+        "btih": "da10f86325578fa09f6231a7c63483e3eaf693ba",
+        "mtime": "1751060512",
+        "size": "6486",
+        "md5": "e395a7525ff59f7432c4251cb6fb3aaf",
+        "crc32": "820b2f7b",
+        "sha1": "609a1764f641a9e33dee661645b29472402fa5c8",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "gratiot-county-herald-bicentennial-cook-book_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "898583b97bf32da34bd0862652dd0177",
+        "summation": "md5"
+      },
+      {
+        "name": "gratiot-county-herald-bicentennial-cook-book_meta.sqlite",
+        "source": "original",
+        "mtime": "1675023623",
+        "size": "20480",
+        "md5": "fa3ec702a73578a7561c62cd1fda4a8b",
+        "crc32": "03f5d261",
+        "sha1": "cdd493d90ceb38b07a8f8d0b5b36352bc7831625",
+        "format": "Metadata"
+      },
+      {
+        "name": "gratiot-county-herald-bicentennial-cook-book_meta.xml",
+        "source": "original",
+        "mtime": "1751060510",
+        "size": "1693",
+        "md5": "5906b73e6528422e712a64a458dc2cbd",
+        "crc32": "81fee92d",
+        "sha1": "19e7603d7cd2e089507542957701619e2ca00036",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1751060512,
+    "item_size": 58601174,
+    "metadata": {
+      "identifier": "gratiot-county-herald-bicentennial-cook-book",
+      "mediatype": "texts",
+      "collection": [
+        "opensource",
+        "community"
+      ],
+      "description": "Recipes submitted by local Gratiot County Michigan residents to the Gratiot County Herald for the bicentennial of the county.",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "Gratiot County",
+        "cook book"
+      ],
+      "title": "Gratiot County Herald Bicentennial Cook Book",
+      "uploader": "mapesm@gmail.com",
+      "publicdate": "2023-01-29 20:20:20",
+      "addeddate": "2023-01-29 20:20:20",
+      "curation": "[curator]validator@archive.org[/curator][date]20230130082200[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/gratiot-county-herald-bicentennial-cook-book",
+      "identifier-ark": "ark:/13960/s271jnng868",
+      "ppi": "333",
+      "ocr": "tesseract 5.3.0-1-gd3a4",
+      "ocr_parameters": "-l eng+kaz+kir+lat+Latin+Cyrillic",
+      "ocr_module_version": "0.0.18",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": [
+        "Latin",
+        "Cyrillic"
+      ],
+      "ocr_detected_script_conf": [
+        "0.9829",
+        "0.0171"
+      ],
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "56.52",
+      "pdf_module_version": "0.0.20",
+      "language": "eng"
+    },
+    "server": "ia800105.us.archive.org",
+    "uniq": 1228528687,
+    "workable_servers": [
+      "ia800105.us.archive.org",
+      "ia600105.us.archive.org"
+    ]
+  },
+  "pdf_url": "https://archive.org/download/gratiot-county-herald-bicentennial-cook-book/Gratiot county herald bicentennial cook book.pdf",
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

@@ -1,0 +1,102 @@
+{
+  "source": "dpla",
+  "id": "de6f197a740e12b3a4e315ff3ffd8325",
+  "identifier": "de6f197a740e12b3a4e315ff3ffd8325",
+  "title": "Auxiliary cook book",
+  "subject": [
+    "Cooking, American",
+    "Cooking",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan",
+    "Saline"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m50v8dj4n",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1921,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/de6f197a740e12b3a4e315ff3ffd8325#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "date": [
+        {
+          "begin": "1921",
+          "displayDate": "1921",
+          "end": "1921"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Saline"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "Auxiliary cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1921-01-01",
+      "normalized_dates": [
+        "1921-01-01"
+      ],
+      "date_range": {
+        "begin": "1921-01-01",
+        "end": "1921-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m50v8dj4n/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m50v8dj4n"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Auxiliary"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Auxiliary; Digitized scan available"
+}

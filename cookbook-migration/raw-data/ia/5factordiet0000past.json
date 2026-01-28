@@ -1,0 +1,526 @@
+{
+  "source": "internet_archive",
+  "identifier": "5factordiet0000past",
+  "title": "The 5 factor diet",
+  "creator": "Pasternak, Harley",
+  "year": 2006,
+  "subject": [
+    "Physical fitness",
+    "Exercise",
+    "Reducing diets -- Recipes",
+    "Celebrities -- Health and hygiene"
+  ],
+  "description": [
+    "256 p. : 24 cm",
+    "\"Hollywood's hottest eating plan\"--Cover",
+    "Includes index"
+  ],
+  "metadata": {
+    "created": 1758335755,
+    "d1": "ia902309.us.archive.org",
+    "d2": "ia802309.us.archive.org",
+    "dir": "/31/items/5factordiet0000past",
+    "files": [
+      {
+        "name": "5factordiet0000past.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "5factordiet0000past_hocr.html",
+        "mtime": "1752990411",
+        "size": "705661",
+        "private": "true",
+        "md5": "f16517f8ef1d83f68ac52739027cf35f",
+        "crc32": "729938dc",
+        "sha1": "1bbc722c4619bf0d9c0e8fcc4cdd69ced1c32d61"
+      },
+      {
+        "name": "5factordiet0000past.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "5factordiet0000past.pdf",
+        "mtime": "1752990338",
+        "size": "9815786",
+        "md5": "37497bcd974124535ca7b49fe236fb53",
+        "crc32": "d854d810",
+        "sha1": "24cfd01d412ef58e44c493a959a79733e5109da6"
+      },
+      {
+        "name": "5factordiet0000past.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "5factordiet0000past_page_numbers.json",
+        "mtime": "1713451680",
+        "size": "9601340",
+        "md5": "3008ac26f0e66e458dedf8c3260cbddf",
+        "crc32": "abc7479e",
+        "sha1": "2470750dd1156c5d6c30c16786c35f8cc2fa80cd",
+        "private": "true"
+      },
+      {
+        "name": "5factordiet0000past_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "5factordiet0000past_jp2.zip",
+        "mtime": "1630600807",
+        "size": "4069407",
+        "md5": "4677673edfc1609c24b07ee8c707a87b",
+        "crc32": "99c5a420",
+        "sha1": "10706ce0a6dab3b3be5e29d7046d22f2fc010eab",
+        "private": "true"
+      },
+      {
+        "name": "5factordiet0000past_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "5factordiet0000past_scandata.xml",
+        "mtime": "1658097135",
+        "size": "768",
+        "md5": "5174b5b03cfd665a6a7c4c742820bee9",
+        "crc32": "5d853752",
+        "sha1": "6b81f19d1106adb876ff802bd9c8f17888085666",
+        "private": "true"
+      },
+      {
+        "name": "5factordiet0000past_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1630592593",
+        "size": "1337",
+        "md5": "7367bc0029545cc9e0efd51762bb4dfe",
+        "crc32": "6195a629",
+        "sha1": "1ae489fbe36016ca87b83f6c5090886be9b96aba"
+      },
+      {
+        "name": "5factordiet0000past_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "5factordiet0000past_djvu.xml",
+        "mtime": "1630601021",
+        "size": "304104",
+        "md5": "55987e4488e876f70b489383d2a38d7c",
+        "crc32": "c9280282",
+        "sha1": "b7c6e36dc6ccfdad6a08fa312c58473df0e5dc2f",
+        "private": "true"
+      },
+      {
+        "name": "5factordiet0000past_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "5factordiet0000past_hocr.html",
+        "mtime": "1630600913",
+        "size": "4196730",
+        "md5": "d9c2a3af628e26de50bd6d0831147326",
+        "crc32": "2a2d2a5c",
+        "sha1": "c7408c7ba0a6dee6cb9de07e46d35a3b9f25adba",
+        "private": "true"
+      },
+      {
+        "name": "5factordiet0000past_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "5factordiet0000past.pdf",
+        "mtime": "1713451787",
+        "size": "9535049",
+        "md5": "9899bb7f8960ee5d9661b23bf660038b",
+        "crc32": "f0ce46d9",
+        "sha1": "2b1cee62f09931f7c25b7c75761aef98176c1c34"
+      },
+      {
+        "name": "5factordiet0000past_events.json",
+        "source": "original",
+        "mtime": "1630592408",
+        "size": "56",
+        "md5": "5ac156b05cada3826e543b1e9f012d03",
+        "crc32": "2e532b40",
+        "sha1": "324be9bb29dd8a422e298b1d3e1d29fc7376e486",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "5factordiet0000past_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9e130ad80a59983c3ea580745e0784b3",
+        "summation": "md5"
+      },
+      {
+        "name": "5factordiet0000past_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "5factordiet0000past_chocr.html.gz",
+        "mtime": "1630600884",
+        "size": "8086848",
+        "md5": "3452ce560851dbea8d0b36652ec0429d",
+        "crc32": "21d289e0",
+        "sha1": "842714031b05e74eb95d8181dcc32fc1f48eff4b",
+        "private": "true"
+      },
+      {
+        "name": "5factordiet0000past_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "5factordiet0000past_hocr.html",
+        "mtime": "1630600947",
+        "size": "3116",
+        "md5": "1b95567c567295cdc37ae95638789e26",
+        "crc32": "94186a4c",
+        "sha1": "6778aca46e6f6d9d188092b86fc4f089597991b2",
+        "private": "true"
+      },
+      {
+        "name": "5factordiet0000past_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "447",
+        "word_conf_11_20": "227",
+        "word_conf_21_30": "347",
+        "word_conf_31_40": "302",
+        "word_conf_41_50": "287",
+        "word_conf_51_60": "285",
+        "word_conf_61_70": "345",
+        "word_conf_71_80": "565",
+        "word_conf_81_90": "1359",
+        "word_conf_91_100": "45998",
+        "format": "OCR Search Text",
+        "original": "5factordiet0000past_hocr.html",
+        "mtime": "1630601003",
+        "size": "93256",
+        "md5": "2957b033b129dd7ba92d88f9f14a18e3",
+        "crc32": "8d61d713",
+        "sha1": "1f1d09a63639afdd447eebd46b6f90a4c3e697ac",
+        "private": "true"
+      },
+      {
+        "name": "5factordiet0000past_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "5factordiet0000past_orig_jp2.tar",
+        "mtime": "1630598871",
+        "size": "90641937",
+        "md5": "c4cfb027c2d2f96fe5f8d0b549ec397f",
+        "crc32": "f06ff2ff",
+        "sha1": "8678c83a90bcf3582eec322be72f9f5fa572da7a",
+        "private": "true",
+        "filecount": "266"
+      },
+      {
+        "name": "5factordiet0000past_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "5factordiet0000past.epub",
+        "mtime": "1752990535",
+        "size": "722955",
+        "md5": "2b92d441f5177ee21a459fc777fa9f85",
+        "crc32": "3515b2e8",
+        "sha1": "9528fff8a720c8f3b44f13dffa29b10d1f2ebc51"
+      },
+      {
+        "name": "5factordiet0000past_marc.xml",
+        "source": "original",
+        "mtime": "1630167686",
+        "size": "3318",
+        "md5": "b13dc131330d20e2386b6395d184c3a6",
+        "crc32": "374ca564",
+        "sha1": "76b1f8381ccb49336e3aba437d77acee80edaf98",
+        "format": "MARC"
+      },
+      {
+        "name": "5factordiet0000past_meta.mrc",
+        "source": "original",
+        "mtime": "1630167682",
+        "size": "1038",
+        "md5": "40aed23534005f124281f971d644f3fe",
+        "crc32": "bb471748",
+        "sha1": "8a435c09e7724278034935b87f4dcf9a79f560f2",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "5factordiet0000past_meta.sqlite",
+        "source": "original",
+        "mtime": "1630592500",
+        "size": "45056",
+        "md5": "ddeaea6845ed02d2e7b88d5aad3b8004",
+        "crc32": "6651cd71",
+        "sha1": "e1384cfa1ff7cb77f8fcb8b78e6c12c94e923d28",
+        "format": "Metadata"
+      },
+      {
+        "name": "5factordiet0000past_meta.xml",
+        "source": "original",
+        "mtime": "1752990535",
+        "size": "3269",
+        "md5": "bcd8fbaa7f50bd86a2c720ca4b2b1afd",
+        "crc32": "91025b4f",
+        "sha1": "afe68b1972a7e939d5d7730b77a723a8baffa5b5",
+        "format": "Metadata"
+      },
+      {
+        "name": "5factordiet0000past_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1630592499",
+        "size": "332369920",
+        "md5": "3ff3aa3d0eec080902729579e70073d2",
+        "crc32": "a9de71b3",
+        "sha1": "63d6f52f62601c233b14c739bbbc76252d32777c",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "266"
+      },
+      {
+        "name": "5factordiet0000past_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "97",
+        "format": "Page Numbers JSON",
+        "original": "5factordiet0000past_hocr.html",
+        "mtime": "1713451679",
+        "size": "44386",
+        "md5": "02b766cd55206273dd574f8469b4c66f",
+        "crc32": "2d8bafe3",
+        "sha1": "795e78c71030d3b1dfe55ffd2e5382fae4875ad2",
+        "private": "true"
+      },
+      {
+        "name": "5factordiet0000past_scandata.xml",
+        "source": "original",
+        "mtime": "1658097134",
+        "size": "289000",
+        "md5": "d4424e8cb439a4f4f4afb1852d47f869",
+        "crc32": "e5897281",
+        "sha1": "08a462b607122d161360f26279e23693082ace76",
+        "format": "Scandata"
+      },
+      {
+        "name": "5factordiet0000past_slip.png",
+        "source": "original",
+        "mtime": "1630143436",
+        "size": "40410",
+        "md5": "7ba4c7e2753cc59c88fec1f96b49113d",
+        "crc32": "88d67aa9",
+        "sha1": "f3412bfd081925ff15fb46d26194b27ebd1e995a",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "5factordiet0000past_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "5factordiet0000past_slip.png",
+        "mtime": "1630592601",
+        "size": "8231",
+        "md5": "bf645d0699a7a05aeed505fed7b13476",
+        "crc32": "2d868659",
+        "sha1": "e3fec02d6cd4adc96eca5ab70a9e88037cfd1b7b",
+        "private": "true"
+      },
+      {
+        "name": "5factordiet0000past_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "5factordiet0000past_djvu.xml",
+        "mtime": "1658097097",
+        "size": "594",
+        "md5": "6f3543f4531169a289186b16352c0e81",
+        "crc32": "94506296",
+        "sha1": "4d8fe7ef7f2e567c7db883c4a20fcaf44ca58fb7",
+        "private": "true"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658097172",
+        "size": "18297",
+        "md5": "579bcfd30e45b06784f1ee00a9d83d7b",
+        "crc32": "141034de",
+        "sha1": "5dcccbfa409c4c048eb7e716f1959319aea40d88",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/5factordiet0000past_iabdash_2021-08-2900:21:30.log",
+        "source": "original",
+        "mtime": "1630167693",
+        "size": "1317",
+        "md5": "ce99f290192256fe79dfa091141ae612",
+        "crc32": "0d759e1b",
+        "sha1": "4119e348807e92c2eed66766d88333013657415c",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/5factordiet0000past_scanning_2021-08-2900:21:40.log",
+        "source": "original",
+        "mtime": "1630167705",
+        "size": "741490",
+        "md5": "724e0b2cc520a7e58af6bc39d2a69dd4",
+        "crc32": "2fcf04cd",
+        "sha1": "624277d5247fef22936fd24c283f574edac5ee82",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/5factordiet0000past_status_history_2021-08-2900:21:36.log",
+        "source": "original",
+        "mtime": "1630167699",
+        "size": "406",
+        "md5": "a0e8fe79c8447dc8671092cb6c903a76",
+        "crc32": "b9d00162",
+        "sha1": "034dc734df0898a9fac155eb575cfe8a64f1f4e9",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1752990535,
+    "item_size": 471345082,
+    "metadata": {
+      "identifier": "5factordiet0000past",
+      "associated-names": "Murphy, Myatt",
+      "boxid": "IA40228508",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Pasternak, Harley",
+      "date": "2006-01-01",
+      "description": [
+        "256 p. : 24 cm",
+        "\"Hollywood's hottest eating plan\"--Cover",
+        "Includes index"
+      ],
+      "isbn": [
+        "9780696232244",
+        "0696232243"
+      ],
+      "language": "eng",
+      "lccn": "2006930029",
+      "mediatype": "texts",
+      "old_pallet": "IA14356",
+      "openlibrary_edition": "OL7761260M",
+      "openlibrary_work": "OL16722088W",
+      "operator": "associate-marjoy-pepito@archive.org",
+      "publisher": "Des Moines, Iowa : Meredith Books",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station35.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780696232244",
+      "subject": [
+        "Physical fitness",
+        "Exercise",
+        "Reducing diets -- Recipes",
+        "Celebrities -- Health and hygiene"
+      ],
+      "title": "The 5 factor diet",
+      "tts_version": "4.5-initial-68-gb9b4dcd8",
+      "uploader": "station35.cebu@archive.org",
+      "publicdate": "2021-08-28 09:37:30",
+      "access-restricted-item": "true",
+      "imagecount": "266",
+      "scandate": "20210828173753",
+      "ppi": "360",
+      "republisher_operator": "associate-meriam-bapilar@archive.org",
+      "republisher_date": "20210902221608",
+      "republisher_time": "474",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/5factordiet0000past",
+      "identifier-ark": "ark:/13960/t20d7902t",
+      "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.13",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "97",
+      "pdf_module_version": "0.0.15",
+      "external-identifier": [
+        "urn:acs6:5factordiet0000past:pdf:16b2db2a-5995-4da6-a8e4-a21cc4d5ef3a",
+        "urn:oclc:record:1023791034",
+        "urn:lcp:5factordiet0000past:lcpdf:0c046101-f877-491a-9947-42582505687d",
+        "urn:lcp:5factordiet0000past:epub:ef581ff3-ed39-400e-8e38-dee9c611b5c5"
+      ],
+      "addeddate": "2021-09-02 18:14:05",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20210831",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ],
+      "normalized_dates": [
+        "2006-01-01"
+      ]
+    },
+    "server": "ia802309.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "denverpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780696232244"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-01 23:24:21.115699"
+        },
+        "hamiltonpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780696232244"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 02:14:06.696121"
+        },
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40381823"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 02:48:31.528371"
+        }
+      }
+    },
+    "uniq": 1834973935,
+    "workable_servers": [
+      "ia802309.us.archive.org",
+      "ia902309.us.archive.org"
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "source": "internet_archive",
+  "identifier": "ENC.Cookbook",
+  "title": "ENC Cookbook 1st Edition",
+  "creator": "Coleman Museum",
+  "year": 2021,
+  "subject": [
+    "Ellendale Nursing Center",
+    "Ellendale",
+    "North Dakota",
+    "Nursing Homes",
+    "Dickey County",
+    "Cookbooks",
+    "Recipes"
+  ],
+  "description": "This is a cookbook put together by employees, residents and friends of the Ellendale Nursing Center (later Prince of Peace / Benedictine Community - Ellendale) in the mid 1980s.  The book does not contain a publication date, but the latest date indicated in the introduction is 1984.  The Garfield picture on the cover also helps place it in that era.   KEYWORDS: Ellendale Nursing Center, Ellendale, North Dakota, Nursing Homes, Dickey County, Cookbooks, Recipes",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/ENC.Cookbook"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/ENC.Cookbook"
+        }
+      ]
+    },
+    "created": 1758556582,
+    "d1": "ia904608.us.archive.org",
+    "d2": "ia804608.us.archive.org",
+    "dir": "/19/items/ENC.Cookbook",
+    "files": [
+      {
+        "name": "ENC Cookbook 1st Edition.pdf",
+        "source": "original",
+        "mtime": "1636997761",
+        "size": "12573503",
+        "md5": "a938dfd81609350ba758b54e6c9c0299",
+        "crc32": "16f1e266",
+        "sha1": "4c00a7c18885d9819e1e9de96bbf3d1aff0bf766",
+        "format": "Text PDF",
+        "viruscheck": "1636998118"
+      },
+      {
+        "name": "ENC Cookbook 1st Edition_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-rc2-1-gf788",
+        "ocr_parameters": "-l eng+Latin",
+        "ocr_module_version": "0.0.14",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "ENC Cookbook 1st Edition_jp2.zip",
+        "mtime": "1637002195",
+        "size": "1523221",
+        "md5": "a1d52a83af272b84700e6e48a3db2169",
+        "crc32": "e78ddfd5",
+        "sha1": "79dd93578be2e1af1e8b454652326a28396527c7"
+      },
+      {
+        "name": "ENC Cookbook 1st Edition_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "ENC Cookbook 1st Edition_djvu.xml",
+        "mtime": "1637002622",
+        "size": "106196",
+        "md5": "6270fc6c9146882c44a6d85e708c1989",
+        "crc32": "67e2d6d6",
+        "sha1": "c38fc6896d0a0daeb2aab39c9b41fbd65acaabce"
+      },
+      {
+        "name": "ENC Cookbook 1st Edition_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "ENC Cookbook 1st Edition_hocr.html",
+        "mtime": "1637002386",
+        "size": "1699837",
+        "md5": "c4412a9bf5d9634ad2ab89526620deb0",
+        "crc32": "b3d27bb7",
+        "sha1": "d522502e7d3a5ef2d3d5efbf45a9a547e37915fa"
+      },
+      {
+        "name": "ENC Cookbook 1st Edition_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng+Latin",
+        "ocr_module_version": "0.0.14",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "ENC Cookbook 1st Edition_chocr.html.gz",
+        "mtime": "1637002348",
+        "size": "3491800",
+        "md5": "7245b64f155f928de4fbdd6e7d46a097",
+        "crc32": "53dfb2e9",
+        "sha1": "82098c85fc6d13b41e2ebe20c27f19fe6018c89e"
+      },
+      {
+        "name": "ENC Cookbook 1st Edition_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "ENC Cookbook 1st Edition_hocr.html",
+        "mtime": "1637002453",
+        "size": "1414",
+        "md5": "58c5ee90127d5a152f2ac2e1e74c1521",
+        "crc32": "bec53d00",
+        "sha1": "2e749b2872f998e1dfe635655bdeded700ef943a"
+      },
+      {
+        "name": "ENC Cookbook 1st Edition_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "236",
+        "word_conf_11_20": "109",
+        "word_conf_21_30": "160",
+        "word_conf_31_40": "190",
+        "word_conf_41_50": "180",
+        "word_conf_51_60": "213",
+        "word_conf_61_70": "245",
+        "word_conf_71_80": "389",
+        "word_conf_81_90": "1171",
+        "word_conf_91_100": "15932",
+        "format": "OCR Search Text",
+        "original": "ENC Cookbook 1st Edition_hocr.html",
+        "mtime": "1637002567",
+        "size": "38627",
+        "md5": "7c71c906f6238c79005e2e2d451a9ad1",
+        "crc32": "1ee1fd04",
+        "sha1": "244599556d6939c3c907cd1d1128ce312cfef192"
+      },
+      {
+        "name": "ENC Cookbook 1st Edition_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "ENC Cookbook 1st Edition.pdf",
+        "mtime": "1636998750",
+        "size": "80867640",
+        "md5": "190feefe535e7e8d53e192fdf7fcbdce",
+        "crc32": "2d25f77a",
+        "sha1": "78850fa1f12d9c45b6c5cdf7d9fa1b75b3b795d3",
+        "filecount": "124"
+      },
+      {
+        "name": "ENC Cookbook 1st Edition_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "ENC Cookbook 1st Edition_djvu.xml",
+        "mtime": "1637002742",
+        "size": "23360",
+        "md5": "c6e6f0e595704ed7024195d592b7c623",
+        "crc32": "abbc05e7",
+        "sha1": "978ac209cec6ab5e1b38c6fe9ce95f6dd35788d0"
+      },
+      {
+        "name": "ENC Cookbook 1st Edition_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "ENC Cookbook 1st Edition_djvu.xml",
+        "mtime": "1637002742",
+        "size": "40321",
+        "md5": "e4dcf87b42720b6840ba3a84b89db704",
+        "crc32": "c6ecde67",
+        "sha1": "021328df188a59ca29c9a222dc6529608a20d99d"
+      },
+      {
+        "name": "ENC.Cookbook_archive.torrent",
+        "source": "metadata",
+        "btih": "4b4257ca5955d732cc88a5a5d27d1edc18926633",
+        "mtime": "1716130421",
+        "size": "7393",
+        "md5": "7448d1556cf9862ea88230324e19f470",
+        "crc32": "b3b178b4",
+        "sha1": "7706ab1decb5899bbac6380ce12122cfe7560f46",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "ENC.Cookbook_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "4538a8b4ebb7b3e2e8afb150f43a17e5",
+        "summation": "md5"
+      },
+      {
+        "name": "ENC.Cookbook_meta.sqlite",
+        "source": "original",
+        "mtime": "1636997789",
+        "size": "20480",
+        "md5": "b7508b85fce79c6310097986e8a6937c",
+        "crc32": "dc7acf9e",
+        "sha1": "100118fea8abbe9ba383b49e845676510c11c03e",
+        "format": "Metadata"
+      },
+      {
+        "name": "ENC.Cookbook_meta.xml",
+        "source": "original",
+        "mtime": "1716130420",
+        "size": "2179",
+        "md5": "bda23d26ea905efbea08e85ed8a14215",
+        "crc32": "a01d4c57",
+        "sha1": "9d37f2112fb3d4fecfe1329ac89a0ca4bea4e7da",
+        "format": "Metadata"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1716130420",
+        "size": "25546",
+        "md5": "9cdc2c58c48a4deaddd294b905ab537e",
+        "crc32": "450867ff",
+        "sha1": "7e5fe90227d2f66e5d3ef20571bb9718a7c50b7b",
+        "format": "Item Tile",
+        "rotation": "0"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1716130421,
+    "item_size": 100421517,
+    "metadata": {
+      "identifier": "ENC.Cookbook",
+      "mediatype": "texts",
+      "collection": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "creator": "Coleman Museum",
+      "date": "2021-11-15",
+      "description": "This is a cookbook put together by employees, residents and friends of the Ellendale Nursing Center (later Prince of Peace / Benedictine Community - Ellendale) in the mid 1980s.  The book does not contain a publication date, but the latest date indicated in the introduction is 1984.  The Garfield picture on the cover also helps place it in that era.  <br />KEYWORDS: Ellendale Nursing Center, Ellendale, North Dakota, Nursing Homes, Dickey County, Cookbooks, Recipes<br />",
+      "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+      "subject": [
+        "Ellendale Nursing Center",
+        "Ellendale",
+        "North Dakota",
+        "Nursing Homes",
+        "Dickey County",
+        "Cookbooks",
+        "Recipes"
+      ],
+      "title": "ENC Cookbook 1st Edition",
+      "uploader": "kelandsmith@gmail.com",
+      "publicdate": "2021-11-15 17:36:19",
+      "addeddate": "2021-11-15 17:36:19",
+      "curation": "[curator]validator@archive.org[/curator][date]20211115174158[/date][comment]checked for malware[/comment]",
+      "identifier-ark": "ark:/13960/s266j4dqdhr",
+      "ppi": "600",
+      "ocr": "tesseract 5.0.0-rc2-1-gf788",
+      "ocr_parameters": "-l eng+Latin",
+      "ocr_module_version": "0.0.14",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "9.76",
+      "identifier-access": "http://archive.org/details/ENC.Cookbook",
+      "collection_added": [
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia804608.us.archive.org",
+    "uniq": 557012888,
+    "workable_servers": [
+      "ia804608.us.archive.org",
+      "ia904608.us.archive.org"
+    ]
+  },
+  "institution": "Coleman Museum",
+  "pdf_url": "https://archive.org/download/ENC.Cookbook/ENC Cookbook 1st Edition.pdf",
+  "location": {
+    "state": "North Dakota"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: North Dakota; Digitized scan available"
+}

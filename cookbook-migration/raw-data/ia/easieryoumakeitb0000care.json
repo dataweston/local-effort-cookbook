@@ -1,0 +1,504 @@
+{
+  "source": "internet_archive",
+  "identifier": "easieryoumakeitb0000care",
+  "title": "The easier you make it, the better it tastes",
+  "creator": "Carey, Jayni",
+  "year": 1994,
+  "subject": "Cooking",
+  "description": [
+    "240 p. : 26 cm",
+    "At head of title on cover: Better homes and gardens",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/easieryoumakeitb0000care"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/easieryoumakeitb0000care"
+        }
+      ]
+    },
+    "created": 1758337245,
+    "d1": "ia904502.us.archive.org",
+    "d2": "ia804502.us.archive.org",
+    "dir": "/33/items/easieryoumakeitb0000care",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659908556",
+        "size": "16218",
+        "md5": "8b854e3a5e38756ce0b525ffd03ea902",
+        "crc32": "520123a8",
+        "sha1": "2332075ea4c63d372ca00843880731cf65554dbd",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "easieryoumakeitb0000care.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "easieryoumakeitb0000care_hocr.html",
+        "mtime": "1755792794",
+        "size": "1550988",
+        "private": "true",
+        "md5": "683c3e83492d2cc50324f9b083aff8f7",
+        "crc32": "7a50df98",
+        "sha1": "f95c5aac547d025cd2fafed066c24f92ceb64e6e"
+      },
+      {
+        "name": "easieryoumakeitb0000care.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "easieryoumakeitb0000care.pdf",
+        "mtime": "1755792718",
+        "size": "27513678",
+        "md5": "3b507342005ea13d7cb14ad1dd602778",
+        "crc32": "8465dcde",
+        "sha1": "7bdb5ed4dbc7575b8f1d7740027bfc7b509e37d5"
+      },
+      {
+        "name": "easieryoumakeitb0000care.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "easieryoumakeitb0000care_page_numbers.json",
+        "mtime": "1720280306",
+        "size": "27019331",
+        "md5": "57e80d235f079c099938875d79b75b12",
+        "crc32": "c56136b0",
+        "sha1": "0fb5d778cd73abcd5f3b666e2f84c871d5ffaff8",
+        "private": "true"
+      },
+      {
+        "name": "easieryoumakeitb0000care_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9182",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "easieryoumakeitb0000care_jp2.zip",
+        "mtime": "1623037942",
+        "size": "3605278",
+        "md5": "1a4306df06eab016b740a9a1609c89f7",
+        "crc32": "a1aaf141",
+        "sha1": "f65adfecf19d643117d0e0b73452570f509cef72",
+        "private": "true"
+      },
+      {
+        "name": "easieryoumakeitb0000care_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "easieryoumakeitb0000care_scandata.xml",
+        "mtime": "1669841299",
+        "size": "787",
+        "md5": "776b1135d197ffc5a9737c68cad43af1",
+        "crc32": "817e8b75",
+        "sha1": "a7815758c4d3f337d93f7f616189d13ffd2bacfe",
+        "private": "true"
+      },
+      {
+        "name": "easieryoumakeitb0000care_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1623031035",
+        "size": "1059",
+        "md5": "f8ef4250dc706f00fc11861b74ba1c5f",
+        "crc32": "43f1489a",
+        "sha1": "13fd44c35003da52ba725b0f9a9bb6f4a0bc9258"
+      },
+      {
+        "name": "easieryoumakeitb0000care_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "easieryoumakeitb0000care_djvu.xml",
+        "mtime": "1623038022",
+        "size": "265734",
+        "md5": "7f508c89e12657d376048b02aa4a91f5",
+        "crc32": "0e7f0194",
+        "sha1": "5b0c8d7d2d693e1581586285640f4b877f14b49f",
+        "private": "true"
+      },
+      {
+        "name": "easieryoumakeitb0000care_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "easieryoumakeitb0000care_hocr.html",
+        "mtime": "1623037988",
+        "size": "3706611",
+        "md5": "df604ae117e0904d09088ea29c65d347",
+        "crc32": "5511bbed",
+        "sha1": "df4c994c6ef40ac20b4b27751918882be66d75f0",
+        "private": "true"
+      },
+      {
+        "name": "easieryoumakeitb0000care_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "easieryoumakeitb0000care.pdf",
+        "mtime": "1720281138",
+        "size": "26957084",
+        "md5": "03d048b5fd9c120d930e1403b8752fb1",
+        "crc32": "2f80a4d0",
+        "sha1": "fad5065353df0026052a87dae975552c8a63439d"
+      },
+      {
+        "name": "easieryoumakeitb0000care_events.json",
+        "source": "original",
+        "mtime": "1623030946",
+        "size": "54",
+        "md5": "ebfe559ee6eb744494237317f8327ed8",
+        "crc32": "b49b93b1",
+        "sha1": "011df74d7fbc730ac1bf7fa3c5a7a481fc7265dd",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "easieryoumakeitb0000care_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "c02f98538bfeca16210a9597cf95b442",
+        "summation": "md5"
+      },
+      {
+        "name": "easieryoumakeitb0000care_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9182",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "easieryoumakeitb0000care_chocr.html.gz",
+        "mtime": "1623037970",
+        "size": "7070832",
+        "md5": "fd776b841bd02df91953f384be1575b3",
+        "crc32": "da37dba3",
+        "sha1": "56222f17eec51704ec20950b92106afa224f5733",
+        "private": "true"
+      },
+      {
+        "name": "easieryoumakeitb0000care_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "easieryoumakeitb0000care_hocr.html",
+        "mtime": "1623037996",
+        "size": "2761",
+        "md5": "8f4b7f9f76d04ea7d1adafc81062fa5c",
+        "crc32": "26386d2c",
+        "sha1": "23d54ef2796be4e7b19b7905f8f7e1d3388ac1f8",
+        "private": "true"
+      },
+      {
+        "name": "easieryoumakeitb0000care_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "742",
+        "word_conf_11_20": "234",
+        "word_conf_21_30": "264",
+        "word_conf_31_40": "287",
+        "word_conf_41_50": "252",
+        "word_conf_51_60": "238",
+        "word_conf_61_70": "264",
+        "word_conf_71_80": "291",
+        "word_conf_81_90": "693",
+        "word_conf_91_100": "41104",
+        "format": "OCR Search Text",
+        "original": "easieryoumakeitb0000care_hocr.html",
+        "mtime": "1623038011",
+        "size": "71967",
+        "md5": "43b9e01846533c9a1bb30075c024437f",
+        "crc32": "b6f9a75c",
+        "sha1": "8aae18886c5d808ac0177071924f5b7be1761e38",
+        "private": "true"
+      },
+      {
+        "name": "easieryoumakeitb0000care_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "easieryoumakeitb0000care_orig_jp2.tar",
+        "mtime": "1623035420",
+        "size": "188592913",
+        "md5": "a1bc374148b456876c7b25684a743c71",
+        "crc32": "c40b28b6",
+        "sha1": "8ed738d8ecc59499260bd30f379e5e1d753282a3",
+        "private": "true",
+        "filecount": "250"
+      },
+      {
+        "name": "easieryoumakeitb0000care_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "easieryoumakeitb0000care.epub",
+        "mtime": "1755793041",
+        "size": "1565640",
+        "md5": "125a965efae4ef1d0295d6096323cf9b",
+        "crc32": "a6df2f03",
+        "sha1": "0f2b801e630323da8f246310154de2c88f1fd8b5"
+      },
+      {
+        "name": "easieryoumakeitb0000care_marc.xml",
+        "source": "original",
+        "mtime": "1622823199",
+        "size": "2693",
+        "md5": "4b7a07a495b6b42ce496a756e2ae04d3",
+        "crc32": "81e0985e",
+        "sha1": "f0ef7641ee4958e3852f9bb124323b9877c9cb31",
+        "format": "MARC"
+      },
+      {
+        "name": "easieryoumakeitb0000care_meta.mrc",
+        "source": "original",
+        "mtime": "1622823190",
+        "size": "836",
+        "md5": "deed68d07cae057a58e4adc14cb83158",
+        "crc32": "a465f6f1",
+        "sha1": "aff39476b53993f79c195b023b2e8b41ccb7e2c9",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "easieryoumakeitb0000care_meta.sqlite",
+        "source": "original",
+        "mtime": "1623031008",
+        "size": "45056",
+        "md5": "c39cf4881df1b6be7a05468800aacf9b",
+        "crc32": "8716849a",
+        "sha1": "9eb524ea477417f3e6714c4d33615e60ea583b5a",
+        "format": "Metadata"
+      },
+      {
+        "name": "easieryoumakeitb0000care_meta.xml",
+        "source": "original",
+        "mtime": "1755793042",
+        "size": "3238",
+        "md5": "233fecd2a8d69ff4623c1d5c2c9304a5",
+        "crc32": "b35a9112",
+        "sha1": "7453be0e99bd091c567eb9a4f1f7660d753ced63",
+        "format": "Metadata"
+      },
+      {
+        "name": "easieryoumakeitb0000care_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1623031006",
+        "size": "420177920",
+        "md5": "7134d8e4d1af82bba484acaf1e3dd22e",
+        "crc32": "691a0619",
+        "sha1": "e17f51d55c23382f64ce39851359a83d4f5d7c58",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "250"
+      },
+      {
+        "name": "easieryoumakeitb0000care_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "9",
+        "format": "Page Numbers JSON",
+        "original": "easieryoumakeitb0000care_hocr.html",
+        "mtime": "1720280306",
+        "size": "42204",
+        "md5": "b7e2b421bc58569bcf7f75076c244994",
+        "crc32": "e7d2cab7",
+        "sha1": "c0a02a81a71605997c95e584b20508952b67cddd",
+        "private": "true"
+      },
+      {
+        "name": "easieryoumakeitb0000care_scandata.xml",
+        "source": "original",
+        "mtime": "1669841299",
+        "size": "270894",
+        "md5": "f416575e609a89af70906cb3462e6e8a",
+        "crc32": "b23e9629",
+        "sha1": "13fa1faf38edf2e5b950a3f136b1b97a67641d47",
+        "format": "Scandata"
+      },
+      {
+        "name": "easieryoumakeitb0000care_slip.png",
+        "source": "original",
+        "mtime": "1622810584",
+        "size": "40700",
+        "md5": "8ddb2bdb83aa9fe3782d34dcb49dffb5",
+        "crc32": "dddbef90",
+        "sha1": "d286db6830641a3a24f2c0ba873e7305deb2ebe0",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "easieryoumakeitb0000care_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "easieryoumakeitb0000care_slip.png",
+        "mtime": "1623031038",
+        "size": "8616",
+        "md5": "4928f104fdf26c312642a1ac20f8d79c",
+        "crc32": "28f666b1",
+        "sha1": "0d23bfcb33f0337940a1652acfdc8dae9fab1c21",
+        "private": "true"
+      },
+      {
+        "name": "easieryoumakeitb0000care_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "easieryoumakeitb0000care_djvu.xml",
+        "mtime": "1669841273",
+        "size": "968",
+        "md5": "098810d985bfba761ac66254278b81bc",
+        "crc32": "9147901e",
+        "sha1": "94f9701f6301748ca056b6e8f78fd69e6af17c9d",
+        "private": "true"
+      },
+      {
+        "name": "logs/easieryoumakeitb0000care_iabdash_2021-06-0500:13:22.log",
+        "source": "original",
+        "mtime": "1622823205",
+        "size": "2016",
+        "md5": "7d93cb77f7385c46deca4429839c32e0",
+        "crc32": "be2c08c7",
+        "sha1": "16df9b9649b9a407ead2848d613a8496078ca850",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/easieryoumakeitb0000care_scanning_2021-06-0500:13:31.log",
+        "source": "original",
+        "mtime": "1622823214",
+        "size": "955235",
+        "md5": "38c8083d2ea9a57a9f02652538930360",
+        "crc32": "fb763f06",
+        "sha1": "6ceee87e5151036239f70c926a7bc4468a550ecf",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/easieryoumakeitb0000care_status_history_2021-06-0500:13:26.log",
+        "source": "original",
+        "mtime": "1622823210",
+        "size": "406",
+        "md5": "4eda21633aa4fbdb352c17434fd8f021",
+        "crc32": "793ffd4c",
+        "sha1": "c9a247f89183c2239c52aa6c5a5381cae3dc7e8e",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1755793042,
+    "item_size": 709491717,
+    "metadata": {
+      "identifier": "easieryoumakeitb0000care",
+      "associated-names": "Carey, Frank",
+      "boxid": "IA40866209",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Carey, Jayni",
+      "date": "1994-01-01",
+      "description": [
+        "240 p. : 26 cm",
+        "At head of title on cover: Better homes and gardens",
+        "Includes index"
+      ],
+      "isbn": "0696020556",
+      "language": "eng",
+      "lccn": "93086602",
+      "mediatype": "texts",
+      "notes": "some texts are cut off due to tight margin",
+      "old_pallet": "IA-NS-0000702",
+      "openlibrary_edition": "OL1447176M",
+      "openlibrary_work": "OL3974809W",
+      "operator": "associate-paula-canillo@archive.org",
+      "publisher": "Des Moines, Iowa : Better Homes and Gardens Books",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station04.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780696020551",
+      "subject": "Cooking",
+      "title": "The easier you make it, the better it tastes",
+      "tts_version": "4.5-initial-62-g5e6e8103",
+      "uploader": "station04.cebu@archive.org",
+      "publicdate": "2021-06-04 12:43:23",
+      "access-restricted-item": "true",
+      "imagecount": "250",
+      "scandate": "20210604172234",
+      "ppi": "360",
+      "republisher_operator": "associate-jeana-galido@archive.org",
+      "republisher_date": "20210607095540",
+      "republisher_time": "506",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/easieryoumakeitb0000care",
+      "identifier-ark": "ark:/13960/t8dg87x50",
+      "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.13",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9182",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "pdf_module_version": "0.0.14",
+      "external-identifier": [
+        "urn:acs6:easieryoumakeitb0000care:pdf:ca847163-e428-454f-81e8-5edb76ba9014",
+        "urn:oclc:record:1280864739",
+        "urn:lcp:easieryoumakeitb0000care:lcpdf:47b6988e-81d3-4167-aedf-1066e3571156",
+        "urn:lcp:easieryoumakeitb0000care:epub:0a90a515-8841-429f-aa0a-fab1b88766ed"
+      ],
+      "addeddate": "2021-06-07 05:00:41",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20210630",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "9",
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "1994-01-01"
+      ]
+    },
+    "server": "ia904502.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40289218"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-03-09 00:26:24.173165"
+        }
+      }
+    },
+    "uniq": 2139680785,
+    "workable_servers": [
+      "ia904502.us.archive.org",
+      "ia804502.us.archive.org"
+    ]
+  }
+}

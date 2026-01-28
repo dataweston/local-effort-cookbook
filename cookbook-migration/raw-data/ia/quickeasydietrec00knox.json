@@ -1,0 +1,523 @@
+{
+  "source": "internet_archive",
+  "identifier": "quickeasydietrec00knox",
+  "title": "Quick & easy diet recipes",
+  "creator": "Knox, Gerald M",
+  "year": 1989,
+  "subject": "Reducing diets",
+  "description": [
+    "At head of title: Better homes and gardens",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/quickeasydietrec00knox"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/quickeasydietrec00knox"
+        }
+      ]
+    },
+    "created": 1758335464,
+    "d1": "ia601404.us.archive.org",
+    "d2": "ia801404.us.archive.org",
+    "dir": "/25/items/quickeasydietrec00knox",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660964475",
+        "size": "17406",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "8f0980f332e8e120971d44117d45ab6d",
+        "crc32": "ac7b233e",
+        "sha1": "d94c2ae3c39f0181890c6e0591dc2c6735855075"
+      },
+      {
+        "name": "quickeasydietrec00knox.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "quickeasydietrec00knox_hocr.html",
+        "mtime": "1753949892",
+        "size": "25132670",
+        "private": "true",
+        "md5": "16d1d771c5d169227810a855dd62ac16",
+        "crc32": "3be56827",
+        "sha1": "4ab59e6214b1f7de8ab5d38fd52176c6bfceafd2"
+      },
+      {
+        "name": "quickeasydietrec00knox.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "quickeasydietrec00knox_jp2.zip",
+        "md5": "5e45ab01c67c59d6ce331fa65a034965",
+        "mtime": "1267733984",
+        "size": "250192",
+        "crc32": "480a5b1d",
+        "sha1": "4fa9919d426c174d1af98ba44c5604e0ff73ae07"
+      },
+      {
+        "name": "quickeasydietrec00knox.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "quickeasydietrec00knox.pdf",
+        "mtime": "1753949435",
+        "size": "17607582",
+        "md5": "8b51d18c823611f022b28cf1ae0d2a0c",
+        "crc32": "6c8c56d3",
+        "sha1": "7b3ec57af509c0e878f0c0f741a7a1c3ef63dcd8"
+      },
+      {
+        "name": "quickeasydietrec00knox.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "quickeasydietrec00knox_page_numbers.json",
+        "mtime": "1720707034",
+        "size": "17272093",
+        "md5": "ab742fb6a3c54a5c5e74138eb8c918af",
+        "crc32": "0763de2f",
+        "sha1": "5c0502ad489a999f617d02daae43f0bba7e32eab",
+        "private": "true"
+      },
+      {
+        "name": "quickeasydietrec00knox_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "quickeasydietrec00knox_jp2.zip",
+        "md5": "e0988fae6e882deecd07b93c764e593b",
+        "mtime": "1267740161",
+        "size": "7091224",
+        "crc32": "50bc2a86",
+        "sha1": "fb974a202167fd350f34ccf30b7b61537a46dc04",
+        "private": "true"
+      },
+      {
+        "name": "quickeasydietrec00knox_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "quickeasydietrec00knox_page_numbers.json",
+        "mtime": "1720707037",
+        "size": "13404045",
+        "md5": "01f2e2b6595bc6e317104045cff8f013",
+        "crc32": "ba5e2f35",
+        "sha1": "a27c9ed582488c354fd322d51d4ab7f9a8edb55e",
+        "private": "true"
+      },
+      {
+        "name": "quickeasydietrec00knox_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "quickeasydietrec00knox_abbyy.gz",
+        "mtime": "1660963878",
+        "size": "5886462",
+        "md5": "cd1e401df70a47c2ee98181bf67d768f",
+        "crc32": "81151da7",
+        "sha1": "7a06a26642135866f23d10627b004a33880c1702",
+        "private": "true"
+      },
+      {
+        "name": "quickeasydietrec00knox_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "quickeasydietrec00knox_scandata.xml",
+        "mtime": "1671048662",
+        "size": "778",
+        "md5": "1ea567437c0b7d40d1891690b534cdff",
+        "crc32": "5c65cdcf",
+        "sha1": "cbbc850e900a23df8b89d30ca1bcbbc9a39cffe9",
+        "private": "true"
+      },
+      {
+        "name": "quickeasydietrec00knox_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "2e5f9b8b626a914e903d256fc23826df",
+        "mtime": "1265822176",
+        "size": "660",
+        "crc32": "23b82dd",
+        "sha1": "7b483a186babd5c212331ea5dddf57b2353a2586"
+      },
+      {
+        "name": "quickeasydietrec00knox_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "quickeasydietrec00knox_djvu.xml",
+        "mtime": "1721780222",
+        "size": "536887",
+        "md5": "c79405326b671493ef88091709346d65",
+        "crc32": "2c49656b",
+        "sha1": "86ab6701178c696ed86278b252d539002e7d1ab6",
+        "private": "true"
+      },
+      {
+        "name": "quickeasydietrec00knox_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "quickeasydietrec00knox_hocr.html",
+        "mtime": "1721780218",
+        "size": "6671957",
+        "md5": "716759accb78405ee481ca6f7ca6d49b",
+        "crc32": "f03aa6c5",
+        "sha1": "101417dd448e72c88ca1dd247ec0c5739ec574b8",
+        "private": "true"
+      },
+      {
+        "name": "quickeasydietrec00knox_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "quickeasydietrec00knox.pdf",
+        "mtime": "1720707316",
+        "size": "17229393",
+        "md5": "6dd4c3e620e84ab59a7580fd9c60defe",
+        "crc32": "3087232d",
+        "sha1": "17274ec3dd3eea84bb92e83914be57e4fc486165"
+      },
+      {
+        "name": "quickeasydietrec00knox_extramarc.xml",
+        "source": "original",
+        "mtime": "1420436042",
+        "size": "2501",
+        "md5": "2cbf1a0857c9d52ed5c8f54f8ca575d2",
+        "crc32": "ae648fe6",
+        "sha1": "fad6cb14975193876ef1772a97ca09067b3e96d7",
+        "format": "Metadata"
+      },
+      {
+        "name": "quickeasydietrec00knox_files.xml",
+        "source": "metadata",
+        "format": "Metadata",
+        "md5": "7c57bb6aaf96ca033cb414deeed8392b",
+        "summation": "md5"
+      },
+      {
+        "name": "quickeasydietrec00knox_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "quickeasydietrec00knox_chocr.html.gz",
+        "mtime": "1660964226",
+        "size": "14131707",
+        "md5": "c753e90bb07c3f93c35eb1a9695afeb1",
+        "crc32": "84417c15",
+        "sha1": "8f10f59262f94931b6ac7db4d5432594763d07c0",
+        "private": "true"
+      },
+      {
+        "name": "quickeasydietrec00knox_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "quickeasydietrec00knox_hocr.html",
+        "mtime": "1660964350",
+        "size": "2976",
+        "md5": "d9482f700b372d4d255fd05008edd883",
+        "crc32": "7a5c09a3",
+        "sha1": "5b5ee7c8eda410c07ea018a0a13b0745b52ba2f3",
+        "private": "true"
+      },
+      {
+        "name": "quickeasydietrec00knox_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "6277",
+        "word_conf_11_20": "3025",
+        "word_conf_21_30": "5918",
+        "word_conf_31_40": "5004",
+        "word_conf_41_50": "9721",
+        "word_conf_51_60": "11378",
+        "word_conf_61_70": "13863",
+        "word_conf_71_80": "9167",
+        "word_conf_81_90": "3397",
+        "word_conf_91_100": "7914",
+        "format": "OCR Search Text",
+        "original": "quickeasydietrec00knox_hocr.html",
+        "mtime": "1660964440",
+        "size": "140769",
+        "md5": "a0a47d777c131bb7c6e45918c017d946",
+        "crc32": "8a43924a",
+        "sha1": "81c2942b733cd285ded1a7f516833a6ad85df4ee",
+        "private": "true"
+      },
+      {
+        "name": "quickeasydietrec00knox_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "quickeasydietrec00knox_orig_jp2.tar",
+        "md5": "a2ff819768e78c3f6c20b59be047c0b4",
+        "mtime": "1267733937",
+        "size": "102176299",
+        "crc32": "be138fab",
+        "sha1": "4425f20abf0607418dff0a5194f07686a6caab90",
+        "private": "true",
+        "filecount": "254"
+      },
+      {
+        "name": "quickeasydietrec00knox_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "quickeasydietrec00knox.epub",
+        "mtime": "1753950288",
+        "size": "25464009",
+        "md5": "0c293b4bbc496fea3e72a58be8b0067d",
+        "crc32": "81e416bd",
+        "sha1": "a0b60327428e340206591b32a3da0ee40aba5302"
+      },
+      {
+        "name": "quickeasydietrec00knox_loans.json",
+        "source": "original",
+        "mtime": "1594326303",
+        "size": "1069",
+        "format": "JSON",
+        "private": "true",
+        "md5": "65747fecbe3b7e6e43824dc9e62f335a",
+        "crc32": "673ca18f",
+        "sha1": "71cd85faae8da1e299f508e98d95f6ec86d9de97"
+      },
+      {
+        "name": "quickeasydietrec00knox_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "b7eaa3afc86c675a57209b97f293051f",
+        "mtime": "1265822176",
+        "size": "4585",
+        "crc32": "bb869e63",
+        "sha1": "f2a174ccb90a891606047fd55a409a06072c26c8"
+      },
+      {
+        "name": "quickeasydietrec00knox_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "quickeasydietrec00knox_xisbn.json",
+        "mtime": "1454741047",
+        "size": "394",
+        "md5": "72125e05817be50dadca161259212d46",
+        "crc32": "0011c843",
+        "sha1": "5fdf6dec0b4c617adabd866926880d35e0b97b57",
+        "private": "true"
+      },
+      {
+        "name": "quickeasydietrec00knox_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "c2f0e06e650ca4aeae355d1a411f8904",
+        "mtime": "1265822176",
+        "size": "1283",
+        "crc32": "eb082ad6",
+        "sha1": "4eab46636f42f0315f92d5286f2fa00da95888de"
+      },
+      {
+        "name": "quickeasydietrec00knox_meta.sqlite",
+        "source": "original",
+        "mtime": "1467399873",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "dfa39835b972861b2da8a23b6acdb8ca",
+        "crc32": "1c0b85b0",
+        "sha1": "366c8e5cadb5fe376face8627f37f433757a9dce"
+      },
+      {
+        "name": "quickeasydietrec00knox_meta.xml",
+        "source": "metadata",
+        "format": "Metadata",
+        "mtime": "1753950289",
+        "size": "3093",
+        "md5": "52056e1274cb30796f577aa9396a001f",
+        "crc32": "9ebcde89",
+        "sha1": "b449daf177c0af1cd90351bc811438ec2be7862a"
+      },
+      {
+        "name": "quickeasydietrec00knox_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "b77da2e0e82e18bc9f813ad7eae26228",
+        "mtime": "1265822176",
+        "size": "404",
+        "crc32": "eb273e8d",
+        "sha1": "21df74f68c4011ab5b39789113af918a7436f46f"
+      },
+      {
+        "name": "quickeasydietrec00knox_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "379e9861b35bef6b33ec48c93c2ce983",
+        "mtime": "1267673157",
+        "size": "216391680",
+        "crc32": "b601e928",
+        "sha1": "f73b2848c6272368fabd127195fd592deeff8701",
+        "private": "true",
+        "filecount": "254"
+      },
+      {
+        "name": "quickeasydietrec00knox_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "quickeasydietrec00knox_hocr.html",
+        "mtime": "1720707034",
+        "size": "42237",
+        "md5": "d1235e42120abfe1be9335293899af85",
+        "crc32": "8ac448cc",
+        "sha1": "3c53b994e0849fe875f030307aa4bb1e5f96448c",
+        "private": "true"
+      },
+      {
+        "name": "quickeasydietrec00knox_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "df2514bfd570a614f5eaf8e5b86fd50f",
+        "mtime": "1671048661",
+        "size": "131876",
+        "crc32": "7530b2fa",
+        "sha1": "37751d61f2243f07c73ff870e3b9deda476a8195"
+      },
+      {
+        "name": "quickeasydietrec00knox_xisbn.json",
+        "source": "original",
+        "mtime": "1454703392",
+        "size": "359",
+        "md5": "d7034dc1753d77b47f8214596eddea18",
+        "crc32": "a6e98eaf",
+        "sha1": "64fc2dc68a304e05caf61ec91a203c8db89db893",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753950289,
+    "item_size": 469602734,
+    "metadata": {
+      "title": "Quick & easy diet recipes",
+      "creator": "Knox, Gerald M",
+      "subject": "Reducing diets",
+      "description": [
+        "At head of title: Better homes and gardens",
+        "Includes index"
+      ],
+      "publisher": "Des Moine, Iowa : Meredith Corp.",
+      "date": "1989-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696017350",
+        "9780696017353"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA111617",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sanfrancisco",
+      "mediatype": "texts",
+      "updatedate": "2010-02-10 17:16:16",
+      "updater": "sf-loaders@archive.org",
+      "identifier": "quickeasydietrec00knox",
+      "uploader": "sf-loaders@archive.org",
+      "addeddate": "2010-02-10 17:16:18",
+      "publicdate": "2010-02-10 17:16:26",
+      "ppi": "400",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-joselyn-consul@archive.org",
+      "scanner": "scribe5.sanfrancisco.archive.org",
+      "scandate": "20100304025857",
+      "imagecount": "252",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/quickeasydietrec00knox",
+      "identifier-ark": "ark:/13960/t23b6pt3g",
+      "bookplateleaf": "0003",
+      "curation": "[curator]kd@archive.org[/curator][date]20100305175748[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:quickeasydietrec00knox:pdf:6c7d6b9d-cefa-413d-b2de-9285849ddd03",
+        "urn:acs6:quickeasydietrec00knox:epub:cf0dafa3-d004-4be6-99cc-acc352b55604",
+        "urn:oclc:record:1036793277",
+        "urn:lcp:quickeasydietrec00knox:lcpdf:ba699d16-7662-4831-8503-95c5e895942c",
+        "urn:lcp:quickeasydietrec00knox:epub:8104828d-4d85-44b3-8ac7-a0f869add30f"
+      ],
+      "boxid_2": "CH111101",
+      "donor": "alibris",
+      "extramarc": "OhioLINK Library Catalog",
+      "city": "Des Moine, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": [
+        "19226636",
+        "704436971",
+        "86009600"
+      ],
+      "lccn": "88060983",
+      "backup_location": "ia903604_29",
+      "openlibrary_edition": "OL2064669M",
+      "openlibrary_work": "OL15163578W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Fri Dec 25 22:16:47 UTC 2020",
+        "Wed Apr 3 12:07:36 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "1989-01-01"
+      ]
+    },
+    "server": "ia801404.us.archive.org",
+    "uniq": 493048337,
+    "workable_servers": [
+      "ia801404.us.archive.org",
+      "ia601404.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/19226636?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "88060983"
+          ],
+          "lang": "eng",
+          "city": "Des Moine, Iowa",
+          "author": "[editor, Gerald M. Knox].",
+          "ed": "1st ed.",
+          "year": "1989",
+          "isbn": [
+            "0696017350"
+          ],
+          "title": "Quick & easy diet recipes",
+          "oclcnum": [
+            "19226636",
+            "704436971",
+            "86009600"
+          ]
+        }
+      ]
+    }
+  }
+}

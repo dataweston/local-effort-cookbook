@@ -1,0 +1,507 @@
+{
+  "source": "internet_archive",
+  "identifier": "hiddenvalleyorig00publ",
+  "title": "Original Ranch favorites",
+  "creator": null,
+  "year": 2003,
+  "subject": "Cooking",
+  "description": [
+    "At head of title: Hidden Valley, the original Ranch",
+    "Cover title"
+  ],
+  "metadata": {
+    "created": 1758556125,
+    "d1": "ia600201.us.archive.org",
+    "d2": "ia800201.us.archive.org",
+    "dir": "/29/items/hiddenvalleyorig00publ",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660149796",
+        "size": "24416",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "22c0e801418eb20183947bbc323b6cfd",
+        "crc32": "dd8eb4fc",
+        "sha1": "4b99415816f02962cf9865ae15cf59a30f3893a9"
+      },
+      {
+        "name": "hiddenvalleyorig00publ.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "hiddenvalleyorig00publ_hocr.html",
+        "mtime": "1756133227",
+        "size": "10521964",
+        "private": "true",
+        "md5": "582c6459d8ccc6a16c665de9e742552b",
+        "crc32": "249fa14a",
+        "sha1": "4039b97982f2b0dff7e0b8c48ffc8ef3daf3d504"
+      },
+      {
+        "name": "hiddenvalleyorig00publ.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "hiddenvalleyorig00publ_jp2.zip",
+        "mtime": "1344946106",
+        "size": "259580",
+        "md5": "7aa1fa22719875ac5bd0c16095ed408e",
+        "crc32": "b67e1f88",
+        "sha1": "07a2ab38706af4421b1c8f0dc9ca6be0415abb72"
+      },
+      {
+        "name": "hiddenvalleyorig00publ.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "hiddenvalleyorig00publ.pdf",
+        "mtime": "1756133051",
+        "size": "4586504",
+        "md5": "71361197b05e122ff85ec72f592d2eae",
+        "crc32": "be54a43b",
+        "sha1": "b28fb3b24a05bc843d8105178df9dcd4e39bf71f"
+      },
+      {
+        "name": "hiddenvalleyorig00publ.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "hiddenvalleyorig00publ_page_numbers.json",
+        "mtime": "1723003322",
+        "size": "4203386",
+        "md5": "a360a2ebb2d60e0b83cb86a4a1e89a91",
+        "crc32": "80d9fde5",
+        "sha1": "2830dab5107bd29743998aebf21eb6b88ddcdf7d",
+        "private": "true"
+      },
+      {
+        "name": "hiddenvalleyorig00publ.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1334953603",
+        "size": "441052",
+        "md5": "72f29cc375722ca5c17307d7ff94876f",
+        "crc32": "2e5cea39",
+        "sha1": "9225947c67e50c0dfc09836f9dbbdbfed25844ed"
+      },
+      {
+        "name": "hiddenvalleyorig00publ.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "hiddenvalleyorig00publ.warc.gz",
+        "mtime": "1344945356",
+        "size": "5782",
+        "md5": "e2e81541da169f478c5aa011f98c72a4",
+        "crc32": "047729e4",
+        "sha1": "d226baeda0d86d5cfdaadd1c09dc01e5c06c6f62",
+        "private": "true"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "hiddenvalleyorig00publ_jp2.zip",
+        "mtime": "1344946327",
+        "size": "272896",
+        "md5": "8ba9c839078877f364411c5c79261c57",
+        "crc32": "5582d12c",
+        "sha1": "8f67fd3337864d9b63c75857e1ab3e5b68d5b6be",
+        "private": "true"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "hiddenvalleyorig00publ_abbyy.gz",
+        "mtime": "1660149302",
+        "size": "223374",
+        "md5": "11f5b76c2af83b5dcd005176463c49bf",
+        "crc32": "bc7abbf1",
+        "sha1": "ed8cd39699954670ed78eadc359006c931594b1b",
+        "private": "true"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "2.1.4",
+        "format": "Cloth Cover Detection Log",
+        "original": "hiddenvalleyorig00publ_scandata.xml",
+        "mtime": "1723002649",
+        "size": "1493",
+        "md5": "535dbb230238a7da2caf2670cafd7457",
+        "crc32": "7f43e117",
+        "sha1": "1832b295de5bf12d6700aaf60aa4638496a30abc",
+        "private": "true"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1506237925",
+        "size": "963",
+        "md5": "da94b910ac9729b07390117e965782dd",
+        "crc32": "0f5e3dff",
+        "sha1": "d5bca6c6b32037a535f0cbac367010c1227848ec"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "hiddenvalleyorig00publ_djvu.xml",
+        "mtime": "1723003407",
+        "size": "19660",
+        "md5": "f4132b88dba8d4808608c8ed24717c3c",
+        "crc32": "e5b47f39",
+        "sha1": "006bdb8d2d91a091040fa9dff38611f364f5a5bc",
+        "private": "true"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "hiddenvalleyorig00publ_hocr.html",
+        "mtime": "1723002201",
+        "size": "254648",
+        "md5": "0f6085ff40e86bc8b5ff089c8c5423ec",
+        "crc32": "2c88bc14",
+        "sha1": "16c2c83e6c4eb7fcc02495fcd96791129582d5ec",
+        "private": "true"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "hiddenvalleyorig00publ.pdf",
+        "mtime": "1723003411",
+        "size": "4195244",
+        "md5": "d702d19c765174a3da2e6b05605ef128",
+        "crc32": "35a39a4d",
+        "sha1": "0e64965a711597d618f9c0b2db9351fde2d76b11"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "be15b7cfb0f8ae141baf4b52b3a428c0",
+        "summation": "md5"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "hiddenvalleyorig00publ_chocr.html.gz",
+        "mtime": "1660149499",
+        "size": "505913",
+        "md5": "510b7daf27e21497f95c47dda3e23153",
+        "crc32": "49948d07",
+        "sha1": "57b9de03c9db8c714c55aa9ba3d30b6339258845",
+        "private": "true"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "hiddenvalleyorig00publ_hocr.html",
+        "mtime": "1660149621",
+        "size": "344",
+        "md5": "db99ca4769d06d9d9a8338e81ccb28be",
+        "crc32": "80e37dda",
+        "sha1": "7b2db98eab61d7c84b6f441b902ff10fb48bd8e9",
+        "private": "true"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "297",
+        "word_conf_11_20": "217",
+        "word_conf_21_30": "339",
+        "word_conf_31_40": "279",
+        "word_conf_41_50": "354",
+        "word_conf_51_60": "445",
+        "word_conf_61_70": "370",
+        "word_conf_71_80": "199",
+        "word_conf_81_90": "98",
+        "word_conf_91_100": "167",
+        "format": "OCR Search Text",
+        "original": "hiddenvalleyorig00publ_hocr.html",
+        "mtime": "1660149727",
+        "size": "5980",
+        "md5": "c3ec96db2cb1fe052e0b0c29a277ee9d",
+        "crc32": "de090b60",
+        "sha1": "8206dcf4a602c27547f52a2d4e8311ad7f11c420",
+        "private": "true"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "hiddenvalleyorig00publ_orig_jp2.tar",
+        "mtime": "1344946030",
+        "size": "13523285",
+        "md5": "bc017d07c061bafb4479e3515f6c2389",
+        "crc32": "019edf00",
+        "sha1": "e80e3d9f0e9a10d128bf4d9415c628e10a615381",
+        "private": "true",
+        "filecount": "34"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "hiddenvalleyorig00publ.epub",
+        "mtime": "1756133537",
+        "size": "10578640",
+        "md5": "56267426fb45f1dbb306a29b04cddbb2",
+        "crc32": "f9c16019",
+        "sha1": "119dc22863be50d2aadcdde2e6b7351ab30a227d"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_loans.json",
+        "source": "original",
+        "mtime": "1593670386",
+        "size": "1504",
+        "format": "JSON",
+        "private": "true",
+        "md5": "43bb6671c0142295cd0aa4fa8c79ce10",
+        "crc32": "09124dbe",
+        "sha1": "fa329752c45571dfeaf7b3f45e388b3422ad4616"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1506237924",
+        "size": "3035",
+        "md5": "9fc0da752df7af5479d240075a64c4c2",
+        "crc32": "0f791fc9",
+        "sha1": "3c066c1861140ceb7cad2aea3700f2bb2ed79f44"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "hiddenvalleyorig00publ_xisbn.json",
+        "mtime": "1454522756",
+        "size": "244",
+        "md5": "fb15d398c57a3387dee02951b7ccd940",
+        "crc32": "8fd610ba",
+        "sha1": "4cc6f58d54f1ea9d85e18b29fc8bc92c2db20f8c",
+        "private": "true"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454522754",
+        "size": "848",
+        "md5": "a92eb9f4ed3fa1f73bf913469f898670",
+        "crc32": "3f8ad269",
+        "sha1": "9bb3e59bca5c0d6ba0e19079707aab96b3c171c0"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_meta.sqlite",
+        "source": "original",
+        "mtime": "1466167241",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "f6586a99570a588de3c5ada9ff0220c2",
+        "crc32": "4d648d56",
+        "sha1": "eb0e219e96448dca874568172335a97bf4f2a4f8"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1756133538",
+        "size": "3209",
+        "md5": "147bf61cd7de2858b84c69a1fdd96d25",
+        "crc32": "a2dc5039",
+        "sha1": "5cee54d16036c8df11a67dd4a1a559ff6fbd4835"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1334953603",
+        "size": "295",
+        "md5": "d51cbbe0c12d6344918763028c3e4ee3",
+        "crc32": "40ab5317",
+        "sha1": "4a59fda6d9bc61f12892e89fb783f7467b047296"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1344317546",
+        "size": "23726080",
+        "md5": "737197873d78198e26305102c0e8bd83",
+        "crc32": "38f73576",
+        "sha1": "8335fb018b7a4acfb127e430908a04abb2987295",
+        "private": "true",
+        "filecount": "34"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "hiddenvalleyorig00publ_hocr.html",
+        "mtime": "1723002342",
+        "size": "5558",
+        "md5": "4e29d51ef93b4f0bcf46c0b62f854ed8",
+        "crc32": "4a99d99c",
+        "sha1": "e25aaa9b2aa78e4a83257b043c3196e0fca4b824",
+        "private": "true"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1723002649",
+        "size": "45238",
+        "md5": "a103251de90bee11ee44c47ff4d92aea",
+        "crc32": "2fe8cf22",
+        "sha1": "d068d760b7616ad0a7f988650f561dc163f662ee"
+      },
+      {
+        "name": "hiddenvalleyorig00publ_xisbn.json",
+        "source": "original",
+        "mtime": "1454522282",
+        "size": "258",
+        "md5": "8a6d85ae163a73b9e6bd33ab11230282",
+        "crc32": "8f1aa0a8",
+        "sha1": "f1e67b692434cca080d3f25f859ffabdab20e7a5",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1756133538,
+    "item_size": 73417537,
+    "metadata": {
+      "publisher": "Lincolnwood, IL : LW Press",
+      "title": "Original Ranch favorites",
+      "isbn": [
+        "1412720702",
+        "9781412720700"
+      ],
+      "language": "eng",
+      "date": "2003-01-01",
+      "openlibrary": "OL8432580M",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-04-20 20:26:37",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "F0119",
+      "boxid": "IA129419",
+      "identifier": "hiddenvalleyorig00publ",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2012-04-20 20:26:45",
+      "publicdate": "2012-04-20 20:26:48",
+      "scanner": "scribe22.shenzhen.archive.org",
+      "repub_seconds": "236740",
+      "ppi": "500",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-roy@archive.org",
+      "scandate": "20120719225051",
+      "republisher": "scanner-shenzhen-sun@archive.org",
+      "imagecount": "34",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/hiddenvalleyorig00publ",
+      "identifier-ark": "ark:/13960/t9863qc4h",
+      "scanfee": "150",
+      "donor": "alibris",
+      "sponsordate": "not to be invoiced-past billing period",
+      "external-identifier": [
+        "urn:acs6:hiddenvalleyorig00publ:pdf:968b1c55-f9fc-452c-8434-45fae2c51dc2",
+        "urn:acs6:hiddenvalleyorig00publ:epub:1822fabf-28f8-499b-84d0-4e5d3fb5d381",
+        "urn:oclc:record:1035621093",
+        "urn:lcp:hiddenvalleyorig00publ:lcpdf:fd6c9240-8fd6-4492-ba8a-000aeb10ca40",
+        "urn:lcp:hiddenvalleyorig00publ:epub:4f478505-c548-400a-98c1-3c9d567e63a0"
+      ],
+      "description": [
+        "At head of title: Hidden Valley, the original Ranch",
+        "Cover title"
+      ],
+      "city": "Lincolnwood, IL",
+      "oclc-id": "57237438",
+      "backup_location": "ia903802_4",
+      "subject": "Cooking",
+      "republisher_operator": "scanner-shenzhen-king@archive.org;scanner-shenzhen-sun@archive.org",
+      "republisher_date": "20120807053139",
+      "openlibrary_edition": "OL8432580M",
+      "openlibrary_work": "OL18163365W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "filesxml": "Wed Apr 3 4:24:34 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia600201.us.archive.org",
+    "uniq": 194865850,
+    "workable_servers": [
+      "ia600201.us.archive.org",
+      "ia800201.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "publisher": "LW Press",
+          "url": [
+            "http://www.worldcat.org/oclc/57237438?referer=xid"
+          ],
+          "form": [
+            "BB"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "2003",
+          "isbn": [
+            "1412720702"
+          ],
+          "title": "Original Ranch favorites.",
+          "oclcnum": [
+            "57237438"
+          ]
+        }
+      ]
+    }
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

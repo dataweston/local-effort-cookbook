@@ -1,0 +1,480 @@
+{
+  "source": "internet_archive",
+  "identifier": "storyofhowwebeca0000unse",
+  "title": "The story of how we became One",
+  "creator": null,
+  "year": 2008,
+  "subject": [
+    "Penzeys one",
+    "Cooking, American",
+    "Spices",
+    "Cooking, American -- Anecdotes"
+  ],
+  "description": [
+    "384 pages : 28 cm",
+    "Includes indexes"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/storyofhowwebeca0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/storyofhowwebeca0000unse"
+        }
+      ]
+    },
+    "created": 1758558606,
+    "d1": "ia902808.us.archive.org",
+    "d2": "ia802808.us.archive.org",
+    "dir": "/28/items/storyofhowwebeca0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661127096",
+        "size": "19670",
+        "md5": "5a7c2e967dc49bddb8bf1d552f4d114b",
+        "crc32": "6829700e",
+        "sha1": "d514af9641780ccf1b6ea40db5a1461e2f2d5a11",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/storyofhowwebeca0000unse_iabdash_2020-01-0301:36:36.log",
+        "source": "original",
+        "mtime": "1577986600",
+        "size": "1344",
+        "md5": "7930f9f2880e1e6969b7e9d8ba8eaf26",
+        "crc32": "010a0b51",
+        "sha1": "dc18b6067a7da6949bca9df2cac9504f4f901eac",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/storyofhowwebeca0000unse_scanning_2020-01-0301:36:41.log",
+        "source": "original",
+        "mtime": "1577986606",
+        "size": "1201299",
+        "md5": "156c3dfb6a350485216a55163c49ba57",
+        "crc32": "c58118ee",
+        "sha1": "12ae29f030764378135ea15baca22f42ab540655",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "storyofhowwebeca0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "storyofhowwebeca0000unse_hocr.html",
+        "mtime": "1754084409",
+        "size": "250280886",
+        "private": "true",
+        "md5": "510dc282bbc4956112673a9e909cc8e4",
+        "crc32": "d825ada3",
+        "sha1": "8fbd35defa0b9f02e297cfe0c3fe0a51cb8b2096"
+      },
+      {
+        "name": "storyofhowwebeca0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "storyofhowwebeca0000unse.pdf",
+        "mtime": "1754083852",
+        "size": "42503168",
+        "md5": "fe18cc5862aad2d3eaf0000c6dc5c7d9",
+        "crc32": "610b6ca7",
+        "sha1": "bd95b60a5a9e5d4e09fbdb2121e1751d4dd2b5e7"
+      },
+      {
+        "name": "storyofhowwebeca0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "storyofhowwebeca0000unse_page_numbers.json",
+        "mtime": "1724571701",
+        "size": "42094854",
+        "md5": "d572ca69ec5978f3b9569605ef41a1a0",
+        "crc32": "8826d57e",
+        "sha1": "22fe947c25fcdb9ec68e2c56b1ed7f42a0a80147",
+        "private": "true"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "storyofhowwebeca0000unse_jp2.zip",
+        "mtime": "1578581204",
+        "size": "10940827",
+        "md5": "117752d14f50aa9e9e5d592ab496b30b",
+        "crc32": "4ca7fbdd",
+        "sha1": "c4901941647a366407a8229da838b8c376d57f0c",
+        "private": "true"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "storyofhowwebeca0000unse_abbyy.gz",
+        "mtime": "1661126459",
+        "size": "9347181",
+        "md5": "54ebfba5d5d7c3d1e34a4007962a7ee2",
+        "crc32": "ecc5ff5d",
+        "sha1": "41aff0c5751ecf4250dba1fd7ec83211a03ca54c",
+        "private": "true"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "storyofhowwebeca0000unse_scandata.xml",
+        "mtime": "1671358658",
+        "size": "789",
+        "md5": "f2f95e834016a7539504808ccb3cf192",
+        "crc32": "082b6e2a",
+        "sha1": "241bbfac83759cf740098becb050db2742d3c704",
+        "private": "true"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1661126354",
+        "size": "1413",
+        "md5": "d5f26ce39eae10009b107793fed175d1",
+        "crc32": "f8437a09",
+        "sha1": "5783ffab3bc6995fd9f8e552f04045f3d17cb23c"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "storyofhowwebeca0000unse_djvu.xml",
+        "mtime": "1661127084",
+        "size": "862704",
+        "md5": "303351cb7a17b65c7cf61dd1d95ddb3c",
+        "crc32": "101e39a4",
+        "sha1": "42826ffdf9d7c14d793d123f6989b507014499b4",
+        "private": "true"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "storyofhowwebeca0000unse_hocr.html",
+        "mtime": "1661126740",
+        "size": "10829023",
+        "md5": "b1a59fea7dbb093e45a347eefb7ffe74",
+        "crc32": "9fb9b73f",
+        "sha1": "c595cf51586cba84df31a299b4f4b233060bcfc4",
+        "private": "true"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "storyofhowwebeca0000unse_abbyy.gz",
+        "mtime": "1578581354",
+        "size": "22997879",
+        "md5": "9d3b7dedb9653fc9dabc003ea6c3685e",
+        "crc32": "b0387263",
+        "sha1": "b8f15d0e6a596366023fddf4ed7e6ee8235941c1"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "storyofhowwebeca0000unse.pdf",
+        "mtime": "1724572411",
+        "size": "41796507",
+        "md5": "7d8617cdd0da6e2517d3c6a6e814becc",
+        "crc32": "07ea3871",
+        "sha1": "3b342ca3e1fb16c1b48e5745a2747cd6653e997f"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_events.json",
+        "source": "original",
+        "mtime": "1578570901",
+        "size": "58",
+        "md5": "520a0cc1d194f6552c7718cf17962148",
+        "crc32": "b95c2b7a",
+        "sha1": "ecb84c70bf45c1b0524940fed924b25a7373e1cc",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "616a3d74018d341b75e598b5cb1661d8",
+        "summation": "md5"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "storyofhowwebeca0000unse_chocr.html.gz",
+        "mtime": "1661126715",
+        "size": "22459073",
+        "md5": "c7dc923b71b637c99c272619b7fbf5be",
+        "crc32": "d3a259dc",
+        "sha1": "1c270e5b7611ceb77b10e8aa15988b43ecd4ab36",
+        "private": "true"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "storyofhowwebeca0000unse_hocr.html",
+        "mtime": "1661126806",
+        "size": "4650",
+        "md5": "b67dba0a46f19dc7af3e830fd7a65ee8",
+        "crc32": "2dc39293",
+        "sha1": "24ae80748c5ff2870389f3c0f64f22cc5767f4a7",
+        "private": "true"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2211",
+        "word_conf_11_20": "799",
+        "word_conf_21_30": "1078",
+        "word_conf_31_40": "1331",
+        "word_conf_41_50": "1904",
+        "word_conf_51_60": "3042",
+        "word_conf_61_70": "5933",
+        "word_conf_71_80": "11587",
+        "word_conf_81_90": "20960",
+        "word_conf_91_100": "82693",
+        "format": "OCR Search Text",
+        "original": "storyofhowwebeca0000unse_hocr.html",
+        "mtime": "1661127062",
+        "size": "290910",
+        "md5": "810e9bc108a5015f04a8c4476497d96b",
+        "crc32": "621dd8d2",
+        "sha1": "1429effddec425774653b1e72559d88a9bed91ca",
+        "private": "true"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "storyofhowwebeca0000unse_orig_jp2.tar",
+        "mtime": "1578578749",
+        "size": "355190231",
+        "md5": "6baa7eb76d83c749c4775b368d789191",
+        "crc32": "724fa51b",
+        "sha1": "c4bfb17f47d9f297fefa4495b4b341c6ccef4a88",
+        "private": "true",
+        "filecount": "394"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "storyofhowwebeca0000unse.epub",
+        "mtime": "1754084693",
+        "size": "251126520",
+        "md5": "42fe0512d8b5904d1c886ad853f8d5c7",
+        "crc32": "dad06b92",
+        "sha1": "8de0bfcbcd139a13ce4f72bcef52b79ce0783dec"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1661126353",
+        "size": "4833",
+        "format": "MARC",
+        "md5": "b3feae2c92f18472314f401e22d84f82",
+        "crc32": "b867c1e1",
+        "sha1": "f9145714abf657f6eead9502b55ed8ab7ecf13a0"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1577986594",
+        "size": "1374",
+        "md5": "e5501ac832afdc47d6f5b068e2661dbb",
+        "crc32": "a240d683",
+        "sha1": "4635c4bc29035f92294698947073aa6a0bcc1a6a",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1578570999",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "0209b684ccf11bb7b19db6b5f7fd95b1",
+        "crc32": "6911bb39",
+        "sha1": "71e7df0b441032e664fa79974f0fce4bed913490"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1754084694",
+        "size": "3221",
+        "format": "Metadata",
+        "md5": "e0681386e5c189527c1cd4e0c1e12a98",
+        "crc32": "02272c84",
+        "sha1": "e8451f7e7a13601d88f07c474dfd49a0771fbeed"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1578570999",
+        "size": "699002880",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "a1fad206b2dff8690211685552bc3541",
+        "crc32": "d9ef3b25",
+        "sha1": "4b9f6644434c343357951335853e83a48173a362",
+        "filecount": "394"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "storyofhowwebeca0000unse_hocr.html",
+        "mtime": "1724571701",
+        "size": "66732",
+        "md5": "6aa638591e4605c4ae9fbe78f582e56c",
+        "crc32": "e7e78207",
+        "sha1": "31d3fcc53610c1c68978f4e750cbf4a592046b90",
+        "private": "true"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671358658",
+        "size": "402464",
+        "format": "Scandata",
+        "md5": "4bf95acd0be6d31e51022afe0d2cf61f",
+        "crc32": "efe0b5e4",
+        "sha1": "7bbe04ebf2eb1035e5a3717be58ed950df0e9800"
+      },
+      {
+        "name": "storyofhowwebeca0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "storyofhowwebeca0000unse_djvu.xml",
+        "mtime": "1671358567",
+        "size": "621",
+        "md5": "525bcf1782178b255634e9a2d5ed37cf",
+        "crc32": "751f9601",
+        "sha1": "241914d419b6a078952e136fdb3557044029879a",
+        "private": "true"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1754084694,
+    "item_size": 1761448519,
+    "metadata": {
+      "identifier": "storyofhowwebeca0000unse",
+      "associated-names": "Penzey, Bill; Penzeys",
+      "boxid": "IA1757504",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2008-01-01",
+      "description": [
+        "384 pages : 28 cm",
+        "Includes indexes"
+      ],
+      "isbn": [
+        "9780982054802",
+        "0982054807"
+      ],
+      "language": "eng",
+      "lccn": "2009278853",
+      "mediatype": "texts",
+      "old_pallet": "IA17333",
+      "openlibrary_edition": "OL26181866M",
+      "openlibrary_work": "OL17578717W",
+      "operator": "associate-rowella-baroro@archive.org",
+      "ppi": "300",
+      "publisher": "Wauwatosa, WI : Kitchen Table Communications/Penzeys One",
+      "repub_state": "19",
+      "scanner": "station28.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780982054802",
+      "subject": [
+        "Penzeys one",
+        "Cooking, American",
+        "Spices",
+        "Cooking, American -- Anecdotes"
+      ],
+      "title": "The story of how we became One",
+      "tts_version": "3.3-initial-48-g3d6bf5d",
+      "uploader": "station28.cebu@archive.org",
+      "publicdate": "2020-01-02 17:36:14",
+      "access-restricted-item": "true",
+      "imagecount": "394",
+      "scandate": "20200102190240",
+      "notes": "Cut-off text due to tight binding and margin.<br />",
+      "republisher_operator": "associate-marycris-avenido@archive.org;associate-louiseviktoria-saligumba@archive.org;associate-mariejoy-gelves@archive.org;associate-jhonreb-magallon@archive.org",
+      "republisher_date": "20200109195450",
+      "republisher_time": "3946",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/storyofhowwebeca0000unse",
+      "identifier-ark": "ark:/13960/t3813cs3w",
+      "external-identifier": [
+        "urn:acs6:storyofhowwebeca0000unse:epub:6cd6d8e6-467d-440b-abab-7d5df442317a",
+        "urn:acs6:storyofhowwebeca0000unse:pdf:53da7e34-9bf4-4eeb-aeea-211f9e1f6ae0",
+        "urn:lcp:storyofhowwebeca0000unse:lcpdf:e96171f1-75ec-463e-ad62-c42c22df028c",
+        "urn:lcp:storyofhowwebeca0000unse:epub:639d56e2-fef5-42a4-b11a-663b6c555204"
+      ],
+      "addeddate": "2020-01-09 16:01:14",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20200131",
+      "backup_location": "ia907100_28",
+      "oclc-id": "311542199",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia802808.us.archive.org",
+    "uniq": 2020836647,
+    "workable_servers": [
+      "ia802808.us.archive.org",
+      "ia902808.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

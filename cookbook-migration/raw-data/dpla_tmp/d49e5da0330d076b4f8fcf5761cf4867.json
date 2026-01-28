@@ -1,0 +1,96 @@
+{
+  "source": "dpla",
+  "id": "d49e5da0330d076b4f8fcf5761cf4867",
+  "identifier": "d49e5da0330d076b4f8fcf5761cf4867",
+  "title": "Recipes: 1968",
+  "subject": [],
+  "spatial": [
+    "San Angelo, Tom Green County, Texas"
+  ],
+  "description": "A book of recipes published by the San Angelo Pharmaceutical and Drug Traveler's Wives Association.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/301",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "year": 1968,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/d49e5da0330d076b4f8fcf5761cf4867#SourceResource",
+      "collection": [
+        {
+          "title": "DeGolyer Library Cookbook Collection"
+        }
+      ],
+      "creator": [
+        "San Angelo Pharmaceutical and Drug Traveler's Wives Association (San Angelo, Tex.)"
+      ],
+      "date": [
+        {
+          "begin": "1968",
+          "displayDate": "1968",
+          "end": "1968"
+        }
+      ],
+      "description": [
+        "A book of recipes published by the San Angelo Pharmaceutical and Drug Traveler's Wives Association."
+      ],
+      "identifier": [
+        "TX715 .R445 1968"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "DeGolyer Library"
+      ],
+      "rights": [
+        "This item may be protected by copyright law. Please cite DeGolyer Library, Southern Methodist University as the source of this file. For more information, contact degolyer@smu.edu."
+      ],
+      "spatial": [
+        {
+          "name": "San Angelo, Tom Green County, Texas"
+        }
+      ],
+      "title": [
+        "Recipes: 1968"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1968-01-01",
+      "normalized_dates": [
+        "1968-01-01"
+      ],
+      "date_range": {
+        "begin": "1968-01-01",
+        "end": "1968-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/301",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/301"
+  },
+  "location": {
+    "state": "Ia",
+    "county": "Green County"
+  },
+  "curation": {
+    "score": 9,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Methodist"
+    ]
+  },
+  "curation_notes": "County match: Green County; Community markers: Methodist; Digitized scan available"
+}

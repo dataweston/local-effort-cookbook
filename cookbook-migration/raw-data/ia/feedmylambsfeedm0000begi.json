@@ -1,0 +1,500 @@
+{
+  "source": "internet_archive",
+  "identifier": "feedmylambsfeedm0000begi",
+  "title": "Feed my lambs, feed my sheep : meals and memories of a lifetime",
+  "creator": "Begin, Nadine",
+  "year": 2009,
+  "subject": [
+    "Begin, Nadine",
+    "Cooking"
+  ],
+  "description": [
+    "117 pages : 25 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/feedmylambsfeedm0000begi"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/feedmylambsfeedm0000begi"
+        }
+      ]
+    },
+    "created": 1758555218,
+    "d1": "ia902907.us.archive.org",
+    "d2": "ia802907.us.archive.org",
+    "dir": "/33/items/feedmylambsfeedm0000begi",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660003175",
+        "size": "10667",
+        "md5": "738916870b6f3e4dd74cf12d23c594aa",
+        "crc32": "20945bde",
+        "sha1": "964fdf1caabf3a4a46246370f93a4669955a7d27",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "feedmylambsfeedm0000begi_hocr.html",
+        "mtime": "1755934798",
+        "size": "443250",
+        "private": "true",
+        "md5": "703f66f01f4c7edad7c171a01d670b6e",
+        "crc32": "abd99675",
+        "sha1": "91e47762dbf865b6b80876d2e97914d47933946c"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "feedmylambsfeedm0000begi.pdf",
+        "mtime": "1755934669",
+        "size": "10938611",
+        "md5": "a955e99b9efefa590bc427a97a2ae487",
+        "crc32": "c2dc66fe",
+        "sha1": "ecc3b089c0773254e439c193e1e8d39b7e4d2c75"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "feedmylambsfeedm0000begi_page_numbers.json",
+        "mtime": "1721917789",
+        "size": "10811828",
+        "md5": "c994347e902ae9b2938d61e2629b5b0f",
+        "crc32": "04d06b37",
+        "sha1": "287d4769c1f1fcefaf1364eecda5c46171a60c8d",
+        "private": "true"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-rc1-12-g88b4",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "feedmylambsfeedm0000begi_jp2.zip",
+        "mtime": "1636367379",
+        "size": "2740286",
+        "md5": "e43514b1a4e55e7954f2f027794bbfb2",
+        "crc32": "df05e3e7",
+        "sha1": "a251aa5e0ff69dafdf8b84ebbb0d17760fdc41c6",
+        "private": "true"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "feedmylambsfeedm0000begi_scandata.xml",
+        "mtime": "1669968635",
+        "size": "789",
+        "md5": "39851e3df6dc43204455313a7439e2bd",
+        "crc32": "05448e6c",
+        "sha1": "1947226e2d8307f61720d9552c5d982b1cb93b7c",
+        "private": "true"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1636362352",
+        "size": "785",
+        "md5": "b733944b574b1f9a74026e17cf1dc263",
+        "crc32": "96b9edb2",
+        "sha1": "e2baba07c212c8304c67feb67ad12406afe5b81b"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "feedmylambsfeedm0000begi_djvu.xml",
+        "mtime": "1636367458",
+        "size": "202820",
+        "md5": "06860fcef5d4b9bdac79f9fcb2f5c38b",
+        "crc32": "b0e5a105",
+        "sha1": "a2ac309d4e6ee2317f5becf1fd942297ba324347",
+        "private": "true"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "feedmylambsfeedm0000begi_hocr.html",
+        "mtime": "1636367424",
+        "size": "2881159",
+        "md5": "f1b0ec6df9f76a24e9ce46096651ec12",
+        "crc32": "fd3c0360",
+        "sha1": "d1bebe7a488bd757f1d7775aedeff0bd6c1a5c05",
+        "private": "true"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "feedmylambsfeedm0000begi.pdf",
+        "mtime": "1721918369",
+        "size": "10778679",
+        "md5": "61bfee1db204c8df97c439ef97054aec",
+        "crc32": "e7423109",
+        "sha1": "91f4ad434a0de22b6e029925ceba203c5c847df6"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_events.json",
+        "source": "original",
+        "mtime": "1636362182",
+        "size": "59",
+        "md5": "8ca087518cb6a390d0178c8d0851d327",
+        "crc32": "578c10d8",
+        "sha1": "71830f9a6e0cf9267eb6153b904bfaa903a873e2",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "1069321d4d8aab7c260a1781d212f47b",
+        "summation": "md5"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "feedmylambsfeedm0000begi_chocr.html.gz",
+        "mtime": "1636367406",
+        "size": "5657349",
+        "md5": "1e7f0f4612a2412163f6f7f190dd4b7c",
+        "crc32": "51fe165d",
+        "sha1": "975a149be087f59e8e09a4a0daa4a90827cd86bc",
+        "private": "true"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "feedmylambsfeedm0000begi_hocr.html",
+        "mtime": "1636367433",
+        "size": "1536",
+        "md5": "986a3cd859f220774edf94f58165b2f8",
+        "crc32": "5deb7a12",
+        "sha1": "b69c50bae662da0caf29e22ffd51892713fd5e02",
+        "private": "true"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "315",
+        "word_conf_11_20": "128",
+        "word_conf_21_30": "128",
+        "word_conf_31_40": "203",
+        "word_conf_41_50": "190",
+        "word_conf_51_60": "155",
+        "word_conf_61_70": "164",
+        "word_conf_71_80": "279",
+        "word_conf_81_90": "725",
+        "word_conf_91_100": "32035",
+        "format": "OCR Search Text",
+        "original": "feedmylambsfeedm0000begi_hocr.html",
+        "mtime": "1636367449",
+        "size": "71090",
+        "md5": "a4675429db7ae59c01fd4562aee3a3f4",
+        "crc32": "d88eb4cb",
+        "sha1": "c8829e9f19f736e3f1675ffa1f0e973254aaf287",
+        "private": "true"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "feedmylambsfeedm0000begi_orig_jp2.tar",
+        "mtime": "1636366036",
+        "size": "64570207",
+        "md5": "c99e42b90197cb32a716d88936dfed7f",
+        "crc32": "6bdc74c8",
+        "sha1": "9fbacf200ac94242944b4d2f21a3aacd32233a2c",
+        "private": "true",
+        "filecount": "134"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "feedmylambsfeedm0000begi.epub",
+        "mtime": "1755935456",
+        "size": "453511",
+        "md5": "fd83bb8508e7ac8d16e1afd860d527c6",
+        "crc32": "30c60447",
+        "sha1": "a98de23856a82bc0b2c488f91b745375cef84014"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_marc.xml",
+        "source": "original",
+        "mtime": "1635894369",
+        "size": "3346",
+        "md5": "84ea785cff624a2eb3cb8a80eb0f5667",
+        "crc32": "b1e0e22b",
+        "sha1": "13c07553c4329d7c56d811a7be1b00472364c916",
+        "format": "MARC"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_meta.mrc",
+        "source": "original",
+        "mtime": "1635894361",
+        "size": "945",
+        "md5": "d2986e5f9402acd956eb467acb9154d1",
+        "crc32": "f0d1b17f",
+        "sha1": "14cc9337e47c61648333cf25622dc16b982a38e2",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_meta.sqlite",
+        "source": "original",
+        "mtime": "1636362335",
+        "size": "45056",
+        "md5": "c7aae7f03656df92311521fcba3e2fb8",
+        "crc32": "edcefb24",
+        "sha1": "35c114dc9278022aa50825265a4d10ec6977251c",
+        "format": "Metadata"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_meta.xml",
+        "source": "original",
+        "mtime": "1755935465",
+        "size": "3096",
+        "md5": "de2be7866567f2af3ea9dec3b2a90ab9",
+        "crc32": "53272662",
+        "sha1": "02043bd1c9ece17cddf09832915fd490d8b039fd",
+        "format": "Metadata"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1636362334",
+        "size": "164874240",
+        "md5": "cac1230c61333657511141dd7323fbb3",
+        "crc32": "b2bf159b",
+        "sha1": "15d75e98393e620077802f50dd66bc9d8b50f2ec",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "134"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "50",
+        "format": "Page Numbers JSON",
+        "original": "feedmylambsfeedm0000begi_hocr.html",
+        "mtime": "1721917786",
+        "size": "22509",
+        "md5": "37bff4206b42f93c5aff719de120d2eb",
+        "crc32": "945fabec",
+        "sha1": "ffc62a042153f498aada1c552ac7b659fe475e10",
+        "private": "true"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_scandata.xml",
+        "source": "original",
+        "mtime": "1669968635",
+        "size": "145697",
+        "md5": "016261c12b37f0f9f288878d99477ae1",
+        "crc32": "94f1dc03",
+        "sha1": "7d579f3472c9db5637784a205e7dec65ec130d64",
+        "format": "Scandata"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_slip.png",
+        "source": "original",
+        "mtime": "1635893813",
+        "size": "41940",
+        "md5": "0fc5df4de1aa690573263a43d9e9a3de",
+        "crc32": "0c88f0cf",
+        "sha1": "fb72ae7f18b1d5fd21f737f3ad333e3647eadb8c",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "feedmylambsfeedm0000begi_slip.png",
+        "mtime": "1636362356",
+        "size": "8706",
+        "md5": "e6dc28c20748701516ed33707c7a8bec",
+        "crc32": "e4d21c73",
+        "sha1": "92a8f01547a8ed6c746ee8912007a96595ef4987",
+        "private": "true"
+      },
+      {
+        "name": "feedmylambsfeedm0000begi_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "feedmylambsfeedm0000begi_djvu.xml",
+        "mtime": "1669968625",
+        "size": "747",
+        "md5": "5840fce8eec1701ffa955b407131562c",
+        "crc32": "05a2a3e6",
+        "sha1": "67a321173bd8f5babc9b90f31a7be9087527daaa",
+        "private": "true"
+      },
+      {
+        "name": "logs/feedmylambsfeedm0000begi_iabdash_2021-11-0307:06:14.log",
+        "source": "original",
+        "mtime": "1635894377",
+        "size": "677",
+        "md5": "0cc4a5aa774f0b50076585205f23e786",
+        "crc32": "51117899",
+        "sha1": "8e305991009c914c3a7b036229a7d235fa9d806e",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/feedmylambsfeedm0000begi_scanning_2021-11-0307:06:25.log",
+        "source": "original",
+        "mtime": "1635894389",
+        "size": "434910",
+        "md5": "e04543cf2e368780a873bfb49041cbf7",
+        "crc32": "e1876c8a",
+        "sha1": "bdef5cccd9a6cdd03b48ce3d4372ccde61125ad8",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/feedmylambsfeedm0000begi_status_history_2021-11-0307:06:21.log",
+        "source": "original",
+        "mtime": "1635894384",
+        "size": "405",
+        "md5": "a943fcaa62053a015ef18d6803229ab0",
+        "crc32": "5e91e7a0",
+        "sha1": "00ca099a6191f41e1186d3ec2222aa8a55287845",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1755935465,
+    "item_size": 275144900,
+    "metadata": {
+      "identifier": "feedmylambsfeedm0000begi",
+      "boxid": "IA40278919",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Begin, Nadine",
+      "date": "2009-01-01",
+      "description": [
+        "117 pages : 25 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "9780918293053",
+        "0918293057"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA-NS-2000483",
+      "operator": "associate-jacklyn-cordova@archive.org",
+      "publisher": "Traverse City, MI : Prism Publications",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station26.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780918293053",
+      "subject": [
+        "Begin, Nadine",
+        "Cooking"
+      ],
+      "title": "Feed my lambs, feed my sheep : meals and memories of a lifetime",
+      "tts_version": "4.5-initial-80-gce32ee1e",
+      "uploader": "station26.cebu@archive.org",
+      "publicdate": "2021-11-02 22:57:04",
+      "access-restricted-item": "true",
+      "imagecount": "134",
+      "scandate": "20211103002829",
+      "ppi": "360",
+      "republisher_operator": "associate-glennblair-beduya@archive.org",
+      "republisher_date": "20211108170255",
+      "republisher_time": "275",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/feedmylambsfeedm0000begi",
+      "identifier-ark": "ark:/13960/t77v0hx19",
+      "ocr": "tesseract 5.0.0-rc1-12-g88b4",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.14",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "50",
+      "pdf_module_version": "0.0.16",
+      "external-identifier": [
+        "urn:acs6:feedmylambsfeedm0000begi:pdf:95fd436d-346a-48fe-9295-f4d371638dd5",
+        "urn:oclc:record:1285572069",
+        "urn:lcp:feedmylambsfeedm0000begi:lcpdf:e4423a97-2320-4b2f-b009-6a31e2bffb3a",
+        "urn:lcp:feedmylambsfeedm0000begi:epub:97f440bc-a707-4b41-946e-8ac8929dfcce"
+      ],
+      "addeddate": "2021-11-08 11:07:38",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_work": "OL26411873W",
+      "openlibrary_edition": "OL35656021M",
+      "sponsordate": "20211130",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia902907.us.archive.org",
+    "uniq": 1112080546,
+    "workable_servers": [
+      "ia902907.us.archive.org",
+      "ia802907.us.archive.org"
+    ]
+  },
+  "institution": "Begin, Nadine",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

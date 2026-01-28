@@ -1,0 +1,541 @@
+{
+  "source": "internet_archive",
+  "identifier": "isbn_9780898212907",
+  "title": "Country Woman Christmas : 2000",
+  "creator": "Anderson, Kathleen",
+  "year": 2000,
+  "subject": [
+    "Christmas cooking",
+    "Christmas crafts"
+  ],
+  "description": [
+    "Includes index",
+    "Offers recipes and ideas for Christmas dishes, festive foods, gifts & giving, Christmas decorating and more"
+  ],
+  "metadata": {
+    "created": 1758555443,
+    "d1": "ia601404.us.archive.org",
+    "d2": "ia801404.us.archive.org",
+    "dir": "/27/items/isbn_9780898212907",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660368454",
+        "size": "25108",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "ad261085fc1a75b6c6d0316935b6b565",
+        "crc32": "a510880c",
+        "sha1": "ba9187406b42c6111a30ac61d234e8f71f8c304a"
+      },
+      {
+        "name": "isbn_9780898212907.cdx.gz",
+        "source": "original",
+        "mtime": "1389956278",
+        "size": "6685",
+        "md5": "929fd04eea34094b433faacee92021a0",
+        "crc32": "4654295f",
+        "sha1": "b33f41c4dfbbfb9e988460eaa35a878423c6698b",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907.cdx.idx",
+        "source": "original",
+        "mtime": "1389956278",
+        "size": "34",
+        "md5": "0bdd6087b1d3f0f99afcd3de5edfd28a",
+        "crc32": "699f1766",
+        "sha1": "a87f14824381fa6aedef5304a2dfcf0833004013",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "isbn_9780898212907_hocr.html",
+        "mtime": "1753546179",
+        "size": "37258305",
+        "private": "true",
+        "md5": "0fb200a5777f6d8236a51da8288e7e04",
+        "crc32": "e2127523",
+        "sha1": "918dfc693d450522c994a0b1c10043dcabf67eca"
+      },
+      {
+        "name": "isbn_9780898212907.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "isbn_9780898212907_jp2.zip",
+        "mtime": "1336829906",
+        "size": "274993",
+        "md5": "0b9ea9faba0c9c3e7e27a486b82412cb",
+        "crc32": "95eeba3a",
+        "sha1": "f5b82257e3a5bcd3ac883b3efe9e0c2f95cf8afa"
+      },
+      {
+        "name": "isbn_9780898212907.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "isbn_9780898212907.pdf",
+        "mtime": "1753545890",
+        "size": "17788267",
+        "md5": "fbf8a3a54c8485ceff75c422cf41e96b",
+        "crc32": "90d3515e",
+        "sha1": "277b39ac03638362758f7cd0cb95a770c764da0a"
+      },
+      {
+        "name": "isbn_9780898212907.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "isbn_9780898212907_page_numbers.json",
+        "mtime": "1716038391",
+        "size": "17307701",
+        "md5": "508fc9e62dc9618ad093806ed55b848f",
+        "crc32": "8940966f",
+        "sha1": "27a81d4ef273515d58cd6325999d395c788d3256",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907.warc.gz",
+        "source": "original",
+        "mtime": "1354760589",
+        "size": "588431",
+        "md5": "8439b34bf54a127b1e9b8fcb4f248ad4",
+        "crc32": "0110a7b2",
+        "sha1": "bf18679797ce655b92dc35949652d2de7ef7431e",
+        "format": "Web ARChive GZ"
+      },
+      {
+        "name": "isbn_9780898212907.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "isbn_9780898212907.warc.gz",
+        "mtime": "1389956262",
+        "size": "6833",
+        "md5": "b643242c041d9b309e9bb16d2053fd96",
+        "crc32": "6b01130c",
+        "sha1": "87638a60eda5d15afdc11c514ee7875dae8c14c3",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "isbn_9780898212907_jp2.zip",
+        "mtime": "1336831164",
+        "size": "4896522",
+        "md5": "8df98b5a14d2ca6ddd04210483d92d48",
+        "crc32": "78597797",
+        "sha1": "d4da5fc0c0e3cc9cf6f92feb1117477e035f98a4",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "isbn_9780898212907_abbyy.gz",
+        "mtime": "1660368329",
+        "size": "4081617",
+        "md5": "4ceb7281a3d3b1e3c491d1b98c6c46fc",
+        "crc32": "332c4e7e",
+        "sha1": "8ca22b431b1af8d1f094a6c01b527edc72ea8dda",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "isbn_9780898212907_scandata.xml",
+        "mtime": "1670380483",
+        "size": "765",
+        "md5": "8d1c844058018e6618cf33180cf9032d",
+        "crc32": "43aeb784",
+        "sha1": "853f49019741ffb8a66ed584b56a806fa5973fc4",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1505912203",
+        "size": "1113",
+        "md5": "95a2ef19b91f2f3c417f8ed84b18abbb",
+        "crc32": "2b7a018a",
+        "sha1": "507532cc4ec8e1e7aeffa38f94de7f5bbc194b1a"
+      },
+      {
+        "name": "isbn_9780898212907_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "isbn_9780898212907_djvu.xml",
+        "mtime": "1716038512",
+        "size": "382007",
+        "md5": "3df421ee5471c02bfcc21a5455d1e900",
+        "crc32": "a7735cef",
+        "sha1": "8abcf9d7d6b27ae35ba2b23e1120a25a7fdc71d9",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "isbn_9780898212907_hocr.html",
+        "mtime": "1716037000",
+        "size": "4553983",
+        "md5": "908745491717fc5ec9114da9226308ab",
+        "crc32": "61c7095b",
+        "sha1": "ffcdc07b470b8b621c4c2fe4f0537af8d4d04fdd",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "isbn_9780898212907.pdf",
+        "mtime": "1716038515",
+        "size": "17277302",
+        "md5": "9b8a8fd7c0ae9bc0391ecc08b45d8e25",
+        "crc32": "f5e98b7d",
+        "sha1": "c429ee8928a6ec74f0e8b32665aa794b3a7b6fdb"
+      },
+      {
+        "name": "isbn_9780898212907_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "a1d80109e5e89f5ec1533827e3cb2029",
+        "summation": "md5"
+      },
+      {
+        "name": "isbn_9780898212907_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "isbn_9780898212907_chocr.html.gz",
+        "mtime": "1660368380",
+        "size": "8936416",
+        "md5": "04bc1cc9f91c41022f27e868f4c74e39",
+        "crc32": "38ac173a",
+        "sha1": "8c89333647cc1e4ca5f1352462dfbec8deed0436",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "isbn_9780898212907_hocr.html",
+        "mtime": "1660368412",
+        "size": "1446",
+        "md5": "9e0ca9b2597673c422754f684f8336c0",
+        "crc32": "bcd02d9a",
+        "sha1": "019c98d3bc6c9a9b4c1c88482ec885cbe740f19a",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2191",
+        "word_conf_11_20": "1308",
+        "word_conf_21_30": "3760",
+        "word_conf_31_40": "4633",
+        "word_conf_41_50": "9484",
+        "word_conf_51_60": "11104",
+        "word_conf_61_70": "11390",
+        "word_conf_71_80": "5445",
+        "word_conf_81_90": "2093",
+        "word_conf_91_100": "3841",
+        "format": "OCR Search Text",
+        "original": "isbn_9780898212907_hocr.html",
+        "mtime": "1660368434",
+        "size": "117171",
+        "md5": "b4ec812c7f01b8c1ee2f3197b44ebd08",
+        "crc32": "ee12aa6f",
+        "sha1": "1968f69268fde4635e7928657623692b944ff83a",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "isbn_9780898212907_orig_jp2.tar",
+        "mtime": "1336829885",
+        "size": "87869228",
+        "md5": "2d41c18c043178b7a2d35be21e18e979",
+        "crc32": "88be2bb0",
+        "sha1": "d99795a1dfd5e831014eaee5c3fee31af774ad1f",
+        "private": "true",
+        "filecount": "122"
+      },
+      {
+        "name": "isbn_9780898212907_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "isbn_9780898212907.epub",
+        "mtime": "1753546979",
+        "size": "37492709",
+        "md5": "f940e9f5ef38a17a13dd7de27d6d8d00",
+        "crc32": "e96eea23",
+        "sha1": "b041090c4ae0a83f1e6f73e6a3e31ba96aa83a83"
+      },
+      {
+        "name": "isbn_9780898212907_loans.json",
+        "source": "original",
+        "mtime": "1593222527",
+        "size": "6099",
+        "format": "JSON",
+        "private": "true",
+        "md5": "34aa1838f6a8d3951ed7f0fe11c66a54",
+        "crc32": "009fac5d",
+        "sha1": "d816a828677c75092bef09847a1efb79b6f1f585"
+      },
+      {
+        "name": "isbn_9780898212907_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1505912203",
+        "size": "3596",
+        "md5": "ae2bcb9cb39a05f5b6d472747409c49f",
+        "crc32": "9a605303",
+        "sha1": "e42bb6f9b69ef33a34664162cd5b74a15add3c8f"
+      },
+      {
+        "name": "isbn_9780898212907_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "isbn_9780898212907_xisbn.json",
+        "mtime": "1454578937",
+        "size": "265",
+        "md5": "3b857153eacce95898336c24d0427f77",
+        "crc32": "e0f4c353",
+        "sha1": "505975dcf85b1aed658dacff7aace7a323cc5eb7",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454578935",
+        "size": "1081",
+        "md5": "6a8eb7594961e5da632e9b006a9a38e1",
+        "crc32": "1d100bb3",
+        "sha1": "e9c50bb5959999ed229f968ae8d94d1da4ddad58"
+      },
+      {
+        "name": "isbn_9780898212907_meta.sqlite",
+        "source": "original",
+        "mtime": "1466987963",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "7bba1a921015051af0038e4ad68e2064",
+        "crc32": "f746c0ad",
+        "sha1": "02ade72c01cf110e602b0a073550febd50df9296"
+      },
+      {
+        "name": "isbn_9780898212907_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753547054",
+        "size": "3449",
+        "md5": "c17ca73f2c9f22272319e0544076a3b8",
+        "crc32": "2a6bf22e",
+        "sha1": "135f92ee39b98606c85b48c78a5036f3dff9e5d2"
+      },
+      {
+        "name": "isbn_9780898212907_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1329425979",
+        "size": "295",
+        "md5": "ce9dca18e8fc980460ffbfea44f87b56",
+        "crc32": "ac318f71",
+        "sha1": "bcd6900d7b0d7ed953a6e6451ef68c0d7008b597"
+      },
+      {
+        "name": "isbn_9780898212907_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1336722258",
+        "size": "124026880",
+        "md5": "4fe1426df55ccaad0bc526ebd7dd7b13",
+        "crc32": "ddd1445d",
+        "sha1": "6b6683e2eb42a4b9187b698aa63eba911a4243fa",
+        "private": "true",
+        "filecount": "122"
+      },
+      {
+        "name": "isbn_9780898212907_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "36",
+        "format": "Page Numbers JSON",
+        "original": "isbn_9780898212907_hocr.html",
+        "mtime": "1716037176",
+        "size": "20538",
+        "md5": "ec1aca363f663e45f026698b1f722483",
+        "crc32": "d4a199f9",
+        "sha1": "be0f6c07cdb81e69a6c1f66bd76800caa7e96ffa",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212907_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670380483",
+        "size": "160028",
+        "md5": "d4ed7b966dfba9713759fcdb1318482f",
+        "crc32": "3a330d98",
+        "sha1": "2d55a535498cf00eecde68cbc0e3d49d9c00145c"
+      },
+      {
+        "name": "isbn_9780898212907_xisbn.json",
+        "source": "original",
+        "mtime": "1454569756",
+        "size": "321",
+        "md5": "e6c1741cf467003ccfcfe2c70cb896a8",
+        "crc32": "2dbd42cd",
+        "sha1": "87e52b9c6d22e05be7672ee889bf6c9149991602",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 33,
+    "item_last_updated": 1753547054,
+    "item_size": 363095332,
+    "metadata": {
+      "isbn": [
+        "0898212901",
+        "9780898212907"
+      ],
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-02-16 20:59:37",
+      "updater": "associate-lotu-tii@archive.org",
+      "shiptracking": "f0103",
+      "boxid": "IA178201",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "shenzhen",
+      "sponsor": "Internet Archive",
+      "identifier": "isbn_9780898212907",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2012-02-16 20:59:42",
+      "publicdate": "2012-02-16 20:59:45",
+      "scanner": "scribe15.shenzhen.archive.org",
+      "repub_seconds": "67089",
+      "ppi": "514",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-roy@archive.org",
+      "scandate": "20120510005128",
+      "republisher": "scanner-shenzhen-sun@archive.org",
+      "imagecount": "122",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/isbn_9780898212907",
+      "identifier-ark": "ark:/13960/t3xs6tx83",
+      "bookplateleaf": "0002",
+      "scanfee": "125",
+      "boxid_2": "CH105401",
+      "curation": "[curator]scanner-shenzhen-leo@archive.org[/curator][date]20120712055209[/date][state]approved[/state][comment]199[/comment]",
+      "title": "Country Woman Christmas : 2000",
+      "publisher": "Greendale WI : Reiman Publications",
+      "creator": "Anderson, Kathleen",
+      "date": "2000-01-01",
+      "donor": "alibris",
+      "external-identifier": [
+        "urn:acs6:isbn_9780898212907:pdf:551a729d-6ff1-424c-83a0-2c2f8b896bec",
+        "urn:acs6:isbn_9780898212907:epub:b465913c-6103-4dd7-b318-b1db87a17a80",
+        "urn:oclc:record:1035692219",
+        "urn:lcp:isbn_9780898212907:lcpdf:1d5485a0-a4f9-445b-9f08-db0dd72d2156",
+        "urn:lcp:isbn_9780898212907:epub:bb429b9d-4069-479b-b73f-88a7c4a943ab"
+      ],
+      "sponsordate": "not to be invoiced-past billing period",
+      "subject": [
+        "Christmas cooking",
+        "Christmas crafts"
+      ],
+      "description": [
+        "Includes index",
+        "Offers recipes and ideas for Christmas dishes, festive foods, gifts & giving, Christmas decorating and more"
+      ],
+      "city": "Greendale WI",
+      "oclc-id": [
+        "46930085",
+        "858068787"
+      ],
+      "backup_location": "ia903709_2",
+      "republisher_operator": "scanner-shenzhen-amy@archive.org;scanner-shenzhen-sun@archive.org",
+      "republisher_date": "20120511074156",
+      "openlibrary_edition": "OL8269022M",
+      "openlibrary_work": "OL18168431W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "filesxml": "Wed Apr 3 6:16:54 UTC 2024",
+      "page_number_confidence": "36",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia801404.us.archive.org",
+    "uniq": 214388958,
+    "workable_servers": [
+      "ia801404.us.archive.org",
+      "ia601404.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/46930085?referer=xid"
+          ],
+          "publisher": "Reiman Publications",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Greendale WI",
+          "author": "Kathleen Anderson, editor.",
+          "year": "2000",
+          "isbn": [
+            "0898212901"
+          ],
+          "title": "Country Woman Christmas : 2000",
+          "oclcnum": [
+            "46930085",
+            "858068787"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Anderson, Kathleen",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

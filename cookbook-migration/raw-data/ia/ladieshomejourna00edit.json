@@ -1,0 +1,647 @@
+{
+  "source": "internet_archive",
+  "identifier": "ladieshomejourna00edit",
+  "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+  "creator": "Editors of the Ladies Home Journal",
+  "year": 1985,
+  "subject": [
+    "Cooking",
+    "Nutrition"
+  ],
+  "description": [
+    "Includes index",
+    "Issued in a slipcase",
+    "Volumes also published separately",
+    "Ladies' Home Journal easy as 1-2-3 warm weather cookbook -- Ladies' home journal easy as 1-2-3 family favorites cookbook -- Ladies' home journal easy as 1-2-3 entertaining cookbook -- Ladies' home journal easy as 1-2-3 hearty meals cookbook -- Ladies' home journal easy as 1-2-3 nutritious and delicious cookbook"
+  ],
+  "metadata": {
+    "created": 1758559242,
+    "d1": "ia601308.us.archive.org",
+    "d2": "ia801308.us.archive.org",
+    "dir": "/30/items/ladieshomejourna00edit",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660423967",
+        "size": "25270",
+        "md5": "04b077fef4b0945c535b12fb92a645e6",
+        "crc32": "11060ca4",
+        "sha1": "d620e7d5c46404359914f71399097cff3ff45152",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "ladieshomejourna00edit.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "ladieshomejourna00edit_hocr.html",
+        "mtime": "1753588351",
+        "size": "12853265",
+        "private": "true",
+        "md5": "f41160f189174297473092803d2d07e0",
+        "crc32": "03eaf03c",
+        "sha1": "d57f6afa2a3109227356ff853f542d6647faebb2"
+      },
+      {
+        "name": "ladieshomejourna00edit.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "ladieshomejourna00edit_jp2.zip",
+        "mtime": "1345854698",
+        "size": "311920",
+        "md5": "aa6820a70849b36f56d58ab5aa37019d",
+        "crc32": "3e1ea327",
+        "sha1": "3d6bd2bcfb4772877d1f730450bb9ead65810cf4"
+      },
+      {
+        "name": "ladieshomejourna00edit.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "ladieshomejourna00edit.pdf",
+        "mtime": "1753588268",
+        "size": "8831277",
+        "md5": "23bbfdf9a8e381512584d6b42e829b2b",
+        "crc32": "0e347346",
+        "sha1": "7c209dcdb12c7be219230d311bd8203d465ad20c"
+      },
+      {
+        "name": "ladieshomejourna00edit.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "ladieshomejourna00edit_page_numbers.json",
+        "mtime": "1713716586",
+        "size": "8420995",
+        "md5": "d2194e9cf93b4b3b881c0e22e138bc75",
+        "crc32": "917f6658",
+        "sha1": "0a6ff16ec6f4f43233a981997e6909d980707e65",
+        "private": "true"
+      },
+      {
+        "name": "ladieshomejourna00edit.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1338908881",
+        "size": "463065",
+        "md5": "97b4736c599e7314444a88b2a1f05b01",
+        "crc32": "96766e8c",
+        "sha1": "e04fd1e6ea71902f60d8043b71c273e4ab9a0924"
+      },
+      {
+        "name": "ladieshomejourna00edit.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "ladieshomejourna00edit.warc.gz",
+        "mtime": "1345852678",
+        "size": "5865",
+        "md5": "687335c39b1d1d99bd5f4c732d103bf8",
+        "crc32": "f5d3045c",
+        "sha1": "8db2c2769d4767d37bbc514d3b427ecf65bebbe6",
+        "private": "true"
+      },
+      {
+        "name": "ladieshomejourna00edit_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "ladieshomejourna00edit_jp2.zip",
+        "mtime": "1345855602",
+        "size": "1906347",
+        "md5": "fdd3238e84d20e1bea33ea41e7a08603",
+        "crc32": "fb1e0640",
+        "sha1": "06d6cbe811c4e40592cb80742c989df99c98cda3",
+        "private": "true"
+      },
+      {
+        "name": "ladieshomejourna00edit_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "ladieshomejourna00edit_abbyy.gz",
+        "mtime": "1660423667",
+        "size": "1625036",
+        "md5": "ab90daadbb3f7bd65c8b75654e8ff437",
+        "crc32": "ab60770c",
+        "sha1": "d03421cf7d2af7b96df8555473d9460dc3178fb4",
+        "private": "true"
+      },
+      {
+        "name": "ladieshomejourna00edit_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "ladieshomejourna00edit_scandata.xml",
+        "mtime": "1670486795",
+        "size": "781",
+        "md5": "6a787744cba4b76a8f5fcf0d6fa898f0",
+        "crc32": "1d3a900e",
+        "sha1": "62cab8e41d46c8df6e1878d916a4cf78d511bc14",
+        "private": "true"
+      },
+      {
+        "name": "ladieshomejourna00edit_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1454728961",
+        "size": "1712",
+        "md5": "5932ffcc02cacf0e6464e9f705827dc1",
+        "crc32": "6d452f2c",
+        "sha1": "c75a0b39e2be031f1b76770181cb21c062afc2ce"
+      },
+      {
+        "name": "ladieshomejourna00edit_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "ladieshomejourna00edit_djvu.xml",
+        "mtime": "1716051028",
+        "size": "144469",
+        "md5": "7137d9290b117659c5b89fbb2b74b030",
+        "crc32": "68bdcaec",
+        "sha1": "336064ffe61f0762a5c307889ae0589bbfaf413a",
+        "private": "true"
+      },
+      {
+        "name": "ladieshomejourna00edit_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "ladieshomejourna00edit_hocr.html",
+        "mtime": "1716051026",
+        "size": "1831528",
+        "md5": "764bc887c1861fc98e15dad253254a86",
+        "crc32": "d6d6f781",
+        "sha1": "c69a4467ed51d8bc1ebe77eca5cc95b8529cc0f1",
+        "private": "true"
+      },
+      {
+        "name": "ladieshomejourna00edit_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "ladieshomejourna00edit.pdf",
+        "mtime": "1713716721",
+        "size": "8404836",
+        "md5": "766e586473d5c44055541984f31d3dc7",
+        "crc32": "8319d211",
+        "sha1": "e81411dbabe6b7947ca4fe55164c9ae74c6cea0e"
+      },
+      {
+        "name": "ladieshomejourna00edit_extramarc.xml",
+        "source": "original",
+        "mtime": "1420418569",
+        "size": "3404",
+        "md5": "f791f895bc5264147b2200d6e0739ea3",
+        "crc32": "559677f9",
+        "sha1": "3c9fc1fc16d8843ddfe80e07449f045d7c76fc6c",
+        "format": "Metadata"
+      },
+      {
+        "name": "ladieshomejourna00edit_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "0bb9474d6a532c1dc22816407151032d",
+        "summation": "md5"
+      },
+      {
+        "name": "ladieshomejourna00edit_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "ladieshomejourna00edit_chocr.html.gz",
+        "mtime": "1660423886",
+        "size": "3876777",
+        "md5": "1b1f1e30c79bd4fe1b8f81ebbf527b0d",
+        "crc32": "3993365d",
+        "sha1": "291798e6a5cb161a8719e26f73e1425226748f37",
+        "private": "true"
+      },
+      {
+        "name": "ladieshomejourna00edit_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "ladieshomejourna00edit_hocr.html",
+        "mtime": "1660423916",
+        "size": "1149",
+        "md5": "cd1613fbd757f485553db87625834592",
+        "crc32": "85c38fcb",
+        "sha1": "0d4ee033b6d79b1b697dabbe7955cd24d006cb49",
+        "private": "true"
+      },
+      {
+        "name": "ladieshomejourna00edit_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1635",
+        "word_conf_11_20": "301",
+        "word_conf_21_30": "1067",
+        "word_conf_31_40": "972",
+        "word_conf_41_50": "2533",
+        "word_conf_51_60": "3678",
+        "word_conf_61_70": "4175",
+        "word_conf_71_80": "2458",
+        "word_conf_81_90": "1159",
+        "word_conf_91_100": "2210",
+        "format": "OCR Search Text",
+        "original": "ladieshomejourna00edit_hocr.html",
+        "mtime": "1660423937",
+        "size": "42189",
+        "md5": "736ab178643173bd05a93d595dcf9cc5",
+        "crc32": "a06286d3",
+        "sha1": "6d700890e1b23877b0c049bad12bc80d03942d9d",
+        "private": "true"
+      },
+      {
+        "name": "ladieshomejourna00edit_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "ladieshomejourna00edit_orig_jp2.tar",
+        "mtime": "1345854652",
+        "size": "51955840",
+        "md5": "98687b295224ea2fc027410e20b3dfc7",
+        "crc32": "c4fe0ac0",
+        "sha1": "0ea1de473b0723b0506674e63261d24237ce44d0",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "ladieshomejourna00edit_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "ladieshomejourna00edit.epub",
+        "mtime": "1753588559",
+        "size": "12876526",
+        "md5": "bd9d4449b1411000ed193fb6e75916d5",
+        "crc32": "35b43af1",
+        "sha1": "d6cdd174cb1cd62ce25f64b80d85a0c424f125b9"
+      },
+      {
+        "name": "ladieshomejourna00edit_loans.json",
+        "source": "original",
+        "mtime": "1593182377",
+        "size": "3139",
+        "format": "JSON",
+        "private": "true",
+        "md5": "a83ba1751606a0171eff30f6d495004c",
+        "crc32": "67e13bd3",
+        "sha1": "a0ee62500d0a775874effcaf3c3ce1476f486e1b"
+      },
+      {
+        "name": "ladieshomejourna00edit_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1454728961",
+        "size": "7313",
+        "md5": "4e18c6c27a7630edf80cd99c4d15fc27",
+        "crc32": "c154c6b4",
+        "sha1": "7235f2a5a97e6b7395a6952c9072155323a46e94"
+      },
+      {
+        "name": "ladieshomejourna00edit_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "ladieshomejourna00edit_xisbn.json",
+        "mtime": "1454728963",
+        "size": "530",
+        "md5": "817f7cf9409b7fc3c06494006a9e1bdb",
+        "crc32": "4169992d",
+        "sha1": "523c1c35d5ef1d25ac6684cd9b23038a862f508a",
+        "private": "true"
+      },
+      {
+        "name": "ladieshomejourna00edit_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454728961",
+        "size": "2627",
+        "md5": "1df8dae8e2308c2974527780e8aa017a",
+        "crc32": "8954ca24",
+        "sha1": "6a33c7ce0105cfffee79009285eb5434dd00a5cd"
+      },
+      {
+        "name": "ladieshomejourna00edit_meta.sqlite",
+        "source": "original",
+        "mtime": "1465238167",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "d59cb2a093d7ca974eb4362ccb459a20",
+        "crc32": "a21accf8",
+        "sha1": "0fadb6c959719ca4f2a9b9f172fb3bf29d91f8e7"
+      },
+      {
+        "name": "ladieshomejourna00edit_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753588559",
+        "size": "4341",
+        "md5": "38480d8624f2a02bd1d22143b5ea308d",
+        "crc32": "4ea55841",
+        "sha1": "39230efa8cb0ee0ce8deacb6a56fe2c75c3a9037"
+      },
+      {
+        "name": "ladieshomejourna00edit_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1338908881",
+        "size": "283",
+        "md5": "fe3fbb5bacac7c9f17f08b3058788f98",
+        "crc32": "64fe1889",
+        "sha1": "e42d0bce3f99585a8476cdcb58721369ae256089"
+      },
+      {
+        "name": "ladieshomejourna00edit_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1345140474",
+        "size": "67952640",
+        "md5": "d5ae63fcdc52fd56061847e2e474210a",
+        "crc32": "d3bec834",
+        "sha1": "af20c2691fa1da1e1bae7c0d0935373e5f71ef36",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "ladieshomejourna00edit_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "96",
+        "format": "Page Numbers JSON",
+        "original": "ladieshomejourna00edit_hocr.html",
+        "mtime": "1713716585",
+        "size": "17006",
+        "md5": "05401492664c3c31dce8a5059050fd51",
+        "crc32": "3257fcac",
+        "sha1": "bd38f447116fb0961e393c2beed60b08605ee760",
+        "private": "true"
+      },
+      {
+        "name": "ladieshomejourna00edit_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670486795",
+        "size": "133194",
+        "md5": "a96373bd8e426e3314579c26893a27a3",
+        "crc32": "48c46d94",
+        "sha1": "4358fc952be05208e276ce8cd9ce17695d6ef96c"
+      },
+      {
+        "name": "ladieshomejourna00edit_xisbn.json",
+        "source": "original",
+        "mtime": "1454591307",
+        "size": "1966",
+        "md5": "3cb786267cc75992ee2b685f2a8b31bf",
+        "crc32": "e261dbf3",
+        "sha1": "40a3147c1d2e4d96ae0016100e58edc3a5b34ded",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753588559,
+    "item_size": 181711434,
+    "metadata": {
+      "isbn": [
+        "0696021501",
+        "9780696021503",
+        "069602151X",
+        "9780696021510",
+        "0696021536",
+        "9780696021534",
+        "0696021544",
+        "9780696021541",
+        "0696021552",
+        "9780696021558",
+        "0696021528",
+        "9780696021527"
+      ],
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-06-05 15:07:50",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+      "creator": "Editors of the Ladies Home Journal",
+      "publisher": "Des Moines, IA : Meredith Corporation",
+      "date": "1985-01-01",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "f0133",
+      "boxid": "IA137010",
+      "language": "eng",
+      "identifier": "ladieshomejourna00edit",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2012-06-05 15:08:04",
+      "publicdate": "2012-06-05 15:08:07",
+      "boxid_2": "CH106401",
+      "scanner": "scribe29.shenzhen.archive.org",
+      "repub_seconds": "164",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-emma@archive.org",
+      "scandate": "20120815084526",
+      "republisher": "scanner-shenzhen-sun@archive.org",
+      "imagecount": "102",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/ladieshomejourna00edit",
+      "identifier-ark": "ark:/13960/t6738081r",
+      "bookplateleaf": "0002",
+      "scanfee": "150",
+      "external-identifier": [
+        "urn:acs6:ladieshomejourna00edit:pdf:bf605d6f-0c7b-4529-9b03-d0979df6a2ef",
+        "urn:acs6:ladieshomejourna00edit:epub:330bf07f-a20d-4ba5-8798-f1941a7fac86",
+        "urn:oclc:record:1033573220",
+        "urn:lcp:ladieshomejourna00edit:lcpdf:9ad06f6e-ff3e-4d20-8f74-7798d373bad3",
+        "urn:lcp:ladieshomejourna00edit:epub:733e9821-8be7-4199-97f8-4410076517e2"
+      ],
+      "donor": "alibris",
+      "sponsordate": "not to be invoiced-past billing period",
+      "extramarc": "OhioLINK Library Catalog",
+      "subject": [
+        "Cooking",
+        "Nutrition",
+        "Cooking",
+        "Nutrition"
+      ],
+      "description": [
+        "Includes index",
+        "Issued in a slipcase",
+        "Volumes also published separately",
+        "Ladies' Home Journal easy as 1-2-3 warm weather cookbook -- Ladies' home journal easy as 1-2-3 family favorites cookbook -- Ladies' home journal easy as 1-2-3 entertaining cookbook -- Ladies' home journal easy as 1-2-3 hearty meals cookbook -- Ladies' home journal easy as 1-2-3 nutritious and delicious cookbook"
+      ],
+      "city": "Des Moines, IA",
+      "oclc-id": "43401731",
+      "related-external-id": [
+        "urn:isbn:0696021528",
+        "urn:oclc:43401731",
+        "urn:isbn:0696021552",
+        "urn:isbn:0696021501",
+        "urn:isbn:0696021544",
+        "urn:isbn:0696021536"
+      ],
+      "backup_location": "ia903804_23",
+      "republisher_operator": "scanner-shenzhen-sun@archive.org",
+      "republisher_date": "20120816180517",
+      "openlibrary_edition": "OL11184087M",
+      "openlibrary_work": "OL17734176W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "96",
+      "filesxml": "Wed Apr 3 7:30:40 UTC 2024",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia601308.us.archive.org",
+    "servers_unavailable": true,
+    "uniq": 1211176646,
+    "workable_servers": [
+      "ia601308.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43401731?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "by the editors of Ladies' home journal.",
+          "year": "1985",
+          "isbn": [
+            "069602151X"
+          ],
+          "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+          "oclcnum": [
+            "43401731"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43401731?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "by the editors of Ladies' home journal.",
+          "year": "1985",
+          "isbn": [
+            "0696021528"
+          ],
+          "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+          "oclcnum": [
+            "43401731"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43401731?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "by the editors of Ladies' home journal.",
+          "year": "1985",
+          "isbn": [
+            "0696021552"
+          ],
+          "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+          "oclcnum": [
+            "43401731"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43401731?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "by the editors of Ladies' home journal.",
+          "year": "1985",
+          "isbn": [
+            "0696021501"
+          ],
+          "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+          "oclcnum": [
+            "43401731"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43401731?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "by the editors of Ladies' home journal.",
+          "year": "1985",
+          "isbn": [
+            "0696021544"
+          ],
+          "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+          "oclcnum": [
+            "43401731"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/43401731?referer=xid"
+          ],
+          "publisher": "Meredith Corporation",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "by the editors of Ladies' home journal.",
+          "year": "1985",
+          "isbn": [
+            "0696021536"
+          ],
+          "title": "Ladies' home journal easy as 1-2-3 cookbook library",
+          "oclcnum": [
+            "43401731"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Editors of the Ladies Home Journal",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

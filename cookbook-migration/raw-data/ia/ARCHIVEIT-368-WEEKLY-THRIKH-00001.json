@@ -1,0 +1,134 @@
+{
+  "source": "internet_archive",
+  "identifier": "ARCHIVEIT-368-WEEKLY-THRIKH-00001",
+  "title": "ARCHIVEIT-368-WEEKLY-THRIKH-20121110041219-00001-wbgrp-crawl057.us.archive.org-6680.warc.gz",
+  "creator": "Archive-It",
+  "year": 2012,
+  "subject": null,
+  "description": "recurrence=WEEKLY, maxDuration=259200, maxDocumentCount=null, isTestCrawl=false, seedCount=5, accountId=131, organizationName=\"University of Wisconsin\", collectionId=368, collectionName=\"Stem Cell Research Archive Project--WI\"",
+  "metadata": {
+    "created": 1758319842,
+    "d1": "ia600603.us.archive.org",
+    "d2": "ia800603.us.archive.org",
+    "dir": "/12/items/ARCHIVEIT-368-WEEKLY-THRIKH-00001",
+    "files": [
+      {
+        "name": "ARCHIVEIT-368-WEEKLY-THRIKH-00001.cdx.gz",
+        "source": "original",
+        "mtime": "1354586858",
+        "size": "1072572",
+        "md5": "885a3e565b14e7a30e150ab0e369f23a",
+        "crc32": "3a89842d",
+        "sha1": "783ed4677175167f7b500a6accdf8bb3e6dfadad",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "ARCHIVEIT-368-WEEKLY-THRIKH-00001.cdx.idx",
+        "source": "original",
+        "mtime": "1354586858",
+        "size": "724",
+        "md5": "40e3e2eee772f657f0ef03a53e646a2c",
+        "crc32": "318ca6ce",
+        "sha1": "04b2134f1d2123f1a21642940ed9833e0fbce702",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "ARCHIVEIT-368-WEEKLY-THRIKH-00001_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "45d49e48e3df592012384a488fe812c5",
+        "summation": "md5"
+      },
+      {
+        "name": "ARCHIVEIT-368-WEEKLY-THRIKH-00001_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1718817846",
+        "size": "1753",
+        "md5": "c4c8de1936c2bcbecf27f1d8853b5c4d",
+        "crc32": "11560ad5",
+        "sha1": "c3dd461c378a9e039fe289a51a040a12a6004892"
+      },
+      {
+        "name": "ARCHIVEIT-368-WEEKLY-THRIKH-20121110041219-00001-wbgrp-crawl057.us.archive.org-6680.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1352552344",
+        "size": "83622932",
+        "md5": "8d062b0111955a22c4a9f1a5488b439d",
+        "crc32": "5c344acf",
+        "sha1": "9fef426699fc4072ac1ec3d576f7ada18d7110c7",
+        "private": "true"
+      },
+      {
+        "name": "ARCHIVEIT-368-WEEKLY-THRIKH-20121110041219-00001-wbgrp-crawl057.us.archive.org-6680.warc.gz_meta.txt",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1352552345",
+        "size": "1558",
+        "md5": "d653b59900654efd7b305f9891a547f9",
+        "crc32": "d8760c57",
+        "sha1": "c97d0b5b3ac37e7514491bd924e105c5b70b55cf"
+      },
+      {
+        "name": "ARCHIVEIT-368-WEEKLY-THRIKH-20121110041219-00001-wbgrp-crawl057.us.archive.org-6680.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "ARCHIVEIT-368-WEEKLY-THRIKH-20121110041219-00001-wbgrp-crawl057.us.archive.org-6680.warc.gz",
+        "mtime": "1354586844",
+        "size": "1096276",
+        "md5": "754b6162cc2cc108a8ea0b26edf6ad7d",
+        "crc32": "5652ce76",
+        "sha1": "895d7979b2c4091ece7e4a14b3922b240ff21086",
+        "private": "true"
+      }
+    ],
+    "files_count": 7,
+    "item_last_updated": 1718817846,
+    "item_size": 85795815,
+    "metadata": {
+      "identifier": "ARCHIVEIT-368-WEEKLY-THRIKH-00001",
+      "archiveit-account-id": "131",
+      "archiveit-account-organization-name": "University of Wisconsin",
+      "archiveit-collection-id": "368",
+      "archiveit-collection-name": "Stem Cell Research Archive Project--WI",
+      "archiveit-recurrence": "WEEKLY",
+      "contributor": "Internet Archive",
+      "crawler": "Heritrix/1.15.4",
+      "creator": "Archive-It",
+      "description": "recurrence=WEEKLY, maxDuration=259200, maxDocumentCount=null, isTestCrawl=false, seedCount=5, accountId=131, organizationName=\"University of Wisconsin\", collectionId=368, collectionName=\"Stem Cell Research Archive Project--WI\"",
+      "mediatype": "web",
+      "scandate": "20121110041219",
+      "scanner": "wbgrp-crawl057.us.archive.org",
+      "sponsor": "University of Wisconsin",
+      "title": "ARCHIVEIT-368-WEEKLY-THRIKH-20121110041219-00001-wbgrp-crawl057.us.archive.org-6680.warc.gz",
+      "collection": [
+        "ArchiveIt-Collection-368",
+        "ArchiveIt-Partner-131",
+        "archiveitdigitalcollection",
+        "web",
+        "archiveitpartners"
+      ],
+      "uploader": "archiveit-uploads@archive.org",
+      "addeddate": "2012-11-10 12:58:57",
+      "publicdate": "2012-11-10 12:59:39",
+      "imagecount": "25091",
+      "firstfiledate": "20121110041219",
+      "lastfiledate": "20121110123544",
+      "date": "2012-01-01",
+      "backup_location": "ia905601_10",
+      "access-restricted-item": "true",
+      "normalized_dates": [
+        "2012-01-01"
+      ]
+    },
+    "server": "ia600603.us.archive.org",
+    "uniq": 674319328,
+    "workable_servers": [
+      "ia600603.us.archive.org",
+      "ia800603.us.archive.org"
+    ]
+  }
+}

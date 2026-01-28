@@ -1,0 +1,521 @@
+{
+  "source": "internet_archive",
+  "identifier": "tasteofhomes20100000unse",
+  "title": "Taste of home's 2010 quick cooking annual recipes",
+  "creator": null,
+  "year": 2010,
+  "subject": [
+    "Cooking, American",
+    "Quick and easy cooking"
+  ],
+  "description": [
+    "336 pages : 29 cm",
+    "Contains over 600 fast-to-fix dishes and helpful kitchen hints. Includes 30-minute meals, a 6-week menu planner, and 72 winning recipes from contests of the last year",
+    "Cover title",
+    "\"Every single rapid recipe from the past year.\"",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/tasteofhomes20100000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/tasteofhomes20100000unse"
+        }
+      ]
+    },
+    "created": 1758557198,
+    "d1": "ia902905.us.archive.org",
+    "d2": "ia802905.us.archive.org",
+    "dir": "/32/items/tasteofhomes20100000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661145476",
+        "size": "20387",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "552f6825d41f1b6d4b6c84b57265fc47",
+        "crc32": "e296a66c",
+        "sha1": "1257a43794ec102f63b1fe0989f008da0a97440b"
+      },
+      {
+        "name": "logs/tasteofhomes20100000unse_iabdash_2019-12-0222:41:50.log",
+        "source": "original",
+        "mtime": "1575297715",
+        "size": "1346",
+        "md5": "4694e804a280245d6a63cd9f75bfbe34",
+        "crc32": "8f06cc7d",
+        "sha1": "19f2ea90015aba1e59e7ba162731ef51dceeaa52",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/tasteofhomes20100000unse_scanning_2019-12-0222:41:56.log",
+        "source": "original",
+        "mtime": "1575297721",
+        "size": "1163300",
+        "md5": "3ddb3d76dacfcf87343508dac2f86438",
+        "crc32": "3bbaa65d",
+        "sha1": "95440cfa045495fe645d8f963590b3ebbea2d532",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/tasteofhomes20100000unse_scanning_2019-12-1016:53:20.log",
+        "source": "original",
+        "mtime": "1575968005",
+        "size": "435897",
+        "md5": "5177401a8c7229415d0b2b17652b5027",
+        "crc32": "1659f6d1",
+        "sha1": "25da3c5b32494efed08d36445cf6e8992409bc02",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes20100000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "tasteofhomes20100000unse_hocr.html",
+        "mtime": "1754102827",
+        "size": "102147252",
+        "private": "true",
+        "md5": "6fec6dba0ebd3019c549bacaacc5ecb9",
+        "crc32": "9283c55a",
+        "sha1": "7142e6920cfa6f03fe7cbf0e7db65e7e79e93f5c"
+      },
+      {
+        "name": "tasteofhomes20100000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "tasteofhomes20100000unse.pdf",
+        "mtime": "1754101845",
+        "size": "27853209",
+        "md5": "9e8bc2210e969141e1f38617cc647669",
+        "crc32": "602f560e",
+        "sha1": "560f46f93d2238fe89a47d68c828359f28fe2dcf"
+      },
+      {
+        "name": "tasteofhomes20100000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "tasteofhomes20100000unse_page_numbers.json",
+        "mtime": "1724927616",
+        "size": "27550126",
+        "md5": "955f165e098f60eeee137d3fd9d0b352",
+        "crc32": "9456fcdb",
+        "sha1": "ef5e5c4b90f6662e8c60c28d365e433daea22f59",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes20100000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "tasteofhomes20100000unse_jp2.zip",
+        "mtime": "1575978932",
+        "size": "10606674",
+        "md5": "7eae9667774a9b05cae4ebb9bdff890e",
+        "crc32": "b59cfad9",
+        "sha1": "e6bf9bf162622515fb4433211cd5863d63202e08",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes20100000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "tasteofhomes20100000unse_abbyy.gz",
+        "mtime": "1661145045",
+        "size": "8956213",
+        "md5": "5006c98202fdf32bc05d8185a2c11f59",
+        "crc32": "1000be95",
+        "sha1": "cc1a210c3b1f766200e9e26dafa80fa3f1d09584",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes20100000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "tasteofhomes20100000unse_scandata.xml",
+        "mtime": "1671416717",
+        "size": "789",
+        "md5": "7914d7a0fb7a888dbaff5fb967653560",
+        "crc32": "61293132",
+        "sha1": "434f709486e3209248cfcfd00c96ed96cfd91fcd",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes20100000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1661144930",
+        "size": "1589",
+        "md5": "aa65574f422d745e45ef11e54c1636bb",
+        "crc32": "7d62f934",
+        "sha1": "dbd6303f6416f6aa10c49786693ffdefb513f503"
+      },
+      {
+        "name": "tasteofhomes20100000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "tasteofhomes20100000unse_djvu.xml",
+        "mtime": "1661145467",
+        "size": "814330",
+        "md5": "c8aae184905b0cdc45dafb8a2acdebe8",
+        "crc32": "8001f5e9",
+        "sha1": "00cf8f4d38d6c4a9d444ae7aa83c85198aea8bd3",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes20100000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "tasteofhomes20100000unse_hocr.html",
+        "mtime": "1661145331",
+        "size": "9620870",
+        "md5": "63f37f56e252ea8fcf82396bf4117194",
+        "crc32": "395624cc",
+        "sha1": "549ca1b369ad3b4813e48264cbc2800ddd2c6327",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes20100000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "tasteofhomes20100000unse_abbyy.gz",
+        "mtime": "1575983280",
+        "size": "15067674",
+        "md5": "3687fca919651ee0bb95a3f4d90e4877",
+        "crc32": "a7aba455",
+        "sha1": "b55d4be49a058cdac7ad7972fc0f96eff48d0fab"
+      },
+      {
+        "name": "tasteofhomes20100000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "tasteofhomes20100000unse.pdf",
+        "mtime": "1724929016",
+        "size": "27238386",
+        "md5": "da6e5c2b0fb3375151d90c913a9ee259",
+        "crc32": "08db8ce8",
+        "sha1": "45a2fda95c8e8d1fdb00524688ad7a174d62fb08"
+      },
+      {
+        "name": "tasteofhomes20100000unse_events.json",
+        "source": "original",
+        "mtime": "1575969379",
+        "size": "114",
+        "format": "JSON",
+        "private": "true",
+        "md5": "d5e4ffe341acd822588fe133275c4832",
+        "crc32": "20bdb7f8",
+        "sha1": "18d1d9242526a757749134bf9935322384502c58"
+      },
+      {
+        "name": "tasteofhomes20100000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "30b026e59518b9817f1f73d3721f707a",
+        "summation": "md5"
+      },
+      {
+        "name": "tasteofhomes20100000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "tasteofhomes20100000unse_chocr.html.gz",
+        "mtime": "1661145288",
+        "size": "20006840",
+        "md5": "3d811b553ee070906acd4502a489f427",
+        "crc32": "8be75eda",
+        "sha1": "792b14590b0a666af7399527ac5a4f6c2912f63e",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes20100000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "tasteofhomes20100000unse_hocr.html",
+        "mtime": "1661145399",
+        "size": "4107",
+        "md5": "cfcbcaaa075a072800023ff5318c9ae5",
+        "crc32": "c81fb260",
+        "sha1": "1dccefee6461856b5dc2de88e36407829899de5b",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes20100000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "873",
+        "word_conf_11_20": "356",
+        "word_conf_21_30": "534",
+        "word_conf_31_40": "1065",
+        "word_conf_41_50": "1732",
+        "word_conf_51_60": "3061",
+        "word_conf_61_70": "5826",
+        "word_conf_71_80": "14927",
+        "word_conf_81_90": "32421",
+        "word_conf_91_100": "54643",
+        "format": "OCR Search Text",
+        "original": "tasteofhomes20100000unse_hocr.html",
+        "mtime": "1661145432",
+        "size": "212777",
+        "md5": "4605379a43c3d383b850cf1344f0bffa",
+        "crc32": "19ebb9eb",
+        "sha1": "47b8b9bc70de1eb963d079779195b7db916fdad7",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes20100000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "tasteofhomes20100000unse_orig_jp2.tar",
+        "mtime": "1575977238",
+        "size": "183170809",
+        "md5": "052c7332d7534226479b824990abdaa1",
+        "crc32": "adda4222",
+        "sha1": "74bbe6beda97184d1eac6b5b096d02c6111bc0ea",
+        "private": "true",
+        "filecount": "346"
+      },
+      {
+        "name": "tasteofhomes20100000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "tasteofhomes20100000unse.epub",
+        "mtime": "1754103061",
+        "size": "103366636",
+        "md5": "b35a5c4c6797deafa9c008adc404c55f",
+        "crc32": "d2d62a29",
+        "sha1": "ac381858c124d0adf49d9cec5a8d035b54124275"
+      },
+      {
+        "name": "tasteofhomes20100000unse_loans.json",
+        "source": "original",
+        "mtime": "1593050300",
+        "size": "909",
+        "format": "JSON",
+        "private": "true",
+        "md5": "0dbae04de4df97985f6e5490acccee66",
+        "crc32": "cee2b3cd",
+        "sha1": "18073a48f29b91b6e0e368b55ee52bfa75bcf00c"
+      },
+      {
+        "name": "tasteofhomes20100000unse_marc.xml",
+        "source": "original",
+        "mtime": "1661144930",
+        "size": "5142",
+        "format": "MARC",
+        "md5": "135016402e0c8f9ae0ceeef1fb40eccb",
+        "crc32": "60a9d480",
+        "sha1": "5b6d51921bf0c1de674f6acbe4ac04b2ea029883"
+      },
+      {
+        "name": "tasteofhomes20100000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1575297709",
+        "size": "1611",
+        "md5": "55674eb5974cad12577fa5858f7377b0",
+        "crc32": "158e011d",
+        "sha1": "ac4716444bea82b31e8d8a52e631ffa1e0b52457",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "tasteofhomes20100000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1575969426",
+        "size": "25600",
+        "format": "Metadata",
+        "md5": "93657754159eefa343b7c704b233ee97",
+        "crc32": "0c107268",
+        "sha1": "ed2158d6b7580edb92aae8fe51dc47c71d1ba978"
+      },
+      {
+        "name": "tasteofhomes20100000unse_meta.xml",
+        "source": "original",
+        "mtime": "1754103061",
+        "size": "3331",
+        "format": "Metadata",
+        "md5": "a86fc188cd58d01c0ae2d47a235ad4c6",
+        "crc32": "935e11bc",
+        "sha1": "ce79769866a55333ee17a04f046825d3fd2e3d4f"
+      },
+      {
+        "name": "tasteofhomes20100000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1575969425",
+        "size": "326277120",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "34fdcaefa79e4e7bc6ab0602bdbf6078",
+        "crc32": "efc85ca1",
+        "sha1": "b0f071ddff3ffce0537c227fc0d8b0422d8bc436",
+        "filecount": "346"
+      },
+      {
+        "name": "tasteofhomes20100000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "94",
+        "format": "Page Numbers JSON",
+        "original": "tasteofhomes20100000unse_hocr.html",
+        "mtime": "1724927592",
+        "size": "58485",
+        "md5": "315a8ecf682b6e210f72e1ea74c8f4ef",
+        "crc32": "70aecb00",
+        "sha1": "f8040a5001e870a0176e0094d6ae2871a71352d1",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes20100000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671416716",
+        "size": "354633",
+        "format": "Scandata",
+        "md5": "71d5c472e40acb67ebd675be65deeabc",
+        "crc32": "82f717e6",
+        "sha1": "b5399d4f40f15435e197448be4371b4313673057"
+      },
+      {
+        "name": "tasteofhomes20100000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "tasteofhomes20100000unse_djvu.xml",
+        "mtime": "1671416473",
+        "size": "593",
+        "md5": "2688fc342dc8c3033d7734f97a55494f",
+        "crc32": "52191f84",
+        "sha1": "064564bfc3ac6d29be7b056cd821667b641daed1",
+        "private": "true"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1754103061,
+    "item_size": 864966749,
+    "metadata": {
+      "identifier": "tasteofhomes20100000unse",
+      "associated-names": "Taste of Home Books",
+      "boxid": "IA1718409",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2010-01-01",
+      "description": [
+        "336 pages : 29 cm",
+        "Contains over 600 fast-to-fix dishes and helpful kitchen hints. Includes 30-minute meals, a 6-week menu planner, and 72 winning recipes from contests of the last year",
+        "Cover title",
+        "\"Every single rapid recipe from the past year.\"",
+        "Includes index"
+      ],
+      "isbn": [
+        "9780898217643",
+        "0898217644"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA15394",
+      "operator": "associate-jerry-medayre@archive.org",
+      "ppi": "300",
+      "publisher": "Greendale, WI : Taste of Home Books",
+      "repub_state": "19",
+      "scanner": "station01.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780898217643",
+      "subject": [
+        "Cooking, American",
+        "Quick and easy cooking"
+      ],
+      "title": "Taste of home's 2010 quick cooking annual recipes",
+      "tts_version": "3.1-initial-268-ge641e8b",
+      "uploader": "station01.cebu@archive.org",
+      "addeddate": "2019-12-02 14:41:24",
+      "publicdate": "2019-12-02 14:41:38",
+      "access-restricted-item": "true",
+      "imagecount": "346",
+      "scandate": "20191202155817",
+      "sent_to_scribe": "station01.cebu.archive.org",
+      "republisher_operator": "associate-glennblair-beduya@archive.org;associate-radel-luchavez@gmail.com",
+      "republisher_date": "20191210171613",
+      "republisher_time": "577",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/tasteofhomes20100000unse",
+      "identifier-ark": "ark:/13960/t3nw7kv1v",
+      "external-identifier": [
+        "urn:acs6:tasteofhomes20100000unse:epub:5c91d5e1-c693-43c4-8f92-ae0cf0550011",
+        "urn:acs6:tasteofhomes20100000unse:pdf:0c210239-6086-4ac0-af0b-dc786f770bf4",
+        "urn:lcp:tasteofhomes20100000unse:lcpdf:7bbfdfea-7993-4e9a-90e4-e0c4b39c6a17",
+        "urn:lcp:tasteofhomes20100000unse:epub:b2a09f9f-4af9-48f6-ab48-58ea59941dd0"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191231",
+      "backup_location": "ia907007_33",
+      "openlibrary_edition": "OL32146258M",
+      "openlibrary_work": "OL24301921W",
+      "oclc-id": "520988231",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "94",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia802905.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "num_copies": 2,
+            "pallet": [
+              "IA-MC-1300007",
+              "IA-MC-0000006"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-01-15 04:13:45.234686"
+        }
+      }
+    },
+    "uniq": 465590218,
+    "workable_servers": [
+      "ia802905.us.archive.org",
+      "ia902905.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

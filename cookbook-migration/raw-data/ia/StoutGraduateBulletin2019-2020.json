@@ -1,0 +1,279 @@
+{
+  "source": "internet_archive",
+  "identifier": "StoutGraduateBulletin2019-2020",
+  "title": "Graduate Bulletin [2019-2020]",
+  "creator": "University of Wisconsin--Stout. University Relations.",
+  "year": 2019,
+  "subject": [
+    "University of Wisconsin--Stout--History",
+    "University of Wisconsin--Stout--Periodicals",
+    "University of Wisconsin--Stout--Curricula",
+    "Home economics--Study and teaching--History",
+    "Art--Study and teaching--History",
+    "Industrial arts--Study and teaching--History",
+    "Physical education and training--Wisconsin--Menomonie--History"
+  ],
+  "description": "Annual and biennial bulletins of the University of Wisconsin-Stout and its predecessor institutions. The bulletins provide descriptions of campus, lists of administrators and faculty, information on institutional objectives, courses offered, and curriculum.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/StoutGraduateBulletin2019-2020"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/StoutGraduateBulletin2019-2020"
+        }
+      ]
+    },
+    "created": 1758335778,
+    "d1": "ia601609.us.archive.org",
+    "d2": "ia801609.us.archive.org",
+    "dir": "/7/items/StoutGraduateBulletin2019-2020",
+    "files": [
+      {
+        "name": "2019-2020_GraduateBulletin.pdf",
+        "source": "original",
+        "mtime": "1675359859",
+        "size": "2017835",
+        "md5": "30e3ad90a9c04b1b280949437068649b",
+        "crc32": "055cc238",
+        "sha1": "37c958eecf6807877ea73adc2706db1fa2f0fe48",
+        "format": "Text PDF",
+        "viruscheck": "1675360213"
+      },
+      {
+        "name": "2019-2020_GraduateBulletin_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-1-gd3a4",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "2019-2020_GraduateBulletin_jp2.zip",
+        "mtime": "1675362902",
+        "size": "10636084",
+        "md5": "21a4a2c4bed09367a719f08dce6e8544",
+        "crc32": "2d26cef8",
+        "sha1": "87b473eec278c24116646f7282b00ff1005ad7a5"
+      },
+      {
+        "name": "2019-2020_GraduateBulletin_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "2019-2020_GraduateBulletin_djvu.xml",
+        "mtime": "1675362972",
+        "size": "838914",
+        "md5": "18b57ff92e4b5ea3f7a2c8127275286d",
+        "crc32": "1fd54f26",
+        "sha1": "6cbffac02446c6e445e6f9f535e45b76367b6b47"
+      },
+      {
+        "name": "2019-2020_GraduateBulletin_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "2019-2020_GraduateBulletin_hocr.html",
+        "mtime": "1675362942",
+        "size": "9294343",
+        "md5": "3ebb86d2555e79ade645067c0e9cefbb",
+        "crc32": "bc158e8b",
+        "sha1": "d746d483fb14c54fa9c44fe912aff0ea62d2eb82"
+      },
+      {
+        "name": "2019-2020_GraduateBulletin_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "2019-2020_GraduateBulletin_chocr.html.gz",
+        "mtime": "1675362928",
+        "size": "17247081",
+        "md5": "3a49c92eb077bfe127fba163766b2477",
+        "crc32": "bbed9dc6",
+        "sha1": "24187abe7312fae68640314c7a6d14afdf3bd3f5"
+      },
+      {
+        "name": "2019-2020_GraduateBulletin_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "2019-2020_GraduateBulletin_hocr.html",
+        "mtime": "1675362951",
+        "size": "4875",
+        "md5": "fb9326369cb981d5a91fe304025070c3",
+        "crc32": "7d085b68",
+        "sha1": "749eeddd4d59d33e479a3ac969386c922451c486"
+      },
+      {
+        "name": "2019-2020_GraduateBulletin_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "17",
+        "word_conf_11_20": "19",
+        "word_conf_21_30": "27",
+        "word_conf_31_40": "50",
+        "word_conf_41_50": "58",
+        "word_conf_51_60": "47",
+        "word_conf_61_70": "74",
+        "word_conf_71_80": "150",
+        "word_conf_81_90": "1433",
+        "word_conf_91_100": "106689",
+        "format": "OCR Search Text",
+        "original": "2019-2020_GraduateBulletin_hocr.html",
+        "mtime": "1675362964",
+        "size": "198395",
+        "md5": "2d3d6fdc6c4aa237eb423ceeed38a441",
+        "crc32": "00cd7ccd",
+        "sha1": "b2a0c5e7b5e6f51943012eca992b30ffd926e3bb"
+      },
+      {
+        "name": "2019-2020_GraduateBulletin_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "2019-2020_GraduateBulletin.pdf",
+        "mtime": "1675361277",
+        "size": "166992349",
+        "md5": "0b9402f7e931518aa59a9aee92cfec58",
+        "crc32": "3c5800a8",
+        "sha1": "4f43f61ee163234e4e47a295b720f5e277b31af7",
+        "filecount": "406"
+      },
+      {
+        "name": "2019-2020_GraduateBulletin_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "2019-2020_GraduateBulletin_djvu.xml",
+        "mtime": "1675363147",
+        "size": "58151",
+        "md5": "6f0bd667de48fb9f8c40fb9ac76a2844",
+        "crc32": "fd0809a0",
+        "sha1": "ab76bd83ae857e2b714dcbbc5eb68a1d37c98309"
+      },
+      {
+        "name": "2019-2020_GraduateBulletin_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "2019-2020_GraduateBulletin_djvu.xml",
+        "mtime": "1675363142",
+        "size": "130460",
+        "md5": "cc8efe418def1448c4ad1dc6eb5cee8e",
+        "crc32": "61e17166",
+        "sha1": "5b27584259abc0f7e47b7720f45f059d8258d950"
+      },
+      {
+        "name": "StoutGraduateBulletin2019-2020_archive.torrent",
+        "source": "metadata",
+        "btih": "04386fcc827c203c4a46bb82d03e72e203cee200",
+        "mtime": "1675443439",
+        "size": "11626",
+        "md5": "325cb5e64bb9b5d629ebaab3ec5d9480",
+        "crc32": "0ae2071d",
+        "sha1": "df0fbd4100a8c9b09c0fb81ffda89fca48c1088d",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "StoutGraduateBulletin2019-2020_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "49f4a628238b9b9f3dafbe2aff98dac4",
+        "summation": "md5"
+      },
+      {
+        "name": "StoutGraduateBulletin2019-2020_meta.sqlite",
+        "source": "original",
+        "mtime": "1675359885",
+        "size": "20480",
+        "md5": "9ca9ce00f5a43dcad0153637e78f286e",
+        "crc32": "5caf8be4",
+        "sha1": "b3837b80ecbecff239c5fd2d5e641daa863e91ed",
+        "format": "Metadata"
+      },
+      {
+        "name": "StoutGraduateBulletin2019-2020_meta.xml",
+        "source": "original",
+        "mtime": "1675443436",
+        "size": "2134",
+        "md5": "177b56353af53ea90e0d0b6993a5ee4e",
+        "crc32": "9798d0af",
+        "sha1": "8b2faa7f6f9bf1937367f01b109c49bc6932e957",
+        "format": "Metadata"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1675363156",
+        "size": "13020",
+        "md5": "f71f92708169ed2f787de6282112f6a8",
+        "crc32": "c8ac8d16",
+        "sha1": "2ffab02c395e021b299e212739f53dd9065fa430",
+        "format": "Item Tile",
+        "rotation": "0"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1675443439,
+    "item_size": 207465747,
+    "metadata": {
+      "identifier": "StoutGraduateBulletin2019-2020",
+      "mediatype": "texts",
+      "creator": "University of Wisconsin--Stout. University Relations.",
+      "date": "2019-01-01",
+      "description": "Annual and biennial bulletins of the University of Wisconsin-Stout and its predecessor institutions. The bulletins provide descriptions of campus, lists of administrators and faculty, information on institutional objectives, courses offered, and curriculum.",
+      "language": "eng",
+      "licenseurl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "University of Wisconsin--Stout--History",
+        "University of Wisconsin--Stout--Periodicals",
+        "University of Wisconsin--Stout--Curricula",
+        "Home economics--Study and teaching--History",
+        "Art--Study and teaching--History",
+        "Industrial arts--Study and teaching--History",
+        "Physical education and training--Wisconsin--Menomonie--History"
+      ],
+      "title": "Graduate Bulletin [2019-2020]",
+      "uploader": "ambersoni6732@my.uwstout.edu",
+      "publicdate": "2023-02-02 17:44:37",
+      "addeddate": "2023-02-02 17:44:37",
+      "curation": "[curator]validator@archive.org[/curator][date]20230202175013[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/StoutGraduateBulletin2019-2020",
+      "identifier-ark": "ark:/13960/s2f818jq8h9",
+      "ppi": "300",
+      "ocr": "tesseract 5.3.0-1-gd3a4",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.18",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "collection": [
+        "stoutbulletins",
+        "universityofwisconsinstoutarchives",
+        "americana"
+      ],
+      "normalized_dates": [
+        "2019-01-01"
+      ]
+    },
+    "server": "ia601609.us.archive.org",
+    "uniq": 186824469,
+    "workable_servers": [
+      "ia601609.us.archive.org",
+      "ia801609.us.archive.org"
+    ]
+  }
+}

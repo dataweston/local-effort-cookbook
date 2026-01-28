@@ -1,0 +1,528 @@
+{
+  "source": "internet_archive",
+  "identifier": "chicken00desm",
+  "title": "Chicken",
+  "creator": "Better Homes and Gardens Books",
+  "year": 2000,
+  "subject": "Cookery (Chicken)",
+  "description": [
+    "At head of title: Better Homes and Gardens",
+    "Includes index"
+  ],
+  "metadata": {
+    "created": 1758335689,
+    "d1": "ia600301.us.archive.org",
+    "d2": "ia800301.us.archive.org",
+    "dir": "/0/items/chicken00desm",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659733593",
+        "size": "20052",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "a84e8746f0b8c8fa402d595d4082a33b",
+        "crc32": "eca83642",
+        "sha1": "261b6b48821fbdc0f6474cd010ba230a4fa45891"
+      },
+      {
+        "name": "chicken00desm.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "chicken00desm_hocr.html",
+        "mtime": "1753143225",
+        "size": "10861859",
+        "private": "true",
+        "md5": "b6879ed3cec0902020d3ec9f437baecc",
+        "crc32": "7d2e2e61",
+        "sha1": "d909e695acb4d6932bb0ec583c5ada8bb0c9db66"
+      },
+      {
+        "name": "chicken00desm.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "chicken00desm_jp2.zip",
+        "mtime": "1318007753",
+        "size": "263736",
+        "md5": "2e3fa540ca7539ccb5632d6193a53605",
+        "crc32": "15ecb879",
+        "sha1": "38b615f09cdf483364e1f6736f53e343609e015f"
+      },
+      {
+        "name": "chicken00desm.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "chicken00desm.pdf",
+        "mtime": "1753142811",
+        "size": "6985657",
+        "md5": "e9e30d02082db72f91d764a541f878a9",
+        "crc32": "30e31497",
+        "sha1": "424612024c2816ea5a9d96079e15f5e01f313365"
+      },
+      {
+        "name": "chicken00desm.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "chicken00desm_page_numbers.json",
+        "mtime": "1716324036",
+        "size": "6686210",
+        "md5": "975bc1a65d38298717736334d349c855",
+        "crc32": "0839b1bf",
+        "sha1": "8480bdb74acef6480f55801002c7bd4656275749",
+        "private": "true"
+      },
+      {
+        "name": "chicken00desm_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "chicken00desm_jp2.zip",
+        "mtime": "1318009342",
+        "size": "1982786",
+        "md5": "ee7f023c8942495cb724da3bcf40d2f1",
+        "crc32": "81a5906c",
+        "sha1": "71f596e1aae8e930f666761dbfa6c655e5e6da9e",
+        "private": "true"
+      },
+      {
+        "name": "chicken00desm_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "chicken00desm_abbyy.gz",
+        "mtime": "1659733146",
+        "size": "1635624",
+        "md5": "7a6229a8ae4893a59adde313702b6d56",
+        "crc32": "eb4067aa",
+        "sha1": "4fc24328fc78ed8937bc1c761d13822108c57698",
+        "private": "true"
+      },
+      {
+        "name": "chicken00desm_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "chicken00desm_scandata.xml",
+        "mtime": "1669575395",
+        "size": "741",
+        "md5": "25623fc06414ab51efa64fc60fe3427e",
+        "crc32": "678ddd9d",
+        "sha1": "572e9a4990dc4e9bb1eeb10f9eb50ee6e8858f85",
+        "private": "true"
+      },
+      {
+        "name": "chicken00desm_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1273175568",
+        "size": "655",
+        "md5": "d3e4eb5676155a181af64266f6773585",
+        "crc32": "ca84a820",
+        "sha1": "3d6608c55b92232bdd0fe524abb3b8dae9381f4b"
+      },
+      {
+        "name": "chicken00desm_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "chicken00desm_djvu.xml",
+        "mtime": "1716324260",
+        "size": "146117",
+        "md5": "c9fec7c532277fd012d253ccd1609509",
+        "crc32": "cf146451",
+        "sha1": "f00aea4ec2da3ff8675717be5c388319183f8cbe",
+        "private": "true"
+      },
+      {
+        "name": "chicken00desm_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "chicken00desm_hocr.html",
+        "mtime": "1716322900",
+        "size": "1694734",
+        "md5": "8120a17e835c4e5c9501a31c690009df",
+        "crc32": "2d090ee6",
+        "sha1": "c42ab996e5cbd9e69297294c3e894f950d7cacf3",
+        "private": "true"
+      },
+      {
+        "name": "chicken00desm_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "chicken00desm.pdf",
+        "mtime": "1716324263",
+        "size": "6670024",
+        "md5": "a19376a4a7b7a25faedae95f42804db6",
+        "crc32": "9d568c17",
+        "sha1": "44acb6f3905f7b579a8c42e492556f6f4fccf097"
+      },
+      {
+        "name": "chicken00desm_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "bd3e441ceedc4964a4c722e79a68a865",
+        "summation": "md5"
+      },
+      {
+        "name": "chicken00desm_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "chicken00desm_chocr.html.gz",
+        "mtime": "1659733328",
+        "size": "3535644",
+        "md5": "a64f98891c14578060c9cee8307c3f83",
+        "crc32": "708d2fec",
+        "sha1": "5a3055f48e32392868763da20bc40585c46f4279",
+        "private": "true"
+      },
+      {
+        "name": "chicken00desm_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "chicken00desm_hocr.html",
+        "mtime": "1659733407",
+        "size": "763",
+        "md5": "1d5632119b36281dc4d755182e44c571",
+        "crc32": "5983cd04",
+        "sha1": "e11b5fa3a4586e60e1318696fcfadb03c0619356",
+        "private": "true"
+      },
+      {
+        "name": "chicken00desm_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "3434",
+        "word_conf_11_20": "1524",
+        "word_conf_21_30": "2562",
+        "word_conf_31_40": "2779",
+        "word_conf_41_50": "3389",
+        "word_conf_51_60": "3230",
+        "word_conf_61_70": "2229",
+        "word_conf_71_80": "1051",
+        "word_conf_81_90": "530",
+        "word_conf_91_100": "584",
+        "format": "OCR Search Text",
+        "original": "chicken00desm_hocr.html",
+        "mtime": "1659733485",
+        "size": "36506",
+        "md5": "ca0b5b446981d26f371c8b6e9daa500f",
+        "crc32": "43d7921b",
+        "sha1": "ec66774734498de1550dad243b06cc52a4078620",
+        "private": "true"
+      },
+      {
+        "name": "chicken00desm_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "chicken00desm_orig_jp2.tar",
+        "mtime": "1318007502",
+        "size": "28086140",
+        "md5": "07a5862ed8d0718ac06d6ad30c7bfb00",
+        "crc32": "a5698f97",
+        "sha1": "68f9d59723b887607129bb400556eb96ede19500",
+        "private": "true",
+        "filecount": "66"
+      },
+      {
+        "name": "chicken00desm_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "chicken00desm.epub",
+        "mtime": "1753143613",
+        "size": "10915453",
+        "md5": "d2f720781813d08760b35701e5345362",
+        "crc32": "505c8a87",
+        "sha1": "0c6ec38a239a6c40582e6efd65408d7319f128ba"
+      },
+      {
+        "name": "chicken00desm_loans.json",
+        "source": "original",
+        "mtime": "1593460898",
+        "size": "2415",
+        "format": "JSON",
+        "private": "true",
+        "md5": "b4bde0695f774d832d4debfac3a5d8ff",
+        "crc32": "fcab10d1",
+        "sha1": "c4ea44c0937d0e80bb7163df94ca982f5d590bcc"
+      },
+      {
+        "name": "chicken00desm_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1273175568",
+        "size": "3366",
+        "md5": "9d3c331946b4fce1293a78dca41973e1",
+        "crc32": "d82b9ffa",
+        "sha1": "cf088780b878c4fd58e6f05d647c603e0ec366b0"
+      },
+      {
+        "name": "chicken00desm_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "chicken00desm_xisbn.json",
+        "mtime": "1454279510",
+        "size": "577",
+        "md5": "1fad2ee5807b421524be649f191ad23c",
+        "crc32": "3b821f41",
+        "sha1": "9980c10ea08cec9de3e5a322e33911c7fc9515a9",
+        "private": "true"
+      },
+      {
+        "name": "chicken00desm_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1273175568",
+        "size": "1014",
+        "md5": "8266d73b16ea1bb1882501f8c84d3aed",
+        "crc32": "2718c5ee",
+        "sha1": "c854f35fb4a5ca3efaacb317cd7af2de662bafab"
+      },
+      {
+        "name": "chicken00desm_meta.sqlite",
+        "source": "original",
+        "mtime": "1466600390",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "ed0025e822746f72574fb95c401347f9",
+        "crc32": "5ee93a5f",
+        "sha1": "af20effb93ed26eee2b29e37918eedcf53468413"
+      },
+      {
+        "name": "chicken00desm_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753143613",
+        "size": "3231",
+        "md5": "a25656fd7df77f6ddaa61bcd12953e3a",
+        "crc32": "b3492006",
+        "sha1": "a4be2603b07a1bcf716bfa7665e8717d9947f10e"
+      },
+      {
+        "name": "chicken00desm_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1273175568",
+        "size": "398",
+        "md5": "ef0e32e2ec6b229f3b7d446e72acd0d7",
+        "crc32": "3ad8957c",
+        "sha1": "b3d7d4548a842084c881fd1404f9ff1224fc694b"
+      },
+      {
+        "name": "chicken00desm_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1317918774",
+        "size": "49346560",
+        "md5": "6bbfebf3f6af245c5bf316d5d39b526b",
+        "crc32": "18a607be",
+        "sha1": "18c6c9231048ccf30945413f94de8335816c9f0a",
+        "private": "true",
+        "filecount": "66"
+      },
+      {
+        "name": "chicken00desm_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "18",
+        "format": "Page Numbers JSON",
+        "original": "chicken00desm_hocr.html",
+        "mtime": "1716322996",
+        "size": "10988",
+        "md5": "39223d30c6eeae783ff741c2b4ff3279",
+        "crc32": "9d0a7f17",
+        "sha1": "6022a2f34515199134f26a4efb065fdf439002e5",
+        "private": "true"
+      },
+      {
+        "name": "chicken00desm_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669575395",
+        "size": "66228",
+        "md5": "1ed628d9f3f9215cd2a2a410ee6d4431",
+        "crc32": "a7ab8df7",
+        "sha1": "7a948a6e97c10d2bb86d0209f95f72a4c62f3781"
+      },
+      {
+        "name": "chicken00desm_xisbn.json",
+        "source": "original",
+        "mtime": "1454143098",
+        "size": "738",
+        "md5": "66efd9f90f2a3f787767743e86387c58",
+        "crc32": "a52c3516",
+        "sha1": "bd1065ad63d74c1770081604621ac764f5a14dfc",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1753143613,
+    "item_size": 128964360,
+    "metadata": {
+      "title": "Chicken",
+      "creator": "Better Homes and Gardens Books",
+      "subject": "Cookery (Chicken)",
+      "description": [
+        "At head of title: Better Homes and Gardens",
+        "Includes index"
+      ],
+      "publisher": "Des Moines, Iowa : Better Homes and Gardens Books",
+      "date": "2000-01-01",
+      "language": "eng",
+      "isbn": [
+        "1929930011",
+        "9781929930012"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA118406",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-05-06 19:52:48",
+      "updater": "Phillip.L",
+      "identifier": "chicken00desm",
+      "uploader": "philip.l@archive.org",
+      "addeddate": "2010-05-06 19:52:50",
+      "publicdate": "2010-05-06 19:52:54",
+      "scanner": "scribe10.shenzhen.archive.org",
+      "repub_seconds": "74",
+      "ppi": "386",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-jack@archive.org",
+      "scandate": "20111006163245",
+      "imagecount": "66",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/chicken00desm",
+      "identifier-ark": "ark:/13960/t2892653v",
+      "scanfee": "150",
+      "sponsordate": "sent20111107",
+      "donor": "alibris",
+      "external-identifier": [
+        "urn:acs6:chicken00desm:pdf:99b904f3-843a-4e68-8868-960c1f93724c",
+        "urn:acs6:chicken00desm:epub:28b62ce9-9fe4-47e9-ad04-83261ae6e412",
+        "urn:oclc:record:1029262599",
+        "urn:lcp:chicken00desm:lcpdf:238ff758-1265-40e8-a83c-faf990fc8d2e",
+        "urn:lcp:chicken00desm:epub:d802793f-99e7-4218-97d4-482865030b52"
+      ],
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": "45103413",
+      "lccn": "00702275",
+      "related-external-id": [
+        "urn:isbn:086411737X",
+        "urn:oclc:154728726",
+        "urn:oclc:38822614",
+        "urn:isbn:1853917354",
+        "urn:oclc:41659439"
+      ],
+      "backup_location": "ia903605_13",
+      "openlibrary_edition": "OL24529388M",
+      "openlibrary_work": "OL15576835W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 18:08:06 UTC 2020",
+        "Tue Apr 2 23:18:16 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "18",
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "normalized_dates": [
+        "2000-01-01"
+      ]
+    },
+    "server": "ia800301.us.archive.org",
+    "uniq": 1607837997,
+    "workable_servers": [
+      "ia800301.us.archive.org",
+      "ia600301.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/45103413?referer=xid"
+          ],
+          "publisher": "Better Homes and Gardens Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "00702275"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "ed": "1st ed.",
+          "year": "2000",
+          "isbn": [
+            "1929930011"
+          ],
+          "title": "Chicken.",
+          "oclcnum": [
+            "45103413"
+          ]
+        },
+        {
+          "publisher": "Murdoch Books",
+          "url": [
+            "http://www.worldcat.org/oclc/154728726?referer=xid"
+          ],
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Sydney",
+          "year": "1997",
+          "isbn": [
+            "086411737X"
+          ],
+          "title": "Chicken.",
+          "oclcnum": [
+            "154728726",
+            "38822614"
+          ]
+        },
+        {
+          "publisher": "Merehurst",
+          "url": [
+            "http://www.worldcat.org/oclc/41659439?referer=xid"
+          ],
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "London",
+          "year": "1998",
+          "isbn": [
+            "1853917354"
+          ],
+          "title": "Chicken.",
+          "oclcnum": [
+            "41659439"
+          ]
+        }
+      ]
+    }
+  }
+}

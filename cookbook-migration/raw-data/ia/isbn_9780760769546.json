@@ -1,0 +1,565 @@
+{
+  "source": "internet_archive",
+  "identifier": "isbn_9780760769546",
+  "title": "Easy dinners pasta",
+  "creator": "Holcomb, Carrie E",
+  "year": 2005,
+  "subject": [
+    "Cooking (Pasta)",
+    "Quick and easy cooking"
+  ],
+  "description": [
+    "Author from bookjacket",
+    "\"Previously published as Grand Avenue Books : Easy Pasta Dinners. This edition published for Barnes & Noble, Inc. by Meredith Books.\"",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/isbn_9780760769546"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/isbn_9780760769546"
+        }
+      ]
+    },
+    "created": 1758558103,
+    "d1": "ia902909.us.archive.org",
+    "d2": "ia802909.us.archive.org",
+    "dir": "/25/items/isbn_9780760769546",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660355770",
+        "size": "15476",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "27501151d6b381d008c57b29f595bb15",
+        "crc32": "5e3eaec2",
+        "sha1": "c43832b0e9d782389f025859100c4f4fea7baf0b"
+      },
+      {
+        "name": "isbn_9780760769546.cdx.gz",
+        "source": "original",
+        "mtime": "1454581395",
+        "size": "6232",
+        "md5": "d1362543d2006ff753bcc40b8abcedf4",
+        "crc32": "a38ae885",
+        "sha1": "8fc632a3c5236c61142c0d8a0dd03db46779f2a9",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546.cdx.idx",
+        "source": "original",
+        "mtime": "1454581395",
+        "size": "34",
+        "md5": "6267feea3e68ee8a5f0e2b591e487439",
+        "crc32": "8eb67a98",
+        "sha1": "d4e9d82adb197df0571132bb43bf9c2b5a3b7073",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "isbn_9780760769546_hocr.html",
+        "mtime": "1753541988",
+        "size": "65264938",
+        "private": "true",
+        "md5": "29f4a2028ec8ddddd129abd243aa4c02",
+        "crc32": "3c88fed3",
+        "sha1": "c3b0d1f4552b4b426cd521a9548acba53c634251"
+      },
+      {
+        "name": "isbn_9780760769546.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "isbn_9780760769546_jp2.zip",
+        "mtime": "1336677342",
+        "size": "208076",
+        "md5": "d740ec4a5fd3688f742baa10c7fde549",
+        "crc32": "41ae5b07",
+        "sha1": "beb8040f9119620f5e70c135386de0ba2d6c0a8e"
+      },
+      {
+        "name": "isbn_9780760769546.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "isbn_9780760769546.pdf",
+        "mtime": "1753541889",
+        "size": "17601929",
+        "md5": "e84fdcb18beb773dfe6af3a050d61f1b",
+        "crc32": "64621784",
+        "sha1": "290952c5485ebdff94534d32997443159f105db4"
+      },
+      {
+        "name": "isbn_9780760769546.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "isbn_9780760769546_page_numbers.json",
+        "mtime": "1726414658",
+        "size": "17357265",
+        "md5": "eeab408d66a2a433dd341b77d39682ae",
+        "crc32": "81ba77c8",
+        "sha1": "dcb07170a495fbb0cdadc776873a332cb9f53d9e",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546.warc.gz",
+        "source": "original",
+        "mtime": "1354759949",
+        "size": "519277",
+        "md5": "c1a071a1c9190cc066406348e5674f13",
+        "crc32": "5818d3ca",
+        "sha1": "24cef039460b76070e277cd76c73ad5b622061c4",
+        "format": "Web ARChive GZ"
+      },
+      {
+        "name": "isbn_9780760769546.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "isbn_9780760769546.warc.gz",
+        "mtime": "1454581376",
+        "size": "6388",
+        "md5": "36fa285ab643218612d123999c95e5cc",
+        "crc32": "3cea8849",
+        "sha1": "6247ee8822047038ccf987f7bb8a4998b00fe787",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "isbn_9780760769546_jp2.zip",
+        "mtime": "1336679112",
+        "size": "3256191",
+        "md5": "99aa663c538f01df2d4392ed6c787252",
+        "crc32": "b5daf216",
+        "sha1": "3810ce49f208fd12c21cc8ef27028706c5575962",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "isbn_9780760769546_abbyy.gz",
+        "mtime": "1660355220",
+        "size": "2668769",
+        "md5": "a0df7bbcd605ebda6e735b6f4fb95935",
+        "crc32": "b0507e95",
+        "sha1": "7cd9e34f727ad82036eaa28983ff01a7cc2b978a",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "isbn_9780760769546_scandata.xml",
+        "mtime": "1667064453",
+        "size": "764",
+        "md5": "b12d3ac2dd94ace3ec9e565e85d4bc5e",
+        "crc32": "08ca1727",
+        "sha1": "514263798c64cf45520ef105226df96474ab25d2",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1504928925",
+        "size": "1316",
+        "md5": "5d2ee524be2107b8c546c86d7c7a0da3",
+        "crc32": "b74e7bed",
+        "sha1": "d7aba121bbd7e7a039c7b51d4b99c9ea73b29dd8"
+      },
+      {
+        "name": "isbn_9780760769546_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "isbn_9780760769546_djvu.xml",
+        "mtime": "1667064506",
+        "size": "244598",
+        "md5": "89084d77601fac2bbe60d883da91823c",
+        "crc32": "6338f708",
+        "sha1": "aa5da2bdfdf9441362683dc2aa3463586f6bd26b",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "isbn_9780760769546_hocr.html",
+        "mtime": "1667064311",
+        "size": "2950307",
+        "md5": "c0686f2e2acfca0bc62c63c98400550c",
+        "crc32": "3b778821",
+        "sha1": "36d863ed332883e91e4d61b35a7cdf33a502ba1a",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "isbn_9780760769546.pdf",
+        "mtime": "1726415018",
+        "size": "17291029",
+        "md5": "3fdb0f74d83641c19c98a8bc9b6cf497",
+        "crc32": "14c23d88",
+        "sha1": "64ec21d562c0fccdf663dfe2d6fc35a6703f370e"
+      },
+      {
+        "name": "isbn_9780760769546_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "6c8917f38fbffc98465471cc47e18cc1",
+        "summation": "md5"
+      },
+      {
+        "name": "isbn_9780760769546_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "isbn_9780760769546_chocr.html.gz",
+        "mtime": "1660355583",
+        "size": "5698538",
+        "md5": "936e673225135c2e595462032df6fba2",
+        "crc32": "21a96e86",
+        "sha1": "e6ffb545e34d3ccb6d296094d44772d93b9a684d",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "isbn_9780760769546_hocr.html",
+        "mtime": "1660355664",
+        "size": "2742",
+        "md5": "cbc97298315a5b46c8f59df4e1b21932",
+        "crc32": "e51f0400",
+        "sha1": "99b86b86883e356bf82a3c43ace5bd41b0972234",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2244",
+        "word_conf_11_20": "1818",
+        "word_conf_21_30": "4389",
+        "word_conf_31_40": "3982",
+        "word_conf_41_50": "5715",
+        "word_conf_51_60": "5584",
+        "word_conf_61_70": "5082",
+        "word_conf_71_80": "2661",
+        "word_conf_81_90": "1200",
+        "word_conf_91_100": "1528",
+        "format": "OCR Search Text",
+        "original": "isbn_9780760769546_hocr.html",
+        "mtime": "1660355744",
+        "size": "54538",
+        "md5": "79e6bd3eb53ca5e6bf9eafd3c16de1ca",
+        "crc32": "9c55e1e5",
+        "sha1": "7779989a12af8853075ce4d23081838025c1392e",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "isbn_9780760769546_orig_jp2.tar",
+        "mtime": "1336677316",
+        "size": "90176266",
+        "md5": "05dd7a845f42322a4cc40be6b39d6415",
+        "crc32": "3d1eb5d5",
+        "sha1": "758b4c7c5694b98d7814b757bca00fd77f7bcaf4",
+        "private": "true",
+        "filecount": "268"
+      },
+      {
+        "name": "isbn_9780760769546_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "isbn_9780760769546.epub",
+        "mtime": "1753542055",
+        "size": "65792281",
+        "md5": "b5d5745f8a1918d4dada626b5e10d2b6",
+        "crc32": "080b3882",
+        "sha1": "9a0c8149e0dd2dcf660ccce4f533650ac8b70973"
+      },
+      {
+        "name": "isbn_9780760769546_loans.json",
+        "source": "original",
+        "mtime": "1593083216",
+        "size": "1332",
+        "format": "JSON",
+        "private": "true",
+        "md5": "42b2836ec909bcff6ed57821ce05a1a7",
+        "crc32": "d27824de",
+        "sha1": "54154930eaa418e8c76364fc168b1d512beae438"
+      },
+      {
+        "name": "isbn_9780760769546_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1504928925",
+        "size": "4167",
+        "md5": "04d4516c399c86f7357a26816b7425ab",
+        "crc32": "8d178843",
+        "sha1": "bce4d0d04dc9a3e725020c51cf9d6257c05d0873"
+      },
+      {
+        "name": "isbn_9780760769546_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "isbn_9780760769546_xisbn.json",
+        "mtime": "1454581377",
+        "size": "266",
+        "md5": "baedb54e711261962deb504dfe8894db",
+        "crc32": "1ee9929d",
+        "sha1": "bcbb74860b422fc7f95cd9a8938852742be4c4e7",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454581373",
+        "size": "1272",
+        "md5": "35c1c0b88eac283be26ce9807c27f02a",
+        "crc32": "87e0fca9",
+        "sha1": "9b0819579f89c75cf2c30ead3e2e1e66236e95dd"
+      },
+      {
+        "name": "isbn_9780760769546_meta.sqlite",
+        "source": "original",
+        "mtime": "1467016082",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "55acb03a06f5fc830552c8a992c99687",
+        "crc32": "2026cb5c",
+        "sha1": "234236081b6fd666f27f2ec2f4c5e689ff98187c"
+      },
+      {
+        "name": "isbn_9780760769546_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753542091",
+        "size": "3410",
+        "md5": "a69f1ad3a8f3a16f8f2eb85ca988cba7",
+        "crc32": "1a179fa6",
+        "sha1": "19d6e7fdb0c37cc3c961483fa4b158e7b789df2a"
+      },
+      {
+        "name": "isbn_9780760769546_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1330632933",
+        "size": "301",
+        "md5": "1b2f893376b9ac84bc67e14e4c60a6db",
+        "crc32": "11d179f6",
+        "sha1": "78242e45a3ab30e6d6fc76d374a620f59f7b9219"
+      },
+      {
+        "name": "isbn_9780760769546_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1336666843",
+        "size": "148418560",
+        "md5": "931c75d9abc5a9d73afdef61ec2dbcd4",
+        "crc32": "bf1cbdae",
+        "sha1": "47537f05465e21120d4382389469a77c619b82b6",
+        "private": "true",
+        "filecount": "268"
+      },
+      {
+        "name": "isbn_9780760769546_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "40",
+        "format": "Page Numbers JSON",
+        "original": "isbn_9780760769546_hocr.html",
+        "mtime": "1726414658",
+        "size": "45483",
+        "md5": "6036d558a72e906fa7627dbd441d6dc9",
+        "crc32": "c04c342d",
+        "sha1": "7b4fb785c2d4cf192f35b0571795c511ac8665ee",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1667064453",
+        "size": "349824",
+        "md5": "5939840939fade37b59f021a6ffdd796",
+        "crc32": "2a0f225d",
+        "sha1": "a8af0e76cfd5f8f77520b11b99d2d732b4eb4c6b"
+      },
+      {
+        "name": "isbn_9780760769546_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "isbn_9780760769546_djvu.xml",
+        "mtime": "1667064507",
+        "size": "15099",
+        "md5": "e26bce4a3aee550123ed9519aaeb9c9f",
+        "crc32": "323a59aa",
+        "sha1": "21885c57d8a9ac36028501ebb95a2b908d93df40",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780760769546_xisbn.json",
+        "source": "original",
+        "mtime": "1454566544",
+        "size": "302",
+        "md5": "4780a7a4f6686164d2c4b535c971fa37",
+        "crc32": "47d6e9eb",
+        "sha1": "1883e2ae841b2ddbea8e60ed5c4deb39782b6e69",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 34,
+    "item_last_updated": 1753542091,
+    "item_size": 437963114,
+    "metadata": {
+      "isbn": [
+        "0760769540",
+        "9780760769546"
+      ],
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-03-01 20:15:31",
+      "updater": "associate-alethea-bowser@archive.org",
+      "boxid": "IA179001",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "shenzhen",
+      "sponsor": "Internet Archive",
+      "identifier": "isbn_9780760769546",
+      "uploader": "associate-alethea-bowser@archive.org",
+      "addeddate": "2012-03-01 20:15:36",
+      "publicdate": "2012-03-01 20:15:39",
+      "scanner": "scribe8.shenzhen.archive.org",
+      "repub_seconds": "316",
+      "ppi": "386",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-eason@archive.org",
+      "scandate": "20120509025927",
+      "republisher": "scanner-shenzhen-leo@archive.org",
+      "imagecount": "266",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/isbn_9780760769546",
+      "identifier-ark": "ark:/13960/t84j1mr0f",
+      "bookplateleaf": "0003",
+      "scanfee": "100",
+      "title": "Easy dinners pasta",
+      "publisher": "Des Moines, Iowa : Meredith Books ; New York : Barnes & Noble",
+      "creator": "Holcomb, Carrie E",
+      "donor": "bostonpubliclibrary",
+      "sponsordate": "not to be invoiced-past billing period",
+      "date": "2005-01-01",
+      "subject": [
+        "Cooking (Pasta)",
+        "Quick and easy cooking",
+        "Cooking (Pasta)",
+        "Quick and easy cooking"
+      ],
+      "description": [
+        "Author from bookjacket",
+        "\"Previously published as Grand Avenue Books : Easy Pasta Dinners. This edition published for Barnes & Noble, Inc. by Meredith Books.\"",
+        "Includes index"
+      ],
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": "69424191",
+      "backup_location": "ia903709_22",
+      "external-identifier": [
+        "urn:acs6:isbn_9780760769546:pdf:9c16c19a-64e0-4e17-ba56-5c470715f5de",
+        "urn:acs6:isbn_9780760769546:epub:227e421b-0df6-43ad-8434-f30fc9a894f1",
+        "urn:oclc:record:1035680429",
+        "urn:lcp:isbn_9780760769546:lcpdf:b2e9ab25-e9ac-49b4-ab39-2312b0caf2ca",
+        "urn:lcp:isbn_9780760769546:epub:326f976e-11a2-42df-aeeb-f05974c0fb98"
+      ],
+      "republisher_operator": "scanner-shenzhen-leo@archive.org",
+      "republisher_date": "20120510161545",
+      "openlibrary_edition": "OL26335843M",
+      "openlibrary_work": "OL17736353W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "40",
+      "pdf_module_version": "0.0.20",
+      "filesxml": "Wed Apr 3 6:06:54 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia902909.us.archive.org",
+    "uniq": 741906929,
+    "workable_servers": [
+      "ia902909.us.archive.org",
+      "ia802909.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/69424191?referer=xid"
+          ],
+          "publisher": "Meredith Books",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[Carrie Holcomb].",
+          "ed": "1st ed.",
+          "year": "2005",
+          "isbn": [
+            "0760769540"
+          ],
+          "title": "Easy dinners pasta",
+          "oclcnum": [
+            "69424191"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Holcomb, Carrie E",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

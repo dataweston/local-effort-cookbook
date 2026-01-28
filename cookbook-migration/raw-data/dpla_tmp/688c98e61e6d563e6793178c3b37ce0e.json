@@ -1,0 +1,101 @@
+{
+  "source": "dpla",
+  "id": "688c98e61e6d563e6793178c3b37ce0e",
+  "identifier": "688c98e61e6d563e6793178c3b37ce0e",
+  "title": "Minna Alpha cookbook, Charlestown, Indiana, 12 Dec 1885",
+  "subject": [
+    "Cookbooks",
+    "Recipes",
+    "Charlestown (Ind.)"
+  ],
+  "spatial": [
+    "Charlestown, Clark County, Indiana",
+    "38.4344238,-85.7070198"
+  ],
+  "description": "This cookbook is hand written in a small journal. On the inside cover is written Minna Alpha Dec. 12th 1885-86. A search of the 1880 U.S. Census shows that Minna was born around 1870 and lived in Charlestown, Indiana. The recipes are both food recipes and home remedies. Some of the recipes have been dated (the latest being 26 Feb 1891) and have a name of who provided the recipe.",
+  "isShownAt": "http://indianamemory.contentdm.oclc.org/cdm/ref/collection/p15078coll17/id/7926",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/indiana",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878471"
+    ],
+    "name": "Indiana Memory"
+  },
+  "institution": "Indiana Memory",
+  "year": 1885,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/688c98e61e6d563e6793178c3b37ce0e#SourceResource",
+      "collection": [
+        {
+          "title": "Clark County Collections"
+        }
+      ],
+      "creator": [
+        "Alpha, Minna, 1869-1950"
+      ],
+      "date": [
+        {
+          "displayDate": "1885-12-12"
+        }
+      ],
+      "description": [
+        "This cookbook is hand written in a small journal. On the inside cover is written Minna Alpha Dec. 12th 1885-86. A search of the 1880 U.S. Census shows that Minna was born around 1870 and lived in Charlestown, Indiana. The recipes are both food recipes and home remedies. Some of the recipes have been dated (the latest being 26 Feb 1891) and have a name of who provided the recipe."
+      ],
+      "identifier": [
+        "http://indianamemory.contentdm.oclc.org/cdm/ref/collection/p15078coll17/id/7926"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "spatial": [
+        {
+          "name": "Charlestown, Clark County, Indiana"
+        },
+        {
+          "name": "38.4344238,-85.7070198"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cookbooks"
+        },
+        {
+          "name": "Recipes"
+        },
+        {
+          "name": "Charlestown (Ind.)"
+        }
+      ],
+      "title": [
+        "Minna Alpha cookbook, Charlestown, Indiana, 12 Dec 1885"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1885-12-12",
+      "normalized_dates": [
+        "1885-12-12"
+      ]
+    }
+  },
+  "data": {
+    "object": "http://indianamemory.contentdm.oclc.org/utils/getthumbnail/collection/p15078coll17/id/7926",
+    "isShownAt": "http://indianamemory.contentdm.oclc.org/cdm/ref/collection/p15078coll17/id/7926"
+  },
+  "location": {
+    "state": "Ia",
+    "county": "Clark County"
+  },
+  "curation": {
+    "score": 8,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "County match: Clark County; Digitized scan available"
+}

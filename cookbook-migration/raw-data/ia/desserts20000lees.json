@@ -1,0 +1,527 @@
+{
+  "source": "internet_archive",
+  "identifier": "desserts20000lees",
+  "title": "Desserts 2",
+  "creator": "Lee, Sandra",
+  "year": 2008,
+  "subject": [
+    "Desserts",
+    "Quick and easy cooking"
+  ],
+  "description": [
+    "237 pages : 25 cm",
+    "Simple scrumptiously delicious desserts that taste like they're made from scratch Dozens of helpful hints for perfectly frosted favorites along with glorious goodies and gifts More than 125 satisfying shortcut sweets from creative cakes and confections to cookies New \"quick-scratch\" receipts for so-easy cupcakes, crisps, cobblers, pies, and pastries",
+    "Includes index",
+    "\"Simple scrumptiously delicious desserts that taste like they're made from scratch\"--Cover",
+    "Cakes -- Pies and tarts -- Heirloom desserts -- Sandy's sandies -- Chocolate confections -- Embellish me -- Bars and bites -- Cupcakes -- Cookies -- Parties"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/desserts20000lees"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/desserts20000lees"
+        }
+      ]
+    },
+    "created": 1758337366,
+    "d1": "ia903106.us.archive.org",
+    "d2": "ia803106.us.archive.org",
+    "dir": "/10/items/desserts20000lees",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659843054",
+        "size": "15891",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "c9e4f27d418e30beb4c1f75996f6cb33",
+        "crc32": "e91f13ef",
+        "sha1": "48390988460bd5a08d0338d5c68b8fe5085abfbb"
+      },
+      {
+        "name": "desserts20000lees.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "desserts20000lees_hocr.html",
+        "mtime": "1755721074",
+        "size": "162203849",
+        "private": "true",
+        "md5": "87486e5d2643cff3f1a854a6bfe30b9b",
+        "crc32": "51f54661",
+        "sha1": "e2de7fe252e3870443c3c5d4b1fcf26c7fce64c1"
+      },
+      {
+        "name": "desserts20000lees.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "desserts20000lees.pdf",
+        "mtime": "1755720765",
+        "size": "20371960",
+        "md5": "2afdbd800d494bb0e6552689902b2257",
+        "crc32": "dd75dec9",
+        "sha1": "7c0a22bdb2dd00af5db323f60f26dc3ed9ef0b18"
+      },
+      {
+        "name": "desserts20000lees.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "desserts20000lees_page_numbers.json",
+        "mtime": "1719788421",
+        "size": "19967465",
+        "md5": "b945bd00b374773b3f146d6653ce80b8",
+        "crc32": "931737f9",
+        "sha1": "4187106288e9b083ae6a4a46e29665e6af78ba59",
+        "private": "true"
+      },
+      {
+        "name": "desserts20000lees_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "desserts20000lees_jp2.zip",
+        "mtime": "1574414307",
+        "size": "3487852",
+        "md5": "68f56ae41e9ad6951100010824134f9e",
+        "crc32": "c86b82da",
+        "sha1": "c2ed49b730051d4c16d2ae429b455b196389e923",
+        "private": "true"
+      },
+      {
+        "name": "desserts20000lees_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "desserts20000lees_abbyy.gz",
+        "mtime": "1659842953",
+        "size": "2935378",
+        "md5": "e96bb2c0ba4794c1c53acaada0b30aa3",
+        "crc32": "c0357684",
+        "sha1": "6163e58f73787cdc50c3b2287d38dea1aec5040d",
+        "private": "true"
+      },
+      {
+        "name": "desserts20000lees_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "desserts20000lees_scandata.xml",
+        "mtime": "1669790134",
+        "size": "761",
+        "md5": "be4fcb3bfdff8d2eca02cb322c0b11ca",
+        "crc32": "eab5a7a3",
+        "sha1": "ee86313c9d729076e327edd3a55a63fc2efa390a",
+        "private": "true"
+      },
+      {
+        "name": "desserts20000lees_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1574405848",
+        "size": "1934",
+        "md5": "c3de502147ab00b81bcdc073ce26e9f1",
+        "crc32": "2345959b",
+        "sha1": "6addf2667791c738cca082bc47e1ee390189e122"
+      },
+      {
+        "name": "desserts20000lees_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "desserts20000lees_djvu.xml",
+        "mtime": "1659843048",
+        "size": "265781",
+        "md5": "3205fbd7aaa0ba380811446b6f82ff54",
+        "crc32": "90fd9bfb",
+        "sha1": "24a9bdacc94002d717971a64ed0a4c389ca81206",
+        "private": "true"
+      },
+      {
+        "name": "desserts20000lees_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "desserts20000lees_hocr.html",
+        "mtime": "1659842996",
+        "size": "3184026",
+        "md5": "521b5bde87fd44cb1990cf701cc9c0ae",
+        "crc32": "fe923b68",
+        "sha1": "b543540640ea1a7755b57c7399725665b9d18aea",
+        "private": "true"
+      },
+      {
+        "name": "desserts20000lees_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "desserts20000lees_abbyy.gz",
+        "mtime": "1574416459",
+        "size": "3141157",
+        "md5": "fd6bb643dca7948c1abb01099a3ea585",
+        "crc32": "f0bd6b1b",
+        "sha1": "bbbd42c2277702d5780dc170781271c3460e9597"
+      },
+      {
+        "name": "desserts20000lees_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "desserts20000lees.pdf",
+        "mtime": "1719789272",
+        "size": "19835698",
+        "md5": "b9d33c83dd09a3031e09d7e5419ac82b",
+        "crc32": "1df9791f",
+        "sha1": "e81ae6b8d09b12a140679692b982804bd39e5c3d"
+      },
+      {
+        "name": "desserts20000lees_events.json",
+        "source": "original",
+        "mtime": "1574405696",
+        "size": "58",
+        "md5": "ca10c4f8415faaf5fe7eeacbacda170c",
+        "crc32": "9ccdcdbf",
+        "sha1": "9a5b5c82f2bfca04d3ab1a26a6df327a442aca5d",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "desserts20000lees_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "7556dd6b043a1029be296c8df638f79c",
+        "summation": "md5"
+      },
+      {
+        "name": "desserts20000lees_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "desserts20000lees_chocr.html.gz",
+        "mtime": "1659842986",
+        "size": "6448681",
+        "md5": "2c3fba2c9d93b27985693e6a70b320e2",
+        "crc32": "ba9cab78",
+        "sha1": "d9dd8b59aa2e66c5de449614e59afcf85f231adb",
+        "private": "true"
+      },
+      {
+        "name": "desserts20000lees_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "desserts20000lees_hocr.html",
+        "mtime": "1659843029",
+        "size": "2456",
+        "md5": "251059302fdd5c1d3da2d4d7bdffdc1a",
+        "crc32": "7d911b6e",
+        "sha1": "cad460601fe9d818376b7ad6a29ee7fb5cf502fa",
+        "private": "true"
+      },
+      {
+        "name": "desserts20000lees_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "174",
+        "word_conf_11_20": "240",
+        "word_conf_21_30": "428",
+        "word_conf_31_40": "571",
+        "word_conf_41_50": "775",
+        "word_conf_51_60": "1117",
+        "word_conf_61_70": "2424",
+        "word_conf_71_80": "5540",
+        "word_conf_81_90": "10092",
+        "word_conf_91_100": "16287",
+        "format": "OCR Search Text",
+        "original": "desserts20000lees_hocr.html",
+        "mtime": "1659843041",
+        "size": "61362",
+        "md5": "403f5bf9722ff07ce2667727ff105100",
+        "crc32": "d7068243",
+        "sha1": "be1ceab66d147ff8fb893527e8249a9a029f1676",
+        "private": "true"
+      },
+      {
+        "name": "desserts20000lees_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "desserts20000lees_orig_jp2.tar",
+        "mtime": "1574412394",
+        "size": "208882967",
+        "md5": "249b7b7a144f069aa255cc4dadd9f0b6",
+        "crc32": "e7d9bb52",
+        "sha1": "d968b7b5a793b6286017b273f6d724ad39cfd6e0",
+        "private": "true",
+        "filecount": "246"
+      },
+      {
+        "name": "desserts20000lees_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "desserts20000lees.epub",
+        "mtime": "1755721394",
+        "size": "163110061",
+        "md5": "cda98430fbb204a0dc9b507d4d70011a",
+        "crc32": "765860e7",
+        "sha1": "2d4a155664a5afd7035a7cc9971c7bbd59a3cae9"
+      },
+      {
+        "name": "desserts20000lees_loans.json",
+        "source": "original",
+        "mtime": "1593502105",
+        "size": "2178",
+        "format": "JSON",
+        "private": "true",
+        "md5": "6b98cf144961d56960a6f3109689c347",
+        "crc32": "fa2d63b0",
+        "sha1": "b384c6add7f468ddec2929f8af42bd869fdeda51"
+      },
+      {
+        "name": "desserts20000lees_marc.xml",
+        "source": "original",
+        "mtime": "1574405847",
+        "size": "7887",
+        "format": "MARC",
+        "md5": "e2ce5b0bb97ad4cdf5f585408dec065e",
+        "crc32": "42fc553f",
+        "sha1": "1bb5c1af50f318a16d333a46749135fdb9b288c7"
+      },
+      {
+        "name": "desserts20000lees_meta.mrc",
+        "source": "original",
+        "mtime": "1574339724",
+        "size": "2529",
+        "md5": "d58854a1bfb3f9f1a7e75997a9a77ba8",
+        "crc32": "3bf57c65",
+        "sha1": "6d36a4220d24cd1ddda4d72c7d2cdd161c088f80",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "desserts20000lees_meta.sqlite",
+        "source": "original",
+        "mtime": "1574405741",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "d30d5cc6612ee002cdb1498423a2d35a",
+        "crc32": "80811df8",
+        "sha1": "728a4b02c44739ce3c8760c9b3faf138fc6c28e8"
+      },
+      {
+        "name": "desserts20000lees_meta.xml",
+        "source": "original",
+        "mtime": "1755721395",
+        "size": "3600",
+        "format": "Metadata",
+        "md5": "e4c7a87dc32ec7936784900e49e00469",
+        "crc32": "80a4e93a",
+        "sha1": "f966073555cd6b35b04a2436e1024c8a7a2bb438"
+      },
+      {
+        "name": "desserts20000lees_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1574405740",
+        "size": "374466560",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "f9c8a169cd1686a7395d0f8bd18fe797",
+        "crc32": "73e97699",
+        "sha1": "a24c8e7373adb76641a92e6790ab858dc4cfa36d",
+        "filecount": "246"
+      },
+      {
+        "name": "desserts20000lees_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "45",
+        "format": "Page Numbers JSON",
+        "original": "desserts20000lees_hocr.html",
+        "mtime": "1719788421",
+        "size": "41815",
+        "md5": "0fb28d92112b3eb792a3b84af3cc51b4",
+        "crc32": "47242cd7",
+        "sha1": "4284c8b64bbcdc72ab93441cd0b1a4cbf17e9e65",
+        "private": "true"
+      },
+      {
+        "name": "desserts20000lees_scandata.xml",
+        "source": "original",
+        "mtime": "1669790134",
+        "size": "251497",
+        "format": "Scandata",
+        "md5": "f2c77c79bf73371c328687cd20891b54",
+        "crc32": "c4f8dc19",
+        "sha1": "d223ac13ee54856dbb15e7a7e2e3debe14832eaa"
+      },
+      {
+        "name": "desserts20000lees_slip.png",
+        "source": "original",
+        "mtime": "1574325273",
+        "size": "35932",
+        "md5": "015a75cba66641c0a8554c1f3f82f0f5",
+        "crc32": "e4824b71",
+        "sha1": "e01f4f09db546b9eac00e9fe6f090b181c75a82e",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "desserts20000lees_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "desserts20000lees_slip.png",
+        "mtime": "1574405852",
+        "size": "5071",
+        "md5": "1d9d2669793a0a315c086017c082cb34",
+        "crc32": "2f49047d",
+        "sha1": "ad31f4a94f545020c5a5830387c7f008925999fa",
+        "private": "true"
+      },
+      {
+        "name": "desserts20000lees_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "desserts20000lees_djvu.xml",
+        "mtime": "1669790058",
+        "size": "496",
+        "md5": "9ae927459d41c2ea344b2f0362983a9c",
+        "crc32": "59cc0f4b",
+        "sha1": "5b182a4b4a4d3f237badd160ec10a31d0d7ac2be",
+        "private": "true"
+      },
+      {
+        "name": "logs/desserts20000lees_iabdash_2019-11-2120:35:25.log",
+        "source": "original",
+        "mtime": "1574339730",
+        "size": "646",
+        "md5": "ab09cb9df7f63ac599886595baa112fc",
+        "crc32": "504aa939",
+        "sha1": "301704574b7845ef31028768716843ca212e77dc",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/desserts20000lees_scanning_2019-11-2120:35:31.log",
+        "source": "original",
+        "mtime": "1574339736",
+        "size": "798851",
+        "md5": "e5995183e030a1ab355e8ae96bd90160",
+        "crc32": "6ecb456d",
+        "sha1": "a83c413d4ca033440fd92e1659f8e18c562b3788",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1755721395,
+    "item_size": 989552831,
+    "metadata": {
+      "identifier": "desserts20000lees",
+      "boxid": "IA1701022",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Lee, Sandra",
+      "date": "2008-01-01",
+      "description": [
+        "237 pages : 25 cm",
+        "Simple scrumptiously delicious desserts that taste like they're made from scratch Dozens of helpful hints for perfectly frosted favorites along with glorious goodies and gifts More than 125 satisfying shortcut sweets from creative cakes and confections to cookies New \"quick-scratch\" receipts for so-easy cupcakes, crisps, cobblers, pies, and pastries",
+        "Includes index",
+        "\"Simple scrumptiously delicious desserts that taste like they're made from scratch\"--Cover",
+        "Cakes -- Pies and tarts -- Heirloom desserts -- Sandy's sandies -- Chocolate confections -- Embellish me -- Bars and bites -- Cupcakes -- Cookies -- Parties"
+      ],
+      "isbn": [
+        "9780696241819",
+        "0696241811"
+      ],
+      "language": "eng",
+      "lccn": "2008922210",
+      "mediatype": "texts",
+      "old_pallet": "IA14977",
+      "openlibrary_edition": "OL25991381M",
+      "openlibrary_work": "OL17409754W",
+      "operator": "associate-gina-lanoy@archive.org",
+      "ppi": "300",
+      "publisher": "Des Moines, Iowa : Meredith Books",
+      "repub_state": "19",
+      "scanner": "station17.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780696241819",
+      "subject": [
+        "Desserts",
+        "Quick and easy cooking"
+      ],
+      "title": "Desserts 2",
+      "tts_version": "3.0-initial-170-gdf78d52",
+      "uploader": "station17.cebu@archive.org",
+      "addeddate": "2019-11-21 08:34:34",
+      "publicdate": "2019-11-21 08:34:46",
+      "access-restricted-item": "true",
+      "imagecount": "246",
+      "scandate": "20191121133224",
+      "notes": "Obscured text on back cover.<br />",
+      "republisher_operator": "associate-marycris-avenido@archive.org",
+      "republisher_date": "20191122145450",
+      "republisher_time": "517",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/desserts20000lees",
+      "identifier-ark": "ark:/13960/t1fk0jf5t",
+      "external-identifier": [
+        "urn:acs6:desserts20000lees:epub:200ba683-5a63-43d3-9e41-66c4e5e2d462",
+        "urn:acs6:desserts20000lees:pdf:35d26e52-8185-4f1d-b838-586031ad0411",
+        "urn:oclc:record:1148826444",
+        "urn:lcp:desserts20000lees:lcpdf:444c65e4-fbe8-462f-ae28-d3f8844d3301",
+        "urn:lcp:desserts20000lees:epub:eb62a765-9c0a-4c3d-841f-1f755a8b8c0d"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191130",
+      "backup_location": "ia907006_34",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "45",
+      "source": "removed",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "2008-01-01"
+      ]
+    },
+    "server": "ia903106.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40227910",
+              "IA40315107"
+            ],
+            "num_copies": 2
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 05:22:38.487062"
+        }
+      }
+    },
+    "uniq": 586607085,
+    "workable_servers": [
+      "ia903106.us.archive.org",
+      "ia803106.us.archive.org"
+    ]
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "source": "internet_archive",
+  "identifier": "classicchristmas00bett",
+  "title": "Classic Christmas cookies",
+  "creator": "Better Homes and Gardens",
+  "year": 1992,
+  "subject": [
+    "Cookies",
+    "Christmas cooking"
+  ],
+  "description": null,
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/classicchristmas00bett"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/classicchristmas00bett"
+        }
+      ]
+    },
+    "created": 1758555598,
+    "d1": "ia600204.us.archive.org",
+    "d2": "ia800204.us.archive.org",
+    "dir": "/3/items/classicchristmas00bett",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659751565",
+        "size": "23741",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "284aed3901df4e014df6ca7bebc26be0",
+        "crc32": "cb40d1ca",
+        "sha1": "2201471698acf3e427436224bad9b09c1fbd8230"
+      },
+      {
+        "name": "classicchristmas00bett.djvu",
+        "source": "derivative",
+        "format": "DjVu",
+        "original": "classicchristmas00bett_djvu.xml",
+        "mtime": "1294828143",
+        "size": "1371551",
+        "md5": "4654deece68ad09a0478725c0237f50f",
+        "crc32": "db4fa859",
+        "sha1": "3c47fb5020a6381d6b0946bef6af22bba85bb569",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "classicchristmas00bett_hocr.html",
+        "mtime": "1753156137",
+        "size": "6902591",
+        "private": "true",
+        "md5": "7992e0fb040245db0121380e846a4db8",
+        "crc32": "52cf077a",
+        "sha1": "2ddf8d24fec4ad47298c6aec0ec3704f294538e0"
+      },
+      {
+        "name": "classicchristmas00bett.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "classicchristmas00bett_jp2.zip",
+        "mtime": "1294827468",
+        "size": "214082",
+        "md5": "51cb13c36224c388edb2f00621e5a59d",
+        "crc32": "79a6a718",
+        "sha1": "708d6470749c051bd832b50fb3f8e6d6a00c6044"
+      },
+      {
+        "name": "classicchristmas00bett.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "classicchristmas00bett.pdf",
+        "mtime": "1753155893",
+        "size": "2509249",
+        "md5": "124471ef79cbec73730665b057f2fa05",
+        "crc32": "c604621a",
+        "sha1": "3f912f5d65d3d00e3b93ec1ec876b15212f5c59a"
+      },
+      {
+        "name": "classicchristmas00bett.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "classicchristmas00bett_page_numbers.json",
+        "mtime": "1718699068",
+        "size": "2127365",
+        "md5": "bd0e67cbc1d65cd3d085ecd070a6d2aa",
+        "crc32": "3683d8d8",
+        "sha1": "368018026e4e50153aa8cc934120302e0249b969",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "classicchristmas00bett_jp2.zip",
+        "mtime": "1294827988",
+        "size": "466628",
+        "md5": "2cb626e78a0ff47a17a956934dacbc43",
+        "crc32": "de1c3816",
+        "sha1": "375a3fec93ba7d7f1588b9889d082749a190be89",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "classicchristmas00bett_page_numbers.json",
+        "mtime": "1718699070",
+        "size": "1900746",
+        "md5": "2955def70d69513bddbbf7354b061a4a",
+        "crc32": "f95944c7",
+        "sha1": "8e9f59de05b1797f3958f97ba87921e8504c193a",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "classicchristmas00bett_abbyy.gz",
+        "mtime": "1659751070",
+        "size": "385905",
+        "md5": "1447138a14ef86890992df6bbb20a0f4",
+        "crc32": "2137d63f",
+        "sha1": "3723fbca1808a468c4dd14a5a7397b95df381700",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "classicchristmas00bett_scandata.xml",
+        "mtime": "1669594366",
+        "size": "778",
+        "md5": "635b955b48828ee9d386d95543657ad6",
+        "crc32": "a493d8ad",
+        "sha1": "74da5c4b7d3d87fc83ebe004d8e9496c060948bc",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1282229775",
+        "size": "576",
+        "md5": "9f04a5d0b2b84d2ef8edc86c461db096",
+        "crc32": "12c2e498",
+        "sha1": "99a24ce739e3edf6818f41e096b379d75a663714"
+      },
+      {
+        "name": "classicchristmas00bett_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "classicchristmas00bett_djvu.xml",
+        "mtime": "1659751560",
+        "size": "34519",
+        "md5": "5e71b3e46d1ec15e5a7e12b5547fb483",
+        "crc32": "1cffe761",
+        "sha1": "00c793f86dd143a0230b3739f5c47798f3867be0",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "classicchristmas00bett_hocr.html",
+        "mtime": "1659751374",
+        "size": "429801",
+        "md5": "767a2fcc8fddcd2489341a61a5b1e474",
+        "crc32": "9daa5e44",
+        "sha1": "79d32862feb7a78ce5e50b1309a0de5b2eb3f3b0",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "classicchristmas00bett_jpg.pdf",
+        "mtime": "1506194677",
+        "size": "485565",
+        "md5": "cc882dc8afb6fa74d443aa090113f4c1",
+        "crc32": "bc99a1d0",
+        "sha1": "0dc7a697f5f07cf5f0862cefe221c04ada219a1b"
+      },
+      {
+        "name": "classicchristmas00bett_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "classicchristmas00bett.pdf",
+        "mtime": "1718699271",
+        "size": "2122649",
+        "md5": "cbbb439c31f53ddddea71764ec102cc5",
+        "crc32": "f5160b79",
+        "sha1": "c575c98be15992b81f28ad41aa63a52094bb68a9"
+      },
+      {
+        "name": "classicchristmas00bett_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "3de252f9b8bcd43c69574edff8fdaf27",
+        "summation": "md5"
+      },
+      {
+        "name": "classicchristmas00bett_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "classicchristmas00bett_chocr.html.gz",
+        "mtime": "1659751332",
+        "size": "829988",
+        "md5": "ef2ceb39b14860eb953bc7e69c395756",
+        "crc32": "e3a046b0",
+        "sha1": "3203e209dba642358e71b35c263a0907e219e59b",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "classicchristmas00bett_hocr.html",
+        "mtime": "1659751434",
+        "size": "357",
+        "md5": "8719f8086f9d860ecf71816b13a2c27b",
+        "crc32": "73f7da38",
+        "sha1": "3c66b69d2b2ac5765b6433cf5af0bf4bb2eca26f",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "411",
+        "word_conf_11_20": "303",
+        "word_conf_21_30": "609",
+        "word_conf_31_40": "634",
+        "word_conf_41_50": "921",
+        "word_conf_51_60": "951",
+        "word_conf_61_70": "740",
+        "word_conf_71_80": "285",
+        "word_conf_81_90": "96",
+        "word_conf_91_100": "118",
+        "format": "OCR Search Text",
+        "original": "classicchristmas00bett_hocr.html",
+        "mtime": "1659751527",
+        "size": "8663",
+        "md5": "04f5ed3eefeeed674abdc95770dc2b70",
+        "crc32": "a51fe39c",
+        "sha1": "188c3959a48465c2e10987d369389d064710514f",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "classicchristmas00bett_orig_jp2.tar",
+        "mtime": "1294827423",
+        "size": "13909570",
+        "md5": "5e3b015d3edad93896decd903d1428cf",
+        "crc32": "84bb7b31",
+        "sha1": "6713904453ab339592747d3355de7a5f8fa1558e",
+        "private": "true",
+        "filecount": "32"
+      },
+      {
+        "name": "classicchristmas00bett_jpg.pdf",
+        "source": "derivative",
+        "format": "JPEG-Compressed PDF",
+        "original": "classicchristmas00bett_djvu.xml",
+        "mtime": "1294828347",
+        "size": "4427229",
+        "md5": "613e08e30b4147482aecfe8309c6bd9a",
+        "crc32": "a413605b",
+        "sha1": "9cc30de34910aadc3f6cb21fe166cee89b918b6d",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "classicchristmas00bett.epub",
+        "mtime": "1753156388",
+        "size": "6925700",
+        "md5": "eb79fdba1c6c93324dca731e33368502",
+        "crc32": "bb20269c",
+        "sha1": "bbe283b7a05ef2704aa0db1eef40f2f09722edb4"
+      },
+      {
+        "name": "classicchristmas00bett_loans.json",
+        "source": "original",
+        "mtime": "1593478891",
+        "size": "11003",
+        "format": "JSON",
+        "private": "true",
+        "md5": "f9754db325750cc32a85a5ff36c007d2",
+        "crc32": "5c62b09f",
+        "sha1": "23c5842cd6e8f10c568b4204b41e3608804e3e39"
+      },
+      {
+        "name": "classicchristmas00bett_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1282229775",
+        "size": "2011",
+        "md5": "c964b07377aa4d0aba2145e9304a16d7",
+        "crc32": "b7957dad",
+        "sha1": "d2da52398a82ecdf03fe0cdc7341cba61021a456"
+      },
+      {
+        "name": "classicchristmas00bett_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "classicchristmas00bett_xisbn.json",
+        "mtime": "1454278162",
+        "size": "271",
+        "md5": "ab2461a804c35ed63448f253ac7f75be",
+        "crc32": "c89c47ca",
+        "sha1": "809c162deb7d055f89f7c1bbd8c4fed41b89976c",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1282229775",
+        "size": "607",
+        "md5": "5a949c71199cd6105c9b1504f95339f7",
+        "crc32": "fb4e0e3f",
+        "sha1": "29ffb88525b878739963efc62146d24327cfd214"
+      },
+      {
+        "name": "classicchristmas00bett_meta.sqlite",
+        "source": "original",
+        "mtime": "1466435710",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "f6532a42ae09bd2d91fa2db7ff9444ca",
+        "crc32": "f2c5f4a7",
+        "sha1": "f56ce29412144f872346c4d10f8f31c0193c7d12"
+      },
+      {
+        "name": "classicchristmas00bett_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753156388",
+        "size": "2883",
+        "md5": "7329055e05a4a5d7d45db2aba4ddd9b0",
+        "crc32": "6f2a2d60",
+        "sha1": "bc03c728fd9a4d5d475e31f352208b3bb69048b2"
+      },
+      {
+        "name": "classicchristmas00bett_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1282229775",
+        "size": "402",
+        "md5": "1a3c9e8165e7da94af4da17442a4b7ff",
+        "crc32": "ad0b5572",
+        "sha1": "2e6f79404ff0dcc24f8d9830ea3f370cda7f1a52"
+      },
+      {
+        "name": "classicchristmas00bett_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1294826540",
+        "size": "19630080",
+        "md5": "6cafdb80fad3f6398018c57e761a11a6",
+        "crc32": "b3eced13",
+        "sha1": "9a088c2acd434e92771264b9b97621aec34f45e8",
+        "private": "true",
+        "filecount": "32"
+      },
+      {
+        "name": "classicchristmas00bett_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "66",
+        "format": "Page Numbers JSON",
+        "original": "classicchristmas00bett_hocr.html",
+        "mtime": "1718699068",
+        "size": "4844",
+        "md5": "0263f0ca3bc5c825a8b0a4c4e35dacdc",
+        "crc32": "ae8a34b4",
+        "sha1": "2ab09a760ff89238f33d12922cb00db4d8cc9cbe",
+        "private": "true"
+      },
+      {
+        "name": "classicchristmas00bett_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669594366",
+        "size": "17247",
+        "md5": "8d563cbe0b5fcd2e9e1784f843808c5b",
+        "crc32": "25284821",
+        "sha1": "a8a455d636d8580d585b31d49d24b164c4589ce4"
+      },
+      {
+        "name": "classicchristmas00bett_xisbn.json",
+        "source": "original",
+        "mtime": "1454154316",
+        "size": "306",
+        "md5": "5030b290371c2b147e79829badd99e50",
+        "crc32": "c6aba7fb",
+        "sha1": "60d7f42b2dbc7f92373d6d6cfe12e1d63a4b3c41",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 33,
+    "item_last_updated": 1753156388,
+    "item_size": 64753051,
+    "metadata": {
+      "title": "Classic Christmas cookies",
+      "creator": "Better Homes and Gardens",
+      "subject": [
+        "Cookies",
+        "Christmas cooking"
+      ],
+      "publisher": "Des Moines, IA : Meredith Corp.",
+      "date": "1992-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696024594",
+        "9780696024597"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA121920",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-08-19 14:56:15",
+      "updater": "Sanderia",
+      "identifier": "classicchristmas00bett",
+      "uploader": "sanderia@archive.org",
+      "addeddate": "2010-08-19 14:56:17",
+      "publicdate": "2010-08-19 14:56:24",
+      "scanner": "scribe7.shenzhen.archive.org",
+      "ppi": "300",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-lina@archive.org",
+      "scandate": "20110112081249",
+      "imagecount": "30",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/classicchristmas00bett",
+      "identifier-ark": "ark:/13960/t8tb1xm3z",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20110208191945[/date][state]approved[/state]",
+      "external-identifier": [
+        "urn:acs6:classicchristmas00bett:pdf:826abf07-234a-4346-ab9b-311086ad135b",
+        "urn:acs6:classicchristmas00bett:epub:08436d13-d15b-4b39-a0a9-f9581a435cad",
+        "urn:oclc:record:1029281597",
+        "urn:lcp:classicchristmas00bett:lcpdf:203f7887-08da-4d5e-8efe-92fab367d65f",
+        "urn:lcp:classicchristmas00bett:epub:b3b9e1d9-d180-4acd-802f-05729a5daff0"
+      ],
+      "curatenote": "shipped",
+      "sponsordate": "sent20110224",
+      "scanfee": "15",
+      "boxid_2": "CH112801",
+      "donor": "alibris",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": "28681101",
+      "backup_location": "ia903606_5",
+      "openlibrary_edition": "OL24761804M",
+      "openlibrary_work": "OL15852624W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 19:06:22 UTC 2020",
+        "Tue Apr 2 23:33:09 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "66",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia600204.us.archive.org",
+    "uniq": 1454354734,
+    "workable_servers": [
+      "ia600204.us.archive.org",
+      "ia800204.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/28681101?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "ed": "1st ed.",
+          "year": "1992",
+          "isbn": [
+            "0696024594"
+          ],
+          "title": "Better homes and gardens classic Christmas cookies.",
+          "oclcnum": [
+            "28681101"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Better Homes and Gardens",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

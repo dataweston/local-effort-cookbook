@@ -1,0 +1,119 @@
+{
+  "source": "dpla",
+  "id": "3c5b2e522bbc19060fd11796a192b244",
+  "identifier": "3c5b2e522bbc19060fd11796a192b244",
+  "title": "Cook book of the Northwest",
+  "subject": [
+    "Cooking--Iowa",
+    "Cooking, American",
+    "Menus--United States--19th Century",
+    "Cookbooks--1880-1889"
+  ],
+  "spatial": [
+    "Iowa",
+    "United States"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/010747245",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1887,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/3c5b2e522bbc19060fd11796a192b244#SourceResource",
+      "contributor": [
+        "Westminster Presbyterian Church (Keokuk, Iowa)"
+      ],
+      "date": [
+        {
+          "displayDate": "1887, c1875"
+        }
+      ],
+      "extent": [
+        "180 p., [31] blank leaves : 20 cm"
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-ucsd.b34443125",
+        "(OCoLC)14472513",
+        "Hathi: 010747245"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Chicago, Ill. : J.L. Regan"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Iowa"
+        },
+        {
+          "name": "United States"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking--Iowa"
+        },
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Menus--United States--19th Century"
+        },
+        {
+          "name": "Cookbooks--1880-1889"
+        }
+      ],
+      "temporal": [
+        {
+          "displayDate": "19th Century"
+        },
+        {
+          "displayDate": "1880-1889"
+        }
+      ],
+      "title": [
+        "Cook book of the Northwest"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1887-01-01",
+      "normalized_dates": [
+        "1887-01-01"
+      ]
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=f8VQAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/010747245"
+  },
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Presbyterian"
+    ]
+  },
+  "curation_notes": "State match: Iowa; Community markers: Church, Presbyterian; Digitized scan available"
+}

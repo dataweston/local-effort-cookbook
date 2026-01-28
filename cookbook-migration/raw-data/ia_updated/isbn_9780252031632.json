@@ -1,0 +1,685 @@
+{
+  "source": "internet_archive",
+  "identifier": "isbn_9780252031632",
+  "title": "The turkey : an American story",
+  "creator": "Smith, Andrew F., 1946-",
+  "year": 2006,
+  "subject": [
+    "Turkeys",
+    "Cooking (Turkey)"
+  ],
+  "description": "Includes bibliographical references (p. [205]-217) and index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/isbn_9780252031632"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/isbn_9780252031632"
+        }
+      ]
+    },
+    "created": 1758556038,
+    "d1": "ia600403.us.archive.org",
+    "d2": "ia800403.us.archive.org",
+    "dir": "/33/items/isbn_9780252031632",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660338542",
+        "size": "17909",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "47536ec887bba0f132dcf110d14af784",
+        "crc32": "40757135",
+        "sha1": "d77c70eca240cdecc3ea44d4e00be51380fbd39d"
+      },
+      {
+        "name": "isbn_9780252031632.cdx.gz",
+        "source": "original",
+        "mtime": "1398840860",
+        "size": "4820",
+        "md5": "5de03e84defc26f0754e2ddcb17910b4",
+        "crc32": "2077e2d4",
+        "sha1": "df856cc6c5aa2b1d4e6ee45ddc1929ea8242240a",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632.cdx.idx",
+        "source": "original",
+        "mtime": "1398840860",
+        "size": "34",
+        "md5": "71080e698f990360ebab2cc6354d3d83",
+        "crc32": "4d406c80",
+        "sha1": "bc8b649878b126b79f45d9fe688c29a46c768258",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "isbn_9780252031632_hocr.html",
+        "mtime": "1756347504",
+        "size": "17634320",
+        "private": "true",
+        "md5": "666eb0ef7da9d9adc074354d5a58e303",
+        "crc32": "6ccf68a9",
+        "sha1": "038820ad18a2372082abfb27beec88d7de70be33"
+      },
+      {
+        "name": "isbn_9780252031632.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "isbn_9780252031632_jp2.zip",
+        "mtime": "1398834748",
+        "size": "265633",
+        "md5": "2b33a000f649402ac1230183600c6a79",
+        "crc32": "e5651780",
+        "sha1": "495decf4f4dc0c5ccfe8654200e0b9920545e90d"
+      },
+      {
+        "name": "isbn_9780252031632.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "isbn_9780252031632.pdf",
+        "mtime": "1756347008",
+        "size": "22782677",
+        "md5": "05b318fa9e4d20354b2d9c19a5812036",
+        "crc32": "249f864f",
+        "sha1": "59dcb1651f3d7fe61a4d18d0a243360f602fd1f2"
+      },
+      {
+        "name": "isbn_9780252031632.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "isbn_9780252031632_page_numbers.json",
+        "mtime": "1717959198",
+        "size": "22506276",
+        "md5": "d479066a58b1500f789269629c3c2b8a",
+        "crc32": "f49f14fb",
+        "sha1": "ce437ec539591bac19c4180c36d90922728324ae",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1373302577",
+        "size": "419723",
+        "md5": "bb59abf89cb69bbedc7e529a61408ecc",
+        "crc32": "a1b9cba2",
+        "sha1": "c3afe1498d74b9b806d0ce6f45cdf32d70b92d79"
+      },
+      {
+        "name": "isbn_9780252031632.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "isbn_9780252031632.warc.gz",
+        "mtime": "1398831390",
+        "size": "4943",
+        "md5": "e97bb85df7341afd943e2b30f63458b0",
+        "crc32": "6fd5f823",
+        "sha1": "a57143028778c19bab14b674dd86ce40b5be5dc3",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "isbn_9780252031632_jp2.zip",
+        "mtime": "1398836475",
+        "size": "8268617",
+        "md5": "b6542388695a7460c152ef6d14b9b9c0",
+        "crc32": "3bdebd3d",
+        "sha1": "5c07d9c079487b17618a5e9a79f542456c9dac98",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "isbn_9780252031632_abbyy.gz",
+        "mtime": "1660338385",
+        "size": "7365485",
+        "md5": "f9bbdf1cbaf811af1d5a4cf688bd8bf5",
+        "crc32": "8a48da47",
+        "sha1": "bc690612dfd14e16fe6e15cdd69ab9592079e458",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "isbn_9780252031632_scandata.xml",
+        "mtime": "1670360926",
+        "size": "764",
+        "md5": "636355763573833bcbbe6bb84f5ad4d0",
+        "crc32": "153bc0b5",
+        "sha1": "bdaae746f29bbdbafae2cbefa9183973bf15028e",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1398831387",
+        "size": "1098",
+        "md5": "a7513b16b6e45f7c647de99fd9f6e68f",
+        "crc32": "bee8751f",
+        "sha1": "0cb013cf0b29c3b5bce4df5e9f7609ab2f720884"
+      },
+      {
+        "name": "isbn_9780252031632_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "isbn_9780252031632_djvu.xml",
+        "mtime": "1717959419",
+        "size": "668778",
+        "md5": "fa67bd30f3cc61da635805e8219a8236",
+        "crc32": "1a226f1b",
+        "sha1": "352a431d7ebb2dec4d76d080674a7c9c14227579",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "isbn_9780252031632_hocr.html",
+        "mtime": "1717954831",
+        "size": "7326515",
+        "md5": "e53316c03ffb34c66d82e7e58ff98749",
+        "crc32": "569ed87a",
+        "sha1": "9fa88985345c7fc3b3b154439f344fb40f5b5464",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "isbn_9780252031632.pdf",
+        "mtime": "1717959423",
+        "size": "22437301",
+        "md5": "aff8c44f5b36c43800c180fcc13464ad",
+        "crc32": "ad970302",
+        "sha1": "c513cf92d841f8981acb9adff25fb10b98ab38d1"
+      },
+      {
+        "name": "isbn_9780252031632_extramarc.xml",
+        "source": "original",
+        "mtime": "1400691409",
+        "size": "5143",
+        "md5": "67dead2ba9e58c5217610eac877d5bca",
+        "crc32": "34dff3c6",
+        "sha1": "484daacdd60856661dc2c2fb720fa73f13367732",
+        "format": "Metadata"
+      },
+      {
+        "name": "isbn_9780252031632_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "81ddbfb7469c6761dd9a1a6a7f73ff11",
+        "summation": "md5"
+      },
+      {
+        "name": "isbn_9780252031632_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "isbn_9780252031632_chocr.html.gz",
+        "mtime": "1660338461",
+        "size": "13243515",
+        "md5": "3a9de2ce298a9131c4f69d9365d9355c",
+        "crc32": "6152df1c",
+        "sha1": "7edd3bfe72f90af59d78d01837a354efb971ed0e",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "isbn_9780252031632_hocr.html",
+        "mtime": "1660338501",
+        "size": "3208",
+        "md5": "b34b472d542f1126ff22d883c68792f2",
+        "crc32": "d59e6f3d",
+        "sha1": "58fcce7d617ab981ab3b0ce5f22fe62846656a54",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "943",
+        "word_conf_11_20": "935",
+        "word_conf_21_30": "1887",
+        "word_conf_31_40": "3884",
+        "word_conf_41_50": "7803",
+        "word_conf_51_60": "13104",
+        "word_conf_61_70": "18362",
+        "word_conf_71_80": "17203",
+        "word_conf_81_90": "11842",
+        "word_conf_91_100": "16206",
+        "format": "OCR Search Text",
+        "original": "isbn_9780252031632_hocr.html",
+        "mtime": "1660338521",
+        "size": "227396",
+        "md5": "b965e057319767854090eda3077caf8c",
+        "crc32": "4ae50e5d",
+        "sha1": "ac268349a816b891c2a700b5a9cd02323987ac63",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "isbn_9780252031632_orig_jp2.tar",
+        "mtime": "1398834719",
+        "size": "153558623",
+        "md5": "2b8237fb52b9665995a9d7f1efbf901f",
+        "crc32": "156b218f",
+        "sha1": "778a2521de624a7415b50dbe0a8ab5c385fa7fbc",
+        "private": "true",
+        "filecount": "274"
+      },
+      {
+        "name": "isbn_9780252031632_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "isbn_9780252031632.epub",
+        "mtime": "1756348260",
+        "size": "17803055",
+        "md5": "741866cf28f434f9bf7a9385f06a963c",
+        "crc32": "640192e6",
+        "sha1": "396b504588b3eb73837282b6be0e76ac094a49ef"
+      },
+      {
+        "name": "isbn_9780252031632_loans.json",
+        "source": "original",
+        "mtime": "1572132054",
+        "size": "2057",
+        "format": "JSON",
+        "private": "true",
+        "md5": "4254938b191daf374a60033a42af3500",
+        "crc32": "28b4a5d7",
+        "sha1": "d3507b008ef476a5ddd062f3bc273ae43023fedf"
+      },
+      {
+        "name": "isbn_9780252031632_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1398831387",
+        "size": "4474",
+        "md5": "51811cef165c780a29ce6955e87a7ced",
+        "crc32": "79ec3988",
+        "sha1": "62253fe4cf3a6f4f4e481899743e19c415956652"
+      },
+      {
+        "name": "isbn_9780252031632_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "isbn_9780252031632_xisbn.json",
+        "mtime": "1454572084",
+        "size": "645",
+        "md5": "2a46aa20969927f80247a4c3c10325dd",
+        "crc32": "ab0d3d94",
+        "sha1": "4f0323e55d95fdd06ebe6856b04cce2a787b2741",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1398831387",
+        "size": "1264",
+        "md5": "d35561b0a32ac7f61312150108f2279b",
+        "crc32": "fe1bdd5f",
+        "sha1": "16ecaba9ac52dbf2c7646395d0a86edbe3919464"
+      },
+      {
+        "name": "isbn_9780252031632_meta.sqlite",
+        "source": "original",
+        "mtime": "1466825650",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "dd0bee8b70a900bddd3f2e6412e3e99c",
+        "crc32": "7d77acc2",
+        "sha1": "430cd28adc4abc24416b6be1f3e483c14537df88"
+      },
+      {
+        "name": "isbn_9780252031632_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1756348260",
+        "size": "4144",
+        "md5": "5585543a6e70391f662abf23eb210a4e",
+        "crc32": "fe48a594",
+        "sha1": "f0b3ae344aed7ff0b92dc54e83abf693bee132ca"
+      },
+      {
+        "name": "isbn_9780252031632_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1373302577",
+        "size": "295",
+        "md5": "29066197ecd0dd3a591c9e4654b9b324",
+        "crc32": "3e5262d5",
+        "sha1": "d0e0154b86ec572f1524e85eceee63b424c60d7a"
+      },
+      {
+        "name": "isbn_9780252031632_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1398828332",
+        "size": "196894720",
+        "md5": "5c0cdc651784270741a3947b92724594",
+        "crc32": "abc602bc",
+        "sha1": "dc9b30d10d80dede191b7be0aac47edc0db64955",
+        "private": "true",
+        "filecount": "274"
+      },
+      {
+        "name": "isbn_9780252031632_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "91",
+        "format": "Page Numbers JSON",
+        "original": "isbn_9780252031632_hocr.html",
+        "mtime": "1717954958",
+        "size": "45936",
+        "md5": "11e128eb4d9ba8d0cd187cf8f68748f2",
+        "crc32": "596f04c3",
+        "sha1": "e4c73492eb1227a6f33645427b2c221467232ad8",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780252031632_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670360926",
+        "size": "356654",
+        "md5": "27b929083488ae4401e13a66118ac09f",
+        "crc32": "6576d86a",
+        "sha1": "0ebef401f7694761682bc3ca6bbbb37d9fcb47ea"
+      },
+      {
+        "name": "isbn_9780252031632_xisbn.json",
+        "source": "original",
+        "mtime": "1454558286",
+        "size": "997",
+        "md5": "2da0e76f856e16675ac6a20b1195c0ea",
+        "crc32": "2ffcbf76",
+        "sha1": "612a73893852e3d196db3344429da5b8024aa275",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 34,
+    "item_last_updated": 1756348260,
+    "item_size": 491863163,
+    "metadata": {
+      "isbn": [
+        "0252031636",
+        "9780252031632",
+        "9780252031632"
+      ],
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2013-07-08 16:56:15",
+      "updater": "associate-lotu-tii@archive.org",
+      "boxid": "IA1117517",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "shenzhen",
+      "sponsor": "Internet Archive",
+      "title": "The turkey : an American story",
+      "identifier": "isbn_9780252031632",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2013-07-08 16:56:19",
+      "publicdate": "2013-07-08 16:56:23",
+      "donor": "internetarchivebookdrive",
+      "scanner": "scribe11.shenzhen.archive.org",
+      "repub_seconds": "282",
+      "creator": "Smith, Andrew F., 1946-",
+      "publisher": "Chicago : University of Illinois Press",
+      "date": "2006-01-01",
+      "subject": [
+        "Turkeys",
+        "Cooking (Turkey)"
+      ],
+      "lccn": "2006022790",
+      "description": "Includes bibliographical references (p. [205]-217) and index",
+      "ppi": "500",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "associate-hedawei@archive.org",
+      "scandate": "20140429011848",
+      "republisher": "associate-xiemingshan@archive.org",
+      "imagecount": "274",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/isbn_9780252031632",
+      "identifier-ark": "ark:/13960/t46q4kk05",
+      "bookplateleaf": "0003",
+      "scanfee": "100",
+      "invoice": "11",
+      "extramarc": "University of Alberta Libraries",
+      "boxid_2": "BWB220141006",
+      "sponsordate": "20150430",
+      "city": "Cgicago, Ill. [u.a.]",
+      "oclc-id": [
+        "266441348",
+        "70668661",
+        "747716528",
+        "76357603",
+        "868520767"
+      ],
+      "related-external-id": [
+        "urn:isbn:0252076877",
+        "urn:lccn:2006022790",
+        "urn:oclc:645777535",
+        "urn:oclc:70668661",
+        "urn:isbn:0252092422"
+      ],
+      "backup_location": "ia905703_12",
+      "external-identifier": [
+        "urn:acs6:isbn_9780252031632:pdf:444fbbd7-06e2-4a4c-b6d9-c2878eb33f07",
+        "urn:acs6:isbn_9780252031632:epub:c4c4acbc-5095-4a62-bc26-92b5c4e3fb69",
+        "urn:oclc:record:811409101",
+        "urn:lcp:isbn_9780252031632:lcpdf:c19948b0-94ad-4ec6-a11b-debbcc86bb29",
+        "urn:lcp:isbn_9780252031632:epub:53fbb6ab-ec51-4093-b833-79f4e44c45e0"
+      ],
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "openlibrary_edition": "OL23275530M",
+      "openlibrary_work": "OL1964384W",
+      "loans__status__last_loan_date": "2019-10-26T18:28:57Z",
+      "republisher_operator": "associate-xiemingshan@archive.org",
+      "republisher_date": "20140430032054",
+      "loans__status__last_waitlist_date": "2018-11-17T03:37:27Z",
+      "loans__status__num_history": "5",
+      "access-restricted-item": "true",
+      "source": "removed",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "91",
+      "filesxml": "Wed Apr 3 5:46:03 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia600403.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "binghamton-ol": {
+          "notes": {
+            "isbn": [
+              "9780252031632"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-05-25 05:48:44.324637"
+        },
+        "denverpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780252031632"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2019-03-20 04:06:22.400819"
+        },
+        "udc-ol": {
+          "notes": {
+            "isbn": [
+              "9780252031632"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-06-09 00:25:31.945256"
+        },
+        "uni-ol": {
+          "notes": {
+            "isbn": [
+              "9780252031632"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-04-23 08:53:09.649888"
+        }
+      }
+    },
+    "uniq": 1124640892,
+    "workable_servers": [
+      "ia600403.us.archive.org",
+      "ia800403.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/266441348?referer=xid"
+          ],
+          "publisher": "Univ. of Illinois Press",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2006022790"
+          ],
+          "lang": "eng",
+          "city": "Cgicago, Ill. [u.a.]",
+          "author": "Andrew F. Smith.",
+          "year": "2006",
+          "isbn": [
+            "0252031636"
+          ],
+          "title": "The turkey : an American story",
+          "oclcnum": [
+            "266441348",
+            "70668661",
+            "747716528",
+            "76357603",
+            "868520767"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/645777535?referer=xid"
+          ],
+          "publisher": "Univ of Illinois Pr",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2006022790"
+          ],
+          "lang": "eng",
+          "city": "Chicago",
+          "author": "Andrew F. Smith.",
+          "year": "2009",
+          "isbn": [
+            "0252076877"
+          ],
+          "title": "The Turkey : An American Story.",
+          "oclcnum": [
+            "645777535",
+            "70668661"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/811409101?referer=xid"
+          ],
+          "publisher": "University of Illinois Press",
+          "form": [
+            "BA",
+            "DA"
+          ],
+          "lccn": [
+            "2006022790"
+          ],
+          "lang": "eng",
+          "city": "Chicago",
+          "author": "Andrew F. Smith.",
+          "year": "2006",
+          "isbn": [
+            "0252092422"
+          ],
+          "title": "The turkey an American story",
+          "oclcnum": [
+            "811409101"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Smith, Andrew F., 1946-",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

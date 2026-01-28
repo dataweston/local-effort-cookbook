@@ -1,0 +1,105 @@
+{
+  "source": "dpla",
+  "id": "81f29b2406c2935f27755c7d75281952",
+  "identifier": "81f29b2406c2935f27755c7d75281952",
+  "title": "Christopher House Guild cook book",
+  "subject": [
+    "Cookery--Illinois",
+    "Cookery, American"
+  ],
+  "spatial": [
+    "Illinois"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/008718835",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1912,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/81f29b2406c2935f27755c7d75281952#SourceResource",
+      "creator": [
+        "First Presbyterian Church (Evanston, Ill.) : Christopher House Guild"
+      ],
+      "date": [
+        {
+          "displayDate": "c1912]"
+        }
+      ],
+      "extent": [
+        "191 p. ; 20 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "LC call number: TX715 .E886",
+        "sdr-uiuc5345126",
+        "sdr-hvd010210251",
+        "(OCoLC)5306225",
+        "Hathi: 008718835"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "[Evanston"
+      ],
+      "relation": [
+        "Original. (IU)30112083352341"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cookery--Illinois"
+        },
+        {
+          "name": "Cookery, American"
+        }
+      ],
+      "title": [
+        "Christopher House Guild cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1912-01-01",
+      "normalized_dates": [
+        "1912-01-01"
+      ]
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=8NAYAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/008718835"
+  },
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Guild",
+      "Presbyterian"
+    ]
+  },
+  "curation_notes": "State match: Illinois; Community markers: Church, Guild, Presbyterian; Digitized scan available"
+}

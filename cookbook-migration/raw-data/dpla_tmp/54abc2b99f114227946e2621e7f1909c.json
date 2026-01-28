@@ -1,0 +1,109 @@
+{
+  "source": "dpla",
+  "id": "54abc2b99f114227946e2621e7f1909c",
+  "identifier": "54abc2b99f114227946e2621e7f1909c",
+  "title": "The Cook County cook book",
+  "subject": [
+    "Cookery--Illinois--Cook County",
+    "Cookery, American"
+  ],
+  "spatial": [
+    "Illinois",
+    "Cook County"
+  ],
+  "description": "\"From recipes contributed by Cook County ladies\".",
+  "isShownAt": "http://catalog.hathitrust.org/Record/008611271",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1912,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/54abc2b99f114227946e2621e7f1909c#SourceResource",
+      "contributor": [
+        "Associated College Women Workers"
+      ],
+      "date": [
+        {
+          "displayDate": "c1912"
+        }
+      ],
+      "description": [
+        "\"From recipes contributed by Cook County ladies\".",
+        "Clippings included in attached envelope."
+      ],
+      "extent": [
+        "574 p. ; 27 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-uiuc5342200",
+        "sdr-nyp.b135748422",
+        "(OCoLC)14078524",
+        "Hathi: 008611271"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Chicago, Ill. : McElroy Pub. Co."
+      ],
+      "relation": [
+        "Original. (IU)30112060855522"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        },
+        {
+          "name": "Cook County"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cookery--Illinois--Cook County"
+        },
+        {
+          "name": "Cookery, American"
+        }
+      ],
+      "title": [
+        "The Cook County cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1912-01-01",
+      "normalized_dates": [
+        "1912-01-01"
+      ]
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=hdoqAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/008611271"
+  },
+  "location": {
+    "state": "Illinois",
+    "county": "Cook County"
+  },
+  "curation": {
+    "score": 8,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "County match: Cook County; State match: Illinois; Digitized scan available"
+}

@@ -1,0 +1,167 @@
+{
+  "source": "dpla",
+  "id": "55c3d9fd857bca55d9486825b67435cd",
+  "identifier": "55c3d9fd857bca55d9486825b67435cd",
+  "title": "The popular cook book : a collection of tested recipes",
+  "subject": [
+    "Strawn, S. A",
+    "Church of Christ (Owosso, Mich.)",
+    "Janice Bluestein Longone Culinary Archive",
+    "Charity cookbooks--Michigan--Shiawassee County",
+    "Charity cookbooks--Michigan--Owosso",
+    "Cooking",
+    "International cooking",
+    "Cooking--Middle West",
+    "Cooking, American--Midwestern style",
+    "Cooking--Michigan--Shiawassee County",
+    "Cooking--Michigan--Owosso",
+    "Quarter bindings (Binding)"
+  ],
+  "spatial": [
+    "Michigan",
+    "Shiawassee County",
+    "Owosso",
+    "Middle West"
+  ],
+  "description": "Includes recipes for English and German dishes. Sample recipes: Pea soup, Liebe kuchen, Sparrow pie.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/100173721",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1901,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/55c3d9fd857bca55d9486825b67435cd#SourceResource",
+      "contributor": [
+        "Church of Christ (Owosso, Mich.)"
+      ],
+      "date": [
+        {
+          "begin": "1901",
+          "displayDate": "1901",
+          "end": "1901"
+        }
+      ],
+      "description": [
+        "Includes recipes for English and German dishes. Sample recipes: Pea soup, Liebe kuchen, Sparrow pie.",
+        "\"List of contributors\": p. [6]-7; \"Directory of Church of Christ\": p. 10; \"Biographical sketch of S.A. Strawn\": p. 11-15.",
+        "Advertisements throughout text.",
+        "Includes indexes.",
+        "Illustration of \"Rev. S.A. Strawn, pastor of Church of Christ and family, 518 E. Williams St., Owosso, Mich.\" on p. 10.",
+        "Recipes are attributed.",
+        "Quarter black morocco-grain cloth; brown paper boards printed in black; advertisements printed on endpapers.",
+        "ACQ: 35669; Janice B. Longone; Gift; 6/21/2001."
+      ],
+      "extent": [
+        "100 p. : 22 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "(MiU)009043967",
+        "sdr-miu009043967",
+        "(OCoLC)53452957",
+        "Hathi: 100173721"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Owosso, Mich. : Times Print. Co."
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Shiawassee County"
+        },
+        {
+          "name": "Owosso"
+        },
+        {
+          "name": "Middle West"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Strawn, S. A"
+        },
+        {
+          "name": "Church of Christ (Owosso, Mich.)"
+        },
+        {
+          "name": "Janice Bluestein Longone Culinary Archive"
+        },
+        {
+          "name": "Charity cookbooks--Michigan--Shiawassee County"
+        },
+        {
+          "name": "Charity cookbooks--Michigan--Owosso"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "International cooking"
+        },
+        {
+          "name": "Cooking--Middle West"
+        },
+        {
+          "name": "Cooking, American--Midwestern style"
+        },
+        {
+          "name": "Cooking--Michigan--Shiawassee County"
+        },
+        {
+          "name": "Cooking--Michigan--Owosso"
+        },
+        {
+          "name": "Quarter bindings (Binding)"
+        }
+      ],
+      "title": [
+        "The popular cook book : a collection of tested recipes"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1901-01-01",
+      "normalized_dates": [
+        "1901-01-01"
+      ],
+      "date_range": {
+        "begin": "1901-01-01",
+        "end": "1901-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=idREAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/100173721"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 7,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church; Digitized scan available"
+}

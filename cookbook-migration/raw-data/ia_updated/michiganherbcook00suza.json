@@ -1,0 +1,571 @@
+{
+  "source": "internet_archive",
+  "identifier": "michiganherbcook00suza",
+  "title": "Michigan herb cookbook",
+  "creator": "Breckenridge, Suzanne",
+  "year": 2001,
+  "subject": [
+    "Cooking (Herbs)",
+    "Herbs",
+    "Herb gardening"
+  ],
+  "description": null,
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721809.ca.archive.org",
+          "dir": "/0/items/michiganherbcook00suza"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721809.ca.archive.org",
+          "dir": "/0/items/michiganherbcook00suza"
+        }
+      ]
+    },
+    "created": 1758555797,
+    "d1": "ia903200.us.archive.org",
+    "d2": "ia803200.us.archive.org",
+    "dir": "/17/items/michiganherbcook00suza",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660661940",
+        "size": "20983",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "075d2a77ac7c242c264ba4bd152f21ab",
+        "crc32": "b4dddc29",
+        "sha1": "a4386b4962bf87764deb743fb5ef3d6f44860128"
+      },
+      {
+        "name": "michiganherbcook00suza.cdx.gz",
+        "source": "original",
+        "mtime": "1419673757",
+        "size": "6600",
+        "md5": "4faa26be1bed1c0c7faa636bce33b910",
+        "crc32": "fd8e3fdd",
+        "sha1": "b965b398ed913aa30d1e49f6a6988e3c4b7d0ce1",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza.cdx.idx",
+        "source": "original",
+        "mtime": "1419673757",
+        "size": "38",
+        "md5": "d5196bcb89ecebf239fb894c1518fa15",
+        "crc32": "fd16efe8",
+        "sha1": "3243c54c27275a8dc4cfc4824cd8c90720548e58",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "michiganherbcook00suza_hocr.html",
+        "mtime": "1757059411",
+        "size": "4909092",
+        "private": "true",
+        "md5": "5ebbe20b27eb885f8663fd1763607046",
+        "crc32": "e118b1a7",
+        "sha1": "676d8f627bf660d86a77459cb844802953c1aa3a"
+      },
+      {
+        "name": "michiganherbcook00suza.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "michiganherbcook00suza_jp2.zip",
+        "mtime": "1419668231",
+        "size": "283793",
+        "md5": "23faae5b3f9ba13854dc25184659e16f",
+        "crc32": "ecf1c0f9",
+        "sha1": "cbb9795a9bf67d232c716377ce1e5bbadad1f98e"
+      },
+      {
+        "name": "michiganherbcook00suza.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "michiganherbcook00suza.pdf",
+        "mtime": "1757059332",
+        "size": "15635768",
+        "md5": "f2066391381d124d24ee83330fc5ab59",
+        "crc32": "53547273",
+        "sha1": "1bc0d95ac7bb6bc6c9015ccd342282cbda443bf8"
+      },
+      {
+        "name": "michiganherbcook00suza.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "michiganherbcook00suza_page_numbers.json",
+        "mtime": "1715884469",
+        "size": "14870395",
+        "md5": "f022dce1c149e5c07d69d9c66b259501",
+        "crc32": "6dec4e3a",
+        "sha1": "ebadbb87615666bc1b763ce7923f991e78d1109d",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1370044511",
+        "size": "467859",
+        "md5": "24491d8c367e44648e8173ccffdde1c5",
+        "crc32": "10411e30",
+        "sha1": "08a6649b383b66117f34d22716cb855cf8f7519b"
+      },
+      {
+        "name": "michiganherbcook00suza.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "michiganherbcook00suza.warc.gz",
+        "mtime": "1419664628",
+        "size": "6737",
+        "md5": "824ab7914b91913666fa9cb8cf58f437",
+        "crc32": "04431799",
+        "sha1": "21106c5751f80018d4f71926960caa5a01a9cbe5",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "michiganherbcook00suza_jp2.zip",
+        "mtime": "1419670033",
+        "size": "5690187",
+        "md5": "62d60e7a4ab6a40564eaa129486ff29d",
+        "crc32": "b3ea7be2",
+        "sha1": "30eb588d8067140aa0a6af496ce3ea00cf9fa402",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "michiganherbcook00suza_abbyy.gz",
+        "mtime": "1660661036",
+        "size": "5105354",
+        "md5": "271375df1e3caebdf2f0674d64d02613",
+        "crc32": "eb3d1b67",
+        "sha1": "2bc352d01f1cc193292aaa8a8ec3ebd116f8d3e2",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "michiganherbcook00suza_scandata.xml",
+        "mtime": "1667308582",
+        "size": "779",
+        "md5": "7c89a71bd64b225f3c7c66e761802e26",
+        "crc32": "e1f2eb4d",
+        "sha1": "b27ddc1825dffd54343d4e20ddb0de57b75b8840",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1419664626",
+        "size": "1043",
+        "md5": "f577faf84d7de18d3340cb8d2fc45ae0",
+        "crc32": "8886c81d",
+        "sha1": "f61a45cb91d9410f7612fdd91ec5a4bbe14750e1"
+      },
+      {
+        "name": "michiganherbcook00suza_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "michiganherbcook00suza_djvu.xml",
+        "mtime": "1667308648",
+        "size": "459615",
+        "md5": "86f4e391389594be38705f213fddcead",
+        "crc32": "8440bc3a",
+        "sha1": "f2f55df2121d8793eb34cc3ad7fc8d6aaa713a8b",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "michiganherbcook00suza_hocr.html",
+        "mtime": "1667307473",
+        "size": "5573560",
+        "md5": "72530ede3e88218a199aeedabf39ae02",
+        "crc32": "5ec8b382",
+        "sha1": "9318d89fb6f3a55cb78f7c5ea6ce40332d0aad93",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "michiganherbcook00suza.pdf",
+        "mtime": "1715884933",
+        "size": "14791127",
+        "md5": "7bc076f713221392071a07b0c9346cdb",
+        "crc32": "f09ad8e4",
+        "sha1": "529ff2ff46331c7bf09efff3cc4f81967f3b7cf3"
+      },
+      {
+        "name": "michiganherbcook00suza_extramarc.xml",
+        "source": "original",
+        "mtime": "1403520143",
+        "size": "2640",
+        "md5": "07070ade4d7215de5c06dc72f5f5f4c8",
+        "crc32": "348c91dc",
+        "sha1": "1043fd293b454dcf9ae2615617f4bde2279acefe",
+        "format": "Metadata"
+      },
+      {
+        "name": "michiganherbcook00suza_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "e651ac5d0cf63b9bf063e6a87995c7a7",
+        "summation": "md5"
+      },
+      {
+        "name": "michiganherbcook00suza_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "michiganherbcook00suza_chocr.html.gz",
+        "mtime": "1660661510",
+        "size": "10417858",
+        "md5": "bb10392a761de5e658c47624167f369e",
+        "crc32": "d8a924dc",
+        "sha1": "5227afd9aa49600de8aeafeaf83b39a2020a6405",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "michiganherbcook00suza_hocr.html",
+        "mtime": "1660661708",
+        "size": "3740",
+        "md5": "159cc64bc377c7750e5141d2514deff0",
+        "crc32": "0b856bd9",
+        "sha1": "6cc7b6181a1a2d8c2e5ae6eaeb48acf3410b7766",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "4145",
+        "word_conf_11_20": "7908",
+        "word_conf_21_30": "9355",
+        "word_conf_31_40": "7826",
+        "word_conf_41_50": "6909",
+        "word_conf_51_60": "6690",
+        "word_conf_61_70": "6663",
+        "word_conf_71_80": "5699",
+        "word_conf_81_90": "4110",
+        "word_conf_91_100": "7801",
+        "format": "OCR Search Text",
+        "original": "michiganherbcook00suza_hocr.html",
+        "mtime": "1660661904",
+        "size": "137030",
+        "md5": "a7ed95f95fae2374a1434803a58f4c8a",
+        "crc32": "7e28e80b",
+        "sha1": "a09c6c38886db77c674219708344e3e512c8cfc3",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "michiganherbcook00suza_orig_jp2.tar",
+        "mtime": "1419668212",
+        "size": "120253018",
+        "md5": "90917cc4de0dcfdf22607fa7ec8b72c3",
+        "crc32": "962662d7",
+        "sha1": "baaf74b5cde3dd42b2d52c68eaf42f961bb8ff29",
+        "private": "true",
+        "filecount": "318"
+      },
+      {
+        "name": "michiganherbcook00suza_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "michiganherbcook00suza.epub",
+        "mtime": "1757060278",
+        "size": "5014525",
+        "md5": "6f516ae3a60da4015f5c218c316647e6",
+        "crc32": "5662b54e",
+        "sha1": "4f498039bdcbe2b150e355f0b7958ff2859f3593"
+      },
+      {
+        "name": "michiganherbcook00suza_loans.json",
+        "source": "original",
+        "mtime": "1594027904",
+        "size": "3323",
+        "format": "JSON",
+        "private": "true",
+        "md5": "dd36bb75467995dfb50747e8a5e94fd5",
+        "crc32": "275a2c8c",
+        "sha1": "f8a3404b24c2f2fbc45e5ba66b59945985882f7e"
+      },
+      {
+        "name": "michiganherbcook00suza_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1419664626",
+        "size": "2577",
+        "md5": "73ac7df8fa8e92fa0c78972a97ec7683",
+        "crc32": "4fe64d7e",
+        "sha1": "be50a31deafe82d5515ca1e0e0328f8add9bd263"
+      },
+      {
+        "name": "michiganherbcook00suza_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "michiganherbcook00suza_xisbn.json",
+        "mtime": "1454717451",
+        "size": "237",
+        "md5": "146935cbf26a4a32f6129c71d276b45e",
+        "crc32": "adc58e39",
+        "sha1": "1805b356e42f876c4fb2001c029a4f00d1ac72f2",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1419664626",
+        "size": "824",
+        "md5": "2a74e616f5939fdeca22adf920f35285",
+        "crc32": "eafe1fc7",
+        "sha1": "6575c5237881a060706a650a9bb635a8989d7b7c"
+      },
+      {
+        "name": "michiganherbcook00suza_meta.sqlite",
+        "source": "original",
+        "mtime": "1467981991",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "f706f74d9263d66c898010b7c1860fbb",
+        "crc32": "98be9669",
+        "sha1": "1dfc40ff9f3774720a7b6a37799c08389f6d4bc3"
+      },
+      {
+        "name": "michiganherbcook00suza_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1757060279",
+        "size": "3191",
+        "md5": "7772c8617ddb287ae542049dcc6ffe4a",
+        "crc32": "df9394ef",
+        "sha1": "45ce96c8cdd0a65e133a1fac5974f8f4c8216be1"
+      },
+      {
+        "name": "michiganherbcook00suza_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1370044511",
+        "size": "309",
+        "md5": "421f9de6b7b202bc1153f1db1cb0c8b5",
+        "crc32": "f37cc26a",
+        "sha1": "878ae54d71453dfbcdbe800e2c3f6ffc8d970bbb"
+      },
+      {
+        "name": "michiganherbcook00suza_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1419662085",
+        "size": "332288000",
+        "md5": "f3d89c056e0a7daca45f968b5ff5c0ff",
+        "crc32": "87ef5786",
+        "sha1": "ea16c855f81d781b935a93fc73930092f370daf1",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "318"
+      },
+      {
+        "name": "michiganherbcook00suza_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "michiganherbcook00suza_hocr.html",
+        "mtime": "1715884468",
+        "size": "53771",
+        "md5": "46d32c526b964b799bcf4185f9aa3f09",
+        "crc32": "eb40e9c7",
+        "sha1": "ea1b73dda2b71fffdf1b575fc849d762d8ca6421",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza_scandata.xml",
+        "source": "original",
+        "mtime": "1667308582",
+        "size": "416847",
+        "md5": "5d7ed5eb71bfe161ba8b2505b49a2ce7",
+        "crc32": "e18a4b98",
+        "sha1": "c21b45b7ee5a0aa219d3ae890824dabe6e882f66",
+        "format": "Scandata"
+      },
+      {
+        "name": "michiganherbcook00suza_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "michiganherbcook00suza_djvu.xml",
+        "mtime": "1667308649",
+        "size": "10039",
+        "md5": "acace765e72a931c917661d86cb346e3",
+        "crc32": "11d89334",
+        "sha1": "e5086883caeb2ab3642668cbdd3acba672af138e",
+        "private": "true"
+      },
+      {
+        "name": "michiganherbcook00suza_xisbn.json",
+        "source": "original",
+        "mtime": "1454631569",
+        "size": "342",
+        "md5": "91d8fef90983d7d1afbc7d52a8bdd9be",
+        "crc32": "d31e52d1",
+        "sha1": "9d77f6f4caa8180548661f58076418b1a13e6a3e",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 35,
+    "item_last_updated": 1757060279,
+    "item_size": 536437345,
+    "metadata": {
+      "title": "Michigan herb cookbook",
+      "creator": [
+        "Breckenridge, Suzanne",
+        "Snyder, Marjorie"
+      ],
+      "publisher": "Ann Arbor : University of Michigan Press",
+      "date": "2001-01-01",
+      "external-identifier": [
+        "urn:asin:0472086944",
+        "urn:acs6:michiganherbcook00suza:pdf:9ade67a7-50f6-4c79-bc40-35820907607c",
+        "urn:acs6:michiganherbcook00suza:epub:e0d1b2d8-2384-4497-a11d-466df9b39b99",
+        "urn:oclc:record:1036622548",
+        "urn:lcp:michiganherbcook00suza:lcpdf:10b0c485-6e8f-4c5b-85fe-51962879226a",
+        "urn:lcp:michiganherbcook00suza:epub:67aeb181-b3fe-4c98-b0c6-c66add546e57"
+      ],
+      "repub_state": "4",
+      "updatedate": "2013-05-31 23:55:09",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA1128214",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "shenzhen",
+      "sponsor": "Internet Archive",
+      "identifier": "michiganherbcook00suza",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2013-05-31 23:55:13",
+      "publicdate": "2013-05-31 23:55:17",
+      "donor": "bostonpubliclibrary",
+      "extramarc": "OhioLINK Library Catalog",
+      "scanner": "scribe5.shenzhen.archive.org",
+      "repub_seconds": "344",
+      "subject": [
+        "Cooking (Herbs)",
+        "Herbs",
+        "Herb gardening"
+      ],
+      "isbn": "0472086944",
+      "lccn": "2001023069",
+      "ppi": "500",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "associate-dengchenggui@archive.org",
+      "scandate": "20141223021051",
+      "republisher": "scanner-shenzhen-leo@archive.org",
+      "imagecount": "318",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/michiganherbcook00suza",
+      "identifier-ark": "ark:/13960/t0qr7x105",
+      "bookplateleaf": "0004",
+      "scanfee": "100",
+      "invoice": "11",
+      "sponsordate": "20150430",
+      "city": "Ann Arbor",
+      "oclc-id": "45827706",
+      "backup_location": "ia905701_20",
+      "republisher_operator": "scanner-shenzhen-leo@archive.org",
+      "republisher_date": "20141227062906",
+      "openlibrary_edition": "OL7633182M",
+      "openlibrary_work": "OL17744921W",
+      "access-restricted-item": "true",
+      "source": "removedNEL",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "pdf_module_version": "0.0.20",
+      "filesxml": "Wed Apr 3 9:12:23 UTC 2024",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia903200.us.archive.org",
+    "uniq": 114924891,
+    "workable_servers": [
+      "ia903200.us.archive.org",
+      "ia803200.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/45827706?referer=xid"
+          ],
+          "publisher": "University of Michigan Press",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "2001023069"
+          ],
+          "lang": "eng",
+          "city": "Ann Arbor",
+          "author": "Suzanne Breckenridge & Marjorie Snyder.",
+          "year": "2001",
+          "isbn": [
+            "0472086944"
+          ],
+          "title": "Michigan herb cookbook",
+          "oclcnum": [
+            "45827706"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Breckenridge, Suzanne",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

@@ -1,0 +1,490 @@
+{
+  "source": "internet_archive",
+  "identifier": "cookiecookbook00grun",
+  "title": "Cookie cookbook",
+  "creator": "Grunes, Barbara",
+  "year": 1984,
+  "subject": null,
+  "description": "Paperback",
+  "metadata": {
+    "created": 1758558285,
+    "d1": "ia601605.us.archive.org",
+    "d2": "ia801605.us.archive.org",
+    "dir": "/22/items/cookiecookbook00grun",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659791029",
+        "size": "24692",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "fcf4c91f868965c027470923e94886ac",
+        "crc32": "992ef120",
+        "sha1": "1295b981623896f52318985bf94039e2db59bf60"
+      },
+      {
+        "name": "cookiecookbook00grun.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "cookiecookbook00grun_hocr.html",
+        "mtime": "1753191369",
+        "size": "8824819",
+        "private": "true",
+        "md5": "74d436b0fba53af202016d7d63a72cb1",
+        "crc32": "692b2a8c",
+        "sha1": "858c8a7083c028669bff878c5d71d25a7f596593"
+      },
+      {
+        "name": "cookiecookbook00grun.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "cookiecookbook00grun_jp2.zip",
+        "md5": "b2ed980ce3890331a4e63af09128bb60",
+        "mtime": "1266523903",
+        "size": "251040",
+        "crc32": "f9a4a070",
+        "sha1": "41c418779a8c970647682e58fe9e0bff6782e64f"
+      },
+      {
+        "name": "cookiecookbook00grun.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "cookiecookbook00grun.pdf",
+        "mtime": "1753191245",
+        "size": "4031740",
+        "md5": "bf40923243ed133a0e9e4c4260c7b4a9",
+        "crc32": "c07c98c0",
+        "sha1": "50b555a502ce2ed5e6ad55baaeb1f0e82f0ff635"
+      },
+      {
+        "name": "cookiecookbook00grun.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "cookiecookbook00grun_page_numbers.json",
+        "mtime": "1719041233",
+        "size": "3544820",
+        "md5": "7d7caee77ea13d06ef219a2e35e11168",
+        "crc32": "aa025e92",
+        "sha1": "f24c0704a89f2eee863304592b79ea876569dc67",
+        "private": "true"
+      },
+      {
+        "name": "cookiecookbook00grun_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "cookiecookbook00grun_jp2.zip",
+        "md5": "8880ff2c6216fff85916581490bd2f32",
+        "mtime": "1266526740",
+        "size": "1494262",
+        "crc32": "1222ffa0",
+        "sha1": "7c6d97ee573571c49deebf56bfb1b8d907947d5a",
+        "private": "true"
+      },
+      {
+        "name": "cookiecookbook00grun_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "cookiecookbook00grun_page_numbers.json",
+        "mtime": "1719041235",
+        "size": "3257209",
+        "md5": "6d3a25070c06614eae5ba458881ef09d",
+        "crc32": "6e3c4148",
+        "sha1": "707d50e0ea05ebc8e462790a9dc3a55e10551eb1",
+        "private": "true"
+      },
+      {
+        "name": "cookiecookbook00grun_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "cookiecookbook00grun_abbyy.gz",
+        "mtime": "1659790928",
+        "size": "1255777",
+        "md5": "f0bf15f4da87fa8ed181b50e1306bcb5",
+        "crc32": "d3550ff2",
+        "sha1": "6f9587ade7ac5699ab815505d7e10e8cc60acbaa",
+        "private": "true"
+      },
+      {
+        "name": "cookiecookbook00grun_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "cookiecookbook00grun_scandata.xml",
+        "mtime": "1669676764",
+        "size": "769",
+        "md5": "b54c6c6fa6664244b4879233590696e0",
+        "crc32": "7a099ac7",
+        "sha1": "7a632163afb618c54dda98555116122bd8aaea43",
+        "private": "true"
+      },
+      {
+        "name": "cookiecookbook00grun_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "0b547e204f7b36a15786367687e156ba",
+        "mtime": "1265827294",
+        "size": "517",
+        "crc32": "7742d149",
+        "sha1": "866ac5256e7d5dc2c72eb55a081bac3b008a7926"
+      },
+      {
+        "name": "cookiecookbook00grun_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "cookiecookbook00grun_djvu.xml",
+        "mtime": "1721584794",
+        "size": "117785",
+        "md5": "0b7e2e1ec52ee468ec853d395016fde1",
+        "crc32": "ffbf2077",
+        "sha1": "b672c2c338425247e16dc153572b635478755738",
+        "private": "true"
+      },
+      {
+        "name": "cookiecookbook00grun_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "cookiecookbook00grun_hocr.html",
+        "mtime": "1721584792",
+        "size": "1451663",
+        "md5": "5cbf56b1e022766cc15b870d708a0dd1",
+        "crc32": "b10d5b02",
+        "sha1": "340c310d77da8a178144fba72cb2352025fd5240",
+        "private": "true"
+      },
+      {
+        "name": "cookiecookbook00grun_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "cookiecookbook00grun.pdf",
+        "mtime": "1719041873",
+        "size": "3533300",
+        "md5": "c37faeb4845fa22f0693b18cc4bfd316",
+        "crc32": "72541cda",
+        "sha1": "56a9a01387267a9892166882431f8819b03b1db5"
+      },
+      {
+        "name": "cookiecookbook00grun_files.xml",
+        "source": "metadata",
+        "format": "Metadata",
+        "md5": "94c18a897ebceba9a202be35f028dd5e",
+        "summation": "md5"
+      },
+      {
+        "name": "cookiecookbook00grun_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "cookiecookbook00grun_chocr.html.gz",
+        "mtime": "1659790969",
+        "size": "2885769",
+        "md5": "d2bf8b753555985940ddacd4ec470cd6",
+        "crc32": "2a955edf",
+        "sha1": "370b30833e61e26f47b7bd26db1fc7000cd2e98e",
+        "private": "true"
+      },
+      {
+        "name": "cookiecookbook00grun_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "cookiecookbook00grun_hocr.html",
+        "mtime": "1659790995",
+        "size": "822",
+        "md5": "72291c9b4a3b1095675f9bae9b24985d",
+        "crc32": "24503a33",
+        "sha1": "a9504c0c137fca6630b14eb61790003b4174f6e7",
+        "private": "true"
+      },
+      {
+        "name": "cookiecookbook00grun_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "775",
+        "word_conf_11_20": "192",
+        "word_conf_21_30": "1377",
+        "word_conf_31_40": "503",
+        "word_conf_41_50": "1935",
+        "word_conf_51_60": "2372",
+        "word_conf_61_70": "3953",
+        "word_conf_71_80": "2865",
+        "word_conf_81_90": "852",
+        "word_conf_91_100": "2119",
+        "format": "OCR Search Text",
+        "original": "cookiecookbook00grun_hocr.html",
+        "mtime": "1659791012",
+        "size": "25269",
+        "md5": "82885744a4ccf097c0d0626230fd18b3",
+        "crc32": "852c54d2",
+        "sha1": "533b29da5d47d5b7be824c19e0a018ab270ccab0",
+        "private": "true"
+      },
+      {
+        "name": "cookiecookbook00grun_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "cookiecookbook00grun_orig_jp2.tar",
+        "md5": "c84d116dac99a485ea2ebe3d56d7e8ab",
+        "mtime": "1266523822",
+        "size": "26601460",
+        "crc32": "5c0a4018",
+        "sha1": "92e4c85b334a1628565fd40e440003cbe334a9c3",
+        "private": "true",
+        "filecount": "76"
+      },
+      {
+        "name": "cookiecookbook00grun_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "cookiecookbook00grun.epub",
+        "mtime": "1753191724",
+        "size": "8841445",
+        "md5": "f429b0a663c066e21b4c74a3fb64eb50",
+        "crc32": "bdbd30b6",
+        "sha1": "d26ac32b92d6d0146090dd67d5bde75181bb6a05"
+      },
+      {
+        "name": "cookiecookbook00grun_loans.json",
+        "source": "original",
+        "mtime": "1593513354",
+        "size": "4246",
+        "format": "JSON",
+        "private": "true",
+        "md5": "219650f23c28757ca3ba273a8fddeb06",
+        "crc32": "cbee381c",
+        "sha1": "f5523723855b331ede552b78b4af69b08604a94b"
+      },
+      {
+        "name": "cookiecookbook00grun_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "06ed3b50da87e125bcc1a6edcb5c7155",
+        "mtime": "1265827294",
+        "size": "1883",
+        "crc32": "33714a0b",
+        "sha1": "958198d2c5f746886781de10a95c89af3ce4f4da"
+      },
+      {
+        "name": "cookiecookbook00grun_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "cookiecookbook00grun_xisbn.json",
+        "mtime": "1454274601",
+        "size": "271",
+        "md5": "24b4222d60be2ba45b0ac085ac998a66",
+        "crc32": "08d928a4",
+        "sha1": "0bc070d21f36e474d01e772d0be3d16365b5317d",
+        "private": "true"
+      },
+      {
+        "name": "cookiecookbook00grun_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "3e1d6240aea6998857902fa598433f43",
+        "mtime": "1265827294",
+        "size": "596",
+        "crc32": "e538bf9f",
+        "sha1": "b648172cf10fbf1ca664bbb587406dd3a3dc315f"
+      },
+      {
+        "name": "cookiecookbook00grun_meta.sqlite",
+        "source": "original",
+        "mtime": "1466216982",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "1a785c6c5ef0e6c7b23b474ccef12ab1",
+        "crc32": "a489dcc0",
+        "sha1": "1bcd4bc2ff33eb61c2aed598442b3cc1c5055531"
+      },
+      {
+        "name": "cookiecookbook00grun_meta.xml",
+        "source": "metadata",
+        "format": "Metadata",
+        "mtime": "1753191724",
+        "size": "2739",
+        "md5": "d1173c6a30a10dafd4c927e257a25cf7",
+        "crc32": "c0953f6b",
+        "sha1": "ebae1757f2539a7668a85d3d4c5ccaa8c65370c2"
+      },
+      {
+        "name": "cookiecookbook00grun_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "6383c269e222b32d8c33126b9aebf5a9",
+        "mtime": "1265827294",
+        "size": "400",
+        "crc32": "7dfdb5e4",
+        "sha1": "da1f1b418945b2064e55ab48b6768f0ace3dd8fc"
+      },
+      {
+        "name": "cookiecookbook00grun_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "affee147582a57c49fd3c2bf6c4e1e6d",
+        "mtime": "1266520545",
+        "size": "41984000",
+        "crc32": "e4a008ea",
+        "sha1": "9a8319ed23282f3818745fed6f7ce9d35e6101e6",
+        "private": "true",
+        "filecount": "76"
+      },
+      {
+        "name": "cookiecookbook00grun_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "91",
+        "format": "Page Numbers JSON",
+        "original": "cookiecookbook00grun_hocr.html",
+        "mtime": "1719041232",
+        "size": "11638",
+        "md5": "edc1dc88b04ede47136d1d25b553a5e3",
+        "crc32": "6f313ca5",
+        "sha1": "adab3a8b24855a334a3d67a2fadb2069db9a8cb2",
+        "private": "true"
+      },
+      {
+        "name": "cookiecookbook00grun_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "c42ab4fd4450205365fe96de71f900e1",
+        "mtime": "1669676764",
+        "size": "39820",
+        "crc32": "64bf282c",
+        "sha1": "1cb437b8b2b8ca4a6fcc55cb82ae10956ed24a52"
+      },
+      {
+        "name": "cookiecookbook00grun_xisbn.json",
+        "source": "original",
+        "mtime": "1454180149",
+        "size": "347",
+        "md5": "e9adc2f962c9a91a31c861396f58567f",
+        "crc32": "1148b829",
+        "sha1": "24c267c56ab25142466e88bc03a8738b7cdeea52",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753191724,
+    "item_size": 108195242,
+    "metadata": {
+      "title": "Cookie cookbook",
+      "creator": "Grunes, Barbara",
+      "description": "Paperback",
+      "publisher": "Milwaukee, WI. : Ideals",
+      "date": "1984-01-01",
+      "language": "eng",
+      "isbn": [
+        "0824930312",
+        "9780824930318"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA111520",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sanfrancisco",
+      "mediatype": "texts",
+      "updatedate": "2010-02-10 18:41:34",
+      "updater": "Phillip.L",
+      "identifier": "cookiecookbook00grun",
+      "uploader": "philip.l@archive.org",
+      "addeddate": "2010-02-10 18:41:36",
+      "publicdate": "2010-02-10 18:41:40",
+      "ppi": "400",
+      "camera": "Canon 5D",
+      "operator": "scanner-denise-mendoza@archive.org",
+      "scanner": "scribe8.sfdowntown.archive.org",
+      "scandate": "20100218185141",
+      "imagecount": "72",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/cookiecookbook00grun",
+      "identifier-ark": "ark:/13960/t59c7kk5g",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20100312144139[/date][state]approved[/state][comment]199[/comment]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:cookiecookbook00grun:pdf:d5450c4d-204c-4c87-9026-0477fde76284",
+        "urn:acs6:cookiecookbook00grun:epub:13cbb6c1-594c-4233-a036-d3319bdd3623",
+        "urn:oclc:record:1028566301",
+        "urn:lcp:cookiecookbook00grun:lcpdf:be1aeb9c-d124-4994-828e-1766b06e27e6",
+        "urn:lcp:cookiecookbook00grun:epub:6746079c-807e-4d50-8d63-66290d565fde"
+      ],
+      "donor": "alibris",
+      "city": "Milwaukee, Wis.",
+      "oclc-id": [
+        "12241498",
+        "30486641"
+      ],
+      "backup_location": "ia903604_29",
+      "openlibrary_edition": "OL24204088M",
+      "openlibrary_work": "OL15136662W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 21:24:04 UTC 2020",
+        "Wed Apr 3 0:05:58 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "91",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601605.us.archive.org",
+    "uniq": 239491391,
+    "workable_servers": [
+      "ia601605.us.archive.org",
+      "ia801605.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/12241498?referer=xid"
+          ],
+          "publisher": "Ideals Pub.",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Milwaukee, Wis.",
+          "author": "Barbara Grunes and the editorial staff of Ideals Publishing Corporation.",
+          "year": "1984",
+          "isbn": [
+            "0824930312"
+          ],
+          "title": "Homemade cookies",
+          "oclcnum": [
+            "12241498",
+            "30486641"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Grunes, Barbara",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Milwaukee"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

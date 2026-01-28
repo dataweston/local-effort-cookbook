@@ -1,0 +1,123 @@
+{
+  "source": "dpla",
+  "id": "3a6dce2b4c818ae11388ff99c26908bf",
+  "identifier": "3a6dce2b4c818ae11388ff99c26908bf",
+  "title": "The Bon Ton cook book, a collection of tested recipes and useful information on cooking",
+  "subject": [
+    "First Presbyterian Church (Evart, Mich.)",
+    "Presbyterian Church in the U.S.A--Michigan--Evart",
+    "Cooking--Michigan--Evart",
+    "Evart (Mich.)--Religion"
+  ],
+  "spatial": [
+    "Evart (Mich.)",
+    "Michigan",
+    "Evart"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/003263720",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1909,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/3a6dce2b4c818ae11388ff99c26908bf#SourceResource",
+      "creator": [
+        "First Presbyterian Church (Evart, Mich.). Woman's Auxiliary"
+      ],
+      "date": [
+        {
+          "begin": "1909",
+          "displayDate": "1909",
+          "end": "1909"
+        }
+      ],
+      "extent": [
+        "90 p."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "(MiU)003263720",
+        "sdr-miu003263720",
+        "(OCoLC)39265155",
+        "Hathi: 003263720"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Evart, Mich., Printed by the Review"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Evart (Mich.)"
+        },
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Evart"
+        }
+      ],
+      "subject": [
+        {
+          "name": "First Presbyterian Church (Evart, Mich.)"
+        },
+        {
+          "name": "Presbyterian Church in the U.S.A--Michigan--Evart"
+        },
+        {
+          "name": "Cooking--Michigan--Evart"
+        },
+        {
+          "name": "Evart (Mich.)--Religion"
+        }
+      ],
+      "title": [
+        "The Bon Ton cook book, a collection of tested recipes and useful information on cooking"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1909-01-01",
+      "normalized_dates": [
+        "1909-01-01"
+      ],
+      "date_range": {
+        "begin": "1909-01-01",
+        "end": "1909-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=REXiAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/003263720"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Auxiliary",
+      "Church",
+      "Presbyterian"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Auxiliary, Church, Presbyterian; Digitized scan available"
+}

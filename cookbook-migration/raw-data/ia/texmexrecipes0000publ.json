@@ -1,0 +1,482 @@
+{
+  "source": "internet_archive",
+  "identifier": "texmexrecipes0000publ",
+  "title": "Tex-Mex recipes",
+  "creator": "Publications International, Ltd",
+  "year": 2005,
+  "subject": [
+    "Mexican American cooking",
+    "Cooking, American",
+    "Brand name products",
+    "Cooking, American -- Southwestern style"
+  ],
+  "description": [
+    "Includes index",
+    "160 pages : 24 cm"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/texmexrecipes0000publ"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/texmexrecipes0000publ"
+        }
+      ]
+    },
+    "created": 1758559095,
+    "d1": "ia600405.us.archive.org",
+    "d2": "ia800405.us.archive.org",
+    "dir": "/7/items/texmexrecipes0000publ",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661152565",
+        "size": "27593",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "266d74e5a0a07a9464d2bbfb0b4c0b17",
+        "crc32": "926da425",
+        "sha1": "775c47098b3f75050c7e4134c2f6acf3688523ae"
+      },
+      {
+        "name": "logs/texmexrecipes0000publ_iabdash_2018-03-13132551.log",
+        "source": "original",
+        "mtime": "1520918755",
+        "size": "353",
+        "md5": "cb310123149e7673784bce2ac6a6637c",
+        "crc32": "ff9c1493",
+        "sha1": "8877f8d29ebcc8b6a566565cb3c2967159bc9143",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/texmexrecipes0000publ_scanning_2018-03-13132545.log",
+        "source": "original",
+        "mtime": "1520918750",
+        "size": "357640",
+        "md5": "fe5324f0542c59fec99b8016efbf9af1",
+        "crc32": "eda250a7",
+        "sha1": "845313e26ee42dcc0ad173f4762d87ecd25ec98f",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "texmexrecipes0000publ.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "texmexrecipes0000publ_hocr.html",
+        "mtime": "1754109017",
+        "size": "157266039",
+        "private": "true",
+        "md5": "a93c1d7b866af6e49f9f0da9787d47fe",
+        "crc32": "9469a641",
+        "sha1": "da8f208582dfb17caafd775ee18dd9c56f092d1c"
+      },
+      {
+        "name": "texmexrecipes0000publ.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "texmexrecipes0000publ.pdf",
+        "mtime": "1754108798",
+        "size": "38192001",
+        "md5": "f526d3ffcabbcb7ec348422cf4b61c85",
+        "crc32": "9c52bf22",
+        "sha1": "5117b4fac10e99189e8a2cb8871c396a52f05ea6"
+      },
+      {
+        "name": "texmexrecipes0000publ.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "texmexrecipes0000publ_page_numbers.json",
+        "mtime": "1725487308",
+        "size": "37609123",
+        "md5": "6a3a4ceaaa3fdec7cb8f60b498190561",
+        "crc32": "8bc4131a",
+        "sha1": "3c29f94c36c48d7c58ace150a3a3cc54d5498a08",
+        "private": "true"
+      },
+      {
+        "name": "texmexrecipes0000publ_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "texmexrecipes0000publ_jp2.zip",
+        "mtime": "1523930792",
+        "size": "1940135",
+        "md5": "dcb0469de6210b68028a7e7236bed922",
+        "crc32": "e7791f81",
+        "sha1": "4ee3a1884abb982d0a8217b91b6601e3b650036c",
+        "private": "true"
+      },
+      {
+        "name": "texmexrecipes0000publ_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "texmexrecipes0000publ_abbyy.gz",
+        "mtime": "1661152023",
+        "size": "1586992",
+        "md5": "4d1203a02c81068c1694da4e407818f7",
+        "crc32": "ed5099fe",
+        "sha1": "8b9c46a3e4ce3762c833ea730d3b80733abe8aa7",
+        "private": "true"
+      },
+      {
+        "name": "texmexrecipes0000publ_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "texmexrecipes0000publ_scandata.xml",
+        "mtime": "1671432554",
+        "size": "777",
+        "md5": "480b9f42e743e30ecc79b819ef689cf1",
+        "crc32": "02fb2fd7",
+        "sha1": "90aba10fa3517b88324e61d4c143c1703387b319",
+        "private": "true"
+      },
+      {
+        "name": "texmexrecipes0000publ_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1528250190",
+        "size": "1287",
+        "md5": "8a3c3c72ded213a261c8a8b9aaace879",
+        "crc32": "26b9eb87",
+        "sha1": "5849aed88c222f7384aa72236f0f2705603f7a52"
+      },
+      {
+        "name": "texmexrecipes0000publ_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "texmexrecipes0000publ_djvu.xml",
+        "mtime": "1661152560",
+        "size": "144099",
+        "md5": "856c276322402e697cdad929d44862a2",
+        "crc32": "80a7037c",
+        "sha1": "e413f693ab59d4e8c13add858e7ff8513388151b",
+        "private": "true"
+      },
+      {
+        "name": "texmexrecipes0000publ_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "texmexrecipes0000publ_hocr.html",
+        "mtime": "1661152488",
+        "size": "1756463",
+        "md5": "ba641f1c8101cd2d76bfe530fe4dca71",
+        "crc32": "545e4224",
+        "sha1": "598426fe00449312fb8af64a9a670a3aa0f128d4",
+        "private": "true"
+      },
+      {
+        "name": "texmexrecipes0000publ_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "texmexrecipes0000publ_abbyy.gz",
+        "mtime": "1528250257",
+        "size": "2703291",
+        "md5": "b84dedf2ae094fab0a2ef6055541edf5",
+        "crc32": "5d9f28eb",
+        "sha1": "7e325f34fb295d60b18e0cc22c50c7b788392589"
+      },
+      {
+        "name": "texmexrecipes0000publ_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "texmexrecipes0000publ.pdf",
+        "mtime": "1725487836",
+        "size": "37525903",
+        "md5": "f7f2e115a70ad47def70158b3fd95e51",
+        "crc32": "f99510f1",
+        "sha1": "830a544b352ec5a8729359b3175ca15a0f3d7ba9"
+      },
+      {
+        "name": "texmexrecipes0000publ_events.json",
+        "source": "original",
+        "mtime": "1523925877",
+        "size": "101",
+        "format": "JSON",
+        "private": "true",
+        "md5": "80f089119eabae4f1feee8d1abd94846",
+        "crc32": "303af76a",
+        "sha1": "02d25ef111ea98a9a42a408c668bb0aba9a8b7f2"
+      },
+      {
+        "name": "texmexrecipes0000publ_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "cfd58c57fded30d9e4f3c87432fdc47e",
+        "summation": "md5"
+      },
+      {
+        "name": "texmexrecipes0000publ_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "texmexrecipes0000publ_chocr.html.gz",
+        "mtime": "1661152467",
+        "size": "3617778",
+        "md5": "2f539e360ed31399f6cd8f4888b5348a",
+        "crc32": "17566388",
+        "sha1": "6e261298789f3373dfcbd3fccc008f00dbea037e",
+        "private": "true"
+      },
+      {
+        "name": "texmexrecipes0000publ_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "texmexrecipes0000publ_hocr.html",
+        "mtime": "1661152521",
+        "size": "1745",
+        "md5": "fba4bf63aa5a94fb4f65c323550e0c88",
+        "crc32": "db55f88c",
+        "sha1": "904cfc41dc8898f694972df73de639cfbe251847",
+        "private": "true"
+      },
+      {
+        "name": "texmexrecipes0000publ_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "113",
+        "word_conf_11_20": "102",
+        "word_conf_21_30": "217",
+        "word_conf_31_40": "343",
+        "word_conf_41_50": "284",
+        "word_conf_51_60": "291",
+        "word_conf_61_70": "523",
+        "word_conf_71_80": "1032",
+        "word_conf_81_90": "2015",
+        "word_conf_91_100": "15504",
+        "format": "OCR Search Text",
+        "original": "texmexrecipes0000publ_hocr.html",
+        "mtime": "1661152548",
+        "size": "36506",
+        "md5": "d61f1f394cc417f131d31d14a297fcdf",
+        "crc32": "673c131e",
+        "sha1": "4e4bbbff1738319846532388a8efd169af774ffc",
+        "private": "true"
+      },
+      {
+        "name": "texmexrecipes0000publ_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "texmexrecipes0000publ_orig_jp2.tar",
+        "mtime": "1523927942",
+        "size": "219811128",
+        "md5": "7acc24116597926422ea0efe0310bab5",
+        "crc32": "6d0f52b8",
+        "sha1": "782d3446f6a097ae24892ae8885331e73d815e16",
+        "private": "true",
+        "filecount": "168"
+      },
+      {
+        "name": "texmexrecipes0000publ_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "texmexrecipes0000publ.epub",
+        "mtime": "1754109077",
+        "size": "157333281",
+        "md5": "506aff706fe1ec09af0af732793cb8c3",
+        "crc32": "909093f9",
+        "sha1": "3a8a8bbb4243c30cc6c6cff167182ba39044ec22"
+      },
+      {
+        "name": "texmexrecipes0000publ_loans.json",
+        "source": "original",
+        "mtime": "1593240064",
+        "size": "3395",
+        "format": "JSON",
+        "private": "true",
+        "md5": "b061ed2ac95dc079a5835368617e80fe",
+        "crc32": "2e701be4",
+        "sha1": "042fc7258fb81f481ecc58902b2e26c8a2279e6d"
+      },
+      {
+        "name": "texmexrecipes0000publ_marc.xml",
+        "source": "original",
+        "mtime": "1528250190",
+        "size": "4442",
+        "format": "MARC",
+        "md5": "eba4eca0b90581ed69335c78906b7396",
+        "crc32": "4b1ee785",
+        "sha1": "7ba57b61fd05c708ab7400a1802f29ef57da27e6"
+      },
+      {
+        "name": "texmexrecipes0000publ_meta.mrc",
+        "source": "original",
+        "mtime": "1520918771",
+        "size": "1292",
+        "md5": "b9717cfbd58232d0c80c793055e4ecc3",
+        "crc32": "98a82458",
+        "sha1": "ee9f3bdadd5e88f3c5e2f56581ecae174b6771d3",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "texmexrecipes0000publ_meta.sqlite",
+        "source": "original",
+        "mtime": "1523926028",
+        "size": "23552",
+        "format": "Metadata",
+        "md5": "1392367e32fb892a7c6a2bbf727a9442",
+        "crc32": "ff344785",
+        "sha1": "2e8ce33fd70aeec15e52c9862dd1b98b60042c0c"
+      },
+      {
+        "name": "texmexrecipes0000publ_meta.xml",
+        "source": "original",
+        "mtime": "1754109078",
+        "size": "3247",
+        "format": "Metadata",
+        "md5": "f59e5fa5bd3fac7fe00cc344bc6fe06e",
+        "crc32": "d9b97125",
+        "sha1": "e8ec4bf0bed453fdc468df1636f70f4d57272845"
+      },
+      {
+        "name": "texmexrecipes0000publ_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1523926027",
+        "size": "445245440",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "31edde81dbd7765d79f4b27645045d37",
+        "crc32": "82861b4c",
+        "sha1": "0a3a992de709927e897c17a6fbe737f368883d63",
+        "filecount": "168"
+      },
+      {
+        "name": "texmexrecipes0000publ_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "15",
+        "format": "Page Numbers JSON",
+        "original": "texmexrecipes0000publ_hocr.html",
+        "mtime": "1725487250",
+        "size": "27932",
+        "md5": "525d3c6e6b55037ec6b4f05df5f3adcd",
+        "crc32": "b2017aaa",
+        "sha1": "32e9300b68c79627986f6c388e8644c8536a1484",
+        "private": "true"
+      },
+      {
+        "name": "texmexrecipes0000publ_scandata.xml",
+        "source": "original",
+        "mtime": "1671432554",
+        "size": "171154",
+        "format": "Scandata",
+        "md5": "7bf895c97f6fed1b9feec68c801810c8",
+        "crc32": "59eb52fb",
+        "sha1": "7f84f333455ae4eb7e8932a8d6b32ce8a0936020"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1754109078,
+    "item_size": 1105392689,
+    "metadata": {
+      "identifier": "texmexrecipes0000publ",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Publications International, Ltd",
+      "date": "2005-01-01",
+      "isbn": [
+        "1412722594",
+        "9781412722599"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-yukyin-chung@archive.org",
+      "ppi": "300",
+      "printer": "DYMO_LabelWriter_450_Turbo",
+      "publisher": "Lincolnwood, IL : Publications International",
+      "repub_state": "22",
+      "scanner": "ttscribe13.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "Tex-Mex recipes",
+      "tts_version": "v1.58-final-5-g8c4c1bd",
+      "publicdate": "2018-03-13 05:25:31",
+      "uploader": "ttscribe13.hongkong@archive.org",
+      "addeddate": "2018-03-13 05:25:31",
+      "imagecount": "166",
+      "scandate": "20180313074118",
+      "subject": [
+        "Mexican American cooking",
+        "Cooking, American",
+        "Brand name products",
+        "Cooking, American -- Southwestern style",
+        "Cooking, American",
+        "Mexican American cooking"
+      ],
+      "lccn": "2005926113",
+      "description": [
+        "Includes index",
+        "160 pages : 24 cm"
+      ],
+      "republisher_operator": "associate-hubizhong@archive.org",
+      "republisher_date": "20180417084246",
+      "republisher_time": "846",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/texmexrecipes0000publ",
+      "identifier-ark": "ark:/13960/t3cz9wm8s",
+      "external-identifier": [
+        "urn:acs6:texmexrecipes0000publ:pdf:12392080-b389-4b05-90f9-1e1fd7a048a0",
+        "urn:acs6:texmexrecipes0000publ:epub:a66b311e-0211-4c9c-b970-c0a4798cf07a",
+        "urn:oclc:record:1040002445",
+        "urn:lcp:texmexrecipes0000publ:lcpdf:28397b9d-6b7e-4c9f-9073-307ac9bee904",
+        "urn:lcp:texmexrecipes0000publ:epub:87eff6c9-c113-4f93-bd18-143957a27220"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "curation": "[curator]associate-francis-boyer@archive.org[/curator][date]20180417203530[/date]",
+      "openlibrary_edition": "OL8432621M",
+      "openlibrary_work": "OL17858202W",
+      "boxid": "IA1184614",
+      "sponsordate": "20180430",
+      "associated-names": "Publications International, Ltd",
+      "backup_location": "ia906701_1",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "filesxml": "Wed Apr 3 14:58:42 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "15",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800405.us.archive.org",
+    "uniq": 1907933960,
+    "workable_servers": [
+      "ia800405.us.archive.org",
+      "ia600405.us.archive.org"
+    ]
+  },
+  "institution": "Publications International, Ltd",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

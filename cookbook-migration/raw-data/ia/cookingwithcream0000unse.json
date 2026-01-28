@@ -1,0 +1,513 @@
+{
+  "source": "internet_archive",
+  "identifier": "cookingwithcream0000unse",
+  "title": "Cooking with cream soup",
+  "creator": null,
+  "year": 2008,
+  "subject": "Cooking, American",
+  "description": "112 pages : 29 cm",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/cookingwithcream0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/cookingwithcream0000unse"
+        }
+      ]
+    },
+    "created": 1758559227,
+    "d1": "ia601707.us.archive.org",
+    "d2": "ia801707.us.archive.org",
+    "dir": "/29/items/cookingwithcream0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1719046819",
+        "size": "17684",
+        "md5": "46ed84535536879fb20263dc34bfe9ae",
+        "crc32": "b60ba185",
+        "sha1": "9288d408c7c13e68c1034c943864ce8bf008bb5f",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "cookingwithcream0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "cookingwithcream0000unse_hocr.html",
+        "mtime": "1755618384",
+        "size": "25544337",
+        "private": "true",
+        "md5": "31d51ca10c9bbb961383bdf60575fc70",
+        "crc32": "9499ede9",
+        "sha1": "8a73fd855c607444ee83b63ddeefe17c1b447321"
+      },
+      {
+        "name": "cookingwithcream0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "cookingwithcream0000unse.pdf",
+        "mtime": "1755618090",
+        "size": "12595764",
+        "md5": "4e191dcf7b91d3cf326ef488e23a7710",
+        "crc32": "2abd1ccb",
+        "sha1": "3f0d2e27911b51c955d7f65815a586d82fe3d1a6"
+      },
+      {
+        "name": "cookingwithcream0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "cookingwithcream0000unse_page_numbers.json",
+        "mtime": "1719046674",
+        "size": "12324480",
+        "md5": "60e6269390372c40220771f2a261819f",
+        "crc32": "41ea0249",
+        "sha1": "f6d5583894d920cda575962074428df45a045b63",
+        "private": "true"
+      },
+      {
+        "name": "cookingwithcream0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "cookingwithcream0000unse_jp2.zip",
+        "mtime": "1603201194",
+        "size": "4580953",
+        "md5": "3af800e6dc56235859d77f05778f1683",
+        "crc32": "743b9486",
+        "sha1": "c9b6126f608bf2dc865e1dbbbe0c331f91c6f599",
+        "private": "true"
+      },
+      {
+        "name": "cookingwithcream0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "cookingwithcream0000unse_abbyy.gz",
+        "mtime": "1659791380",
+        "size": "3810790",
+        "md5": "34e979c790ba5a30f99b68a5b43deaa6",
+        "crc32": "e3bb4aaf",
+        "sha1": "8a3257375dfbc7d7b317281a3b764be14d23a9f5",
+        "private": "true"
+      },
+      {
+        "name": "cookingwithcream0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "cookingwithcream0000unse_scandata.xml",
+        "mtime": "1669679242",
+        "size": "787",
+        "md5": "a92fd0ecd0e36dc25ccf534f134857a4",
+        "crc32": "c6dd8374",
+        "sha1": "6add11cd151dacd38692272240412c55f5cc9536",
+        "private": "true"
+      },
+      {
+        "name": "cookingwithcream0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1603198559",
+        "size": "662",
+        "md5": "fb8b8b966fa2d7d3daef0d439873c66b",
+        "crc32": "e7e2e716",
+        "sha1": "f376494b8152435c98cd1cb6f8d45ccbc29b0780"
+      },
+      {
+        "name": "cookingwithcream0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "cookingwithcream0000unse_djvu.xml",
+        "mtime": "1659791503",
+        "size": "341785",
+        "md5": "294c295326fa671d268624b5513a4a68",
+        "crc32": "b12990e2",
+        "sha1": "cf01b46c1990c7af3357bf0fcd4bad8dbef19d4d",
+        "private": "true"
+      },
+      {
+        "name": "cookingwithcream0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "cookingwithcream0000unse_hocr.html",
+        "mtime": "1659791450",
+        "size": "4063637",
+        "md5": "e916a95a818919cfa22fabb8477897ec",
+        "crc32": "74258a56",
+        "sha1": "e61db5203cc602955df7b52c7ddd59c5ab4187d8",
+        "private": "true"
+      },
+      {
+        "name": "cookingwithcream0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "cookingwithcream0000unse_abbyy.gz",
+        "mtime": "1603201258",
+        "size": "8565267",
+        "md5": "8292a535a56cb70c8f1d3d163ff321e6",
+        "crc32": "94624200",
+        "sha1": "fb5ea0d00e91ea895bd8c412d4593402763b43c6"
+      },
+      {
+        "name": "cookingwithcream0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "cookingwithcream0000unse.pdf",
+        "mtime": "1719047569",
+        "size": "12191254",
+        "md5": "99f563b2caef6461a0458fb1169c2201",
+        "crc32": "c0a3b0d5",
+        "sha1": "7dcde78d8b4fef2131fe677ffa72e995127afffc"
+      },
+      {
+        "name": "cookingwithcream0000unse_events.json",
+        "source": "original",
+        "mtime": "1603198473",
+        "size": "58",
+        "md5": "b8f4f9e6b30080bad6dc7c42a8597f26",
+        "crc32": "b74221e3",
+        "sha1": "dbfc8c91cfc2ebfc915ee08ac1c24c3f67b94fd2",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "cookingwithcream0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "907593e85d862e630c7040c41eee9a6d",
+        "summation": "md5"
+      },
+      {
+        "name": "cookingwithcream0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "cookingwithcream0000unse_chocr.html.gz",
+        "mtime": "1659791431",
+        "size": "8694360",
+        "md5": "8bb4203c3819e264793d65db78f04beb",
+        "crc32": "6290858a",
+        "sha1": "7733ae4380dad93941fccc182f85931b271e7571",
+        "private": "true"
+      },
+      {
+        "name": "cookingwithcream0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "cookingwithcream0000unse_hocr.html",
+        "mtime": "1659791472",
+        "size": "1446",
+        "md5": "09ff7d3826fa29c1155e93b9edf62f67",
+        "crc32": "eddaa8d9",
+        "sha1": "4bca5c245709c6dc680d3fa89d4846ce30cbce84",
+        "private": "true"
+      },
+      {
+        "name": "cookingwithcream0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "65",
+        "word_conf_11_20": "43",
+        "word_conf_21_30": "114",
+        "word_conf_31_40": "365",
+        "word_conf_41_50": "576",
+        "word_conf_51_60": "1175",
+        "word_conf_61_70": "2666",
+        "word_conf_71_80": "6914",
+        "word_conf_81_90": "13034",
+        "word_conf_91_100": "23720",
+        "format": "OCR Search Text",
+        "original": "cookingwithcream0000unse_hocr.html",
+        "mtime": "1659791494",
+        "size": "82943",
+        "md5": "6edb3896229224470a2f701df299e317",
+        "crc32": "8b399f1a",
+        "sha1": "1384285c4debffcbd02b2971797410dcad761ce0",
+        "private": "true"
+      },
+      {
+        "name": "cookingwithcream0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "cookingwithcream0000unse_orig_jp2.tar",
+        "mtime": "1603200456",
+        "size": "69121752",
+        "md5": "227da2678642c5ed9cb18465f80d2e73",
+        "crc32": "c33e2eba",
+        "sha1": "f22751234ab98c6d35021195396778ec5904eab0",
+        "private": "true",
+        "filecount": "122"
+      },
+      {
+        "name": "cookingwithcream0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "cookingwithcream0000unse.epub",
+        "mtime": "1755618722",
+        "size": "25993880",
+        "md5": "b9b09b5411a1b54b100cc066dedbad04",
+        "crc32": "8c8386f0",
+        "sha1": "de2357c5f87b0e4ded2702785e9209f4c529a1c0"
+      },
+      {
+        "name": "cookingwithcream0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1602929180",
+        "size": "4011",
+        "md5": "b4474d2f195273731a03c890604c4513",
+        "crc32": "f45e782f",
+        "sha1": "e6d140c86261f29a6950ab3717d171e0e8f0a13e",
+        "format": "MARC"
+      },
+      {
+        "name": "cookingwithcream0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1602929173",
+        "size": "1161",
+        "md5": "1479aa9ffb245ce4ed63264b9e877a73",
+        "crc32": "6bc8ef2e",
+        "sha1": "3110e279ad35b93e681ff7c20e4ef5236482abe3",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "cookingwithcream0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1603198532",
+        "size": "19456",
+        "md5": "24a07d4316e64a77150faca747db0841",
+        "crc32": "227a3f55",
+        "sha1": "dbe9dfee11bd81c6e52738309157d44490d5dde7",
+        "format": "Metadata"
+      },
+      {
+        "name": "cookingwithcream0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1755618723",
+        "size": "2847",
+        "md5": "51502e3409574be322e75692c730fd1c",
+        "crc32": "4d5860cc",
+        "sha1": "b429f85c23814e1feda3b0c05cccf910aa6a1ef4",
+        "format": "Metadata"
+      },
+      {
+        "name": "cookingwithcream0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1603198531",
+        "size": "126904320",
+        "md5": "66327f0b0cdabee1486052ae0f40f0f2",
+        "crc32": "e6ba4563",
+        "sha1": "d91f01c6b6dba67d6715e507c8a2a4b63516638e",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "122"
+      },
+      {
+        "name": "cookingwithcream0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "cookingwithcream0000unse_hocr.html",
+        "mtime": "1719046674",
+        "size": "20251",
+        "md5": "188bdfc5a52cbe71541d0f0ceb0ee7dd",
+        "crc32": "cd7cda75",
+        "sha1": "3c56fadc9da70b6feac6c9d3a9afbaefc1169d79",
+        "private": "true"
+      },
+      {
+        "name": "cookingwithcream0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1669679242",
+        "size": "124755",
+        "md5": "a4db7e87809b898238da4909c1436388",
+        "crc32": "85dbc2c2",
+        "sha1": "068e6a6f0bce3b14d605d75e7e34d7f08c9fffac",
+        "format": "Scandata"
+      },
+      {
+        "name": "cookingwithcream0000unse_slip.png",
+        "source": "original",
+        "mtime": "1602927173",
+        "size": "42616",
+        "md5": "9633b2ed5d37b77ae4555fcba84d963d",
+        "crc32": "1550803a",
+        "sha1": "eef375fff2d677fde526257bbe5a219d773a18e7",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "cookingwithcream0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "cookingwithcream0000unse_slip.png",
+        "mtime": "1603198562",
+        "size": "5662",
+        "md5": "95593c35eedbbf40b58a373ff2dab784",
+        "crc32": "30d4cac9",
+        "sha1": "12556f4cb22a72a59aee29a5ca46afb30afd3ceb",
+        "private": "true"
+      },
+      {
+        "name": "cookingwithcream0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "cookingwithcream0000unse_djvu.xml",
+        "mtime": "1669679048",
+        "size": "760",
+        "md5": "44b00f240f6c7fa7972fadbf6e33ee33",
+        "crc32": "ed9fda06",
+        "sha1": "bfd93491c805a0083b01141a2dc9eede770dcba4",
+        "private": "true"
+      },
+      {
+        "name": "logs/cookingwithcream0000unse_iabdash_2020-10-1718:06:21.log",
+        "source": "original",
+        "mtime": "1602929186",
+        "size": "1350",
+        "md5": "2ef4c85685eada32d8b1abcc330e1c93",
+        "crc32": "f8a643bd",
+        "sha1": "a4124e11af0dffee003c28ea83c4f3bfbf18dde5",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/cookingwithcream0000unse_scanning_2020-10-1718:06:34.log",
+        "source": "original",
+        "mtime": "1602929198",
+        "size": "431487",
+        "md5": "69e34b6a2863e1f70285e6ef684711fd",
+        "crc32": "3c221940",
+        "sha1": "6f71d06a4a5ef3121b3fd3604326fa4d50f1302d",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/cookingwithcream0000unse_status_history_2020-10-1718:06:28.log",
+        "source": "original",
+        "mtime": "1602929193",
+        "size": "407",
+        "md5": "74c30687c513dbd63434bd2a7d526537",
+        "crc32": "646d4c2e",
+        "sha1": "7d3448653bb79b2d0cc0e6eb0f1feefe9adefd11",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1755618723,
+    "item_size": 315490922,
+    "metadata": {
+      "identifier": "cookingwithcream0000unse",
+      "associated-names": "Lancaster, Sarah",
+      "boxid": "IA1981016",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2008-01-01",
+      "description": "112 pages : 29 cm",
+      "isbn": [
+        "9780898216035",
+        "0898216036"
+      ],
+      "language": "eng",
+      "lccn": "2008923022",
+      "mediatype": "texts",
+      "old_pallet": "IA19205",
+      "operator": "associate-jesa-monares@archive.org",
+      "ppi": "300",
+      "publisher": "Greendale, WI : Reiman Media Group",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station01.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780898216035",
+      "subject": "Cooking, American",
+      "title": "Cooking with cream soup",
+      "tts_version": "4.0-initial-155-gbba175a5",
+      "uploader": "station01.cebu@archive.org",
+      "publicdate": "2020-10-17 09:33:25",
+      "access-restricted-item": "true",
+      "imagecount": "122",
+      "scandate": "20201017111454",
+      "republisher_operator": "associate-ronil-villaceran@archive.org",
+      "republisher_date": "20201020205428",
+      "republisher_time": "435",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/cookingwithcream0000unse",
+      "identifier-ark": "ark:/13960/t7sn9q790",
+      "external-identifier": [
+        "urn:acs6:cookingwithcream0000unse:epub:80c1e53a-b951-46df-b379-d159b2a32737",
+        "urn:acs6:cookingwithcream0000unse:pdf:08bc577c-a6ff-4b67-b885-c1b06af8381b",
+        "urn:oclc:record:1204335471",
+        "urn:lcp:cookingwithcream0000unse:lcpdf:255f804a-0af0-4a32-bc62-729a5592ac01",
+        "urn:lcp:cookingwithcream0000unse:epub:33a83d40-d43a-41e0-b115-2654d9999c81"
+      ],
+      "page_number_confidence": "100",
+      "addeddate": "2020-10-20 14:01:18",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20201031",
+      "openlibrary_work": "OL24121490W",
+      "openlibrary_edition": "OL31812868M",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601707.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "delawarecountydistrictlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780898216035"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-03-11 09:19:55.028747"
+        }
+      }
+    },
+    "uniq": 1178392055,
+    "workable_servers": [
+      "ia601707.us.archive.org",
+      "ia801707.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

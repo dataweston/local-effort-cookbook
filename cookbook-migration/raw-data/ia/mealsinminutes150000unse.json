@@ -1,0 +1,484 @@
+{
+  "source": "internet_archive",
+  "identifier": "mealsinminutes150000unse",
+  "title": "Meals in minutes : 150 delicious recipes for busy families",
+  "creator": "None",
+  "year": 2011,
+  "subject": [
+    "Quick and easy cooking",
+    "Cooking, American"
+  ],
+  "description": [
+    "224 pages : 23 cm",
+    "20-minute meals -- 30-minute meals -- 40-minute meals -- 15-minute sides & desserts",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/mealsinminutes150000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/mealsinminutes150000unse"
+        }
+      ]
+    },
+    "created": 1758335729,
+    "d1": "ia902807.us.archive.org",
+    "d2": "ia802807.us.archive.org",
+    "dir": "/26/items/mealsinminutes150000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660600455",
+        "size": "19892",
+        "md5": "eb70a994d94ff4e4d7b5c94427f8e1d8",
+        "crc32": "f7f6738f",
+        "sha1": "c7111861b320b87f860e7046ec4a254b9a5ba612",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/mealsinminutes150000unse_iabdash_2018-09-1512:50:47.log",
+        "source": "original",
+        "mtime": "1536987064",
+        "size": "687",
+        "md5": "bb53108de0a9c311171266b3a3d47353",
+        "crc32": "f659469b",
+        "sha1": "423c8291a6254d634aee2b8d8b7e26680b6530fe",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/mealsinminutes150000unse_scanning_2018-09-1512:50:41.log",
+        "source": "original",
+        "mtime": "1536987056",
+        "size": "428933",
+        "md5": "cc27e2efaea7c2adee2e0f8b4ab57dbb",
+        "crc32": "544cf9f1",
+        "sha1": "09d816c99383e1fa56c3b1e528fdf0fe713884c7",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "mealsinminutes150000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "mealsinminutes150000unse_hocr.html",
+        "mtime": "1757033047",
+        "size": "212592038",
+        "private": "true",
+        "md5": "5585486ee4bb8cc91622f23445c2dc5d",
+        "crc32": "2eee58dc",
+        "sha1": "f009ba306496c4671a3c76944e2cf64d4cf6856d"
+      },
+      {
+        "name": "mealsinminutes150000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "mealsinminutes150000unse.pdf",
+        "mtime": "1757032731",
+        "size": "68518297",
+        "md5": "f3c3b875668ac89e81731f568ae772a0",
+        "crc32": "6272e2e2",
+        "sha1": "512f61e78bc0e821fa10c4951fddcfd641de76b1"
+      },
+      {
+        "name": "mealsinminutes150000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "mealsinminutes150000unse_page_numbers.json",
+        "mtime": "1715461809",
+        "size": "67929552",
+        "md5": "6b28e14142b9506405052921d4362cf2",
+        "crc32": "ac283c64",
+        "sha1": "77f78cd5b16e45de1ac92e9fc856858a070180d1",
+        "private": "true"
+      },
+      {
+        "name": "mealsinminutes150000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "mealsinminutes150000unse_jp2.zip",
+        "mtime": "1537437171",
+        "size": "4088093",
+        "md5": "1b7beb3122376c939feb0e1082473f96",
+        "crc32": "574fa581",
+        "sha1": "6fd45dd54111b6d173bfd7b5c85d8167f8141a0d",
+        "private": "true"
+      },
+      {
+        "name": "mealsinminutes150000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "mealsinminutes150000unse_abbyy.gz",
+        "mtime": "1660599078",
+        "size": "3283116",
+        "md5": "22643f0ce0121c7cf58c9ac790720665",
+        "crc32": "7221d663",
+        "sha1": "31407ce19735133c7f9443f1b34de70f2286dbab",
+        "private": "true"
+      },
+      {
+        "name": "mealsinminutes150000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "mealsinminutes150000unse_scandata.xml",
+        "mtime": "1670642961",
+        "size": "789",
+        "md5": "da119f5b8a46aba6fbed07bcf8b89b1c",
+        "crc32": "8853633b",
+        "sha1": "b17f2eb5033218d1f81aef8b4f32e881e8bbf2d9",
+        "private": "true"
+      },
+      {
+        "name": "mealsinminutes150000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660598349",
+        "size": "1460",
+        "md5": "eb57b2a6c77d4d73183a70cdb8a2a494",
+        "crc32": "d24660c5",
+        "sha1": "f304a5a008846dbea6b85fc8bd0f39f733029e96"
+      },
+      {
+        "name": "mealsinminutes150000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "mealsinminutes150000unse_djvu.xml",
+        "mtime": "1660600446",
+        "size": "282311",
+        "md5": "7465ece8861045c9aca4ef39cb7b97f5",
+        "crc32": "b8f17d58",
+        "sha1": "e10c3f7c4275a61958b4fdd635de3d74a46a7f63",
+        "private": "true"
+      },
+      {
+        "name": "mealsinminutes150000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "mealsinminutes150000unse_hocr.html",
+        "mtime": "1660599739",
+        "size": "3602544",
+        "md5": "bbb4e8464af6cad656020a0e45b6a68a",
+        "crc32": "592d15a1",
+        "sha1": "1cf269a2773a054a3eda8ab154a0a794d9cc8d1c",
+        "private": "true"
+      },
+      {
+        "name": "mealsinminutes150000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "mealsinminutes150000unse_abbyy.gz",
+        "mtime": "1537439072",
+        "size": "5265248",
+        "md5": "105009049fb63bc69daa05d91fab52ae",
+        "crc32": "f932f374",
+        "sha1": "16574da8977ed58cebf434703deff9ff2b35314c"
+      },
+      {
+        "name": "mealsinminutes150000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "mealsinminutes150000unse.pdf",
+        "mtime": "1715462650",
+        "size": "67765598",
+        "md5": "8ffcec8b7150d90dc36ca376292fe024",
+        "crc32": "08eabf59",
+        "sha1": "c807975ee0155ed3bda25495f913dc0bb52071f8"
+      },
+      {
+        "name": "mealsinminutes150000unse_events.json",
+        "source": "original",
+        "mtime": "1537429458",
+        "size": "51",
+        "md5": "92864c041349609804a666dc3743fab0",
+        "crc32": "b34a85be",
+        "sha1": "49f1bbcdef3485d4effe19162bccf3d60dba2e41",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "mealsinminutes150000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "a3ae681f175c4e0c6c5c6803eaeed3de",
+        "summation": "md5"
+      },
+      {
+        "name": "mealsinminutes150000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "mealsinminutes150000unse_chocr.html.gz",
+        "mtime": "1660599694",
+        "size": "7674695",
+        "md5": "1cd2ace7f3e73840536c20d8bbf398a3",
+        "crc32": "fd1fcc16",
+        "sha1": "977d705f08d467692514a10a9db32a9b20981551",
+        "private": "true"
+      },
+      {
+        "name": "mealsinminutes150000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "mealsinminutes150000unse_hocr.html",
+        "mtime": "1660599963",
+        "size": "2506",
+        "md5": "7600274d8688eec3862a9222294e4e7d",
+        "crc32": "ab4f715d",
+        "sha1": "6cdffe0de373033c62248491728ce7f2b4f27211",
+        "private": "true"
+      },
+      {
+        "name": "mealsinminutes150000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1061",
+        "word_conf_11_20": "564",
+        "word_conf_21_30": "718",
+        "word_conf_31_40": "778",
+        "word_conf_41_50": "1091",
+        "word_conf_51_60": "1419",
+        "word_conf_61_70": "2129",
+        "word_conf_71_80": "3930",
+        "word_conf_81_90": "9038",
+        "word_conf_91_100": "20153",
+        "format": "OCR Search Text",
+        "original": "mealsinminutes150000unse_hocr.html",
+        "mtime": "1660600315",
+        "size": "65335",
+        "md5": "85f6204834a8cd0a73b7f70bc556cdc1",
+        "crc32": "3c3a6528",
+        "sha1": "6a90f6016ee02936ee071b0586dd175b91ed4512",
+        "private": "true"
+      },
+      {
+        "name": "mealsinminutes150000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "mealsinminutes150000unse_orig_jp2.tar",
+        "mtime": "1537432147",
+        "size": "401868335",
+        "md5": "18c50f32e2a1d5611b1f6669d839b434",
+        "crc32": "c05470ec",
+        "sha1": "8470d3e60f41fb28f1f3d63d8bc96a51fdc9bef9",
+        "private": "true",
+        "filecount": "230"
+      },
+      {
+        "name": "mealsinminutes150000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "mealsinminutes150000unse.epub",
+        "mtime": "1757033391",
+        "size": "212763795",
+        "md5": "80b62cd8bcb247612ab54a41e7c56e3d",
+        "crc32": "a935288a",
+        "sha1": "4bdf9f31194777cdcd31a5c7b3590097767624af"
+      },
+      {
+        "name": "mealsinminutes150000unse_loans.json",
+        "source": "original",
+        "mtime": "1594085151",
+        "size": "901",
+        "format": "JSON",
+        "private": "true",
+        "md5": "af4e9f751d262c16ab6ed96dc31c0346",
+        "crc32": "e970f5d3",
+        "sha1": "97a8615e00121b945387339ae752f470785c75be"
+      },
+      {
+        "name": "mealsinminutes150000unse_marc.xml",
+        "source": "original",
+        "mtime": "1660598349",
+        "size": "4268",
+        "format": "MARC",
+        "md5": "0b271c49a5613ab4e51b15c87ec1e9e3",
+        "crc32": "5a24f451",
+        "sha1": "1d15d6333dbe2d14a0152d323723f795247461c2"
+      },
+      {
+        "name": "mealsinminutes150000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1536987077",
+        "size": "1317",
+        "md5": "38db494c4b76d8676251b55f3a0207af",
+        "crc32": "dddab69c",
+        "sha1": "a1f9c333dfef6bc9f25bf462e90c3532a754c08c",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "mealsinminutes150000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1537429696",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "0d24f02cb46b246fc0de0761cb81b841",
+        "crc32": "bf10b6c5",
+        "sha1": "24cbc1b61344e3a0e6ded9cfa0864be0e8e71e03"
+      },
+      {
+        "name": "mealsinminutes150000unse_meta.xml",
+        "source": "original",
+        "mtime": "1757033880",
+        "size": "3281",
+        "format": "Metadata",
+        "md5": "4c9f8f97cc04df6f2822f818ffd49c58",
+        "crc32": "7fd6fb0b",
+        "sha1": "0cd281195405ce5fcef702baeec98491a8abbdba"
+      },
+      {
+        "name": "mealsinminutes150000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1537429695",
+        "size": "630691840",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "50bfb510dec050a2218ff26eafb32d39",
+        "crc32": "e0e68b47",
+        "sha1": "2d0d1fa45aa6d01a1e5956cba8734415e9c86db0",
+        "filecount": "230"
+      },
+      {
+        "name": "mealsinminutes150000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "90",
+        "format": "Page Numbers JSON",
+        "original": "mealsinminutes150000unse_hocr.html",
+        "mtime": "1715461808",
+        "size": "38483",
+        "md5": "f1a5b1234d1386a9aa5f28191a8479bb",
+        "crc32": "a3cd0e6c",
+        "sha1": "985cb4a173928dfc1b04eb060ebce98dcf242f89",
+        "private": "true"
+      },
+      {
+        "name": "mealsinminutes150000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670642961",
+        "size": "233614",
+        "format": "Scandata",
+        "md5": "522a858cf2684b35d4195ac14abc23fa",
+        "crc32": "990c5ef9",
+        "sha1": "3c432f0ea32ac79330392054a81d9b96a0796970"
+      },
+      {
+        "name": "mealsinminutes150000unse_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "mealsinminutes150000unse_djvu.xml",
+        "mtime": "1670642869",
+        "size": "4522",
+        "md5": "9b61410cba514f210a48a5d5573765f4",
+        "crc32": "9c618bc4",
+        "sha1": "0207757929324af84cd108a3c1c2bfc72f3e0581",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1757033880,
+    "item_size": 1687148909,
+    "metadata": {
+      "identifier": "mealsinminutes150000unse",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "None",
+      "creator-alt-script": "None",
+      "date": "2011-01-01",
+      "description": [
+        "224 pages : 23 cm",
+        "20-minute meals -- 30-minute meals -- 40-minute meals -- 15-minute sides & desserts",
+        "Includes index",
+        "20-minute meals -- 30-minute meals -- 40-minute meals -- 15-minute sides & desserts"
+      ],
+      "isbn": [
+        "0696300710",
+        "9780696300714"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-lansze-wong@archive.org",
+      "ppi": "300",
+      "publisher": "Des Moines, Iowa : Meredith Print Advantage",
+      "repub_state": "22",
+      "scanner": "ttscribe24.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "subject": [
+        "Quick and easy cooking",
+        "Cooking, American",
+        "Cooking, American",
+        "Quick and easy cooking"
+      ],
+      "title": "Meals in minutes : 150 delicious recipes for busy families",
+      "title-alt-script": "None",
+      "tts_version": "v1.60-1-g2f920ca",
+      "uploader": "ttscribe24.hongkong@archive.org",
+      "addeddate": "2018-09-15 04:50:37",
+      "publicdate": "2018-09-15 04:51:24",
+      "imagecount": "230",
+      "scandate": "20180915065419",
+      "republisher_operator": "associate-chenjinyu@archive.org",
+      "republisher_date": "20180920153900",
+      "republisher_time": "421",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/mealsinminutes150000unse",
+      "identifier-ark": "ark:/13960/t20d25q8k",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:mealsinminutes150000unse:epub:c8fc60db-a87a-4ea0-a6ef-23e7a0ae2b90",
+        "urn:acs6:mealsinminutes150000unse:pdf:f60dcadf-7fb5-4459-acae-fed9baeba2b2",
+        "urn:lcp:mealsinminutes150000unse:lcpdf:b56bfafb-fdec-4c3c-89e1-1bbdb4f3da5a",
+        "urn:lcp:mealsinminutes150000unse:epub:d674f3b8-cdf0-4911-8355-cd9dd0334276"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20180920182557[/date]",
+      "openlibrary_edition": "OL26496993M",
+      "openlibrary_work": "OL17923725W",
+      "boxid": "IA1348306",
+      "sponsordate": "20180930",
+      "access-restricted-item": "true",
+      "backup_location": "ia906801_34",
+      "oclc-id": "782055868",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "90",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "normalized_dates": [
+        "2011-01-01"
+      ]
+    },
+    "server": "ia802807.us.archive.org",
+    "uniq": 1306093938,
+    "workable_servers": [
+      "ia802807.us.archive.org",
+      "ia902807.us.archive.org"
+    ]
+  }
+}

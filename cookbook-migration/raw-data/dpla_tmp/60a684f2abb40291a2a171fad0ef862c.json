@@ -1,0 +1,115 @@
+{
+  "source": "dpla",
+  "id": "60a684f2abb40291a2a171fad0ef862c",
+  "identifier": "60a684f2abb40291a2a171fad0ef862c",
+  "title": "Y.M.C.A. cook book",
+  "subject": [
+    "Cooking--North Dakota--Grand Forks",
+    "Cooking, American",
+    "Grand Forks (N.D.)--Social life and customs"
+  ],
+  "spatial": [
+    "Grand Forks (N.D.)",
+    "North Dakota",
+    "Grand Forks"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/005686701",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1915,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/60a684f2abb40291a2a171fad0ef862c#SourceResource",
+      "contributor": [
+        "Young Men's Christian Association (Fargo, N.D.)"
+      ],
+      "date": [
+        {
+          "begin": "1915",
+          "displayDate": "1915",
+          "end": "1915"
+        }
+      ],
+      "extent": [
+        "170 p. ; 24 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-wu5393172",
+        "(OCoLC)48383126",
+        "Hathi: 005686701"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Grand Forks, N.D. : Ladies Auxiliary of Y.M.C.A."
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Grand Forks (N.D.)"
+        },
+        {
+          "name": "North Dakota"
+        },
+        {
+          "name": "Grand Forks"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking--North Dakota--Grand Forks"
+        },
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Grand Forks (N.D.)--Social life and customs"
+        }
+      ],
+      "title": [
+        "Y.M.C.A. cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1915-01-01",
+      "normalized_dates": [
+        "1915-01-01"
+      ],
+      "date_range": {
+        "begin": "1915-01-01",
+        "end": "1915-01-01"
+      }
+    }
+  },
+  "data": {
+    "isShownAt": "http://catalog.hathitrust.org/Record/005686701"
+  },
+  "location": {
+    "state": "North Dakota"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Auxiliary"
+    ]
+  },
+  "curation_notes": "State match: North Dakota; Community markers: Auxiliary; Digitized scan available"
+}

@@ -1,0 +1,90 @@
+{
+  "source": "dpla",
+  "id": "fb906224df7179f9a15d14f0f2a56288",
+  "identifier": "fb906224df7179f9a15d14f0f2a56288",
+  "title": "Good things to eat, as suggested by Rufus: a collection of practical recipes for preparing meats, game, fowl, fish, puddings, pastries, etc.",
+  "subject": [],
+  "spatial": [
+    "Chicago, Cook County, Illinois"
+  ],
+  "description": "A book of recipes written by Rufus Estes, a formerly enslaved Black man who went on to work for the Pullman Company and other railroads before being named chef of the subsidiary companies of the United States Steel Corporation in Chicago.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/12",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "year": 1911,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/fb906224df7179f9a15d14f0f2a56288#SourceResource",
+      "collection": [
+        {
+          "title": "DeGolyer Library Cookbook Collection"
+        }
+      ],
+      "creator": [
+        "Estes, Rufus, 1857-1939"
+      ],
+      "date": [
+        {
+          "displayDate": "ca. 1911"
+        }
+      ],
+      "description": [
+        "A book of recipes written by Rufus Estes, a formerly enslaved Black man who went on to work for the Pullman Company and other railroads before being named chef of the subsidiary companies of the United States Steel Corporation in Chicago."
+      ],
+      "identifier": [
+        "TX715 .E8 1911"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "DeGolyer Library"
+      ],
+      "rights": [
+        "Please cite DeGolyer Library, Southern Methodist University as the source of this file. A high-resolution version of this file may be obtained for a fee. For details, see the https://www.smu.edu/libraries/degolyer/using/images web page. For more information, contact degolyer@smu.edu."
+      ],
+      "spatial": [
+        {
+          "name": "Chicago, Cook County, Illinois"
+        }
+      ],
+      "title": [
+        "Good things to eat, as suggested by Rufus: a collection of practical recipes for preparing meats, game, fowl, fish, puddings, pastries, etc."
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1911-01-01",
+      "normalized_dates": [
+        "1911-01-01"
+      ]
+    }
+  },
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/12",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/12"
+  },
+  "location": {
+    "state": "Illinois",
+    "county": "Cook County"
+  },
+  "curation": {
+    "score": 9,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Methodist"
+    ]
+  },
+  "curation_notes": "County match: Cook County; State match: Illinois; Community markers: Methodist; Digitized scan available"
+}

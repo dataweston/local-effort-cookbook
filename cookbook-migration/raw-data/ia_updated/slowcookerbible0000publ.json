@@ -1,0 +1,474 @@
+{
+  "source": "internet_archive",
+  "identifier": "slowcookerbible0000publ",
+  "title": "The slow cooker bible",
+  "creator": "Publications International, Ltd",
+  "year": 2005,
+  "subject": "Electric cooking, Slow",
+  "description": [
+    "Includes index",
+    "Your all-in-one guide to successful slow-cooking, including techniques, ingredients and tips to make 200 slow cooker meals",
+    "The joy of slow cooking -- Slow cooker basics (A little bit of history -- How does a slow cooker work? -- Choosing a slow cooker -- Slow cooker techniques -- Slow cooker techniques for special foods -- Adapting recipes to the slow life -- Caring for slow cookers -- Slow cooker safety) -- Slow cooker pantry (Substitutions -- Appetizers & snacks -- Hearty meat dishes -- Potluck poultry -- Super-easy sandwiches -- Piping-hot soups -- Homestyle chilis -- Easy side dishes -- Delicious desserts)"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/slowcookerbible0000publ"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/slowcookerbible0000publ"
+        }
+      ]
+    },
+    "created": 1758556934,
+    "d1": "ia600708.us.archive.org",
+    "d2": "ia800708.us.archive.org",
+    "dir": "/21/items/slowcookerbible0000publ",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661106174",
+        "size": "22066",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "6b94f88baa96d017080b945796495b7f",
+        "crc32": "16b47f92",
+        "sha1": "4f24bc198aaab872be6f531c682b3e4a648d8d2a"
+      },
+      {
+        "name": "logs/slowcookerbible0000publ_iabdash_2018-03-21222419.log",
+        "source": "original",
+        "mtime": "1521642303",
+        "size": "1715",
+        "md5": "a7cd0cd15c01a963c71ed0f1e9080fb4",
+        "crc32": "b784dfdd",
+        "sha1": "6ed0a9e74ceb1b74255af30342e3e52646dbd66d",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/slowcookerbible0000publ_scanning_2018-03-21222412.log",
+        "source": "original",
+        "mtime": "1521642297",
+        "size": "676407",
+        "md5": "fb0f6afffb975e20bc37b055e17a0159",
+        "crc32": "e1b3480c",
+        "sha1": "a2dd0cda354251f63ffc00cf8f4f43783b3a4412",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "slowcookerbible0000publ.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "slowcookerbible0000publ_hocr.html",
+        "mtime": "1754037773",
+        "size": "197615931",
+        "private": "true",
+        "md5": "b61cba6d5c296b666b14521f8df0e7c7",
+        "crc32": "7a3d35d7",
+        "sha1": "165f0f440d21c360b6f4c099c4c4a056362072b0"
+      },
+      {
+        "name": "slowcookerbible0000publ.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "slowcookerbible0000publ.pdf",
+        "mtime": "1754037356",
+        "size": "32335577",
+        "md5": "02cb0cf170465960d8065f56909a06a8",
+        "crc32": "b20978de",
+        "sha1": "fc8dda5f5105a814457aa4df3da15f75a4fd569c"
+      },
+      {
+        "name": "slowcookerbible0000publ.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "slowcookerbible0000publ_page_numbers.json",
+        "mtime": "1723912686",
+        "size": "31767649",
+        "md5": "db1422d99023e60d32461a10a69749c0",
+        "crc32": "26f82ef5",
+        "sha1": "8d5fa6c3bc2dbedf35ee404f5b20b13e98d783ef",
+        "private": "true"
+      },
+      {
+        "name": "slowcookerbible0000publ_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "slowcookerbible0000publ_jp2.zip",
+        "mtime": "1522665558",
+        "size": "3995896",
+        "md5": "899446e881254de58e895e436289c8e8",
+        "crc32": "25b26785",
+        "sha1": "8786cbdb3d77464ce5dc1bfd77dde73e8075d240",
+        "private": "true"
+      },
+      {
+        "name": "slowcookerbible0000publ_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "slowcookerbible0000publ_abbyy.gz",
+        "mtime": "1661105653",
+        "size": "3167699",
+        "md5": "4f3f55e1f6e207b90a27b25fd14ae341",
+        "crc32": "02a3e805",
+        "sha1": "c9264400352e76c5572499086db96415196cea61",
+        "private": "true"
+      },
+      {
+        "name": "slowcookerbible0000publ_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "slowcookerbible0000publ_scandata.xml",
+        "mtime": "1671286492",
+        "size": "784",
+        "md5": "631170a65bedf980d09329a0c20b2188",
+        "crc32": "a6ee2877",
+        "sha1": "e10fd8c8040d9a711b7e821026ea561b5959e39b",
+        "private": "true"
+      },
+      {
+        "name": "slowcookerbible0000publ_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1522656836",
+        "size": "1683",
+        "md5": "258b87959742a75a5368a4c520ffdc7b",
+        "crc32": "ab37f347",
+        "sha1": "cd71cc7bdc752d1cdb6f339ef18b421a974e642e"
+      },
+      {
+        "name": "slowcookerbible0000publ_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "slowcookerbible0000publ_djvu.xml",
+        "mtime": "1661106159",
+        "size": "287533",
+        "md5": "21c8fe530b1595d500a53a5e3db12aa8",
+        "crc32": "9d65b005",
+        "sha1": "0daf934dd67dbc3c682b61f93acb0b0ab46f7027",
+        "private": "true"
+      },
+      {
+        "name": "slowcookerbible0000publ_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "slowcookerbible0000publ_hocr.html",
+        "mtime": "1661106071",
+        "size": "3604205",
+        "md5": "720bd697bc06fde894ee8675339c2e8f",
+        "crc32": "c1c11fc5",
+        "sha1": "27cb375ccb50d0002b483f79e40396963f5e62eb",
+        "private": "true"
+      },
+      {
+        "name": "slowcookerbible0000publ_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "slowcookerbible0000publ_abbyy.gz",
+        "mtime": "1528159109",
+        "size": "12349063",
+        "md5": "d5996e88dd30197b8ad51822c2a14489",
+        "crc32": "edb00b9a",
+        "sha1": "7abb696d11b9c1c51926808d1ac671f2a237c5e0"
+      },
+      {
+        "name": "slowcookerbible0000publ_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "slowcookerbible0000publ.pdf",
+        "mtime": "1723912966",
+        "size": "31606584",
+        "md5": "487c23e56e7b6a6a647e5a67fa4c57d8",
+        "crc32": "b70396ef",
+        "sha1": "536e42ac6846f6636dfa11759a974347ce452089"
+      },
+      {
+        "name": "slowcookerbible0000publ_events.json",
+        "source": "original",
+        "mtime": "1522656659",
+        "size": "48",
+        "md5": "e3c8a06f2d1af3a3defa8e047b6e3d47",
+        "crc32": "8a5e934e",
+        "sha1": "42edfb6899224c9062a472471199dc9358d4d91d",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "slowcookerbible0000publ_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "07525b8e4fc39e8d8b9768c9d4ff3790",
+        "summation": "md5"
+      },
+      {
+        "name": "slowcookerbible0000publ_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "slowcookerbible0000publ_chocr.html.gz",
+        "mtime": "1661106042",
+        "size": "7636744",
+        "md5": "ea3374279bcc6161caa862c5b08af3e6",
+        "crc32": "8aa08555",
+        "sha1": "fa2b7b19f42feb5f9e4c550359a9657c6db3a6a9",
+        "private": "true"
+      },
+      {
+        "name": "slowcookerbible0000publ_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "slowcookerbible0000publ_hocr.html",
+        "mtime": "1661106087",
+        "size": "3700",
+        "md5": "d661679ecf1d14543cd60824621e37c5",
+        "crc32": "1c4446c1",
+        "sha1": "0a63e40891e9243db3f01e2612b7b8c19c6a7621",
+        "private": "true"
+      },
+      {
+        "name": "slowcookerbible0000publ_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "177",
+        "word_conf_11_20": "383",
+        "word_conf_21_30": "294",
+        "word_conf_31_40": "398",
+        "word_conf_41_50": "520",
+        "word_conf_51_60": "655",
+        "word_conf_61_70": "1321",
+        "word_conf_71_80": "1891",
+        "word_conf_81_90": "3919",
+        "word_conf_91_100": "32204",
+        "format": "OCR Search Text",
+        "original": "slowcookerbible0000publ_hocr.html",
+        "mtime": "1661106139",
+        "size": "68374",
+        "md5": "0fa37028ebd8ed8090fa74ebcdf90075",
+        "crc32": "6cbf53ed",
+        "sha1": "432c0b78371f775d34e163b48b8b138d3b260902",
+        "private": "true"
+      },
+      {
+        "name": "slowcookerbible0000publ_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "slowcookerbible0000publ_orig_jp2.tar",
+        "mtime": "1522661564",
+        "size": "216306543",
+        "md5": "595d005072b05d8aa3f5bd04e74dd6d4",
+        "crc32": "b67292cf",
+        "sha1": "262a070dd308ee785d608bd5dadacb020094f310",
+        "private": "true",
+        "filecount": "330"
+      },
+      {
+        "name": "slowcookerbible0000publ_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "slowcookerbible0000publ.epub",
+        "mtime": "1754038208",
+        "size": "198011921",
+        "md5": "c7b68c0d1d84ac898bf10b83d691c3ac",
+        "crc32": "8bf137c4",
+        "sha1": "1e24deb46d4994ce7113386d73cbbe22e58a2c59"
+      },
+      {
+        "name": "slowcookerbible0000publ_loans.json",
+        "source": "original",
+        "mtime": "1593013459",
+        "size": "6092",
+        "format": "JSON",
+        "private": "true",
+        "md5": "4bb765f88d96a53154ab09a92b492eba",
+        "crc32": "a5e0d952",
+        "sha1": "e213488b00e137045d856b011a835be64bf21d05"
+      },
+      {
+        "name": "slowcookerbible0000publ_marc.xml",
+        "source": "original",
+        "mtime": "1522656836",
+        "size": "4822",
+        "format": "MARC",
+        "md5": "35de34cfedfa7a8bcc8339639562ca2d",
+        "crc32": "d2d194bc",
+        "sha1": "7b5cb7236924e65ac477a47346fa73d6ddaebede"
+      },
+      {
+        "name": "slowcookerbible0000publ_meta.mrc",
+        "source": "original",
+        "mtime": "1521642313",
+        "size": "1767",
+        "md5": "1740e6c454a9edd27555416012512850",
+        "crc32": "9caa6f3c",
+        "sha1": "6826fab7ec0c6904e892e6e7efbe5336ee0e1501",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "slowcookerbible0000publ_meta.sqlite",
+        "source": "original",
+        "mtime": "1522656735",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "ce6f5911ecd6387cc93b92c54cf6e351",
+        "crc32": "cb530dba",
+        "sha1": "a09185ca00383c94f2a2873e81740a22448dad46"
+      },
+      {
+        "name": "slowcookerbible0000publ_meta.xml",
+        "source": "original",
+        "mtime": "1754038799",
+        "size": "3626",
+        "format": "Metadata",
+        "md5": "d4f8537582b4520dbf240f1a8bd4a803",
+        "crc32": "109d8a34",
+        "sha1": "732439ab6c7f29382dcd647437f326187c2f1eb6"
+      },
+      {
+        "name": "slowcookerbible0000publ_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1522656733",
+        "size": "769853440",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "d84a7c5fca99ac1d6cc79d4cea5e4bc7",
+        "crc32": "f57d0be7",
+        "sha1": "ffb29bd22419ecd1f0d38940cafc509ee816c5fc",
+        "filecount": "330"
+      },
+      {
+        "name": "slowcookerbible0000publ_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "70",
+        "format": "Page Numbers JSON",
+        "original": "slowcookerbible0000publ_hocr.html",
+        "mtime": "1723912661",
+        "size": "56037",
+        "md5": "efd07be12711106d003b98b8602717ee",
+        "crc32": "12efa3be",
+        "sha1": "0d1d6bf9ddb22c08243be82824681187cd7cd73b",
+        "private": "true"
+      },
+      {
+        "name": "slowcookerbible0000publ_scandata.xml",
+        "source": "original",
+        "mtime": "1671286492",
+        "size": "336939",
+        "format": "Scandata",
+        "md5": "2c443ed4d490104e6d7124efa78cd1c2",
+        "crc32": "6cb18c85",
+        "sha1": "f06c2d2754a23e9a961bce55e7bb132aaea1e53f"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1754038799,
+    "item_size": 1509739229,
+    "metadata": {
+      "identifier": "slowcookerbible0000publ",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Publications International, Ltd",
+      "date": "2005-01-01",
+      "isbn": [
+        "1412723345",
+        "9781412723343"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-peter-lau@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International, Ltd.",
+      "repub_state": "22",
+      "scanner": "ttscribe3.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "The slow cooker bible",
+      "tts_version": "v1.58-final-5-g8c4c1bd",
+      "publicdate": "2018-03-21 14:24:40",
+      "uploader": "ttscribe3.hongkong@archive.org",
+      "addeddate": "2018-03-21 14:24:40",
+      "imagecount": "330",
+      "scandate": "20180321154326",
+      "subject": [
+        "Electric cooking, Slow",
+        "Electric cooking, Slow"
+      ],
+      "lccn": "2005927784",
+      "description": [
+        "Includes index",
+        "Your all-in-one guide to successful slow-cooking, including techniques, ingredients and tips to make 200 slow cooker meals",
+        "The joy of slow cooking -- Slow cooker basics (A little bit of history -- How does a slow cooker work? -- Choosing a slow cooker -- Slow cooker techniques -- Slow cooker techniques for special foods -- Adapting recipes to the slow life -- Caring for slow cookers -- Slow cooker safety) -- Slow cooker pantry (Substitutions -- Appetizers & snacks -- Hearty meat dishes -- Potluck poultry -- Super-easy sandwiches -- Piping-hot soups -- Homestyle chilis -- Easy side dishes -- Delicious desserts)"
+      ],
+      "republisher_operator": "associate-zhouyi@archive.org",
+      "republisher_date": "20180402160744",
+      "republisher_time": "610",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/slowcookerbible0000publ",
+      "identifier-ark": "ark:/13960/t3908rs96",
+      "bookplateleaf": "0004",
+      "external-identifier": [
+        "urn:acs6:slowcookerbible0000publ:pdf:e8feb210-05a3-4bc8-86b4-2389dc6d1871",
+        "urn:acs6:slowcookerbible0000publ:epub:58104a43-7e18-42c1-afdb-fbdc4ad4008c",
+        "urn:oclc:record:1039988669",
+        "urn:lcp:slowcookerbible0000publ:lcpdf:83dd58af-49e5-422d-8ec8-b3bf9779c297",
+        "urn:lcp:slowcookerbible0000publ:epub:832b31a7-6afa-43e2-abe5-f54e9df2aed3"
+      ],
+      "scanfee": "15",
+      "invoice": "1213",
+      "curation": "[curator]associate-francis-boyer@archive.org[/curator][date]20180402203919[/date]",
+      "boxid": "IA1178401",
+      "sponsordate": "20180331",
+      "openlibrary_edition": "OL8432642M",
+      "openlibrary_work": "OL18179000W",
+      "backup_location": "ia906701_23",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "70",
+      "filesxml": "Wed Apr 3 13:44:05 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia600708.us.archive.org",
+    "uniq": 636387468,
+    "workable_servers": [
+      "ia600708.us.archive.org",
+      "ia800708.us.archive.org"
+    ]
+  },
+  "institution": "Publications International, Ltd",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

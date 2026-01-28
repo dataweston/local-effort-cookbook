@@ -1,0 +1,502 @@
+{
+  "source": "internet_archive",
+  "identifier": "mamisifangcai1680000unse",
+  "title": "Ma mi si fang cai 1688 li = Family nutrition",
+  "creator": null,
+  "year": 2012,
+  "subject": [
+    "Cooking, Chinese -- Recipes",
+    "Cooking, Chinese"
+  ],
+  "description": [
+    "247 pages : 24 cm",
+    "800 dao si fang cai + 600 ge ying yang zhi shi + 288 ge zhuan jia ti shi"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720003.ca.archive.org",
+          "dir": "/0/items/mamisifangcai1680000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720003.ca.archive.org",
+          "dir": "/0/items/mamisifangcai1680000unse"
+        }
+      ]
+    },
+    "created": 1758555590,
+    "d1": "ia902303.us.archive.org",
+    "d2": "ia802303.us.archive.org",
+    "dir": "/16/items/mamisifangcai1680000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660548099",
+        "size": "20715",
+        "md5": "c04b0cf631c66aab0bcd3ef99d46a448",
+        "crc32": "9c69d50d",
+        "sha1": "70ef9114780e38968b90901cdc7e1199b5bb8144",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/mamisifangcai1680000unse_iabdash_2021-12-0118:58:40.log",
+        "source": "original",
+        "mtime": "1638356324",
+        "size": "1362",
+        "md5": "3a2ca33540054f1bc317f60c83fd99fc",
+        "crc32": "4d6fc31b",
+        "sha1": "11706051b82d2f9e58d467eb36399e4cd2b8de5a",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/mamisifangcai1680000unse_scanning_2021-12-0118:58:49.log",
+        "source": "original",
+        "mtime": "1638356340",
+        "size": "975403",
+        "md5": "4ffc2562f30dce59f721231ee10e7632",
+        "crc32": "82a85638",
+        "sha1": "7ef07d5b3b536625c6c03c376227425c024ad1ef",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/mamisifangcai1680000unse_status_history_2021-12-0118:58:45.log",
+        "source": "original",
+        "mtime": "1638356328",
+        "size": "407",
+        "md5": "3cbfbaed2ed74233a4424d1265464d80",
+        "crc32": "8d13d536",
+        "sha1": "a0eb40f5780a969301933ae7d8d34b928586b6d4",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "mamisifangcai1680000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "mamisifangcai1680000unse_hocr.html",
+        "mtime": "1753629762",
+        "size": "1018393",
+        "private": "true",
+        "md5": "991f989ba0474ec8bb42eeed12b0ad85",
+        "crc32": "8bfeb7c5",
+        "sha1": "0c9c17f730887d4164d9d6351b2dc8e08ad06e4a"
+      },
+      {
+        "name": "mamisifangcai1680000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "mamisifangcai1680000unse.pdf",
+        "mtime": "1753629654",
+        "size": "20970237",
+        "md5": "341073fd757dc53edb1a0376d63f7bc8",
+        "crc32": "c7f4dfbe",
+        "sha1": "c804c66ebcbaefdaf06a9f2b4d0a8012f31e127e"
+      },
+      {
+        "name": "mamisifangcai1680000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "mamisifangcai1680000unse_page_numbers.json",
+        "mtime": "1715032419",
+        "size": "20657419",
+        "md5": "a4d66a410f2b940bbf0b2cb0a36f4584",
+        "crc32": "bd329bbe",
+        "sha1": "dae1baded089952205d7b8e8a784d7a06e3f920a",
+        "private": "true"
+      },
+      {
+        "name": "mamisifangcai1680000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-rc2-1-gf788",
+        "ocr_parameters": "-l chi_sim",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Han",
+        "ocr_detected_script_conf": "0.9925",
+        "ocr_detected_lang": "zh",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "mamisifangcai1680000unse_jp2.zip",
+        "mtime": "1638518723",
+        "size": "3394306",
+        "md5": "190f2d73add7c221773ab5e43a5c2258",
+        "crc32": "a7ac8e7a",
+        "sha1": "855b499b474a3c1d35c24d16033f9d13df13e948",
+        "private": "true"
+      },
+      {
+        "name": "mamisifangcai1680000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "mamisifangcai1680000unse_scandata.xml",
+        "mtime": "1670602970",
+        "size": "789",
+        "md5": "6b8660ea156a3187cf308d904e7d1b86",
+        "crc32": "5c775aa0",
+        "sha1": "00f6d60cf718e4dc8786d0caf59f68a664ddb66a",
+        "private": "true"
+      },
+      {
+        "name": "mamisifangcai1680000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1638511811",
+        "size": "850",
+        "md5": "5e0e644fec7090181b7e2d2c3c2c6d4a",
+        "crc32": "e321956e",
+        "sha1": "d1c76bd4edfe02834fc282388fab9486db31340b"
+      },
+      {
+        "name": "mamisifangcai1680000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "mamisifangcai1680000unse_djvu.xml",
+        "mtime": "1638519240",
+        "size": "418047",
+        "md5": "b2d99b400198622c96f2744aa5100ff8",
+        "crc32": "28d73e68",
+        "sha1": "511e4ec6dc0a06724d7aa5e73596cbd38e7b47ac",
+        "private": "true"
+      },
+      {
+        "name": "mamisifangcai1680000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "mamisifangcai1680000unse_hocr.html",
+        "mtime": "1638518973",
+        "size": "7511439",
+        "md5": "d3f48591bf90c2678a8dc509130eb57d",
+        "crc32": "e8a31afa",
+        "sha1": "36555656916d1851bb0edf90acffd46c21cb552e",
+        "private": "true"
+      },
+      {
+        "name": "mamisifangcai1680000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "mamisifangcai1680000unse.pdf",
+        "mtime": "1715034099",
+        "size": "20592165",
+        "md5": "abdf57d16ba38576c6c91e38a49f87da",
+        "crc32": "0af75384",
+        "sha1": "42034f91542e389166708f0ecdc508ec0ef6c2c1"
+      },
+      {
+        "name": "mamisifangcai1680000unse_events.json",
+        "source": "original",
+        "mtime": "1638511468",
+        "size": "64",
+        "md5": "277e62b1b5e82b56da5de35dc2732eeb",
+        "crc32": "89ac4909",
+        "sha1": "c1b862bd378478139a7cc14d6a0c510832e5cc04",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "mamisifangcai1680000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "fcfdb35552483a0a2c7daa172f71233e",
+        "summation": "md5"
+      },
+      {
+        "name": "mamisifangcai1680000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l chi_sim",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Han",
+        "ocr_detected_script_conf": "0.9925",
+        "ocr_detected_lang": "zh",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "mamisifangcai1680000unse_chocr.html.gz",
+        "mtime": "1638518912",
+        "size": "14344036",
+        "md5": "ac7f0d0a49bef62e9954fe354a37c6f1",
+        "crc32": "3f614d00",
+        "sha1": "14bbc8d8805e9b79487885cc44f412b84f525f6b",
+        "private": "true"
+      },
+      {
+        "name": "mamisifangcai1680000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "mamisifangcai1680000unse_hocr.html",
+        "mtime": "1638519067",
+        "size": "3068",
+        "md5": "92fbc0ff78634681eb8a56dd13c4a53a",
+        "crc32": "f7fddb5b",
+        "sha1": "6ed8a64ada2f9fa4610a38c6cc553e7abd3554c1",
+        "private": "true"
+      },
+      {
+        "name": "mamisifangcai1680000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "13226",
+        "word_conf_11_20": "2457",
+        "word_conf_21_30": "2825",
+        "word_conf_31_40": "2952",
+        "word_conf_41_50": "3395",
+        "word_conf_51_60": "3812",
+        "word_conf_61_70": "4506",
+        "word_conf_71_80": "6263",
+        "word_conf_81_90": "18267",
+        "word_conf_91_100": "38218",
+        "format": "OCR Search Text",
+        "original": "mamisifangcai1680000unse_hocr.html",
+        "mtime": "1638519210",
+        "size": "146082",
+        "md5": "ab3748868bd96f86bc5faf1498ed38ca",
+        "crc32": "376c0bc0",
+        "sha1": "d6fe98d9f26707b83dfeaba4653b6c9ce2f3da8e",
+        "private": "true"
+      },
+      {
+        "name": "mamisifangcai1680000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "mamisifangcai1680000unse_orig_jp2.tar",
+        "mtime": "1638516574",
+        "size": "149324629",
+        "md5": "4ef36f5658fa2e00e5a9a5f179726d4d",
+        "crc32": "2401727e",
+        "sha1": "b45569df0fe1610e8d1865fec4ee36b44d89a564",
+        "private": "true",
+        "filecount": "262"
+      },
+      {
+        "name": "mamisifangcai1680000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "mamisifangcai1680000unse.epub",
+        "mtime": "1753630071",
+        "size": "1039268",
+        "md5": "080dac553d66ad07ac0a6a3e34e89d86",
+        "crc32": "f053b32b",
+        "sha1": "32d0a93495bb3f05ffa26739a6cfdab7863b0773"
+      },
+      {
+        "name": "mamisifangcai1680000unse_marc.xml",
+        "source": "original",
+        "mtime": "1638356316",
+        "size": "5320",
+        "md5": "870bfeb24e0db33ceda69a9687b6107b",
+        "crc32": "f5f93cf0",
+        "sha1": "1192284b0a422e18a8eb3a625fcec32f09f3c533",
+        "format": "MARC"
+      },
+      {
+        "name": "mamisifangcai1680000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1638356311",
+        "size": "1659",
+        "md5": "f0b30ae94b4623f5131851f9a2aa25cc",
+        "crc32": "a1eb4ba1",
+        "sha1": "456d0344b9a705a017eb738cef6c6bee4b4c2c32",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "mamisifangcai1680000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1638511528",
+        "size": "45056",
+        "md5": "abf196f837aa750014108ed30cd8d37e",
+        "crc32": "14db51b8",
+        "sha1": "6e4b03a6b65cf91f200173f43cf41b57a5ba3f4e",
+        "format": "Metadata"
+      },
+      {
+        "name": "mamisifangcai1680000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753630071",
+        "size": "3376",
+        "md5": "3955b613f7d266d1ef4e7b440094fe0d",
+        "crc32": "cc32d18d",
+        "sha1": "a1e3736b563163e63be98091ce344689792ecfb7",
+        "format": "Metadata"
+      },
+      {
+        "name": "mamisifangcai1680000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1638511527",
+        "size": "634757120",
+        "md5": "31504a78f46952d543fa950cfcb534e0",
+        "crc32": "91373072",
+        "sha1": "bb13accd0631843e55701972812a674468e42bb9",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "262"
+      },
+      {
+        "name": "mamisifangcai1680000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "36",
+        "format": "Page Numbers JSON",
+        "original": "mamisifangcai1680000unse_hocr.html",
+        "mtime": "1715032419",
+        "size": "44709",
+        "md5": "eb143db9d759d4edc873536a46b97a00",
+        "crc32": "d56316ea",
+        "sha1": "68b80aaf0b6dcbb75142873d321c6e3f6af5149d",
+        "private": "true"
+      },
+      {
+        "name": "mamisifangcai1680000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670602970",
+        "size": "284508",
+        "md5": "4c19777840e20882b4c1b2d2d0deef33",
+        "crc32": "b7688625",
+        "sha1": "f45b76fe8ce80a7117ae8d6ec10688adf529e489",
+        "format": "Scandata"
+      },
+      {
+        "name": "mamisifangcai1680000unse_slip.png",
+        "source": "original",
+        "mtime": "1638354794",
+        "size": "41867",
+        "md5": "42c2fc3e358b7baf845942759ed0eeca",
+        "crc32": "28449b7b",
+        "sha1": "ce073f40d96fb909cf8d4149291d645a5e7df9ec",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "mamisifangcai1680000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "mamisifangcai1680000unse_slip.png",
+        "mtime": "1638511814",
+        "size": "8659",
+        "md5": "11905afc750bf827c64e9a2e7da61c97",
+        "crc32": "e7c46b85",
+        "sha1": "175fe453487986acd842dfc66ce050e4b03c2e16",
+        "private": "true"
+      },
+      {
+        "name": "mamisifangcai1680000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "mamisifangcai1680000unse_djvu.xml",
+        "mtime": "1670602853",
+        "size": "632",
+        "md5": "83364e9a5e70b3e0ae9f910a9deb0569",
+        "crc32": "7b89e046",
+        "sha1": "fe340d6fc902b1c30f5c869d73f277e7822b8b33",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753630071,
+    "item_size": 875611585,
+    "metadata": {
+      "identifier": "mamisifangcai1680000unse",
+      "associated-names": "Xi wen tu shu",
+      "boxid": "IA40301001",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator-alt-script": "犀文图书",
+      "date": "2012-01-01",
+      "description": [
+        "247 pages : 24 cm",
+        "800 dao si fang cai + 600 ge ying yang zhi shi + 288 ge zhuan jia ti shi"
+      ],
+      "isbn": [
+        "9787534144271",
+        "7534144272"
+      ],
+      "language": "chi",
+      "mediatype": "texts",
+      "notes": "cut off text due  to tight binding",
+      "old_pallet": "IA-NS-1200337",
+      "operator": "associate-charlita-abrenica@archive.org",
+      "publisher": "Hangzhou : Zhejiang ke xue ji shu chu ban she",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station48.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9787534144271",
+      "subject": [
+        "Cooking, Chinese -- Recipes",
+        "Cooking, Chinese"
+      ],
+      "title": "Ma mi si fang cai 1688 li = Family nutrition",
+      "title-alt-script": "妈咪私房菜1688例 = Family nutrition",
+      "tts_version": "4.5-initial-80-gce32ee1e",
+      "uploader": "station48.cebu@archive.org",
+      "publicdate": "2021-12-01 10:33:35",
+      "access-restricted-item": "true",
+      "imagecount": "262",
+      "scandate": "20211201120814",
+      "ppi": "360",
+      "republisher_operator": "associate-noreenangelika-saberon@archive.org",
+      "republisher_date": "20211203140422",
+      "republisher_time": "320",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/mamisifangcai1680000unse",
+      "identifier-ark": "ark:/13960/s28gvc8dxxp",
+      "ocr": "tesseract 5.0.0-rc2-1-gf788",
+      "ocr_parameters": "-l chi_sim",
+      "ocr_module_version": "0.0.14",
+      "ocr_detected_script": "Han",
+      "ocr_detected_script_conf": "0.9925",
+      "ocr_detected_lang": "zh",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "36",
+      "pdf_module_version": "0.0.17",
+      "external-identifier": [
+        "urn:acs6:mamisifangcai1680000unse:pdf:8752ee56-6ad5-48de-966d-0924474d5283",
+        "urn:oclc:record:1288489865",
+        "urn:lcp:mamisifangcai1680000unse:lcpdf:c0f99e73-f919-4f09-8abe-af3d90d30ebb",
+        "urn:lcp:mamisifangcai1680000unse:epub:3b219b59-4178-449c-ba85-f8217a133b4c"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20211130",
+      "addeddate": "2021-12-08 22:22:59",
+      "openlibrary_edition": "OL35738961M",
+      "openlibrary_work": "OL26452229W",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia802303.us.archive.org",
+    "uniq": 1379607436,
+    "workable_servers": [
+      "ia802303.us.archive.org",
+      "ia902303.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

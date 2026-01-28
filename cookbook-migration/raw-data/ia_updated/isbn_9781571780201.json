@@ -1,0 +1,717 @@
+{
+  "source": "internet_archive",
+  "identifier": "isbn_9781571780201",
+  "title": "The Route 66 cookbook",
+  "creator": "Clark, Marian, 1934- author",
+  "year": 1993,
+  "subject": [
+    "Cooking, American",
+    "Restaurants",
+    "Janice Bluestein Longone Culinary Archive"
+  ],
+  "description": [
+    "Illinois -- Missouri -- Kansas -- Oklahoma -- Texas -- New Mexico -- Arizona -- California",
+    "A collection of memorabilia, anecdotes, and recipes collected from eating establishments along the legendary Route 66, from Chicago to Los Angeles",
+    "Recipes are attributed",
+    "Includes blank pages for notes and recipes",
+    "Pale tan cloth binding, with spine title stamped in silver. Maps on lining papers. Color illustrated dust jacket",
+    "Includes bibliographical references (page 226), recipe index, and index of people and places",
+    "Gift of: Janice B. Longone",
+    "In original dust jacket"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/isbn_9781571780201"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/isbn_9781571780201"
+        }
+      ]
+    },
+    "created": 1758550723,
+    "d1": "ia902904.us.archive.org",
+    "d2": "ia802904.us.archive.org",
+    "dir": "/32/items/isbn_9781571780201",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1670387081",
+        "size": "8120",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "b0b35584673389fcc44cd611fcea3e57",
+        "crc32": "1a5b8b7b",
+        "sha1": "f942a472b289a85d949807539a9afa7610ad7bb7"
+      },
+      {
+        "name": "isbn_9781571780201.cdx.gz",
+        "source": "original",
+        "mtime": "1454577244",
+        "size": "7061",
+        "md5": "b04c8070fa51c844c8f869b9fb9012d8",
+        "crc32": "fa9fa256",
+        "sha1": "76f88571bb5771298d2ae6bd559494653ef61853",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201.cdx.idx",
+        "source": "original",
+        "mtime": "1454577244",
+        "size": "34",
+        "md5": "6e7200fc5048023a6a3c4b7e97028078",
+        "crc32": "6cb6dbfa",
+        "sha1": "ac46f7856849c0cdb6f24f7abb7c274a1fd32d2d",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "isbn_9781571780201_hocr.html",
+        "mtime": "1753551925",
+        "size": "31638697",
+        "private": "true",
+        "md5": "f8bcac4b8c5694867c003bc2cc2d09cc",
+        "crc32": "1103ddbf",
+        "sha1": "4c6d3abcde61938d812f2e75bf59b8ac31438b65"
+      },
+      {
+        "name": "isbn_9781571780201.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "isbn_9781571780201_jp2.zip",
+        "mtime": "1345354101",
+        "size": "316083",
+        "md5": "af112c3bf152c97a76cbae3bc136af2e",
+        "crc32": "5fd63616",
+        "sha1": "ac44125743c67eeeba3a9557f23dd7627f8a607f"
+      },
+      {
+        "name": "isbn_9781571780201.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "isbn_9781571780201.pdf",
+        "mtime": "1753551570",
+        "size": "21510181",
+        "md5": "775d383c2546fd582727b1f16615c84b",
+        "crc32": "d2b47aec",
+        "sha1": "35ceed46ef47b063022f8ba4ba9b308007a6ae1d"
+      },
+      {
+        "name": "isbn_9781571780201.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "isbn_9781571780201_page_numbers.json",
+        "mtime": "1716989957",
+        "size": "21095685",
+        "md5": "39485f3c8923203b7a6505d672fade26",
+        "crc32": "56c8657c",
+        "sha1": "4e243e0da98304ff8c291c2388aa5e707d85d6ec",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201.warc.gz",
+        "source": "original",
+        "mtime": "1354754355",
+        "size": "641789",
+        "md5": "b7aad2f5bffa3c06fb836452ffa799a4",
+        "crc32": "9efffc0a",
+        "sha1": "ebe451e21d42dbf14ec0a8c9db6a444f8e01a689",
+        "format": "Web ARChive GZ"
+      },
+      {
+        "name": "isbn_9781571780201.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "isbn_9781571780201.warc.gz",
+        "mtime": "1454577220",
+        "size": "7220",
+        "md5": "9920a4980badfa966c6c53970f86a7e5",
+        "crc32": "7529862c",
+        "sha1": "b5dcb76e7ac038416eaaf97cfeb24debe360ae13",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "isbn_9781571780201_jp2.zip",
+        "mtime": "1345356627",
+        "size": "8556483",
+        "md5": "63c45e0f01789e4b026add70fd27a369",
+        "crc32": "9044c626",
+        "sha1": "8aa9aa0a2015b117f0adb168b910e3586be0e1ae",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "isbn_9781571780201_abbyy.gz",
+        "mtime": "1660374690",
+        "size": "7187970",
+        "md5": "3dad09cc56faf71bd404895a8a521c29",
+        "crc32": "5e3c732a",
+        "sha1": "79806b908c4b6d11c17554389fc06f1878d8fcbb",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "isbn_9781571780201_scandata.xml",
+        "mtime": "1670387039",
+        "size": "763",
+        "md5": "6caa6956c6ed077b67879e604207b1eb",
+        "crc32": "184dbbfe",
+        "sha1": "a6ab84d6327196326443feb29b7d7a05035e08fb",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1508954425",
+        "size": "2118",
+        "md5": "0da6b2f7762e63a17a5bcf7e962fd971",
+        "crc32": "52ef159e",
+        "sha1": "9738da1a313fc7e36578fbf9613bf8a66afbd40d"
+      },
+      {
+        "name": "isbn_9781571780201_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "isbn_9781571780201_djvu.xml",
+        "mtime": "1716989998",
+        "size": "651023",
+        "md5": "42a02b24055fff2ddd70b2aedf96eafc",
+        "crc32": "0ccc9d51",
+        "sha1": "b58daac4b95672311612026d825437708fba9dec",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "isbn_9781571780201_hocr.html",
+        "mtime": "1716987499",
+        "size": "7726436",
+        "md5": "b90282f3fe10c659451be3b4e0677d03",
+        "crc32": "038f9c42",
+        "sha1": "ed4cbfad7adb4e17eca8b65ab723382144489866",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "isbn_9781571780201.pdf",
+        "mtime": "1716990001",
+        "size": "21029252",
+        "md5": "c3383f7b08046369b53ec98b2b5331f7",
+        "crc32": "296a1a4d",
+        "sha1": "015a6fe5e74fe598026f6da6563aeaeed6232505"
+      },
+      {
+        "name": "isbn_9781571780201_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "74f771d787d4e91d7fd762bd76c2a346",
+        "summation": "md5"
+      },
+      {
+        "name": "isbn_9781571780201_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "isbn_9781571780201_chocr.html.gz",
+        "mtime": "1660374772",
+        "size": "14997923",
+        "md5": "9c24dc743cb115568bdf8c9a659bcf76",
+        "crc32": "4196db99",
+        "sha1": "cae64ffaf88af0912462031ccc6702fb8976890b",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "isbn_9781571780201_hocr.html",
+        "mtime": "1660374820",
+        "size": "3145",
+        "md5": "c23b3893c043274b8cf443a34fa014a8",
+        "crc32": "35509bb0",
+        "sha1": "1e861077430266d560a17dd409a17eae5958617d",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "4697",
+        "word_conf_11_20": "4968",
+        "word_conf_21_30": "9804",
+        "word_conf_31_40": "12953",
+        "word_conf_41_50": "18311",
+        "word_conf_51_60": "18285",
+        "word_conf_61_70": "13309",
+        "word_conf_71_80": "5290",
+        "word_conf_81_90": "2220",
+        "word_conf_91_100": "4058",
+        "format": "OCR Search Text",
+        "original": "isbn_9781571780201_hocr.html",
+        "mtime": "1660374842",
+        "size": "234246",
+        "md5": "cf0df882226c0e8dbc8b5f52b9f29018",
+        "crc32": "84363b2c",
+        "sha1": "5090beeec17968e5645299b41f203d6ed4398fb7",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "isbn_9781571780201_orig_jp2.tar",
+        "mtime": "1345354016",
+        "size": "112330171",
+        "md5": "9cfafcad187a5063931c4af4a05c1374",
+        "crc32": "0698d774",
+        "sha1": "708a27146296ce6f0932dcb395f156fc416fb12e",
+        "private": "true",
+        "filecount": "262"
+      },
+      {
+        "name": "isbn_9781571780201_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "isbn_9781571780201.epub",
+        "mtime": "1753552546",
+        "size": "32262080",
+        "md5": "d990887988e53c7a7dffe905bd216476",
+        "crc32": "783bc8f4",
+        "sha1": "97bf22f70a0879b7789725e57e1addbc187add24"
+      },
+      {
+        "name": "isbn_9781571780201_loans.json",
+        "source": "original",
+        "mtime": "1599522163",
+        "size": "18987",
+        "format": "JSON",
+        "private": "true",
+        "md5": "e8e557b342779da58c776249f1ebd9c5",
+        "crc32": "9e13ac56",
+        "sha1": "93b129313384ad2d032411d7c94888803f278f27"
+      },
+      {
+        "name": "isbn_9781571780201_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1508954425",
+        "size": "8003",
+        "md5": "1a4188ece63a3e01843224d4f008e39d",
+        "crc32": "dbae402c",
+        "sha1": "4a1881a93b7abde6d50650a6618a88ac010a0b60"
+      },
+      {
+        "name": "isbn_9781571780201_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "isbn_9781571780201_xisbn.json",
+        "mtime": "1454577222",
+        "size": "628",
+        "md5": "964ee5c0e351d5654a8d4c69c820d5ea",
+        "crc32": "00d22e25",
+        "sha1": "5da9448b472976d5914d29728ac71127a07a1cbe",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454577217",
+        "size": "2585",
+        "md5": "ae1609ab5a836fed396b55c26be0595f",
+        "crc32": "cabaff73",
+        "sha1": "76683f6e9e69f0670bab1674d47e245a733ee602"
+      },
+      {
+        "name": "isbn_9781571780201_meta.sqlite",
+        "source": "original",
+        "mtime": "1466921646",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "b1a50912ccfe7ccc1ff6930875340a31",
+        "crc32": "c4c09ce5",
+        "sha1": "d966d6747682b39de4d3befb33498eb24105dca6"
+      },
+      {
+        "name": "isbn_9781571780201_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753552547",
+        "size": "5224",
+        "md5": "d02d868adf659aa0bf1bd4b3c639adbf",
+        "crc32": "ff0963c9",
+        "sha1": "3f331abbde6059a9c9964a9dc7fdbce19cfee98e"
+      },
+      {
+        "name": "isbn_9781571780201_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1317410574",
+        "size": "264",
+        "md5": "09dc039b1d83cdce7b235545484a4aaa",
+        "crc32": "5627dce",
+        "sha1": "16bfe183de6e01fe66d4ec50d8b5e140ee3ebde4"
+      },
+      {
+        "name": "isbn_9781571780201_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1344895235",
+        "size": "140595200",
+        "md5": "ca031ebda6459bafed4f683cdfaed6c8",
+        "crc32": "5feaa5aa",
+        "sha1": "c90d0aadfffd256e943b695d111db8f2f259635e",
+        "private": "true",
+        "filecount": "262"
+      },
+      {
+        "name": "isbn_9781571780201_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "95",
+        "format": "Page Numbers JSON",
+        "original": "isbn_9781571780201_hocr.html",
+        "mtime": "1716987561",
+        "size": "43978",
+        "md5": "54d442d8addbf4aecee8eef48b335c33",
+        "crc32": "3c24015d",
+        "sha1": "4050efc542f7639925690295f5cb674cca6de436",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781571780201_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670387039",
+        "size": "262344",
+        "md5": "43df07bfac1bf0641897553c198d2d17",
+        "crc32": "3b502ae8",
+        "sha1": "11b54a1917d48ec19d56f0630df0061fc7c1f41f"
+      },
+      {
+        "name": "isbn_9781571780201_xisbn.json",
+        "source": "original",
+        "mtime": "1454572309",
+        "size": "1403",
+        "md5": "085c47e94a81e9234f850a7ffcb2b3c0",
+        "crc32": "8f7c046c",
+        "sha1": "1c04ecd04bb5754ab821bcfca105ead8d94f2453",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 33,
+    "item_last_updated": 1753552547,
+    "item_size": 421151240,
+    "metadata": {
+      "isbn": [
+        "0933031807",
+        "9780933031807",
+        "1571780203",
+        "9781571780201"
+      ],
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2011-09-30 19:22:33",
+      "updater": "tracey.g@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "f0029",
+      "boxid": "IA136721",
+      "language": "eng",
+      "identifier": "isbn_9781571780201",
+      "uploader": "tracey.g@archive.org",
+      "addeddate": "2011-09-30 19:22:56",
+      "publicdate": "2011-09-30 19:22:59",
+      "filesxml": [
+        "Mon Oct 24 19:23:09 UTC 2011",
+        "Wed Apr 3 6:26:02 UTC 2024"
+      ],
+      "scanner": "scribe24.shenzhen.archive.org",
+      "repub_seconds": "14028",
+      "ppi": "386",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-ufo@archive.org",
+      "scandate": "20120813153156",
+      "republisher": "scanner-shenzhen-thomas@archive.org",
+      "imagecount": "262",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/isbn_9781571780201",
+      "identifier-ark": "ark:/13960/t4xh0t195",
+      "scanfee": "100",
+      "title": "The Route 66 cookbook",
+      "boxid_2": "CH120121109-BL1",
+      "publisher": "Council Oak Books ",
+      "creator": [
+        "Clark, Marian, 1934- author",
+        "Wallis, Michael, writer of introduction"
+      ],
+      "date": "1993-01-01",
+      "donor": "bostonpubliclibrary",
+      "sponsordate": "not to be invoiced-past billing period",
+      "external-identifier": [
+        "urn:acs6:isbn_9781571780201:pdf:e9625f6b-2909-445e-9c4e-8ade991238be",
+        "urn:acs6:isbn_9781571780201:epub:ef33b922-84f2-4606-a69e-315d6846cb88",
+        "urn:oclc:record:1035898525",
+        "urn:lcp:isbn_9781571780201:lcpdf:2873770a-ccf9-454e-a955-25e44e25822a",
+        "urn:lcp:isbn_9781571780201:epub:5365538e-0c36-4d58-8c06-728af2745f0e"
+      ],
+      "subject": [
+        "Cooking, American",
+        "Restaurants",
+        "Janice Bluestein Longone Culinary Archive",
+        "Janice Bluestein Longone Culinary Archive",
+        "Cooking, American",
+        "Restaurants"
+      ],
+      "lccn": "93037067",
+      "description": [
+        "Illinois -- Missouri -- Kansas -- Oklahoma -- Texas -- New Mexico -- Arizona -- California",
+        "A collection of memorabilia, anecdotes, and recipes collected from eating establishments along the legendary Route 66, from Chicago to Los Angeles",
+        "Recipes are attributed",
+        "Includes blank pages for notes and recipes",
+        "Pale tan cloth binding, with spine title stamped in silver. Maps on lining papers. Color illustrated dust jacket",
+        "Includes bibliographical references (page 226), recipe index, and index of people and places",
+        "Gift of: Janice B. Longone",
+        "In original dust jacket"
+      ],
+      "city": "Tulsa",
+      "oclc-id": "29030068",
+      "related-external-id": [
+        "urn:isbn:1571781285",
+        "urn:oclc:228090081",
+        "urn:isbn:0933031807",
+        "urn:lccn:93037067",
+        "urn:oclc:29030068",
+        "urn:isbn:1571780955",
+        "urn:lccn:2001266023",
+        "urn:oclc:248377964",
+        "urn:oclc:45076750"
+      ],
+      "backup_location": "ia903703_17",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-09-02T18:52:09Z",
+      "republisher_operator": "scanner-shenzhen-thomas@archive.org",
+      "republisher_date": "20120813215846",
+      "openlibrary_edition": "OL1426018M",
+      "openlibrary_work": "OL2697030W",
+      "loans__status__last_waitlist_date": "2019-04-05T15:15:39Z",
+      "loans__status__num_history": "48",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "95",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia902904.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "denverpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780933031807"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2019-03-20 14:34:48.626538"
+        },
+        "rochester-ol": {
+          "notes": {
+            "isbn": [
+              "9781571780201"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-01-26 17:57:25.946754"
+        },
+        "universityofarizona-ol": {
+          "notes": {
+            "isbn": [
+              "9780933031807"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-04-14 09:43:54.173263"
+        },
+        "universityofcoloradoboulder-ol": {
+          "notes": {
+            "isbn": [
+              "9780933031807"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-04-17 08:03:31.975886"
+        }
+      }
+    },
+    "uniq": 508750333,
+    "workable_servers": [
+      "ia902904.us.archive.org",
+      "ia802904.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/29030068?referer=xid"
+          ],
+          "publisher": "Council Oak Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "93037067"
+          ],
+          "lang": "eng",
+          "city": "Tulsa",
+          "author": "by Marian Clark ; with an introduction by Michael Wallis.",
+          "year": "1993",
+          "isbn": [
+            "1571780203"
+          ],
+          "title": "The Route 66 cookbook",
+          "oclcnum": [
+            "29030068"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/228090081?referer=xid"
+          ],
+          "publisher": "Council Oak Books",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "San Francisco, CA",
+          "author": "Marian Clark ; [with an introduction by Michael Wallis].",
+          "year": "2003",
+          "isbn": [
+            "1571781285"
+          ],
+          "title": "The Route 66 cookbook : comfort food from the mother road",
+          "oclcnum": [
+            "228090081"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/29030068?referer=xid"
+          ],
+          "publisher": "Council Oak Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "93037067"
+          ],
+          "lang": "eng",
+          "city": "Tulsa",
+          "author": "by Marian Clark ; with an introduction by Michael Wallis.",
+          "year": "1993",
+          "isbn": [
+            "0933031807"
+          ],
+          "title": "The Route 66 cookbook",
+          "oclcnum": [
+            "29030068"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/248377964?referer=xid"
+          ],
+          "publisher": "Council Oak Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2001266023"
+          ],
+          "lang": "eng",
+          "city": "San Francisco [u.a.]",
+          "author": "Marian Clark",
+          "ed": "75th anniversary ed., 1926-2001 [Nachdruck]",
+          "year": "2000",
+          "isbn": [
+            "1571780955"
+          ],
+          "title": "The Route 66 cookbook : comfort food from the mother road",
+          "oclcnum": [
+            "248377964",
+            "45076750"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Clark, Marian, 1934- author",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

@@ -1,0 +1,794 @@
+{
+  "source": "internet_archive",
+  "identifier": "artofcookinginea00east",
+  "title": "The art of cooking in East Flat Rock",
+  "creator": "East Flat Rock United Methodist Church",
+  "year": null,
+  "subject": null,
+  "description": null,
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/artofcookinginea00east"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/artofcookinginea00east"
+        }
+      ]
+    },
+    "created": 1758556019,
+    "d1": "ia601606.us.archive.org",
+    "d2": "ia801606.us.archive.org",
+    "dir": "/1/items/artofcookinginea00east",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1698928354",
+        "size": "20807",
+        "md5": "15220c6ab887e0b87839bd7813650eca",
+        "crc32": "0829d051",
+        "sha1": "3fd404cc68640e77e0d60d3005dbcb362dd193df",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "artofcookinginea00east.djvu",
+        "source": "derivative",
+        "format": "DjVu",
+        "original": "artofcookinginea00east_djvu.xml",
+        "mtime": "1416429316",
+        "size": "2149618",
+        "md5": "7e306f0c157ef17172cb42eb0c21bb6a",
+        "crc32": "9c96d4d3",
+        "sha1": "8292e72c8cba01b1a4b295df4dcfc79fa73afaea"
+      },
+      {
+        "name": "artofcookinginea00east.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "artofcookinginea00east_jp2.zip",
+        "mtime": "1416424474",
+        "size": "279747",
+        "md5": "23f6a6c0ce06ea28d4111331cbf7adaf",
+        "crc32": "dfe10ff6",
+        "sha1": "f8bac535626a7a9b31e5f6a0ae2872aa6f510d64"
+      },
+      {
+        "name": "artofcookinginea00east.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "artofcookinginea00east_page_numbers.json",
+        "mtime": "1698928422",
+        "size": "5256851",
+        "md5": "ea050486addd76f617b9c77565f2a342",
+        "crc32": "7ec419ce",
+        "sha1": "be3a8c27e20406b802f808f67b02ef46490bfcb6"
+      },
+      {
+        "name": "artofcookinginea00east_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "artofcookinginea00east_jp2.zip",
+        "mtime": "1416428862",
+        "size": "1067426",
+        "md5": "26dff1df57e6a7f5ba6627aa5d42bd25",
+        "crc32": "82d62c88",
+        "sha1": "3c224060f7088c026846f26cd988dce5f7698c4d"
+      },
+      {
+        "name": "artofcookinginea00east_archive.torrent",
+        "source": "metadata",
+        "btih": "a6cf4afca91b848ad542dbc3874d365e4f630966",
+        "mtime": "1715044752",
+        "size": "6644",
+        "md5": "8634ae1658c4567cd55b7725ba47c0c7",
+        "crc32": "131c3a32",
+        "sha1": "c661053349b8d918a4a0ca64539cda03c8ded678",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "artofcookinginea00east_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.21",
+        "ocr_converted": "abbyy-to-hocr 1.1.37",
+        "format": "chOCR",
+        "original": "artofcookinginea00east_abbyy.gz",
+        "mtime": "1698927753",
+        "size": "960667",
+        "md5": "6c1c2805ad37024850225daee8f14edb",
+        "crc32": "8a24c2ac",
+        "sha1": "a3a30791c9155520a467f5797dea6db5ed8ca072"
+      },
+      {
+        "name": "artofcookinginea00east_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "artofcookinginea00east_scandata.xml",
+        "mtime": "1698928457",
+        "size": "764",
+        "md5": "c1acdeebba0bd2b1a2c3e5fb08d1be24",
+        "crc32": "567c9d1a",
+        "sha1": "da9ac0978be8dacd0232a6d8329a955e29df983f"
+      },
+      {
+        "name": "artofcookinginea00east_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "artofcookinginea00east_djvu.xml",
+        "mtime": "1698928349",
+        "size": "85794",
+        "md5": "76cddb210ced7537a9cada4ae20d7cb7",
+        "crc32": "a7fe7e62",
+        "sha1": "12cffbeed5a2cf81744a0e00879aaf34f2e4db85"
+      },
+      {
+        "name": "artofcookinginea00east_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "artofcookinginea00east_hocr.html",
+        "mtime": "1698927952",
+        "size": "1106223",
+        "md5": "d0da80e1d92ae19be99869e567736252",
+        "crc32": "b4ead48b",
+        "sha1": "99515a1dfb3a2fbe0c4b542f8ec0086d1cee94e9"
+      },
+      {
+        "name": "artofcookinginea00east_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "b57e087d720646f906f2285777aae3a6",
+        "summation": "md5"
+      },
+      {
+        "name": "artofcookinginea00east_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.2.0",
+        "hocr_char_to_word_hocr_version": "1.1.45",
+        "ocr_module_version": "0.0.21",
+        "ocr_converted": "abbyy-to-hocr 1.1.37",
+        "format": "hOCR",
+        "original": "artofcookinginea00east_chocr.html.gz",
+        "mtime": "1698927930",
+        "size": "2099417",
+        "md5": "59a46dfcfbc5a86eae4e40c0dee5eda5",
+        "crc32": "c517ab51",
+        "sha1": "6c08ce25a1651ae58520e69a16ae8e8c88082649"
+      },
+      {
+        "name": "artofcookinginea00east_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "artofcookinginea00east_hocr.html",
+        "mtime": "1698928048",
+        "size": "685",
+        "md5": "9de5ccc43b4c178bb53ba1770920ff7c",
+        "crc32": "961801f4",
+        "sha1": "4d88928d47252cd20b1f7b14477baf71698067d7"
+      },
+      {
+        "name": "artofcookinginea00east_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "451",
+        "word_conf_11_20": "484",
+        "word_conf_21_30": "656",
+        "word_conf_31_40": "780",
+        "word_conf_41_50": "912",
+        "word_conf_51_60": "1131",
+        "word_conf_61_70": "1095",
+        "word_conf_71_80": "1132",
+        "word_conf_81_90": "1074",
+        "word_conf_91_100": "5139",
+        "format": "OCR Search Text",
+        "original": "artofcookinginea00east_hocr.html",
+        "mtime": "1698928168",
+        "size": "28037",
+        "md5": "c30ef3a87e4eab4f17055be236315244",
+        "crc32": "311ffafd",
+        "sha1": "9e4f0314a955641c36e2ccf0173ec39b2b497967"
+      },
+      {
+        "name": "artofcookinginea00east_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "artofcookinginea00east_orig_jp2.tar",
+        "mtime": "1416424247",
+        "size": "36510233",
+        "md5": "dedc7cbc49662a981363552c861e814a",
+        "crc32": "f3aef5cd",
+        "sha1": "348850680e16e6e60cd4cf6057f3af6e36cc0b49",
+        "filecount": "62"
+      },
+      {
+        "name": "artofcookinginea00east_meta.sqlite",
+        "source": "original",
+        "mtime": "1464747231",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "2cf54fc6a87a16639c28ddc3aece0558",
+        "crc32": "0bd9c29a",
+        "sha1": "4619f4100c9fee8c2920e5f55a68b9c351151a21"
+      },
+      {
+        "name": "artofcookinginea00east_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1715044748",
+        "size": "2907",
+        "md5": "3217d28613fa542c898e010e5ad7a345",
+        "crc32": "02dbe608",
+        "sha1": "ac8bae565a422f2a4e233395609abca860a7c922"
+      },
+      {
+        "name": "artofcookinginea00east_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1416344409",
+        "size": "238",
+        "md5": "4fc6496640aa588039af2f81dfce984f",
+        "crc32": "10d32eab",
+        "sha1": "992fd61bde618350f76b38ddf7b38605f96e5007"
+      },
+      {
+        "name": "artofcookinginea00east_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1416422066",
+        "size": "69632000",
+        "md5": "ad369d290a26d946d9c2cda229c52fd7",
+        "crc32": "85f88b26",
+        "sha1": "6d92c1fd89e0c8e35ac0900e5a11a03777d04c58",
+        "format": "Single Page Original JP2 Tar",
+        "filecount": "62"
+      },
+      {
+        "name": "artofcookinginea00east_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.3",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "artofcookinginea00east_hocr.html",
+        "mtime": "1698928325",
+        "size": "10290",
+        "md5": "e1b4bc0262d7e78fdd52fcad79b01bfd",
+        "crc32": "72ff47d8",
+        "sha1": "4e5ba159203de7fc879cca428fdaeaa2531b0157"
+      },
+      {
+        "name": "artofcookinginea00east_scandata.xml",
+        "source": "original",
+        "mtime": "1698928457",
+        "size": "81548",
+        "md5": "3c410c04a2248b69b08dd7b6abcfa428",
+        "crc32": "7f487134",
+        "sha1": "21ea009f6537fc4fafd51ab9da942f3c7d5ab7df",
+        "format": "Scandata"
+      },
+      {
+        "name": "artofcookinginea00east_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "artofcookinginea00east_djvu.xml",
+        "mtime": "1698928435",
+        "size": "639",
+        "md5": "aa214c83af5eaa3b96698c08f2b5dd5b",
+        "crc32": "657f943c",
+        "sha1": "5b34de2121ad5e6c98754b80d06ac98a868407f1"
+      }
+    ],
+    "files_count": 22,
+    "item_last_updated": 1715044752,
+    "item_size": 119306679,
+    "metadata": {
+      "language": "eng",
+      "scanningcenter": "durham2",
+      "sponsor": "Institute of Museum and Library Services, under the provisions of the Library Services and Technology Act, administered by the State Library of North Carolina. Grant issued to Duke University for the Religion in North Carolina project.",
+      "contributor": "Belk Library, Appalachian State University",
+      "title": "The art of cooking in East Flat Rock",
+      "creator": "East Flat Rock United Methodist Church",
+      "collection": [
+        "ncephemerals",
+        "ncreligion",
+        "americana"
+      ],
+      "shiptracking": "ST002763",
+      "slip_number": "13",
+      "pub_date": "1970",
+      "publisher": "Chicago, IL : Women's Clubs Publishing, 1970.",
+      "copyright_message": "Copyright status: The copyright status of this item has been reviewed and it has been determined that either: 1) the item is in the public domain; or 2) permission to digitize the item has been granted by the rights holder. If you believe you have additional information regarding the copyright in this material, please contact divlib@duke.edu.",
+      "license_url": "http://creativecommons.org/licenses/by/3.0/us/",
+      "boxid": "a0076",
+      "repub_state": "4",
+      "page-progression": "lr",
+      "publicdate": "2014-11-18 20:03:29",
+      "mediatype": "texts",
+      "updatedate": "2014-11-18 21:00:09",
+      "updater": "associate-osamu-sueyoshi@archive.org",
+      "identifier": "artofcookinginea00east",
+      "uploader": "associate-osamu-sueyoshi@archive.org",
+      "addeddate": "2014-11-18 21:00:11.923759",
+      "scanner": "scribe1.durham2.archive.org",
+      "notes": "No title page found. No copyright page found. No table-of-contents pages found.",
+      "repub_seconds": "421",
+      "ppi": "500",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "associate-osamu-sueyoshi@archive.org",
+      "scandate": "20141119181733",
+      "republisher": "associate-annie-coates@archive.org",
+      "imagecount": "62",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/artofcookinginea00east",
+      "identifier-ark": "ark:/13960/t9380bt96",
+      "bookplateleaf": "0006",
+      "scanfee": "100",
+      "invoice": "43",
+      "sponsordate": "20141130",
+      "backup_location": "ia905907_0",
+      "republisher_operator": "associate-annie-coates@archive.org",
+      "republisher_date": "20141119182742",
+      "ocr_module_version": "0.0.21",
+      "ocr_converted": "abbyy-to-hocr 1.1.37",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.3"
+    },
+    "page_numbers": {
+      "identifier": "artofcookinginea00east",
+      "format-version": "2",
+      "archive-hocr-tools-version": "1.1.54",
+      "confidence": 0,
+      "pages": [
+        {
+          "leafNum": 1,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 2,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 3,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 4,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 5,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 6,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 7,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 8,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 9,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 10,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 11,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 12,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 13,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 14,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 15,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 16,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 17,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 18,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 19,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 20,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 21,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 22,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 23,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 24,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 25,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 26,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 27,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 28,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 29,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 30,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 31,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 32,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 33,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 34,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 35,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 36,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 37,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 38,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 39,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 40,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 41,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 42,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 43,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 44,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 45,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 46,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 47,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 48,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 49,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 50,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 51,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 52,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 53,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 54,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 55,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 56,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 57,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 58,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 59,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        },
+        {
+          "leafNum": 60,
+          "confidence": null,
+          "pageNumber": "",
+          "pageProb": null,
+          "wordConf": null
+        }
+      ]
+    },
+    "server": "ia801606.us.archive.org",
+    "uniq": 788042173,
+    "workable_servers": [
+      "ia801606.us.archive.org",
+      "ia601606.us.archive.org"
+    ]
+  },
+  "institution": "East Flat Rock United Methodist Church",
+  "pdf_url": "https://archive.org/download/artofcookinginea00east/artofcookinginea00east.pdf",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Women'S Club",
+      "Methodist"
+    ]
+  },
+  "curation_notes": "Community markers: Church, Women'S Club, Methodist; Digitized scan available"
+}

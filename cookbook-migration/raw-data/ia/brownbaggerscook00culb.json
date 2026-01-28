@@ -1,0 +1,567 @@
+{
+  "source": "internet_archive",
+  "identifier": "brownbaggerscook00culb",
+  "title": "Brown bagger's cook book",
+  "creator": "Culbertson, Molly",
+  "year": 1985,
+  "subject": "Lunchbox cookery",
+  "description": [
+    "At head of title: Better homes and gardens",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/brownbaggerscook00culb"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/brownbaggerscook00culb"
+        }
+      ]
+    },
+    "created": 1758555466,
+    "d1": "ia601302.us.archive.org",
+    "d2": "ia801302.us.archive.org",
+    "dir": "/19/items/brownbaggerscook00culb",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659319670",
+        "size": "22306",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "11057d22a7ff7a4df743703b37b3598e",
+        "crc32": "5bff581b",
+        "sha1": "a39c956df4e69c0ff0c2940ee786f2c66af57055"
+      },
+      {
+        "name": "brownbaggerscook00culb.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "brownbaggerscook00culb_hocr.html",
+        "mtime": "1753089762",
+        "size": "15082160",
+        "private": "true",
+        "md5": "ae9f18bb685ca5b9ccaddae487b2d172",
+        "crc32": "b8bc8398",
+        "sha1": "abc976667278707a34ed9b0c133197133a9d26a7"
+      },
+      {
+        "name": "brownbaggerscook00culb.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "brownbaggerscook00culb_jp2.zip",
+        "md5": "0c2116df9b530f1b4a56bb3b1127a2bd",
+        "mtime": "1263321897",
+        "size": "238573",
+        "crc32": "b67f2815",
+        "sha1": "7c3a6305ec58c46272e2a64b64be0a99e41c8af2"
+      },
+      {
+        "name": "brownbaggerscook00culb.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "brownbaggerscook00culb.pdf",
+        "mtime": "1753089323",
+        "size": "6456726",
+        "md5": "83bb872bf61ac3138cb8212a50eb739b",
+        "crc32": "a5c67d4f",
+        "sha1": "ba0f94587cc5cb61f3cc85337f80c7ef4cc494ee"
+      },
+      {
+        "name": "brownbaggerscook00culb.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "brownbaggerscook00culb_page_numbers.json",
+        "mtime": "1717774173",
+        "size": "6112357",
+        "md5": "aae3251f1e1d4438c1cf2f4e1f12330b",
+        "crc32": "7efd165f",
+        "sha1": "64005c30da07b8609200811c412c28fef8df78c1",
+        "private": "true"
+      },
+      {
+        "name": "brownbaggerscook00culb_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "brownbaggerscook00culb_jp2.zip",
+        "md5": "863369b75b950b1fc74516e1affdf334",
+        "mtime": "1263326010",
+        "size": "2008949",
+        "crc32": "5288c963",
+        "sha1": "3dcd6f7d40e5399388f1cd3816b43466be8740e5",
+        "private": "true"
+      },
+      {
+        "name": "brownbaggerscook00culb_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "brownbaggerscook00culb_page_numbers.json",
+        "mtime": "1717774174",
+        "size": "6097774",
+        "md5": "7b19e7aa35ba41e219ad4d3fbb829151",
+        "crc32": "a73784ee",
+        "sha1": "2557c611b3165545ed27c2566c666f3b79445163",
+        "private": "true"
+      },
+      {
+        "name": "brownbaggerscook00culb_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "brownbaggerscook00culb_abbyy.gz",
+        "mtime": "1659319084",
+        "size": "1669341",
+        "md5": "eb83b568a539ae0a86ea6d51bf9e8624",
+        "crc32": "6048e6a7",
+        "sha1": "bac1e6be4c4872314056da1aca95aa83e482003e",
+        "private": "true"
+      },
+      {
+        "name": "brownbaggerscook00culb_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "brownbaggerscook00culb_scandata.xml",
+        "mtime": "1669492271",
+        "size": "780",
+        "md5": "3469396544aa4ddd8d5379257b090fb0",
+        "crc32": "f3b36db7",
+        "sha1": "4fabf76d6f445289b752d13dc7b262a76f6de39a",
+        "private": "true"
+      },
+      {
+        "name": "brownbaggerscook00culb_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "79dfd9b5fac149e433d0f014c48873db",
+        "mtime": "1263230074",
+        "size": "795",
+        "crc32": "4daf94d4",
+        "sha1": "50394dd59b43261ca8928a3192a1f3fb75452c6a"
+      },
+      {
+        "name": "brownbaggerscook00culb_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "brownbaggerscook00culb_djvu.xml",
+        "mtime": "1720668734",
+        "size": "152925",
+        "md5": "626154f01ff9ca64708a9076117d3bb3",
+        "crc32": "c71c4af8",
+        "sha1": "3afa5096095f18195ec51e8b1a0af3036a443151",
+        "private": "true"
+      },
+      {
+        "name": "brownbaggerscook00culb_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "brownbaggerscook00culb_hocr.html",
+        "mtime": "1720668728",
+        "size": "1908029",
+        "md5": "121eb77e4eabb1422462550fe04f2fbf",
+        "crc32": "4db6b8ab",
+        "sha1": "fdd6bac2914365a4a4418ab04b6e624a76a3a1dc",
+        "private": "true"
+      },
+      {
+        "name": "brownbaggerscook00culb_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "brownbaggerscook00culb.pdf",
+        "mtime": "1717774450",
+        "size": "6097977",
+        "md5": "cc654d1e40f28ef788d73a6a84215ede",
+        "crc32": "89a4ede3",
+        "sha1": "a91c36e736cead8c21d8dc15ed18098dfc9a7f75"
+      },
+      {
+        "name": "brownbaggerscook00culb_extramarc.xml",
+        "source": "original",
+        "mtime": "1419980748",
+        "size": "4081",
+        "md5": "c9a4894a870d04fcb5e3a835bf456834",
+        "crc32": "8b181f1e",
+        "sha1": "430df44b3e78230459cdbf7e602f5827734446eb",
+        "format": "Metadata"
+      },
+      {
+        "name": "brownbaggerscook00culb_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "efb117db84e78efa8929fa9eaf4c4340",
+        "summation": "md5"
+      },
+      {
+        "name": "brownbaggerscook00culb_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "brownbaggerscook00culb_chocr.html.gz",
+        "mtime": "1659319380",
+        "size": "3898157",
+        "md5": "09bd96d3f69cdb49bb8358ae08e48664",
+        "crc32": "2e765864",
+        "sha1": "24ef9465acae250b8461d12031782478af53ae83",
+        "private": "true"
+      },
+      {
+        "name": "brownbaggerscook00culb_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "brownbaggerscook00culb_hocr.html",
+        "mtime": "1659319498",
+        "size": "1038",
+        "md5": "8376df5e4bd8f1dbb5476df14159c8e9",
+        "crc32": "7b2595d0",
+        "sha1": "8d002fe553fd6e38ec7cbaa0eeb1c7e91629fcc5",
+        "private": "true"
+      },
+      {
+        "name": "brownbaggerscook00culb_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1429",
+        "word_conf_11_20": "427",
+        "word_conf_21_30": "1430",
+        "word_conf_31_40": "1346",
+        "word_conf_41_50": "3285",
+        "word_conf_51_60": "3669",
+        "word_conf_61_70": "4341",
+        "word_conf_71_80": "2843",
+        "word_conf_81_90": "925",
+        "word_conf_91_100": "2454",
+        "format": "OCR Search Text",
+        "original": "brownbaggerscook00culb_hocr.html",
+        "mtime": "1659319639",
+        "size": "40543",
+        "md5": "5f92ed3a27ec882dce951e91b3075937",
+        "crc32": "76b4840b",
+        "sha1": "7f66a7f35670d19b2e4f8017802d09dd4878e4f9",
+        "private": "true"
+      },
+      {
+        "name": "brownbaggerscook00culb_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "brownbaggerscook00culb_orig_jp2.tar",
+        "md5": "5ee3ed0acfaefd53961727160d0ddc09",
+        "mtime": "1263321864",
+        "size": "46541227",
+        "crc32": "ac131564",
+        "sha1": "a08448dba717df03a92b4e23496b94e1c79253d6",
+        "private": "true",
+        "filecount": "90"
+      },
+      {
+        "name": "brownbaggerscook00culb_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "brownbaggerscook00culb.epub",
+        "mtime": "1753089877",
+        "size": "15104453",
+        "md5": "482ffe7a7d8583fc3b4298979804272c",
+        "crc32": "c3b76652",
+        "sha1": "624aa6fb9e0ba31db050a1ea1e779063bedc34cd"
+      },
+      {
+        "name": "brownbaggerscook00culb_loans.json",
+        "source": "original",
+        "mtime": "1593410072",
+        "size": "6991",
+        "format": "JSON",
+        "private": "true",
+        "md5": "9dca3e849109107bf32cc2f495941a6a",
+        "crc32": "f68c495f",
+        "sha1": "2fa01ad7a23413c1e07d9f0e897a8e865735ea51"
+      },
+      {
+        "name": "brownbaggerscook00culb_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "4c8c538b7719c9eee82d0ea00a8e768e",
+        "mtime": "1263230074",
+        "size": "4945",
+        "crc32": "97260ca7",
+        "sha1": "544a57f6102a71cf37a26c681e976b32b831a266"
+      },
+      {
+        "name": "brownbaggerscook00culb_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "brownbaggerscook00culb_xisbn.json",
+        "mtime": "1454284479",
+        "size": "810",
+        "md5": "d1c57663c9ee6214a514cd692e23dd03",
+        "crc32": "d010a270",
+        "sha1": "290a7b78bbef5d0fd5c4bf6386d7ff2a4061fe07",
+        "private": "true"
+      },
+      {
+        "name": "brownbaggerscook00culb_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "ae4806cbc75a737deb6eef002b71d544",
+        "mtime": "1263230074",
+        "size": "1393",
+        "crc32": "53cb7c43",
+        "sha1": "f344b64aff4f3d3bf9e42b33e8f3bed446c6866e"
+      },
+      {
+        "name": "brownbaggerscook00culb_meta.sqlite",
+        "source": "original",
+        "mtime": "1470307030",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "a73b57e7c2acd0f14553fb3f5df696d5",
+        "crc32": "6f720c5c",
+        "sha1": "62160ee5e85a3ed435179ae1fded261c5c452585"
+      },
+      {
+        "name": "brownbaggerscook00culb_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753089877",
+        "size": "3473",
+        "md5": "70976a251d3d52397b7da8179449ea91",
+        "crc32": "887b90e7",
+        "sha1": "1c149e33f334a6e2581f8f8106ffdb23d84c5875"
+      },
+      {
+        "name": "brownbaggerscook00culb_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "3157b12072210141339dcabcfa2bfb4b",
+        "mtime": "1263230074",
+        "size": "398",
+        "crc32": "143a8aa2",
+        "sha1": "52b6d463d83fcfbebc3adfc5d5ab65a3dc9379a9"
+      },
+      {
+        "name": "brownbaggerscook00culb_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "706d6cdf262ec01822ba9d4a9205d298",
+        "mtime": "1263319381",
+        "size": "78223360",
+        "crc32": "012f90ea",
+        "sha1": "d422d487d145b72b5010fcd1419fcedf4ded8b2a",
+        "private": "true",
+        "filecount": "90"
+      },
+      {
+        "name": "brownbaggerscook00culb_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "brownbaggerscook00culb_hocr.html",
+        "mtime": "1717774172",
+        "size": "14346",
+        "md5": "c5e7a5e96e2837b83197d60552c159d7",
+        "crc32": "d2a50305",
+        "sha1": "9994747cc5381919eda35e8d1862775eb290ec88",
+        "private": "true"
+      },
+      {
+        "name": "brownbaggerscook00culb_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "09d8dc2ee7158b56635ce148015897a5",
+        "mtime": "1669492271",
+        "size": "47077",
+        "crc32": "cdba7cd1",
+        "sha1": "e74cbb893648d1c4246e15c055a188c8c653ee8d"
+      },
+      {
+        "name": "brownbaggerscook00culb_xisbn.json",
+        "source": "original",
+        "mtime": "1454115319",
+        "size": "702",
+        "md5": "0b71f654a9cb5ff078a8566b84d7bda7",
+        "crc32": "84e2a107",
+        "sha1": "b63e11b257d32a6a83396b098ceaf967decc3104",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753089877,
+    "item_size": 189747830,
+    "metadata": {
+      "title": "Brown bagger's cook book",
+      "creator": "Culbertson, Molly",
+      "subject": "Lunchbox cookery",
+      "description": [
+        "At head of title: Better homes and gardens",
+        "Includes index"
+      ],
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "date": "1985-01-01",
+      "language": "eng",
+      "isbn": [
+        "9780696014703",
+        "0696014726",
+        "9780696014727",
+        "069601470X"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA104721",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "la",
+      "mediatype": "texts",
+      "updatedate": "2010-01-11 17:14:35",
+      "updater": "LineK",
+      "identifier": "brownbaggerscook00culb",
+      "uploader": "line@archive.org",
+      "addeddate": "2010-01-11 17:14:37",
+      "publicdate": "2010-01-11 17:14:40",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-angela-chance@archive.org",
+      "scanner": "scribe3.la.archive.org",
+      "scandate": "20100112174929",
+      "imagecount": "88",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/brownbaggerscook00culb",
+      "identifier-ark": "ark:/13960/t9x06qn80",
+      "bookplateleaf": "0002",
+      "ocr": "ABBYY FineReader 8.0",
+      "curation": "[curator]kellycritch@archive.org[/curator][date]20100203143352[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:brownbaggerscook00culb:pdf:b90b6b80-1864-4a23-865e-7785289d30c3",
+        "urn:acs6:brownbaggerscook00culb:epub:24f8ba40-1957-4468-a8bc-82b03f5bbe15",
+        "urn:oclc:record:1028866526",
+        "urn:lcp:brownbaggerscook00culb:lcpdf:7a68625e-c410-44cd-9700-1256c3150181",
+        "urn:lcp:brownbaggerscook00culb:epub:81b08398-c6e4-4968-a4c4-9bbfd7637b55"
+      ],
+      "boxid_2": "CH109401",
+      "donor": "alibris",
+      "extramarc": "University of Pennsylvania Franklin Library",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": [
+        "11764240",
+        "299212834",
+        "681420467"
+      ],
+      "lccn": "84061311",
+      "related-external-id": [
+        "urn:isbn:0696014726",
+        "urn:lccn:84061311",
+        "urn:oclc:11764240",
+        "urn:oclc:299212834",
+        "urn:oclc:681420467"
+      ],
+      "backup_location": "ia903604_24",
+      "openlibrary_edition": "OL2872392M",
+      "openlibrary_work": "OL15159229W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 11:41:02 UTC 2020",
+        "Tue Apr 2 22:41:58 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "0",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801302.us.archive.org",
+    "uniq": 2028390004,
+    "workable_servers": [
+      "ia801302.us.archive.org",
+      "ia601302.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/11764240?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "84061311"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Molly Culbertson].",
+          "ed": "1st ed.",
+          "year": "1985",
+          "isbn": [
+            "069601470X"
+          ],
+          "title": "Brown bagger's cook book",
+          "oclcnum": [
+            "11764240",
+            "299212834",
+            "681420467"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/11764240?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BB"
+          ],
+          "lccn": [
+            "84061311"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Molly Culbertson].",
+          "ed": "1st ed.",
+          "year": "1985",
+          "isbn": [
+            "0696014726"
+          ],
+          "title": "Brown bagger's cook book",
+          "oclcnum": [
+            "11764240",
+            "299212834",
+            "681420467"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Culbertson, Molly",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

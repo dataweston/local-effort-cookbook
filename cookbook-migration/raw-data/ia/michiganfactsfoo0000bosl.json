@@ -1,0 +1,511 @@
+{
+  "source": "internet_archive",
+  "identifier": "michiganfactsfoo0000bosl",
+  "title": "Michigan facts, food & fun!",
+  "creator": "Bosley, Judith",
+  "year": 1995,
+  "subject": [
+    "Cooking, American",
+    "Cookery -- Michigan",
+    "Michigan -- History -- Miscellanea",
+    "Michigan -- Description and travel -- Miscellanea"
+  ],
+  "description": [
+    "83 p. ; 22 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/michiganfactsfoo0000bosl"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/michiganfactsfoo0000bosl"
+        }
+      ]
+    },
+    "created": 1758555796,
+    "d1": "ia903208.us.archive.org",
+    "d2": "ia803208.us.archive.org",
+    "dir": "/19/items/michiganfactsfoo0000bosl",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660662816",
+        "size": "29057",
+        "md5": "a9bf610f3db663d9799a314cc58890c6",
+        "crc32": "acaced7b",
+        "sha1": "a77c9c4cb4c82776770519f6f9574eb263b6ab15",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/michiganfactsfoo0000bosl_iabdash_2020-06-0314:01:44.log",
+        "source": "original",
+        "mtime": "1591164107",
+        "size": "1348",
+        "md5": "89077b9997482edd3cff9fa00d489121",
+        "crc32": "27fd8474",
+        "sha1": "f9b4bfeccb5765ba535a47de721e2d116762ed62",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/michiganfactsfoo0000bosl_scanning_2020-06-0314:01:58.log",
+        "source": "original",
+        "mtime": "1591164124",
+        "size": "295158",
+        "md5": "8f35b9e37f515807c2ed3648f4bdc2c6",
+        "crc32": "b8ce0333",
+        "sha1": "9c08f4cda6a1bc62e6f5d0fdb5f2030c42bd69d3",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/michiganfactsfoo0000bosl_status_history_2020-06-0314:01:48.log",
+        "source": "original",
+        "mtime": "1591164116",
+        "size": "355",
+        "md5": "5c3a69470fe8013b727093e1f3b376e2",
+        "crc32": "d01c8a36",
+        "sha1": "7be7b8b1a01bbfa580157c8f0d4499c2ccdc98b9",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "michiganfactsfoo0000bosl_hocr.html",
+        "mtime": "1757059559",
+        "size": "17007315",
+        "private": "true",
+        "md5": "7791d5e94d73f63ee1195d01a1214892",
+        "crc32": "7e9b4e8a",
+        "sha1": "ce916b7f3ec0f2816d80b0cf209615ddaa4b645a"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "michiganfactsfoo0000bosl.pdf",
+        "mtime": "1757059219",
+        "size": "4220593",
+        "md5": "ddb92c6d9a5b5c958dc13845c2250fb9",
+        "crc32": "66c57663",
+        "sha1": "8bbf6218e1936f25ff5158b79d7a502cbe114bd5"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "michiganfactsfoo0000bosl_page_numbers.json",
+        "mtime": "1715884919",
+        "size": "3638994",
+        "md5": "aae20597761b772270192b91e886198e",
+        "crc32": "3123f6db",
+        "sha1": "eef7fdab991ad523e1e26d30fcb54bd2dffad1a7",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "michiganfactsfoo0000bosl_jp2.zip",
+        "mtime": "1592443385",
+        "size": "2026932",
+        "md5": "8424aa412783b52840f9ffa3a52bce0a",
+        "crc32": "5cd00df7",
+        "sha1": "134acee1af6240e3e7fecbd680a55735299eb92d",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "michiganfactsfoo0000bosl_abbyy.gz",
+        "mtime": "1660660867",
+        "size": "1696435",
+        "md5": "d09916e0c160a1c698e1a03d67301114",
+        "crc32": "4165c555",
+        "sha1": "6047591d3caab6c2002f2bb57f270c0724681b1d",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "michiganfactsfoo0000bosl_scandata.xml",
+        "mtime": "1670665129",
+        "size": "788",
+        "md5": "6e9ac42900eacd8155eb42eb7fc8d425",
+        "crc32": "bd6767ec",
+        "sha1": "fb0407b8ec980d705bb3e4eba4607c3465e875e7",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1592440905",
+        "size": "1099",
+        "md5": "50c17918cc6d6a4042f9a9f6d48f87b0",
+        "crc32": "7676b942",
+        "sha1": "697a46ebd6ea0f70e2c4a221ae52bca368cc60e3"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "michiganfactsfoo0000bosl_djvu.xml",
+        "mtime": "1660662808",
+        "size": "159785",
+        "md5": "7ec588fde241cc71589f86d57cd85ca3",
+        "crc32": "fc88dc79",
+        "sha1": "da7a7266a5e3537b10f4bc6ea10d1c38cea5b4c4",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "michiganfactsfoo0000bosl_hocr.html",
+        "mtime": "1660662258",
+        "size": "1924943",
+        "md5": "c141daf38c460fe154da648d5939e014",
+        "crc32": "ba72b22e",
+        "sha1": "94e3a018eed59287e79a00c03d9c860c24c9d2fd",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "michiganfactsfoo0000bosl_abbyy.gz",
+        "mtime": "1592443478",
+        "size": "1296825",
+        "md5": "b85a0c9540f4b2e7776ad0222e2c7402",
+        "crc32": "1656d964",
+        "sha1": "9622866b1a4cdd7e51144b41f45d091594c2124f"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "michiganfactsfoo0000bosl.pdf",
+        "mtime": "1715886170",
+        "size": "3593243",
+        "md5": "0595928a93642834e74ff80f6699dc64",
+        "crc32": "c07d1865",
+        "sha1": "59b9dff8f0d7f78ac83873f568f684c4add1844a"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_events.json",
+        "source": "original",
+        "mtime": "1592440496",
+        "size": "60",
+        "md5": "79da827cd96bfe1fb1f7bfaa5ef88ba3",
+        "crc32": "64ed75aa",
+        "sha1": "5433af799b087ba52a9d2dcc6b86753a4ae7a880",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "237563a2a6f6d3da47922b58a93a8f48",
+        "summation": "md5"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "michiganfactsfoo0000bosl_chocr.html.gz",
+        "mtime": "1660662166",
+        "size": "3951883",
+        "md5": "7bf243beb38ff993d62720e6e451eef4",
+        "crc32": "510456ce",
+        "sha1": "79d370ba2e51c5f77189ab362b9cb5523151b857",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "michiganfactsfoo0000bosl_hocr.html",
+        "mtime": "1660662502",
+        "size": "1093",
+        "md5": "ede23ed375b2efb4cd9dd566d9c17854",
+        "crc32": "c18558ff",
+        "sha1": "4a6cf921e307dd3178e9c0c3f24e06a8d277bf43",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "248",
+        "word_conf_11_20": "58",
+        "word_conf_21_30": "37",
+        "word_conf_31_40": "52",
+        "word_conf_41_50": "42",
+        "word_conf_51_60": "88",
+        "word_conf_61_70": "235",
+        "word_conf_71_80": "586",
+        "word_conf_81_90": "1925",
+        "word_conf_91_100": "20627",
+        "format": "OCR Search Text",
+        "original": "michiganfactsfoo0000bosl_hocr.html",
+        "mtime": "1660662762",
+        "size": "61040",
+        "md5": "a4740ce5980d28a54fe53cb96b484fb8",
+        "crc32": "33f76793",
+        "sha1": "7535fd33c5d33728c7a0620db84ea702e43c5e7c",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "michiganfactsfoo0000bosl_orig_jp2.tar",
+        "mtime": "1592442827",
+        "size": "41608689",
+        "md5": "3e108b79ebc2bae2ba0139080ad4bde2",
+        "crc32": "2847617d",
+        "sha1": "8380844de384364baeca6deab55abb7fd46f81a5",
+        "private": "true",
+        "filecount": "94"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "michiganfactsfoo0000bosl.epub",
+        "mtime": "1757059792",
+        "size": "17198792",
+        "md5": "78efa29c076c16d31dca34f6e43944a2",
+        "crc32": "44a3e293",
+        "sha1": "b0ee2bd900831c49f2fe58f6314044b9118bb4b7"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_marc.xml",
+        "source": "original",
+        "mtime": "1592440905",
+        "size": "2762",
+        "md5": "5f192f0efd9126b2e8a94a97a3c54efc",
+        "crc32": "fa40f065",
+        "sha1": "50eabda7391cd450fce710aad2d15dc95e778e56",
+        "format": "MARC"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_meta.mrc",
+        "source": "original",
+        "mtime": "1591164099",
+        "size": "835",
+        "md5": "4c8d670e8010daa2aa6ceeeaa09d7027",
+        "crc32": "fc19b286",
+        "sha1": "e50e0a04c63eec99b66117c448573bec492154ec",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_meta.sqlite",
+        "source": "original",
+        "mtime": "1592440750",
+        "size": "19456",
+        "md5": "ac3a0b5ed65da61a39af1118c501443b",
+        "crc32": "b48860f2",
+        "sha1": "e5726046bd075e615fd8c8bd0159b0c69e656bb0",
+        "format": "Metadata"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_meta.xml",
+        "source": "original",
+        "mtime": "1757059792",
+        "size": "2999",
+        "md5": "25c6c385951bf666da12cdc7bcf62719",
+        "crc32": "984be2f0",
+        "sha1": "c72133ae165aafd0d13f810dda6055421d88e522",
+        "format": "Metadata"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1592440749",
+        "size": "166952960",
+        "md5": "efe32918a84263b6d9650e95ab4bd47d",
+        "crc32": "2c7d4678",
+        "sha1": "81b81d0e6a849396bac1ad2e915f4cfe1d87b333",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "94"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "91",
+        "format": "Page Numbers JSON",
+        "original": "michiganfactsfoo0000bosl_hocr.html",
+        "mtime": "1715884914",
+        "size": "15560",
+        "md5": "d63ad74af1b3d70f437269c5bccd2334",
+        "crc32": "4c88f636",
+        "sha1": "e522ae86208809f31852b580a52d72c2a9fbffca",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_scandata.xml",
+        "source": "original",
+        "mtime": "1670665128",
+        "size": "96486",
+        "md5": "794541116e80d1e09f7b81497543dd6b",
+        "crc32": "850b7278",
+        "sha1": "c46ee1fbc0ecc209ee4808428c700dd05dd70e07",
+        "format": "Scandata"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_slip.png",
+        "source": "original",
+        "mtime": "1591163289",
+        "size": "42146",
+        "md5": "b843511a5e0c0b6efe91047adc557446",
+        "crc32": "35ad4f80",
+        "sha1": "02e9427168453955e7cf9e91e19407ce327e9ca5",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "michiganfactsfoo0000bosl_slip.png",
+        "mtime": "1592440915",
+        "size": "5618",
+        "md5": "5c7a127f1a8bf4369fb9257d744665f8",
+        "crc32": "45ea80e6",
+        "sha1": "bf78fb58534f9d34dcb52fc60222ea4e0276c94d",
+        "private": "true"
+      },
+      {
+        "name": "michiganfactsfoo0000bosl_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "michiganfactsfoo0000bosl_djvu.xml",
+        "mtime": "1670665012",
+        "size": "525",
+        "md5": "9f278c2499178299e923f9615afb3e4a",
+        "crc32": "b9bb5b71",
+        "sha1": "70932b9f3e96f8c21590ca0dd5c13a67b4e6e2b7",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1757059792,
+    "item_size": 265853774,
+    "metadata": {
+      "identifier": "michiganfactsfoo0000bosl",
+      "boxid": "IA1815622",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Bosley, Judith",
+      "date": "1995-01-01",
+      "description": [
+        "83 p. ; 22 cm",
+        "Includes index"
+      ],
+      "isbn": "0930809181",
+      "language": "eng",
+      "lccn": "96227570",
+      "mediatype": "texts",
+      "old_pallet": "IA18129",
+      "openlibrary_edition": "OL627180M",
+      "openlibrary_work": "OL2580534W",
+      "operator": "associate-christyll-aton@archive.org",
+      "ppi": "300",
+      "publisher": "Mt. Pleasant, MI : PGI Book Pub.",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station47.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "0930809181",
+      "subject": [
+        "Cooking, American",
+        "Cookery -- Michigan",
+        "Michigan -- History -- Miscellanea",
+        "Michigan -- Description and travel -- Miscellanea"
+      ],
+      "title": "Michigan facts, food & fun!",
+      "tts_version": "3.6-initial-119-gda8d7dc",
+      "uploader": "station47.cebu@archive.org",
+      "publicdate": "2020-06-03 05:50:26",
+      "access-restricted-item": "true",
+      "imagecount": "94",
+      "scandate": "20200603064347",
+      "republisher_operator": "associate-carlagane-sarajena@archive.org",
+      "republisher_date": "20200618083359",
+      "republisher_time": "220",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/michiganfactsfoo0000bosl",
+      "identifier-ark": "ark:/13960/t0fv7f22b",
+      "external-identifier": [
+        "urn:acs6:michiganfactsfoo0000bosl:epub:7bf52433-9cdf-4402-97c1-32f8fc4ba43d",
+        "urn:acs6:michiganfactsfoo0000bosl:pdf:c943621c-ea30-4abf-96f8-027653ca2282",
+        "urn:oclc:record:1176310786",
+        "urn:lcp:michiganfactsfoo0000bosl:lcpdf:10a77527-3a89-4187-b77e-15bad69f8ba9",
+        "urn:lcp:michiganfactsfoo0000bosl:epub:b9e17137-f78e-41bd-b68f-dc2461565c4e"
+      ],
+      "page_number_confidence": "91",
+      "addeddate": "2020-06-18 02:02:47",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20200630",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia803208.us.archive.org",
+    "uniq": 1229779640,
+    "workable_servers": [
+      "ia803208.us.archive.org",
+      "ia903208.us.archive.org"
+    ]
+  },
+  "institution": "Bosley, Judith",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

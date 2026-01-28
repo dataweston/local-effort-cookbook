@@ -1,0 +1,568 @@
+{
+  "source": "internet_archive",
+  "identifier": "tasteofhomescont00tast",
+  "title": "Taste of home's contest winning annual recipes 2005",
+  "creator": "Taste of Home Books",
+  "year": 2005,
+  "subject": "Cooking, American",
+  "description": "Includes indexes",
+  "metadata": {
+    "created": 1758558043,
+    "d1": "ia600205.us.archive.org",
+    "d2": "ia800205.us.archive.org",
+    "dir": "/21/items/tasteofhomescont00tast",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661145601",
+        "size": "24411",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "48468864f235ccb55a5e726f33ab5fbb",
+        "crc32": "0a3e380f",
+        "sha1": "176830e6f202dd0a041350afc68c5bab54597205"
+      },
+      {
+        "name": "logs/tasteofhomescont00tast_iabdash_2017-12-01180906.log",
+        "source": "original",
+        "mtime": "1512122950",
+        "size": "358",
+        "md5": "04e2fad529e1f8a73ee94c1515d76db4",
+        "crc32": "ec412483",
+        "sha1": "b8fcd537cc0c866ba56364c21fc20bc73e17c989",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/tasteofhomescont00tast_scanning_2017-12-01180859.log",
+        "source": "original",
+        "mtime": "1512122945",
+        "size": "296934",
+        "md5": "dd7ea09e6a4c5546e974ae04fbfdf477",
+        "crc32": "99aabb39",
+        "sha1": "6d3e95988b0c44977f4f449c59632136d8823831",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescont00tast.cdx.gz",
+        "source": "original",
+        "mtime": "1517307828",
+        "size": "6835",
+        "format": "Item CDX Index",
+        "private": "true",
+        "md5": "a3da3a7b514397f10965b5e0d2c06115",
+        "crc32": "f70b8387",
+        "sha1": "910c1ab4cfbb83d069bb800f58efaa5c4387dd0b"
+      },
+      {
+        "name": "tasteofhomescont00tast.cdx.idx",
+        "source": "original",
+        "mtime": "1517307828",
+        "size": "38",
+        "format": "Item CDX Meta-Index",
+        "private": "true",
+        "md5": "029562da6d596e3fcd35afc14acef80c",
+        "crc32": "9c1e1b0e",
+        "sha1": "df1fd10885448301d040d19b955308033d0ab44e"
+      },
+      {
+        "name": "tasteofhomescont00tast.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "tasteofhomescont00tast_hocr.html",
+        "mtime": "1754102477",
+        "size": "125633072",
+        "private": "true",
+        "md5": "7668df7291c7d8496468a29087086e63",
+        "crc32": "c8fec7a9",
+        "sha1": "a8d8b6868ad70377c623a0a0331236480c7ce090"
+      },
+      {
+        "name": "tasteofhomescont00tast.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "tasteofhomescont00tast.pdf",
+        "mtime": "1754102031",
+        "size": "35977956",
+        "md5": "3c40d26940db1e75d1a36d4b1c695cda",
+        "crc32": "ff3010d8",
+        "sha1": "29f63976fec2de90e2682d11d2c58250835f80a8"
+      },
+      {
+        "name": "tasteofhomescont00tast.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "tasteofhomescont00tast_page_numbers.json",
+        "mtime": "1724928473",
+        "size": "35464294",
+        "md5": "e8cead725985fc543e2ff0dba4ad6697",
+        "crc32": "524cad4e",
+        "sha1": "5ad275bc9e0313edd0e42c47ab87f47036df96af",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescont00tast.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1350675987",
+        "size": "574568",
+        "md5": "9c68c2208b11ea2dc3bfcc21edbd97b3",
+        "crc32": "7c168023",
+        "sha1": "7c3a865bff9767ce84e769b1b6d5e1fe8c4ed4d5"
+      },
+      {
+        "name": "tasteofhomescont00tast.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "tasteofhomescont00tast.warc.gz",
+        "mtime": "1517297446",
+        "size": "6980",
+        "md5": "0197f83bf63329f23599d2b970f92a70",
+        "crc32": "b4d9e2df",
+        "sha1": "e731826e3c631e203ca00f2bd4baa0122f09c168",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescont00tast_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "tasteofhomescont00tast_jp2.zip",
+        "mtime": "1517305467",
+        "size": "7904446",
+        "md5": "5b8e31189c72d6de343a33818f99cba8",
+        "crc32": "c34f0fea",
+        "sha1": "56160cb762acfe90574330a97228819b5fb2fd6a",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescont00tast_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "tasteofhomescont00tast_abbyy.gz",
+        "mtime": "1661145085",
+        "size": "6491177",
+        "md5": "6551d790c6f08547a9d2faa933ce5a2e",
+        "crc32": "30a90cbc",
+        "sha1": "05262b44e4d95c3aff20db357f04c06ee6185a64",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescont00tast_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "tasteofhomescont00tast_scandata.xml",
+        "mtime": "1671415968",
+        "size": "780",
+        "md5": "6f40757f9cbb14939596f3d88f82519e",
+        "crc32": "43aa1240",
+        "sha1": "628c9f42f5cb78fbdeabb36c7ddda0585659a694",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescont00tast_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1517297372",
+        "size": "1100",
+        "md5": "339575c5bf63fdc9be52e11b7ff7a83a",
+        "crc32": "a243d54e",
+        "sha1": "99bf05d542efb8d0ed958cfe938e009774e9cac2"
+      },
+      {
+        "name": "tasteofhomescont00tast_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "tasteofhomescont00tast_djvu.xml",
+        "mtime": "1661145587",
+        "size": "575494",
+        "md5": "a7dd67177b37e920b2925d2132c39c82",
+        "crc32": "68eeb44d",
+        "sha1": "2e953af38d7bf140ee46ab193fec53ccd0505e92",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescont00tast_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "tasteofhomescont00tast_hocr.html",
+        "mtime": "1661145315",
+        "size": "6905791",
+        "md5": "bce07a6f946e4e811edceb1538d8ccb6",
+        "crc32": "e1947e92",
+        "sha1": "07b946027370c119270ea3987b0d887ef9da6915",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescont00tast_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "tasteofhomescont00tast_abbyy.gz",
+        "mtime": "1529155686",
+        "size": "20571598",
+        "md5": "33b9f2e91a4f68165e47e3b8c2a2a835",
+        "crc32": "7ef986b0",
+        "sha1": "01bd5b05a24619a2c762b05dc11eaabd5fe0b02c"
+      },
+      {
+        "name": "tasteofhomescont00tast_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "tasteofhomescont00tast.pdf",
+        "mtime": "1724929374",
+        "size": "35246233",
+        "md5": "335b7ab98660b6bbeed02a001c81a69b",
+        "crc32": "90790ca2",
+        "sha1": "8b3118ec854e3159fbfc436fecb41f769dd384b7"
+      },
+      {
+        "name": "tasteofhomescont00tast_events.json",
+        "source": "original",
+        "mtime": "1517296953",
+        "size": "103",
+        "format": "JSON",
+        "private": "true",
+        "md5": "29c2fb28b1427070540ef0a227ca6b36",
+        "crc32": "54dd54e1",
+        "sha1": "4f2c65ef04c585ae1b300766776107e502923a12"
+      },
+      {
+        "name": "tasteofhomescont00tast_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "d07acb716df463a996e7224d7b411d83",
+        "summation": "md5"
+      },
+      {
+        "name": "tasteofhomescont00tast_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "tasteofhomescont00tast_chocr.html.gz",
+        "mtime": "1661145260",
+        "size": "14461843",
+        "md5": "9a91933dae18214cac365f6ef80c6845",
+        "crc32": "9add0079",
+        "sha1": "2cff9267bf7b93055386c045c10e11636908fb5a",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescont00tast_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "tasteofhomescont00tast_hocr.html",
+        "mtime": "1661145463",
+        "size": "3016",
+        "md5": "e8b5f5fa4c708d88a985d6310d9a720c",
+        "crc32": "7d5fe801",
+        "sha1": "40f3dba66ce2b5520ebed0b05224295553d016e5",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescont00tast_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1667",
+        "word_conf_11_20": "754",
+        "word_conf_21_30": "1118",
+        "word_conf_31_40": "1719",
+        "word_conf_41_50": "2917",
+        "word_conf_51_60": "4833",
+        "word_conf_61_70": "8000",
+        "word_conf_71_80": "12662",
+        "word_conf_81_90": "17863",
+        "word_conf_91_100": "31828",
+        "format": "OCR Search Text",
+        "original": "tasteofhomescont00tast_hocr.html",
+        "mtime": "1661145547",
+        "size": "149409",
+        "md5": "464bc25ecf94d38ad4b5cbb2ab3ff144",
+        "crc32": "6413b1aa",
+        "sha1": "6b1253aadf87a2cc3fa79bebe96fa3dec9e975cb",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescont00tast_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "tasteofhomescont00tast_orig_jp2.tar",
+        "mtime": "1517303115",
+        "size": "206853119",
+        "md5": "a81dd45c051dc2bd78c822fd4f440118",
+        "crc32": "8f49cc9f",
+        "sha1": "d5f8f36f640e292bdb6e98dcccc0f92c1a60e4a4",
+        "private": "true",
+        "filecount": "250"
+      },
+      {
+        "name": "tasteofhomescont00tast_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "tasteofhomescont00tast.epub",
+        "mtime": "1754102676",
+        "size": "125824088",
+        "md5": "28719c178dd58a65bb714a9ae3db3236",
+        "crc32": "2af043ad",
+        "sha1": "055a190027f45d730acc3a69a974ff622a52d26f"
+      },
+      {
+        "name": "tasteofhomescont00tast_loans.json",
+        "source": "original",
+        "mtime": "1594527027",
+        "size": "9110",
+        "format": "JSON",
+        "private": "true",
+        "md5": "68b82e1f8a7aad6318d865792f1be6dd",
+        "crc32": "af949618",
+        "sha1": "b23f49968f4e7e5fd9bbf0bbdcdf2032c23c8360"
+      },
+      {
+        "name": "tasteofhomescont00tast_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1517297368",
+        "size": "3437",
+        "md5": "88cd3ab6d02e0f7c90dbc5f2dd276a3d",
+        "crc32": "82dfe5a5",
+        "sha1": "ef4ba6890edc0ec445f65f12f3c00d545bddd22d"
+      },
+      {
+        "name": "tasteofhomescont00tast_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "tasteofhomescont00tast_xisbn.json",
+        "mtime": "1517297448",
+        "size": "142",
+        "md5": "8ef7778a7c7f17050ebcc97a7318556d",
+        "crc32": "47f63a68",
+        "sha1": "2513a7c395e8e4c53f8022c9846d789008cbd497",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescont00tast_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1455259897",
+        "size": "1020",
+        "md5": "751e3115236752d707a849933de27956",
+        "crc32": "f1199a19",
+        "sha1": "cc65a1c73c036b9a8335613d81727acfccaaa1d2"
+      },
+      {
+        "name": "tasteofhomescont00tast_meta.sqlite",
+        "source": "original",
+        "mtime": "1517297073",
+        "size": "39936",
+        "format": "Metadata",
+        "md5": "8f4daa5e6bcf036a30bb68c9b5896adc",
+        "crc32": "a2a80411",
+        "sha1": "17551a6de7edcb53e6adeb34605be780e239f9c9"
+      },
+      {
+        "name": "tasteofhomescont00tast_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1754102677",
+        "size": "2944",
+        "md5": "e753a6f3ae614518e18d4950e68f4951",
+        "crc32": "6127acfe",
+        "sha1": "9151bd4b4ad9a6f2f8126eb4836c9032e1a3f204"
+      },
+      {
+        "name": "tasteofhomescont00tast_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1350675987",
+        "size": "301",
+        "md5": "ee2380f4325b07046cba595d412c28b4",
+        "crc32": "01c03b1c",
+        "sha1": "f1778949528a103f03b68563b42bfd40f24c0cce"
+      },
+      {
+        "name": "tasteofhomescont00tast_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1517297071",
+        "size": "563476480",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "a498c535a3105ef20f8b28a2d5cb823e",
+        "crc32": "4f46b265",
+        "sha1": "cf345d8f0fbb891175d8937a2ef9693ee222e066",
+        "filecount": "250"
+      },
+      {
+        "name": "tasteofhomescont00tast_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "98",
+        "format": "Page Numbers JSON",
+        "original": "tasteofhomescont00tast_hocr.html",
+        "mtime": "1724928444",
+        "size": "42196",
+        "md5": "3aae035eb5b4812603ab67e32336a22f",
+        "crc32": "f9a746a6",
+        "sha1": "873f19562aeb63fc58348d6b4a90677fc4630416",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescont00tast_scandata.xml",
+        "source": "original",
+        "mtime": "1671415968",
+        "size": "256206",
+        "format": "Scandata",
+        "md5": "0766a908c38acbd763810a1e6ddea69f",
+        "crc32": "16b708b0",
+        "sha1": "fc79067d46cb92baf93cd37b7fcc66200a4bb515"
+      },
+      {
+        "name": "tasteofhomescont00tast_xisbn.json",
+        "source": "original",
+        "mtime": "1455112131",
+        "size": "334",
+        "md5": "356526bb2854b6d2304e86ddb223139d",
+        "crc32": "fd3a78cf",
+        "sha1": "01efac052f4fe550e0564bdc8a64cb989dbdc489",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 36,
+    "item_last_updated": 1754102677,
+    "item_size": 1186805749,
+    "metadata": {
+      "isbn": [
+        "0898214440",
+        "9780898214444",
+        "0898214076",
+        "9780898214079"
+      ],
+      "title": "Taste of home's contest winning annual recipes 2005",
+      "creator": "Taste of Home Books",
+      "publisher": "Greendale, WI : Taste of Home Books",
+      "date": "2005-01-01",
+      "external-identifier": [
+        "urn:asin:0898214440",
+        "urn:acs6:tasteofhomescont00tast:pdf:40475d2c-a693-4e99-8c78-3fbb9bcbadd0",
+        "urn:acs6:tasteofhomescont00tast:epub:c1f5b4f9-8be1-4857-9550-7d91b148e164",
+        "urn:oclc:record:1151346979",
+        "urn:lcp:tasteofhomescont00tast:lcpdf:8715abe0-781f-4865-bb7e-8601647e0fd0",
+        "urn:lcp:tasteofhomescont00tast:epub:e840dfde-045e-40a7-854e-270f493a1bc7"
+      ],
+      "updatedate": "2012-10-19 19:46:25",
+      "updater": "associate-lotu-tii@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA1163915",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "hongkong",
+      "identifier": "tasteofhomescont00tast",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2012-10-19 19:46:29",
+      "publicdate": "2012-10-19 19:46:32",
+      "donor": "alibris",
+      "description": "Includes indexes",
+      "identifier-access": "http://archive.org/details/tasteofhomescont00tast",
+      "identifier-ark": "ark:/13960/t7tn1cc50",
+      "city": "Greendale, WI",
+      "oclc-id": "61116532",
+      "repub_state": "22",
+      "backup_location": "ia903909_24",
+      "scanner": "ttscribe17.hongkong.archive.org",
+      "operator": "associate-chuiyuk-cheung@archive.org",
+      "tts_version": "v1.54-12-g6b48a9c",
+      "imagecount": "250",
+      "scandate": "20171201114335",
+      "subject": "Cooking, American",
+      "ppi": "300",
+      "republisher_operator": "associate-liangyanting@archive.org;associate-liziqing@archive.org",
+      "republisher_date": "20180130151503",
+      "republisher_time": "1728",
+      "foldoutcount": "0",
+      "scanfee": "15",
+      "invoice": "1213",
+      "openlibrary_edition": "OL8269052M",
+      "openlibrary_work": "OL17834859W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "98",
+      "filesxml": "Wed Apr 3 14:48:38 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800205.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40088006"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 12:18:50.629574"
+        }
+      }
+    },
+    "uniq": 948401033,
+    "workable_servers": [
+      "ia800205.us.archive.org",
+      "ia600205.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/61116532?referer=xid"
+          ],
+          "publisher": "Taste of Home Books",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Greendale, WI",
+          "author": "[editor, Heidi Reuter Lloyd].",
+          "year": "2005",
+          "isbn": [
+            "0898214440"
+          ],
+          "title": "Taste of home's contest winning annual recipes 2005",
+          "oclcnum": [
+            "61116532"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Taste of Home Books",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

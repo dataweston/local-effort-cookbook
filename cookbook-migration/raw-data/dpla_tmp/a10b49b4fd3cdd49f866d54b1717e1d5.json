@@ -1,0 +1,97 @@
+{
+  "source": "dpla",
+  "id": "a10b49b4fd3cdd49f866d54b1717e1d5",
+  "identifier": "a10b49b4fd3cdd49f866d54b1717e1d5",
+  "title": "Let's Eat!",
+  "subject": [],
+  "spatial": [
+    "Port Arthur, Jefferson County, Texas"
+  ],
+  "description": "A cookbook of recipes published to raise funds to support the Service League of Port Arthur's ''Sunnyside School.''",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/265",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "year": 1953,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/a10b49b4fd3cdd49f866d54b1717e1d5#SourceResource",
+      "collection": [
+        {
+          "title": "DeGolyer Library Cookbook Collection"
+        }
+      ],
+      "creator": [
+        "Service League (Port Arthur, Tex.)"
+      ],
+      "date": [
+        {
+          "begin": "1953",
+          "displayDate": "1953",
+          "end": "1953"
+        }
+      ],
+      "description": [
+        "A cookbook of recipes published to raise funds to support the Service League of Port Arthur's ''Sunnyside School.''"
+      ],
+      "identifier": [
+        "TX715 .L47 1953"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "DeGolyer Library"
+      ],
+      "rights": [
+        "This item may be protected by copyright law. Please cite DeGolyer Library, Southern Methodist University as the source of this file. For more information, contact degolyer@smu.edu."
+      ],
+      "spatial": [
+        {
+          "name": "Port Arthur, Jefferson County, Texas"
+        }
+      ],
+      "title": [
+        "Let's Eat!"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1953-01-01",
+      "normalized_dates": [
+        "1953-01-01"
+      ],
+      "date_range": {
+        "begin": "1953-01-01",
+        "end": "1953-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/265",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/265"
+  },
+  "location": {
+    "state": "Wi",
+    "county": "Jefferson County"
+  },
+  "curation": {
+    "score": 9,
+    "has_digital_assets": true,
+    "matched_community": [
+      "School",
+      "Methodist"
+    ]
+  },
+  "curation_notes": "County match: Jefferson County; Community markers: School, Methodist; Digitized scan available"
+}

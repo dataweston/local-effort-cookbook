@@ -1,0 +1,95 @@
+{
+  "source": "dpla",
+  "id": "695e28e6796d77caed352d3cb171b1e4",
+  "identifier": "695e28e6796d77caed352d3cb171b1e4",
+  "title": "Dainty luncheons: how to prepare them",
+  "subject": [],
+  "spatial": [
+    "Osage, Mitchell County, Iowa"
+  ],
+  "description": "Cookbook with several menus for luncheons.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/106",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "year": 1900,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/695e28e6796d77caed352d3cb171b1e4#SourceResource",
+      "collection": [
+        {
+          "title": "DeGolyer Library Cookbook Collection"
+        }
+      ],
+      "creator": [
+        "Woolverton Printing & Publishing Co"
+      ],
+      "date": [
+        {
+          "begin": "1900",
+          "displayDate": "1900",
+          "end": "1900"
+        }
+      ],
+      "description": [
+        "Cookbook with several menus for luncheons."
+      ],
+      "identifier": [
+        "TX735 .D35 1900"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "DeGolyer Library"
+      ],
+      "rights": [
+        "Please cite DeGolyer Library, Southern Methodist University as the source of this file. A high-resolution version of this file may be obtained for a fee. For details, see the https://www.smu.edu/libraries/degolyer/using/images web page. For more information, contact degolyer@smu.edu."
+      ],
+      "spatial": [
+        {
+          "name": "Osage, Mitchell County, Iowa"
+        }
+      ],
+      "title": [
+        "Dainty luncheons: how to prepare them"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1900-01-01",
+      "normalized_dates": [
+        "1900-01-01"
+      ],
+      "date_range": {
+        "begin": "1900-01-01",
+        "end": "1900-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/106",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/106"
+  },
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Methodist"
+    ]
+  },
+  "curation_notes": "State match: Iowa; Community markers: Methodist; Digitized scan available"
+}

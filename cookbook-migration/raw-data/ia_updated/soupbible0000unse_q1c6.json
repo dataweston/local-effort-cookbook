@@ -1,0 +1,500 @@
+{
+  "source": "internet_archive",
+  "identifier": "soupbible0000unse_q1c6",
+  "title": "Soup bible",
+  "creator": null,
+  "year": 2013,
+  "subject": [
+    "Cookery",
+    "Soups"
+  ],
+  "description": [
+    "255 pages : 24 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720006.ca.archive.org",
+          "dir": "/0/items/soupbible0000unse_q1c6"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720006.ca.archive.org",
+          "dir": "/0/items/soupbible0000unse_q1c6"
+        }
+      ]
+    },
+    "created": 1758557205,
+    "d1": "ia904605.us.archive.org",
+    "d2": "ia804605.us.archive.org",
+    "dir": "/21/items/soupbible0000unse_q1c6",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661113753",
+        "size": "19979",
+        "md5": "a94b1c1f74596effda3238ca6b7fcfa2",
+        "crc32": "63b8d89a",
+        "sha1": "9705a1c83e3d14d326c2a93af38f9bc3266a7ea9",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/soupbible0000unse_q1c6_iabdash_2022-02-0319:23:26.log",
+        "source": "original",
+        "mtime": "1643887409",
+        "size": "672",
+        "md5": "858a2f6a508e9ab60c753ae48d2d138e",
+        "crc32": "f8c9b5cf",
+        "sha1": "294faccd4b2399e46cdde3c64a69cc4464879291",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/soupbible0000unse_q1c6_scanning_2022-02-0319:23:34.log",
+        "source": "original",
+        "mtime": "1643887417",
+        "size": "937055",
+        "md5": "19cd825f40149724ecbe2c41152dc7a6",
+        "crc32": "1cb94266",
+        "sha1": "f1a107a566c064ba966285dd006da89a2f7a6b0d",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/soupbible0000unse_q1c6_status_history_2022-02-0319:23:30.log",
+        "source": "original",
+        "mtime": "1643887413",
+        "size": "406",
+        "md5": "a7147dca6bda257c6324c2fbb7bc73b1",
+        "crc32": "07d33ad4",
+        "sha1": "738e2d4ecbb597c04a6688af7728a7909bb59c76",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "soupbible0000unse_q1c6.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "soupbible0000unse_q1c6_hocr.html",
+        "mtime": "1754070426",
+        "size": "1588323",
+        "private": "true",
+        "md5": "9d043d4c2b66b5dcacb9032d30d3fb54",
+        "crc32": "c98cb186",
+        "sha1": "5bb9f4dc51a43b5f91b09edd8e4e7b918d7d17fd"
+      },
+      {
+        "name": "soupbible0000unse_q1c6.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "soupbible0000unse_q1c6.pdf",
+        "mtime": "1754070233",
+        "size": "22928628",
+        "md5": "2dcd447869e42c03c4eaaa235703ccbf",
+        "crc32": "e9865344",
+        "sha1": "565996f4281214b2d507efee050e9a04cfcb47e3"
+      },
+      {
+        "name": "soupbible0000unse_q1c6.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "soupbible0000unse_q1c6_page_numbers.json",
+        "mtime": "1724110735",
+        "size": "22397656",
+        "md5": "fb190f5f0f1700e3cc017efc9bbcced5",
+        "crc32": "3150d1a6",
+        "sha1": "0e8209845298f2cd3ad34dfa6dba0bd3db168d6a",
+        "private": "true"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-1-g862e",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.15",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "soupbible0000unse_q1c6_jp2.zip",
+        "mtime": "1645008520",
+        "size": "2914784",
+        "md5": "73dacae8eae77525edbe7c9b9d3a1bb2",
+        "crc32": "f0231568",
+        "sha1": "0b029ab504b14039d21fc63ebf78fdc1fee07ae1",
+        "private": "true"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "soupbible0000unse_q1c6_scandata.xml",
+        "mtime": "1671327569",
+        "size": "780",
+        "md5": "aeda5d328b6d03dd69a0e07eebc1f30a",
+        "crc32": "6d44f191",
+        "sha1": "b59f476835f309039bc9271d9399a2a46ff183a4",
+        "private": "true"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1645000140",
+        "size": "673",
+        "md5": "71ef9f2ed50fb18bcee4b2ab668607df",
+        "crc32": "2cc5141f",
+        "sha1": "5b032ce8302c014633382367271919ec6731e9c0"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "soupbible0000unse_q1c6_djvu.xml",
+        "mtime": "1645008770",
+        "size": "208072",
+        "md5": "46355f3c98d9964afda567fea2b3c6d3",
+        "crc32": "a21785c2",
+        "sha1": "4507cd2c2005ad861210bde1983b632b64fed38d",
+        "private": "true"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "soupbible0000unse_q1c6_hocr.html",
+        "mtime": "1645008650",
+        "size": "2989394",
+        "md5": "0f77dab25f0b09c4305cd3dfed19daca",
+        "crc32": "dde31189",
+        "sha1": "8fb2fc77b4bbb1560da1c0a10b3fa58b8e287464",
+        "private": "true"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "soupbible0000unse_q1c6.pdf",
+        "mtime": "1724111286",
+        "size": "22331371",
+        "md5": "f7ac25a2243de40949ec7fdbc2d33f77",
+        "crc32": "43f7f525",
+        "sha1": "1e379547e328f7adb447eb37f01c2ce58ddddb35"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_events.json",
+        "source": "original",
+        "mtime": "1644999856",
+        "size": "56",
+        "md5": "9cd2ec21ff5341d3e99c89c9d8ce4a92",
+        "crc32": "ce61ca95",
+        "sha1": "6c55c79b8b085f61ed5bc38d8caac8032d96869b",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "98205ba94852536108eb6aa5a516a4f0",
+        "summation": "md5"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.15",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "soupbible0000unse_q1c6_chocr.html.gz",
+        "mtime": "1645008621",
+        "size": "5773532",
+        "md5": "31435bb29efd4b5f08670bbd5526ba8b",
+        "crc32": "248d58fa",
+        "sha1": "8e494d355f0695ecbe67e733003d5326d4ce9148",
+        "private": "true"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "soupbible0000unse_q1c6_hocr.html",
+        "mtime": "1645008680",
+        "size": "2954",
+        "md5": "2a9b88d5ab6f101e3a8ac58795e539cd",
+        "crc32": "13d95821",
+        "sha1": "ce321e598571e409b8ea5577af4eedd59e7a74a4",
+        "private": "true"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "699",
+        "word_conf_11_20": "432",
+        "word_conf_21_30": "455",
+        "word_conf_31_40": "427",
+        "word_conf_41_50": "327",
+        "word_conf_51_60": "284",
+        "word_conf_61_70": "394",
+        "word_conf_71_80": "562",
+        "word_conf_81_90": "1465",
+        "word_conf_91_100": "29537",
+        "format": "OCR Search Text",
+        "original": "soupbible0000unse_q1c6_hocr.html",
+        "mtime": "1645008750",
+        "size": "56196",
+        "md5": "3c9f6d6367115776fc2c311e61826328",
+        "crc32": "7a99d177",
+        "sha1": "80752d9c88bbee04067442685c16fca36fe8a03d",
+        "private": "true"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "soupbible0000unse_q1c6_orig_jp2.tar",
+        "mtime": "1645006270",
+        "size": "212545043",
+        "md5": "7ddebdd80fa94b1ce2af46cf00891b7a",
+        "crc32": "76712c2c",
+        "sha1": "4f23e3147ec35c645edc35a3481a77fd0f8c1e98",
+        "private": "true",
+        "filecount": "266"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "soupbible0000unse_q1c6.epub",
+        "mtime": "1754070575",
+        "size": "1604008",
+        "md5": "aa651a19e43116f24b153b48440e08dc",
+        "crc32": "120b5d4f",
+        "sha1": "4df79dfba60f96dfe55a361c5d9baa2de8ed0e6a"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_marc.xml",
+        "source": "original",
+        "mtime": "1643887401",
+        "size": "2873",
+        "md5": "50887f17203902ef3d7db74d016ae063",
+        "crc32": "be70aedb",
+        "sha1": "a03d5a591b28a43da4fb568c973b6c2413b61e72",
+        "format": "MARC"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_meta.mrc",
+        "source": "original",
+        "mtime": "1643887397",
+        "size": "812",
+        "md5": "a3cb1a502681a9001f805d8e4a528d80",
+        "crc32": "eded34c4",
+        "sha1": "9f59f0bb0b3919428caddd9f9df867260e7cced3",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_meta.sqlite",
+        "source": "original",
+        "mtime": "1645000053",
+        "size": "40960",
+        "md5": "287f2bad37796befe482d9d21aff4bec",
+        "crc32": "f5d4e44a",
+        "sha1": "e1c79961f1fc5e729afee9718ee66b797769e090",
+        "format": "Metadata"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_meta.xml",
+        "source": "original",
+        "mtime": "1754070575",
+        "size": "3062",
+        "md5": "48a159de53b3a1f7f3c07723fc98920d",
+        "crc32": "ae57814f",
+        "sha1": "933657e5624ffe1f2fe951b8ad91a6156af61af0",
+        "format": "Metadata"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1645000051",
+        "size": "554178560",
+        "md5": "87a4d56d20428c54ae03bc02191839e4",
+        "crc32": "bb2195cf",
+        "sha1": "fc9242b038f003414a25dd096bbaa038118638bd",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "266"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "soupbible0000unse_q1c6_hocr.html",
+        "mtime": "1724110735",
+        "size": "44883",
+        "md5": "5ac1dce198a938ecc96dc801ab567ced",
+        "crc32": "736302be",
+        "sha1": "ce8328bad2ee4807e8a4e7579d9cb67f08d881b8",
+        "private": "true"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_scandata.xml",
+        "source": "original",
+        "mtime": "1671327569",
+        "size": "159894",
+        "md5": "64e00e29dec37ee147bad98488f418f4",
+        "crc32": "f7b4e1c5",
+        "sha1": "d4ba3cfa907963bfc990a48f1378e3d6749ebe63",
+        "format": "Scandata"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_slip.png",
+        "source": "original",
+        "mtime": "1643879970",
+        "size": "40250",
+        "md5": "cd874c4a7025177eae51ce81a28a68a1",
+        "crc32": "21cfa2f3",
+        "sha1": "33214b41435ebc4c7e10ec0639b8d84649cc3328",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "soupbible0000unse_q1c6_slip.png",
+        "mtime": "1645000144",
+        "size": "8338",
+        "md5": "fec4f63763074606f45a01304466a0d7",
+        "crc32": "e177695e",
+        "sha1": "90b4cb20e4dfe4a71d8e40561299c10c88ed29a6",
+        "private": "true"
+      },
+      {
+        "name": "soupbible0000unse_q1c6_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "soupbible0000unse_q1c6_djvu.xml",
+        "mtime": "1671327270",
+        "size": "740",
+        "md5": "2b2606c783632416a4579374df764dea",
+        "crc32": "a79ac6aa",
+        "sha1": "34ab72300e3c19177e8285c624f7f021c76eea67",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1754070575,
+    "item_size": 850779954,
+    "metadata": {
+      "identifier": "soupbible0000unse_q1c6",
+      "boxid": "IA40359707",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2013-01-01",
+      "description": [
+        "255 pages : 24 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "9781450875585",
+        "1450875580"
+      ],
+      "language": "eng",
+      "lccn": "2013937069",
+      "mediatype": "texts",
+      "old_pallet": "IA-NS-1300284",
+      "operator": "associate-rossbie-mondejar@archive.org",
+      "publisher": "Lincolnwood, IL : Publications International, Ltd.",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station12.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781450875585",
+      "subject": [
+        "Cookery",
+        "Soups"
+      ],
+      "title": "Soup bible",
+      "tts_version": "4.5-initial-80-gce32ee1e",
+      "uploader": "station12.cebu@archive.org",
+      "publicdate": "2022-02-03 09:19:40",
+      "access-restricted-item": "true",
+      "imagecount": "266",
+      "scandate": "20220203124121",
+      "ppi": "360",
+      "republisher_operator": "associate-radel-luchavez@archive.org",
+      "republisher_date": "20220216162004",
+      "republisher_time": "562",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/soupbible0000unse_q1c6",
+      "identifier-ark": "ark:/13960/s2crk1tt1w5",
+      "bookplateleaf": "0004",
+      "ocr": "tesseract 5.0.0-1-g862e",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.15",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "100",
+      "pdf_module_version": "0.0.18",
+      "external-identifier": [
+        "urn:acs6:soupbible0000unse_q1c6:pdf:52335efc-2a25-4611-a5e9-907ef8818ebe",
+        "urn:oclc:record:1302242797",
+        "urn:lcp:soupbible0000unse_q1c6:lcpdf:098eb7cb-dbfc-4496-b5fc-692f519ace67",
+        "urn:lcp:soupbible0000unse_q1c6:epub:738f83b9-746d-48e3-a287-40dd26094a78"
+      ],
+      "addeddate": "2022-02-16 12:11:37",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_edition": "OL37063726M",
+      "openlibrary_work": "OL27302884W",
+      "sponsordate": "20220228",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia804605.us.archive.org",
+    "uniq": 1609042839,
+    "workable_servers": [
+      "ia804605.us.archive.org",
+      "ia904605.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

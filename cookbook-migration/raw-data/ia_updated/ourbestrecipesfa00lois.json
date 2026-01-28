@@ -1,0 +1,580 @@
+{
+  "source": "internet_archive",
+  "identifier": "ourbestrecipesfa00lois",
+  "title": "Our best recipes",
+  "creator": "Lois White",
+  "year": 2007,
+  "subject": "Cooking",
+  "description": [
+    "Includes index",
+    "Express lane meals -- Slow & simple meals -- On the side -- Kid-pleasing foods -- Classics 101 -- Outdoor grilling -- So-easy baking -- Spectacular deserts -- Great gatherings"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/ourbestrecipesfa00lois"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/ourbestrecipesfa00lois"
+        }
+      ]
+    },
+    "created": 1758555923,
+    "d1": "ia600602.us.archive.org",
+    "d2": "ia800602.us.archive.org",
+    "dir": "/7/items/ourbestrecipesfa00lois",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660818310",
+        "size": "17720",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "65c0acfa6bc3e6a4dd84daae6d73106d",
+        "crc32": "2501a019",
+        "sha1": "7fa028cb1353a5b5228a8c8d810176c4e64e4dc9"
+      },
+      {
+        "name": "ourbestrecipesfa00lois.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "ourbestrecipesfa00lois_hocr.html",
+        "mtime": "1753721543",
+        "size": "44760084",
+        "private": "true",
+        "md5": "26314b01dde20028e054724ce0624135",
+        "crc32": "393fbfee",
+        "sha1": "ba2e8be4f94bec24b026057b3b2846af29275352"
+      },
+      {
+        "name": "ourbestrecipesfa00lois.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "ourbestrecipesfa00lois_jp2.zip",
+        "mtime": "1348254131",
+        "size": "212849",
+        "md5": "3e19bee5a88eff2b5f24e3d5e110b588",
+        "crc32": "ee048556",
+        "sha1": "69ee53d4151e584e776930a757db649b6241dcac"
+      },
+      {
+        "name": "ourbestrecipesfa00lois.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "ourbestrecipesfa00lois.pdf",
+        "mtime": "1753721074",
+        "size": "22596004",
+        "md5": "acf2d974ae02171f67080d87e33720d9",
+        "crc32": "00a52d0e",
+        "sha1": "58cfe1b554c433dab13185736001586d3c688d92"
+      },
+      {
+        "name": "ourbestrecipesfa00lois.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "ourbestrecipesfa00lois_page_numbers.json",
+        "mtime": "1718481702",
+        "size": "22345784",
+        "md5": "1da9efc53b0875c58a4a909f64fb7882",
+        "crc32": "508b8dda",
+        "sha1": "be00c195e070c15024f6d42295d6e1d87263f3a6",
+        "private": "true"
+      },
+      {
+        "name": "ourbestrecipesfa00lois.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1340208386",
+        "size": "446118",
+        "md5": "8a804edbc84e8461e2aaf0452bc4d3ec",
+        "crc32": "6929555b",
+        "sha1": "56791b39654f2ee7663ac8205f5d36812ddaa810"
+      },
+      {
+        "name": "ourbestrecipesfa00lois.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "ourbestrecipesfa00lois.warc.gz",
+        "mtime": "1348249058",
+        "size": "5876",
+        "md5": "72a56af0608a865dbe5097db8480fe8f",
+        "crc32": "19b80ce0",
+        "sha1": "dda0308226bf4a5201b05816d807367e6e0e9f45",
+        "private": "true"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "ourbestrecipesfa00lois_jp2.zip",
+        "mtime": "1348269052",
+        "size": "10350843",
+        "md5": "eb09be19265d38fbcc8b17c28ac32be0",
+        "crc32": "f54bbbbd",
+        "sha1": "a58cb77c60f308cba65e5a43376feaefaac92590",
+        "private": "true"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "ourbestrecipesfa00lois_abbyy.gz",
+        "mtime": "1660818028",
+        "size": "8478098",
+        "md5": "38788dc0fe002537f190fdc82f8729a2",
+        "crc32": "82efb2a0",
+        "sha1": "f12e28f0ee9b359df88e59ee2b75892e31373bb6",
+        "private": "true"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "ourbestrecipesfa00lois_scandata.xml",
+        "mtime": "1670819043",
+        "size": "781",
+        "md5": "9deeb81d89adad3cd3a030c2972fb78e",
+        "crc32": "5c84f439",
+        "sha1": "ec3f80b9ee01c0a07c9972f3a364cfb83db28fb4",
+        "private": "true"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1454706178",
+        "size": "889",
+        "md5": "039701dc8ede9e74a582a8d35b52c709",
+        "crc32": "45705f14",
+        "sha1": "9f41e9105d0948f0f445706c8393130431f02b31"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "ourbestrecipesfa00lois_djvu.xml",
+        "mtime": "1719397939",
+        "size": "787085",
+        "md5": "6854f5ee8f82fb09bac4c3f0ece6b9f5",
+        "crc32": "88733080",
+        "sha1": "a83b3f7254ea4d3f3168716cfdd23e6fd98e4631",
+        "private": "true"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "ourbestrecipesfa00lois_hocr.html",
+        "mtime": "1719397933",
+        "size": "9528433",
+        "md5": "2da210826fe5b830ee4fa34624f4d380",
+        "crc32": "3a291dc4",
+        "sha1": "5b3ffbc61a107de5168bdddf08adee2cf539c39f",
+        "private": "true"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "ourbestrecipesfa00lois.pdf",
+        "mtime": "1718482328",
+        "size": "22289582",
+        "md5": "da657a335dc65f14733947530241e22b",
+        "crc32": "406df4c8",
+        "sha1": "2d7ba8670dc24776b190e9586e399d0c2b4760f9"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "255ca7dfc1877af0895332d5234a1e32",
+        "summation": "md5"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "ourbestrecipesfa00lois_chocr.html.gz",
+        "mtime": "1660818159",
+        "size": "18699298",
+        "md5": "d2aa04c68035e997e84753810bc7552a",
+        "crc32": "87641dab",
+        "sha1": "6965573b4ca56f214675bc5100d3efc0f25023e0",
+        "private": "true"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "ourbestrecipesfa00lois_hocr.html",
+        "mtime": "1660818252",
+        "size": "4147",
+        "md5": "fcbe6d4cbbe63f8dbb74217f194f00e1",
+        "crc32": "1bb2d921",
+        "sha1": "1883581ff62ed75f24df83fab36c9fff9b4eba79",
+        "private": "true"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "6597",
+        "word_conf_11_20": "4451",
+        "word_conf_21_30": "9299",
+        "word_conf_31_40": "7062",
+        "word_conf_41_50": "15122",
+        "word_conf_51_60": "18981",
+        "word_conf_61_70": "23245",
+        "word_conf_71_80": "13635",
+        "word_conf_81_90": "4771",
+        "word_conf_91_100": "9006",
+        "format": "OCR Search Text",
+        "original": "ourbestrecipesfa00lois_hocr.html",
+        "mtime": "1660818291",
+        "size": "217297",
+        "md5": "af9163e80cdbfd6d24914648c7f56782",
+        "crc32": "7b96cde7",
+        "sha1": "e18ec366e92cfc7a3edfa8c21c988c8c2a9d1468",
+        "private": "true"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "ourbestrecipesfa00lois_orig_jp2.tar",
+        "mtime": "1348253271",
+        "size": "188017505",
+        "md5": "3a201a90c9084cc76a2f8c3e082c6ed4",
+        "crc32": "3079211b",
+        "sha1": "7c11f90100d6d32372deaaf503d9de9aac76fd7d",
+        "private": "true",
+        "filecount": "346"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "ourbestrecipesfa00lois.epub",
+        "mtime": "1753721798",
+        "size": "44945111",
+        "md5": "475a0282499c6d2fd815fcacdc385306",
+        "crc32": "96c5e78e",
+        "sha1": "99954ed7b6c1243efdbdd189df9ac2a13e5f61eb"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_loans.json",
+        "source": "original",
+        "mtime": "1594215499",
+        "size": "6152",
+        "format": "JSON",
+        "private": "true",
+        "md5": "677a34b6cd5b97c9145c9f12cc2de9a1",
+        "crc32": "7f6ecefa",
+        "sha1": "1a42872d47e5a1749925853fb12df6d87ad600a6"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1454706178",
+        "size": "4097",
+        "md5": "afc6100abe4a34f2a4b05bbb5fa0893f",
+        "crc32": "67f4ee60",
+        "sha1": "41417961aa439bf7a3218c611e5895c8e71f0f10"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "ourbestrecipesfa00lois_xisbn.json",
+        "mtime": "1454706180",
+        "size": "571",
+        "md5": "cd8e8b298b909533235d0c753ba5ba85",
+        "crc32": "43221b74",
+        "sha1": "c912b1cfb9793c7e9526082955add47bdbe3e49e",
+        "private": "true"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454706178",
+        "size": "1252",
+        "md5": "e2de139e93ce2e1cd12c6136c1f061bd",
+        "crc32": "a759e85e",
+        "sha1": "c5dd9f56088efabd380efacba50d672160e5364f"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_meta.sqlite",
+        "source": "original",
+        "mtime": "1467651273",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "85ef1741296dda5ff1b79e0e6a717144",
+        "crc32": "0a8bb9e8",
+        "sha1": "c6d2f7393b4110160f2fbf7aad80a73b62b567e2"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753721921",
+        "size": "3686",
+        "md5": "a7ca2e45bb289e9e53f5d8cf2e51391b",
+        "crc32": "886ee2d2",
+        "sha1": "60c250b963b5d508704b8a675f145467d5be7b53"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1340208386",
+        "size": "278",
+        "md5": "0d52404d7c6dabd24dd0e9153f0c2df2",
+        "crc32": "195ed178",
+        "sha1": "c39f8f895f7ccb2db96f95882e3d143ab42e04f3"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1347400487",
+        "size": "297318400",
+        "md5": "690f84595f769e212d2c7573dfc2bff0",
+        "crc32": "5e417098",
+        "sha1": "6da5c1ebcaa010493d8fca003263b9e8dc706f9c",
+        "private": "true",
+        "filecount": "346"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "75",
+        "format": "Page Numbers JSON",
+        "original": "ourbestrecipesfa00lois_hocr.html",
+        "mtime": "1718481686",
+        "size": "58867",
+        "md5": "a00f819d1335db8ae129e0ba75ed856d",
+        "crc32": "51782f8e",
+        "sha1": "0c0d1d1149a3a7e30557e041c02930900282ebbb",
+        "private": "true"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670819043",
+        "size": "454029",
+        "md5": "fed0cbbef44fc6876040162af2b99db3",
+        "crc32": "c59da00b",
+        "sha1": "43038dc225e4c054f89cd2bbe71ea8bd1247f338"
+      },
+      {
+        "name": "ourbestrecipesfa00lois_xisbn.json",
+        "source": "original",
+        "mtime": "1454667849",
+        "size": "850",
+        "md5": "c91c6025da9df80bf61b8ee0a9df8463",
+        "crc32": "1da2c072",
+        "sha1": "7012aec0ac89c51f29d875d1f5b65593ffe928dc",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753721921,
+    "item_size": 691557830,
+    "metadata": {
+      "isbn": [
+        "9780696238888",
+        "0696238888"
+      ],
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-06-20 16:06:10",
+      "updater": "associate-lotu-tii@archive.org",
+      "title": "Our best recipes",
+      "creator": "Lois White",
+      "publisher": "Des Moines, Iowa : Meredith Books",
+      "date": "2007-01-01",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "fsfpl",
+      "boxid": "IA156501",
+      "language": "eng",
+      "identifier": "ourbestrecipesfa00lois",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2012-06-20 16:06:29",
+      "publicdate": "2012-06-20 16:06:32",
+      "scanner": "scribe11.shenzhen.archive.org",
+      "repub_seconds": "770",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-mary@archive.org",
+      "scandate": "20120911144842",
+      "republisher": "scanner-shenzhen-lori@archive.org",
+      "imagecount": "346",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/ourbestrecipesfa00lois",
+      "identifier-ark": "ark:/13960/t3fx8hv1w",
+      "scanfee": "100",
+      "donor": "friendsofthesanfranciscopubliclibrary",
+      "sponsordate": "not to be invoiced-past billing period",
+      "subject": [
+        "Cooking",
+        "Cooking"
+      ],
+      "lccn": "2012288111",
+      "description": [
+        "Includes index",
+        "Express lane meals -- Slow & simple meals -- On the side -- Kid-pleasing foods -- Classics 101 -- Outdoor grilling -- So-easy baking -- Spectacular deserts -- Great gatherings"
+      ],
+      "city": "Des Moines, Iowa",
+      "oclc-id": "213355675",
+      "related-external-id": [
+        "urn:isbn:1696219817",
+        "urn:isbn:0696300044",
+        "urn:oclc:606613469",
+        "urn:isbn:0696219816",
+        "urn:lccn:2004556440",
+        "urn:oclc:56414133",
+        "urn:oclc:733712668"
+      ],
+      "backup_location": "ia903805_13",
+      "external-identifier": [
+        "urn:acs6:ourbestrecipesfa00lois:pdf:efcf36ab-73c1-4068-b668-ef645128bbf0",
+        "urn:acs6:ourbestrecipesfa00lois:epub:fe865781-07ee-4cc7-829e-ec51125213dc",
+        "urn:oclc:record:1036762391",
+        "urn:lcp:ourbestrecipesfa00lois:lcpdf:f728fdc4-d91d-4348-aa17-51f11dc6753f",
+        "urn:lcp:ourbestrecipesfa00lois:epub:d9a11022-32cb-4418-b421-5d92590351ee"
+      ],
+      "republisher_operator": "scanner-shenzhen-lori@archive.org",
+      "republisher_date": "20120911214206",
+      "openlibrary_edition": "OL26333429M",
+      "openlibrary_work": "OL17733430W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "75",
+      "filesxml": "Wed Apr 3 10:48:37 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800602.us.archive.org",
+    "uniq": 444350166,
+    "workable_servers": [
+      "ia800602.us.archive.org",
+      "ia600602.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/213355675?referer=xid"
+          ],
+          "publisher": "Meredith Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2012288111"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "year": "2007",
+          "isbn": [
+            "0696238888"
+          ],
+          "title": "Our best recipes.",
+          "oclcnum": [
+            "213355675"
+          ]
+        },
+        {
+          "isbn": [
+            "1696219817"
+          ]
+        },
+        {
+          "publisher": "Meredith Corporation",
+          "url": [
+            "http://www.worldcat.org/oclc/606613469?referer=xid"
+          ],
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "year": "2010",
+          "isbn": [
+            "0696300044"
+          ],
+          "title": "Our best recipes.",
+          "oclcnum": [
+            "606613469"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/56414133?referer=xid"
+          ],
+          "publisher": "Better Homes and Gardens Family Food Collection",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2004556440"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "year": "2003",
+          "isbn": [
+            "0696219816"
+          ],
+          "title": "Our best recipes.",
+          "oclcnum": [
+            "56414133",
+            "733712668"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Lois White",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

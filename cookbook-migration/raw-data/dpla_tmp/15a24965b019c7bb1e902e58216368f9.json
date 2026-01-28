@@ -1,0 +1,106 @@
+{
+  "source": "dpla",
+  "id": "15a24965b019c7bb1e902e58216368f9",
+  "identifier": "15a24965b019c7bb1e902e58216368f9",
+  "title": "Columbian cook book no. 2",
+  "subject": [
+    "Cooking, American",
+    "Cooking",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan",
+    "Ovid"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m55d8rg20",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1908,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/15a24965b019c7bb1e902e58216368f9#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "contributor": [
+        "First Congregational Church (Ovid, Mich.). Ladies' Aid Society"
+      ],
+      "date": [
+        {
+          "begin": "1908",
+          "displayDate": "1908",
+          "end": "1908"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Ovid"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "Columbian cook book no. 2"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1908-01-01",
+      "normalized_dates": [
+        "1908-01-01"
+      ],
+      "date_range": {
+        "begin": "1908-01-01",
+        "end": "1908-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m55d8rg20/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m55d8rg20"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Ladies' Aid"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church, Ladies' Aid; Digitized scan available"
+}

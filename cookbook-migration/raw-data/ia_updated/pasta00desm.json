@@ -1,0 +1,528 @@
+{
+  "source": "internet_archive",
+  "identifier": "pasta00desm",
+  "title": "Pasta",
+  "creator": "Meredith Corporation",
+  "year": 1983,
+  "subject": "Cookery (Pasta)",
+  "description": [
+    "Includes index",
+    "At head of title: Better homes and gardens"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/pasta00desm"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/pasta00desm"
+        }
+      ]
+    },
+    "created": 1758556672,
+    "d1": "ia601307.us.archive.org",
+    "d2": "ia801307.us.archive.org",
+    "dir": "/32/items/pasta00desm",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660867330",
+        "size": "23749",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "79bf98801e9a04c0b5724634ea8fad73",
+        "crc32": "5ff568f4",
+        "sha1": "7cc4fa7ad8e23da259678bdbd178a7aa0e685b6c"
+      },
+      {
+        "name": "pasta00desm.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "pasta00desm_hocr.html",
+        "mtime": "1753731186",
+        "size": "8157336",
+        "private": "true",
+        "md5": "f987406b2131befca487c5da93dd4b3d",
+        "crc32": "e7f05b2b",
+        "sha1": "b76cddc2f291b5ad7b90ce6818c8fef789eb4a8f"
+      },
+      {
+        "name": "pasta00desm.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "pasta00desm_jp2.zip",
+        "md5": "48e1f1213fcb1ff76df793e876b7b266",
+        "mtime": "1259863917",
+        "size": "257599",
+        "crc32": "86d3813",
+        "sha1": "efef9feafa399b9757649daf00d52247be93f5c7"
+      },
+      {
+        "name": "pasta00desm.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "pasta00desm.pdf",
+        "mtime": "1753731161",
+        "size": "5746322",
+        "md5": "57e8233bd1a8fd41d3013586eaa12dae",
+        "crc32": "0b3c73f5",
+        "sha1": "c40de09a6df5ec30952d00263cf3932794dfc064"
+      },
+      {
+        "name": "pasta00desm.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "pasta00desm_page_numbers.json",
+        "mtime": "1718642101",
+        "size": "5462499",
+        "md5": "52f9a1ceb98800c004278ace949cfc4f",
+        "crc32": "e9490797",
+        "sha1": "44bb8d8e20b1318f3aa76647658aa204482098e2",
+        "private": "true"
+      },
+      {
+        "name": "pasta00desm_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "pasta00desm_jp2.zip",
+        "md5": "cfe67ed904ffee4ccd34fe77151af76b",
+        "mtime": "1259867632",
+        "size": "3163531",
+        "crc32": "11cb5be1",
+        "sha1": "1f55b346567bcd4b6de6a0c29c037a9445625d01",
+        "private": "true"
+      },
+      {
+        "name": "pasta00desm_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "pasta00desm_page_numbers.json",
+        "mtime": "1718642102",
+        "size": "4864189",
+        "md5": "27cd4b0cb971ba58a2bfa7939a9e348a",
+        "crc32": "3b676a54",
+        "sha1": "2b814fe6742c3f1182aecc2baba854ad1e601e19",
+        "private": "true"
+      },
+      {
+        "name": "pasta00desm_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "pasta00desm_abbyy.gz",
+        "mtime": "1660867087",
+        "size": "2610455",
+        "md5": "2162c0dbc6075ecdf03c1995e6af4ddf",
+        "crc32": "c2ffaf1c",
+        "sha1": "ae935ca6f8f2e195344145871fdcd6163e971890",
+        "private": "true"
+      },
+      {
+        "name": "pasta00desm_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "pasta00desm_scandata.xml",
+        "mtime": "1670839992",
+        "size": "737",
+        "md5": "0ad1e1364d2ec619a26b373c6d097b88",
+        "crc32": "5a52dad3",
+        "sha1": "89e09d0874909851ceee130a491e8ac25171fd38",
+        "private": "true"
+      },
+      {
+        "name": "pasta00desm_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "2d6251cc5b6de533c63b1c686d53385a",
+        "mtime": "1259609483",
+        "size": "595",
+        "crc32": "418fc4ca",
+        "sha1": "f8598bfe84b2bf1a2ce64822973192c64d5d9ed3"
+      },
+      {
+        "name": "pasta00desm_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "pasta00desm_djvu.xml",
+        "mtime": "1723100410",
+        "size": "242272",
+        "md5": "8a3e30e7c0db0060fe024e4d5e85cb6a",
+        "crc32": "53e177a9",
+        "sha1": "50ac5fbb6f93c3914a47d9ac67a01242fbb0f72c",
+        "private": "true"
+      },
+      {
+        "name": "pasta00desm_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "pasta00desm_hocr.html",
+        "mtime": "1723100407",
+        "size": "2899743",
+        "md5": "5731ac19271cb28d3ef1973d67fc2c94",
+        "crc32": "3f94244a",
+        "sha1": "6f855dbb75c1d51e751225ada05861ddd6ca314d",
+        "private": "true"
+      },
+      {
+        "name": "pasta00desm_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "pasta00desm.pdf",
+        "mtime": "1718642224",
+        "size": "5445478",
+        "md5": "6b542d2270ed264521dd65185a79486d",
+        "crc32": "b23f9d00",
+        "sha1": "4cf536992976cccead9a8b4b4d4368adf53f76bc"
+      },
+      {
+        "name": "pasta00desm_extramarc.xml",
+        "source": "original",
+        "mtime": "1402225807",
+        "size": "3251",
+        "md5": "9630594450383457af269a6e4195e7c6",
+        "crc32": "1e7e51c0",
+        "sha1": "156d63f114e3a72c9da65f215fe9672ae943a1b4",
+        "format": "Metadata"
+      },
+      {
+        "name": "pasta00desm_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "eea21fc05b3edd55f54f6e2f1eef682b",
+        "summation": "md5"
+      },
+      {
+        "name": "pasta00desm_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "pasta00desm_chocr.html.gz",
+        "mtime": "1660867177",
+        "size": "5952267",
+        "md5": "be05d3f77767e910a29551130ed829cb",
+        "crc32": "d975bd02",
+        "sha1": "5ec90107a0db173b504b23a7b12d3ca7aa812fc3",
+        "private": "true"
+      },
+      {
+        "name": "pasta00desm_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "pasta00desm_hocr.html",
+        "mtime": "1660867234",
+        "size": "1224",
+        "md5": "775749c715507138b71d97c0d0e696a2",
+        "crc32": "455095cf",
+        "sha1": "ac84889cae111976f9628290357e33aea4b9d59a",
+        "private": "true"
+      },
+      {
+        "name": "pasta00desm_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2456",
+        "word_conf_11_20": "1232",
+        "word_conf_21_30": "2985",
+        "word_conf_31_40": "2742",
+        "word_conf_41_50": "5159",
+        "word_conf_51_60": "6005",
+        "word_conf_61_70": "6138",
+        "word_conf_71_80": "3732",
+        "word_conf_81_90": "1428",
+        "word_conf_91_100": "2847",
+        "format": "OCR Search Text",
+        "original": "pasta00desm_hocr.html",
+        "mtime": "1660867294",
+        "size": "58427",
+        "md5": "4705b3d61aab4b3a3f0fbf1e65da4718",
+        "crc32": "d217f50d",
+        "sha1": "c3f37868fd253c25a042248900a7a244f5a77da7",
+        "private": "true"
+      },
+      {
+        "name": "pasta00desm_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "pasta00desm_orig_jp2.tar",
+        "md5": "4db5dac15b7aebfc3c7355499403f388",
+        "mtime": "1259863890",
+        "size": "39235277",
+        "crc32": "6b03c99c",
+        "sha1": "4e4dba9192b769db65f1d05cccae43942dc57622",
+        "private": "true",
+        "filecount": "106"
+      },
+      {
+        "name": "pasta00desm_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "pasta00desm.epub",
+        "mtime": "1753731214",
+        "size": "8202175",
+        "md5": "26ffcc186b2100ef2c6f5aeb58e51b6a",
+        "crc32": "3e93c9e6",
+        "sha1": "08271596fabb235dc9748b76e344246230408574"
+      },
+      {
+        "name": "pasta00desm_loans.json",
+        "source": "original",
+        "mtime": "1593001989",
+        "size": "1251",
+        "format": "JSON",
+        "private": "true",
+        "md5": "d0ddff9601c5eec4ba0dd2b266cf476c",
+        "crc32": "61c52502",
+        "sha1": "75493b4bc6b0a5af2e1285ff6f7f0e900b9f3c41"
+      },
+      {
+        "name": "pasta00desm_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "052c8ac959213541911dd9519d51403d",
+        "mtime": "1259609483",
+        "size": "2778",
+        "crc32": "8892572f",
+        "sha1": "4f0c91ad0bdd5e33d606b66496bb7b2c7ae9a7c1"
+      },
+      {
+        "name": "pasta00desm_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "pasta00desm_xisbn.json",
+        "mtime": "1454703992",
+        "size": "359",
+        "md5": "2194bd348f6e0c3693d898d80f13c41a",
+        "crc32": "916db3ff",
+        "sha1": "7af005802541da5eff06a208ab107e215e4f6c79",
+        "private": "true"
+      },
+      {
+        "name": "pasta00desm_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "48e623e5e597be19d3d8c6c82aa8ac52",
+        "mtime": "1259609483",
+        "size": "867",
+        "crc32": "2a10f587",
+        "sha1": "f91bd9c7d718a7b4ae1d82a954824bb1b4148523"
+      },
+      {
+        "name": "pasta00desm_meta.sqlite",
+        "source": "original",
+        "mtime": "1462569400",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "eb45117f6664345a06fa93f36cfbde90",
+        "crc32": "a6ac21c9",
+        "sha1": "8be99fa8ea46575de15d9b2634628cfcb307344e"
+      },
+      {
+        "name": "pasta00desm_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753731214",
+        "size": "2949",
+        "md5": "b07402346e9b278799c6ce079de953f0",
+        "crc32": "d2ac8220",
+        "sha1": "85e98f72309627d678c476efb1c58e2ff628a9c4"
+      },
+      {
+        "name": "pasta00desm_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "dd85bb80c0f79e0c17765d6de04cbe1f",
+        "mtime": "1259609483",
+        "size": "695",
+        "crc32": "d8213f61",
+        "sha1": "61fabaccef3486e955b90dd25f818ca0877f965a"
+      },
+      {
+        "name": "pasta00desm_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "2315204074f9abd6208c0b379c4d2ae2",
+        "mtime": "1259861803",
+        "size": "61972480",
+        "crc32": "d1cb62be",
+        "sha1": "b36ff910029b05786a94a3b65c79fdcbbdcf05d1",
+        "private": "true",
+        "filecount": "106"
+      },
+      {
+        "name": "pasta00desm_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "pasta00desm_hocr.html",
+        "mtime": "1718642101",
+        "size": "16868",
+        "md5": "17545a81b78e5189249b868bc3f62c88",
+        "crc32": "6281189b",
+        "sha1": "5df4b5a97ee513357ff7f483c448f6eff15abeef",
+        "private": "true"
+      },
+      {
+        "name": "pasta00desm_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "aefe100edfc7d0bdeb903daad9f08b9e",
+        "mtime": "1670839992",
+        "size": "55357",
+        "crc32": "92cea02d",
+        "sha1": "717fe2af69c1bd880e23af72837698447caecb90"
+      },
+      {
+        "name": "pasta00desm_xisbn.json",
+        "source": "original",
+        "mtime": "1454674917",
+        "size": "350",
+        "md5": "18c5b8dfe431eeb31878e9284a7d3917",
+        "crc32": "b708e316",
+        "sha1": "33b0356a867fe7a92c8de6ba4cfb44cb4001c5fe",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753731214,
+    "item_size": 154387224,
+    "metadata": {
+      "title": "Pasta",
+      "creator": "Meredith Corporation",
+      "subject": "Cookery (Pasta)",
+      "description": [
+        "Includes index",
+        "At head of title: Better homes and gardens"
+      ],
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "date": "1983-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696008556",
+        "9780696008559"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA107406",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sfdowntown",
+      "mediatype": "texts",
+      "updatedate": "2009-11-30 19:31:23",
+      "updater": "sf-loaders@archive.org",
+      "identifier": "pasta00desm",
+      "uploader": "sf-loaders@archive.org",
+      "addeddate": "2009-11-30 19:31:25",
+      "publicdate": "2009-11-30 19:31:29",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-lashanda-hill@archive.org",
+      "scanner": "scribe9.sfdowntown.archive.org",
+      "scandate": "20091203173210",
+      "imagecount": "104",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/pasta00desm",
+      "identifier-ark": "ark:/13960/t0qr5dm4r",
+      "bookplateleaf": "0002",
+      "repub_state": "4",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20110207094113[/date][state]approved[/state]",
+      "external-identifier": [
+        "urn:acs6:pasta00desm:pdf:a99ef97a-cb4c-4044-9efb-ba572e1e03a5",
+        "urn:acs6:pasta00desm:epub:13d4ff76-b529-47d9-8903-b8798532a698",
+        "urn:oclc:record:1036812723",
+        "urn:lcp:pasta00desm:lcpdf:1602e39e-547f-4763-bb21-3926aec6659f",
+        "urn:lcp:pasta00desm:epub:d60a57b7-0515-441a-93ea-620dfdab683a"
+      ],
+      "donor": "alibris",
+      "extramarc": "University of Alberta Libraries",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed. --",
+      "oclc-id": [
+        "317909262",
+        "9646401"
+      ],
+      "lccn": "82080529",
+      "backup_location": "ia903604_16",
+      "openlibrary_edition": "OL24216306M",
+      "openlibrary_work": "OL15148745W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Fri Dec 25 17:00:43 UTC 2020",
+        "Wed Apr 3 11:02:36 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601307.us.archive.org",
+    "servers_unavailable": true,
+    "uniq": 831695740,
+    "workable_servers": [
+      "ia601307.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/317909262?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "82080529"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editors, Linda Miller, Marcia Stanley]. --",
+          "ed": "1st ed. --",
+          "year": "1983",
+          "isbn": [
+            "0696008556"
+          ],
+          "title": "Pasta",
+          "oclcnum": [
+            "317909262",
+            "9646401"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Meredith Corporation",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

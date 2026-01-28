@@ -1,0 +1,104 @@
+{
+  "source": "dpla",
+  "id": "ae3b73cc1ba26842b94ee9376527aec8",
+  "identifier": "ae3b73cc1ba26842b94ee9376527aec8",
+  "title": "Jessie Henning's cook book, Pomeroy, Washington, circa 1900",
+  "subject": [
+    "Cookery",
+    "Cooks",
+    "Kitchens"
+  ],
+  "spatial": [
+    "Pomeroy, Garfield county, Washington, United States"
+  ],
+  "description": "Cookbook of Jessie Henning, resident of Sunset, WA. According to her granddaughter, Arlene (Prince) Beale, Pomeroy, WA, Jessie Henning was born in Tennessee, but lived most of her life in Sunset, WA. She was known as a great cook. Arlene can remember her grandmother drying fruit and especially her excellent dried apple cake.",
+  "isShownAt": "http://cdm17176.contentdm.oclc.org/cdm/ref/collection/pomeroy/id/348",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/northwest-digital-heritage",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q112194444"
+    ],
+    "name": "Northwest Digital Heritage"
+  },
+  "institution": "Northwest Digital Heritage",
+  "year": 1900,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/ae3b73cc1ba26842b94ee9376527aec8#SourceResource",
+      "collection": [
+        {
+          "title": "Washington Rural Heritage"
+        },
+        {
+          "title": "Garfield County Heritage -- Eastern Washington Agricultural Museum Collection"
+        }
+      ],
+      "creator": [
+        "Henning, Jessie, 1885-1953"
+      ],
+      "date": [
+        {
+          "displayDate": "1900?"
+        }
+      ],
+      "description": [
+        "Cookbook of Jessie Henning, resident of Sunset, WA. According to her granddaughter, Arlene (Prince) Beale, Pomeroy, WA, Jessie Henning was born in Tennessee, but lived most of her life in Sunset, WA. She was known as a great cook. Arlene can remember her grandmother drying fruit and especially her excellent dried apple cake."
+      ],
+      "format": [
+        "Documents (other)",
+        "Cookbooks"
+      ],
+      "identifier": [
+        "EWAM0036"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "spatial": [
+        {
+          "name": "Pomeroy, Garfield county, Washington, United States"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cookery"
+        },
+        {
+          "name": "Cooks"
+        },
+        {
+          "name": "Kitchens"
+        }
+      ],
+      "title": [
+        "Jessie Henning's cook book, Pomeroy, Washington, circa 1900"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1900-01-01",
+      "normalized_dates": [
+        "1900-01-01"
+      ]
+    }
+  },
+  "data": {
+    "object": "http://cdm17176.contentdm.oclc.org/digital/iiif/pomeroy/348/full/500,/0/default.jpg",
+    "isShownAt": "http://cdm17176.contentdm.oclc.org/cdm/ref/collection/pomeroy/id/348"
+  },
+  "iiif_manifest": "http://cdm17176.contentdm.oclc.org/digital/iiif/pomeroy/348/full/500,/0/default.jpg",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

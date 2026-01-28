@@ -1,0 +1,300 @@
+{
+  "source": "internet_archive",
+  "identifier": "the-flavors-of-frankenmuth",
+  "title": "The Flavors Of Frankenmuth",
+  "creator": "Chef John Zehnder",
+  "year": 1996,
+  "subject": [
+    "Cooking",
+    "Cookbook"
+  ],
+  "description": "The Flavors of Frankenmuth is a cookbook by John Zehnder, Executive Chef of the Zehnder's restaurant in Frankenmuth, Michigan. This book is published by Cookbook Publishers, Inc. I believe it's been out of print for some time.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721602.ca.archive.org",
+          "dir": "/0/items/the-flavors-of-frankenmuth"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721602.ca.archive.org",
+          "dir": "/0/items/the-flavors-of-frankenmuth"
+        }
+      ]
+    },
+    "created": 1758556059,
+    "d1": "ia601905.us.archive.org",
+    "d2": "ia801905.us.archive.org",
+    "dir": "/6/items/the-flavors-of-frankenmuth",
+    "files": [
+      {
+        "name": "The Flavors of Frankenmuth.pdf",
+        "source": "original",
+        "mtime": "1731934827",
+        "size": "229786559",
+        "md5": "eb1c276a9839d08fe5471bacdde52778",
+        "crc32": "ea96c501",
+        "sha1": "af3ab374855aceed502a01517c3f07c3a27252f8",
+        "format": "Image Container PDF"
+      },
+      {
+        "name": "The Flavors of Frankenmuth_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9609",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "The Flavors of Frankenmuth_jp2.zip",
+        "mtime": "1731935942",
+        "size": "2042208",
+        "md5": "91ded1f4d4f876df3079ee44f7ebaa4e",
+        "crc32": "ea5eedfb",
+        "sha1": "a9d1c550f219cb022dc34e36567b95450f52dc3d"
+      },
+      {
+        "name": "The Flavors of Frankenmuth_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "The Flavors of Frankenmuth_djvu.xml",
+        "mtime": "1731936085",
+        "size": "150628",
+        "md5": "2fd546fe25da3ef784cc352b6a766684",
+        "crc32": "f2fcc716",
+        "sha1": "5f1c91fd544ef1a4596a0c5f8ec52d0c6d8b8cc3"
+      },
+      {
+        "name": "The Flavors of Frankenmuth_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "The Flavors of Frankenmuth_hocr.html",
+        "mtime": "1731936000",
+        "size": "2216429",
+        "md5": "9bfb200d6115a5e9306526c493072f2e",
+        "crc32": "9ac6986a",
+        "sha1": "094043db1d92a81a1d270d717444bd4b24c76e0e"
+      },
+      {
+        "name": "The Flavors of Frankenmuth_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9609",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "The Flavors of Frankenmuth_chocr.html.gz",
+        "mtime": "1731935978",
+        "size": "4210595",
+        "md5": "d6f397adbbe8816cd096e517031eba67",
+        "crc32": "78b602d4",
+        "sha1": "cff01e84a55b03ffa3a7c06f50e6ee31916fbc59"
+      },
+      {
+        "name": "The Flavors of Frankenmuth_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "The Flavors of Frankenmuth_hocr.html",
+        "mtime": "1731936024",
+        "size": "1928",
+        "md5": "0e89c376e927088fb5809f9408579337",
+        "crc32": "b74ee604",
+        "sha1": "c4c514c6634a224b081b8aeacad14ea37344d32d"
+      },
+      {
+        "name": "The Flavors of Frankenmuth_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "522",
+        "word_conf_11_20": "213",
+        "word_conf_21_30": "291",
+        "word_conf_31_40": "263",
+        "word_conf_41_50": "222",
+        "word_conf_51_60": "221",
+        "word_conf_61_70": "206",
+        "word_conf_71_80": "276",
+        "word_conf_81_90": "841",
+        "word_conf_91_100": "23032",
+        "format": "OCR Search Text",
+        "original": "The Flavors of Frankenmuth_hocr.html",
+        "mtime": "1731936070",
+        "size": "51596",
+        "md5": "8da9938b83697b2334a496b40525b5cc",
+        "crc32": "20b3c7a3",
+        "sha1": "df004214dee50195c7ff64c254e953e346695868"
+      },
+      {
+        "name": "The Flavors of Frankenmuth_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "The Flavors of Frankenmuth.pdf",
+        "mtime": "1731935394",
+        "size": "37227736",
+        "md5": "8a7e0ebfc141b892a417a9e1aea53fa2",
+        "crc32": "4e25b9ee",
+        "sha1": "cc5323e50002f3b5ad6a6eb9d3f3c48f7c0ecaed",
+        "filecount": "169"
+      },
+      {
+        "name": "The Flavors of Frankenmuth_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "25",
+        "format": "Page Numbers JSON",
+        "original": "The Flavors of Frankenmuth_hocr.html",
+        "mtime": "1731936156",
+        "size": "28720",
+        "md5": "2d2deaeae60e2f50c1ffd0eb434843b9",
+        "crc32": "a30d05ca",
+        "sha1": "06419dbd42d2c9eada3a0b57a40e0451cfba50a7"
+      },
+      {
+        "name": "The Flavors of Frankenmuth_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "The Flavors of Frankenmuth_djvu.xml",
+        "mtime": "1731936157",
+        "size": "59049",
+        "md5": "4c0225b94890b417cadd7a37abd93fc3",
+        "crc32": "dfcefad0",
+        "sha1": "52279b3e20f8b3d0aae4072644b3d15d0a51bd79"
+      },
+      {
+        "name": "The Flavors of Frankenmuth_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Additional Text PDF",
+        "original": "The Flavors of Frankenmuth_page_numbers.json",
+        "mtime": "1731936696",
+        "size": "5036649",
+        "md5": "40abf693d67b7491e5f59e42adfca561",
+        "crc32": "b1d9f081",
+        "sha1": "690c5f11fb866bb8594ed32bd16bbfadef9cb7e0"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1731595689",
+        "size": "12025",
+        "md5": "deb1e66b51428c243f729600ad3677d5",
+        "crc32": "7f62bee3",
+        "sha1": "35dd4b40537ad0052394660c8ad419ce9d89e36a",
+        "format": "Item Tile"
+      },
+      {
+        "name": "the-flavors-of-frankenmuth_archive.torrent",
+        "source": "metadata",
+        "btih": "25c2c6e750ab8122dd30bc977c7931199c6cda64",
+        "mtime": "1746407306",
+        "size": "14610",
+        "md5": "9993944d1e7ae29bb4af619e52d7cb1a",
+        "crc32": "c2b92f51",
+        "sha1": "69a60976fa8898bd02f38aff3035b56d9a71947c",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "the-flavors-of-frankenmuth_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "aad227c5c7803f0e054ff6cc7c6ef066",
+        "summation": "md5"
+      },
+      {
+        "name": "the-flavors-of-frankenmuth_meta.sqlite",
+        "source": "original",
+        "mtime": "1731935425",
+        "size": "20480",
+        "md5": "1ded31818e37cccb9cbf4b314031f0a9",
+        "crc32": "5ad730b8",
+        "sha1": "d561e6220b0e4ee3b906accb772a633aff67461a",
+        "format": "Metadata"
+      },
+      {
+        "name": "the-flavors-of-frankenmuth_meta.xml",
+        "source": "original",
+        "mtime": "1746407303",
+        "size": "2043",
+        "md5": "56f012faf9ffc42aa8fab4b21da29281",
+        "crc32": "2dac909d",
+        "sha1": "234955f17834fd5eb36bdcb6846d39241020d6d2",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1746407306,
+    "item_size": 280861255,
+    "metadata": {
+      "identifier": "the-flavors-of-frankenmuth",
+      "mediatype": "texts",
+      "collection": [
+        "communitycookbooks",
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "creator": "Chef John Zehnder",
+      "date": "1996-01-01",
+      "description": "<i>The Flavors of Frankenmuth </i>is a cookbook by John Zehnder, Executive Chef of the Zehnder's restaurant in Frankenmuth, Michigan. This book is published by Cookbook Publishers, Inc. I believe it's been out of print for some time.<br />",
+      "language": "eng",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "Cooking",
+        "Cookbook"
+      ],
+      "title": "The Flavors Of Frankenmuth",
+      "uploader": "viviannevendetta@gmail.com",
+      "publicdate": "2024-11-14 14:20:13",
+      "addeddate": "2024-11-14 14:20:13",
+      "curation": "[curator]validator@archive.org[/curator][date]20241114142103[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/the-flavors-of-frankenmuth",
+      "identifier-ark": "ark:/13960/s2r68tvvgxc",
+      "ppi": "300",
+      "page_number_confidence": "25",
+      "page_number_module_version": "1.0.5",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9609",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25",
+      "collection_added": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia801905.us.archive.org",
+    "uniq": 2069951079,
+    "workable_servers": [
+      "ia801905.us.archive.org",
+      "ia601905.us.archive.org"
+    ]
+  },
+  "institution": "Chef John Zehnder",
+  "pdf_url": "https://archive.org/download/the-flavors-of-frankenmuth/The Flavors of Frankenmuth.pdf",
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

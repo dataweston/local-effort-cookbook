@@ -1,0 +1,44 @@
+{
+  "source": "dpla",
+  "id": "54e080ab21312578c570086451f19434",
+  "identifier": "54e080ab21312578c570086451f19434",
+  "title": "John Graham, a writing druggist",
+  "subject": [
+    "Magazines",
+    "Advertisements",
+    "Recipes",
+    "Graham, John",
+    "Haertel, Charles (Carl)",
+    "Jowett, William",
+    "Hollenbeck, Philetus S",
+    "Parry and Muir"
+  ],
+  "spatial": [
+    "Portage",
+    "Columbia County",
+    "Wisconsin"
+  ],
+  "description": null,
+  "isShownAt": "http://content.mpl.org/cdm/ref/collection/portage/id/56",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/wisconsin",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878508"
+    ],
+    "name": "Recollection Wisconsin"
+  },
+  "institution": "Recollection Wisconsin",
+  "data": {
+    "object": "https://content.mpl.org/utils/getthumbnail/collection/portage/id/56",
+    "isShownAt": "http://content.mpl.org/cdm/ref/collection/portage/id/56"
+  },
+  "location": {
+    "state": "Wisconsin"
+  },
+  "curation": {
+    "score": 4,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Wisconsin; Digitized scan available"
+}

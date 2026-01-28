@@ -1,0 +1,96 @@
+{
+  "source": "dpla",
+  "id": "1b63cebcf9def81764c74df36e2495bc",
+  "identifier": "1b63cebcf9def81764c74df36e2495bc",
+  "title": "The Herald cook book",
+  "subject": [
+    "Cooking",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan",
+    "Traverse City"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5jm2697r",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1889,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/1b63cebcf9def81764c74df36e2495bc#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "date": [
+        {
+          "begin": "1889",
+          "displayDate": "1889",
+          "end": "1889"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Traverse City"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "The Herald cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1889-01-01",
+      "normalized_dates": [
+        "1889-01-01"
+      ],
+      "date_range": {
+        "begin": "1889-01-01",
+        "end": "1889-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5jm2697r/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5jm2697r"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

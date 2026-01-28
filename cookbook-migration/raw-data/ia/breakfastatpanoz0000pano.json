@@ -1,0 +1,483 @@
+{
+  "source": "internet_archive",
+  "identifier": "breakfastatpanoz0000pano",
+  "title": "Breakfast at Panozzo's : a cookbook",
+  "creator": "Panozzo, Patricia",
+  "year": 1989,
+  "subject": [
+    "Cooking",
+    "Breakfasts"
+  ],
+  "description": "189 pages ; 21 cm",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/breakfastatpanoz0000pano"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/breakfastatpanoz0000pano"
+        }
+      ]
+    },
+    "created": 1758556280,
+    "d1": "ia903107.us.archive.org",
+    "d2": "ia803107.us.archive.org",
+    "dir": "/31/items/breakfastatpanoz0000pano",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659304823",
+        "size": "30412",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "c256f8bf48b1ce03e45d2262229e9cf2",
+        "crc32": "cf3f47ec",
+        "sha1": "0e112d7fb469acd247471467ca6027cde71d8983"
+      },
+      {
+        "name": "breakfastatpanoz0000pano.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "breakfastatpanoz0000pano_hocr.html",
+        "mtime": "1753084722",
+        "size": "9177784",
+        "private": "true",
+        "md5": "c88d3f09fbc43a9ab91e2b3427607a6d",
+        "crc32": "45197bd2",
+        "sha1": "5f1a402dfddf9931520cc90fe90b5438ed91444f"
+      },
+      {
+        "name": "breakfastatpanoz0000pano.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "breakfastatpanoz0000pano.pdf",
+        "mtime": "1753084506",
+        "size": "15113862",
+        "md5": "418d348a88d0af5bd3fbf6f76e0ca39f",
+        "crc32": "8e8f8a4f",
+        "sha1": "c02042ab6c4a093817681bfd51fbf7400042be4a"
+      },
+      {
+        "name": "breakfastatpanoz0000pano.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "breakfastatpanoz0000pano_page_numbers.json",
+        "mtime": "1717646837",
+        "size": "14164290",
+        "md5": "601ee6a8995374a5e34900526cf177ba",
+        "crc32": "3da0f91d",
+        "sha1": "1d7f95a8c19228fb9e6ffa5876cc8c0e6a6465a4",
+        "private": "true"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "breakfastatpanoz0000pano_jp2.zip",
+        "mtime": "1529549940",
+        "size": "2152967",
+        "md5": "b6755292d4ac865cbfb1e677131c0429",
+        "crc32": "e830973b",
+        "sha1": "db778e6c94ee3c04986a69e8b49a48f387773f22",
+        "private": "true"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "breakfastatpanoz0000pano_abbyy.gz",
+        "mtime": "1659303970",
+        "size": "1579387",
+        "md5": "cfbc1fe142d9efda1fc2bbee999c99c1",
+        "crc32": "b0729ccf",
+        "sha1": "71db3710d4d3acd7d859a8294d93297930d74bb7",
+        "private": "true"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "breakfastatpanoz0000pano_scandata.xml",
+        "mtime": "1669476691",
+        "size": "789",
+        "md5": "cf944033b07d699fc0bfadcc69632de0",
+        "crc32": "8e45471d",
+        "sha1": "fe0645c2657be15a4f44c5ef859b62a1cc7ef8db",
+        "private": "true"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1659303855",
+        "size": "1021",
+        "md5": "aa4827cb7e097aa11d219d1a4e64c74a",
+        "crc32": "3cfd7d18",
+        "sha1": "f077f1be9a4e17a623f36cb370116a4cb70c5da1"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "breakfastatpanoz0000pano_djvu.xml",
+        "mtime": "1659304807",
+        "size": "131250",
+        "md5": "8d9130664d4361a30822c04426e35dee",
+        "crc32": "4984aabd",
+        "sha1": "dae8bf271c55c32161cf33a11a18dfe1e99f9d1e",
+        "private": "true"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "breakfastatpanoz0000pano_hocr.html",
+        "mtime": "1659304423",
+        "size": "1830447",
+        "md5": "11d71f9bc57988d51a974d26b48e9b76",
+        "crc32": "97c5839d",
+        "sha1": "c59e525b874e180194782e83e86992453d2c1832",
+        "private": "true"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "breakfastatpanoz0000pano_abbyy.gz",
+        "mtime": "1529550596",
+        "size": "10614616",
+        "md5": "bbad29c395ec423157a8cab1b938f1be",
+        "crc32": "86ceb4c1",
+        "sha1": "70a284e79a92055d46bb56f717d76f4ff672c1b8"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "breakfastatpanoz0000pano.pdf",
+        "mtime": "1717647608",
+        "size": "14019278",
+        "md5": "1bb9f953a09bf6593e22dad4c40c0592",
+        "crc32": "d7cc8ed1",
+        "sha1": "792ad6fa4cdf3098fb72a774836a0c56730a43f3"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_events.json",
+        "source": "original",
+        "mtime": "1529546790",
+        "size": "51",
+        "md5": "1ebc9916e2da2729a52a6f39ce55fb81",
+        "crc32": "3665b7e9",
+        "sha1": "ae881292360ebb43cae80bcf03374cb794762d3c",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "25d146d58ca44ab5af1b874a56c0b598",
+        "summation": "md5"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "breakfastatpanoz0000pano_chocr.html.gz",
+        "mtime": "1659304351",
+        "size": "4040203",
+        "md5": "49bb510067b99d0363c38b2f6e9b9f3c",
+        "crc32": "d8d3bb62",
+        "sha1": "64ec9bd5d3896a35939bedb5f25e529ec517c911",
+        "private": "true"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "breakfastatpanoz0000pano_hocr.html",
+        "mtime": "1659304626",
+        "size": "2245",
+        "md5": "1e606a2c4020778cc5119d0680554e2c",
+        "crc32": "22c20d3d",
+        "sha1": "c91913bcceed71b17bea7c699c78f166d8d7c231",
+        "private": "true"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1134",
+        "word_conf_11_20": "633",
+        "word_conf_21_30": "1291",
+        "word_conf_31_40": "1283",
+        "word_conf_41_50": "1337",
+        "word_conf_51_60": "1865",
+        "word_conf_61_70": "2338",
+        "word_conf_71_80": "2966",
+        "word_conf_81_90": "2809",
+        "word_conf_91_100": "4358",
+        "format": "OCR Search Text",
+        "original": "breakfastatpanoz0000pano_hocr.html",
+        "mtime": "1659304782",
+        "size": "38485",
+        "md5": "7f5f9f7f5f5ff4e780594eb2dae10968",
+        "crc32": "e51a31a1",
+        "sha1": "c71919260e3f78a43f89cb6503668191ccb26dda",
+        "private": "true"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "breakfastatpanoz0000pano_orig_jp2.tar",
+        "mtime": "1529549006",
+        "size": "98325028",
+        "md5": "c13881e0b2f72a3089065d321426adc9",
+        "crc32": "309775b5",
+        "sha1": "146b43a341fbddf425b4194fc482b33dd06f4fae",
+        "private": "true",
+        "filecount": "198"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "breakfastatpanoz0000pano.epub",
+        "mtime": "1753085020",
+        "size": "9980402",
+        "md5": "e4e8aacfaf4992fbf2dc61c198b292af",
+        "crc32": "c04f7b43",
+        "sha1": "a773065f52d706feddc4f031dec9107aa4a26d4c"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_loans.json",
+        "source": "original",
+        "mtime": "1593401515",
+        "size": "3457",
+        "format": "JSON",
+        "private": "true",
+        "md5": "77279d15b50343fb55c48ab9553241d2",
+        "crc32": "6ce10a54",
+        "sha1": "f429350d6a7c7768dacc4f21de6792df62e39746"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_marc.xml",
+        "source": "original",
+        "mtime": "1659303848",
+        "size": "3689",
+        "format": "MARC",
+        "md5": "506a29fc5b418715ebc2469394e78039",
+        "crc32": "008ce771",
+        "sha1": "adead91617fa36785e575a888c523f540dcd83ee"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_meta.mrc",
+        "source": "original",
+        "mtime": "1529052568",
+        "size": "980",
+        "md5": "d85bf2020cc1e2f4dba84e166bdb0785",
+        "crc32": "2deb5f9e",
+        "sha1": "ebdfa21b3049c2365bbba67d3d38ff71a242dfcf",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_meta.sqlite",
+        "source": "original",
+        "mtime": "1529546835",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "7966caf7f01ba560b91e0fc108b495b6",
+        "crc32": "b8e7457a",
+        "sha1": "82139d0b4b33ca09f957fb0fe17df715e3a096b9"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_meta.xml",
+        "source": "original",
+        "mtime": "1753085020",
+        "size": "2943",
+        "format": "Metadata",
+        "md5": "de412e518d6a88b30f092eedd0a312ee",
+        "crc32": "cbd1220d",
+        "sha1": "f7eb5ba3610496cca6aa0dffef93b53459af1143"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1529546834",
+        "size": "479764480",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "c47bbe5090cbe829a6c3800cbaaafcde",
+        "crc32": "c62b6e22",
+        "sha1": "4eaf03e41a0d9f07ade7991469ce5aef01b4a2fe",
+        "filecount": "198"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "92",
+        "format": "Page Numbers JSON",
+        "original": "breakfastatpanoz0000pano_hocr.html",
+        "mtime": "1717646830",
+        "size": "32998",
+        "md5": "57bd5e9aae01740aae05fc8def19ae81",
+        "crc32": "ecdbbfb8",
+        "sha1": "65339d1772da53cfde77a8c0d1abb7ea6a0e9d2f",
+        "private": "true"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_scandata.xml",
+        "source": "original",
+        "mtime": "1669476691",
+        "size": "203107",
+        "format": "Scandata",
+        "md5": "ed97f30d6090d3472659be6ae5d04ce9",
+        "crc32": "4a4cb273",
+        "sha1": "551689787d71f9f03b201b857aa946579ce497f8"
+      },
+      {
+        "name": "breakfastatpanoz0000pano_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "breakfastatpanoz0000pano_djvu.xml",
+        "mtime": "1669476533",
+        "size": "117919",
+        "md5": "077d276d80c5e5a63ce0ec25b220c151",
+        "crc32": "0c8cf362",
+        "sha1": "23f79e4b038baafe69f34dd70b57038ce4a43177",
+        "private": "true"
+      },
+      {
+        "name": "logs/breakfastatpanoz0000pano_iabdash_2018-06-15164906.log",
+        "source": "original",
+        "mtime": "1529052557",
+        "size": "357",
+        "md5": "510dc1ed45eb7112ba4b9bf3848b1514",
+        "crc32": "3ba15516",
+        "sha1": "8aa2a41a3067a4b1028149cb5c30041390980daf",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/breakfastatpanoz0000pano_scanning_2018-06-15164900.log",
+        "source": "original",
+        "mtime": "1529052550",
+        "size": "414989",
+        "md5": "694481b398c4098a5570537ba8d14992",
+        "crc32": "76008495",
+        "sha1": "b38312e9f538640fd986792dcf3f5894dfb2829d",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753085020,
+    "item_size": 661763820,
+    "metadata": {
+      "identifier": "breakfastatpanoz0000pano",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Panozzo, Patricia",
+      "date": "1989-01-01",
+      "isbn": [
+        "0962370401",
+        "9780962370403"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-yatlaam-wong@archive.org",
+      "ppi": "300",
+      "publisher": "Union Pier, MI : Author",
+      "repub_state": "22",
+      "scanner": "ttscribe6.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "Breakfast at Panozzo's : a cookbook ",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "uploader": "ttscribe6.hongkong@archive.org",
+      "addeddate": "2018-06-15 08:48:54",
+      "publicdate": "2018-06-15 08:49:34",
+      "imagecount": "198",
+      "scandate": "20180615103817",
+      "subject": [
+        "Cooking",
+        "Breakfasts",
+        "Breakfasts",
+        "Cooking"
+      ],
+      "description": "189 pages ; 21 cm",
+      "republisher_operator": "republisher8.yunnan@archive.org",
+      "republisher_date": "20180621100158",
+      "republisher_time": "459",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/breakfastatpanoz0000pano",
+      "identifier-ark": "ark:/13960/t3rv7fj7n",
+      "bookplateleaf": "0006",
+      "ocr": "ABBYY FineReader 11.0 (Extended OCR)",
+      "external-identifier": [
+        "urn:acs6:breakfastatpanoz0000pano:epub:3e1e2ed4-50db-4f1f-9e0f-736fe405ece1",
+        "urn:acs6:breakfastatpanoz0000pano:pdf:1dcb5ea7-2236-4b53-a7d4-341a861ed33a",
+        "urn:lcp:breakfastatpanoz0000pano:lcpdf:e5f41643-e9b8-48fa-80ba-89e6936c046c",
+        "urn:lcp:breakfastatpanoz0000pano:epub:8e309b20-6f48-4b16-9252-c1b4d3005471"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20180621202325[/date]",
+      "boxid": "IA1254418",
+      "sponsordate": "20180630",
+      "openlibrary_edition": "OL11694514M",
+      "openlibrary_work": "OL9712655W",
+      "backup_location": "ia906706_33",
+      "access-restricted-item": "true",
+      "oclc-id": "21177298",
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "92",
+      "filesxml": "Tue Apr 2 22:36:30 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia803107.us.archive.org",
+    "uniq": 1041351008,
+    "workable_servers": [
+      "ia803107.us.archive.org",
+      "ia903107.us.archive.org"
+    ]
+  },
+  "institution": "Panozzo, Patricia",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

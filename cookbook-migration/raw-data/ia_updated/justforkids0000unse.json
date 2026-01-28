@@ -1,0 +1,483 @@
+{
+  "source": "internet_archive",
+  "identifier": "justforkids0000unse",
+  "title": "Just for kids",
+  "creator": "None",
+  "year": 2002,
+  "subject": [
+    "Cooking",
+    "Brand name products"
+  ],
+  "description": [
+    "192 pages : 29 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/justforkids0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/justforkids0000unse"
+        }
+      ]
+    },
+    "created": 1758555142,
+    "d1": "ia601809.us.archive.org",
+    "d2": "ia801809.us.archive.org",
+    "dir": "/17/items/justforkids0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660410667",
+        "size": "25542",
+        "md5": "be3e2b814eeeaeea39a781e034f5300e",
+        "crc32": "344f65fb",
+        "sha1": "93b82b7707f2558b8e07281b14fa4dea9ac4d092",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "justforkids0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "justforkids0000unse_hocr.html",
+        "mtime": "1753578183",
+        "size": "156647071",
+        "private": "true",
+        "md5": "bf305eb7d9de9e96116c40d4259d0ec3",
+        "crc32": "d30e0261",
+        "sha1": "47e2c65cd12fb551bdb420f90e182aa67d132008"
+      },
+      {
+        "name": "justforkids0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "justforkids0000unse.pdf",
+        "mtime": "1753577887",
+        "size": "26885101",
+        "md5": "01fdd3ea273d9fe348bef8d13d3f2782",
+        "crc32": "46861778",
+        "sha1": "5fc89bcc65797fb71a930a3ab642d06062cafb3f"
+      },
+      {
+        "name": "justforkids0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "justforkids0000unse_page_numbers.json",
+        "mtime": "1713385901",
+        "size": "26413028",
+        "md5": "3572172d7fb0f06f38d86fbc1ce22bc4",
+        "crc32": "a6204502",
+        "sha1": "4b2bd98e36e85a17d6a8c14ec71667516ed9a1a3",
+        "private": "true"
+      },
+      {
+        "name": "justforkids0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "justforkids0000unse_jp2.zip",
+        "mtime": "1543809032",
+        "size": "2037336",
+        "md5": "477f6120ea4689da7d4b6a879af47fc4",
+        "crc32": "74a80308",
+        "sha1": "57b882a57caa7d596b852c1fa9ca206242254676",
+        "private": "true"
+      },
+      {
+        "name": "justforkids0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "justforkids0000unse_abbyy.gz",
+        "mtime": "1660410233",
+        "size": "1653420",
+        "md5": "7967a0d96d704b745ae2ed8deca03367",
+        "crc32": "750eb8ba",
+        "sha1": "07ea471d552bc28010d797ea343af02e12b8e6ed",
+        "private": "true"
+      },
+      {
+        "name": "justforkids0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "justforkids0000unse_scandata.xml",
+        "mtime": "1670451293",
+        "size": "768",
+        "md5": "d84f3ec6095ea0efc92dba1110c98fd4",
+        "crc32": "141af306",
+        "sha1": "8154b42e35cc75ff7530d1595763281eee461fde",
+        "private": "true"
+      },
+      {
+        "name": "justforkids0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660409262",
+        "size": "1159",
+        "md5": "7ea7e849cdf2a5e51ac3f07761839acd",
+        "crc32": "2dfc5fa4",
+        "sha1": "3a69c3f752e302551f629e8e6c6c867630e53e49"
+      },
+      {
+        "name": "justforkids0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "justforkids0000unse_djvu.xml",
+        "mtime": "1660410661",
+        "size": "144482",
+        "md5": "e59ad24bc3e44ccb701d75cb5a302a1e",
+        "crc32": "b88e5aed",
+        "sha1": "a09f9180b176bad94495e33c4128c1a33345e769",
+        "private": "true"
+      },
+      {
+        "name": "justforkids0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "justforkids0000unse_hocr.html",
+        "mtime": "1660410473",
+        "size": "1751898",
+        "md5": "f79bcb9ccbb1e3e436496ce79442b6b3",
+        "crc32": "ec7ee8c9",
+        "sha1": "f366ce1c8103f9afbae4e274ce0ea3d8072969ee",
+        "private": "true"
+      },
+      {
+        "name": "justforkids0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "justforkids0000unse_abbyy.gz",
+        "mtime": "1543810149",
+        "size": "6762520",
+        "md5": "f03769900c68a2c7279f5fe4bddfc724",
+        "crc32": "6bf7907b",
+        "sha1": "83b34cb24f1fae7d55c71a2d5e8505becef8e3ca"
+      },
+      {
+        "name": "justforkids0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "justforkids0000unse.pdf",
+        "mtime": "1713385968",
+        "size": "26313564",
+        "md5": "f3e10ba64b59232622c2e9a896a65865",
+        "crc32": "f44e1a79",
+        "sha1": "6bea5c6f9ce10c73e06fef62b6eb52851a1d0b3e"
+      },
+      {
+        "name": "justforkids0000unse_events.json",
+        "source": "original",
+        "mtime": "1543805276",
+        "size": "57",
+        "md5": "760c16179e619533e3f3d32ed8755d53",
+        "crc32": "cc3bd3ad",
+        "sha1": "d9569034b0417e70b7e44662f5dfe194752e6692",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "justforkids0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "4337d683262748d51a52d479d51a1eb5",
+        "summation": "md5"
+      },
+      {
+        "name": "justforkids0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "justforkids0000unse_chocr.html.gz",
+        "mtime": "1660410458",
+        "size": "3615230",
+        "md5": "bb4d1a7830cf8f6b92147d4e4bca0ce7",
+        "crc32": "9b22ccfa",
+        "sha1": "745c261467c8782e7d241da37750fcb7f8e71877",
+        "private": "true"
+      },
+      {
+        "name": "justforkids0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "justforkids0000unse_hocr.html",
+        "mtime": "1660410516",
+        "size": "2004",
+        "md5": "148fe40e0002d7ce814da7d5323a3731",
+        "crc32": "3a0b0e4b",
+        "sha1": "51ecdb7268478dfe270b89749dcfd690eac3832a",
+        "private": "true"
+      },
+      {
+        "name": "justforkids0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "218",
+        "word_conf_11_20": "106",
+        "word_conf_21_30": "197",
+        "word_conf_31_40": "328",
+        "word_conf_41_50": "517",
+        "word_conf_51_60": "869",
+        "word_conf_61_70": "1847",
+        "word_conf_71_80": "3770",
+        "word_conf_81_90": "5971",
+        "word_conf_91_100": "6432",
+        "format": "OCR Search Text",
+        "original": "justforkids0000unse_hocr.html",
+        "mtime": "1660410640",
+        "size": "39189",
+        "md5": "8111effcffac83b00a8d8bbb7c4f6853",
+        "crc32": "c9e1b572",
+        "sha1": "55d69f8e24cb3e73a4ebc740fe78eda36548cc15",
+        "private": "true"
+      },
+      {
+        "name": "justforkids0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "justforkids0000unse_orig_jp2.tar",
+        "mtime": "1543807659",
+        "size": "169383161",
+        "md5": "12b57f99b6fc017bbbb85e814f68f31d",
+        "crc32": "97281991",
+        "sha1": "ff610621e6c129a747e6d6f1a79f5559350644da",
+        "private": "true",
+        "filecount": "198"
+      },
+      {
+        "name": "justforkids0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "justforkids0000unse.epub",
+        "mtime": "1753578453",
+        "size": "156973904",
+        "md5": "bd13d58c97822d2c9b4509bdcdabbb30",
+        "crc32": "6a146d61",
+        "sha1": "c51312b544d82442fa1606b74310b39bfb9128d3"
+      },
+      {
+        "name": "justforkids0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1660409261",
+        "size": "4123",
+        "format": "MARC",
+        "md5": "9704c18e17f75b9674fe763c4a479aaf",
+        "crc32": "04c2c8b2",
+        "sha1": "fd95c7cae19f5629f0ee9a2edb1f962bd73e59e8"
+      },
+      {
+        "name": "justforkids0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1543465395",
+        "size": "1147",
+        "md5": "6b7cc67599a6ddd88eb0c758b992795f",
+        "crc32": "93a88bee",
+        "sha1": "725d0ed71ebdcd72f70f97f88877fce2049784ec",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "justforkids0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1543805349",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "b9baf15080a9aa6caa47bcfa1078a16e",
+        "crc32": "cb96408e",
+        "sha1": "a8c238714a923457ded96d3f183826a6cd9d00c1"
+      },
+      {
+        "name": "justforkids0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753578454",
+        "size": "3018",
+        "format": "Metadata",
+        "md5": "6cd76a4174280a1e039d9a60a4a57e05",
+        "crc32": "7e9dc9c5",
+        "sha1": "9c960c0aed665e39760bd2a8a5970e18bd9cdc9c"
+      },
+      {
+        "name": "justforkids0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1543805347",
+        "size": "325488640",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "05dde7ad81e01a578d6f02aabbab431f",
+        "crc32": "25c8318b",
+        "sha1": "377f020b43af600fb5277cdc75d1cbdaaceddf0c",
+        "filecount": "198"
+      },
+      {
+        "name": "justforkids0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "18",
+        "format": "Page Numbers JSON",
+        "original": "justforkids0000unse_hocr.html",
+        "mtime": "1713385901",
+        "size": "33364",
+        "md5": "89b1b3bed9db7a20772f1ee9219407a4",
+        "crc32": "e6f013be",
+        "sha1": "cbd7bb3ee14c1bfd2b85411bb94ae53df6bab39b",
+        "private": "true"
+      },
+      {
+        "name": "justforkids0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670451293",
+        "size": "202048",
+        "format": "Scandata",
+        "md5": "e5012fc1233dd93502ffd156d385e965",
+        "crc32": "5a36b30d",
+        "sha1": "b5e0ef0f1c86160199a539735dc3e49bb0904bad"
+      },
+      {
+        "name": "justforkids0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "justforkids0000unse_djvu.xml",
+        "mtime": "1670451280",
+        "size": "502",
+        "md5": "d0ed9d32f581bc25bb048f0eccfd0416",
+        "crc32": "f28ad89e",
+        "sha1": "f61cf9a38d18ba2d8757b801562a3b7c90d4a8fb",
+        "private": "true"
+      },
+      {
+        "name": "logs/justforkids0000unse_iabdash_2018-11-2912:22:58.log",
+        "source": "original",
+        "mtime": "1543465383",
+        "size": "1000",
+        "md5": "37dcc5e336dfb476ba58607dc4e277fc",
+        "crc32": "a0ed9d0a",
+        "sha1": "8e23af8a4fa7376b63ed257088ef099c015e6623",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/justforkids0000unse_scanning_2018-11-2912:22:51.log",
+        "source": "original",
+        "mtime": "1543465376",
+        "size": "400215",
+        "md5": "3ace603c80090f819a97f912404f9b97",
+        "crc32": "5e6e4417",
+        "sha1": "550d932b16aa6e0316070703b34a295a44590570",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1753578454,
+    "item_size": 904799875,
+    "metadata": {
+      "identifier": "justforkids0000unse",
+      "associated-names": "Publications International, Ltd",
+      "boxid": "IA1418512",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "None",
+      "creator-alt-script": "None",
+      "date": "2002-01-01",
+      "description": [
+        "192 pages : 29 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "0785382194",
+        "9780785382195"
+      ],
+      "language": "eng",
+      "lccn": "2002109196",
+      "mediatype": "texts",
+      "old_pallet": "IA14120",
+      "operator": "associate-ria-gargoles@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International",
+      "repub_state": "19",
+      "scanner": "station01.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "subject": [
+        "Cooking",
+        "Brand name products",
+        "Brand name products",
+        "Cooking"
+      ],
+      "title": "Just for kids",
+      "title-alt-script": "None",
+      "tts_version": "v1.61-final",
+      "uploader": "station01.cebu@archive.org",
+      "addeddate": "2018-11-29 04:22:37",
+      "publicdate": "2018-11-29 04:23:15",
+      "imagecount": "198",
+      "scandate": "20181129052148",
+      "republisher_operator": "associate-mariejoy-gelves@archive.org",
+      "republisher_date": "20181203104746",
+      "republisher_time": "1276",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/justforkids0000unse",
+      "identifier-ark": "ark:/13960/t5x70wn83",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:justforkids0000unse:epub:c6577f46-e26d-4253-9852-7e5c77d89caa",
+        "urn:acs6:justforkids0000unse:pdf:c14eb840-d16c-4b18-8820-dc445c1b50d8",
+        "urn:lcp:justforkids0000unse:lcpdf:a4ecea64-1f03-48b2-8444-d5bc30de63be",
+        "urn:lcp:justforkids0000unse:epub:b3418c43-3c80-4967-b3e0-b68067830248"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_edition": "OL20946896M",
+      "openlibrary_work": "OL18016856W",
+      "sponsordate": "20181130",
+      "access-restricted-item": "true",
+      "backup_location": "ia906804_27",
+      "oclc-id": [
+        "51619860",
+        "671873855"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "18",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia801809.us.archive.org",
+    "uniq": 1942301501,
+    "workable_servers": [
+      "ia801809.us.archive.org",
+      "ia601809.us.archive.org"
+    ]
+  },
+  "institution": "None",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

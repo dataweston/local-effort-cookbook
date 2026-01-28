@@ -1,0 +1,99 @@
+{
+  "source": "dpla",
+  "id": "9a1c240b4aa9c35a3743016dd4260c30",
+  "identifier": "9a1c240b4aa9c35a3743016dd4260c30",
+  "title": "The Way to his heart : a cook book with a personality",
+  "subject": [
+    "Cooking--Iowa",
+    "Cooking, American"
+  ],
+  "spatial": [
+    "Iowa"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/102384240",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1941,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/9a1c240b4aa9c35a3743016dd4260c30#SourceResource",
+      "contributor": [
+        "Sprague, Priscilla Wayne"
+      ],
+      "date": [
+        {
+          "displayDate": "©1941"
+        }
+      ],
+      "extent": [
+        "160 pages : 22 cm"
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource",
+        "Unmediated",
+        "Volume"
+      ],
+      "identifier": [
+        "LC call number: TX715.2.M53 W39 1941",
+        "sdr-umn9926440140001701",
+        "(OCoLC)21322990",
+        "Hathi: 102384240"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "[Des Moines, Iowa?] : Western Grocer Co."
+      ],
+      "rights": [
+        "Public domain only when viewed in the US. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Iowa"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking--Iowa"
+        },
+        {
+          "name": "Cooking, American"
+        }
+      ],
+      "title": [
+        "The Way to his heart : a cook book with a personality"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1941-01-01",
+      "normalized_dates": [
+        "1941-01-01"
+      ]
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=qonALc00w7IC&printsec=frontcover&img=1&zoom=5",
+    "isShownAt": "http://catalog.hathitrust.org/Record/102384240"
+  },
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

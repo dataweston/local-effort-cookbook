@@ -1,0 +1,301 @@
+{
+  "source": "internet_archive",
+  "identifier": "bel111_2024_12_04",
+  "title": "WSCS Cookbook",
+  "creator": "North Bend Church of God",
+  "year": null,
+  "subject": [
+    "Cookbooks and Recipes",
+    "North Bend Church of God",
+    "Churches"
+  ],
+  "description": "Recipe collection of the North Bend Church of God WSCS.  Though there is no date, probably created in the late 1960's or 70's.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn710103.ca.archive.org",
+          "dir": "/0/items/bel111_2024_12_04"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn710103.ca.archive.org",
+          "dir": "/0/items/bel111_2024_12_04"
+        }
+      ]
+    },
+    "created": 1758559288,
+    "d1": "ia600105.us.archive.org",
+    "d2": "ia800105.us.archive.org",
+    "dir": "/34/items/bel111_2024_12_04",
+    "files": [
+      {
+        "name": "WSCS cookbook.pdf",
+        "source": "original",
+        "mtime": "1733329628",
+        "size": "24470522",
+        "md5": "8e2a750e52d934337ec8e4d138fe38f0",
+        "crc32": "103da019",
+        "sha1": "b741843f93c802233a7b8d111cc73dab17b3e3ad",
+        "format": "Image Container PDF"
+      },
+      {
+        "name": "WSCS cookbook_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9607",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "WSCS cookbook_jp2.zip",
+        "mtime": "1733330433",
+        "size": "750153",
+        "md5": "0e3d29348b44a747835a6e7e3d6eb6fa",
+        "crc32": "78075c8e",
+        "sha1": "119b1f0c3643eabdf48d730fe8fe031faca55d83"
+      },
+      {
+        "name": "WSCS cookbook_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "WSCS cookbook_djvu.xml",
+        "mtime": "1733330496",
+        "size": "51471",
+        "md5": "2341c8e5302cbd26fad2625ae6cdf6f6",
+        "crc32": "16975d10",
+        "sha1": "4b781d7b5586b7ff7b75d1af399ccd93c7301e79"
+      },
+      {
+        "name": "WSCS cookbook_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "WSCS cookbook_hocr.html",
+        "mtime": "1733330460",
+        "size": "760107",
+        "md5": "2aae498d949ee00c5e076e3b9c7e1030",
+        "crc32": "53deac2b",
+        "sha1": "929a11b4755a9b8207f35ca9c1cfb2f6bdd465eb"
+      },
+      {
+        "name": "WSCS cookbook_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9607",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "WSCS cookbook_chocr.html.gz",
+        "mtime": "1733330450",
+        "size": "1493765",
+        "md5": "a7f997dae233e798b5345825f2b5cc0a",
+        "crc32": "f9489981",
+        "sha1": "91118055672e70f8e102914de4c94a9720803804"
+      },
+      {
+        "name": "WSCS cookbook_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "WSCS cookbook_hocr.html",
+        "mtime": "1733330467",
+        "size": "317",
+        "md5": "ca76bf5d1070b682ce868c123dc649f6",
+        "crc32": "e3e88a86",
+        "sha1": "9f735a5e72664874bcb22fa223660cc02df123b9"
+      },
+      {
+        "name": "WSCS cookbook_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "211",
+        "word_conf_11_20": "123",
+        "word_conf_21_30": "134",
+        "word_conf_31_40": "134",
+        "word_conf_41_50": "136",
+        "word_conf_51_60": "144",
+        "word_conf_61_70": "213",
+        "word_conf_71_80": "403",
+        "word_conf_81_90": "943",
+        "word_conf_91_100": "6577",
+        "format": "OCR Search Text",
+        "original": "WSCS cookbook_hocr.html",
+        "mtime": "1733330482",
+        "size": "19383",
+        "md5": "3196a5c16c199819d1617e26446fef9f",
+        "crc32": "a4385ddb",
+        "sha1": "dc24f62b5fccc60dbed1a195c4d8e3e1afb8185a"
+      },
+      {
+        "name": "WSCS cookbook_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "WSCS cookbook.pdf",
+        "mtime": "1733329854",
+        "size": "12228287",
+        "md5": "8a84705c1caf949361cfc6e161deb9be",
+        "crc32": "47ce3855",
+        "sha1": "bd7e55f1ad9ac2269764e88c97c72c05fc7e1414",
+        "filecount": "26"
+      },
+      {
+        "name": "WSCS cookbook_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "WSCS cookbook_hocr.html",
+        "mtime": "1733330536",
+        "size": "4538",
+        "md5": "eb5767d0dc1f5f6b7a0fc45755529f4c",
+        "crc32": "9f18fa0c",
+        "sha1": "ed8c44d08e638d1348e671fbc033729f6c190a37"
+      },
+      {
+        "name": "WSCS cookbook_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "WSCS cookbook_djvu.xml",
+        "mtime": "1733330536",
+        "size": "8580",
+        "md5": "257cc6f24f93072814f9e188dc563d5d",
+        "crc32": "f742a6c5",
+        "sha1": "1dd8e288193ba9f53e77d13ffca09497d7d8e314"
+      },
+      {
+        "name": "WSCS cookbook_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Additional Text PDF",
+        "original": "WSCS cookbook_page_numbers.json",
+        "mtime": "1733330762",
+        "size": "3653697",
+        "md5": "9bcd4295a3defb0d9b483cdf5fe71819",
+        "crc32": "3b3aeef1",
+        "sha1": "ff50c29cc6b7f6873bb148380f8f51b1d3a66dcf"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1733330782",
+        "size": "7978",
+        "md5": "303352fcb6161320d0a0c11bb584e349",
+        "crc32": "b39205a5",
+        "sha1": "b23338dcb77c35df8e80ce45cb71d64598368f5d",
+        "format": "Item Tile"
+      },
+      {
+        "name": "bel111_2024_12_04_archive.torrent",
+        "source": "metadata",
+        "btih": "40621979d646f3751a91653878b92e6aaffdd45d",
+        "mtime": "1733347659",
+        "size": "5319",
+        "md5": "95851bb868362504d25f59e50c913f30",
+        "crc32": "b3f7f9fd",
+        "sha1": "96548be93584a5db1758cd3390a9733fb43c4f3c",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "bel111_2024_12_04_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "92677bfbd4731f9ee9ffbc62cb532090",
+        "summation": "md5"
+      },
+      {
+        "name": "bel111_2024_12_04_meta.sqlite",
+        "source": "original",
+        "mtime": "1733329667",
+        "size": "20480",
+        "md5": "1d20f2de885f63c0a6852e0ed7d414fa",
+        "crc32": "ded7f472",
+        "sha1": "bb01be72ef5ae9e80f6ded929852bfe1043d5b8d",
+        "format": "Metadata"
+      },
+      {
+        "name": "bel111_2024_12_04_meta.xml",
+        "source": "original",
+        "mtime": "1733347656",
+        "size": "1847",
+        "md5": "323bd15f31009a2ee58a5c5065619175",
+        "crc32": "ec6a154f",
+        "sha1": "eac2affa0f667afda4f2b6fb151e011d1893b2f5",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1733347659,
+    "item_size": 43476444,
+    "metadata": {
+      "identifier": "bel111_2024_12_04",
+      "mediatype": "texts",
+      "collection": [
+        "northlibertydigitalhistory",
+        "additional_collections"
+      ],
+      "color": "color",
+      "contributor": "Joan Alt Belknap",
+      "coverage": [
+        "North Liberty",
+        "Penn Township",
+        "Johnson County",
+        "Iowa"
+      ],
+      "creator": "North Bend Church of God",
+      "description": "Recipe collection of the North Bend Church of God WSCS.  Though there is no date, probably created in the late 1960's or 70's.",
+      "language": "eng",
+      "licenseurl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": "Cookbooks and Recipes; North Bend Church of God; Churches",
+      "title": "WSCS Cookbook",
+      "uploader": "jbelknap2@mac.com",
+      "collection_added": "additional_collections",
+      "publicdate": "2024-12-04 16:27:26",
+      "addeddate": "2024-12-04 16:27:26",
+      "identifier-access": "http://archive.org/details/bel111_2024_12_04",
+      "identifier-ark": "ark:/13960/s2mxk0n3s3z",
+      "ppi": "300",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9607",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia600105.us.archive.org",
+    "uniq": 898584503,
+    "workable_servers": [
+      "ia600105.us.archive.org",
+      "ia800105.us.archive.org"
+    ]
+  },
+  "institution": "North Bend Church of God",
+  "pdf_url": "https://archive.org/download/bel111_2024_12_04/WSCS cookbook.pdf",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church"
+    ]
+  },
+  "curation_notes": "State match: Iowa; Community markers: Church; Digitized scan available"
+}

@@ -1,0 +1,584 @@
+{
+  "source": "internet_archive",
+  "identifier": "isbn_9780898212358",
+  "title": "The best of country cooking, 1998",
+  "creator": "Schnittka, Julie",
+  "year": 1998,
+  "subject": "Cooking, American",
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720904.ca.archive.org",
+          "dir": "/0/items/isbn_9780898212358"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720904.ca.archive.org",
+          "dir": "/0/items/isbn_9780898212358"
+        }
+      ]
+    },
+    "created": 1758555314,
+    "d1": "ia600208.us.archive.org",
+    "d2": "ia800208.us.archive.org",
+    "dir": "/9/items/isbn_9780898212358",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660368487",
+        "size": "21917",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "5a8a2d20e80f2c2461d3a0a27f3e0823",
+        "crc32": "6baf0322",
+        "sha1": "746bb0036ab5d7c90c86228d8afc91ae357d1755"
+      },
+      {
+        "name": "isbn_9780898212358.cdx.gz",
+        "source": "original",
+        "mtime": "1455023663",
+        "size": "278",
+        "md5": "ad2274e8a572276e9a93b74b04f3b7f3",
+        "crc32": "57e322ee",
+        "sha1": "c5c3b60edca66031fcb965b29ae805e7cf3d9fd3",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358.cdx.idx",
+        "source": "original",
+        "mtime": "1455023663",
+        "size": "33",
+        "md5": "29e0556c29e3299e18f48b8c0d533f9e",
+        "crc32": "b284f930",
+        "sha1": "fda13e81cd6ec13db3b2d53c8599d973756f9a05",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "isbn_9780898212358_hocr.html",
+        "mtime": "1753545415",
+        "size": "112347002",
+        "private": "true",
+        "md5": "61def68a75befe1d1657366e136be931",
+        "crc32": "ff4d5fa3",
+        "sha1": "2af301e45189e4be9e5353aba348586c22e50335"
+      },
+      {
+        "name": "isbn_9780898212358.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "isbn_9780898212358.pdf",
+        "mtime": "1753545295",
+        "size": "30977377",
+        "md5": "40be33f0049dbfaabf2ce37e35bf99f5",
+        "crc32": "5da1078e",
+        "sha1": "76bf51901e5a35e73f0161021d66480955fd4ee9"
+      },
+      {
+        "name": "isbn_9780898212358.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "isbn_9780898212358_page_numbers.json",
+        "mtime": "1726443388",
+        "size": "30430866",
+        "md5": "e6b349dc34f5f466049c12ee20c026e6",
+        "crc32": "92f0a171",
+        "sha1": "bc23c7dcd9cf12833dc5409f8eb312f524da8667",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1426518639",
+        "size": "4943",
+        "md5": "b059a4d9d3eef6460061e123157ec81d",
+        "crc32": "ac26e385",
+        "sha1": "574fada53b49da3da2c85fa893de1cfd647dddbd"
+      },
+      {
+        "name": "isbn_9780898212358.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "isbn_9780898212358.warc.gz",
+        "mtime": "1455023649",
+        "size": "278",
+        "md5": "52aed48a07af560f1ee5ded394914ed3",
+        "crc32": "14a4d016",
+        "sha1": "bad7eef6e53beae62a5bd38d6fb2fb36db7ed12b",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "isbn_9780898212358_jp2.zip",
+        "mtime": "1530597569",
+        "size": "6839399",
+        "md5": "d27980a3bb92190fc1ead4171cfb36e4",
+        "crc32": "a4cea928",
+        "sha1": "5cc4163bef70d6f0bce7b220e4ac0cd2c1f80952",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "isbn_9780898212358_abbyy.gz",
+        "mtime": "1660368354",
+        "size": "5725937",
+        "md5": "8b97799db9e039566f8c2fd845d343a3",
+        "crc32": "bb5b1d00",
+        "sha1": "9e47cc4c0ff845d80ec5c604b58b66540aeca511",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "isbn_9780898212358_scandata.xml",
+        "mtime": "1670381532",
+        "size": "764",
+        "md5": "a856558fdb9445453930617ba79730e3",
+        "crc32": "2ec032e6",
+        "sha1": "e2ccf80491289b5c04c7dfa8c618aca11ffbbb25",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1455023646",
+        "size": "668",
+        "md5": "fdc25e8b411ca02efc2c5f0a1c0a2422",
+        "crc32": "641cc51a",
+        "sha1": "03f95c6407ea97ac3db3eb8888354ffd46f64300"
+      },
+      {
+        "name": "isbn_9780898212358_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "isbn_9780898212358_djvu.xml",
+        "mtime": "1660368477",
+        "size": "519455",
+        "md5": "d32f399058d9b923e04f9e1873e02ef2",
+        "crc32": "7c47c479",
+        "sha1": "99995208976ba344247452646c3cd2ccf8f73b66",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "isbn_9780898212358_hocr.html",
+        "mtime": "1660368434",
+        "size": "6164167",
+        "md5": "2ab89a55ed2dfd5e03e05f70f0a00246",
+        "crc32": "400bd2be",
+        "sha1": "33f7b1fa80bb307fde86acd6dd34ef4795914e85",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "isbn_9780898212358_abbyy.gz",
+        "mtime": "1530598541",
+        "size": "6892771",
+        "md5": "5962ace55e371434e0d4934aa8473bb8",
+        "crc32": "8d536a3d",
+        "sha1": "1e982483f11e4527e0261ca865e879797efb22f2"
+      },
+      {
+        "name": "isbn_9780898212358_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "isbn_9780898212358.pdf",
+        "mtime": "1726443742",
+        "size": "30259825",
+        "md5": "2e94c10fd7ea4abbbd3d81a3bd685f11",
+        "crc32": "b5ea5194",
+        "sha1": "317c2068e308d35f568001cadcb1d9a7ff79a6a9"
+      },
+      {
+        "name": "isbn_9780898212358_events.json",
+        "source": "original",
+        "mtime": "1530593835",
+        "size": "50",
+        "md5": "e62775d66f770b04bf5d01021612381a",
+        "crc32": "0e5ef285",
+        "sha1": "4ffa20def75ed1d43b16b3a285286bd9c66344d4",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "f5d1cc454e25093b6e5135cea765e977",
+        "summation": "md5"
+      },
+      {
+        "name": "isbn_9780898212358_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "isbn_9780898212358_chocr.html.gz",
+        "mtime": "1660368408",
+        "size": "12926918",
+        "md5": "5e18f86c83412da33055613c9335e27f",
+        "crc32": "e1949f32",
+        "sha1": "8b7ea43fecb96ae97c794a22cf24ad7aaa73c882",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "isbn_9780898212358_hocr.html",
+        "mtime": "1660368448",
+        "size": "2290",
+        "md5": "8fe7df9f71bc115b72512efb512ecd9c",
+        "crc32": "55bfe755",
+        "sha1": "aefbc004bcb93461fdf87d942454e6471071aa04",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "599",
+        "word_conf_11_20": "249",
+        "word_conf_21_30": "411",
+        "word_conf_31_40": "941",
+        "word_conf_41_50": "1716",
+        "word_conf_51_60": "3620",
+        "word_conf_61_70": "7526",
+        "word_conf_71_80": "13727",
+        "word_conf_81_90": "20146",
+        "word_conf_91_100": "25830",
+        "format": "OCR Search Text",
+        "original": "isbn_9780898212358_hocr.html",
+        "mtime": "1660368466",
+        "size": "141136",
+        "md5": "ad84536bb0920eb5a39ff7e3f7a45f02",
+        "crc32": "c50c7296",
+        "sha1": "2908f0c8ba9d9df2b187102c76c024fd44ed5537",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "isbn_9780898212358_orig_jp2.tar",
+        "mtime": "1530595871",
+        "size": "179865867",
+        "md5": "bd73b78f1ff6057f447f8602200945a2",
+        "crc32": "f31c7f57",
+        "sha1": "b54b295f9fa39bdc9a7133b30bda4132a22a14d4",
+        "private": "true",
+        "filecount": "194"
+      },
+      {
+        "name": "isbn_9780898212358_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "isbn_9780898212358.epub",
+        "mtime": "1753545441",
+        "size": "112870532",
+        "md5": "5109d34e395855c90a6fd0eeca0488a1",
+        "crc32": "fce419ed",
+        "sha1": "008eebd525534f17c0cabf0bd98c35fb5a0a8a67"
+      },
+      {
+        "name": "isbn_9780898212358_loans.json",
+        "source": "original",
+        "mtime": "1593669975",
+        "size": "2585",
+        "format": "JSON",
+        "private": "true",
+        "md5": "0466e9ebd15c408fb0c3961382d05a1b",
+        "crc32": "dabbe6d8",
+        "sha1": "2b64b680ea03d2f8018b8d28e66ea8e687f07570"
+      },
+      {
+        "name": "isbn_9780898212358_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1455023646",
+        "size": "3039",
+        "md5": "b35c0a74fd2763128c6ba52c636c64ac",
+        "crc32": "877232d4",
+        "sha1": "cca3be07ae95333577f94b44574bd24632417f49"
+      },
+      {
+        "name": "isbn_9780898212358_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "isbn_9780898212358_xisbn.json",
+        "mtime": "1455023650",
+        "size": "238",
+        "md5": "9c7a0b5c21d03b5ef02543ba1b410e6b",
+        "crc32": "59c0b423",
+        "sha1": "f4cb79e35895f4c66c30688feb687f80f19cee83",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1455023646",
+        "size": "879",
+        "md5": "938a8ce09ec2fc0ffd25e8bf10df689b",
+        "crc32": "c22b0539",
+        "sha1": "48937f2ef35cb4292ff4dc6064455fd242ab168c"
+      },
+      {
+        "name": "isbn_9780898212358_meta.sqlite",
+        "source": "original",
+        "mtime": "1530593885",
+        "size": "14336",
+        "format": "Metadata",
+        "md5": "55d7b5177e7ea553c0eb6b785083d4e0",
+        "crc32": "eb56d2f2",
+        "sha1": "497d6c0d228a5fe0ab2cac6fe5de26ea10daa9f0"
+      },
+      {
+        "name": "isbn_9780898212358_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753545441",
+        "size": "3209",
+        "md5": "f7eb1b41df8763baa8df76db179f6d3d",
+        "crc32": "c4338845",
+        "sha1": "8b4142e3c4507ef4524a5efa1d63254f330abf9e"
+      },
+      {
+        "name": "isbn_9780898212358_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1426518639",
+        "size": "295",
+        "md5": "c58e10f0832f4fa5f6d1d36780c95b85",
+        "crc32": "542a6c58",
+        "sha1": "ad09139e77b42543a86685bc5424abe45523049b"
+      },
+      {
+        "name": "isbn_9780898212358_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1530593884",
+        "size": "405411840",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "33686d91498a1e451efa5a3a081a2ee3",
+        "crc32": "9e5d8324",
+        "sha1": "c1580ba1a061683af467817167501460cb78e553",
+        "filecount": "194"
+      },
+      {
+        "name": "isbn_9780898212358_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "97",
+        "format": "Page Numbers JSON",
+        "original": "isbn_9780898212358_hocr.html",
+        "mtime": "1726443388",
+        "size": "32394",
+        "md5": "0b6be55429e41d5817c450cf608ac0d3",
+        "crc32": "983fa9d7",
+        "sha1": "a73464065e5eb401522a4e042cdb35ceeac49ae6",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358_scandata.xml",
+        "source": "original",
+        "mtime": "1670381532",
+        "size": "198101",
+        "format": "Scandata",
+        "md5": "bed759f80ae704cabec77d7138eec1a2",
+        "crc32": "496bbe68",
+        "sha1": "7bdf53e220be7696b5f3b280d0652ebef534d46f"
+      },
+      {
+        "name": "isbn_9780898212358_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "isbn_9780898212358_djvu.xml",
+        "mtime": "1670381114",
+        "size": "6977",
+        "md5": "50ddd79f21fd206728bab4a3f7ff5574",
+        "crc32": "e0e05262",
+        "sha1": "36dc03fb1ab87cf91528850046ec64db951d0838",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780898212358_xisbn.json",
+        "source": "original",
+        "mtime": "1454987448",
+        "size": "311",
+        "md5": "896fe1130d9839b6d1758f7eeb1ce58b",
+        "crc32": "3cd12659",
+        "sha1": "61fbf3ca70919d2a210d9f8766b6463212eaca84",
+        "format": "OCLC xISBN JSON"
+      },
+      {
+        "name": "logs/isbn_9780898212358_iabdash_2018-06-30163112.log",
+        "source": "original",
+        "mtime": "1530347487",
+        "size": "353",
+        "md5": "46fa7f0187f600138bb884b9dfb57d62",
+        "crc32": "4d5e5908",
+        "sha1": "6e59cad5b6a18a5f95369f02aa12b256027fa621",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/isbn_9780898212358_scanning_2018-06-30163106.log",
+        "source": "original",
+        "mtime": "1530347477",
+        "size": "452075",
+        "md5": "2a6d79e3c5a04389600b518d1785f618",
+        "crc32": "f31801e8",
+        "sha1": "9e830a1ee2cd69bcc6f23843319dda0aafc17b7e",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 37,
+    "item_last_updated": 1753545441,
+    "item_size": 942119105,
+    "metadata": {
+      "isbn": [
+        "0898212359",
+        "9780898212358"
+      ],
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "22",
+      "updatedate": "2015-03-16 15:10:37",
+      "updater": "associate-lotu-tii@archive.org",
+      "boxid": "IA1260714",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "hongkong",
+      "title": "The best of country cooking, 1998",
+      "identifier": "isbn_9780898212358",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2015-03-16 15:10:41.580679",
+      "publicdate": "2015-03-16 15:10:45",
+      "donor": "allen_county",
+      "creator": "Schnittka, Julie",
+      "publisher": "Greendale, WI : Reiman Publications",
+      "date": "1998-01-01",
+      "subject": [
+        "Cooking, American",
+        "Cooking, American"
+      ],
+      "description": "Includes index",
+      "identifier-access": "http://archive.org/details/isbn_9780898212358",
+      "identifier-ark": "ark:/13960/t8cg3s979",
+      "city": "Greendale, WI",
+      "oclc-id": "39219912",
+      "shipping_container": "SZ0024",
+      "backup_location": "ia905302_14",
+      "scanner": "ttscribe2.hongkong.archive.org",
+      "operator": "associate-chuiyuk-cheung@archive.org",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "imagecount": "194",
+      "scandate": "20180630090210",
+      "notes": "Copyright on title page.<br />Text cut off.<br />The papers of this book made it reflective when scanned.",
+      "ppi": "300",
+      "republisher_operator": "republisher9.dhaka@archive.org",
+      "republisher_date": "20180703105931",
+      "republisher_time": "692",
+      "foldoutcount": "0",
+      "bookplateleaf": "0003",
+      "external-identifier": [
+        "urn:acs6:isbn_9780898212358:epub:7c69a59f-713b-4e5d-b431-439a8ec85db0",
+        "urn:acs6:isbn_9780898212358:pdf:458c0d0a-d70b-4cb7-a4e6-9633e2a4f560",
+        "urn:oclc:record:1150038538",
+        "urn:lcp:isbn_9780898212358:lcpdf:dadb2d94-3163-4530-8f37-8595d1839c47",
+        "urn:lcp:isbn_9780898212358:epub:5eeda311-71f8-47a4-a7fe-1456545e15de"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "curation": "[curator]associate-francis-boyer@archive.org[/curator][date]20180703175747[/date]",
+      "sponsordate": "20180630",
+      "openlibrary_edition": "OL8269011M",
+      "openlibrary_work": "OL8641813W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "97",
+      "filesxml": "Wed Apr 3 6:16:56 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800208.us.archive.org",
+    "uniq": 1156366465,
+    "workable_servers": [
+      "ia800208.us.archive.org",
+      "ia600208.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/39219912?referer=xid"
+          ],
+          "publisher": "Reiman Publications",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Greendale, WI",
+          "author": "editor, Julie Schnittka.",
+          "year": "1998",
+          "isbn": [
+            "0898212359"
+          ],
+          "title": "The best of country cooking, 1998",
+          "oclcnum": [
+            "39219912"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Schnittka, Julie",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

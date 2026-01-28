@@ -1,0 +1,508 @@
+{
+  "source": "internet_archive",
+  "identifier": "oodledoodlestuna0000john",
+  "title": "Oodle doodles tuna noodle and other salad recipes",
+  "creator": "Johnson, Kristi",
+  "year": 2008,
+  "subject": [
+    "Salads -- Juvenile literature",
+    "Salads",
+    "Cooking",
+    "Cookery",
+    "Cooking and children"
+  ],
+  "description": [
+    "32 pages : 22 x 26 cm",
+    "\"Provides fun and unique recipes for salads, including potato salad, fruit salad, and tuna salad. Includes easy instructions and a helpful tools glossary with photos\"--Provided by publisher",
+    "\"RL: 3-4; IL: 3-9\"--Page 4 of cover",
+    "Includes bibliographical references (page 31) and index",
+    "Oodle doodles tuna noodle salad -- Rainbow fruit salad -- Sweet summer potato salad -- Candy bar salad -- Pepperoni pizza salad -- Mexican fiesta salad -- Tripple cheese and macaroni salad -- Apple and worm salad -- Creamy dreamy cloud salad -- Asian chicken salad"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/oodledoodlestuna0000john"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/oodledoodlestuna0000john"
+        }
+      ]
+    },
+    "created": 1758559089,
+    "d1": "ia902300.us.archive.org",
+    "d2": "ia802300.us.archive.org",
+    "dir": "/8/items/oodledoodlestuna0000john",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660803590",
+        "size": "14052",
+        "md5": "79e8dc009bed16f5f17d80e27202e1f6",
+        "crc32": "2948e9fa",
+        "sha1": "6ba44f342159896b327a93bc80082283ba22e588",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/oodledoodlestuna0000john_iabdash_2018-09-1123:25:16.log",
+        "source": "original",
+        "mtime": "1536679523",
+        "size": "668",
+        "md5": "baf08feafdfa3076e316f2e819b311fd",
+        "crc32": "4f051c90",
+        "sha1": "8f12281e34434d00d2ad1f67c3330a6f3c569b79",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/oodledoodlestuna0000john_scanning_2018-09-1123:25:10.log",
+        "source": "original",
+        "mtime": "1536679515",
+        "size": "180711",
+        "md5": "0580dc9f2737a7e2a636274fb7db5de3",
+        "crc32": "cc84891b",
+        "sha1": "234e76de4d73c744dd4a99025c1570c404e694f7",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "oodledoodlestuna0000john.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "oodledoodlestuna0000john_hocr.html",
+        "mtime": "1753716929",
+        "size": "26069746",
+        "private": "true",
+        "md5": "d8470b4c1bb7d4e489a53a92593b51d2",
+        "crc32": "20d90019",
+        "sha1": "63b8a7b15fa3cb886fee04bb9eb157b75729a9de"
+      },
+      {
+        "name": "oodledoodlestuna0000john.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "oodledoodlestuna0000john.pdf",
+        "mtime": "1753716717",
+        "size": "6816392",
+        "md5": "b82b2e7ed1adcade4b0e7c0f3d492063",
+        "crc32": "c823ce82",
+        "sha1": "fd71a36a812a7e374939e0701782a69efcdea266"
+      },
+      {
+        "name": "oodledoodlestuna0000john.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "oodledoodlestuna0000john_page_numbers.json",
+        "mtime": "1718350402",
+        "size": "5891098",
+        "md5": "ac89ab122d6fac5f46df66ba91b4294d",
+        "crc32": "c0fe94a8",
+        "sha1": "294138d4dc914187c66a866f7951bd4b4b4021ff",
+        "private": "true"
+      },
+      {
+        "name": "oodledoodlestuna0000john_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "oodledoodlestuna0000john_jp2.zip",
+        "mtime": "1537029665",
+        "size": "402767",
+        "md5": "d74a319b89254d8fab35dfafc0fca366",
+        "crc32": "a485e9b4",
+        "sha1": "7c1f9ee64b6f8221fa076c406bc03360267afadf",
+        "private": "true"
+      },
+      {
+        "name": "oodledoodlestuna0000john_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "oodledoodlestuna0000john_abbyy.gz",
+        "mtime": "1660803127",
+        "size": "319422",
+        "md5": "4c87ad512bd3525a629cf3e580115b11",
+        "crc32": "079603b0",
+        "sha1": "f52de751ace3f5e2dc2406393ec8da4a5927adf1",
+        "private": "true"
+      },
+      {
+        "name": "oodledoodlestuna0000john_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "oodledoodlestuna0000john_scandata.xml",
+        "mtime": "1670807992",
+        "size": "787",
+        "md5": "a258c687ae486f66834099ea72491046",
+        "crc32": "9c65de0f",
+        "sha1": "1d42de8c6276bc8a4fe844c078681fe45992e5df",
+        "private": "true"
+      },
+      {
+        "name": "oodledoodlestuna0000john_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660803016",
+        "size": "2052",
+        "md5": "615a0cf457c53b95c235596869f0e543",
+        "crc32": "ccdc062a",
+        "sha1": "a6a5a80f3728497aeea9148653e741331b6fd584"
+      },
+      {
+        "name": "oodledoodlestuna0000john_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "oodledoodlestuna0000john_djvu.xml",
+        "mtime": "1660803573",
+        "size": "27715",
+        "md5": "617c82d2b4d2c161b5ea8300d450512e",
+        "crc32": "73eafaaa",
+        "sha1": "46db1c9e113e193091e348f1653730f69e256b4c",
+        "private": "true"
+      },
+      {
+        "name": "oodledoodlestuna0000john_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "oodledoodlestuna0000john_hocr.html",
+        "mtime": "1660803354",
+        "size": "370414",
+        "md5": "f424b8705a5841fd79ebea1a6e41ae5c",
+        "crc32": "f7a87c38",
+        "sha1": "7aaf25a81df8569b0b2e6a9c9dcf14cbefca4e80",
+        "private": "true"
+      },
+      {
+        "name": "oodledoodlestuna0000john_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "oodledoodlestuna0000john_abbyy.gz",
+        "mtime": "1537029818",
+        "size": "2382221",
+        "md5": "1d30f9f13d9fea7c0332499e12c37e29",
+        "crc32": "bf73ef32",
+        "sha1": "bfc5c92ef26c4df5716508e8baec5f469f759a0b"
+      },
+      {
+        "name": "oodledoodlestuna0000john_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "oodledoodlestuna0000john.pdf",
+        "mtime": "1718351126",
+        "size": "5866444",
+        "md5": "174925e7efbf7773955b5820b71a1d99",
+        "crc32": "64c3a204",
+        "sha1": "23d79a231125c4490798dfef37426baae54d4be6"
+      },
+      {
+        "name": "oodledoodlestuna0000john_events.json",
+        "source": "original",
+        "mtime": "1537028691",
+        "size": "50",
+        "md5": "a00952a12b6140dd2c29b10b9b1c7ec3",
+        "crc32": "fd1c700a",
+        "sha1": "48389cc8a108e15df0f9a0c1f2788736718fce2f",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "oodledoodlestuna0000john_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "a1b64d242954ebe0c949afa3760b49e5",
+        "summation": "md5"
+      },
+      {
+        "name": "oodledoodlestuna0000john_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "oodledoodlestuna0000john_chocr.html.gz",
+        "mtime": "1660803332",
+        "size": "818464",
+        "md5": "dc07bb77f23a698e326679cfebf14772",
+        "crc32": "883e5929",
+        "sha1": "7f8c4ce0b2e035c89ce78b7515064a7cee769d68",
+        "private": "true"
+      },
+      {
+        "name": "oodledoodlestuna0000john_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "oodledoodlestuna0000john_hocr.html",
+        "mtime": "1660803408",
+        "size": "454",
+        "md5": "fbf64ab31438e2b5cf093d5e1671dce4",
+        "crc32": "271ddc72",
+        "sha1": "8c80a2d3c20840fa0001bea512cbe3d357226f45",
+        "private": "true"
+      },
+      {
+        "name": "oodledoodlestuna0000john_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "152",
+        "word_conf_11_20": "47",
+        "word_conf_21_30": "38",
+        "word_conf_31_40": "53",
+        "word_conf_41_50": "67",
+        "word_conf_51_60": "110",
+        "word_conf_61_70": "200",
+        "word_conf_71_80": "440",
+        "word_conf_81_90": "902",
+        "word_conf_91_100": "2078",
+        "format": "OCR Search Text",
+        "original": "oodledoodlestuna0000john_hocr.html",
+        "mtime": "1660803537",
+        "size": "9905",
+        "md5": "a7729a2483037cc20c3c6fb71c91b2e9",
+        "crc32": "41a7e0d5",
+        "sha1": "4ca95cb370aed30033bda1b64946a7120a6866a4",
+        "private": "true"
+      },
+      {
+        "name": "oodledoodlestuna0000john_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "oodledoodlestuna0000john_orig_jp2.tar",
+        "mtime": "1537029259",
+        "size": "47137846",
+        "md5": "e371471d3a5f569fb34b61831df598af",
+        "crc32": "f97f2f68",
+        "sha1": "6837eeff49ae2c255ac2d087b97af1e9aa82149d",
+        "private": "true",
+        "filecount": "42"
+      },
+      {
+        "name": "oodledoodlestuna0000john_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "oodledoodlestuna0000john.epub",
+        "mtime": "1753717125",
+        "size": "26286657",
+        "md5": "cf1af0290687cf0e2fa9d7b233c0daf4",
+        "crc32": "cb5dc5c1",
+        "sha1": "c4bed8bc23e70d66fc22b44db7579005e1306e54"
+      },
+      {
+        "name": "oodledoodlestuna0000john_loans.json",
+        "source": "original",
+        "mtime": "1594208011",
+        "size": "3076",
+        "format": "JSON",
+        "private": "true",
+        "md5": "1bc03e92f9c8e4385877e37740aff110",
+        "crc32": "72ffdace",
+        "sha1": "30168d3e62c3594b7fa05822816c244d2158afcb"
+      },
+      {
+        "name": "oodledoodlestuna0000john_marc.xml",
+        "source": "original",
+        "mtime": "1660803016",
+        "size": "8549",
+        "format": "MARC",
+        "md5": "a6bedba8ecc18339c012a902b07645a3",
+        "crc32": "b63e0245",
+        "sha1": "5c762e340aa39088d84f214568cb2a0d431d101d"
+      },
+      {
+        "name": "oodledoodlestuna0000john_meta.mrc",
+        "source": "original",
+        "mtime": "1536679533",
+        "size": "2686",
+        "md5": "4a9952615c4cdcd74ed42f81315512f2",
+        "crc32": "37e3b65d",
+        "sha1": "534ac477a599b767ac74b4775aeb3d979c8777ea",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "oodledoodlestuna0000john_meta.sqlite",
+        "source": "original",
+        "mtime": "1537028721",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "1a19b138d9da587ba9d9dd959716b1ef",
+        "crc32": "41c55d0b",
+        "sha1": "84a14c13740c8f0c999a1b5e8f4f548a78bdcf45"
+      },
+      {
+        "name": "oodledoodlestuna0000john_meta.xml",
+        "source": "original",
+        "mtime": "1753717125",
+        "size": "3838",
+        "format": "Metadata",
+        "md5": "612cf9707c46b408aad1b1faa01cf084",
+        "crc32": "b96e689c",
+        "sha1": "83153a0da7f0a2a987b7d75ce53ed74bc8f28c1a"
+      },
+      {
+        "name": "oodledoodlestuna0000john_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1537028721",
+        "size": "122593280",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "e13e0593e62c40cfa2110dcf886c72fd",
+        "crc32": "507e8d6f",
+        "sha1": "1cec43612b47be498716e6c3895e1cd9f3b4be5b",
+        "filecount": "42"
+      },
+      {
+        "name": "oodledoodlestuna0000john_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "81",
+        "format": "Page Numbers JSON",
+        "original": "oodledoodlestuna0000john_hocr.html",
+        "mtime": "1718350401",
+        "size": "6907",
+        "md5": "dc697972946862f880812e629ac92fc5",
+        "crc32": "a197c43b",
+        "sha1": "f2377a4c7f482064c45091357cb8c29c4764240e",
+        "private": "true"
+      },
+      {
+        "name": "oodledoodlestuna0000john_scandata.xml",
+        "source": "original",
+        "mtime": "1670807992",
+        "size": "42877",
+        "format": "Scandata",
+        "md5": "b9c4cf6074e92a8fc0ae8cae2e333c81",
+        "crc32": "083d9770",
+        "sha1": "9e38e392a3c114441ef95e0b80e29bf8f72cc858"
+      },
+      {
+        "name": "oodledoodlestuna0000john_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "oodledoodlestuna0000john_djvu.xml",
+        "mtime": "1670807895",
+        "size": "11185",
+        "md5": "bd8ef9ad6a63c1a2bbb3951d696534ca",
+        "crc32": "8bcce1b4",
+        "sha1": "9b087a6d3dc37aed4ffa4d5e308c64ce55d19db3",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753717125,
+    "item_size": 245287671,
+    "metadata": {
+      "identifier": "oodledoodlestuna0000john",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Johnson, Kristi",
+      "creator-alt-script": "None",
+      "date": "2008-01-01",
+      "description": [
+        "32 pages : 22 x 26 cm",
+        "\"Provides fun and unique recipes for salads, including potato salad, fruit salad, and tuna salad. Includes easy instructions and a helpful tools glossary with photos\"--Provided by publisher",
+        "\"RL: 3-4; IL: 3-9\"--Page 4 of cover",
+        "Includes bibliographical references (page 31) and index",
+        "Oodle doodles tuna noodle salad -- Rainbow fruit salad -- Sweet summer potato salad -- Candy bar salad -- Pepperoni pizza salad -- Mexican fiesta salad -- Tripple cheese and macaroni salad -- Apple and worm salad -- Creamy dreamy cloud salad -- Asian chicken salad"
+      ],
+      "isbn": [
+        "9781429613415",
+        "1429613416"
+      ],
+      "language": "eng",
+      "lccn": "2007031484",
+      "mediatype": "texts",
+      "operator": "associate-leo@archive.org",
+      "ppi": "300",
+      "publisher": "Mankato, Minn. : Capstone Press",
+      "repub_state": "22",
+      "scanner": "ttscribe3.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "subject": [
+        "Salads -- Juvenile literature",
+        "Salads",
+        "Salads",
+        "Cooking",
+        "Cookery",
+        "Salads",
+        "Cooking and children"
+      ],
+      "title": "Oodle doodles tuna noodle and other salad recipes ",
+      "title-alt-script": "None",
+      "tts_version": "v1.60-1-g2f920ca",
+      "uploader": "ttscribe3.hongkong@archive.org",
+      "addeddate": "2018-09-11 15:24:50",
+      "publicdate": "2018-09-11 15:25:23",
+      "imagecount": "42",
+      "scandate": "20180911160722",
+      "republisher_operator": "republisher4.dhaka@archive.org",
+      "republisher_date": "20180915222459",
+      "republisher_time": "263",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/oodledoodlestuna0000john",
+      "identifier-ark": "ark:/13960/t2g80kq97",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:oodledoodlestuna0000john:epub:3942b505-f131-4df9-84b0-c57bb72b9d77",
+        "urn:acs6:oodledoodlestuna0000john:pdf:bf8c6b40-4401-44a4-bbba-0fec07533dd9",
+        "urn:lcp:oodledoodlestuna0000john:lcpdf:d7f95378-c95f-4041-ae50-c9898dbe84e9",
+        "urn:lcp:oodledoodlestuna0000john:epub:9d35c3bc-a161-4cac-a2ac-6e10c18eba18"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20180918180913[/date]",
+      "boxid": "IA1344609",
+      "sponsordate": "20180930",
+      "openlibrary_edition": "OL17003800M",
+      "openlibrary_work": "OL11777566W",
+      "access-restricted-item": "true",
+      "backup_location": "ia906801_30",
+      "oclc-id": [
+        "162145996",
+        "965591471",
+        "971905820",
+        "1041605595"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "81",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia902300.us.archive.org",
+    "uniq": 1212725686,
+    "workable_servers": [
+      "ia902300.us.archive.org",
+      "ia802300.us.archive.org"
+    ]
+  },
+  "institution": "Johnson, Kristi",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Mankato"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

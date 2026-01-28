@@ -1,0 +1,534 @@
+{
+  "source": "internet_archive",
+  "identifier": "christmas198600mere",
+  "title": "Christmas 1986",
+  "creator": "from the editors of Better Homes and Gardens Books.",
+  "year": 1986,
+  "subject": [
+    "Christmas",
+    "Christmas cooking",
+    "Handicraft",
+    "Christmas decorations"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/christmas198600mere"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/christmas198600mere"
+        }
+      ]
+    },
+    "created": 1758558791,
+    "d1": "ia601307.us.archive.org",
+    "d2": "ia801307.us.archive.org",
+    "dir": "/7/items/christmas198600mere",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659742708",
+        "size": "9953",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "da9e3081341fb8c0b1319fa576d31756",
+        "crc32": "18d98cb8",
+        "sha1": "c7555c3f2a5d2e0216a4e904e93d80d987fc6d31"
+      },
+      {
+        "name": "christmas198600mere.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "christmas198600mere_hocr.html",
+        "mtime": "1753149789",
+        "size": "68928050",
+        "private": "true",
+        "md5": "881e764d1a6d5b9072ffdc3fc147362e",
+        "crc32": "a153832c",
+        "sha1": "49ee937334f6922a565f4444f6e4e7b289668e9c"
+      },
+      {
+        "name": "christmas198600mere.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "christmas198600mere_jp2.zip",
+        "mtime": "1347263829",
+        "size": "243394",
+        "md5": "ea6cf6c689f8bebc210fc35cd495fdab",
+        "crc32": "9a928ec6",
+        "sha1": "3134aaaaefed7d34d4d134ce90b7e929f3d2533a"
+      },
+      {
+        "name": "christmas198600mere.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "christmas198600mere.pdf",
+        "mtime": "1753149379",
+        "size": "32383163",
+        "md5": "59614deba2c92713f02c09014b8e1da1",
+        "crc32": "ed57ade6",
+        "sha1": "5f21b17642b10a561979c48d5f8570c1ed981ec7"
+      },
+      {
+        "name": "christmas198600mere.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "christmas198600mere_page_numbers.json",
+        "mtime": "1715969594",
+        "size": "32018012",
+        "md5": "e118eec3c857b78d3fc3029d4ffa483c",
+        "crc32": "fdccdaba",
+        "sha1": "67f5e1804803bdd07e5d623215bdd9e3ab2961ec",
+        "private": "true"
+      },
+      {
+        "name": "christmas198600mere.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1340648304",
+        "size": "436132",
+        "md5": "0454c930dca1b478f591c76e09e8f166",
+        "crc32": "eb9ac9e8",
+        "sha1": "a5567ddd83dad46afbcc9608a20ada979b4c3f45"
+      },
+      {
+        "name": "christmas198600mere.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "christmas198600mere.warc.gz",
+        "mtime": "1347259666",
+        "size": "5595",
+        "md5": "9dcaa8e49f5310a3b67a0fdfa34f68eb",
+        "crc32": "bffcb274",
+        "sha1": "9ac0db5a0cd6077e81c8c29179fd8a6ac380daf8",
+        "private": "true"
+      },
+      {
+        "name": "christmas198600mere_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "christmas198600mere_jp2.zip",
+        "mtime": "1347266486",
+        "size": "4653912",
+        "md5": "226522babbc7e704f94fc7d8af631282",
+        "crc32": "8486ec29",
+        "sha1": "988e767a2062e1315bac713dbeb939a6f1821edf",
+        "private": "true"
+      },
+      {
+        "name": "christmas198600mere_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "christmas198600mere_abbyy.gz",
+        "mtime": "1659742197",
+        "size": "3978099",
+        "md5": "fa493270d4e6e2437f4d62c2ab997c94",
+        "crc32": "9e93b98d",
+        "sha1": "d21122d5bc42a8e3fa9966d8d2aec7e416a41513",
+        "private": "true"
+      },
+      {
+        "name": "christmas198600mere_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "christmas198600mere_scandata.xml",
+        "mtime": "1669585569",
+        "size": "768",
+        "md5": "060fcbcec1282f7e140ad945271c34ae",
+        "crc32": "1f41a7ad",
+        "sha1": "00f5a736e4f0a436db4fe475af03d1e66c6e7b21",
+        "private": "true"
+      },
+      {
+        "name": "christmas198600mere_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1505916404",
+        "size": "1160",
+        "md5": "3556aa1ff1802278a229f224718abfd0",
+        "crc32": "ee1e116c",
+        "sha1": "d2af4d6413da7ed820b4b215ae4d11426d80ed0b"
+      },
+      {
+        "name": "christmas198600mere_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "christmas198600mere_djvu.xml",
+        "mtime": "1715970070",
+        "size": "350248",
+        "md5": "9bef38f946705d1b36fe2a81910c5e5e",
+        "crc32": "6feea791",
+        "sha1": "e4417fba0a66dc84e5545a81853c07e8f361b557",
+        "private": "true"
+      },
+      {
+        "name": "christmas198600mere_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "christmas198600mere_hocr.html",
+        "mtime": "1715964374",
+        "size": "4407912",
+        "md5": "1b4d86eb934e203e6eb56a95ebe7a15b",
+        "crc32": "6c6bad5f",
+        "sha1": "818f90f404498352db86b75745bbfdd4650cd556",
+        "private": "true"
+      },
+      {
+        "name": "christmas198600mere_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "christmas198600mere.pdf",
+        "mtime": "1715970074",
+        "size": "31959791",
+        "md5": "4173f3b4b91e344710542ab9e26e75d4",
+        "crc32": "ce267f56",
+        "sha1": "24136f3cbf1bbb4ebb55952e913ec6431c4c6baa"
+      },
+      {
+        "name": "christmas198600mere_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9a0803cd27d23f3fcb6539394a83116e",
+        "summation": "md5"
+      },
+      {
+        "name": "christmas198600mere_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "christmas198600mere_chocr.html.gz",
+        "mtime": "1659742332",
+        "size": "8961371",
+        "md5": "db4f255249cabad807114d2b21503bd9",
+        "crc32": "63a83967",
+        "sha1": "c527f82c1c1834dbfa3823a0b2afa7be02be91fb",
+        "private": "true"
+      },
+      {
+        "name": "christmas198600mere_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "christmas198600mere_hocr.html",
+        "mtime": "1659742515",
+        "size": "2601",
+        "md5": "f243b9f36b63a3fe32387d280676bcf7",
+        "crc32": "c6ba536b",
+        "sha1": "5dd700d0636eef9b2195d64cffb5c967b50e5c3c",
+        "private": "true"
+      },
+      {
+        "name": "christmas198600mere_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "3277",
+        "word_conf_11_20": "1949",
+        "word_conf_21_30": "5203",
+        "word_conf_31_40": "5997",
+        "word_conf_41_50": "10243",
+        "word_conf_51_60": "10695",
+        "word_conf_61_70": "7039",
+        "word_conf_71_80": "3038",
+        "word_conf_81_90": "1724",
+        "word_conf_91_100": "2219",
+        "format": "OCR Search Text",
+        "original": "christmas198600mere_hocr.html",
+        "mtime": "1659742675",
+        "size": "123424",
+        "md5": "ac66c896bfb791ff02291c451cdda5b7",
+        "crc32": "a29eafdb",
+        "sha1": "3593da38f67afb8e14ad0f6df9bdff7b21b4f820",
+        "private": "true"
+      },
+      {
+        "name": "christmas198600mere_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "christmas198600mere_orig_jp2.tar",
+        "mtime": "1347263766",
+        "size": "172921531",
+        "md5": "7b58bad8a3124e2c0decde8c81023802",
+        "crc32": "55454a7d",
+        "sha1": "3daaea0b70b06cdf8c117eace4b1929e03d3e962",
+        "private": "true",
+        "filecount": "230"
+      },
+      {
+        "name": "christmas198600mere_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "christmas198600mere.epub",
+        "mtime": "1753150087",
+        "size": "69493139",
+        "md5": "ae49dd53db0093adcccf29379d324594",
+        "crc32": "4cf59100",
+        "sha1": "9371125135a241cbb8fb0b896b2f12e6cdf83c0b"
+      },
+      {
+        "name": "christmas198600mere_loans.json",
+        "source": "original",
+        "mtime": "1592895148",
+        "size": "5001",
+        "format": "JSON",
+        "private": "true",
+        "md5": "3b10aa607ad65936b1ea96c97bab0d6c",
+        "crc32": "b09da098",
+        "sha1": "320d9f7dfefc9a84320b18237a2e89a1f813bd32"
+      },
+      {
+        "name": "christmas198600mere_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1505916404",
+        "size": "4134",
+        "md5": "4399544fbcfa5c532af29b71ea2b4da9",
+        "crc32": "fdd23644",
+        "sha1": "d89c2cd6d40a5ebf484508af325f28b9fa87ff47"
+      },
+      {
+        "name": "christmas198600mere_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "christmas198600mere_xisbn.json",
+        "mtime": "1454278801",
+        "size": "337",
+        "md5": "908428cac6ebafca8085a0d869e31c4b",
+        "crc32": "ab382322",
+        "sha1": "6db893d6be5038553e87c29df774692bbbb00fed",
+        "private": "true"
+      },
+      {
+        "name": "christmas198600mere_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454278799",
+        "size": "1191",
+        "md5": "f232975495b7da644ac2c53e2fd0be22",
+        "crc32": "23148937",
+        "sha1": "76cea0c6097c74d61820958870c20a1d91b401db"
+      },
+      {
+        "name": "christmas198600mere_meta.sqlite",
+        "source": "original",
+        "mtime": "1463973991",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "bb3a7c710e3706de8fca5258955f5e78",
+        "crc32": "a161b804",
+        "sha1": "c336329e14c28e7b9452839e978caa5b21665d8b"
+      },
+      {
+        "name": "christmas198600mere_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753150087",
+        "size": "3533",
+        "md5": "28a4dc267e22fbd2e1c1fadcc96b981a",
+        "crc32": "05f2c810",
+        "sha1": "e1761f1c9e328b71c8009a75b784d729bb8420b8"
+      },
+      {
+        "name": "christmas198600mere_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1340648304",
+        "size": "284",
+        "md5": "0ff1fcb60bb40b25260c724844c7ecb4",
+        "crc32": "86d692fd",
+        "sha1": "aff4214102faf8dded3c09b2e3261abe95c1c85e"
+      },
+      {
+        "name": "christmas198600mere_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1346286625",
+        "size": "231454720",
+        "md5": "27801aca1d084be132a4daea0aa4104a",
+        "crc32": "b2541bfe",
+        "sha1": "cbab08a43ecfbf1847eb64aa6112ab99e8d08a7f",
+        "private": "true",
+        "filecount": "230"
+      },
+      {
+        "name": "christmas198600mere_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "95",
+        "format": "Page Numbers JSON",
+        "original": "christmas198600mere_hocr.html",
+        "mtime": "1715964760",
+        "size": "38666",
+        "md5": "c5a2b0c2759d753e44e336c32369b5b8",
+        "crc32": "527d7d12",
+        "sha1": "b019c73cbb4f4caa5636261baa8936545f06d618",
+        "private": "true"
+      },
+      {
+        "name": "christmas198600mere_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669585569",
+        "size": "230169",
+        "md5": "1f50093679fa8d450f8a82737961c366",
+        "crc32": "bbe0ff60",
+        "sha1": "7d10dd32ae92b535f196abe086d8f10c4fbea7b1"
+      },
+      {
+        "name": "christmas198600mere_xisbn.json",
+        "source": "original",
+        "mtime": "1454149345",
+        "size": "332",
+        "md5": "da4220d1cbb1126e41b1eb7084c1758c",
+        "crc32": "ce902f0f",
+        "sha1": "555a9e8cd0899f394dbc79fe87b458529c599758",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753150087,
+    "item_size": 662622766,
+    "metadata": {
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "title": "Christmas 1986",
+      "isbn": [
+        "0696015706",
+        "9780696015700"
+      ],
+      "language": "eng",
+      "date": "1986-01-01",
+      "openlibrary": "OL7760216M",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-06-25 18:18:18",
+      "updater": "associate-lotu-tii@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "f0134",
+      "boxid": "IA155216",
+      "identifier": "christmas198600mere",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2012-06-25 18:18:26",
+      "publicdate": "2012-06-25 18:18:39",
+      "scanner": "scribe24.shenzhen.archive.org",
+      "notes": "page 95-96.183-184 are missing in the original book",
+      "repub_seconds": "44067",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-sven@archive.org",
+      "scandate": "20120828063235",
+      "republisher": "scanner-shenzhen-sun@archive.org",
+      "imagecount": "230",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/christmas198600mere",
+      "identifier-ark": "ark:/13960/t85h8rq7n",
+      "bookplateleaf": "0002",
+      "scanfee": "150",
+      "donor": "internetarchivebookdrive",
+      "sponsordate": "not to be invoiced-past billing period",
+      "external-identifier": [
+        "urn:acs6:christmas198600mere:pdf:7640d0a6-161f-4391-9512-37cd7fc29ad4",
+        "urn:acs6:christmas198600mere:epub:b333963f-74bc-444b-95c0-4a24749ec174",
+        "urn:oclc:record:1029264221",
+        "urn:lcp:christmas198600mere:lcpdf:d6060bf3-bd1b-4b9d-ae23-3e3b8bce3f0d",
+        "urn:lcp:christmas198600mere:epub:a84fdbc0-fdcc-46f5-94f9-9b6fb328afe9"
+      ],
+      "subject": [
+        "Christmas",
+        "Christmas cooking",
+        "Handicraft",
+        "Christmas decorations",
+        "Christmas",
+        "Christmas cooking",
+        "Christmas decorations",
+        "Handicraft"
+      ],
+      "description": "Includes index",
+      "creator": "from the editors of Better Homes and Gardens Books.",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": "14525135",
+      "backup_location": "ia903805_22",
+      "openlibrary_edition": "OL7760216M",
+      "openlibrary_work": "OL17050957W",
+      "republisher_operator": "scanner-shenzhen-wu@archive.org;scanner-shenzhen-sun@archive.org",
+      "republisher_date": "20120830001821",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "95",
+      "filesxml": "Tue Apr 2 23:25:57 UTC 2024",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia801307.us.archive.org",
+    "uniq": 2048240308,
+    "workable_servers": [
+      "ia801307.us.archive.org",
+      "ia601307.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/14525135?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "from the editors of Better Homes and Gardens Books.",
+          "ed": "1st ed.",
+          "year": "1986",
+          "isbn": [
+            "0696015706"
+          ],
+          "title": "Christmas 1986",
+          "oclcnum": [
+            "14525135"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "from the editors of Better Homes and Gardens Books.",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

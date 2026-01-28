@@ -1,0 +1,89 @@
+{
+  "source": "dpla",
+  "id": "597b187e3fdc3138d3cfcf49b4047371",
+  "identifier": "597b187e3fdc3138d3cfcf49b4047371",
+  "title": "Some Pages from the Recipe Collection of Ernest Coker",
+  "subject": [],
+  "spatial": [
+    "Houston, Harris County, Texas"
+  ],
+  "description": "A cookbook of recipes from Ernest Coker, host of Ye Old College Inn, Houston.",
+  "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/182",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/txdl",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q30289389"
+    ],
+    "name": "Texas Digital Library"
+  },
+  "institution": "Texas Digital Library",
+  "year": 1950,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/597b187e3fdc3138d3cfcf49b4047371#SourceResource",
+      "collection": [
+        {
+          "title": "DeGolyer Library Cookbook Collection"
+        }
+      ],
+      "creator": [
+        "Coker, Ernest"
+      ],
+      "date": [
+        {
+          "displayDate": "ca. 1950s"
+        }
+      ],
+      "description": [
+        "A cookbook of recipes from Ernest Coker, host of Ye Old College Inn, Houston."
+      ],
+      "identifier": [
+        "TX715 .C64 1950z"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "DeGolyer Library"
+      ],
+      "rights": [
+        "This item may be protected by copyright law. Please cite DeGolyer Library, Southern Methodist University as the source of this file. For more information, contact degolyer@smu.edu."
+      ],
+      "spatial": [
+        {
+          "name": "Houston, Harris County, Texas"
+        }
+      ],
+      "title": [
+        "Some Pages from the Recipe Collection of Ernest Coker"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1950-01-01",
+      "normalized_dates": [
+        "1950-01-01"
+      ]
+    }
+  },
+  "data": {
+    "object": "http://digitalcollections.smu.edu/utils/getthumbnail/collection/dlc/id/182",
+    "isShownAt": "http://digitalcollections.smu.edu/cdm/ref/collection/dlc/id/182"
+  },
+  "location": {
+    "state": "Wi"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Methodist"
+    ]
+  },
+  "curation_notes": "Community markers: Methodist; Digitized scan available"
+}

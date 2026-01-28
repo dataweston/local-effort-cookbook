@@ -1,0 +1,610 @@
+{
+  "source": "internet_archive",
+  "identifier": "grandmasbestreci00publ",
+  "title": "Grandma's best recipes",
+  "creator": "Publications International, Ltd",
+  "year": 2003,
+  "subject": [
+    "Cooking, American",
+    "Brand name products"
+  ],
+  "description": [
+    "Illustrated boards",
+    "\"Easy home cooking\"--Cover",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/grandmasbestreci00publ"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/grandmasbestreci00publ"
+        }
+      ]
+    },
+    "created": 1758555744,
+    "d1": "ia600701.us.archive.org",
+    "d2": "ia800701.us.archive.org",
+    "dir": "/28/items/grandmasbestreci00publ",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660095305",
+        "size": "18235",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "43fcd7a80cb1d4f9298b37d734f4ab3a",
+        "crc32": "9aaeabd9",
+        "sha1": "738e7e0f02baced3487dfb18b82a78816b0c6520"
+      },
+      {
+        "name": "grandmasbestreci00publ.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "grandmasbestreci00publ_hocr.html",
+        "mtime": "1753401800",
+        "size": "8675516",
+        "private": "true",
+        "md5": "30faa6b82e02288e7c4739d4c9aa7a62",
+        "crc32": "6207083d",
+        "sha1": "43e26e9172be1dea7678e9b74ab3f196fec422f6"
+      },
+      {
+        "name": "grandmasbestreci00publ.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "grandmasbestreci00publ_jp2.zip",
+        "mtime": "1348921521",
+        "size": "262401",
+        "md5": "e6a7ad2ec253d9fc0b088c923b0df08b",
+        "crc32": "ab91b287",
+        "sha1": "1d2cbb3fb929fe8c777d615ebc41d25c996ebedf"
+      },
+      {
+        "name": "grandmasbestreci00publ.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "grandmasbestreci00publ.pdf",
+        "mtime": "1753401437",
+        "size": "8904420",
+        "md5": "fe1c35d57a8c4b914f19d97d9c55db40",
+        "crc32": "ec91eceb",
+        "sha1": "0430cb1d1927e283b10a69655253f79c83841133"
+      },
+      {
+        "name": "grandmasbestreci00publ.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "grandmasbestreci00publ_page_numbers.json",
+        "mtime": "1715452554",
+        "size": "8646742",
+        "md5": "913a70d17d4330373993aaea866c383b",
+        "crc32": "1272a845",
+        "sha1": "6fa39fa4758c0e41a9492e055d435f4c1a617e4a",
+        "private": "true"
+      },
+      {
+        "name": "grandmasbestreci00publ.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1342199430",
+        "size": "487271",
+        "md5": "853bc70e8b27ddf6893bd1af72a8e97a",
+        "crc32": "a24cb03d",
+        "sha1": "85e1e16e9b3d5c05dbbc88aeb13e9434f9d9bf70"
+      },
+      {
+        "name": "grandmasbestreci00publ.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "grandmasbestreci00publ.warc.gz",
+        "mtime": "1348920071",
+        "size": "5927",
+        "md5": "efce479e2ae6ceb058cb362ab85a9a00",
+        "crc32": "8ce194d5",
+        "sha1": "44f4676a4b5aaf6d80c8e3201fd5efc7547e9e6c",
+        "private": "true"
+      },
+      {
+        "name": "grandmasbestreci00publ_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "grandmasbestreci00publ_jp2.zip",
+        "mtime": "1348922425",
+        "size": "1541946",
+        "md5": "2d831aaeec166598c1076eabed09288f",
+        "crc32": "b94d2838",
+        "sha1": "54539867a1294e1500e051471a4bf789e8749b7c",
+        "private": "true"
+      },
+      {
+        "name": "grandmasbestreci00publ_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "grandmasbestreci00publ_abbyy.gz",
+        "mtime": "1660095065",
+        "size": "1300692",
+        "md5": "60625ed7396e1583e51a380e44dec5f7",
+        "crc32": "b16c7176",
+        "sha1": "622c463e6d7d0d403244d1d61a1ec3623fa50465",
+        "private": "true"
+      },
+      {
+        "name": "grandmasbestreci00publ_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "grandmasbestreci00publ_scandata.xml",
+        "mtime": "1670086874",
+        "size": "780",
+        "md5": "626dea44ca086f2c6eb79464a09595f1",
+        "crc32": "c1e05711",
+        "sha1": "d79030a69aa3fa4f61d3e25d5beb044151c097f0",
+        "private": "true"
+      },
+      {
+        "name": "grandmasbestreci00publ_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1504021480",
+        "size": "1198",
+        "md5": "e3b628519adb988fd3257ad06323bbcc",
+        "crc32": "568e7c5a",
+        "sha1": "ec268908b8a3880d4ffb718778b7e9334d4e9a20"
+      },
+      {
+        "name": "grandmasbestreci00publ_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "grandmasbestreci00publ_djvu.xml",
+        "mtime": "1715452567",
+        "size": "115772",
+        "md5": "0ded82f1e249229557dc40578b442fb4",
+        "crc32": "18d158f6",
+        "sha1": "1f7bc69a2f48900d91899a5b20d0b0fddf380cdc",
+        "private": "true"
+      },
+      {
+        "name": "grandmasbestreci00publ_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "grandmasbestreci00publ_hocr.html",
+        "mtime": "1715452132",
+        "size": "1465034",
+        "md5": "35f894f5a815dae8da7e24160f93ca0d",
+        "crc32": "e2400a71",
+        "sha1": "85ad74ae45acef711931908135342d6f59e54034",
+        "private": "true"
+      },
+      {
+        "name": "grandmasbestreci00publ_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "grandmasbestreci00publ.pdf",
+        "mtime": "1715452570",
+        "size": "8621402",
+        "md5": "9a3947f3ca01818cb48f4a985bc78afc",
+        "crc32": "b370d230",
+        "sha1": "9d0f901e6433158246ba0a9df62ecb642afb6a53"
+      },
+      {
+        "name": "grandmasbestreci00publ_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "87e37686597eafed12660a2e0816a5bf",
+        "summation": "md5"
+      },
+      {
+        "name": "grandmasbestreci00publ_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "grandmasbestreci00publ_chocr.html.gz",
+        "mtime": "1660095198",
+        "size": "3021881",
+        "md5": "7bf4661fbef03f97d6ffba8bf2a95d59",
+        "crc32": "35b697a5",
+        "sha1": "f3f270d3d44e82a3e2e989bb7e64e971986e3ed5",
+        "private": "true"
+      },
+      {
+        "name": "grandmasbestreci00publ_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "grandmasbestreci00publ_hocr.html",
+        "mtime": "1660095238",
+        "size": "1110",
+        "md5": "0a2fcc15f6b7b974ad6100ae71bcfe4a",
+        "crc32": "5e0613e0",
+        "sha1": "8601e0729a52eb4eccfc152d488a04753741b7c2",
+        "private": "true"
+      },
+      {
+        "name": "grandmasbestreci00publ_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1111",
+        "word_conf_11_20": "254",
+        "word_conf_21_30": "992",
+        "word_conf_31_40": "751",
+        "word_conf_41_50": "2108",
+        "word_conf_51_60": "2574",
+        "word_conf_61_70": "3398",
+        "word_conf_71_80": "2147",
+        "word_conf_81_90": "998",
+        "word_conf_91_100": "2168",
+        "format": "OCR Search Text",
+        "original": "grandmasbestreci00publ_hocr.html",
+        "mtime": "1660095278",
+        "size": "33915",
+        "md5": "1d888fa0fc92afaa02922346fb46ba0d",
+        "crc32": "f7891a39",
+        "sha1": "8c939d3ee069c594d6fb8cd4b3a0dd6547f0be54",
+        "private": "true"
+      },
+      {
+        "name": "grandmasbestreci00publ_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "grandmasbestreci00publ_orig_jp2.tar",
+        "mtime": "1348921471",
+        "size": "34875494",
+        "md5": "7703669ac2850efd2a28e7d9e01ca7c6",
+        "crc32": "4e5b60a9",
+        "sha1": "4e9527b8ec8c35cbee2720465b3f5cad97bb598b",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "grandmasbestreci00publ_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "grandmasbestreci00publ.epub",
+        "mtime": "1753401832",
+        "size": "8891480",
+        "md5": "6aa4183d8f53a3bcbd2ef65261714473",
+        "crc32": "95180130",
+        "sha1": "5c2c237003a54b8a6491d7aaa00941da73fe0575"
+      },
+      {
+        "name": "grandmasbestreci00publ_loans.json",
+        "source": "original",
+        "mtime": "1593057944",
+        "size": "12628",
+        "format": "JSON",
+        "private": "true",
+        "md5": "0746e9b57157e94087b95d5b4d321f23",
+        "crc32": "42904110",
+        "sha1": "5dd84baf143d9eda4e81b82e35698722abe15ae8"
+      },
+      {
+        "name": "grandmasbestreci00publ_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1504021478",
+        "size": "4066",
+        "md5": "0079716a60dfdb86c7cd20660619fd9a",
+        "crc32": "507ecd05",
+        "sha1": "c25f884d6cd81f94c3142981a05444e0c508d8e8"
+      },
+      {
+        "name": "grandmasbestreci00publ_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "grandmasbestreci00publ_xisbn.json",
+        "mtime": "1454455769",
+        "size": "682",
+        "md5": "4b8e31350f7d2c5809fd09d536570c7c",
+        "crc32": "fb110310",
+        "sha1": "78220596e7c84d66fa86d3fb9c4329f277fc93e5",
+        "private": "true"
+      },
+      {
+        "name": "grandmasbestreci00publ_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454455766",
+        "size": "1192",
+        "md5": "9eb4678dd7490d37e7b97c4098a3ba64",
+        "crc32": "cf2d49aa",
+        "sha1": "591c9426e617a8519be6ec25a5f522717149f6d0"
+      },
+      {
+        "name": "grandmasbestreci00publ_meta.sqlite",
+        "source": "original",
+        "mtime": "1469649466",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "017a1fe12dbd5648e6ef43f2f08170e7",
+        "crc32": "3be167cd",
+        "sha1": "92f22eabf77df4115b5e3268de4e69721e03e073"
+      },
+      {
+        "name": "grandmasbestreci00publ_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753401834",
+        "size": "3913",
+        "md5": "82c313fa3f6053d5d20de037424b6d54",
+        "crc32": "b2a96ba1",
+        "sha1": "2787b8cd9cc0f0f4ad2d9e1f21c2424644937528"
+      },
+      {
+        "name": "grandmasbestreci00publ_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1342199430",
+        "size": "288",
+        "md5": "92b3dc64fdc5171f875bc2a44005a3b8",
+        "crc32": "8f8a2f3c",
+        "sha1": "2226c305bd35690d09d54bae77744d83e1efccd3"
+      },
+      {
+        "name": "grandmasbestreci00publ_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1347923035",
+        "size": "48435200",
+        "md5": "e360833cf93d582b8d57d7130ed875a7",
+        "crc32": "b623da7e",
+        "sha1": "9b93178136b2c5d17b3415e93ceebf01d76225c9",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "grandmasbestreci00publ_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "67",
+        "format": "Page Numbers JSON",
+        "original": "grandmasbestreci00publ_hocr.html",
+        "mtime": "1715452137",
+        "size": "17127",
+        "md5": "6d9b0cd4e2cb62e5da51270267c9c686",
+        "crc32": "5737f042",
+        "sha1": "284a6fa7c5c3c8414c88daedf495e34cff73bb41",
+        "private": "true"
+      },
+      {
+        "name": "grandmasbestreci00publ_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670086874",
+        "size": "133571",
+        "md5": "b297c1bb5e3a5ebdedd05a28e5c5ed17",
+        "crc32": "65a843f3",
+        "sha1": "8be12e12b6738df6b1f1072b38881bc0682210f3"
+      },
+      {
+        "name": "grandmasbestreci00publ_xisbn.json",
+        "source": "original",
+        "mtime": "1454453659",
+        "size": "1153",
+        "md5": "d9953eec5f74c79f148e28c93ac7682c",
+        "crc32": "e1f448ed",
+        "sha1": "744fdaaded5550808f6e6e527c69c88e73a10240",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753401834,
+    "item_size": 135487180,
+    "metadata": {
+      "publisher": "Lincolnwood, IL : Publications International",
+      "title": "Grandma's best recipes",
+      "isbn": [
+        "0785386750",
+        "9780785386759"
+      ],
+      "language": "eng",
+      "date": "2003-01-01",
+      "openlibrary": "OL11035596M",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-07-13 17:10:24",
+      "updater": "associate-lotu-tii@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "f0133",
+      "boxid": "IA157313",
+      "identifier": "grandmasbestreci00publ",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2012-07-13 17:10:32",
+      "publicdate": "2012-07-13 17:10:35",
+      "scanner": "scribe13.shenzhen.archive.org",
+      "repub_seconds": "1554",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-heng@archive.org",
+      "scandate": "20120917012142",
+      "republisher": "scanner-shenzhen-lori@archive.org",
+      "imagecount": "102",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/grandmasbestreci00publ",
+      "identifier-ark": "ark:/13960/t3xs6zj3d",
+      "scanfee": "150",
+      "donor": "alibris",
+      "external-identifier": [
+        "urn:acs6:grandmasbestreci00publ:pdf:ea9ad69c-d196-45a8-9a23-79b7e1d58ead",
+        "urn:acs6:grandmasbestreci00publ:epub:fd2abc8d-e0fc-476e-ab7e-22f7ff7fe8b0",
+        "urn:oclc:record:1035371208",
+        "urn:lcp:grandmasbestreci00publ:lcpdf:156a8a4d-ce04-4159-9fad-9272bbdfcaee",
+        "urn:lcp:grandmasbestreci00publ:epub:eaab5047-83d2-468f-98c8-f067daf4e9a1"
+      ],
+      "creator": "Publications International, Ltd",
+      "subject": [
+        "Cooking, American",
+        "Brand name products",
+        "Brand name products",
+        "Cooking, American"
+      ],
+      "description": [
+        "Illustrated boards",
+        "\"Easy home cooking\"--Cover",
+        "Includes index"
+      ],
+      "city": "Lincolnwood, IL",
+      "oclc-id": "422500345",
+      "related-external-id": [
+        "urn:isbn:0785343962",
+        "urn:lccn:00100599",
+        "urn:oclc:244176771",
+        "urn:oclc:45441037",
+        "urn:isbn:0785385851",
+        "urn:lccn:2007281555",
+        "urn:oclc:244382087",
+        "urn:oclc:876923076",
+        "urn:isbn:0785337555",
+        "urn:oclc:47841753"
+      ],
+      "backup_location": "ia903807_9",
+      "openlibrary_edition": "OL11035596M",
+      "openlibrary_work": "OL17311081W",
+      "republisher_operator": "scanner-shenzhen-lori@archive.org",
+      "republisher_date": "20120917223812",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "67",
+      "filesxml": "Wed Apr 3 3:42:36 UTC 2024",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia800701.us.archive.org",
+    "uniq": 1374556968,
+    "workable_servers": [
+      "ia800701.us.archive.org",
+      "ia600701.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "publisher": "Publications International",
+          "url": [
+            "http://www.worldcat.org/oclc/422500345?referer=xid"
+          ],
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "2003",
+          "isbn": [
+            "0785386750"
+          ],
+          "title": "Grandma's best recipes.",
+          "oclcnum": [
+            "422500345"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/244176771?referer=xid"
+          ],
+          "publisher": "Publications International, Ltd.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "00100599"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "ed": "1st.",
+          "year": "2000",
+          "isbn": [
+            "0785343962"
+          ],
+          "title": "Favorite brand name grandma's best-loved recipes.",
+          "oclcnum": [
+            "244176771",
+            "45441037"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/244382087?referer=xid"
+          ],
+          "publisher": "Publications International, Ltd.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2007281555"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "2007",
+          "isbn": [
+            "0785385851"
+          ],
+          "title": "Grandma's best recipes.",
+          "oclcnum": [
+            "244382087",
+            "876923076"
+          ]
+        },
+        {
+          "publisher": "Publications International",
+          "url": [
+            "http://www.worldcat.org/oclc/47841753?referer=xid"
+          ],
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, Ill.",
+          "year": "1999",
+          "isbn": [
+            "0785337555"
+          ],
+          "title": "Grandma's best recipes.",
+          "oclcnum": [
+            "47841753"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Publications International, Ltd",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Home Cook"
+    ]
+  },
+  "curation_notes": "Community markers: Home Cook; Digitized scan available"
+}

@@ -1,0 +1,551 @@
+{
+  "source": "internet_archive",
+  "identifier": "letspretend00desm",
+  "title": "Let's pretend",
+  "creator": "Des Moines, Iowa : Meredith Corp",
+  "year": 1988,
+  "subject": [
+    "Handicraft",
+    "Creative activities and seat work"
+  ],
+  "description": [
+    "On cover: Arts, crafts, cooking, science, nature",
+    "On cover: Ages 4 & up"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/letspretend00desm"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/letspretend00desm"
+        }
+      ]
+    },
+    "created": 1758555352,
+    "d1": "ia600209.us.archive.org",
+    "d2": "ia800209.us.archive.org",
+    "dir": "/24/items/letspretend00desm",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660499328",
+        "size": "23568",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "d184ce3cdb30e6c883e9cea135a16255",
+        "crc32": "53a96ab7",
+        "sha1": "704e9530913ed13df4b71521af28f6353329ac87"
+      },
+      {
+        "name": "letspretend00desm.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "letspretend00desm_hocr.html",
+        "mtime": "1756898930",
+        "size": "12594197",
+        "private": "true",
+        "md5": "52ce42fd408fe1049c2b56eec43b383c",
+        "crc32": "652bb81e",
+        "sha1": "c53ee5850c69b2dac52fd34fa0308bb585e30f13"
+      },
+      {
+        "name": "letspretend00desm.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "letspretend00desm_jp2.zip",
+        "md5": "1a35fa0d99a45664e01165c80971a39f",
+        "mtime": "1281747883",
+        "size": "223155",
+        "crc32": "a9b662e0",
+        "sha1": "396a2e9c202ff81598d0d9a07aa7901d751a26bd"
+      },
+      {
+        "name": "letspretend00desm.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "letspretend00desm.pdf",
+        "mtime": "1756898575",
+        "size": "3204768",
+        "md5": "63e987760ce513bf46b9e882196f3c17",
+        "crc32": "2bf839cf",
+        "sha1": "305fd2a94524582739b4264b0567e0e640bb38ca"
+      },
+      {
+        "name": "letspretend00desm.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "letspretend00desm_page_numbers.json",
+        "mtime": "1714340591",
+        "size": "2796848",
+        "md5": "35d100c4d37742666d72d3b019b6971d",
+        "crc32": "6a616746",
+        "sha1": "b4ee1597544cbf413036f5ac46fbd0e717f650ca",
+        "private": "true"
+      },
+      {
+        "name": "letspretend00desm_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "letspretend00desm_jp2.zip",
+        "md5": "f3f308b80f64e83ed05445e2699dcd1f",
+        "mtime": "1281764928",
+        "size": "368489",
+        "crc32": "68a4a84e",
+        "sha1": "a7968fbc94e509a7143f5b981ccb1cc91796398b",
+        "private": "true"
+      },
+      {
+        "name": "letspretend00desm_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "letspretend00desm_page_numbers.json",
+        "mtime": "1714340591",
+        "size": "2542775",
+        "md5": "3b15d77de2744b9ba0c361bb172a4414",
+        "crc32": "786c374f",
+        "sha1": "c030eeb28fe9f88d94ad3eec622e5c424a957cdd",
+        "private": "true"
+      },
+      {
+        "name": "letspretend00desm_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "letspretend00desm_abbyy.gz",
+        "mtime": "1660499208",
+        "size": "307774",
+        "md5": "8549448a4ce53fa194340a6388255bd3",
+        "crc32": "7939c472",
+        "sha1": "f126cb86d171af36615310fb08ec74ea1d60921d",
+        "private": "true"
+      },
+      {
+        "name": "letspretend00desm_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "letspretend00desm_scandata.xml",
+        "mtime": "1670536092",
+        "size": "759",
+        "md5": "c6bd91fce3a235621107b1306a73b27f",
+        "crc32": "2863d55b",
+        "sha1": "82b5d394a35774ff45a772895598366e867ea2c3",
+        "private": "true"
+      },
+      {
+        "name": "letspretend00desm_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "3d01572dada1faa704e029213440a707",
+        "mtime": "1280418025",
+        "size": "620",
+        "crc32": "d13eaf2f",
+        "sha1": "a7bb00a44c5a5d6a652d17c7f2de7f1cac83c809"
+      },
+      {
+        "name": "letspretend00desm_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "letspretend00desm_djvu.xml",
+        "mtime": "1715385603",
+        "size": "28188",
+        "md5": "da89990fd3d87acd266f4f4d1b204c8a",
+        "crc32": "26c45085",
+        "sha1": "9cc9c230e28b2a2612c40195d1ca7c061d3c959b",
+        "private": "true"
+      },
+      {
+        "name": "letspretend00desm_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "letspretend00desm_hocr.html",
+        "mtime": "1715385599",
+        "size": "369569",
+        "md5": "0e3122beefbc265d64cbb31f4547125c",
+        "crc32": "3f35901d",
+        "sha1": "574448ab06b6e0da9cb8b4375659be79a328a7cf",
+        "private": "true"
+      },
+      {
+        "name": "letspretend00desm_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "letspretend00desm.pdf",
+        "mtime": "1714340685",
+        "size": "2790489",
+        "md5": "ba74ae7b44eebe3f3781e11e1e253629",
+        "crc32": "0ea00b2c",
+        "sha1": "de4bc682cced988634ef6dcb77338bce9d9cc2cd"
+      },
+      {
+        "name": "letspretend00desm_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "5a1100a33d4dace337076e4ccf4a53e8",
+        "summation": "md5"
+      },
+      {
+        "name": "letspretend00desm_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "letspretend00desm_chocr.html.gz",
+        "mtime": "1660499258",
+        "size": "737399",
+        "md5": "71a7208e72de9ca79c8e7950cd4097fe",
+        "crc32": "ac77f834",
+        "sha1": "1fd83aa3510514caca6b2bf8b18072a02d8ef4f7",
+        "private": "true"
+      },
+      {
+        "name": "letspretend00desm_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "letspretend00desm_hocr.html",
+        "mtime": "1660499282",
+        "size": "464",
+        "md5": "1f01e90e6376deee0353aea55df705ee",
+        "crc32": "603f40f5",
+        "sha1": "3826408fbff903379ddfe3ae5d1de1cd71e8c027",
+        "private": "true"
+      },
+      {
+        "name": "letspretend00desm_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "323",
+        "word_conf_11_20": "99",
+        "word_conf_21_30": "288",
+        "word_conf_31_40": "253",
+        "word_conf_41_50": "659",
+        "word_conf_51_60": "806",
+        "word_conf_61_70": "816",
+        "word_conf_71_80": "412",
+        "word_conf_81_90": "126",
+        "word_conf_91_100": "448",
+        "format": "OCR Search Text",
+        "original": "letspretend00desm_hocr.html",
+        "mtime": "1660499306",
+        "size": "10554",
+        "md5": "1123fc4e6e476d2694f299172b09350a",
+        "crc32": "45120b36",
+        "sha1": "bf4c3c5b82a72cb4826c0c8cd18ed3dad6729105",
+        "private": "true"
+      },
+      {
+        "name": "letspretend00desm_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "letspretend00desm_orig_jp2.tar",
+        "md5": "0bf469b0bfd95e90bdd7fc849262d60b",
+        "mtime": "1281747854",
+        "size": "18580207",
+        "crc32": "abe92e00",
+        "sha1": "14cd69fc9d8b8a259996765258866840f55d3eaf",
+        "private": "true",
+        "filecount": "44"
+      },
+      {
+        "name": "letspretend00desm_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "letspretend00desm.epub",
+        "mtime": "1756899200",
+        "size": "12663329",
+        "md5": "4a0b98bc6268f3750555d52ce3244fcf",
+        "crc32": "e3b14533",
+        "sha1": "90195a62402c56faa5580632218e7047e294129c"
+      },
+      {
+        "name": "letspretend00desm_loans.json",
+        "source": "original",
+        "mtime": "1593061446",
+        "size": "455",
+        "format": "JSON",
+        "private": "true",
+        "md5": "3eae0ef5bc000d676a0c46c0ea5637df",
+        "crc32": "5823d50d",
+        "sha1": "d1917f601456497611f4eb50bdb7c62a3eb12ce9"
+      },
+      {
+        "name": "letspretend00desm_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "c877320be47953bd6ade46cc30439c49",
+        "mtime": "1280418025",
+        "size": "3223",
+        "crc32": "eee8f539",
+        "sha1": "bf58200f054062fa92e6f42ca0b70e56d8617c06"
+      },
+      {
+        "name": "letspretend00desm_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "letspretend00desm_xisbn.json",
+        "mtime": "1454726044",
+        "size": "569",
+        "md5": "6f7526ec60bdb577eec0a6377fd92795",
+        "crc32": "9cda457f",
+        "sha1": "576643279944271ce37195e53645dbf3424fcc20",
+        "private": "true"
+      },
+      {
+        "name": "letspretend00desm_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "b17764f34db32cbd894a3aac985985e4",
+        "mtime": "1280418025",
+        "size": "983",
+        "crc32": "3cadb30a",
+        "sha1": "691d216478fc5dc3d03b20cfc856868e002d534a"
+      },
+      {
+        "name": "letspretend00desm_meta.sqlite",
+        "source": "original",
+        "mtime": "1464839484",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "4b1dc8e837efbe20daaf1a8f58a5ff82",
+        "crc32": "8c4e58dc",
+        "sha1": "fda9f9b5a63a37928790a1726d0287171a09d8aa"
+      },
+      {
+        "name": "letspretend00desm_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1756899387",
+        "size": "3307",
+        "md5": "38bcaa00b7bde92154cea3121fd0faee",
+        "crc32": "6d5d4c62",
+        "sha1": "2bcfdb33430a6b17e1a8fca9cd29d996004eeb2b"
+      },
+      {
+        "name": "letspretend00desm_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "9cc9fef43550c637bad0acf34ac8dfb6",
+        "mtime": "1280418025",
+        "size": "362",
+        "crc32": "e5078ca9",
+        "sha1": "94e2339e10a22a6a95b39a9a55303bd39d0f3aef"
+      },
+      {
+        "name": "letspretend00desm_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "34763a3f6716d78a1bcc931e88180a3c",
+        "mtime": "1281747072",
+        "size": "28313600",
+        "crc32": "2108e788",
+        "sha1": "512a52b8c73e6cd92e64a842a79c2262bc1d35e9",
+        "private": "true",
+        "filecount": "44"
+      },
+      {
+        "name": "letspretend00desm_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "43",
+        "format": "Page Numbers JSON",
+        "original": "letspretend00desm_hocr.html",
+        "mtime": "1714340591",
+        "size": "6579",
+        "md5": "40c42877acf70fcb75a5380663b5fab4",
+        "crc32": "a10b41be",
+        "sha1": "96dddf3e685ff11da07452a0cc4c25c6168af94b",
+        "private": "true"
+      },
+      {
+        "name": "letspretend00desm_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "560dd9e97945b09528c41377611cbd29",
+        "mtime": "1670536092",
+        "size": "23322",
+        "crc32": "874a1410",
+        "sha1": "a78891fe6332cecdbbd8c2c781acccd79e9cda16"
+      },
+      {
+        "name": "letspretend00desm_xisbn.json",
+        "source": "original",
+        "mtime": "1454598344",
+        "size": "622",
+        "md5": "44cca7817f0b893a6ab34efb238bc462",
+        "crc32": "f12fc476",
+        "sha1": "ca542cd10afbc4534e5cb9da024f9b47eace2263",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1756899387,
+    "item_size": 85602318,
+    "metadata": {
+      "title": "Let's pretend",
+      "creator": "Des Moines, Iowa : Meredith Corp",
+      "subject": [
+        "Handicraft",
+        "Creative activities and seat work"
+      ],
+      "description": [
+        "On cover: Arts, crafts, cooking, science, nature",
+        "On cover: Ages 4 & up"
+      ],
+      "publisher": "Des Moines, Iowa : Meredith Corp",
+      "date": "1988-01-01",
+      "language": "eng",
+      "isbn": "0696018136",
+      "page-progression": "lr",
+      "boxid": "IA124501",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sfdowntown",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-07-29 15:40:25",
+      "updater": "Tracey.Gutierres",
+      "identifier": "letspretend00desm",
+      "uploader": "tracey.g@archive.org",
+      "addeddate": "2010-07-29 15:40:27",
+      "publicdate": "2010-07-29 15:40:36",
+      "notes": "There are 0 copyright pages\nThere are 0 TOC pages",
+      "ppi": "400",
+      "camera": "Canon 5D",
+      "operator": "scanner-maria-jordan@archive.org",
+      "scanner": "scribe3.sfdowntown.archive.org",
+      "scandate": "20100814003546",
+      "imagecount": "42",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/letspretend00desm",
+      "identifier-ark": "ark:/13960/t6ww84p7h",
+      "bookplateleaf": "0004",
+      "curation": "[curator]jacob@archive.org[/curator][date]20100817193412[/date][state]approved[/state]",
+      "external-identifier": [
+        "urn:acs6:letspretend00desm:pdf:c7c1ba65-747f-439e-8f09-58d4091ca802",
+        "urn:acs6:letspretend00desm:epub:9072cfd6-9699-44f2-8bdc-dff7468b1d68",
+        "urn:oclc:record:1035937878",
+        "urn:lcp:letspretend00desm:lcpdf:6ae96c96-2966-496d-aaad-312486b97b3b",
+        "urn:lcp:letspretend00desm:epub:956ff4e9-d479-43c4-aa8c-b11fbb146203"
+      ],
+      "donor": "internetarchivebookdrive",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": [
+        "22115150",
+        "868357845"
+      ],
+      "lccn": "90169325",
+      "related-external-id": [
+        "urn:isbn:0696019000",
+        "urn:lccn:90169325",
+        "urn:oclc:506089789",
+        "urn:oclc:22115150"
+      ],
+      "backup_location": "ia903605_35",
+      "openlibrary_edition": "OL1945995M",
+      "openlibrary_work": "OL16476882W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Fri Dec 25 1:43:24 UTC 2020",
+        "Wed Apr 3 7:53:07 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "43",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia800209.us.archive.org",
+    "uniq": 1474614907,
+    "workable_servers": [
+      "ia800209.us.archive.org",
+      "ia600209.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/22115150?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "90169325"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "ed": "1st ed.",
+          "year": "1988",
+          "isbn": [
+            "0696018136"
+          ],
+          "title": "Let's pretend.",
+          "oclcnum": [
+            "22115150",
+            "868357845"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/506089789?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "90169325"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "Better Homes and Gardens.",
+          "ed": "1st ed.",
+          "year": "1988",
+          "isbn": [
+            "0696019000"
+          ],
+          "title": "It's a special day",
+          "oclcnum": [
+            "506089789",
+            "22115150"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Des Moines, Iowa : Meredith Corp",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

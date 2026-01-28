@@ -1,0 +1,311 @@
+{
+  "source": "internet_archive",
+  "identifier": "OPERAcookbook1992",
+  "title": "O. P. E. R. A. Cookbook 1992",
+  "creator": "Coleman Museum",
+  "year": 2022,
+  "subject": [
+    "Cookbooks",
+    "O.P.E.R.A.",
+    "Organization of People in Ellendale for the Restoration of the Arts",
+    "Ellendale",
+    "North Dakota",
+    "Dickey County",
+    "Opera House"
+  ],
+  "description": "Cookbooks, O.P.E.R.A., Organization of People in Ellendale for the Restoration of the Arts, Ellendale, North Dakota, Dickey County, Opera House, ",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/OPERAcookbook1992"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/OPERAcookbook1992"
+        }
+      ]
+    },
+    "created": 1758554839,
+    "d1": "ia601503.us.archive.org",
+    "d2": "ia801503.us.archive.org",
+    "dir": "/26/items/OPERAcookbook1992",
+    "files": [
+      {
+        "name": "O.P.E.R.A. Cookbook 1992.pdf",
+        "source": "original",
+        "mtime": "1659120337",
+        "size": "28822486",
+        "md5": "7fc9b9cf9d51444ea0249e4639332478",
+        "crc32": "80a8a58f",
+        "sha1": "8d31e73e7ba5dfbdaf4c65839dce7b76e8893fd3",
+        "format": "Text PDF",
+        "viruscheck": "1659120702"
+      },
+      {
+        "name": "O.P.E.R.A. Cookbook 1992_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.1.0-1-ge935",
+        "ocr_parameters": "-l ltz+spa+lat+fra+nor+eng+Latin",
+        "ocr_module_version": "0.0.16",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": [
+          "Latin",
+          "Arabic"
+        ],
+        "ocr_detected_script_conf": [
+          "0.9108",
+          "0.0855"
+        ],
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "O.P.E.R.A. Cookbook 1992_jp2.zip",
+        "mtime": "1659125941",
+        "size": "2554289",
+        "md5": "6c753bb6edc1ebb4bc54e02cc629ef89",
+        "crc32": "65e2633c",
+        "sha1": "44d4b5d5fbdaef3e78f0fce3dc26d2c2c39d545b"
+      },
+      {
+        "name": "O.P.E.R.A. Cookbook 1992_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "O.P.E.R.A. Cookbook 1992_djvu.xml",
+        "mtime": "1659126497",
+        "size": "190391",
+        "md5": "ef983f3beff01ba2551f5def0e14d2e3",
+        "crc32": "a87fc09a",
+        "sha1": "3478f686d02dcac72814cc7e37d72121b66215b2"
+      },
+      {
+        "name": "O.P.E.R.A. Cookbook 1992_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "O.P.E.R.A. Cookbook 1992_hocr.html",
+        "mtime": "1659126213",
+        "size": "2796015",
+        "md5": "7baf5f6b071efd37894f80fa0408435b",
+        "crc32": "a177f956",
+        "sha1": "19155e3bd66f22eef72cf9281d11969671a75fdd"
+      },
+      {
+        "name": "O.P.E.R.A. Cookbook 1992_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l ltz+spa+lat+fra+nor+eng+Latin",
+        "ocr_module_version": "0.0.16",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": [
+          "Latin",
+          "Arabic"
+        ],
+        "ocr_detected_script_conf": [
+          "0.9108",
+          "0.0855"
+        ],
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "O.P.E.R.A. Cookbook 1992_chocr.html.gz",
+        "mtime": "1659126164",
+        "size": "5685711",
+        "md5": "a4eb55961834fbcafc41017b580e74f5",
+        "crc32": "61e4d598",
+        "sha1": "19466fea13c7d384aca1671302f1ce9d213dbf3a"
+      },
+      {
+        "name": "O.P.E.R.A. Cookbook 1992_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "O.P.E.R.A. Cookbook 1992_hocr.html",
+        "mtime": "1659126385",
+        "size": "2127",
+        "md5": "93ab6d7b99d2dbd73bb4c068e82b7771",
+        "crc32": "d8a18e26",
+        "sha1": "5c55d005e1d177c73995ec4c9d74f66f4789ef15"
+      },
+      {
+        "name": "O.P.E.R.A. Cookbook 1992_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "77",
+        "word_conf_11_20": "60",
+        "word_conf_21_30": "128",
+        "word_conf_31_40": "170",
+        "word_conf_41_50": "269",
+        "word_conf_51_60": "352",
+        "word_conf_61_70": "424",
+        "word_conf_71_80": "429",
+        "word_conf_81_90": "2159",
+        "word_conf_91_100": "28046",
+        "format": "OCR Search Text",
+        "original": "O.P.E.R.A. Cookbook 1992_hocr.html",
+        "mtime": "1659126459",
+        "size": "65668",
+        "md5": "cc3fcc92cd11367c7828edb6aa8a0dc9",
+        "crc32": "d40cb56d",
+        "sha1": "9b0aba7ef9906eb907437b74538f32938173d430"
+      },
+      {
+        "name": "O.P.E.R.A. Cookbook 1992_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "O.P.E.R.A. Cookbook 1992.pdf",
+        "mtime": "1659121304",
+        "size": "26624940",
+        "md5": "2e4e2623ebe223a593923494cd6fe869",
+        "crc32": "bf7e38ac",
+        "sha1": "5cfc1eeab71d21bd274e9f1c9b9a3fa97c3ffb7f",
+        "filecount": "183"
+      },
+      {
+        "name": "O.P.E.R.A. Cookbook 1992_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "O.P.E.R.A. Cookbook 1992_djvu.xml",
+        "mtime": "1659126623",
+        "size": "34828",
+        "md5": "2096c4501a1979602435e43cf43296bc",
+        "crc32": "c0af8750",
+        "sha1": "ae622d391d55e722a32cfafc4965a41ab706d79e"
+      },
+      {
+        "name": "O.P.E.R.A. Cookbook 1992_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "O.P.E.R.A. Cookbook 1992_djvu.xml",
+        "mtime": "1659126623",
+        "size": "64009",
+        "md5": "dbc27cf242e9474ceb03f88f9d78b670",
+        "crc32": "c1df4fba",
+        "sha1": "8888f080559c6bbb071a32a4e7ac5afac2265b98"
+      },
+      {
+        "name": "OPERAcookbook1992_archive.torrent",
+        "source": "metadata",
+        "btih": "2b259d9a935dd6e9dc95182e05462cd025c96f24",
+        "mtime": "1716130423",
+        "size": "6158",
+        "md5": "b0fd3864688439f9a15d98cd35088f5a",
+        "crc32": "b8719d86",
+        "sha1": "5b18a471b19c536006418f1582e2e077107b3b79",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "OPERAcookbook1992_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "8bdcce0e29efacae8f32df4ce85d04ea",
+        "summation": "md5"
+      },
+      {
+        "name": "OPERAcookbook1992_meta.sqlite",
+        "source": "original",
+        "mtime": "1659120353",
+        "size": "20480",
+        "md5": "b10bf8b7dc6cb9a8258c259198f1f961",
+        "crc32": "ce9ec606",
+        "sha1": "c44ee9c56f4903c3d556b08e8e8143769b0ee16a",
+        "format": "Metadata"
+      },
+      {
+        "name": "OPERAcookbook1992_meta.xml",
+        "source": "original",
+        "mtime": "1716130422",
+        "size": "2024",
+        "md5": "e38873513840cc03c8af9612bc376d39",
+        "crc32": "c2d34d81",
+        "sha1": "8376230f4770ff3c95a92a079de12860a6ffd127",
+        "format": "Metadata"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659126654",
+        "size": "19780",
+        "md5": "62ab1ed9c811dd7c902f38e3db49f990",
+        "crc32": "0505a20a",
+        "sha1": "7e1b6163202e65188a5043da1811babeeae8bac1",
+        "format": "Item Tile",
+        "rotation": "0"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1716130423,
+    "item_size": 66888906,
+    "metadata": {
+      "identifier": "OPERAcookbook1992",
+      "mediatype": "texts",
+      "collection": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "creator": "Coleman Museum",
+      "date": "2022-07-29",
+      "description": "Cookbooks, O.P.E.R.A., Organization of People in Ellendale for the Restoration of the Arts, Ellendale, North Dakota, Dickey County, Opera House, ",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "Cookbooks",
+        "O.P.E.R.A.",
+        "Organization of People in Ellendale for the Restoration of the Arts",
+        "Ellendale",
+        "North Dakota",
+        "Dickey County",
+        "Opera House"
+      ],
+      "title": "O. P. E. R. A. Cookbook 1992",
+      "uploader": "kelandsmith@gmail.com",
+      "publicdate": "2022-07-29 18:45:48",
+      "addeddate": "2022-07-29 18:45:48",
+      "curation": "[curator]validator@archive.org[/curator][date]20220729185142[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/OPERAcookbook1992",
+      "identifier-ark": "ark:/13960/s2c7pfh6s8t",
+      "ppi": "200",
+      "ocr": "tesseract 5.1.0-1-ge935",
+      "ocr_parameters": "-l ltz+spa+lat+fra+nor+eng+Latin",
+      "ocr_module_version": "0.0.16",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": [
+        "Latin",
+        "Arabic"
+      ],
+      "ocr_detected_script_conf": [
+        "0.9108",
+        "0.0855"
+      ],
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "84.40",
+      "collection_added": [
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia601503.us.archive.org",
+    "uniq": 1343767110,
+    "workable_servers": [
+      "ia601503.us.archive.org",
+      "ia801503.us.archive.org"
+    ]
+  },
+  "institution": "Coleman Museum",
+  "pdf_url": "https://archive.org/download/OPERAcookbook1992/O.P.E.R.A. Cookbook 1992.pdf",
+  "location": {
+    "state": "North Dakota"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: North Dakota; Digitized scan available"
+}

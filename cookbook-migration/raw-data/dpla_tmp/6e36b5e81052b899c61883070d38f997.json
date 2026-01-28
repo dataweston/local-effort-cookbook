@@ -1,0 +1,104 @@
+{
+  "source": "dpla",
+  "id": "6e36b5e81052b899c61883070d38f997",
+  "identifier": "6e36b5e81052b899c61883070d38f997",
+  "title": "Grayville cook book : 1912-1913",
+  "subject": [
+    "Cookery--Illinois",
+    "Cookery, American"
+  ],
+  "spatial": [
+    "Illinois"
+  ],
+  "description": "Advertisements interspersed.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/008720061",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1913,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/6e36b5e81052b899c61883070d38f997#SourceResource",
+      "contributor": [
+        "United Methodist Church (Grayville, Ill.)"
+      ],
+      "date": [
+        {
+          "displayDate": "[1913]"
+        }
+      ],
+      "description": [
+        "Advertisements interspersed."
+      ],
+      "extent": [
+        "124 p. : 24 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-uiuc5355948",
+        "(OCoLC)144608502",
+        "Hathi: 008720061"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Grayville, Ill. : Ladies of the M.E.Church"
+      ],
+      "relation": [
+        "Original. (IU)"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cookery--Illinois"
+        },
+        {
+          "name": "Cookery, American"
+        }
+      ],
+      "title": [
+        "Grayville cook book : 1912-1913"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1913-01-01",
+      "normalized_dates": [
+        "1913-01-01"
+      ]
+    }
+  },
+  "data": {
+    "isShownAt": "http://catalog.hathitrust.org/Record/008720061"
+  },
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Methodist"
+    ]
+  },
+  "curation_notes": "State match: Illinois; Community markers: Church, Methodist; Digitized scan available"
+}

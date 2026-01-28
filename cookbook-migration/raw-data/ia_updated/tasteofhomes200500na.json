@@ -1,0 +1,580 @@
+{
+  "source": "internet_archive",
+  "identifier": "tasteofhomes200500na",
+  "title": "Taste of home's 2005 quick cooking annual recipes",
+  "creator": "Bretl, Michelle",
+  "year": 2005,
+  "subject": [
+    "Cooking, American",
+    "Quick and easy cooking"
+  ],
+  "description": [
+    "\"Every single rapid recipe from the past year.\"",
+    "Cover title",
+    "Includes index",
+    "Every single rapid recipe from the past year"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/tasteofhomes200500na"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/tasteofhomes200500na"
+        }
+      ]
+    },
+    "created": 1758557136,
+    "d1": "ia600207.us.archive.org",
+    "d2": "ia800207.us.archive.org",
+    "dir": "/34/items/tasteofhomes200500na",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661145595",
+        "size": "25146",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "03708c93c16a0ef3a14f2bc1cdd83c50",
+        "crc32": "eac1a167",
+        "sha1": "1269e6a932f584e085ae48d6fff13488fb46101e"
+      },
+      {
+        "name": "tasteofhomes200500na.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "tasteofhomes200500na_hocr.html",
+        "mtime": "1754101947",
+        "size": "154616231",
+        "private": "true",
+        "md5": "94a019b5c42573cde707affa1b4dea18",
+        "crc32": "19cbfe6f",
+        "sha1": "2da69cf79760095eacb1c52bdc17405b2432f6f9"
+      },
+      {
+        "name": "tasteofhomes200500na.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "tasteofhomes200500na_jp2.zip",
+        "mtime": "1339934030",
+        "size": "258900",
+        "md5": "466e8b69388e6cae7fc2711678013af0",
+        "crc32": "c02925b7",
+        "sha1": "c4bcd6c0d8bd8e4b93b25cb3a4cc81d52f681d21"
+      },
+      {
+        "name": "tasteofhomes200500na.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "tasteofhomes200500na.pdf",
+        "mtime": "1754101574",
+        "size": "54389582",
+        "md5": "f80ec21d82304a08c51c0f7b16908413",
+        "crc32": "cf5159c0",
+        "sha1": "672797dc07c415bc089a2eccec587a8018026c75"
+      },
+      {
+        "name": "tasteofhomes200500na.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "tasteofhomes200500na_page_numbers.json",
+        "mtime": "1724927807",
+        "size": "53924182",
+        "md5": "5e58e45e1d064c44d828a9dcee955e11",
+        "crc32": "0a9c6aa7",
+        "sha1": "54fef408c366760f57cd4f93e10a09629d358dfd",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes200500na.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1334248337",
+        "size": "489092",
+        "md5": "f11202e5ba4dd3af0b29ac2b37d1f98d",
+        "crc32": "1a0e9cc3",
+        "sha1": "9cc14872dfbeb9a1d86ddb60320f2dc17245ae71"
+      },
+      {
+        "name": "tasteofhomes200500na.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "tasteofhomes200500na.warc.gz",
+        "mtime": "1339929877",
+        "size": "6239",
+        "md5": "b7ee0216123cd36997f425428d0e1d43",
+        "crc32": "9fee2bd1",
+        "sha1": "52ea3d1bfbcaf5151257ab3ea521eeef7d814a84",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes200500na_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "tasteofhomes200500na_jp2.zip",
+        "mtime": "1339938043",
+        "size": "14860271",
+        "md5": "2de9d116b5d3cab319b5376d0eb47974",
+        "crc32": "9b63336f",
+        "sha1": "9450163e38eeec5118f9215fc29d24055dca42be",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes200500na_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "tasteofhomes200500na_abbyy.gz",
+        "mtime": "1661145157",
+        "size": "12309668",
+        "md5": "3f4c594380f9bd9c066ab78810540f88",
+        "crc32": "7add3ed3",
+        "sha1": "b84e196c3724b64506682848a4313646f0b5e5d8",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes200500na_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "tasteofhomes200500na_scandata.xml",
+        "mtime": "1667087443",
+        "size": "773",
+        "md5": "7e65fe0cf2f300e441fcde8731758361",
+        "crc32": "13ede73e",
+        "sha1": "39489a503f902e5173590f3b02306eb3321ffbb6",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes200500na_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1509942880",
+        "size": "1356",
+        "md5": "80efc226f7034c9e0fc735d4a2d1a6e7",
+        "crc32": "c6d08bf9",
+        "sha1": "8da467341a276a4b8a26d51e5fe85eed8f949a08"
+      },
+      {
+        "name": "tasteofhomes200500na_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "tasteofhomes200500na_djvu.xml",
+        "mtime": "1667087547",
+        "size": "1117153",
+        "md5": "5520e33162123db79c98fd104f19e497",
+        "crc32": "9e1112be",
+        "sha1": "2376763e343e0e91b9f8b13912a74a92c01bb82a",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes200500na_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "tasteofhomes200500na_hocr.html",
+        "mtime": "1667087268",
+        "size": "13045987",
+        "md5": "09fdc9fe12f0b2d51e4ca6329838357b",
+        "crc32": "4f93f40d",
+        "sha1": "f4ce0a3aeb7ffd45d38fd3bc9ed1c305d63d1c1d",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes200500na_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "tasteofhomes200500na.pdf",
+        "mtime": "1724928226",
+        "size": "53833923",
+        "md5": "7a142044e22e28b53cf3252c6ef5ad44",
+        "crc32": "aa2c205b",
+        "sha1": "da1e5f7716bd67da6573f27676ccbbd27953265c"
+      },
+      {
+        "name": "tasteofhomes200500na_extramarc.xml",
+        "source": "original",
+        "mtime": "1420417993",
+        "size": "3275",
+        "md5": "ba354a395ff8f342e3aaa797896fa265",
+        "crc32": "e8da828a",
+        "sha1": "255e9977f75b37506b1807553e52c69af7a22967",
+        "format": "Metadata"
+      },
+      {
+        "name": "tasteofhomes200500na_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "503082e55adf4cbff0eea9b6c79f3644",
+        "summation": "md5"
+      },
+      {
+        "name": "tasteofhomes200500na_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "tasteofhomes200500na_chocr.html.gz",
+        "mtime": "1661145407",
+        "size": "25476854",
+        "md5": "4ff8cfb0952e0a488675109f826dd090",
+        "crc32": "bcb539c5",
+        "sha1": "fcd475fb4cdf9cff084dc9e2360fbb013123deeb",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes200500na_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "tasteofhomes200500na_hocr.html",
+        "mtime": "1661145476",
+        "size": "4388",
+        "md5": "946e4a1f41d6ad5a53c91ff07b8e2905",
+        "crc32": "c831f9d2",
+        "sha1": "ce7f1412a73d8f1ccffc17f3d9cf8b33704493f8",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes200500na_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "8064",
+        "word_conf_11_20": "5076",
+        "word_conf_21_30": "13858",
+        "word_conf_31_40": "15787",
+        "word_conf_41_50": "26714",
+        "word_conf_51_60": "32415",
+        "word_conf_61_70": "29625",
+        "word_conf_71_80": "13349",
+        "word_conf_81_90": "5094",
+        "word_conf_91_100": "8368",
+        "format": "OCR Search Text",
+        "original": "tasteofhomes200500na_hocr.html",
+        "mtime": "1661145523",
+        "size": "310221",
+        "md5": "a8e0e6acddfdf896053a2a98186838c6",
+        "crc32": "42346ea5",
+        "sha1": "e49288fd1927e04e4c41aa690eadf49bca3fa52f",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes200500na_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "tasteofhomes200500na_orig_jp2.tar",
+        "mtime": "1339933979",
+        "size": "295936615",
+        "md5": "6a1093115d80dc55ce8413f2a13cf3fc",
+        "crc32": "7eddb0ce",
+        "sha1": "aa56ffd48486d945beefad75d22513566a44d6ef",
+        "private": "true",
+        "filecount": "366"
+      },
+      {
+        "name": "tasteofhomes200500na_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "tasteofhomes200500na.epub",
+        "mtime": "1754102194",
+        "size": "154848230",
+        "md5": "25b0c43f08b3e5dac25dd4bc8c56c6ee",
+        "crc32": "3399a680",
+        "sha1": "1c3c7c8a93630fe7fadce20676e417551d75350e"
+      },
+      {
+        "name": "tasteofhomes200500na_loans.json",
+        "source": "original",
+        "mtime": "1593073538",
+        "size": "4903",
+        "format": "JSON",
+        "private": "true",
+        "md5": "dd68582edee3eb21453e6989fe16d092",
+        "crc32": "4ce1dc6f",
+        "sha1": "9193a05dab656770f93f96dbabb8b31f5e2f6fc6"
+      },
+      {
+        "name": "tasteofhomes200500na_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1509942880",
+        "size": "4943",
+        "md5": "681a03676297ed46f27b48e9a41dfd49",
+        "crc32": "f51310c0",
+        "sha1": "43c56bc9654a7b5e81fb6068c9fded7cf74bfede"
+      },
+      {
+        "name": "tasteofhomes200500na_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "tasteofhomes200500na_xisbn.json",
+        "mtime": "1454774071",
+        "size": "296",
+        "md5": "aee2378896c7face3adf63865f1df5bb",
+        "crc32": "cec0b1b8",
+        "sha1": "91897f7b7a04eae8c57c0bd597ed6b67b19eedce",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes200500na_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454774069",
+        "size": "1544",
+        "md5": "06a1009be1a557e9243f2f5896dfa04d",
+        "crc32": "cb8bb81d",
+        "sha1": "b3edc97ed5935016424576b84a688bc5ea6f9e97"
+      },
+      {
+        "name": "tasteofhomes200500na_meta.sqlite",
+        "source": "original",
+        "mtime": "1462917815",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "1b72e9a0c227aaa4b27742c8bebf7b8c",
+        "crc32": "f4fae736",
+        "sha1": "98d1a3698559cc64de1d303b46ccc879bdf1608a"
+      },
+      {
+        "name": "tasteofhomes200500na_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1754102195",
+        "size": "3587",
+        "md5": "908862963950d4491503f38eca923b74",
+        "crc32": "c68b2fc2",
+        "sha1": "10548c23ac25e7b05b09538fc57335113b7539d3"
+      },
+      {
+        "name": "tasteofhomes200500na_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1334248337",
+        "size": "299",
+        "md5": "0fcffe2aafb8a49681a647bccd66d4c6",
+        "crc32": "fd8ec5c4",
+        "sha1": "07685f68c1282c558fd80db4f11a929fcd5a5836"
+      },
+      {
+        "name": "tasteofhomes200500na_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1339402105",
+        "size": "357672960",
+        "md5": "92d8cdc858a35155964d52ea35e58c67",
+        "crc32": "3e0d7b85",
+        "sha1": "6b4f9ed9e0f310f07224265cb46d9dfdfb8ab71f",
+        "private": "true",
+        "filecount": "366"
+      },
+      {
+        "name": "tasteofhomes200500na_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "77",
+        "format": "Page Numbers JSON",
+        "original": "tasteofhomes200500na_hocr.html",
+        "mtime": "1724927783",
+        "size": "61669",
+        "md5": "8067d17593cadb5b529ad772e5e9670f",
+        "crc32": "b43d83d6",
+        "sha1": "8af66ee7693cb251fbb2cd4846fd83a192691673",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes200500na_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1667087443",
+        "size": "478396",
+        "md5": "bdcce3a74d7d0ac3b586ed1ddbe23553",
+        "crc32": "1c38fa75",
+        "sha1": "af92f2640a7399c9d39a11dda9d1a62df11acf7b"
+      },
+      {
+        "name": "tasteofhomes200500na_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "tasteofhomes200500na_djvu.xml",
+        "mtime": "1667087549",
+        "size": "62937",
+        "md5": "e445633f53998e72031bd46e546241c6",
+        "crc32": "89ee3c3c",
+        "sha1": "24d7d69e49430aa5b61ac3d9c4e0e8ef0d6d1ea9",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomes200500na_xisbn.json",
+        "source": "original",
+        "mtime": "1454771628",
+        "size": "428",
+        "md5": "b437a554b6229b60cb401ff49ff4695a",
+        "crc32": "86f10a6a",
+        "sha1": "ecfb932c60169770cae5dce33506306a65f460fa",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 33,
+    "item_last_updated": 1754102195,
+    "item_size": 1193756192,
+    "metadata": {
+      "isbn": [
+        "089821422X",
+        "9780898214222"
+      ],
+      "title": "Taste of home's 2005 quick cooking annual recipes",
+      "creator": "Bretl, Michelle",
+      "publisher": "Greendale, WI : Reiman Publications",
+      "date": "2005-01-01",
+      "external-identifier": [
+        "urn:asin:089821422X",
+        "urn:acs6:tasteofhomes200500na:pdf:269a8a48-7da5-4e35-a7db-c44719593ae8",
+        "urn:acs6:tasteofhomes200500na:epub:f0e2d0f3-5c01-4d3f-96ac-d408072d82e5",
+        "urn:oclc:record:1036890533",
+        "urn:lcp:tasteofhomes200500na:lcpdf:0eaacc9e-e996-4929-9038-d3b18f7de2ad",
+        "urn:lcp:tasteofhomes200500na:epub:3fa93aa4-ea33-450f-90b3-d7724c49bfa0"
+      ],
+      "updatedate": "2012-04-12 16:32:15",
+      "updater": "associate-lotu-tii@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA181101",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "shenzhen",
+      "sponsor": "Internet Archive",
+      "identifier": "tasteofhomes200500na",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2012-04-12 16:32:19",
+      "publicdate": "2012-04-12 16:32:23",
+      "repub_state": "4",
+      "repub_seconds": "830774",
+      "ppi": "386",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-sven@archive.org",
+      "scanner": "scribe4.shenzhen.archive.org",
+      "scandate": "20120531163632",
+      "republisher": "scanner-shenzhen-sun@archive.org",
+      "imagecount": "362",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/tasteofhomes200500na",
+      "identifier-ark": "ark:/13960/t9b57qs36",
+      "bookplateleaf": "0004",
+      "scanfee": "150",
+      "boxid_2": "CH106001",
+      "donor": "alibris",
+      "sponsordate": "not to be invoiced-past billing period",
+      "extramarc": "OhioLINK Library Catalog",
+      "subject": [
+        "Cooking, American",
+        "Quick and easy cooking",
+        "Cooking, American",
+        "Quick and easy cooking",
+        "Quick and easy cooking"
+      ],
+      "description": [
+        "\"Every single rapid recipe from the past year.\"",
+        "Cover title",
+        "Includes index",
+        "Every single rapid recipe from the past year"
+      ],
+      "city": "Greendale, WI",
+      "edition": "Hardback.",
+      "oclc-id": [
+        "58974022",
+        "658110092"
+      ],
+      "backup_location": "ia903801_25",
+      "republisher_operator": "scanner-shenzhen-sun@archive.org;scanner-shenzhen-sven@archive.org",
+      "republisher_date": "20120611080722",
+      "openlibrary_edition": "OL8269060M",
+      "openlibrary_work": "OL18180266W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "77",
+      "pdf_module_version": "0.0.20",
+      "filesxml": "Wed Apr 3 14:48:40 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800207.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40116422",
+              "IA40116422"
+            ],
+            "num_copies": 2
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-08-08 22:04:48.052514"
+        }
+      }
+    },
+    "uniq": 1975699537,
+    "workable_servers": [
+      "ia800207.us.archive.org",
+      "ia600207.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/58974022?referer=xid"
+          ],
+          "publisher": "Reiman Publications",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Greendale, WI",
+          "author": "[Michelle Bretl, editor ; Lori Arndt, art director ; Janaan Cunningham, food editor ... et al.].",
+          "ed": "Hardback.",
+          "year": "2005",
+          "isbn": [
+            "089821422X"
+          ],
+          "title": "Taste of home's 2005 quick cooking annual recipes",
+          "oclcnum": [
+            "58974022",
+            "658110092"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Bretl, Michelle",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

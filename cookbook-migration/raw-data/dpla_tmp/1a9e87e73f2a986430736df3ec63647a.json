@@ -1,0 +1,99 @@
+{
+  "source": "dpla",
+  "id": "1a9e87e73f2a986430736df3ec63647a",
+  "identifier": "1a9e87e73f2a986430736df3ec63647a",
+  "title": "Junior Dorcas cook book",
+  "subject": [
+    "Cooking",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan",
+    "Jackson"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5pk0b31z",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1921,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/1a9e87e73f2a986430736df3ec63647a#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "creator": [
+        "Junior Dorcas Society (Jackson, Mich.)"
+      ],
+      "date": [
+        {
+          "begin": "1921",
+          "displayDate": "1921",
+          "end": "1921"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Jackson"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "Junior Dorcas cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1921-01-01",
+      "normalized_dates": [
+        "1921-01-01"
+      ],
+      "date_range": {
+        "begin": "1921-01-01",
+        "end": "1921-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5pk0b31z/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5pk0b31z"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

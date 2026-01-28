@@ -1,0 +1,456 @@
+{
+  "source": "internet_archive",
+  "identifier": "alphabakerychild00gold",
+  "title": "Alpha-Bakery : children's cookbook",
+  "creator": "Gold Medal (Firm)",
+  "year": 1987,
+  "subject": "Cookery",
+  "description": [
+    "Cover title",
+    "Includes index",
+    "Recipes using Gold Medal flour for parents and children to prepare together"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/alphabakerychild00gold"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/alphabakerychild00gold"
+        }
+      ]
+    },
+    "created": 1758548490,
+    "d1": "ia600602.us.archive.org",
+    "d2": "ia800602.us.archive.org",
+    "dir": "/12/items/alphabakerychild00gold",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658579086",
+        "size": "20816",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "5eda174008e00c3cc1974dd8567e5888",
+        "crc32": "53ef93ee",
+        "sha1": "7e1a8b9399202f1a0a4f2d73add63ef4651b682d"
+      },
+      {
+        "name": "alphabakerychild00gold.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "alphabakerychild00gold_hocr.html",
+        "mtime": "1753006163",
+        "size": "14214422",
+        "private": "true",
+        "md5": "eaed63e8182c29fba3ba95687e1d6df0",
+        "crc32": "5f5f0a25",
+        "sha1": "5de0a60962f7be529783a00f2ae8eb0a40d414a2"
+      },
+      {
+        "name": "alphabakerychild00gold.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "alphabakerychild00gold_jp2.zip",
+        "md5": "54425ada93d6bab9ba9d08228bf6708a",
+        "mtime": "1258052414",
+        "size": "268872",
+        "crc32": "84be5427",
+        "sha1": "95b5365e1e5632155289bd816cb59d664653dfd7"
+      },
+      {
+        "name": "alphabakerychild00gold.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "alphabakerychild00gold.pdf",
+        "mtime": "1753005947",
+        "size": "3983623",
+        "md5": "01a8a58a6942cb3ef3b9a8b350c4a40e",
+        "crc32": "42dd7743",
+        "sha1": "d0e8d9b360d7c2b6d36353d20de8fb0926c9e50c"
+      },
+      {
+        "name": "alphabakerychild00gold.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "alphabakerychild00gold_page_numbers.json",
+        "mtime": "1714345131",
+        "size": "3619251",
+        "md5": "5b691632f985a3d4765028b1a8df5c8c",
+        "crc32": "21ef71f4",
+        "sha1": "daedee6ea3087313737a37bcf5dd9e87fa7cf947",
+        "private": "true"
+      },
+      {
+        "name": "alphabakerychild00gold_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "alphabakerychild00gold_jp2.zip",
+        "md5": "4bea2deb35f4c11e23fe54802af4c073",
+        "mtime": "1258054835",
+        "size": "607424",
+        "crc32": "53a7e404",
+        "sha1": "30fbda491bd2ed1ffa2998c7bed30b2a8efe2929",
+        "private": "true"
+      },
+      {
+        "name": "alphabakerychild00gold_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "alphabakerychild00gold_page_numbers.json",
+        "mtime": "1714345131",
+        "size": "2716454",
+        "md5": "526ad0f6cd45c6ca5d51277b279637c6",
+        "crc32": "bbaff196",
+        "sha1": "1bb3f8894d11103244fc388b7af7cdad4699315d",
+        "private": "true"
+      },
+      {
+        "name": "alphabakerychild00gold_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "alphabakerychild00gold_abbyy.gz",
+        "mtime": "1658578491",
+        "size": "500511",
+        "md5": "8109596416b185add0ffb25e16fa9103",
+        "crc32": "c5cae555",
+        "sha1": "6d1643bb83e1045bfb9d3cbdab7f8b8817c2df89",
+        "private": "true"
+      },
+      {
+        "name": "alphabakerychild00gold_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "alphabakerychild00gold_scandata.xml",
+        "mtime": "1669281642",
+        "size": "779",
+        "md5": "616d67c5b949a229a115b9700e8c4344",
+        "crc32": "99d53917",
+        "sha1": "8dd1290614bf14993c6f2f3ed1f6da350d002b2a",
+        "private": "true"
+      },
+      {
+        "name": "alphabakerychild00gold_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "a23c5806fd783e5cb34239f868dec360",
+        "mtime": "1651988867",
+        "size": "828",
+        "crc32": "8b435f7e",
+        "sha1": "bd2d484db207ff40f193e09f7e0d296cb6ddf929"
+      },
+      {
+        "name": "alphabakerychild00gold_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "alphabakerychild00gold_djvu.xml",
+        "mtime": "1715727375",
+        "size": "44465",
+        "md5": "4f1d0822ed107a8629590a428f7477c9",
+        "crc32": "ef4fac4b",
+        "sha1": "65b3300cc83537bb150e8175f0823b8fa9556bcc",
+        "private": "true"
+      },
+      {
+        "name": "alphabakerychild00gold_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "alphabakerychild00gold_hocr.html",
+        "mtime": "1715727373",
+        "size": "589367",
+        "md5": "a1e331e1c6fda1a31c7a2c9710ae2fc2",
+        "crc32": "8f0173a1",
+        "sha1": "e0114c64f061aa4881c49c4480f047fd2201c87a",
+        "private": "true"
+      },
+      {
+        "name": "alphabakerychild00gold_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "alphabakerychild00gold.pdf",
+        "mtime": "1714345940",
+        "size": "3606581",
+        "md5": "62bca0625f5d02b8ccb8d16ebb182103",
+        "crc32": "771a8a12",
+        "sha1": "3e6ea0431d2a2534294a4315cb8e05d65ed352fa"
+      },
+      {
+        "name": "alphabakerychild00gold_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "e35a5b6a77db1adc14d8e7e053c3bafe",
+        "summation": "md5"
+      },
+      {
+        "name": "alphabakerychild00gold_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "alphabakerychild00gold_chocr.html.gz",
+        "mtime": "1658578800",
+        "size": "1187339",
+        "md5": "74f145d5ff01a8ab9a2f32fe3dad32f5",
+        "crc32": "e51be111",
+        "sha1": "c1683b52a48f7fb26cc881790419c2667836c824",
+        "private": "true"
+      },
+      {
+        "name": "alphabakerychild00gold_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "alphabakerychild00gold_hocr.html",
+        "mtime": "1658578943",
+        "size": "827",
+        "md5": "ca2bdde167103a983282f6b4ff0182de",
+        "crc32": "9f09ec5b",
+        "sha1": "900029189487ffe14f54b511ba131fd17ab337bd",
+        "private": "true"
+      },
+      {
+        "name": "alphabakerychild00gold_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "879",
+        "word_conf_11_20": "387",
+        "word_conf_21_30": "772",
+        "word_conf_31_40": "710",
+        "word_conf_41_50": "1071",
+        "word_conf_51_60": "1109",
+        "word_conf_61_70": "1046",
+        "word_conf_71_80": "395",
+        "word_conf_81_90": "191",
+        "word_conf_91_100": "284",
+        "format": "OCR Search Text",
+        "original": "alphabakerychild00gold_hocr.html",
+        "mtime": "1658579045",
+        "size": "13464",
+        "md5": "1fa235f7879ad5bdb62d43d831d18fc1",
+        "crc32": "d0d69702",
+        "sha1": "35fa275f8c6c2e5591672735831d18a23295c95d",
+        "private": "true"
+      },
+      {
+        "name": "alphabakerychild00gold_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "alphabakerychild00gold_orig_jp2.tar",
+        "md5": "35587e46d1752f51d144c4f3beda2355",
+        "mtime": "1258052394",
+        "size": "24319496",
+        "crc32": "ba5808ed",
+        "sha1": "3fe4cd2b7b0bafa332ce832eba17f42d0e95bd8d",
+        "private": "true",
+        "filecount": "82"
+      },
+      {
+        "name": "alphabakerychild00gold_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "alphabakerychild00gold.epub",
+        "mtime": "1753006562",
+        "size": "14391484",
+        "md5": "15d384aea623c6a85b345daaa48311dd",
+        "crc32": "79354ac4",
+        "sha1": "98a4075987aef6df09c5a8a47b502118a147e0c0"
+      },
+      {
+        "name": "alphabakerychild00gold_loans.json",
+        "source": "original",
+        "mtime": "1593158947",
+        "size": "20163",
+        "format": "JSON",
+        "private": "true",
+        "md5": "43d20e789bf63b9c187a469c7db462ac",
+        "crc32": "439c36ff",
+        "sha1": "07a6d43864e5c2fbf156aa15fced3573140ed308"
+      },
+      {
+        "name": "alphabakerychild00gold_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "091e166da4fed19bab221c900f17f249",
+        "mtime": "1257358652",
+        "size": "2333",
+        "crc32": "7e567c75",
+        "sha1": "6942d6d38a72b2118c1234afca00096b45466c41"
+      },
+      {
+        "name": "alphabakerychild00gold_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "f554c829b1c1db42bb46912916564f4e",
+        "mtime": "1257358652",
+        "size": "750",
+        "crc32": "b10428c",
+        "sha1": "fe05db8eae46d385f8aa0da7e40bca691db4a8d3"
+      },
+      {
+        "name": "alphabakerychild00gold_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753006563",
+        "size": "3033",
+        "md5": "14885a244065d1f270dc81fb3edf73c4",
+        "crc32": "a31b56fa",
+        "sha1": "913c540f104e42aa02ae2c4a72c048fbc618d947"
+      },
+      {
+        "name": "alphabakerychild00gold_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "fd313b0e18821dec21b9c9d57db9bc49",
+        "mtime": "1257358652",
+        "size": "880",
+        "crc32": "60828449",
+        "sha1": "6b08ff7d65cbc1722116bc6ff297e8dcd33adfd9"
+      },
+      {
+        "name": "alphabakerychild00gold_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "9ed414b88d095aa033c8efb81276abdc",
+        "mtime": "1258049866",
+        "size": "78735360",
+        "crc32": "761ff567",
+        "sha1": "2cac2126275fbe9b5f9cef9416f78417cb3597a4",
+        "private": "true",
+        "filecount": "82"
+      },
+      {
+        "name": "alphabakerychild00gold_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "97",
+        "format": "Page Numbers JSON",
+        "original": "alphabakerychild00gold_hocr.html",
+        "mtime": "1714345131",
+        "size": "12957",
+        "md5": "092f910860757aae4bc093900c76c746",
+        "crc32": "bd2fb03a",
+        "sha1": "a0abcd09a066b7dcf5458df42ee0ac946df3d4b4",
+        "private": "true"
+      },
+      {
+        "name": "alphabakerychild00gold_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "e367f36fa0df76bfbafb05a352d95ac8",
+        "mtime": "1669281642",
+        "size": "43107",
+        "crc32": "b3ddb4e2",
+        "sha1": "14ed6e1b772162131ae648d21c7ddb1423d1238e"
+      }
+    ],
+    "files_count": 27,
+    "item_last_updated": 1753006563,
+    "item_size": 148904586,
+    "metadata": {
+      "title": "Alpha-Bakery : children's cookbook",
+      "creator": [
+        "Gold Medal (Firm)",
+        "General Mills, inc"
+      ],
+      "subject": [
+        "Cookery",
+        "Cookery"
+      ],
+      "description": [
+        "Cover title",
+        "Includes index",
+        "Recipes using Gold Medal flour for parents and children to prepare together"
+      ],
+      "publisher": "Minneapolis, MN : Gold Medal Flour",
+      "date": "1987-01-01",
+      "language": "eng",
+      "page-progression": "lr",
+      "boxid": "IA104320",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "la",
+      "mediatype": "texts",
+      "updatedate": "2009-11-04 18:17:33",
+      "updater": "KellyCritch",
+      "identifier": "alphabakerychild00gold",
+      "uploader": "kellycritch@archive.org",
+      "addeddate": "2009-11-04 18:17:35",
+      "publicdate": "2009-11-04 18:17:52",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-angela-chance@archive.org",
+      "scanner": "scribe3.la.archive.org",
+      "scandate": "20091112180901",
+      "imagecount": "80",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/alphabakerychild00gold",
+      "identifier-ark": "ark:/13960/t0cv5326r",
+      "bookplateleaf": "0002",
+      "ocr": "ABBYY FineReader 8.0",
+      "curation": "[curator]kellycritch@archive.org[/curator][date]20100104201242[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:alphabakerychild00gold:pdf:946a0b19-6d15-4c90-8d90-e6b2cf33cc09",
+        "urn:acs6:alphabakerychild00gold:epub:016d141b-7523-4c3a-8d59-a61f867e8fc4",
+        "urn:oclc:record:1024167588",
+        "urn:lcp:alphabakerychild00gold:lcpdf:1754d8ad-f3d7-4cc9-8c30-19366a03a526",
+        "urn:lcp:alphabakerychild00gold:epub:6a53dae4-f651-4303-8cae-fdc0abec008c"
+      ],
+      "donor": "alibris",
+      "backup_location": "ia903604_9",
+      "openlibrary_edition": "OL24199845M",
+      "openlibrary_work": "OL15132584W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 3:22:52 UTC 2020",
+        "Tue Apr 2 20:59:37 UTC 2024"
+      ],
+      "oclc-id": "74496339",
+      "associated-names": "Gold Medal (Firm); General Mills, inc",
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "97",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia800602.us.archive.org",
+    "uniq": 1081888049,
+    "workable_servers": [
+      "ia800602.us.archive.org",
+      "ia600602.us.archive.org"
+    ]
+  },
+  "institution": "Gold Medal (Firm)",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Minneapolis"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

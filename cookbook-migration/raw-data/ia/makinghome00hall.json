@@ -1,0 +1,664 @@
+{
+  "source": "internet_archive",
+  "identifier": "makinghome00hall",
+  "title": "Making a home",
+  "creator": "Hallam, Linda",
+  "year": 2001,
+  "subject": [
+    "Housekeeping",
+    "Home economics"
+  ],
+  "description": [
+    "\"Housekeeping for real life\"--Cover",
+    "Editor, Linda Hallam",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/makinghome00hall"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/makinghome00hall"
+        }
+      ]
+    },
+    "created": 1758337184,
+    "d1": "ia904605.us.archive.org",
+    "d2": "ia804605.us.archive.org",
+    "dir": "/20/items/makinghome00hall",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660545842",
+        "size": "16687",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "cea3491b56d87859073bd0d603ea8d8c",
+        "crc32": "96609a7c",
+        "sha1": "e59dd997186799e91e0719979b899a4d67b6d954"
+      },
+      {
+        "name": "makinghome00hall.djvu",
+        "source": "derivative",
+        "format": "DjVu",
+        "original": "makinghome00hall_djvu.xml",
+        "md5": "d94cfc2319ca62024cc15424dda03aa8",
+        "mtime": "1267146047",
+        "size": "13625553",
+        "crc32": "b3466f77",
+        "sha1": "9cc508a45e97380d0cc7d68a1bc5eeaf54eea905",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "makinghome00hall_hocr.html",
+        "mtime": "1753628255",
+        "size": "21366963",
+        "private": "true",
+        "md5": "a2bc52f42374025f69f1e2dac4b2eceb",
+        "crc32": "512b4443",
+        "sha1": "478a201fc7e52342320d3fa43bcd40e571d1cb24"
+      },
+      {
+        "name": "makinghome00hall.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "makinghome00hall_jp2.zip",
+        "md5": "4e3580422a493635fa6043aec2892b32",
+        "mtime": "1267133144",
+        "size": "212305",
+        "crc32": "9e8fa79e",
+        "sha1": "9a349e0370f777ef4c20adbacf85c1ac7d185a46"
+      },
+      {
+        "name": "makinghome00hall.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "makinghome00hall.pdf",
+        "mtime": "1753628190",
+        "size": "24940558",
+        "md5": "9f4b62ab28752952280cd6f1974c7e87",
+        "crc32": "39059db0",
+        "sha1": "a66687a934fb3a2d11e911ca25e54178719ef5c1"
+      },
+      {
+        "name": "makinghome00hall.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "makinghome00hall_page_numbers.json",
+        "mtime": "1715015124",
+        "size": "24708100",
+        "md5": "d9c71c863d76ef247059d70b84eb0fa7",
+        "crc32": "00f30371",
+        "sha1": "ee0a064b772f7a5ac12fd7431cf8dc32cdb17ecb",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "makinghome00hall_jp2.zip",
+        "md5": "d9b2c585f284f65ff8b34eb2d402df73",
+        "mtime": "1267143763",
+        "size": "12794312",
+        "crc32": "1650bd1e",
+        "sha1": "8e8762f4d02ee25674cdc1ab7786a5b03d3f4c32",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "makinghome00hall_page_numbers.json",
+        "mtime": "1715015129",
+        "size": "20772161",
+        "md5": "7b7e33905e897db99bd8f0cc6a95ec5c",
+        "crc32": "1c3d20c6",
+        "sha1": "2eaf8bd804eb451e1c2c3c71a279d42d849c9e13",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "makinghome00hall_abbyy.gz",
+        "mtime": "1660545639",
+        "size": "10484009",
+        "md5": "fc6c9e9b445844508cd3d3eb34088ab9",
+        "crc32": "d6dddd66",
+        "sha1": "86cd48e917b474864e80921286ee28b6f4a7e12a",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "makinghome00hall_scandata.xml",
+        "mtime": "1670597539",
+        "size": "757",
+        "md5": "9f602f7b8e4661f358ad2cd6c533358d",
+        "crc32": "ce7fb5bd",
+        "sha1": "d0b57a8736c578329e3a8ce65be6beab1204672f",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "6728404903444ca6fcf1b816e0755d29",
+        "mtime": "1266428052",
+        "size": "747",
+        "crc32": "48782210",
+        "sha1": "497da41b57c7236e032add9f8f246a63b8c6370c"
+      },
+      {
+        "name": "makinghome00hall_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "makinghome00hall_djvu.xml",
+        "mtime": "1660545826",
+        "size": "984253",
+        "md5": "2f0b09aead8b4ee0afde8e4c1c600506",
+        "crc32": "e25a486a",
+        "sha1": "2795c9d4f4faede95126fd038065b6c1159ba7c8",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "makinghome00hall_hocr.html",
+        "mtime": "1660545753",
+        "size": "11476526",
+        "md5": "2810917d8d0f16d0bf3b1d589ede673c",
+        "crc32": "5558a56d",
+        "sha1": "4ee36824250c9065fdf9463c0e780996dbe33dd2",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "makinghome00hall_jpg.pdf",
+        "mtime": "1509668606",
+        "size": "3459727",
+        "md5": "ed36d64c00163b1c1565fdd1e8ed40da",
+        "crc32": "568823da",
+        "sha1": "f2f8ee31c72bf93f7b5327f700027fe02bad87fa"
+      },
+      {
+        "name": "makinghome00hall_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "makinghome00hall.pdf",
+        "mtime": "1715015536",
+        "size": "24640214",
+        "md5": "0d3fec6dc88405de243a5c7ef19f7234",
+        "crc32": "03a58741",
+        "sha1": "c526af9c46e2b8f1eff1c6acc209d561006988dc"
+      },
+      {
+        "name": "makinghome00hall_files.xml",
+        "source": "metadata",
+        "format": "Metadata",
+        "md5": "3abfdc85083d64703f5f29eb2b54f84e",
+        "summation": "md5"
+      },
+      {
+        "name": "makinghome00hall_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "makinghome00hall_chocr.html.gz",
+        "mtime": "1660545718",
+        "size": "22410328",
+        "md5": "56ba716dfa6985070d549247e40a75b8",
+        "crc32": "ad3ae359",
+        "sha1": "791e7f1df9bfba2d38305845b5c1c8613688c8d7",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "makinghome00hall_hocr.html",
+        "mtime": "1660545787",
+        "size": "4785",
+        "md5": "2b3c3bd080dda4caf207020d9e76757c",
+        "crc32": "aea8de40",
+        "sha1": "46da348f6c576fd8c787323c18f4bbb1894f53a9",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "9034",
+        "word_conf_11_20": "5186",
+        "word_conf_21_30": "10026",
+        "word_conf_31_40": "10241",
+        "word_conf_41_50": "21857",
+        "word_conf_51_60": "24106",
+        "word_conf_61_70": "26628",
+        "word_conf_71_80": "16239",
+        "word_conf_81_90": "4992",
+        "word_conf_91_100": "8543",
+        "format": "OCR Search Text",
+        "original": "makinghome00hall_hocr.html",
+        "mtime": "1660545810",
+        "size": "345717",
+        "md5": "ebb8d184dad2a59201c1174034053b17",
+        "crc32": "9153e2e3",
+        "sha1": "76365cef37bc7ab705727accd6b81d56f51866a2",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "makinghome00hall_orig_jp2.tar",
+        "md5": "6afa12993464acc01feceeb470165703",
+        "mtime": "1267133057",
+        "size": "152899331",
+        "crc32": "66139658",
+        "sha1": "c940cc73d26dd2547c9fdbe9ea050c638df31e5d",
+        "private": "true",
+        "filecount": "398"
+      },
+      {
+        "name": "makinghome00hall_jpg.pdf",
+        "source": "derivative",
+        "format": "JPEG-Compressed PDF",
+        "original": "makinghome00hall_djvu.xml",
+        "md5": "695f2407aae20f04479b6d443f02f9e4",
+        "mtime": "1284909632",
+        "size": "52071799",
+        "crc32": "5fd0c521",
+        "sha1": "da06d4269e91f602efbc4c4425daca919c3c0158",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "makinghome00hall.epub",
+        "mtime": "1753628274",
+        "size": "21603428",
+        "md5": "52e1592402a3c57736991583c92c9e56",
+        "crc32": "416ee50d",
+        "sha1": "5f007494f746d9923b91f0ca757ba39860bcf5d5"
+      },
+      {
+        "name": "makinghome00hall_loans.json",
+        "source": "original",
+        "mtime": "1595779737",
+        "size": "3937",
+        "format": "JSON",
+        "private": "true",
+        "md5": "974e54d9c0fd8e85c8b3704701ce0f7c",
+        "crc32": "0aa3d38a",
+        "sha1": "850feb7274ae653f5e8214eb9b4ea05bf4383dc2"
+      },
+      {
+        "name": "makinghome00hall_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "7ad2a8c0e39fd0be3154710b203e4c78",
+        "mtime": "1266428052",
+        "size": "3344",
+        "crc32": "fab2931f",
+        "sha1": "dbb463955bbce4201627aaca9400e35cf72da65f"
+      },
+      {
+        "name": "makinghome00hall_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "makinghome00hall_xisbn.json",
+        "mtime": "1454721198",
+        "size": "781",
+        "md5": "9fb8fa954fcd257cbbd54e5791d0a622",
+        "crc32": "99844869",
+        "sha1": "08cbc4e2feda0d8841690068bacc4945383bfea1",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "9db33ffa5327fdcfb91adbc0eee5333e",
+        "mtime": "1266428052",
+        "size": "996",
+        "crc32": "4b8124f6",
+        "sha1": "89b42212e05f91fcf894d4765faa4a575cb1ef9b"
+      },
+      {
+        "name": "makinghome00hall_meta.sqlite",
+        "source": "original",
+        "mtime": "1462454305",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "c3dfbeaca2ee4482ebd0b3475944ba4f",
+        "crc32": "e2f5f957",
+        "sha1": "806f59aa5251e57a55a51e0e52a0fbc63b5b415d"
+      },
+      {
+        "name": "makinghome00hall_meta.xml",
+        "source": "metadata",
+        "format": "Metadata",
+        "mtime": "1753628275",
+        "size": "4117",
+        "md5": "6b8a1301fb6c3fe35a1952c5335dca20",
+        "crc32": "6b15ea44",
+        "sha1": "7a648de34a67ade65ed98d7cb7e9277f127bb798"
+      },
+      {
+        "name": "makinghome00hall_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "ea83eea04caa640fef5358b713dfa95c",
+        "mtime": "1266428052",
+        "size": "392",
+        "crc32": "42c00ae9",
+        "sha1": "ba923d3b5c4b4111e00bdf49d915e8cdeee4d3a8"
+      },
+      {
+        "name": "makinghome00hall_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "7635917be618356af5f3ccd12ff7442d",
+        "mtime": "1267049718",
+        "size": "236810240",
+        "crc32": "5e83441b",
+        "sha1": "24543e056a815ae66d2f5883df6742f90d61c811",
+        "private": "true",
+        "filecount": "398"
+      },
+      {
+        "name": "makinghome00hall_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "makinghome00hall_hocr.html",
+        "mtime": "1715015123",
+        "size": "66252",
+        "md5": "1c08640b9945f3b81336b428408bc0c7",
+        "crc32": "a2b05fe0",
+        "sha1": "307a0b2b2169b6451540aaa8a73d9dc99f67c930",
+        "private": "true"
+      },
+      {
+        "name": "makinghome00hall_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "2221f24deffc975c133537943fa60250",
+        "mtime": "1670597539",
+        "size": "206607",
+        "crc32": "ba08247e",
+        "sha1": "8ba452f936b138a8a3a2dadfeb01a07cb79cbc1a"
+      },
+      {
+        "name": "makinghome00hall_xisbn.json",
+        "source": "original",
+        "mtime": "1454615695",
+        "size": "758",
+        "md5": "e420f590f9d188d61a0c226ab11d9a75",
+        "crc32": "e0d97e07",
+        "sha1": "1a5445c7e80dcefdbb3b512ac2e0e7f2fd66fa61",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 33,
+    "item_last_updated": 1753628275,
+    "item_size": 655921828,
+    "metadata": {
+      "title": "Making a home",
+      "creator": "Hallam, Linda",
+      "subject": [
+        "Housekeeping",
+        "Home economics"
+      ],
+      "description": [
+        "\"Housekeeping for real life\"--Cover",
+        "Editor, Linda Hallam",
+        "Includes index"
+      ],
+      "publisher": "Des Moines, Iowa : Better Homes and Gardens Books",
+      "date": "2001-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696214563",
+        "9780696214561"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA110101",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "la",
+      "mediatype": "texts",
+      "updatedate": "2010-02-17 17:34:13",
+      "updater": "LineK",
+      "identifier": "makinghome00hall",
+      "uploader": "line@archive.org",
+      "addeddate": "2010-02-17 17:34:15",
+      "publicdate": "2010-02-17 17:34:18",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-ben-williams@archive.org",
+      "scanner": "scribe8.la.archive.org",
+      "scandate": "20100224214535",
+      "imagecount": "396",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/makinghome00hall",
+      "identifier-ark": "ark:/13960/t9q24jw1r",
+      "notes": "Some page numbers are located very close to edge of page.\nSome cropped text/images are due to page layout. ",
+      "curation": "[curator]kellycritch@archive.org[/curator][date]20100305211945[/date][state]approved[/state]",
+      "repub_state": "4",
+      "donor": "alibris",
+      "external-identifier": [
+        "urn:acs6:makinghome00hall:pdf:716b42ec-5ed2-4334-87ef-82e04689d364",
+        "urn:acs6:makinghome00hall:epub:2c6ae9e3-1b9b-4d17-9d82-f1ae772910ec",
+        "urn:oclc:record:1036685479",
+        "urn:lcp:makinghome00hall:lcpdf:64ba8072-415b-4418-be31-4e7200b0e612",
+        "urn:lcp:makinghome00hall:epub:d2054210-b1f4-4e64-9322-06064ef271a1"
+      ],
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": [
+        "48863273",
+        "657040220",
+        "733677630",
+        "748419168"
+      ],
+      "lccn": "2001130203",
+      "related-external-id": [
+        "urn:isbn:069621203X",
+        "urn:lccn:2001130203",
+        "urn:lccn:47857209",
+        "urn:oclc:48159314",
+        "urn:oclc:664404048",
+        "urn:oclc:762204173",
+        "urn:oclc:830720147",
+        "urn:oclc:657040220"
+      ],
+      "backup_location": "ia903604_30",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-07-12T10:38:35Z",
+      "openlibrary_edition": "OL24213253M",
+      "openlibrary_work": "OL15145720W",
+      "loans__status__num_history": "14",
+      "loans__status__last_waitlist_date": "2019-05-19T02:48:47Z",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Fri Dec 25 5:15:03 UTC 2020",
+        "Wed Apr 3 8:37:01 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "delawarecountydistrictlibrary",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "normalized_dates": [
+        "2001-01-01"
+      ]
+    },
+    "server": "ia804605.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "delawarecountydistrictlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780696214561"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-10-29 03:27:57.78594"
+        },
+        "hamiltonpubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780696214561"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2019-05-06 08:43:17.887017"
+        },
+        "library_of_atlantis": {
+          "notes": {
+            "isbn": "9780696212031"
+          },
+          "sys_changed_by": {
+            "source": "task",
+            "task_id": "718194457"
+          },
+          "sys_last_changed": "2017-08-09 01:16:04.673772"
+        },
+        "spokanepubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780696214561"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-01-31 02:04:48.185407"
+        },
+        "stmaryscountylibrary": {
+          "notes": [
+            {
+              "isbn": "9780696212031"
+            }
+          ],
+          "sys_changed_by": {
+            "source": "task",
+            "task_id": "747764185"
+          },
+          "sys_last_changed": "2017-10-02 22:37:13.154592"
+        }
+      }
+    },
+    "uniq": 1412683727,
+    "workable_servers": [
+      "ia804605.us.archive.org",
+      "ia904605.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/48863273?referer=xid"
+          ],
+          "publisher": "Better Homes and Gardens Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2001130203"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "Better homes and gardens.",
+          "ed": "1st ed.",
+          "year": "2001",
+          "isbn": [
+            "0696214563"
+          ],
+          "title": "Making a home.",
+          "oclcnum": [
+            "48863273",
+            "657040220",
+            "733677630",
+            "748419168"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/48159314?referer=xid"
+          ],
+          "publisher": "Better Homes and Gardens Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2001130203",
+            "47857209"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Linda Hallam].",
+          "ed": "1st ed.",
+          "year": "2001",
+          "isbn": [
+            "069621203X"
+          ],
+          "title": "Making a home",
+          "oclcnum": [
+            "48159314",
+            "664404048",
+            "762204173",
+            "830720147",
+            "657040220"
+          ]
+        }
+      ]
+    }
+  }
+}

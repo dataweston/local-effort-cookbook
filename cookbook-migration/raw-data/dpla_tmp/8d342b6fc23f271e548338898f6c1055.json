@@ -1,0 +1,106 @@
+{
+  "source": "dpla",
+  "id": "8d342b6fc23f271e548338898f6c1055",
+  "identifier": "8d342b6fc23f271e548338898f6c1055",
+  "title": "Superior cook book",
+  "subject": [
+    "Cooking, American",
+    "Cooking",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan",
+    "Ishpeming"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m56d5sc3q",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1905,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/8d342b6fc23f271e548338898f6c1055#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "creator": [
+        "Grace Church (Ishpeming, Mich.)"
+      ],
+      "date": [
+        {
+          "begin": "1905",
+          "displayDate": "1905",
+          "end": "1905"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Ishpeming"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "Superior cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1905-01-01",
+      "normalized_dates": [
+        "1905-01-01"
+      ],
+      "date_range": {
+        "begin": "1905-01-01",
+        "end": "1905-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m56d5sc3q/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m56d5sc3q"
+  },
+  "location": {
+    "state": "Michigan",
+    "city": "Superior"
+  },
+  "curation": {
+    "score": 7,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church; Digitized scan available"
+}

@@ -1,0 +1,599 @@
+{
+  "source": "internet_archive",
+  "identifier": "recipesfromwisco00gree",
+  "title": "Recipes from a Wisconsin inn",
+  "creator": "Lynn Greene",
+  "year": 1996,
+  "subject": [
+    "Greene House Country Inn (Whitewater, Wis.)",
+    "Cookery, American"
+  ],
+  "description": null,
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/recipesfromwisco00gree"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/recipesfromwisco00gree"
+        }
+      ]
+    },
+    "created": 1758556473,
+    "d1": "ia600609.us.archive.org",
+    "d2": "ia800609.us.archive.org",
+    "dir": "/1/items/recipesfromwisco00gree",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660977836",
+        "size": "17668",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "7493db640fa4763f78fde237f34ac2a3",
+        "crc32": "dc745f7a",
+        "sha1": "dfe731006114ca9a4158bc4380f93734432bfad7"
+      },
+      {
+        "name": "bak/2017/recipesfromwisco00gree_meta.sqlite.bak",
+        "source": "original",
+        "mtime": "1486618023",
+        "size": "11264",
+        "md5": "6e7bcfa19f0e505dbdbc9ecc3bcc93ac",
+        "crc32": "9f2e32a2",
+        "sha1": "50e4c5b7b42c4a094a371bb716669b0394eb1216",
+        "format": "Backup",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree.cdx.gz",
+        "source": "original",
+        "mtime": "1487148961",
+        "size": "4752",
+        "format": "Item CDX Index",
+        "private": "true",
+        "md5": "b7142b985288a892f2a42534da3b7e25",
+        "crc32": "9ed6df17",
+        "sha1": "c3359b4a6856378781fe0f329c58f7fcb39e7060"
+      },
+      {
+        "name": "recipesfromwisco00gree.cdx.idx",
+        "source": "original",
+        "mtime": "1487148961",
+        "size": "38",
+        "format": "Item CDX Meta-Index",
+        "private": "true",
+        "md5": "1a8c15d9f5578e09163183218245db1e",
+        "crc32": "6e1b7d5c",
+        "sha1": "c082d46ffcdf7e2ca0acc8255a1ce7daeee01c39"
+      },
+      {
+        "name": "recipesfromwisco00gree.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "recipesfromwisco00gree_hocr.html",
+        "mtime": "1758220669",
+        "size": "11136851",
+        "private": "true",
+        "md5": "d3abade9a3e1b81e6c1371114b6fa5b6",
+        "crc32": "da30f663",
+        "sha1": "1279c8f1f0cf301329de87a41f287f243286de36"
+      },
+      {
+        "name": "recipesfromwisco00gree.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "recipesfromwisco00gree_jp2.zip",
+        "mtime": "1487146838",
+        "size": "176952",
+        "md5": "1a53e017a2cb2484a417b0551a17f250",
+        "crc32": "a49c020f",
+        "sha1": "7d138d85852cf014c3d0bd65621e3f8b4ede592d"
+      },
+      {
+        "name": "recipesfromwisco00gree.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "recipesfromwisco00gree.pdf",
+        "mtime": "1758220494",
+        "size": "8396396",
+        "md5": "377659adb3bfeb774f0521aaec4e37d5",
+        "crc32": "5c9c2925",
+        "sha1": "5efafda69fe3578eb5f4350479868582bad1bd6c"
+      },
+      {
+        "name": "recipesfromwisco00gree.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "recipesfromwisco00gree_page_numbers.json",
+        "mtime": "1721760514",
+        "size": "8109038",
+        "md5": "1ae39b18f4cc3b262e3d5f5350bfc988",
+        "crc32": "ebb9e176",
+        "sha1": "b72edc5c20d7edf86c57f8893ed7171c91ddbeca",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1392061810",
+        "size": "432766",
+        "md5": "5d5b280a5087823802bbea26ab0c7016",
+        "crc32": "eba9e168",
+        "sha1": "9f046fd755220fa5676800370a2fd5b23dddfe89"
+      },
+      {
+        "name": "recipesfromwisco00gree.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "recipesfromwisco00gree.warc.gz",
+        "mtime": "1487144197",
+        "size": "4857",
+        "md5": "03804814eb874ae6f46447c25bc39940",
+        "crc32": "21cbc970",
+        "sha1": "b8b1c2d25f4693e184cf68c2f1441a5179134737",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "recipesfromwisco00gree_jp2.zip",
+        "mtime": "1487148307",
+        "size": "2036054",
+        "md5": "661c87d90bcca1c607f822f5e8225697",
+        "crc32": "e11a2414",
+        "sha1": "5f9466e49070d69bc8f0480da55d7b646a0458cb",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "recipesfromwisco00gree_abbyy.gz",
+        "mtime": "1660977030",
+        "size": "1789013",
+        "md5": "95ac71efa15dafffa7ee9f94c7244966",
+        "crc32": "88dc8385",
+        "sha1": "57a1acfac2ced6c00dce8fb4ec0006da055cbce5",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "recipesfromwisco00gree_scandata.xml",
+        "mtime": "1671080001",
+        "size": "780",
+        "md5": "87da7254b119007ebdb05713c6b5981a",
+        "crc32": "15e4234a",
+        "sha1": "cb1964ba26bba3a42b558b2f89eba054c9067346",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1392061810",
+        "size": "906",
+        "md5": "db1a8d141d4d9d020fe86046ec84deaa",
+        "crc32": "ddb5deb7",
+        "sha1": "8bbd800b88634e94b2ff305d569e0c71d0851c80"
+      },
+      {
+        "name": "recipesfromwisco00gree_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "recipesfromwisco00gree_djvu.xml",
+        "mtime": "1660977831",
+        "size": "152272",
+        "md5": "2ce184ab63c74940f1ea11624429ef65",
+        "crc32": "8cfde966",
+        "sha1": "a10581ef1da3d3b20ed367d905003d67d82ea1e8",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "recipesfromwisco00gree_hocr.html",
+        "mtime": "1660977448",
+        "size": "1941901",
+        "md5": "ac50aae9c0af33bdfc57aa73237d3187",
+        "crc32": "880ee2b6",
+        "sha1": "61317108a8aa306e6de7c092601e891a6bc0a824",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "recipesfromwisco00gree_jpg.pdf",
+        "mtime": "1506092661",
+        "size": "812861",
+        "md5": "e4cafe49a45c7a896a2a298dcff27f9a",
+        "crc32": "c0b34d86",
+        "sha1": "6260f0072b53b9b4d11ba3dcf60a1fd9483dded9"
+      },
+      {
+        "name": "recipesfromwisco00gree_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "recipesfromwisco00gree.pdf",
+        "mtime": "1721761124",
+        "size": "8086218",
+        "md5": "f303b4e9dc12d295734377a455e919af",
+        "crc32": "97d4036f",
+        "sha1": "1501685e2e00288dfe0048575d15f75d9f500112"
+      },
+      {
+        "name": "recipesfromwisco00gree_events.json",
+        "source": "original",
+        "mtime": "1487144124",
+        "size": "54",
+        "md5": "03ec977949704fd10be63fe6ac9f5e7a",
+        "crc32": "c27f76ca",
+        "sha1": "a5e2016807454e3c4db0d1c686feed8104a6ff58",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "4450e4567b6588fdc674c5cee9d470a3",
+        "summation": "md5"
+      },
+      {
+        "name": "recipesfromwisco00gree_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "recipesfromwisco00gree_chocr.html.gz",
+        "mtime": "1660977404",
+        "size": "3892233",
+        "md5": "ab8597896d46636182cfc4e033a88d66",
+        "crc32": "5dc079db",
+        "sha1": "3d67bd6e24146426a9f026e4740fb251a924d1f3",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "recipesfromwisco00gree_hocr.html",
+        "mtime": "1660977682",
+        "size": "1678",
+        "md5": "c0e849aa947dcc09fabf82ea4c55c4ad",
+        "crc32": "8dc73087",
+        "sha1": "a953c19389fd5bada753ae3e24bb44c8ba8508fe",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1454",
+        "word_conf_11_20": "387",
+        "word_conf_21_30": "651",
+        "word_conf_31_40": "1257",
+        "word_conf_41_50": "1978",
+        "word_conf_51_60": "3008",
+        "word_conf_61_70": "3586",
+        "word_conf_71_80": "3306",
+        "word_conf_81_90": "2615",
+        "word_conf_91_100": "6082",
+        "format": "OCR Search Text",
+        "original": "recipesfromwisco00gree_hocr.html",
+        "mtime": "1660977818",
+        "size": "50106",
+        "md5": "69ec379b698f4ae8ceec6f9192a2a27c",
+        "crc32": "43531868",
+        "sha1": "fd1cc6919d771c1012f733d8ae71468b3a9e8e98",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "recipesfromwisco00gree_orig_jp2.tar",
+        "mtime": "1487146814",
+        "size": "34616471",
+        "md5": "8a223021c243e8f7790fb1705eae09e0",
+        "crc32": "aa4aafbd",
+        "sha1": "0c59037013c9c8e7f946ca8378da474b0db6654a",
+        "private": "true",
+        "filecount": "150"
+      },
+      {
+        "name": "recipesfromwisco00gree_jpg.pdf",
+        "source": "derivative",
+        "format": "JPEG-Compressed PDF",
+        "original": "recipesfromwisco00gree_djvu.xml",
+        "mtime": "1504695273",
+        "size": "26661932",
+        "md5": "100d23d319c9e93b54eade611b226fea",
+        "crc32": "b8ba1519",
+        "sha1": "8d782b6e829213b935979288e7c7993939df17cf",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "recipesfromwisco00gree.epub",
+        "mtime": "1758220825",
+        "size": "12029437",
+        "md5": "0a72a1732d0c29b16b3b85e5f9804243",
+        "crc32": "442775eb",
+        "sha1": "aa3a262e4ef36dba1b3261f403c5cda90122a201"
+      },
+      {
+        "name": "recipesfromwisco00gree_loans.json",
+        "source": "original",
+        "mtime": "1592900708",
+        "size": "3653",
+        "format": "JSON",
+        "private": "true",
+        "md5": "9f4607df44e4fdcd98289ce29dfa4763",
+        "crc32": "4207d723",
+        "sha1": "8789aa8e5148a8ddd50c38ff7d095135bc6c9125"
+      },
+      {
+        "name": "recipesfromwisco00gree_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1392061810",
+        "size": "2361",
+        "md5": "6d731061eb2612c2ae77b488164c7bf2",
+        "crc32": "c8413340",
+        "sha1": "0ee4e494c1e961feaed184b128ffd4a3257cabc1"
+      },
+      {
+        "name": "recipesfromwisco00gree_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "recipesfromwisco00gree_xisbn.json",
+        "mtime": "1487144199",
+        "size": "142",
+        "md5": "747bfc6c524e8ea3ec61a8f3fe5059da",
+        "crc32": "d77dfa7c",
+        "sha1": "9fee23e10c7a77fe941f8e0b9f167754a88c5a61",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1392061810",
+        "size": "696",
+        "md5": "739c1b08ba9fb28f1c7aa768263f731c",
+        "crc32": "bd5f3523",
+        "sha1": "0f21fa8af9fe202bebbccea3074e5bdf3288aba0"
+      },
+      {
+        "name": "recipesfromwisco00gree_meta.sqlite",
+        "source": "original",
+        "mtime": "1487144168",
+        "size": "13312",
+        "format": "Metadata",
+        "md5": "36ff113643b2c5f48f9309113e364d39",
+        "crc32": "f5a02b07",
+        "sha1": "71dfc6f247a9cfd250b2141a437840a995047709"
+      },
+      {
+        "name": "recipesfromwisco00gree_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1758220826",
+        "size": "2990",
+        "md5": "638e81fb3ac892c102d346b6f8b95970",
+        "crc32": "b3c4fcae",
+        "sha1": "dd61fef1b5569294167788f8a725991dbdd13df5"
+      },
+      {
+        "name": "recipesfromwisco00gree_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1392061810",
+        "size": "318",
+        "md5": "1d8be3a761485cc7e8087d427de997d8",
+        "crc32": "ddcce2ae",
+        "sha1": "f2782ae9d15fe68f9efb24100b757f81c1a96bb9"
+      },
+      {
+        "name": "recipesfromwisco00gree_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1487144165",
+        "size": "122531840",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "529bda0fd8875dd3156dc5d7c882e87e",
+        "crc32": "04685468",
+        "sha1": "428ee05acf861837f4c3afd6307e1d9899a4d262",
+        "filecount": "150"
+      },
+      {
+        "name": "recipesfromwisco00gree_origin.txt",
+        "source": "original",
+        "mtime": "1486617692",
+        "size": "43",
+        "md5": "63801ad840c7590a2e2e808132c038c6",
+        "crc32": "f81409d3",
+        "sha1": "870d1b56e2ae6b7188d50f1734101939c168f579",
+        "format": "Text",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "92",
+        "format": "Page Numbers JSON",
+        "original": "recipesfromwisco00gree_hocr.html",
+        "mtime": "1721760513",
+        "size": "24910",
+        "md5": "f0d6368a1365a3f524ac844f0fbd49c3",
+        "crc32": "7c244cb2",
+        "sha1": "688b2b9de5529d6c0b36263adda2c31c394dc811",
+        "private": "true"
+      },
+      {
+        "name": "recipesfromwisco00gree_scandata.xml",
+        "source": "original",
+        "mtime": "1671080001",
+        "size": "152159",
+        "format": "Scandata",
+        "md5": "a348a9fad9fd90c444b03dd929100048",
+        "crc32": "03fda153",
+        "sha1": "6fb9bbb42182ac3de48ce924bccc5854d892cb9f"
+      },
+      {
+        "name": "recipesfromwisco00gree_xisbn.json",
+        "source": "original",
+        "mtime": "1455084004",
+        "size": "305",
+        "md5": "ec8cd3cb6b0e4f98c383f443514181fa",
+        "crc32": "6e665337",
+        "sha1": "606b8dae2cb70cdce97444e53d0d845e5783cce1",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 38,
+    "item_last_updated": 1758220826,
+    "item_size": 243095227,
+    "metadata": {
+      "isbn": [
+        "9781566261432",
+        "1566261430"
+      ],
+      "openlibrary": "OL786147M",
+      "title": "Recipes from a Wisconsin inn",
+      "creator": "Lynn Greene",
+      "language": "eng",
+      "publisher": "Country Roads Press",
+      "subject": [
+        "Greene House Country Inn (Whitewater, Wis.)",
+        "Cookery, American"
+      ],
+      "date": "1996-01-01",
+      "external-identifier": [
+        "urn:asin:1566261430",
+        "urn:acs6:recipesfromwisco00gree:pdf:a17ee120-1665-48b3-8720-c5dbc04c5622",
+        "urn:acs6:recipesfromwisco00gree:epub:aa8998a3-6372-4f30-bac9-c3bce05c95cb",
+        "urn:oclc:record:1036836261",
+        "urn:lcp:recipesfromwisco00gree:lcpdf:b8e8f25f-a946-419a-a975-f7c0c507212b",
+        "urn:lcp:recipesfromwisco00gree:epub:bd01e2be-4d3d-4e2c-b109-c6291d888c6a"
+      ],
+      "repub_state": "4",
+      "updatedate": "2014-02-10 19:50:08",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA1148213",
+      "contributor": "Internet Archive",
+      "scanningcenter": "hongkong",
+      "identifier": "recipesfromwisco00gree",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2014-02-10 19:50:12.47093",
+      "publicdate": "2014-02-10 19:50:15",
+      "donor": "bostonpubliclibrary",
+      "identifier-access": "http://archive.org/details/recipesfromwisco00gree",
+      "identifier-ark": "ark:/13960/t2p59p51p",
+      "city": "Oaks",
+      "oclc-id": "32510625",
+      "lccn": "95018378",
+      "shipping_container": "SZ0025",
+      "backup_location": "ia905804_4",
+      "scanner": "ttscribe12.hongkong.archive.org",
+      "operator": "associate-suiwa-cheung@archive.org",
+      "imagecount": "150",
+      "scandate": "20170209063314",
+      "ppi": "300",
+      "republisher_operator": "republisher13.shenzhen@archive.org",
+      "republisher_date": "20170215153511",
+      "republisher_time": "551",
+      "foldoutcount": "0",
+      "bookplateleaf": "0004",
+      "scanfee": "11",
+      "invoice": "1213",
+      "sponsordate": "20170228",
+      "openlibrary_edition": "OL786147M",
+      "openlibrary_work": "OL2921980W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "92",
+      "filesxml": "Wed Apr 3 12:21:42 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia600609.us.archive.org",
+    "uniq": 1247981145,
+    "workable_servers": [
+      "ia600609.us.archive.org",
+      "ia800609.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/32510625?referer=xid"
+          ],
+          "publisher": "Country Roads Press",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "95018378"
+          ],
+          "lang": "eng",
+          "city": "Oaks",
+          "author": "Lynn Greene.",
+          "year": "1996",
+          "isbn": [
+            "1566261430"
+          ],
+          "title": "Recipes from a Wisconsin inn",
+          "oclcnum": [
+            "32510625"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Lynn Greene",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Wisconsin"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Wisconsin; Digitized scan available"
+}

@@ -1,0 +1,473 @@
+{
+  "source": "internet_archive",
+  "identifier": "vegetables0000bair",
+  "title": "Vegetables",
+  "creator": "Baird, Elizabeth, 1939-",
+  "year": 1995,
+  "subject": "Cooking (Vegetables)",
+  "description": [
+    "Includes index",
+    "\"A Madison Press book.\""
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/vegetables0000bair"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/vegetables0000bair"
+        }
+      ]
+    },
+    "created": 1758489190,
+    "d1": "ia903106.us.archive.org",
+    "d2": "ia803106.us.archive.org",
+    "dir": "/16/items/vegetables0000bair",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661235427",
+        "size": "25656",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "6485dd585149fc30bfad66f5ef3fd503",
+        "crc32": "5a6a4c53",
+        "sha1": "a67a96c23da1e59c0d096ebc1ea7f150a4c814b4"
+      },
+      {
+        "name": "logs/vegetables0000bair_iabdash_2018-03-21021127.log",
+        "source": "original",
+        "mtime": "1521569529",
+        "size": "1015",
+        "md5": "28d0ef126418ee7ff6eb5d632b030679",
+        "crc32": "abd030e0",
+        "sha1": "b6c83c8f5850b86635645e5656bddecd346dc5e5",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/vegetables0000bair_scanning_2018-03-21021120.log",
+        "source": "original",
+        "mtime": "1521569523",
+        "size": "215812",
+        "md5": "7ed081f09400f6c134d868ba1f3bfb2a",
+        "crc32": "9ca4b1b3",
+        "sha1": "80a0dc771e0a53989681726e2b219eb436ca883b",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "vegetables0000bair.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "vegetables0000bair_hocr.html",
+        "mtime": "1754147272",
+        "size": "56163088",
+        "private": "true",
+        "md5": "aa635d20cbca72008f4f94be99c60c53",
+        "crc32": "673a51e6",
+        "sha1": "c3ba9419dbb2027f70780dbda920965b3cb0e907"
+      },
+      {
+        "name": "vegetables0000bair.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "vegetables0000bair.pdf",
+        "mtime": "1754146719",
+        "size": "16200708",
+        "md5": "fd4d3ea1f45482541d00ee7d9ec7c3a2",
+        "crc32": "4ed6c216",
+        "sha1": "ec0868c837dcf44bc867e047cc5538e73d479bdc"
+      },
+      {
+        "name": "vegetables0000bair.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "vegetables0000bair_page_numbers.json",
+        "mtime": "1726393579",
+        "size": "15579407",
+        "md5": "d2033c6af20a1180767e0a11a1657881",
+        "crc32": "eb68ba3b",
+        "sha1": "02078d7c2a64ccba0f427c6569ac9aed7549f819",
+        "private": "true"
+      },
+      {
+        "name": "vegetables0000bair_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "vegetables0000bair_jp2.zip",
+        "mtime": "1522638640",
+        "size": "3170836",
+        "md5": "66e0028943bf398d5d16892af2f7fc1c",
+        "crc32": "80f70673",
+        "sha1": "7fa2591c2a75cf2dc489e828cef36bd72dc6fb80",
+        "private": "true"
+      },
+      {
+        "name": "vegetables0000bair_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "vegetables0000bair_abbyy.gz",
+        "mtime": "1661235271",
+        "size": "2694958",
+        "md5": "de17593fbe65f5d550eebfb46d71f0cd",
+        "crc32": "5e6b92b9",
+        "sha1": "0aaa7004c06157e2829bdb76e5fab67ea1676a83",
+        "private": "true"
+      },
+      {
+        "name": "vegetables0000bair_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "vegetables0000bair_scandata.xml",
+        "mtime": "1671616094",
+        "size": "765",
+        "md5": "c6bcd59917e834c98779cfaf5932b87b",
+        "crc32": "0dc73a96",
+        "sha1": "5710ff384769cbd39eb62255629f97fd77edbffc",
+        "private": "true"
+      },
+      {
+        "name": "vegetables0000bair_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1522635721",
+        "size": "1007",
+        "md5": "fd502701c2f68bab6d36828c7d7e6391",
+        "crc32": "2df68325",
+        "sha1": "f7ccd8b89e4bab900fb0625693d87efd4d013f69"
+      },
+      {
+        "name": "vegetables0000bair_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "vegetables0000bair_djvu.xml",
+        "mtime": "1661235423",
+        "size": "235660",
+        "md5": "0aa310e739f827589f7cfd7cd04d0c32",
+        "crc32": "d0845b75",
+        "sha1": "9afad2b3d7852b90877393cf40aa8ed771e00afe",
+        "private": "true"
+      },
+      {
+        "name": "vegetables0000bair_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "vegetables0000bair_hocr.html",
+        "mtime": "1661235384",
+        "size": "3034158",
+        "md5": "4ec78a19314824537c82733d7f2f0b24",
+        "crc32": "f2cf4d35",
+        "sha1": "ed2dba6a00f5ef80eba43e02f3153a8a16cb0891",
+        "private": "true"
+      },
+      {
+        "name": "vegetables0000bair_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "vegetables0000bair_abbyy.gz",
+        "mtime": "1528818801",
+        "size": "1882884",
+        "md5": "4cc6d8ef2dc91de5c5656bf957df0876",
+        "crc32": "d053ccd3",
+        "sha1": "7a61acc067420d564128d90d5a0d9816b34cd6a7"
+      },
+      {
+        "name": "vegetables0000bair_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "vegetables0000bair.pdf",
+        "mtime": "1726394239",
+        "size": "15418315",
+        "md5": "87e1463b6a6756541f380ddb822d561d",
+        "crc32": "5a0d49c7",
+        "sha1": "81bf3047a3b499ec505ac1d694fe2f370db24be8"
+      },
+      {
+        "name": "vegetables0000bair_events.json",
+        "source": "original",
+        "mtime": "1522635617",
+        "size": "47",
+        "md5": "c6799fd04de9310137d8c6c63fd4c30a",
+        "crc32": "4dcee7d7",
+        "sha1": "a0e61b9298fd6a2c00303bc97de41b6a4eb49930",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "vegetables0000bair_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "ab81625d80dc9df887c4c54c563a8505",
+        "summation": "md5"
+      },
+      {
+        "name": "vegetables0000bair_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "vegetables0000bair_chocr.html.gz",
+        "mtime": "1661235373",
+        "size": "7218259",
+        "md5": "5e3a02b97cbab091eab66228bc848fbd",
+        "crc32": "2aed9b7f",
+        "sha1": "c808d25310489a49010b8802cb8147927b6494a1",
+        "private": "true"
+      },
+      {
+        "name": "vegetables0000bair_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "vegetables0000bair_hocr.html",
+        "mtime": "1661235397",
+        "size": "1175",
+        "md5": "830b3974d3ef5c9770369f682e8c72cb",
+        "crc32": "284344e6",
+        "sha1": "b8335c75864e887ff4af6eb3940809ca66ea8998",
+        "private": "true"
+      },
+      {
+        "name": "vegetables0000bair_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "545",
+        "word_conf_11_20": "262",
+        "word_conf_21_30": "372",
+        "word_conf_31_40": "484",
+        "word_conf_41_50": "727",
+        "word_conf_51_60": "1211",
+        "word_conf_61_70": "2500",
+        "word_conf_71_80": "5336",
+        "word_conf_81_90": "9412",
+        "word_conf_91_100": "13426",
+        "format": "OCR Search Text",
+        "original": "vegetables0000bair_hocr.html",
+        "mtime": "1661235416",
+        "size": "64937",
+        "md5": "d6337c5afc7b6d172705c7043543386e",
+        "crc32": "ea5b2038",
+        "sha1": "607202647e6f377d45137739fdb9606ceeef3ce2",
+        "private": "true"
+      },
+      {
+        "name": "vegetables0000bair_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "vegetables0000bair_orig_jp2.tar",
+        "mtime": "1522637075",
+        "size": "107003472",
+        "md5": "dee841175e195f5d3b4ac6da48921b8e",
+        "crc32": "a28a297c",
+        "sha1": "afdfb8cf53c2d8ae397156eed6b994b9dbb16398",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "vegetables0000bair_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "vegetables0000bair.epub",
+        "mtime": "1754147974",
+        "size": "56372079",
+        "md5": "2820fc6c6ca3b8d006ba706c823db1f2",
+        "crc32": "01e6c38f",
+        "sha1": "07e242e1f77134e2a78c0914fc9d73076a3675c3"
+      },
+      {
+        "name": "vegetables0000bair_loans.json",
+        "source": "original",
+        "mtime": "1594035704",
+        "size": "462",
+        "format": "JSON",
+        "private": "true",
+        "md5": "df81f494f64b5bb1646763264a1995fe",
+        "crc32": "2838e8eb",
+        "sha1": "4038ad1a425d9bd9a79d636022cb8be43087aa89"
+      },
+      {
+        "name": "vegetables0000bair_marc.xml",
+        "source": "original",
+        "mtime": "1522635721",
+        "size": "3860",
+        "format": "MARC",
+        "md5": "d8df061ea9bf899d54ba0708018cf6b5",
+        "crc32": "a15427d0",
+        "sha1": "65e10fa4a9d2942efe372d6cb5db9ab0820a7391"
+      },
+      {
+        "name": "vegetables0000bair_meta.mrc",
+        "source": "original",
+        "mtime": "1521569543",
+        "size": "1146",
+        "md5": "2040c2b17aa864b1c0de6182b0ea103f",
+        "crc32": "f57c2631",
+        "sha1": "13e104525def914c577e898c5c4cd3b6f745ea97",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "vegetables0000bair_meta.sqlite",
+        "source": "original",
+        "mtime": "1522635692",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "3dbe4cb38b0eaa85bb59491db03dc90c",
+        "crc32": "c04ee99e",
+        "sha1": "80d6518996fc7bcbe8babef0916934ba20a54a93"
+      },
+      {
+        "name": "vegetables0000bair_meta.xml",
+        "source": "original",
+        "mtime": "1754147975",
+        "size": "2895",
+        "format": "Metadata",
+        "md5": "bdd2812de6d99a80f33af8921ec4b6fe",
+        "crc32": "603950ab",
+        "sha1": "906fc6569ec4a48a9cf4aaf35601fde4d1b074e7"
+      },
+      {
+        "name": "vegetables0000bair_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1522635692",
+        "size": "269834240",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "76fd935bae3d53488aa597c92b377035",
+        "crc32": "cb0afd51",
+        "sha1": "318b0e68925a8b09305c36862ab2601dbcb8e314",
+        "filecount": "102"
+      },
+      {
+        "name": "vegetables0000bair_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "vegetables0000bair_hocr.html",
+        "mtime": "1726393568",
+        "size": "16884",
+        "md5": "f8803e3a91e85add3aff8170a29977d1",
+        "crc32": "6b5acce0",
+        "sha1": "09a4fc25c6e9a6b1e4361741f2639b4a427bc43e",
+        "private": "true"
+      },
+      {
+        "name": "vegetables0000bair_scandata.xml",
+        "source": "original",
+        "mtime": "1671616094",
+        "size": "104552",
+        "format": "Scandata",
+        "md5": "ea5c50412edc7307cc0c427ba4fd59fc",
+        "crc32": "544eb6a0",
+        "sha1": "315f7d55127cfa5c3df9798710a4d1a72f5a14f3"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1754147975,
+    "item_size": 555264661,
+    "metadata": {
+      "identifier": "vegetables0000bair",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Baird, Elizabeth, 1939-",
+      "date": "1995-01-01",
+      "isbn": [
+        "0345398041",
+        "9780345398048"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-peter-lau@archive.org",
+      "ppi": "300",
+      "publisher": "Mississauga, Ont. : Ballantine",
+      "repub_state": "22",
+      "scanner": "ttscribe3.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "Vegetables ",
+      "tts_version": "v1.58-final-5-g8c4c1bd",
+      "publicdate": "2018-03-20 18:11:47",
+      "uploader": "ttscribe3.hongkong@archive.org",
+      "addeddate": "2018-03-20 18:11:47",
+      "imagecount": "102",
+      "scandate": "20180320194546",
+      "subject": [
+        "Cooking (Vegetables)",
+        "Cooking (Vegetables)"
+      ],
+      "description": [
+        "Includes index",
+        "\"A Madison Press book.\""
+      ],
+      "republisher_operator": "republisher4.yunnan@archive.org;associate-xuwei@archive.org",
+      "republisher_date": "20180402102109",
+      "republisher_time": "701",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/vegetables0000bair",
+      "identifier-ark": "ark:/13960/t0ns7d12n",
+      "external-identifier": [
+        "urn:acs6:vegetables0000bair:pdf:068fa838-734a-4a05-b2f1-f74881a1b195",
+        "urn:acs6:vegetables0000bair:epub:cdae0b2c-4e2f-4fb6-a0b5-80a64d43e7f6",
+        "urn:oclc:record:1151671246",
+        "urn:lcp:vegetables0000bair:lcpdf:0f1f6164-654b-42bb-9bbc-40f51c6af3e7",
+        "urn:lcp:vegetables0000bair:epub:45a9a5a1-739e-45b2-85b5-a6bc9b0efaa6"
+      ],
+      "scanfee": "15",
+      "invoice": "1213",
+      "curation": "[curator]associate-francis-boyer@archive.org[/curator][date]20180402203919[/date]",
+      "boxid": "IA1178318",
+      "sponsordate": "20180331",
+      "openlibrary_edition": "OL10685833M",
+      "openlibrary_work": "OL9466634W",
+      "backup_location": "ia906701_22",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "filesxml": "Wed Apr 3 16:04:25 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "1995-01-01"
+      ]
+    },
+    "server": "ia803106.us.archive.org",
+    "uniq": 1816214703,
+    "workable_servers": [
+      "ia803106.us.archive.org",
+      "ia903106.us.archive.org"
+    ]
+  },
+  "institution": "Baird, Elizabeth, 1939-",
+  "pdf_url": "derivative",
+  "location": {
+    "city": "Madison"
+  },
+  "curation": {
+    "score": 3,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

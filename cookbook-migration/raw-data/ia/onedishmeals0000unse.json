@@ -1,0 +1,489 @@
+{
+  "source": "internet_archive",
+  "identifier": "onedishmeals0000unse",
+  "title": "One-dish meals",
+  "creator": null,
+  "year": 1995,
+  "subject": "Cooking",
+  "description": [
+    "96 pages : 21 cm",
+    "A collection of one-dish meals includes 70 dinner recipes",
+    "\"70 family-style suppers made easy\"--Cover",
+    "\"Produced by Meredith Custom Publishing, a group of Meredith Corporation\"--Title page verso",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/onedishmeals0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/onedishmeals0000unse"
+        }
+      ]
+    },
+    "created": 1758555712,
+    "d1": "ia902800.us.archive.org",
+    "d2": "ia802800.us.archive.org",
+    "dir": "/11/items/onedishmeals0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660798197",
+        "size": "18423",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "e8f404b32c2db0c25cc5e13de9ae62e8",
+        "crc32": "47a9ca68",
+        "sha1": "a26a966ea06078307d09ff2877aecdea87a334aa"
+      },
+      {
+        "name": "logs/onedishmeals0000unse_iabdash_2018-07-31191956.log",
+        "source": "original",
+        "mtime": "1533036001",
+        "size": "343",
+        "md5": "67ac6d2f4a2b8d91a6a193959c78d372",
+        "crc32": "cda91bb0",
+        "sha1": "c4a79cce18a03b91841ba72a8047b9437d21171b",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/onedishmeals0000unse_scanning_2018-07-31191950.log",
+        "source": "original",
+        "mtime": "1533035995",
+        "size": "213837",
+        "md5": "0d39e2aa6a0e5c2b3b9079e60f734733",
+        "crc32": "6b521f7f",
+        "sha1": "b3e3e793d0939cf6cb968914da6fff02a5377cbb",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "onedishmeals0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "onedishmeals0000unse_hocr.html",
+        "mtime": "1753703711",
+        "size": "74563326",
+        "private": "true",
+        "md5": "ecef368551a14fba1563fa14d96ae59e",
+        "crc32": "2aaa115a",
+        "sha1": "f6cb54d9999b5e56cd66d45ea236e939c2b690cc"
+      },
+      {
+        "name": "onedishmeals0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "onedishmeals0000unse.pdf",
+        "mtime": "1753703541",
+        "size": "16695693",
+        "md5": "541a51fea20f45a86dc73c074c53416d",
+        "crc32": "154e132e",
+        "sha1": "6cfea972c731ceb2bd6d3b1294c9d5f6401df4ec"
+      },
+      {
+        "name": "onedishmeals0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "onedishmeals0000unse_page_numbers.json",
+        "mtime": "1718282963",
+        "size": "15857083",
+        "md5": "f9f9330ca165344a0e7cc9022f4b5695",
+        "crc32": "45b4b430",
+        "sha1": "5895460e248b25ce978df1a53c26e7dcabb75ffe",
+        "private": "true"
+      },
+      {
+        "name": "onedishmeals0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "onedishmeals0000unse_jp2.zip",
+        "mtime": "1534222661",
+        "size": "1951101",
+        "md5": "f266135bd956fd395827b767e35f90f8",
+        "crc32": "34879f33",
+        "sha1": "a503d4c0bb9fb16658b71ad03fe64249d77bcf36",
+        "private": "true"
+      },
+      {
+        "name": "onedishmeals0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "onedishmeals0000unse_abbyy.gz",
+        "mtime": "1660797154",
+        "size": "1608094",
+        "md5": "43e8185343eaf45286810d32eb947cac",
+        "crc32": "769c062e",
+        "sha1": "52b10685e179518f025eb7557f63b506b1549b68",
+        "private": "true"
+      },
+      {
+        "name": "onedishmeals0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "onedishmeals0000unse_scandata.xml",
+        "mtime": "1670803063",
+        "size": "773",
+        "md5": "e90ee9caa6728f9b372e1e616c86c4f9",
+        "crc32": "1b292307",
+        "sha1": "ba705747ab66c485543a17355c7e9a24e21d5b0f",
+        "private": "true"
+      },
+      {
+        "name": "onedishmeals0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660796886",
+        "size": "1353",
+        "md5": "abc5f15e788cc8b38c1559aafbc851e7",
+        "crc32": "106cec23",
+        "sha1": "8e881e2176c69c7de56243823460dc7e24e8960b"
+      },
+      {
+        "name": "onedishmeals0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "onedishmeals0000unse_djvu.xml",
+        "mtime": "1660798192",
+        "size": "145009",
+        "md5": "2a0ea3bf00a32c65c07568094722cc94",
+        "crc32": "17a14c20",
+        "sha1": "54609494616115e893726f36386851a795655e39",
+        "private": "true"
+      },
+      {
+        "name": "onedishmeals0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "onedishmeals0000unse_hocr.html",
+        "mtime": "1660797754",
+        "size": "1732760",
+        "md5": "bf2351a6aef8a34128483561c4705615",
+        "crc32": "8203094d",
+        "sha1": "24502e9670e53edb0b1c15275a3a0376fe5ae2d2",
+        "private": "true"
+      },
+      {
+        "name": "onedishmeals0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "onedishmeals0000unse_abbyy.gz",
+        "mtime": "1534223289",
+        "size": "2537604",
+        "md5": "5b4b87d5a976782dac2ab701e99482d1",
+        "crc32": "f1cee0bd",
+        "sha1": "28115e1a0dfdc3fec046afa01502719987e78e43"
+      },
+      {
+        "name": "onedishmeals0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "onedishmeals0000unse.pdf",
+        "mtime": "1718284087",
+        "size": "15796098",
+        "md5": "878e063f465a051b58b0669e7b91d5e2",
+        "crc32": "ef51cac8",
+        "sha1": "9beb3fd1a17bdaabc9fbe2c4c23458f6ceb46695"
+      },
+      {
+        "name": "onedishmeals0000unse_events.json",
+        "source": "original",
+        "mtime": "1534219244",
+        "size": "101",
+        "format": "JSON",
+        "private": "true",
+        "md5": "9c866f283d40cef98ef6bfe189015deb",
+        "crc32": "d3ce9410",
+        "sha1": "42faed2a80ac8bb8d2d94286cf76ed43b5a064ef"
+      },
+      {
+        "name": "onedishmeals0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "fd0912f233acf5b7fe31db11ac4c4c02",
+        "summation": "md5"
+      },
+      {
+        "name": "onedishmeals0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "onedishmeals0000unse_chocr.html.gz",
+        "mtime": "1660797719",
+        "size": "3516149",
+        "md5": "1e4c3a730e7dc627ef396b7986319289",
+        "crc32": "1d8d16e9",
+        "sha1": "1f1a1475bc6bb66c05715112396bbec91a9b86a5",
+        "private": "true"
+      },
+      {
+        "name": "onedishmeals0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "onedishmeals0000unse_hocr.html",
+        "mtime": "1660797974",
+        "size": "1194",
+        "md5": "818c0f6435b406056138f444df37d170",
+        "crc32": "46031f18",
+        "sha1": "3cb9b5bd4ed168d9ea4b53a72c7b3c405654d211",
+        "private": "true"
+      },
+      {
+        "name": "onedishmeals0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "288",
+        "word_conf_11_20": "82",
+        "word_conf_21_30": "140",
+        "word_conf_31_40": "242",
+        "word_conf_41_50": "396",
+        "word_conf_51_60": "711",
+        "word_conf_61_70": "1779",
+        "word_conf_71_80": "3414",
+        "word_conf_81_90": "4897",
+        "word_conf_91_100": "8848",
+        "format": "OCR Search Text",
+        "original": "onedishmeals0000unse_hocr.html",
+        "mtime": "1660798172",
+        "size": "34854",
+        "md5": "b5a77a47ef02ec28aaecc767be58c20b",
+        "crc32": "584dcc8b",
+        "sha1": "18feebb197de7999099fc342c952ccb2b64513b2",
+        "private": "true"
+      },
+      {
+        "name": "onedishmeals0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "onedishmeals0000unse_orig_jp2.tar",
+        "mtime": "1534221023",
+        "size": "120508691",
+        "md5": "dba0e1ddc82eccad4b5bf402d4e9be3f",
+        "crc32": "717e7f8e",
+        "sha1": "4caf123be377ce0e1d94eb55f848e58093fe1a49",
+        "private": "true",
+        "filecount": "106"
+      },
+      {
+        "name": "onedishmeals0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "onedishmeals0000unse.epub",
+        "mtime": "1753703795",
+        "size": "74970134",
+        "md5": "264d7550d891fa780592212796a21ec3",
+        "crc32": "6d7e8ccf",
+        "sha1": "f2b3f7ae6d0b8fa3c4ed9ade7463cd055d4bcc98"
+      },
+      {
+        "name": "onedishmeals0000unse_loans.json",
+        "source": "original",
+        "mtime": "1594203974",
+        "size": "1775",
+        "format": "JSON",
+        "private": "true",
+        "md5": "084a0bc5279f709efb913e1b3b2bf77a",
+        "crc32": "65916a9a",
+        "sha1": "323b8cbe30b1ba874e6ddab2caa0224dbac2fbfc"
+      },
+      {
+        "name": "onedishmeals0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1660796886",
+        "size": "5286",
+        "format": "MARC",
+        "md5": "9dedfee42dd979cd8d3b13fbba68e6cb",
+        "crc32": "e2affd7e",
+        "sha1": "a23cb9cceab317db608631c30e1824c4699eb6b1"
+      },
+      {
+        "name": "onedishmeals0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1533036014",
+        "size": "1614",
+        "md5": "765319e112cce2ba8d996f6085722d4a",
+        "crc32": "57b8ee1f",
+        "sha1": "401644a829f7f6aac580b412c69a2fd0a0d26ead",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "onedishmeals0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1534219612",
+        "size": "23552",
+        "format": "Metadata",
+        "md5": "bfd39d8d21b650d5ea2158e77a1f8e7d",
+        "crc32": "84115873",
+        "sha1": "90f2baeee98390884778bfb9967d887c5cdb5bc0"
+      },
+      {
+        "name": "onedishmeals0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753703795",
+        "size": "3208",
+        "format": "Metadata",
+        "md5": "b290f82d695bab041dcd38a926086c21",
+        "crc32": "567ee9c1",
+        "sha1": "9e9114097424be9f397339c1ba70b32575e32a07"
+      },
+      {
+        "name": "onedishmeals0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1534219610",
+        "size": "181227520",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "b68628011d0567b8376df3d404ec59b9",
+        "crc32": "d099d7f6",
+        "sha1": "cf68add04ad0c9c3f2119899cad30c79226bb0bc",
+        "filecount": "106"
+      },
+      {
+        "name": "onedishmeals0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "onedishmeals0000unse_hocr.html",
+        "mtime": "1718282956",
+        "size": "17608",
+        "md5": "77a3e0091702330efa40daa7601d9d9a",
+        "crc32": "9e585b08",
+        "sha1": "082462a1d1c8e2cbc31f2dca1588efaf68159fe9",
+        "private": "true"
+      },
+      {
+        "name": "onedishmeals0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670803062",
+        "size": "107184",
+        "format": "Scandata",
+        "md5": "53bc001cafd0343ff58d9d89afda57f1",
+        "crc32": "9a304c92",
+        "sha1": "7c4463da9547a71025553796e1f5c545a2db0e58"
+      },
+      {
+        "name": "onedishmeals0000unse_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "onedishmeals0000unse_djvu.xml",
+        "mtime": "1670802994",
+        "size": "17881",
+        "md5": "1a78dea936077efcd5d99fe6ad07d34c",
+        "crc32": "fb5d9119",
+        "sha1": "6ea247e7430aa09d8eea1a849c5d59ea60329074",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753703795,
+    "item_size": 511558248,
+    "metadata": {
+      "identifier": "onedishmeals0000unse",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "date": "1995-01-01",
+      "isbn": [
+        "069620620X",
+        "9780696206207"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-kiwi@archive.org",
+      "ppi": "300",
+      "printer": "DYMO_LabelWriter_450_Turbo",
+      "publisher": "Des Moines, IA : Meredith",
+      "repub_state": "22",
+      "scanner": "ttscribe4.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "One-dish meals",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "uploader": "ttscribe4.hongkong@archive.org",
+      "addeddate": "2018-07-31 11:19:36",
+      "publicdate": "2018-07-31 11:20:05",
+      "imagecount": "106",
+      "scandate": "20180731132749",
+      "notes": "The original books is too bright.<br />",
+      "subject": [
+        "Cooking",
+        "Cooking"
+      ],
+      "description": [
+        "96 pages : 21 cm",
+        "A collection of one-dish meals includes 70 dinner recipes",
+        "\"70 family-style suppers made easy\"--Cover",
+        "\"Produced by Meredith Custom Publishing, a group of Meredith Corporation\"--Title page verso",
+        "Includes index"
+      ],
+      "associated-names": "Meredith Corporation; Meredith Custom Publishing",
+      "republisher_operator": "republisher10.dhaka@archive.org",
+      "republisher_date": "20180814100047",
+      "republisher_time": "953",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/onedishmeals0000unse",
+      "identifier-ark": "ark:/13960/t6tz0g23p",
+      "bookplateleaf": "0004",
+      "external-identifier": [
+        "urn:acs6:onedishmeals0000unse:epub:acb6c375-ae53-402f-a6f8-cffb2f597fd9",
+        "urn:acs6:onedishmeals0000unse:pdf:e685734d-3d3c-4f31-be76-374be4277af1",
+        "urn:lcp:onedishmeals0000unse:lcpdf:0c08f188-2d8d-45b4-b990-fbd7c3d01e8f",
+        "urn:lcp:onedishmeals0000unse:epub:4cc676a7-9d03-455e-9977-bf4b326ee949"
+      ],
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20180814182826[/date]",
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "boxid": "IA1306313",
+      "sponsordate": "20180831",
+      "openlibrary_edition": "OL7760607M",
+      "openlibrary_work": "OL8243265W",
+      "access-restricted-item": "true",
+      "backup_location": "ia906800_3",
+      "oclc-id": "35640889",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia802800.us.archive.org",
+    "uniq": 1787059485,
+    "workable_servers": [
+      "ia802800.us.archive.org",
+      "ia902800.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

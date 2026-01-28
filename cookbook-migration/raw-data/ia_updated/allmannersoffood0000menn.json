@@ -1,0 +1,776 @@
+{
+  "source": "internet_archive",
+  "identifier": "allmannersoffood0000menn",
+  "title": "All manners of food : eating and taste in England and France from the Middle Ages to the present",
+  "creator": "Mennell, Stephen",
+  "year": 1996,
+  "subject": [
+    "Food habits -- England -- History",
+    "Food habits -- France -- History",
+    "Food habits -- Social aspects",
+    "Cooking, English -- History",
+    "Cooking, French -- History"
+  ],
+  "description": [
+    "x, 397 p. : 23 cm",
+    "Includes bibliographical references (p. [369]-388) and index"
+  ],
+  "metadata": {
+    "created": 1758541527,
+    "d1": "ia904508.us.archive.org",
+    "d2": "ia804508.us.archive.org",
+    "dir": "/19/items/allmannersoffood0000menn",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658572964",
+        "size": "18739",
+        "md5": "f1ca391de1bcc794f59f476b239cf4ad",
+        "crc32": "0a952d09",
+        "sha1": "baecc4f5ec4799dbb0324e6aa11fd2970af6778c",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "allmannersoffood0000menn.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "allmannersoffood0000menn_hocr.html",
+        "mtime": "1753005402",
+        "size": "1437833",
+        "private": "true",
+        "md5": "09ed988dd04d1710a38e0fff7419ff04",
+        "crc32": "ff070c5a",
+        "sha1": "1fe6a61194a3f5f2fd0b3a7a4f97adfb3a593ba3"
+      },
+      {
+        "name": "allmannersoffood0000menn.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "allmannersoffood0000menn.pdf",
+        "mtime": "1753005313",
+        "size": "24840138",
+        "md5": "e1898bd9e231e20fddbae32e4aeb7bef",
+        "crc32": "a1c9f414",
+        "sha1": "a35601e4d51ee5a47aa699a3e7a2f017e3ead2a7"
+      },
+      {
+        "name": "allmannersoffood0000menn.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "allmannersoffood0000menn_page_numbers.json",
+        "mtime": "1714329915",
+        "size": "24562832",
+        "md5": "9ab7dbbcd95a0eebc6d1a18c9c7f459c",
+        "crc32": "4e9ee715",
+        "sha1": "b5a55c8cbef3d8ccc6cb6992f25809de742d6e88",
+        "private": "true"
+      },
+      {
+        "name": "allmannersoffood0000menn_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9905",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "allmannersoffood0000menn_jp2.zip",
+        "mtime": "1621525142",
+        "size": "16249571",
+        "md5": "31b00b453e85db33e0fb8be37f339bdd",
+        "crc32": "ca96edf6",
+        "sha1": "1c874520da716387c9eba7c7c8f475272e76d73e",
+        "private": "true"
+      },
+      {
+        "name": "allmannersoffood0000menn_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "allmannersoffood0000menn_scandata.xml",
+        "mtime": "1669284191",
+        "size": "788",
+        "md5": "b5805e2c939ee3df6e58d707377dcf73",
+        "crc32": "efad5d98",
+        "sha1": "f2cac17b5601883863b99f629b69b728b1f53124",
+        "private": "true"
+      },
+      {
+        "name": "allmannersoffood0000menn_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1621509455",
+        "size": "1381",
+        "md5": "8561ada2e579421efa9f9954b8b31bf0",
+        "crc32": "abbe0e95",
+        "sha1": "497f612912596ff3a54d1056981506cf6062239b"
+      },
+      {
+        "name": "allmannersoffood0000menn_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "allmannersoffood0000menn_djvu.xml",
+        "mtime": "1621525505",
+        "size": "1227668",
+        "md5": "32084714b0bbdbbe2d86d7d945ebc2c6",
+        "crc32": "68870354",
+        "sha1": "131d00508301c9955edd8b0490ef1684e908c145",
+        "private": "true"
+      },
+      {
+        "name": "allmannersoffood0000menn_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "allmannersoffood0000menn_hocr.html",
+        "mtime": "1621525366",
+        "size": "15184806",
+        "md5": "5d81dcd20554ec17615a097fd66d5d8f",
+        "crc32": "5b78a271",
+        "sha1": "6d658d1d9b3598c03801f844f30b81bebe52f147",
+        "private": "true"
+      },
+      {
+        "name": "allmannersoffood0000menn_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "allmannersoffood0000menn.pdf",
+        "mtime": "1714329973",
+        "size": "24459650",
+        "md5": "0ef3e1dc841fc20f4f94c06f7bb924ba",
+        "crc32": "6d002bb3",
+        "sha1": "a31e421d2a915d259de4f811bf861084ed53a44c"
+      },
+      {
+        "name": "allmannersoffood0000menn_events.json",
+        "source": "original",
+        "mtime": "1621509288",
+        "size": "53",
+        "md5": "3a9709ea37ce1bc6d9573fa1bc7f50a1",
+        "crc32": "204ae4ac",
+        "sha1": "8f9a97de6c8bf3d568487e3d5a69f59dc94322f7",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "allmannersoffood0000menn_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "8b951390272fe2e66fd8530256e6336a",
+        "summation": "md5"
+      },
+      {
+        "name": "allmannersoffood0000menn_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9905",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "allmannersoffood0000menn_chocr.html.gz",
+        "mtime": "1621525309",
+        "size": "27722717",
+        "md5": "fbad2413085aaca067279b7386808306",
+        "crc32": "403f9047",
+        "sha1": "e896e243d7a90be2160b96dbfe303fa405fa7575",
+        "private": "true"
+      },
+      {
+        "name": "allmannersoffood0000menn_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "allmannersoffood0000menn_hocr.html",
+        "mtime": "1621525436",
+        "size": "5066",
+        "md5": "8955e6f7d2dc356d13cb0ecee6d5bb43",
+        "crc32": "d0d6c350",
+        "sha1": "32cc47742590e7fca39311b5b3c874a4d232f80e",
+        "private": "true"
+      },
+      {
+        "name": "allmannersoffood0000menn_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "671",
+        "word_conf_11_20": "324",
+        "word_conf_21_30": "447",
+        "word_conf_31_40": "579",
+        "word_conf_41_50": "613",
+        "word_conf_51_60": "641",
+        "word_conf_61_70": "860",
+        "word_conf_71_80": "1303",
+        "word_conf_81_90": "4251",
+        "word_conf_91_100": "186971",
+        "format": "OCR Search Text",
+        "original": "allmannersoffood0000menn_hocr.html",
+        "mtime": "1621525493",
+        "size": "455193",
+        "md5": "9d033569a0fb9851827af61b946019e1",
+        "crc32": "27075a98",
+        "sha1": "88b384d4bb2b07bf66d8fd9223396f3ea978ac92",
+        "private": "true"
+      },
+      {
+        "name": "allmannersoffood0000menn_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "allmannersoffood0000menn_orig_jp2.tar",
+        "mtime": "1621519611",
+        "size": "207433704",
+        "md5": "3784529594cab508b3a3f3ed51a5583c",
+        "crc32": "b8e3e257",
+        "sha1": "9a395bbc54a3ae9e70739a9a9d3310e0517daf1d",
+        "private": "true",
+        "filecount": "414"
+      },
+      {
+        "name": "allmannersoffood0000menn_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "allmannersoffood0000menn.epub",
+        "mtime": "1753005655",
+        "size": "1458254",
+        "md5": "d5526d9fced52e73002d76b66981cd0e",
+        "crc32": "48f72c2d",
+        "sha1": "8c8a4ddc5a8aca993d3c0608716000105f058068"
+      },
+      {
+        "name": "allmannersoffood0000menn_marc.xml",
+        "source": "original",
+        "mtime": "1621343079",
+        "size": "3195",
+        "md5": "18f8ef4627ac37cb8160e5a70f563c11",
+        "crc32": "029e7aef",
+        "sha1": "fdaf5279c6bead6858072efee27507ba054cdaa9",
+        "format": "MARC"
+      },
+      {
+        "name": "allmannersoffood0000menn_meta.mrc",
+        "source": "original",
+        "mtime": "1621343075",
+        "size": "1032",
+        "md5": "7585a36cc1edd9650af691ff3ff5bc4b",
+        "crc32": "e62cdca0",
+        "sha1": "81de22067c95316b7b2e66deb2dd5ef77b1df89e",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "allmannersoffood0000menn_meta.sqlite",
+        "source": "original",
+        "mtime": "1621509384",
+        "size": "45056",
+        "md5": "41fd0a3deda41e364644bf935045173b",
+        "crc32": "bc2b30b8",
+        "sha1": "e2d150ab7cc5f0eebe77df0380c192939c05b737",
+        "format": "Metadata"
+      },
+      {
+        "name": "allmannersoffood0000menn_meta.xml",
+        "source": "original",
+        "mtime": "1753005656",
+        "size": "3551",
+        "md5": "8a48df5f42fa198a6b7f4e3f26d80baa",
+        "crc32": "f4151ddb",
+        "sha1": "ff1a3bf5f03bca27a6c4533069be29194bce5583",
+        "format": "Metadata"
+      },
+      {
+        "name": "allmannersoffood0000menn_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1621509383",
+        "size": "532326400",
+        "md5": "567f696ed6818cf90a36e88c978901de",
+        "crc32": "a7cdc2d2",
+        "sha1": "056e07fd123db61a752031099acd97c4d71719cd",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "414"
+      },
+      {
+        "name": "allmannersoffood0000menn_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "98",
+        "format": "Page Numbers JSON",
+        "original": "allmannersoffood0000menn_hocr.html",
+        "mtime": "1714329915",
+        "size": "69188",
+        "md5": "a127a9e2af58435d1864b1e69a93e5b7",
+        "crc32": "e272f5cf",
+        "sha1": "897945cfa790202fa14f5f22c96fd40250ac0a02",
+        "private": "true"
+      },
+      {
+        "name": "allmannersoffood0000menn_scandata.xml",
+        "source": "original",
+        "mtime": "1669284191",
+        "size": "450262",
+        "md5": "98722b917de401ca1f4affa27218f8a3",
+        "crc32": "ce3dcbb5",
+        "sha1": "b2fa3909ea5256272f0a247aa0726228b55abda2",
+        "format": "Scandata"
+      },
+      {
+        "name": "allmannersoffood0000menn_slip.png",
+        "source": "original",
+        "mtime": "1621341567",
+        "size": "39891",
+        "md5": "ffd8968cf76f7a0af712f58b2ccd912a",
+        "crc32": "d421153b",
+        "sha1": "778d2d76932aba4624ce8d840194d9953ae60735",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "allmannersoffood0000menn_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "allmannersoffood0000menn_slip.png",
+        "mtime": "1621509461",
+        "size": "5774",
+        "md5": "2c6b5c2b7f164152703de3a3ded6ef1c",
+        "crc32": "5ac41aa7",
+        "sha1": "5c683286b0469c27605aea37fd7f80d9a335c5c2",
+        "private": "true"
+      },
+      {
+        "name": "allmannersoffood0000menn_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "allmannersoffood0000menn_djvu.xml",
+        "mtime": "1669283951",
+        "size": "732",
+        "md5": "09051f065a2b59042a3cbc3f61c6e850",
+        "crc32": "78463406",
+        "sha1": "fa65c94fa17fdf85d4de9820b241bf993317a862",
+        "private": "true"
+      },
+      {
+        "name": "logs/allmannersoffood0000menn_iabdash_2021-05-1821:04:42.log",
+        "source": "original",
+        "mtime": "1621343085",
+        "size": "1356",
+        "md5": "13d71fd907cf7cad3231fc21e443ad1f",
+        "crc32": "86bcfe28",
+        "sha1": "8caf26b9217614a44f330c6d8d7f288f339c55f3",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/allmannersoffood0000menn_scanning_2021-05-1821:04:56.log",
+        "source": "original",
+        "mtime": "1621343101",
+        "size": "1459457",
+        "md5": "5f9df554daeeca65c03b512e636bbbf9",
+        "crc32": "bf9b725e",
+        "sha1": "ab07026d21f406a956b549fdb7f82cfd6952ddb1",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/allmannersoffood0000menn_status_history_2021-05-1821:04:46.log",
+        "source": "original",
+        "mtime": "1621343094",
+        "size": "406",
+        "md5": "b94153a409eb26deef86eaea231c36ba",
+        "crc32": "2aa584db",
+        "sha1": "34594a0788c60c2bf016add84f1d41cb9b0a9d53",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753005656,
+    "item_size": 879464693,
+    "metadata": {
+      "identifier": "allmannersoffood0000menn",
+      "boxid": "IA40120813",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Mennell, Stephen",
+      "date": "1996-01-01",
+      "description": [
+        "x, 397 p. : 23 cm",
+        "Includes bibliographical references (p. [369]-388) and index"
+      ],
+      "isbn": [
+        "0631132449",
+        "0252064909"
+      ],
+      "language": "eng",
+      "lccn": "95002359",
+      "mediatype": "texts",
+      "old_pallet": "IA-WL-0000231",
+      "openlibrary_edition": "OL1271141M",
+      "openlibrary_work": "OL726892W",
+      "operator": "associate-rhialyn-opena@archive.org",
+      "publisher": "Urbana : University of Illinois Press",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station13.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780252064906",
+      "sponsor": "The Arcadia Fund",
+      "subject": [
+        "Food habits -- England -- History",
+        "Food habits -- France -- History",
+        "Food habits -- Social aspects",
+        "Cooking, English -- History",
+        "Cooking, French -- History"
+      ],
+      "title": "All manners of food : eating and taste in England and France from the Middle Ages to the present",
+      "tts_version": "4.5-initial-63-g7e8faad7",
+      "uploader": "station13.cebu@archive.org",
+      "publicdate": "2021-05-18 12:39:44",
+      "access-restricted-item": "true",
+      "imagecount": "414",
+      "scandate": "20210518135400",
+      "ppi": "360",
+      "republisher_operator": "associate-hena-dalida@archive.org",
+      "republisher_date": "20210520191442",
+      "republisher_time": "251",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/allmannersoffood0000menn",
+      "identifier-ark": "ark:/13960/t0hv3qx5d",
+      "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.13",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9905",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "98",
+      "pdf_module_version": "0.0.13",
+      "external-identifier": [
+        "urn:acs6:allmannersoffood0000menn:pdf:ea1921d2-1e72-42e5-ab25-f9365d0b20e9",
+        "urn:oclc:record:1255740243",
+        "urn:lcp:allmannersoffood0000menn:lcpdf:523cf937-e154-49fa-8b4d-d095e26b3454",
+        "urn:lcp:allmannersoffood0000menn:epub:8e009fd2-be31-4c9c-a37a-2a745a039f43"
+      ],
+      "addeddate": "2021-05-20 18:01:01",
+      "scanfee": "2000;0;0",
+      "invoice": "2089",
+      "sponsordate": "20210930",
+      "grant_report": "Arcadia #4281",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "curation": "[date]20250203133244[/date][comment]inlibrary removal 3[/comment]",
+      "source": "removed"
+    },
+    "server": "ia904508.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "americanuniversity-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-06-20 23:51:19.072757"
+        },
+        "belmont-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-07-16 00:00:13.966327"
+        },
+        "binghamton-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-11-24 23:07:11.433295"
+        },
+        "cua-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-01 23:05:20.6194"
+        },
+        "dartmouthlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-01 23:49:41.452053"
+        },
+        "drakeuniversity-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 00:06:07.313608"
+        },
+        "gwulibraries-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 02:16:57.392164"
+        },
+        "ithacacollege-ol": {
+          "notes": {
+            "isbn": [
+              "9780252064906"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 03:10:53.173265"
+        },
+        "johnshopkins-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 04:30:44.380594"
+        },
+        "kalamazoocollege-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 04:30:29.417858"
+        },
+        "marymount-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 06:05:29.45159"
+        },
+        "occidentalcollegelibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 06:44:11.600523"
+        },
+        "riceuniversity-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 09:08:15.043934"
+        },
+        "rochester-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 09:51:56.196414"
+        },
+        "the-claremont-colleges-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 14:06:50.367356"
+        },
+        "tulsacc-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 14:16:23.64719"
+        },
+        "udc-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 14:59:28.872085"
+        },
+        "unb-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 16:44:20.150337"
+        },
+        "uni-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 17:35:41.941194"
+        },
+        "universityofarizona-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 18:53:20.053748"
+        },
+        "universityofcoloradoboulder-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 19:36:17.50506"
+        },
+        "wilsoncollege-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-07-01 03:46:55.050383"
+        },
+        "winterthurlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780631132448"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-11-25 01:22:46.102468"
+        }
+      }
+    },
+    "uniq": 759029691,
+    "workable_servers": [
+      "ia904508.us.archive.org",
+      "ia804508.us.archive.org"
+    ]
+  },
+  "institution": "Mennell, Stephen",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

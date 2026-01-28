@@ -1,0 +1,519 @@
+{
+  "source": "internet_archive",
+  "identifier": "tasteofhomescook0000unse",
+  "title": "Taste of home's cooking for one or two",
+  "creator": null,
+  "year": 2003,
+  "subject": [
+    "Cookery for one",
+    "Cookery for two",
+    "Cooking, American"
+  ],
+  "description": "320 p. : 28 cm",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/tasteofhomescook0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/tasteofhomescook0000unse"
+        }
+      ]
+    },
+    "created": 1758557179,
+    "d1": "ia903201.us.archive.org",
+    "d2": "ia803201.us.archive.org",
+    "dir": "/9/items/tasteofhomescook0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661145856",
+        "size": "19237",
+        "md5": "957cf0b5a1f36d71af75e04d4991f143",
+        "crc32": "54611ec4",
+        "sha1": "137760260b4c03919b49b64231d31ac93ca1ce3c",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/tasteofhomescook0000unse_iabdash_2020-07-2521:01:47.log",
+        "source": "original",
+        "mtime": "1595682113",
+        "size": "1357",
+        "md5": "94aa8a56d71def28f513a34586f485a9",
+        "crc32": "c2322ef4",
+        "sha1": "7708d8b0136d8e98cc012a86ad3cea7940781baf",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/tasteofhomescook0000unse_scanning_2020-07-2521:02:01.log",
+        "source": "original",
+        "mtime": "1595682129",
+        "size": "1194627",
+        "md5": "968da5c32e98a91fef73b038fca71dd6",
+        "crc32": "64e9d2fd",
+        "sha1": "a40cc0cede6d60d9d0f21003adda94b1d4224c71",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/tasteofhomescook0000unse_status_history_2020-07-2521:01:54.log",
+        "source": "original",
+        "mtime": "1595682120",
+        "size": "409",
+        "md5": "0658e4ab7e4b5d2a62049b68160dacf3",
+        "crc32": "5634a93a",
+        "sha1": "101294cc2757c1b9f4e0eaab01bcd0ea034726c4",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "tasteofhomescook0000unse_hocr.html",
+        "mtime": "1754102417",
+        "size": "66265467",
+        "private": "true",
+        "md5": "8d29cb9ccc09a9b71de561aabbf8a446",
+        "crc32": "99185f86",
+        "sha1": "355292166c21ebb819ecf63f40afb25e0e68c6d8"
+      },
+      {
+        "name": "tasteofhomescook0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "tasteofhomescook0000unse.pdf",
+        "mtime": "1754101952",
+        "size": "21886682",
+        "md5": "166a2ff05bbdc2bb444e10084da11f13",
+        "crc32": "a3ed2b27",
+        "sha1": "3cfb4493f8590fce44c1e1a01f8a4698594d02f2"
+      },
+      {
+        "name": "tasteofhomescook0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "tasteofhomescook0000unse_page_numbers.json",
+        "mtime": "1724928458",
+        "size": "21589609",
+        "md5": "100bb9f9274cd90ce9b5f41e41d02deb",
+        "crc32": "0d4a7096",
+        "sha1": "99b24e1a2d15d8c4df3a8a4e0208c0e14dfa77c0",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "tasteofhomescook0000unse_jp2.zip",
+        "mtime": "1596796725",
+        "size": "8742409",
+        "md5": "61403d8205e132b41eb94ef01a0044c7",
+        "crc32": "2ee646aa",
+        "sha1": "5099db501d92fba4bed975ff73a3fe0363cd64bc",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "tasteofhomescook0000unse_abbyy.gz",
+        "mtime": "1661145150",
+        "size": "7380407",
+        "md5": "6d19a2b2f43fd7d6aebcdd744297effd",
+        "crc32": "1a15595e",
+        "sha1": "80c929be471ce42dda4a73d79466fd254e14949b",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "tasteofhomescook0000unse_scandata.xml",
+        "mtime": "1671415373",
+        "size": "788",
+        "md5": "fd8c7162a0f391e127122ee53e69c448",
+        "crc32": "31bb0669",
+        "sha1": "edb7b1789900431c7efb521154d3465fa2505bf7",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1596790482",
+        "size": "1018",
+        "md5": "59388bcde569ca4577c2021710f04581",
+        "crc32": "34692c12",
+        "sha1": "11c9344de7af972e3005f4e15df1e13d1427af55"
+      },
+      {
+        "name": "tasteofhomescook0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "tasteofhomescook0000unse_djvu.xml",
+        "mtime": "1661145850",
+        "size": "675395",
+        "md5": "a4f5e7ba50c0f80469e78344b8376ebf",
+        "crc32": "d5bd9aed",
+        "sha1": "4abdfab81baac14b5f4af510fc18b5632cf806a6",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "tasteofhomescook0000unse_hocr.html",
+        "mtime": "1661145542",
+        "size": "8089157",
+        "md5": "c872baf93571b5489aa0f3c7809751f5",
+        "crc32": "0e264efc",
+        "sha1": "9084adb49583e53b662a0fb42cf46273645e940b",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "tasteofhomescook0000unse_abbyy.gz",
+        "mtime": "1596796817",
+        "size": "4921670",
+        "md5": "9de127c8c729753ee266e7399a9467b7",
+        "crc32": "02519c18",
+        "sha1": "fa2c9537e6e41e27c4135133e713ed75768c433d"
+      },
+      {
+        "name": "tasteofhomescook0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "tasteofhomescook0000unse.pdf",
+        "mtime": "1724929734",
+        "size": "21351762",
+        "md5": "84e2368f8c9a2df1c37c54abcb850de5",
+        "crc32": "0902bfda",
+        "sha1": "ad5a3ba318708f2253fc7a903c0803848f53e413"
+      },
+      {
+        "name": "tasteofhomescook0000unse_events.json",
+        "source": "original",
+        "mtime": "1596788554",
+        "size": "59",
+        "md5": "2080736fb9deeb91952a9faa13ca031a",
+        "crc32": "05fb347f",
+        "sha1": "a30daa870907a75b43a32c700464d3a385c82850",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "2a330b24a430b606e6fed8b5e0958e4c",
+        "summation": "md5"
+      },
+      {
+        "name": "tasteofhomescook0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "tasteofhomescook0000unse_chocr.html.gz",
+        "mtime": "1661145513",
+        "size": "17096468",
+        "md5": "d01a0483d445c320403296b8e4f9055a",
+        "crc32": "b51d9195",
+        "sha1": "d6c2ff773bd2bae99bea6cefd494b4c6d696d7d3",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "tasteofhomescook0000unse_hocr.html",
+        "mtime": "1661145587",
+        "size": "3862",
+        "md5": "fa40cf41b22d92b9ad5e3f848cc7ec3c",
+        "crc32": "f7bad793",
+        "sha1": "8e3610588f2ab6e7c79a748270a88d0bab7a7d63",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "561",
+        "word_conf_11_20": "49",
+        "word_conf_21_30": "113",
+        "word_conf_31_40": "285",
+        "word_conf_41_50": "487",
+        "word_conf_51_60": "947",
+        "word_conf_61_70": "2370",
+        "word_conf_71_80": "7102",
+        "word_conf_81_90": "21446",
+        "word_conf_91_100": "62251",
+        "format": "OCR Search Text",
+        "original": "tasteofhomescook0000unse_hocr.html",
+        "mtime": "1661145706",
+        "size": "166297",
+        "md5": "fd792aa72b9b0b69854840635411c6a9",
+        "crc32": "6a2da604",
+        "sha1": "367bbf48a9738c10b9372efa133c2da2a005f030",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "tasteofhomescook0000unse_orig_jp2.tar",
+        "mtime": "1596794719",
+        "size": "160220133",
+        "md5": "e38edd8698b839c5c66bd3cbc4016b72",
+        "crc32": "729710ba",
+        "sha1": "6497c226d542511cf1fd2ef77167153a21b027bb",
+        "private": "true",
+        "filecount": "330"
+      },
+      {
+        "name": "tasteofhomescook0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "tasteofhomescook0000unse.epub",
+        "mtime": "1754102831",
+        "size": "66818523",
+        "md5": "1c459bf245508b067cd1f0dd67dd2d19",
+        "crc32": "bec270e7",
+        "sha1": "81794e21abe8dcd454d392be7832dd47cd6875f6"
+      },
+      {
+        "name": "tasteofhomescook0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1595682105",
+        "size": "2589",
+        "md5": "c077b96bcf91c82edbcc724c27a45fc0",
+        "crc32": "b137320e",
+        "sha1": "e8db327bc39161133f6af7058c778988c2224d11",
+        "format": "MARC"
+      },
+      {
+        "name": "tasteofhomescook0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1595682099",
+        "size": "793",
+        "md5": "dec145540e473fc17d8f61b1c4876fda",
+        "crc32": "fc169f29",
+        "sha1": "a61dc0bd5b6b5924b77edb414ea4f40655f1a3f2",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "tasteofhomescook0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1596790424",
+        "size": "19456",
+        "md5": "c2358dd5e3a76989acdadc13aa892859",
+        "crc32": "d8b9d3ee",
+        "sha1": "43a91c6d8d8a06995b5d90f2efd95d6f8a7ccf3d",
+        "format": "Metadata"
+      },
+      {
+        "name": "tasteofhomescook0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1754102831",
+        "size": "2986",
+        "md5": "72328a2e92b6a64ea5153777a6712e8e",
+        "crc32": "67132a9e",
+        "sha1": "b7cb92f2aa6dfa7e9d2d547598813b6d4b344dbc",
+        "format": "Metadata"
+      },
+      {
+        "name": "tasteofhomescook0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1596790422",
+        "size": "301680640",
+        "md5": "0382882f1e8d9501aae9ff57d10e3685",
+        "crc32": "450b9325",
+        "sha1": "2ca0c6ae2eb6bf3853fffe06630a6d9aa00ce72f",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "330"
+      },
+      {
+        "name": "tasteofhomescook0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "tasteofhomescook0000unse_hocr.html",
+        "mtime": "1724928446",
+        "size": "55374",
+        "md5": "e8949016a657fabd71e5711bf8d768ce",
+        "crc32": "549fd70a",
+        "sha1": "a70d236b3634cc5a4304131d4b9b260a7bd93e5e",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671415373",
+        "size": "336570",
+        "md5": "293ec86d796721281a630a50403314d9",
+        "crc32": "5166d9a5",
+        "sha1": "fab549b4e9f0ac0a266f6e2838cd04ffc9535215",
+        "format": "Scandata"
+      },
+      {
+        "name": "tasteofhomescook0000unse_slip.png",
+        "source": "original",
+        "mtime": "1595680743",
+        "size": "40672",
+        "md5": "87021bb5bb0af49f73a538b880518b4f",
+        "crc32": "bba995ab",
+        "sha1": "541004b047601a0ace3e9120717cc482a2c5cd6f",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "tasteofhomescook0000unse_slip.png",
+        "mtime": "1596790486",
+        "size": "5707",
+        "md5": "9bd3adba6ddcca95d324e59347c28cd2",
+        "crc32": "21411336",
+        "sha1": "6351d0a23263b46e56590ad9d98c2d89bae5b092",
+        "private": "true"
+      },
+      {
+        "name": "tasteofhomescook0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "tasteofhomescook0000unse_djvu.xml",
+        "mtime": "1671415340",
+        "size": "535",
+        "md5": "5020b05abd04c673cf3bd11c73d306a5",
+        "crc32": "6d281482",
+        "sha1": "d93167e846a2fa6f98cfc4af88038c041a4620d6",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1754102831,
+    "item_size": 708570658,
+    "metadata": {
+      "identifier": "tasteofhomescook0000unse",
+      "associated-names": "Lloyd, Heidi Reuter; Taste of Home Books",
+      "boxid": "IA1899111",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2003-01-01",
+      "description": "320 p. : 28 cm",
+      "isbn": "0898213800",
+      "language": "eng",
+      "lccn": "2003091380",
+      "mediatype": "texts",
+      "old_pallet": "IA18418",
+      "openlibrary_edition": "OL3694561M",
+      "openlibrary_work": "OL18338226W",
+      "operator": "associate-arianefaye-rodrigo@gmail.com",
+      "ppi": "300",
+      "publisher": "Greendale, WI : Taste of Home Books",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station01.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780898213805",
+      "subject": [
+        "Cookery for one",
+        "Cookery for two",
+        "Cooking, American"
+      ],
+      "title": "Taste of home's cooking for one or two",
+      "tts_version": "4.0-initial-155-gbba175a5",
+      "uploader": "station01.cebu@archive.org",
+      "publicdate": "2020-07-25 12:39:42",
+      "access-restricted-item": "true",
+      "notes": "-inherent obscured text<br />",
+      "imagecount": "330",
+      "scandate": "20200725133542",
+      "republisher_operator": "associate-criselyn-alicoben@archive.org",
+      "republisher_date": "20200807162019",
+      "republisher_time": "457",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/tasteofhomescook0000unse",
+      "identifier-ark": "ark:/13960/t42s2vv8m",
+      "external-identifier": [
+        "urn:acs6:tasteofhomescook0000unse:epub:66587465-9157-425f-8809-5ab284241259",
+        "urn:acs6:tasteofhomescook0000unse:pdf:f30c0b2a-89e5-4a1d-a196-31cc253b3ac6",
+        "urn:oclc:record:1195037189",
+        "urn:lcp:tasteofhomescook0000unse:lcpdf:3b72addc-558a-4c50-bfa0-12e7f919c5a2",
+        "urn:lcp:tasteofhomescook0000unse:epub:9cb4940a-8cbe-4352-a530-cef50f88676c"
+      ],
+      "page_number_confidence": "100",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "addeddate": "2020-08-11 05:57:01",
+      "sponsordate": "20200831",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia803201.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "delawarecountydistrictlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780898213805"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-10-29 04:38:03.302772"
+        }
+      }
+    },
+    "uniq": 1786817786,
+    "workable_servers": [
+      "ia803201.us.archive.org",
+      "ia903201.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

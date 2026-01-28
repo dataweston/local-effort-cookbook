@@ -1,0 +1,498 @@
+{
+  "source": "internet_archive",
+  "identifier": "betterhomesgardstane00stan",
+  "title": "Better homes and gardens microwave recipes made easy",
+  "creator": "Stanley, Marcia",
+  "year": 1982,
+  "subject": "Microwave cookery",
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/betterhomesgardstane00stan"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/betterhomesgardstane00stan"
+        }
+      ]
+    },
+    "created": 1758337348,
+    "d1": "ia600208.us.archive.org",
+    "d2": "ia800208.us.archive.org",
+    "dir": "/33/items/betterhomesgardstane00stan",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658705206",
+        "size": "24668",
+        "md5": "213d92a60583fbb11d8589a5b9044b4b",
+        "crc32": "8a9e6eea",
+        "sha1": "647401a66fa2ce22d7451ce9f102dbd4d2aff4bc",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "betterhomesgardstane00stan.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "betterhomesgardstane00stan_hocr.html",
+        "mtime": "1755040749",
+        "size": "22634977",
+        "private": "true",
+        "md5": "a0f2dc6b9a350e10608457158c21625c",
+        "crc32": "e7085627",
+        "sha1": "e07626741d191dc5779625c9c5f4b6ec1cce9d63"
+      },
+      {
+        "name": "betterhomesgardstane00stan.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "betterhomesgardstane00stan_jp2.zip",
+        "md5": "1eec7146deda4dc90d0bdc794fa44d1f",
+        "mtime": "1276672334",
+        "size": "235853",
+        "crc32": "57bb772b",
+        "sha1": "fbedaca4837a6d901c5efb5d5a3757101b3ff95e"
+      },
+      {
+        "name": "betterhomesgardstane00stan.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "betterhomesgardstane00stan.pdf",
+        "mtime": "1755040671",
+        "size": "10788200",
+        "md5": "55468483097da30fd51600a77d9b49dc",
+        "crc32": "ac94c366",
+        "sha1": "f750a95dec1f165ba9aaaf2f3af6f3ccebdeae85"
+      },
+      {
+        "name": "betterhomesgardstane00stan.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "betterhomesgardstane00stan_page_numbers.json",
+        "mtime": "1716665010",
+        "size": "10330272",
+        "md5": "5e3fa2446bca86c4dfd6015ba3b85908",
+        "crc32": "6bf21ccd",
+        "sha1": "8f21400263b8fbe68b10fea97c875f1ef272ef94",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgardstane00stan_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "betterhomesgardstane00stan_jp2.zip",
+        "md5": "422ccdba2f63a5d7ec05d034b0838034",
+        "mtime": "1276682718",
+        "size": "2319479",
+        "crc32": "b395942",
+        "sha1": "2da66354f80ba99ce498c2c10943d514326611a8",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgardstane00stan_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "betterhomesgardstane00stan_page_numbers.json",
+        "mtime": "1716665011",
+        "size": "7585423",
+        "md5": "d988096b0ae059d43f28712e65e03eb4",
+        "crc32": "7d43cd56",
+        "sha1": "dbed3738e243aea66d8f0918fc69026aafb4d771",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgardstane00stan_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "betterhomesgardstane00stan_abbyy.gz",
+        "mtime": "1658704729",
+        "size": "1940187",
+        "md5": "039e40d4b503d2a30e27318ffeb8f8e7",
+        "crc32": "29853024",
+        "sha1": "a82232d74825049b364538d10cac7ac85e88edae",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgardstane00stan_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "betterhomesgardstane00stan_scandata.xml",
+        "mtime": "1669422433",
+        "size": "796",
+        "md5": "f248b4f40ecf4ba200801b22b214a9ea",
+        "crc32": "aa7367f3",
+        "sha1": "a003e64eac4549da561d8f3dedd16625841779f0",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgardstane00stan_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "dc52942dc9c835653d314bc77492468f",
+        "mtime": "1275499625",
+        "size": "614",
+        "crc32": "1839fedc",
+        "sha1": "4d1fee3090a6fa0e2c5ad0669769fa82cbb8f15e"
+      },
+      {
+        "name": "betterhomesgardstane00stan_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "betterhomesgardstane00stan_djvu.xml",
+        "mtime": "1719581896",
+        "size": "173913",
+        "md5": "7589e5fbd8dce7bea494b358ce55ae31",
+        "crc32": "967a62ea",
+        "sha1": "2fd978925a3e441ca8610bec51fd017bb5a45abf",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgardstane00stan_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "betterhomesgardstane00stan_hocr.html",
+        "mtime": "1719581893",
+        "size": "2154952",
+        "md5": "6863437b998496625701cbb51bb63d4d",
+        "crc32": "c0a9437d",
+        "sha1": "9b456adfc12d86ed5da7ba354b68b44d3d79e3a5",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgardstane00stan_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "betterhomesgardstane00stan.pdf",
+        "mtime": "1716665746",
+        "size": "10313130",
+        "md5": "ed0f557394640aa893c8484d21f85fc7",
+        "crc32": "69072790",
+        "sha1": "d4715402282f53d7fed261918f62cdeae4535896"
+      },
+      {
+        "name": "betterhomesgardstane00stan_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "4d93d704ed9bd28e4873088be8122087",
+        "summation": "md5"
+      },
+      {
+        "name": "betterhomesgardstane00stan_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "betterhomesgardstane00stan_chocr.html.gz",
+        "mtime": "1658704934",
+        "size": "4530821",
+        "md5": "0a19a48477740e2022b2c115d83e11e4",
+        "crc32": "b4d1bbad",
+        "sha1": "4dd939eff0c3382549a1af5ba2f1bf650e3739f1",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgardstane00stan_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "betterhomesgardstane00stan_hocr.html",
+        "mtime": "1658705039",
+        "size": "1233",
+        "md5": "d37b1817d04b0773435bc6fce6fb5740",
+        "crc32": "946e6e6a",
+        "sha1": "844003edc45c73efebe7c8a0cc495b296dc97fdf",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgardstane00stan_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2134",
+        "word_conf_11_20": "417",
+        "word_conf_21_30": "1136",
+        "word_conf_31_40": "786",
+        "word_conf_41_50": "2747",
+        "word_conf_51_60": "3300",
+        "word_conf_61_70": "4729",
+        "word_conf_71_80": "4064",
+        "word_conf_81_90": "1458",
+        "word_conf_91_100": "3435",
+        "format": "OCR Search Text",
+        "original": "betterhomesgardstane00stan_hocr.html",
+        "mtime": "1658705160",
+        "size": "44384",
+        "md5": "1fa9d62df2288900bb8d818b49521319",
+        "crc32": "2361f95f",
+        "sha1": "dd8efd476b551390c7db0bbc11749fca99401a7f",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgardstane00stan_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "betterhomesgardstane00stan_orig_jp2.tar",
+        "md5": "4e068234aa2f4f4533e416e9be01d6cf",
+        "mtime": "1276672289",
+        "size": "70398755",
+        "crc32": "8d1f2c2d",
+        "sha1": "47bc6be85e5ac07efd8f4d2dcfc88995daf6696c",
+        "private": "true",
+        "filecount": "106"
+      },
+      {
+        "name": "betterhomesgardstane00stan_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "betterhomesgardstane00stan.epub",
+        "mtime": "1755040770",
+        "size": "22743686",
+        "md5": "16977a0a83e03ae89f7d626a15384303",
+        "crc32": "55c3fe66",
+        "sha1": "2fe2ee7a25f7cf03f5e5485506f118da897cf849"
+      },
+      {
+        "name": "betterhomesgardstane00stan_loans.json",
+        "source": "original",
+        "mtime": "1593369754",
+        "size": "1353",
+        "format": "JSON",
+        "private": "true",
+        "md5": "bea2a69026da4c7614467ba2c523f957",
+        "crc32": "569299c4",
+        "sha1": "6fde1dbc84d47a73ca7b8345d88085084109f203"
+      },
+      {
+        "name": "betterhomesgardstane00stan_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "4333fc91e47d8b7cc835664d39e7fe9f",
+        "mtime": "1275499625",
+        "size": "5189",
+        "crc32": "49d70473",
+        "sha1": "0adc61790ec6940c3de907560d4b229301609200"
+      },
+      {
+        "name": "betterhomesgardstane00stan_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "betterhomesgardstane00stan_xisbn.json",
+        "mtime": "1454287777",
+        "size": "341",
+        "md5": "2ab319441549543f9dd6035ef64a92d5",
+        "crc32": "c5ca5f89",
+        "sha1": "06078ba5ba807e75dc15e8b7afe5cf51aa68211f",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgardstane00stan_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "46a1a8252da23a0b6eebd823ad692f7b",
+        "mtime": "1275499625",
+        "size": "1420",
+        "crc32": "6cf38dac",
+        "sha1": "a66e88a3dc412db432866108b2888eee638cf2ca"
+      },
+      {
+        "name": "betterhomesgardstane00stan_meta.sqlite",
+        "source": "original",
+        "mtime": "1466983447",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "56297afbfb0cd0441223b05dd7259d8f",
+        "crc32": "dc59ef8c",
+        "sha1": "089698921ccb6ebec918965e9ecd8a81169a2047"
+      },
+      {
+        "name": "betterhomesgardstane00stan_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1755040771",
+        "size": "2951",
+        "md5": "11d60919a68de277b97cc9e06b0e0514",
+        "crc32": "76751dd6",
+        "sha1": "2fd94a44d6835e42c4d27fc70ce1f2e379f82b18"
+      },
+      {
+        "name": "betterhomesgardstane00stan_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "af300ec3161a4ee65ec4f3f0775e33eb",
+        "mtime": "1275499625",
+        "size": "402",
+        "crc32": "8bd3837b",
+        "sha1": "0b65a8070d7c62c6444e1440fd9d065923236fde"
+      },
+      {
+        "name": "betterhomesgardstane00stan_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "e5aa6554838024d1d5a62614b1c6bb41",
+        "mtime": "1276667298",
+        "size": "103874560",
+        "crc32": "c51042c1",
+        "sha1": "713e5da7372e8859d1e6fb030b5c7b14c914804a",
+        "private": "true",
+        "filecount": "106"
+      },
+      {
+        "name": "betterhomesgardstane00stan_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "99",
+        "format": "Page Numbers JSON",
+        "original": "betterhomesgardstane00stan_hocr.html",
+        "mtime": "1716665009",
+        "size": "16855",
+        "md5": "16a4d2d0a2e18d7d976a0a8d0b22c778",
+        "crc32": "0f0e50cb",
+        "sha1": "da61e454821398478b05d13a5e091b359c4c9e5a",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgardstane00stan_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "fe60f77ae9af34017d0e59334794a37d",
+        "mtime": "1669422433",
+        "size": "55320",
+        "crc32": "ccfb8ddb",
+        "sha1": "9686456b18e5af9c389499ec9d7416b514f8e139"
+      },
+      {
+        "name": "betterhomesgardstane00stan_xisbn.json",
+        "source": "original",
+        "mtime": "1454079577",
+        "size": "362",
+        "md5": "74ea82e0f598fb60c2747e6e1e716ed1",
+        "crc32": "f6655cf0",
+        "sha1": "45fe08bed0d9cd6e96e8e0e95433c53c897dbd46",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1755040771,
+    "item_size": 270186240,
+    "metadata": {
+      "title": "Better homes and gardens microwave recipes made easy",
+      "creator": "Stanley, Marcia",
+      "subject": "Microwave cookery",
+      "description": "Includes index",
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "date": "1982-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696008459",
+        "9780696008450"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA119811",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sanfrancisco",
+      "mediatype": "texts",
+      "updatedate": "2010-06-02 17:27:05",
+      "updater": "SeanFagan",
+      "identifier": "betterhomesgardstane00stan",
+      "uploader": "sean@archive.org",
+      "addeddate": "2010-06-02 17:27:07",
+      "publicdate": "2010-06-02 17:27:12",
+      "ppi": "400",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-teofilo-burciaga@archive.org",
+      "scanner": "scribe7.sanfrancisco.archive.org",
+      "scandate": "20100616053733",
+      "imagecount": "104",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/betterhomesgardstane00stan",
+      "identifier-ark": "ark:/13960/t41r7h53b",
+      "bookplateleaf": "0002",
+      "ocr": "ABBYY FineReader 8.0",
+      "notes": "title page same page as copyright",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20100706185306[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:betterhomesgardstane00stan:pdf:5363e343-1f72-4791-adb6-70865f9675c2",
+        "urn:acs6:betterhomesgardstane00stan:epub:c65bf0cf-c803-4d5e-867f-e7b22e17724d",
+        "urn:oclc:record:1028726229",
+        "urn:lcp:betterhomesgardstane00stan:lcpdf:ec877413-c414-45e5-b6b9-80c919077a09",
+        "urn:lcp:betterhomesgardstane00stan:epub:0784a80f-2334-41e0-bc57-ff80119d5df3"
+      ],
+      "donor": "alibris",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": "8809562",
+      "lccn": "81070396",
+      "backup_location": "ia903605_20",
+      "openlibrary_edition": "OL3791242M",
+      "openlibrary_work": "OL16060363W",
+      "access-restricted-item": "true",
+      "filesxml": "Wed Dec 23 9:20:18 UTC 2020",
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "99",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "1982-01-01"
+      ]
+    },
+    "server": "ia800208.us.archive.org",
+    "uniq": 370037493,
+    "workable_servers": [
+      "ia800208.us.archive.org",
+      "ia600208.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/8809562?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "81070396"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Marcia Stanley].",
+          "ed": "1st ed.",
+          "year": "1982",
+          "isbn": [
+            "0696008459"
+          ],
+          "title": "Better homes and gardens microwave recipes made easy",
+          "oclcnum": [
+            "8809562"
+          ]
+        }
+      ]
+    }
+  }
+}

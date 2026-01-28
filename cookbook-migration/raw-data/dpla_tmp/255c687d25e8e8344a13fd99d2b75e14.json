@@ -1,0 +1,109 @@
+{
+  "source": "dpla",
+  "id": "255c687d25e8e8344a13fd99d2b75e14",
+  "identifier": "255c687d25e8e8344a13fd99d2b75e14",
+  "title": "The Mendelssohn Club cook book",
+  "subject": [
+    "Cookery--Illinois",
+    "Cookery, American"
+  ],
+  "spatial": [
+    "Illinois"
+  ],
+  "description": "\"This book contains 1394 valuable receipts with instructions for cooking and serving them, also menus for social functions.\"",
+  "isShownAt": "http://catalog.hathitrust.org/Record/005706547",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1909,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/255c687d25e8e8344a13fd99d2b75e14#SourceResource",
+      "contributor": [
+        "Mendelssohn Club (Rockford, Ill.)"
+      ],
+      "date": [
+        {
+          "begin": "1909",
+          "displayDate": "1909",
+          "end": "1909"
+        }
+      ],
+      "description": [
+        "\"This book contains 1394 valuable receipts with instructions for cooking and serving them, also menus for social functions.\""
+      ],
+      "extent": [
+        "xxxii, 369 p. ; 24 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-uiuc5353470",
+        "sdr-hvd001862020",
+        "(OCoLC)23186145",
+        "Hathi: 005706547"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Rockford, Ill. : Horton Print. Co."
+      ],
+      "relation": [
+        "Original. (IU)"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cookery--Illinois"
+        },
+        {
+          "name": "Cookery, American"
+        }
+      ],
+      "title": [
+        "The Mendelssohn Club cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1909-01-01",
+      "normalized_dates": [
+        "1909-01-01"
+      ],
+      "date_range": {
+        "begin": "1909-01-01",
+        "end": "1909-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=h1cEAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/005706547"
+  },
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

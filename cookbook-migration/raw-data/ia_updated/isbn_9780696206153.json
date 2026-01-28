@@ -1,0 +1,621 @@
+{
+  "source": "internet_archive",
+  "identifier": "isbn_9780696206153",
+  "title": "Mary Gwynn's 30-minute vegetarian recipes",
+  "creator": "Gwynn, Mary, 1957-",
+  "year": 1995,
+  "subject": [
+    "Vegetarian cooking",
+    "Quick and easy cooking"
+  ],
+  "description": [
+    "Includes index",
+    "More than 60 recipes that can be made in 30 minutes or less"
+  ],
+  "metadata": {
+    "created": 1758555155,
+    "d1": "ia600205.us.archive.org",
+    "d2": "ia800205.us.archive.org",
+    "dir": "/1/items/isbn_9780696206153",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660352204",
+        "size": "23652",
+        "md5": "67e966a20c915dfa47ffe8083cb79588",
+        "crc32": "6859f851",
+        "sha1": "66c54e5d283a30d907cf199c47ff74f27c70ed6c",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "isbn_9780696206153.cdx.gz",
+        "source": "original",
+        "mtime": "1454981093",
+        "size": "6356",
+        "md5": "ae0780a1b7065f9afe77a93e281d1f7a",
+        "crc32": "11cbe267",
+        "sha1": "8ef116e36dcddcbb5958018a83f692f72c63c334",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153.cdx.idx",
+        "source": "original",
+        "mtime": "1454981093",
+        "size": "34",
+        "md5": "ed7baa07d13b5ef065b3f5906034725e",
+        "crc32": "6ff70d09",
+        "sha1": "9869e71299cfe68df58a129930e1469f8c9a852b",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "isbn_9780696206153_hocr.html",
+        "mtime": "1756376855",
+        "size": "34486693",
+        "private": "true",
+        "md5": "3ec1315c58ac9c8fae8bca304c445e04",
+        "crc32": "248aad0d",
+        "sha1": "f1d3c79f1adee0940df5334c9d1eec3c372cdd51"
+      },
+      {
+        "name": "isbn_9780696206153.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "isbn_9780696206153.pdf",
+        "mtime": "1756376636",
+        "size": "10351176",
+        "md5": "7cfa93a059b32ae500452a7bdf8b4ee9",
+        "crc32": "602dafa0",
+        "sha1": "e1f9791ed5390c00e4712ef239a4531a78e02e4c"
+      },
+      {
+        "name": "isbn_9780696206153.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "isbn_9780696206153_page_numbers.json",
+        "mtime": "1726391760",
+        "size": "9796781",
+        "md5": "c0b8b3fee150c748ff80d105df7701dc",
+        "crc32": "f9ff796d",
+        "sha1": "ccd3a4785ceb33509b155592a149a42c6f056e52",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1432127642",
+        "size": "765913",
+        "md5": "261c450715015e1f8f76a9375681e317",
+        "crc32": "df1571cf",
+        "sha1": "bf9608b7e629edee4d9a3879a38d3b3b1f6eb938"
+      },
+      {
+        "name": "isbn_9780696206153.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "isbn_9780696206153.warc.gz",
+        "mtime": "1454981079",
+        "size": "6482",
+        "md5": "d8d2f18775189f838d942676963ec0f6",
+        "crc32": "50072d3d",
+        "sha1": "87d2819289a7403c0d853d9ab81765f53e721486",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "isbn_9780696206153_jp2.zip",
+        "mtime": "1531367179",
+        "size": "2334888",
+        "md5": "6d2ee45ebefd4ef924402b8eae869d6f",
+        "crc32": "26a8b3b0",
+        "sha1": "b9642512818f7d3812fc914ff164f28724385124",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "isbn_9780696206153_abbyy.gz",
+        "mtime": "1660351940",
+        "size": "2012206",
+        "md5": "5c4804783a98d35f065fee42a48a142a",
+        "crc32": "d810a59c",
+        "sha1": "8ddd436aa84cafa67a7d4e229ae09cdfdbf72742",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "isbn_9780696206153_scandata.xml",
+        "mtime": "1670372492",
+        "size": "765",
+        "md5": "40b3a23881188ca9b9f2fbb9a7909ee0",
+        "crc32": "a3eb9d03",
+        "sha1": "c68121e39aa27032a4cbe02e029f0fbf05eae36e",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1454981076",
+        "size": "874",
+        "md5": "bc5786945337dd4066f7dd73c3807163",
+        "crc32": "4df9e2d6",
+        "sha1": "ad21527706f2e64348a4baa0497920191d980f03"
+      },
+      {
+        "name": "isbn_9780696206153_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "isbn_9780696206153_djvu.xml",
+        "mtime": "1660352187",
+        "size": "182134",
+        "md5": "ab26d5d2aeb455a0820c2f1787909691",
+        "crc32": "36af7672",
+        "sha1": "7013069fc9a09c1d0c0d9c15465c2cd18407d840",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "isbn_9780696206153_hocr.html",
+        "mtime": "1660352095",
+        "size": "2250252",
+        "md5": "1878eb6cc403479e93416fd19880c3fa",
+        "crc32": "a2f51bdc",
+        "sha1": "35aa5c610572f9805522c1d3051e8de760e965be",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "isbn_9780696206153_abbyy.gz",
+        "mtime": "1531367627",
+        "size": "3343386",
+        "md5": "0146505264885118c22198a6546fdf7f",
+        "crc32": "44bef55c",
+        "sha1": "2a0fd81ce571edf195383ff6ce5d45f0e6dbade7"
+      },
+      {
+        "name": "isbn_9780696206153_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "isbn_9780696206153.pdf",
+        "mtime": "1726392091",
+        "size": "9729771",
+        "md5": "f9287c7e1305b656794d34dae9737504",
+        "crc32": "e2008dfd",
+        "sha1": "60cb8597eb2525246f992364726e4837d1237ccb"
+      },
+      {
+        "name": "isbn_9780696206153_events.json",
+        "source": "original",
+        "mtime": "1531365353",
+        "size": "51",
+        "md5": "756385caefff5a768773c60193b151d8",
+        "crc32": "7a563d16",
+        "sha1": "715bb042c09e6eb7f29f1deeece7989cef14ad85",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "074acce08318862a87ec47bb707807b7",
+        "summation": "md5"
+      },
+      {
+        "name": "isbn_9780696206153_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "isbn_9780696206153_chocr.html.gz",
+        "mtime": "1660352070",
+        "size": "4666203",
+        "md5": "00b0a9f5a7c9392443f441ac41316fa4",
+        "crc32": "7add1b2d",
+        "sha1": "a90c774c097dfe4aa2e71513f5ad5521f26aa32b",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "isbn_9780696206153_hocr.html",
+        "mtime": "1660352128",
+        "size": "1189",
+        "md5": "bf5c717cb17d928512cada6bb4c033cb",
+        "crc32": "02e98756",
+        "sha1": "8ab5d6658c07be38cc7704e2a04cd397e553e4f3",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "137",
+        "word_conf_11_20": "139",
+        "word_conf_21_30": "225",
+        "word_conf_31_40": "332",
+        "word_conf_41_50": "545",
+        "word_conf_51_60": "1120",
+        "word_conf_61_70": "2461",
+        "word_conf_71_80": "4882",
+        "word_conf_81_90": "7283",
+        "word_conf_91_100": "10043",
+        "format": "OCR Search Text",
+        "original": "isbn_9780696206153_hocr.html",
+        "mtime": "1660352175",
+        "size": "49541",
+        "md5": "314b514b12f4509f4436f4a56dbb290a",
+        "crc32": "1627b157",
+        "sha1": "1c6d140132734fd829bc93512a4857ac809242a3",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "isbn_9780696206153_orig_jp2.tar",
+        "mtime": "1531366696",
+        "size": "69154672",
+        "md5": "cc43ddb41cb906dd68bf59786dd20b8b",
+        "crc32": "495e9d74",
+        "sha1": "73a2733d32e2e9e986874a5fcc1c91008276c0ca",
+        "private": "true",
+        "filecount": "106"
+      },
+      {
+        "name": "isbn_9780696206153_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "isbn_9780696206153.epub",
+        "mtime": "1756377089",
+        "size": "34796567",
+        "md5": "9a6d60e224c0921e4d6f5d2fbb54dfd0",
+        "crc32": "f60724d2",
+        "sha1": "a202b6a9e39ef4e5a5add09b345861350de356b0"
+      },
+      {
+        "name": "isbn_9780696206153_loans.json",
+        "source": "original",
+        "mtime": "1584932784",
+        "size": "2325",
+        "format": "JSON",
+        "private": "true",
+        "md5": "06a3350acc78751e8e799f1b733df6ec",
+        "crc32": "bac86332",
+        "sha1": "449c3d66993864f7bfced0bb4ff04f66c233b8a5"
+      },
+      {
+        "name": "isbn_9780696206153_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1454981076",
+        "size": "5417",
+        "md5": "a3cbc19e4d8ac2528f64071699ee3b90",
+        "crc32": "d93e652d",
+        "sha1": "ee7bf86734e50d0d1c5dd085359e3b55a02ddf55"
+      },
+      {
+        "name": "isbn_9780696206153_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "isbn_9780696206153_xisbn.json",
+        "mtime": "1454981080",
+        "size": "292",
+        "md5": "bf530146915b2f9db04fb633d67c5a10",
+        "crc32": "5ff1f3a5",
+        "sha1": "25f7af5141aca2c347c4a54262c5e5ee85a5a5d8",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454981076",
+        "size": "1542",
+        "md5": "7a86e0611c9ab72b6f5946edc14836b7",
+        "crc32": "c5c19cf4",
+        "sha1": "eb6bb820595b531b52a53c43eafce3e12445315d"
+      },
+      {
+        "name": "isbn_9780696206153_meta.sqlite",
+        "source": "original",
+        "mtime": "1531365401",
+        "size": "14336",
+        "format": "Metadata",
+        "md5": "c6355086cbee9704c7e8a79ce317909c",
+        "crc32": "77feaa5b",
+        "sha1": "1f8c1132f8ae0ab01ae731ddb4f759fea9b56977"
+      },
+      {
+        "name": "isbn_9780696206153_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1756377089",
+        "size": "3606",
+        "md5": "79dc5705b32d5882cb77ae8cc9a6415b",
+        "crc32": "65bb5c7a",
+        "sha1": "5d01b29d50dccbc3bdee1e9156aca2a537b95161"
+      },
+      {
+        "name": "isbn_9780696206153_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1432127642",
+        "size": "295",
+        "md5": "2c2f8f7032c13f2e4bd00405d015049a",
+        "crc32": "13bbe110",
+        "sha1": "e820d67d32b2c9a357bbce37f480014bdd719fe8"
+      },
+      {
+        "name": "isbn_9780696206153_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1531365401",
+        "size": "222914560",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "c5a6d0315c665677bbd507de162c9a15",
+        "crc32": "4ef7593e",
+        "sha1": "6b55ed1b9a1ec99f4b4afd120d408bfce3ce841f",
+        "filecount": "106"
+      },
+      {
+        "name": "isbn_9780696206153_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "94",
+        "format": "Page Numbers JSON",
+        "original": "isbn_9780696206153_hocr.html",
+        "mtime": "1726391759",
+        "size": "17525",
+        "md5": "ece0fdd1f2d6b93bcc129a0bc3c6dabc",
+        "crc32": "b6e37ec3",
+        "sha1": "9dc8a6dae35c52b6bfe1ab4df948fc76575e10b7",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153_scandata.xml",
+        "source": "original",
+        "mtime": "1670372491",
+        "size": "108561",
+        "format": "Scandata",
+        "md5": "0289fc9ff5d6ba9cc73c70910c58d7c4",
+        "crc32": "42a611e3",
+        "sha1": "3d2262e4700797fb56cae047a3ad8aff771f36c2"
+      },
+      {
+        "name": "isbn_9780696206153_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "isbn_9780696206153_djvu.xml",
+        "mtime": "1670372411",
+        "size": "5107",
+        "md5": "5038c5d73b11caab9d91c2b346e8a465",
+        "crc32": "13fdbbb1",
+        "sha1": "0444d3fb2ad3edab19374c74cecb4312d377a44d",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9780696206153_xisbn.json",
+        "source": "original",
+        "mtime": "1454980136",
+        "size": "324",
+        "md5": "3fbb1dba748419cbcf24a21826f35cee",
+        "crc32": "8fb99aea",
+        "sha1": "2ce5d61f142278ad7a6b9f5cbdb70311f2924f63",
+        "format": "OCLC xISBN JSON"
+      },
+      {
+        "name": "logs/isbn_9780696206153_iabdash_2018-07-11050930.log",
+        "source": "original",
+        "mtime": "1531256990",
+        "size": "353",
+        "md5": "72e7d7c33c3a48e401a0aea77267dac0",
+        "crc32": "ab95d328",
+        "sha1": "da109abcef60d9fe32a1c6b3fe9e58aee7ed12d8",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/isbn_9780696206153_scanning_2018-07-11050921.log",
+        "source": "original",
+        "mtime": "1531256983",
+        "size": "234141",
+        "md5": "043fcac738a98d0f99b37815f230a6cf",
+        "crc32": "14dd9fe3",
+        "sha1": "90b4cb8fe2758eb28b66a25af78a99587b84d435",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 37,
+    "item_last_updated": 1756377089,
+    "item_size": 407267970,
+    "metadata": {
+      "isbn": [
+        "0696206153",
+        "9780696206153"
+      ],
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "22",
+      "updatedate": "2015-05-20 13:14:00",
+      "updater": "associate-lotu-tii@archive.org",
+      "boxid": "IA1270822",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "scanningcenter": "hongkong",
+      "title": "Mary Gwynn's 30-minute vegetarian recipes",
+      "identifier": "isbn_9780696206153",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2015-05-20 13:14:04.579483",
+      "publicdate": "2015-05-20 13:14:08",
+      "donor": "allen_county",
+      "creator": "Gwynn, Mary, 1957-",
+      "publisher": "Des Moines, Iowa : Meredith Press",
+      "date": "1995-01-01",
+      "subject": [
+        "Vegetarian cooking",
+        "Quick and easy cooking",
+        "Quick and easy cooking",
+        "Vegetarian cooking"
+      ],
+      "lccn": "96076681",
+      "description": [
+        "Includes index",
+        "More than 60 recipes that can be made in 30 minutes or less"
+      ],
+      "identifier-access": "http://archive.org/details/isbn_9780696206153",
+      "identifier-ark": "ark:/13960/t04x9bk6d",
+      "city": "Des Moines",
+      "oclc-id": [
+        "123102143",
+        "35361255",
+        "679784333"
+      ],
+      "shipping_container": "SZ0025",
+      "backup_location": "ia905305_31",
+      "scanner": "ttscribe2.hongkong.archive.org",
+      "operator": "associate-chuiyuk-cheung@archive.org",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "imagecount": "106",
+      "scandate": "20180710224511",
+      "ppi": "300",
+      "republisher_operator": "republisher12.dhaka@archive.org",
+      "republisher_date": "20180712091536",
+      "republisher_time": "397",
+      "foldoutcount": "0",
+      "bookplateleaf": "0004",
+      "external-identifier": [
+        "urn:acs6:isbn_9780696206153:epub:66e375bc-c354-4154-96aa-083bdcab0448",
+        "urn:acs6:isbn_9780696206153:pdf:cdc465ba-687c-47d2-880a-1bdc5915cc28",
+        "urn:oclc:record:1149997452",
+        "urn:lcp:isbn_9780696206153:lcpdf:31b44eb5-e9d8-4061-adc7-a798c37600d1",
+        "urn:lcp:isbn_9780696206153:epub:ec163d1f-bf54-46e9-9916-8447b16dc7f7"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20180712182314[/date]",
+      "sponsordate": "20180731",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-03-02T19:52:49Z",
+      "loans__status__num_history": "4",
+      "openlibrary_edition": "OL1019016M",
+      "openlibrary_work": "OL2765290W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "94",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia600205.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40662005"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 08:02:53.68654"
+        },
+        "spokanepubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780696206153"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-01-31 02:04:40.767235"
+        }
+      }
+    },
+    "uniq": 376938498,
+    "workable_servers": [
+      "ia600205.us.archive.org",
+      "ia800205.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/123102143?referer=xid"
+          ],
+          "publisher": "Better Homes and Gardens Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "96076681"
+          ],
+          "lang": "eng",
+          "city": "Des Moines",
+          "year": "1996",
+          "isbn": [
+            "0696206153"
+          ],
+          "title": "30-minute vegetarian recipes.",
+          "oclcnum": [
+            "123102143",
+            "35361255",
+            "679784333"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Gwynn, Mary, 1957-",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

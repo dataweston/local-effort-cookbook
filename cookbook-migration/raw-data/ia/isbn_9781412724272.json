@@ -1,0 +1,512 @@
+{
+  "source": "internet_archive",
+  "identifier": "isbn_9781412724272",
+  "title": "Grilled cheese & more",
+  "creator": null,
+  "year": 2006,
+  "subject": [
+    "Sandwiches",
+    "Cooking (Cheese)",
+    "Brand name products -- United States",
+    "Brand name products",
+    "United States"
+  ],
+  "description": [
+    "46 pages : 19 cm",
+    "Cover title",
+    "On board pages",
+    "Cheesy Classics -- Beyond the Basics -- Perfect Panini -- Sensational Soups"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/isbn_9781412724272"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/isbn_9781412724272"
+        }
+      ]
+    },
+    "created": 1758555250,
+    "d1": "ia903103.us.archive.org",
+    "d2": "ia803103.us.archive.org",
+    "dir": "/2/items/isbn_9781412724272",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660372777",
+        "size": "19858",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "6cde867e36d3ea78ff3727048c15057b",
+        "crc32": "731b5bd1",
+        "sha1": "ce299aaac2a20f2f626c49007af4bde7b8b58c16"
+      },
+      {
+        "name": "isbn_9781412724272.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "isbn_9781412724272_hocr.html",
+        "mtime": "1753548925",
+        "size": "15749257",
+        "private": "true",
+        "md5": "d777c728a40af4637727d40f878b3e3e",
+        "crc32": "23b08b92",
+        "sha1": "74351ab75b995172f8851df2743abe29b24d6097"
+      },
+      {
+        "name": "isbn_9781412724272.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "isbn_9781412724272.pdf",
+        "mtime": "1753548705",
+        "size": "3131683",
+        "md5": "9285d7326c7f80280aedcf623daeaa40",
+        "crc32": "6d3b4b03",
+        "sha1": "df94ec00457b62e8f99acd2110a55b3ef0f47626"
+      },
+      {
+        "name": "isbn_9781412724272.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "isbn_9781412724272_page_numbers.json",
+        "mtime": "1726609060",
+        "size": "2786971",
+        "md5": "3f69695e3db479466f56d271fd5c3404",
+        "crc32": "80890daf",
+        "sha1": "eee85bd40d7adc7b5cf8d111682d0d4c29432dbc",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412724272_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "isbn_9781412724272_jp2.zip",
+        "mtime": "1575301312",
+        "size": "632767",
+        "md5": "387553e70e457fefb601aef74439c915",
+        "crc32": "e392a0c9",
+        "sha1": "37b6776fc708cdf17ef38f64d6d48796675e3b10",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412724272_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "isbn_9781412724272_abbyy.gz",
+        "mtime": "1660372016",
+        "size": "507317",
+        "md5": "f5f49b630674d4492596caba21074ff9",
+        "crc32": "71e6545c",
+        "sha1": "7442cddea495d9347220212425ba478bae7be401",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412724272_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "isbn_9781412724272_scandata.xml",
+        "mtime": "1670383857",
+        "size": "763",
+        "md5": "b9a47686173a83fbdf389bad3510a2d1",
+        "crc32": "383aca36",
+        "sha1": "f3d88e26550f37040d20a27e016793beb7d9c2f5",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412724272_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1579699287",
+        "size": "1232",
+        "md5": "9c30bf1586aac5c7af35b7169e306e03",
+        "crc32": "646f9e8f",
+        "sha1": "a1164e3913043430ba0a49f1c01d08df39fc44aa"
+      },
+      {
+        "name": "isbn_9781412724272_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "isbn_9781412724272_djvu.xml",
+        "mtime": "1660372772",
+        "size": "46463",
+        "md5": "024a6eb0ceff0b7e5db3001b3002be69",
+        "crc32": "00f57800",
+        "sha1": "305addc4acd531e2e99eb5e63ec997d5063535dd",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412724272_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "isbn_9781412724272_hocr.html",
+        "mtime": "1660372245",
+        "size": "571635",
+        "md5": "c114841b51b0e0eb98840f77dc6d9519",
+        "crc32": "7a4fb05a",
+        "sha1": "915a41945b8c4d71f11586fd01564cc0faa5ef11",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412724272_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "isbn_9781412724272_abbyy.gz",
+        "mtime": "1575301561",
+        "size": "943891",
+        "md5": "dfc7c80fc356527bcffe112eb3fac823",
+        "crc32": "01eeb8e7",
+        "sha1": "e2656bf57a5e1bc9b13d2b1b6d8a4fbb68dc38b2"
+      },
+      {
+        "name": "isbn_9781412724272_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "isbn_9781412724272.pdf",
+        "mtime": "1726609881",
+        "size": "2760980",
+        "md5": "cb1b96820ca80edf3b4966e80b00c316",
+        "crc32": "d3412fa4",
+        "sha1": "c6f6da192cda25ed416db4e17ed8f2bb9373cffa"
+      },
+      {
+        "name": "isbn_9781412724272_events.json",
+        "source": "original",
+        "mtime": "1575300024",
+        "size": "58",
+        "md5": "e2b0c228054a75295ac543ee93dcf6cd",
+        "crc32": "a0ac8c61",
+        "sha1": "757e39437f0e7458c9f900267aedf42e3b7574e1",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412724272_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "cc57d0ac31ae050922356f126f0d3b13",
+        "summation": "md5"
+      },
+      {
+        "name": "isbn_9781412724272_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "isbn_9781412724272_chocr.html.gz",
+        "mtime": "1660372232",
+        "size": "1201721",
+        "md5": "fabe0bec3b94ac644372c037ce56b872",
+        "crc32": "98d51740",
+        "sha1": "001a4fc51956811b39e6a3c877fbba1895c5aac0",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412724272_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "isbn_9781412724272_hocr.html",
+        "mtime": "1660372306",
+        "size": "561",
+        "md5": "f6514c10b8eaab322f49c9c9dc06147e",
+        "crc32": "b67b7b5c",
+        "sha1": "0cf69c0086b5f0398229984c60cd19f47a626d0d",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412724272_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "100",
+        "word_conf_11_20": "47",
+        "word_conf_21_30": "102",
+        "word_conf_31_40": "65",
+        "word_conf_41_50": "85",
+        "word_conf_51_60": "132",
+        "word_conf_61_70": "245",
+        "word_conf_71_80": "526",
+        "word_conf_81_90": "1313",
+        "word_conf_91_100": "4067",
+        "format": "OCR Search Text",
+        "original": "isbn_9781412724272_hocr.html",
+        "mtime": "1660372670",
+        "size": "12154",
+        "md5": "0098fe0ab4b0b7081c8cfee8f9e00323",
+        "crc32": "604bb65f",
+        "sha1": "90f5d116b7079e46b927b08ca892064b1edc2d90",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412724272_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "isbn_9781412724272_orig_jp2.tar",
+        "mtime": "1575301141",
+        "size": "23503364",
+        "md5": "6dca0834ee908d72da18a9c0228b88e8",
+        "crc32": "3843af77",
+        "sha1": "18ef2fe3a5a648fe7deff7021eb3259ea407efd2",
+        "private": "true",
+        "filecount": "50"
+      },
+      {
+        "name": "isbn_9781412724272_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "isbn_9781412724272.epub",
+        "mtime": "1753549122",
+        "size": "15847180",
+        "md5": "1985df05d446a64db54958e3bc2df310",
+        "crc32": "95cb841d",
+        "sha1": "d2a0650ba5721f75d11d2ddfee0c405f30817036"
+      },
+      {
+        "name": "isbn_9781412724272_marc.xml",
+        "source": "original",
+        "mtime": "1579699270",
+        "size": "5341",
+        "md5": "eddb92f4118ddcfff73d0228d3da74ba",
+        "crc32": "3e0c94b1",
+        "sha1": "29ec8571da7a6609f554278324d22436470963d3",
+        "format": "MARC"
+      },
+      {
+        "name": "isbn_9781412724272_meta.mrc",
+        "source": "original",
+        "mtime": "1579699270",
+        "size": "1556",
+        "md5": "62487fab07ce5e76c17d1576a134427f",
+        "crc32": "c0c643a4",
+        "sha1": "8d08188079dc3c0e4429deebcf05bd98a33a3cfd",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "isbn_9781412724272_meta.sqlite",
+        "source": "original",
+        "mtime": "1575300037",
+        "size": "15360",
+        "format": "Metadata",
+        "md5": "4727a5271479d183dfb8206027e2f83d",
+        "crc32": "a6ace1bc",
+        "sha1": "fc678cfdcbbb637c8f987f054787f8ae57cc4e65"
+      },
+      {
+        "name": "isbn_9781412724272_meta.xml",
+        "source": "original",
+        "mtime": "1753549122",
+        "size": "3373",
+        "format": "Metadata",
+        "md5": "3f8311023b6ea35e5ecc9072cdd0d3c6",
+        "crc32": "332eec6d",
+        "sha1": "9f0e4cd7c3423f1fee359669f2093115673b8f97"
+      },
+      {
+        "name": "isbn_9781412724272_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1575300037",
+        "size": "62105600",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "599b420948614a0ecc1b2be446501bd7",
+        "crc32": "0dece91c",
+        "sha1": "c313a83239132de111010f99e7b01288c67877db",
+        "filecount": "50"
+      },
+      {
+        "name": "isbn_9781412724272_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "isbn_9781412724272_hocr.html",
+        "mtime": "1726609059",
+        "size": "8258",
+        "md5": "c025f8e0e2c60e7f11c6b49956dad1aa",
+        "crc32": "5bb1748f",
+        "sha1": "04b592fefb2e5c4a9a8e4942c86f37851e1d1189",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412724272_scandata.xml",
+        "source": "original",
+        "mtime": "1670383857",
+        "size": "51647",
+        "format": "Scandata",
+        "md5": "c533c4bafaae0f499b1b8792c7f078db",
+        "crc32": "59b8538f",
+        "sha1": "545be3143518f4d7ff823847cf73d7010f0b86d0"
+      },
+      {
+        "name": "isbn_9781412724272_slip.png",
+        "source": "original",
+        "mtime": "1574927367",
+        "size": "38176",
+        "md5": "8e1ab5b3fe0d5539d538e5963cff216e",
+        "crc32": "86fabd26",
+        "sha1": "8949df49142854eccbf22f5c9f8bee4a0474d50b",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412724272_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "isbn_9781412724272_slip.png",
+        "mtime": "1575300057",
+        "size": "5225",
+        "md5": "fd933eb3e4351c8b98e74d8667be19b5",
+        "crc32": "15f09752",
+        "sha1": "a653b083248c033ca1fef5cd868784120241adca",
+        "private": "true"
+      },
+      {
+        "name": "isbn_9781412724272_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "isbn_9781412724272_djvu.xml",
+        "mtime": "1670383631",
+        "size": "553",
+        "md5": "8553b8b68c7d202939ddf55c2bbe382a",
+        "crc32": "563c9d25",
+        "sha1": "2ef1152b854721490b2481861c5726e1bb13965c",
+        "private": "true"
+      },
+      {
+        "name": "logs/isbn_9781412724272_iabdash_2019-11-2823:05:32.log",
+        "source": "original",
+        "mtime": "1574953536",
+        "size": "2006",
+        "md5": "490506a84c5c23b62803fe755de12e14",
+        "crc32": "479a50f9",
+        "sha1": "543f326854cca8f480249bddce437bbb83d6bba3",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/isbn_9781412724272_scanning_2019-11-2823:05:37.log",
+        "source": "original",
+        "mtime": "1574953541",
+        "size": "230360",
+        "md5": "7601b50c52f5add2002d9308c65ca56f",
+        "crc32": "e55e93c4",
+        "sha1": "fc05ffa4718824a69596207ca1409241f42a4564",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753549122,
+    "item_size": 130185310,
+    "metadata": {
+      "identifier": "isbn_9781412724272",
+      "boxid": "IA1717522",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "language": "eng",
+      "mediatype": "texts",
+      "old_pallet": "IA15363",
+      "operator": "associate-cybellegrace-ventic@archive.org",
+      "ppi": "300",
+      "repub_state": "19",
+      "scanner": "station10.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781412724272",
+      "tts_version": "3.2-rc-2-g0d7c1ed",
+      "title": "Grilled cheese & more",
+      "uploader": "station10.cebu@archive.org",
+      "addeddate": "2019-11-28 07:49:27",
+      "publicdate": "2019-11-28 07:49:39",
+      "access-restricted-item": "true",
+      "imagecount": "50",
+      "scandate": "20191128151801",
+      "notes": "Obscured text on back cover.<br />",
+      "republisher_operator": "associate-marycris-avenido@archive.org",
+      "republisher_date": "20191202232021",
+      "republisher_time": "263",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/isbn_9781412724272",
+      "identifier-ark": "ark:/13960/t9385g991",
+      "external-identifier": [
+        "urn:acs6:isbn_9781412724272:epub:0bf376a2-13a8-4d3f-86ce-e6bd0d57c322",
+        "urn:acs6:isbn_9781412724272:pdf:b4608a0a-4174-485a-ad69-92c5f2b721f1",
+        "urn:oclc:record:1150018977",
+        "urn:lcp:isbn_9781412724272:lcpdf:6ce2bd81-fc2d-4d31-9223-53d87c943262",
+        "urn:lcp:isbn_9781412724272:epub:dd14e6d5-98a3-4313-b5b4-440ce7c157f6"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20191130",
+      "publisher": "Lincolnwood, IL : Publications International, Ltd.",
+      "date": "2006-01-01",
+      "subject": [
+        "Sandwiches",
+        "Cooking (Cheese)",
+        "Brand name products -- United States",
+        "Brand name products",
+        "Cooking (Cheese)",
+        "Sandwiches",
+        "United States"
+      ],
+      "isbn": [
+        "1412725097",
+        "9781412725095",
+        "9781412724272"
+      ],
+      "lccn": "2006282374",
+      "description": [
+        "46 pages : 19 cm",
+        "Cover title",
+        "On board pages",
+        "Cheesy Classics -- Beyond the Basics -- Perfect Panini -- Sensational Soups"
+      ],
+      "associated-names": "Publications International, Ltd",
+      "backup_location": "ia907007_19",
+      "openlibrary_edition": "OL24530620M",
+      "openlibrary_work": "OL15578052W",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia803103.us.archive.org",
+    "uniq": 1738352395,
+    "workable_servers": [
+      "ia803103.us.archive.org",
+      "ia903103.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

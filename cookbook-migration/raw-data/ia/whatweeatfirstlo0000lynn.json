@@ -1,0 +1,520 @@
+{
+  "source": "internet_archive",
+  "identifier": "whatweeatfirstlo0000lynn",
+  "title": "What we eat : a first look at food",
+  "creator": "Lynn, Sara",
+  "year": 1997,
+  "subject": [
+    "Food -- Juvenile literature",
+    "Cookery -- Juvenile literature",
+    "Food",
+    "Cookery"
+  ],
+  "description": [
+    "p. cm",
+    "Explains the different food groups and the origins of some foods. Includes recipes and activities",
+    "Reprint. Originally published: New York : Thomson Learning, 1994",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/whatweeatfirstlo0000lynn"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/whatweeatfirstlo0000lynn"
+        }
+      ]
+    },
+    "created": 1758556068,
+    "d1": "ia601906.us.archive.org",
+    "d2": "ia801906.us.archive.org",
+    "dir": "/23/items/whatweeatfirstlo0000lynn",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661297233",
+        "size": "18660",
+        "md5": "ee1a14c1de4f6c1657dd9a0a8bf4dc92",
+        "crc32": "c0064fb3",
+        "sha1": "8d6f7c3f62a91d854b55c2345c5177ef9d90d56a",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/whatweeatfirstlo0000lynn_iabdash_2020-07-1510:18:41.log",
+        "source": "original",
+        "mtime": "1594779532",
+        "size": "1347",
+        "md5": "091810381a1b04de4d406e7a910cb5b0",
+        "crc32": "97242dff",
+        "sha1": "e668f95e10b9ca55069f5018f4da3572f716e332",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/whatweeatfirstlo0000lynn_scanning_2020-07-1510:19:02.log",
+        "source": "original",
+        "mtime": "1594779560",
+        "size": "211950",
+        "md5": "005868e2ec960f8f790acf4b0709b16e",
+        "crc32": "9c635477",
+        "sha1": "2c1898822b163bbebdc678d3562fb63adf1cc77f",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/whatweeatfirstlo0000lynn_status_history_2020-07-1510:18:54.log",
+        "source": "original",
+        "mtime": "1594779541",
+        "size": "1400",
+        "md5": "25765922100568924bbefaefe23aa639",
+        "crc32": "7bc4929b",
+        "sha1": "beaea196c031da2acda5bf823d3864f1840592b0",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "whatweeatfirstlo0000lynn_hocr.html",
+        "mtime": "1758529891",
+        "size": "23894436",
+        "private": "true",
+        "md5": "3ed2bf9d9979454ff6451df9ca8cedf5",
+        "crc32": "97ed9088",
+        "sha1": "c271ff57804c6c1ced780f6d76783cf3ab540620"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "whatweeatfirstlo0000lynn.pdf",
+        "mtime": "1758529709",
+        "size": "3544866",
+        "md5": "9cd3e6b86b0688f8f743b79801c56f91",
+        "crc32": "5217fb74",
+        "sha1": "3e5ead8bb8fca53b58f02b9a597468711e8b34a3"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "whatweeatfirstlo0000lynn_page_numbers.json",
+        "mtime": "1726905753",
+        "size": "3199312",
+        "md5": "ef9b482ef01558b15ce4e772fae89452",
+        "crc32": "7f9b9f8d",
+        "sha1": "ddfeed95af8b4b4db8d7eae6445599958d9ce11c",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "whatweeatfirstlo0000lynn_jp2.zip",
+        "mtime": "1595992804",
+        "size": "291714",
+        "md5": "768dd6c2c7cc4226dcbd11221f0327ad",
+        "crc32": "4c2679be",
+        "sha1": "9c0e8a619515097fc1ca93ecc94b44fda27e8b54",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "whatweeatfirstlo0000lynn_abbyy.gz",
+        "mtime": "1661297181",
+        "size": "208463",
+        "md5": "0e0a1fae80fcf0b56d4427ba728ee890",
+        "crc32": "720f2d13",
+        "sha1": "8de12a68ccd1fed253c49fb66c732f059f7fab6f",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "whatweeatfirstlo0000lynn_scandata.xml",
+        "mtime": "1671787770",
+        "size": "788",
+        "md5": "838aa31e89465f5b8e4c456986e04e6f",
+        "crc32": "f91e168c",
+        "sha1": "4c4c365af9c326355ed8802a2859067621fe7978",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1595991244",
+        "size": "1462",
+        "md5": "288dcedc5b0a755b2d272756c38cf332",
+        "crc32": "ef4858c8",
+        "sha1": "996b9e533a10619dc97f7ee5ea3164ac3e1ce248"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "whatweeatfirstlo0000lynn_djvu.xml",
+        "mtime": "1661297229",
+        "size": "17133",
+        "md5": "74cad32da3b97675bfd2761e33d1fcea",
+        "crc32": "df9e2ec1",
+        "sha1": "650c0f928cb6c39b1a8db916f5c1a1f37ac0960d",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "whatweeatfirstlo0000lynn_hocr.html",
+        "mtime": "1661297210",
+        "size": "245744",
+        "md5": "004f5afb274987a4542b4a661022ab02",
+        "crc32": "861d5224",
+        "sha1": "9a2ba08837e92137dc99af406db2457a4f7770a3",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "whatweeatfirstlo0000lynn_abbyy.gz",
+        "mtime": "1595992920",
+        "size": "3125657",
+        "md5": "b5ece0f99edf0c479a92e82702bccf39",
+        "crc32": "adc8005e",
+        "sha1": "c30ad40b6e6af85e038c39df11647288527c32a4"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "whatweeatfirstlo0000lynn.pdf",
+        "mtime": "1726906324",
+        "size": "3178536",
+        "md5": "e021d74a38a7771cf2c7bb0c38663d0d",
+        "crc32": "81a741ce",
+        "sha1": "784d96a121716c5ffd7dede590318db35f397ec9"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_events.json",
+        "source": "original",
+        "mtime": "1595990657",
+        "size": "58",
+        "md5": "874fa53dff34431045b22554a7db50b9",
+        "crc32": "37b92dce",
+        "sha1": "200c1fe3975173b6743583245b3309ede93ace0c",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "af303d0846bc70248967e44f4e357a06",
+        "summation": "md5"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "whatweeatfirstlo0000lynn_chocr.html.gz",
+        "mtime": "1661297203",
+        "size": "569240",
+        "md5": "f00d2677c9b90e97a196501f9118fd96",
+        "crc32": "c4816d0d",
+        "sha1": "ccefad036784bec1606fea69b14121991a91eee6",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "whatweeatfirstlo0000lynn_hocr.html",
+        "mtime": "1661297213",
+        "size": "442",
+        "md5": "50d01156b1c52b563fc21292d38c34a8",
+        "crc32": "163745d8",
+        "sha1": "a2258c2ea27bbf966f92650c27cf0f4f236c9bdd",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "115",
+        "word_conf_11_20": "40",
+        "word_conf_21_30": "33",
+        "word_conf_31_40": "36",
+        "word_conf_41_50": "49",
+        "word_conf_51_60": "58",
+        "word_conf_61_70": "112",
+        "word_conf_71_80": "264",
+        "word_conf_81_90": "557",
+        "word_conf_91_100": "1370",
+        "format": "OCR Search Text",
+        "original": "whatweeatfirstlo0000lynn_hocr.html",
+        "mtime": "1661297222",
+        "size": "6861",
+        "md5": "5d4cae1aca95efa4ec34da9e278de002",
+        "crc32": "c7683d34",
+        "sha1": "5ce7e1ddad2a3588bd08833ebe28274a9da2a27b",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "whatweeatfirstlo0000lynn_orig_jp2.tar",
+        "mtime": "1595992303",
+        "size": "24069320",
+        "md5": "ddd7139957539f5848a77ebe8197d3cb",
+        "crc32": "b0ee9cb7",
+        "sha1": "32bad3066d13d0a9f656dc5512d5e76fa976ef88",
+        "private": "true",
+        "filecount": "42"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "whatweeatfirstlo0000lynn.epub",
+        "mtime": "1758530335",
+        "size": "24321469",
+        "md5": "8d519ab4aa391f4a3082f948755e207e",
+        "crc32": "b49b0587",
+        "sha1": "2ba9f73ea82b92e0ffcf972778cfa5a854c59735"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_marc.xml",
+        "source": "original",
+        "mtime": "1594779520",
+        "size": "3312",
+        "md5": "d6f3209e8d3e2949ba60262db471ea99",
+        "crc32": "856be931",
+        "sha1": "0c77bc40327e13232795452403a879f16c31b158",
+        "format": "MARC"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_meta.mrc",
+        "source": "original",
+        "mtime": "1594779512",
+        "size": "1072",
+        "md5": "1428a5d43d42165c7937661036611b51",
+        "crc32": "354d43c7",
+        "sha1": "63133adcb5310f20ee1c0379730173720dde1527",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_meta.sqlite",
+        "source": "original",
+        "mtime": "1595991138",
+        "size": "19456",
+        "md5": "f6a3940997d2be203f49d516cea9ad00",
+        "crc32": "1ecaf8f4",
+        "sha1": "2ee10cd455f74c7988e26eb0de1693406538f374",
+        "format": "Metadata"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_meta.xml",
+        "source": "original",
+        "mtime": "1758530335",
+        "size": "3327",
+        "md5": "4f5e9319707592d21c84dde137f20c0f",
+        "crc32": "c9a21b2e",
+        "sha1": "824b85014b01949e9fc40b6baaa50f0fc2b8f2d3",
+        "format": "Metadata"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1595991137",
+        "size": "43560960",
+        "md5": "f461aaab5cf430df61b548030031328e",
+        "crc32": "a47f78b0",
+        "sha1": "267d4bcc81faeece4adab44044b80c94ab3fe69a",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "42"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "whatweeatfirstlo0000lynn_hocr.html",
+        "mtime": "1726905746",
+        "size": "6912",
+        "md5": "b5bd65cc49c8ab1260e16902cef2c332",
+        "crc32": "6b34b62b",
+        "sha1": "d76df1de8c8c5fd4de13ce3fb6a0a90f0a665f83",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_scandata.xml",
+        "source": "original",
+        "mtime": "1671787770",
+        "size": "42996",
+        "md5": "7b745fcf438a5c69194edb1e996a36cd",
+        "crc32": "0c4e6748",
+        "sha1": "c02194047a5a7474678fdbabf9ee08b01828d4f0",
+        "format": "Scandata"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_slip.png",
+        "source": "original",
+        "mtime": "1594776972",
+        "size": "41314",
+        "md5": "ba139b2bb96ce21e7fe8a3247ad221a2",
+        "crc32": "47cca58c",
+        "sha1": "d220e56a2ca289a671de4f6099e15f6fd4fd280e",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "whatweeatfirstlo0000lynn_slip.png",
+        "mtime": "1595991260",
+        "size": "5622",
+        "md5": "c6ad527b2984bce09d5bacd4d7d8a378",
+        "crc32": "fe6a0a67",
+        "sha1": "73af1e2a66f0febe8151b6578996658237acb0a4",
+        "private": "true"
+      },
+      {
+        "name": "whatweeatfirstlo0000lynn_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "whatweeatfirstlo0000lynn_djvu.xml",
+        "mtime": "1671787676",
+        "size": "716",
+        "md5": "95f6a6d21e67ad88ae364f60fb68dc2f",
+        "crc32": "caee2d61",
+        "sha1": "aa650e07369d200a2c8d2aa70ccc7a3d0a0f8211",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1758530335,
+    "item_size": 130594545,
+    "metadata": {
+      "identifier": "whatweeatfirstlo0000lynn",
+      "associated-names": "James, Diane; Wright, Joe, ill",
+      "boxid": "IA1887816",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Lynn, Sara",
+      "date": "1997-01-01",
+      "description": [
+        "p. cm",
+        "Explains the different food groups and the origins of some foods. Includes recipes and activities",
+        "Reprint. Originally published: New York : Thomson Learning, 1994",
+        "Includes index"
+      ],
+      "isbn": [
+        "0716648008",
+        "0716648016"
+      ],
+      "language": "eng",
+      "lccn": "96051092",
+      "mediatype": "texts",
+      "notes": "obscured text in front cover<br />",
+      "old_pallet": "IA18373",
+      "openlibrary_edition": "OL1010624M",
+      "openlibrary_work": "OL2997411W",
+      "operator": "associate-ritzell-pardillo@gmail.com",
+      "ppi": "300",
+      "publisher": "Chicago, IL, USA : World Book/Two-Can",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station01.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780716648000",
+      "subject": [
+        "Food -- Juvenile literature",
+        "Cookery -- Juvenile literature",
+        "Food",
+        "Cookery"
+      ],
+      "title": "What we eat : a first look at food",
+      "tts_version": "4.0-initial-155-gbba175a5",
+      "uploader": "station01.cebu@archive.org",
+      "publicdate": "2020-07-15 01:40:12",
+      "access-restricted-item": "true",
+      "imagecount": "42",
+      "scandate": "20200715032754",
+      "republisher_operator": "associate-genevieve-dimiao@archive.org",
+      "republisher_date": "20200729104343",
+      "republisher_time": "338",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/whatweeatfirstlo0000lynn",
+      "identifier-ark": "ark:/13960/t6r017q5c",
+      "external-identifier": [
+        "urn:acs6:whatweeatfirstlo0000lynn:epub:d7ae0426-fa33-4045-ad07-5511dc3c18ad",
+        "urn:acs6:whatweeatfirstlo0000lynn:pdf:16a743fd-07ae-4f0f-a325-7f76beaf7945",
+        "urn:oclc:record:1195476968",
+        "urn:lcp:whatweeatfirstlo0000lynn:lcpdf:57e4fc1f-f29e-4068-b653-5a557fc5fac4",
+        "urn:lcp:whatweeatfirstlo0000lynn:epub:f653357a-3868-47e6-a559-c26ca2547102"
+      ],
+      "addeddate": "2020-07-29 04:04:23",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20200731",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia601906.us.archive.org",
+    "uniq": 1945179460,
+    "workable_servers": [
+      "ia601906.us.archive.org",
+      "ia801906.us.archive.org"
+    ]
+  },
+  "institution": "Lynn, Sara",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

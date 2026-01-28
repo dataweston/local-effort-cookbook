@@ -1,0 +1,557 @@
+{
+  "source": "internet_archive",
+  "identifier": "alltimefavoriteb00publ",
+  "title": "All-time favorite best casseroles",
+  "creator": "Publications International, Ltd",
+  "year": 2004,
+  "subject": [
+    "cookbook",
+    "Casserole cooking"
+  ],
+  "description": null,
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/alltimefavoriteb00publ"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/alltimefavoriteb00publ"
+        }
+      ]
+    },
+    "created": 1758558223,
+    "d1": "ia601309.us.archive.org",
+    "d2": "ia801309.us.archive.org",
+    "dir": "/12/items/alltimefavoriteb00publ",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658575637",
+        "size": "23599",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "25bb9ebd3fce0963d977a13ab6ffd0f9",
+        "crc32": "4e490594",
+        "sha1": "a24cb8a2e921c37eca2fe5787f0e2df28c928a46"
+      },
+      {
+        "name": "alltimefavoriteb00publ.cdx.gz",
+        "source": "original",
+        "mtime": "1350563405",
+        "size": "6384",
+        "md5": "bc283f1cc07133a4b78dc9219db53984",
+        "crc32": "fbc2c0b4",
+        "sha1": "25dd6e6839138777ce49afed487aa603a9ac1dd1",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "alltimefavoriteb00publ.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "alltimefavoriteb00publ_hocr.html",
+        "mtime": "1753006115",
+        "size": "13144817",
+        "private": "true",
+        "md5": "8734af82aba1e434e2b9617778924871",
+        "crc32": "ffe61ef2",
+        "sha1": "a66e29a5ae0d82a1b58d2fc3bc41361d6cdd6c7e"
+      },
+      {
+        "name": "alltimefavoriteb00publ.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "alltimefavoriteb00publ_jp2.zip",
+        "mtime": "1350563167",
+        "size": "269707",
+        "md5": "06dbca6d92504ee547951a69c1f6b767",
+        "crc32": "3ae06ec6",
+        "sha1": "d2251fbf104b805ddde9e2eb26db7a63b9e1d41a"
+      },
+      {
+        "name": "alltimefavoriteb00publ.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "alltimefavoriteb00publ.pdf",
+        "mtime": "1753005960",
+        "size": "3047500",
+        "md5": "2827f9f61e701c1765cb014ee35334fc",
+        "crc32": "7922e843",
+        "sha1": "be7cddaae0e6284318d67f6924b3d5cb430807ed"
+      },
+      {
+        "name": "alltimefavoriteb00publ.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "alltimefavoriteb00publ_page_numbers.json",
+        "mtime": "1714336265",
+        "size": "2631329",
+        "md5": "269f5656072dab6b57b12fcbaf10116e",
+        "crc32": "30955f10",
+        "sha1": "159f2cb13bb52de5ef803621054a43b521f3a479",
+        "private": "true"
+      },
+      {
+        "name": "alltimefavoriteb00publ.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1343919305",
+        "size": "483614",
+        "md5": "563d66ab8ef22089cd665838ca9619f3",
+        "crc32": "5414f214",
+        "sha1": "29783a09c7658055f061b8dd7bce9623f99f0f10"
+      },
+      {
+        "name": "alltimefavoriteb00publ.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "alltimefavoriteb00publ.warc.gz",
+        "mtime": "1350562321",
+        "size": "5889",
+        "md5": "57ca61b24c372b270a6fc3b835ab7de0",
+        "crc32": "2c272b24",
+        "sha1": "86e58d4faf234e69edd4b7877287a27ffdbb2a0a",
+        "private": "true"
+      },
+      {
+        "name": "alltimefavoriteb00publ_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "alltimefavoriteb00publ_jp2.zip",
+        "mtime": "1350761807",
+        "size": "395437",
+        "md5": "2a6b3a94fe8bcd209a7492a138cd83ec",
+        "crc32": "64d6fd7d",
+        "sha1": "53914ca181aababf75fddfbe07687a9124496191",
+        "private": "true"
+      },
+      {
+        "name": "alltimefavoriteb00publ_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "alltimefavoriteb00publ_abbyy.gz",
+        "mtime": "1658575451",
+        "size": "331913",
+        "md5": "23d098925e93e0b9260ff88ba1a17c7e",
+        "crc32": "6dab2338",
+        "sha1": "dfb02683bc17e8821a61ca5dbc28dd10de22253d",
+        "private": "true"
+      },
+      {
+        "name": "alltimefavoriteb00publ_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "alltimefavoriteb00publ_scandata.xml",
+        "mtime": "1669279909",
+        "size": "780",
+        "md5": "91560ab73be378514b6004aac0fe8c89",
+        "crc32": "7b62a51c",
+        "sha1": "4262a4c67f0ecf6c5eafd85fd061813e72213239",
+        "private": "true"
+      },
+      {
+        "name": "alltimefavoriteb00publ_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1509034786",
+        "size": "934",
+        "md5": "b1ee5c118868a4c369d1f215a6de23fa",
+        "crc32": "d8a8c371",
+        "sha1": "700044d87ce4116680cf1567e0e6491eb521a347"
+      },
+      {
+        "name": "alltimefavoriteb00publ_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "alltimefavoriteb00publ_djvu.xml",
+        "mtime": "1719745325",
+        "size": "31580",
+        "md5": "bea5d16947e0c3198ffdcf727306eff3",
+        "crc32": "aebfd206",
+        "sha1": "d6068a13eedadfdc2489ecfcdbf5479d03470798",
+        "private": "true"
+      },
+      {
+        "name": "alltimefavoriteb00publ_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "alltimefavoriteb00publ_hocr.html",
+        "mtime": "1719745306",
+        "size": "379599",
+        "md5": "a913d85c6285d8be7cbc8ad213fc0f91",
+        "crc32": "c2f34aff",
+        "sha1": "ca4a27809179f21a7a3dd31dc7076c5361cd38e3",
+        "private": "true"
+      },
+      {
+        "name": "alltimefavoriteb00publ_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "alltimefavoriteb00publ.pdf",
+        "mtime": "1714336566",
+        "size": "2626321",
+        "md5": "c20717428fae55b44fa13d2c250f30a2",
+        "crc32": "3b8c5629",
+        "sha1": "0cf7a3489e50843b2da67eb724956c8f455449c5"
+      },
+      {
+        "name": "alltimefavoriteb00publ_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "fc996ff0d9da15d2871241462d8cae52",
+        "summation": "md5"
+      },
+      {
+        "name": "alltimefavoriteb00publ_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "alltimefavoriteb00publ_chocr.html.gz",
+        "mtime": "1658575542",
+        "size": "734704",
+        "md5": "728af3610e60682201af6ec220e0cbaf",
+        "crc32": "b8130ab5",
+        "sha1": "9af637968465ed8d8b9c3fb7fd220b28195e56d0",
+        "private": "true"
+      },
+      {
+        "name": "alltimefavoriteb00publ_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "alltimefavoriteb00publ_hocr.html",
+        "mtime": "1658575578",
+        "size": "364",
+        "md5": "9ebb430fa0d385922f735c2f4b15d222",
+        "crc32": "a32eaf2e",
+        "sha1": "dc8a37c905e544b17606d99fb589135a0e3c0d0b",
+        "private": "true"
+      },
+      {
+        "name": "alltimefavoriteb00publ_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "180",
+        "word_conf_11_20": "111",
+        "word_conf_21_30": "300",
+        "word_conf_31_40": "181",
+        "word_conf_41_50": "511",
+        "word_conf_51_60": "640",
+        "word_conf_61_70": "993",
+        "word_conf_71_80": "855",
+        "word_conf_81_90": "191",
+        "word_conf_91_100": "461",
+        "format": "OCR Search Text",
+        "original": "alltimefavoriteb00publ_hocr.html",
+        "mtime": "1658575609",
+        "size": "9111",
+        "md5": "6525d996c7cd4afa5f8ab559da46dbc5",
+        "crc32": "1646ad55",
+        "sha1": "9a92b955c1c2735a5f77a1225bde1df9d6276434",
+        "private": "true"
+      },
+      {
+        "name": "alltimefavoriteb00publ_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "alltimefavoriteb00publ_orig_jp2.tar",
+        "mtime": "1350563079",
+        "size": "19494275",
+        "md5": "a1fc7ccae438313cc2a19a5eb5615079",
+        "crc32": "0f78fa5e",
+        "sha1": "30544ac2d4a7f1dbc2b0996b9196986c1ed7e31c",
+        "private": "true",
+        "filecount": "34"
+      },
+      {
+        "name": "alltimefavoriteb00publ_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "alltimefavoriteb00publ.epub",
+        "mtime": "1753006540",
+        "size": "13276733",
+        "md5": "5a5156d45f7bcd12e70ccffba307246e",
+        "crc32": "a197efaf",
+        "sha1": "7f3c6bfd52cab2a47806a88578eb6b0891e127d7"
+      },
+      {
+        "name": "alltimefavoriteb00publ_loans.json",
+        "source": "original",
+        "mtime": "1593154848",
+        "size": "3701",
+        "format": "JSON",
+        "private": "true",
+        "md5": "5bc8d09db2e075b579f3dbb669b12e61",
+        "crc32": "d3a7b3f3",
+        "sha1": "879474ae13406fcb035356e1369b19446434ab1a"
+      },
+      {
+        "name": "alltimefavoriteb00publ_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1509034785",
+        "size": "3155",
+        "md5": "621a7ae8b7caad791dcf8a7cfeeefab9",
+        "crc32": "1b0bede4",
+        "sha1": "bd51f82325385477319404e2e88c096fa1c8e481"
+      },
+      {
+        "name": "alltimefavoriteb00publ_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "alltimefavoriteb00publ_xisbn.json",
+        "mtime": "1454298313",
+        "size": "414",
+        "md5": "3d8fd95fa6215ef28fd0ded224c05dea",
+        "crc32": "d4cf9144",
+        "sha1": "f33f54c0a3277322221abf0f57a79edaddb11cc2",
+        "private": "true"
+      },
+      {
+        "name": "alltimefavoriteb00publ_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454298311",
+        "size": "902",
+        "md5": "7f0d16d164894bc683bb4173899076fd",
+        "crc32": "aa4ff29f",
+        "sha1": "df5709b4ef05d41b583fe0dd559d709d92080880"
+      },
+      {
+        "name": "alltimefavoriteb00publ_meta.sqlite",
+        "source": "original",
+        "mtime": "1467287291",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "c8af4ebe1af22a690e49f715f7465144",
+        "crc32": "8025cefe",
+        "sha1": "42d6d3bc155901ea335b30da189b31005e1700b1"
+      },
+      {
+        "name": "alltimefavoriteb00publ_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753006541",
+        "size": "3277",
+        "md5": "ba7e276ec46d7f625b598ad010d32dcc",
+        "crc32": "052decc1",
+        "sha1": "45c1512f947118dc1fadf88ad034e7f4c123b307"
+      },
+      {
+        "name": "alltimefavoriteb00publ_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1343919305",
+        "size": "288",
+        "md5": "e3dca0bcc951f2ebe8a3b04172b5f2f1",
+        "crc32": "49301a5e",
+        "sha1": "676aa90bb70ce94b475b30c1cae7e058225dd08e"
+      },
+      {
+        "name": "alltimefavoriteb00publ_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1349874052",
+        "size": "29644800",
+        "md5": "65af986d5725a37ccb7ab5ac2da8dec7",
+        "crc32": "4f6d427a",
+        "sha1": "c2c388d157c7a00b8bc0f4c4ed0a00135a0eb0c4",
+        "private": "true",
+        "filecount": "34"
+      },
+      {
+        "name": "alltimefavoriteb00publ_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "alltimefavoriteb00publ_hocr.html",
+        "mtime": "1714336265",
+        "size": "5558",
+        "md5": "d793e3cd589dd2e393bb65a632968ffe",
+        "crc32": "800b290c",
+        "sha1": "0720ed75ce10a089a6629a866930b8185e345d12",
+        "private": "true"
+      },
+      {
+        "name": "alltimefavoriteb00publ_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669279909",
+        "size": "45016",
+        "md5": "f18db34bc678698c3a7605752cbb2a76",
+        "crc32": "6edc0c91",
+        "sha1": "a325f5c499eed42ee348564e5ffaef647fcfc072"
+      },
+      {
+        "name": "alltimefavoriteb00publ_xisbn.json",
+        "source": "original",
+        "mtime": "1454026118",
+        "size": "565",
+        "md5": "b4aaa314109fd6d1049191169315c11b",
+        "crc32": "9b24b54e",
+        "sha1": "3e2b1f01afef0c332f6446ea698fb98bb658fe2b",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753006541,
+    "item_size": 86608410,
+    "metadata": {
+      "publisher": "Lincolnwood, IL : Publications International",
+      "title": "All-time favorite best casseroles",
+      "isbn": [
+        "1412720648",
+        "9781412720649"
+      ],
+      "language": "eng",
+      "date": "2004-01-01",
+      "openlibrary": "OL11715769M",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "subject": [
+        "cookbook",
+        "Casserole cooking"
+      ],
+      "updatedate": "2012-08-02 14:55:00",
+      "updater": "associate-lotu-tii@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "f0133",
+      "boxid": "IA159707",
+      "identifier": "alltimefavoriteb00publ",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2012-08-02 14:55:07",
+      "publicdate": "2012-08-02 14:55:16",
+      "scanner": "scribe18.shenzhen.archive.org",
+      "repub_seconds": "174",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-roy@archive.org",
+      "scandate": "20121009130321",
+      "republisher": "scanner-shenzhen-sun@archive.org",
+      "imagecount": "34",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/alltimefavoriteb00publ",
+      "identifier-ark": "ark:/13960/t9669qk8s",
+      "ocr": "ABBYY FineReader 8.0",
+      "scanfee": "200",
+      "boxid_2": "CH117101",
+      "donor": "alibris",
+      "sponsordate": "not to be invoiced-past billing period",
+      "creator": "Publications International, Ltd",
+      "city": "Lincolnwood, IL",
+      "oclc-id": "57677974",
+      "related-external-id": [
+        "urn:isbn:0785360328",
+        "urn:lccn:2003271255",
+        "urn:oclc:52338613"
+      ],
+      "backup_location": "ia903905_10",
+      "external-identifier": [
+        "urn:acs6:alltimefavoriteb00publ:pdf:0e0e6876-5c7c-48c7-b814-54d0e5f037ec",
+        "urn:acs6:alltimefavoriteb00publ:epub:975159cf-8984-4d82-a81f-4c76ef3ae0ce",
+        "urn:oclc:record:1024166302",
+        "urn:lcp:alltimefavoriteb00publ:lcpdf:138f8003-88e7-4c8b-89c7-9b2a9accfa82",
+        "urn:lcp:alltimefavoriteb00publ:epub:2cbafde3-775c-4e67-98ed-4480a43965cc"
+      ],
+      "republisher_operator": "scanner-shenzhen-sun@archive.org",
+      "republisher_date": "20121010125915",
+      "openlibrary_edition": "OL11715769M",
+      "openlibrary_work": "OL17637774W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "filesxml": "Tue Apr 2 20:58:35 UTC 2024",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ]
+    },
+    "server": "ia601309.us.archive.org",
+    "uniq": 113189140,
+    "workable_servers": [
+      "ia601309.us.archive.org",
+      "ia801309.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "publisher": "Publications International",
+          "url": [
+            "http://www.worldcat.org/oclc/57677974?referer=xid"
+          ],
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "2004",
+          "isbn": [
+            "1412720648"
+          ],
+          "title": "All-time favorite best casseroles.",
+          "oclcnum": [
+            "57677974"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/52338613?referer=xid"
+          ],
+          "publisher": "Publications International",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2003271255"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "2002",
+          "isbn": [
+            "0785360328"
+          ],
+          "title": "All-time favorite casseroles.",
+          "oclcnum": [
+            "52338613"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Publications International, Ltd",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

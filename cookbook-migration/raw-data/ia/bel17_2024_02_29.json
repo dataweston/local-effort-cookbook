@@ -1,0 +1,312 @@
+{
+  "source": "internet_archive",
+  "identifier": "bel17_2024_02_29",
+  "title": "Cast Iron Kettle Memories",
+  "creator": "Joe Alt",
+  "year": 1990,
+  "subject": [
+    "Memorabilia",
+    "Family Histories",
+    "Tools and Equipment",
+    "Joe Alt collection"
+  ],
+  "description": "Memories written by Joe Alt about the cast iron kettle that his mother (Emma Stewart Alt) used for cooking. Joe enjoyed taking various items to the Muscatine County Fair for display in the Heritage Hall.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn710003.ca.archive.org",
+          "dir": "/0/items/bel17_2024_02_29"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn710003.ca.archive.org",
+          "dir": "/0/items/bel17_2024_02_29"
+        }
+      ]
+    },
+    "created": 1758555840,
+    "d1": "ia600204.us.archive.org",
+    "d2": "ia800204.us.archive.org",
+    "dir": "/15/items/bel17_2024_02_29",
+    "files": [
+      {
+        "name": "Grandmas_kettle.pdf",
+        "source": "original",
+        "mtime": "1710526471",
+        "size": "221182",
+        "md5": "97239b82b80d94f4c4ba69dbb056532b",
+        "crc32": "007208af",
+        "sha1": "a869b9db9e5e81fae5660ccf4d1fec87a18f1726",
+        "format": "Text PDF"
+      },
+      {
+        "name": "Grandmas_kettle_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Grandmas_kettle_jp2.zip",
+        "mtime": "1710526767",
+        "size": "14635",
+        "md5": "e0ff71818c53da3cd8041cba044b22eb",
+        "crc32": "08d4441d",
+        "sha1": "4ff07e47990d40300995106c580224404904a380"
+      },
+      {
+        "name": "Grandmas_kettle_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Grandmas_kettle_djvu.xml",
+        "mtime": "1710526877",
+        "size": "1079",
+        "md5": "c75280a7b01be2ed6aade8af0234193d",
+        "crc32": "8983cbf7",
+        "sha1": "8dd181b11ca23c7ae9f1ed0584eb4d595913b4b2"
+      },
+      {
+        "name": "Grandmas_kettle_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Grandmas_kettle_hocr.html",
+        "mtime": "1710526849",
+        "size": "15560",
+        "md5": "42b6ceecaaaccf218e212a14b1d9fda8",
+        "crc32": "47988210",
+        "sha1": "f533daf9fa28a1199964db367c0c4cb4d58e673e"
+      },
+      {
+        "name": "Grandmas_kettle_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.3.0",
+        "hocr_char_to_word_hocr_version": "1.1.56",
+        "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Grandmas_kettle_chocr.html.gz",
+        "mtime": "1710526800",
+        "size": "29289",
+        "md5": "c14ecaaff0dacf7e2480a5778ab0f043",
+        "crc32": "8e910cd2",
+        "sha1": "4342c3a6c6df75db500109172bfd1b87e4e193fa"
+      },
+      {
+        "name": "Grandmas_kettle_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.1.0",
+        "hocr_pageindex_hocr_version": "1.1.56",
+        "format": "OCR Page Index",
+        "original": "Grandmas_kettle_hocr.html",
+        "mtime": "1710526853",
+        "size": "43",
+        "md5": "19f51eba1e1207b19100e4058776cedc",
+        "crc32": "eca98fa9",
+        "sha1": "34d549d3f5614bcdc2fd2290f3fb9ee08fd9c5af"
+      },
+      {
+        "name": "Grandmas_kettle_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.2.0",
+        "hocr_fts_text_hocr_version": "1.1.56",
+        "word_conf_0_10": "0",
+        "word_conf_11_20": "0",
+        "word_conf_21_30": "0",
+        "word_conf_31_40": "0",
+        "word_conf_41_50": "0",
+        "word_conf_51_60": "0",
+        "word_conf_61_70": "0",
+        "word_conf_71_80": "0",
+        "word_conf_81_90": "1",
+        "word_conf_91_100": "198",
+        "format": "OCR Search Text",
+        "original": "Grandmas_kettle_hocr.html",
+        "mtime": "1710526866",
+        "size": "571",
+        "md5": "088cf92b0c183f29750245093f9e66a8",
+        "crc32": "673ed9b0",
+        "sha1": "8859ba10275898557b259282989325dec5de8df2"
+      },
+      {
+        "name": "Grandmas_kettle_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Grandmas_kettle.pdf",
+        "mtime": "1710526671",
+        "size": "402290",
+        "md5": "609a540e12ba89b60e9e54bbbef25605",
+        "crc32": "e3bfbee6",
+        "sha1": "69d955e3e6dcf980f1771db504ab1363646f4127",
+        "filecount": "1"
+      },
+      {
+        "name": "Grandmas_kettle_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "Grandmas_kettle_hocr.html",
+        "mtime": "1710526884",
+        "size": "321",
+        "md5": "91f2d62f4360239efc2ff40966a7c1bd",
+        "crc32": "6696a4de",
+        "sha1": "7f5234fd2f09659c92b59427d306f600aab32115"
+      },
+      {
+        "name": "Grandmas_kettle_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Grandmas_kettle_djvu.xml",
+        "mtime": "1710526884",
+        "size": "587",
+        "md5": "9df14f28b45dca8475de9dc63c37f04b",
+        "crc32": "73e0bc34",
+        "sha1": "9b5ff83b3147e1e7be2a0587c4535067eb35f3d4"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1710526552",
+        "size": "11696",
+        "md5": "7f8d0bc1dfb58d5fc252913ae5eb8631",
+        "crc32": "e61f7275",
+        "sha1": "53328c269e6de1f204deac9bff08c5acb310693e",
+        "format": "Item Tile"
+      },
+      {
+        "name": "bel17_2024_02_29_archive.torrent",
+        "source": "metadata",
+        "btih": "0dc2b207d96fd2e1686d971c4d4210a72a966645",
+        "mtime": "1710526897",
+        "size": "3925",
+        "md5": "40cba8833c086040977fca31d3115ce2",
+        "crc32": "fb23ee09",
+        "sha1": "126782061fbb3303f95b205d6cd571f871d765e8",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "bel17_2024_02_29_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "5c67fd44276b836a5b7af361b5739bde",
+        "summation": "md5"
+      },
+      {
+        "name": "bel17_2024_02_29_meta.sqlite",
+        "source": "original",
+        "mtime": "1710526575",
+        "size": "28672",
+        "md5": "d735e546b0619a704c6447b231605363",
+        "crc32": "7ae90962",
+        "sha1": "31b5e119d8f17ffcd89799c07a4c3a5bf01d6c9c",
+        "format": "Metadata"
+      },
+      {
+        "name": "bel17_2024_02_29_meta.xml",
+        "source": "original",
+        "mtime": "1710526884",
+        "size": "1863",
+        "md5": "48b57c7af457b17fdbc99883da7ee4db",
+        "crc32": "4fa1f57b",
+        "sha1": "8307332757ace08593a5194b892a2ae55ca045ac",
+        "format": "Metadata"
+      },
+      {
+        "name": "history/files/Grandmas_kettle.pdf.~1~",
+        "source": "original",
+        "mtime": "1710526172",
+        "size": "221182",
+        "md5": "97239b82b80d94f4c4ba69dbb056532b",
+        "crc32": "007208af",
+        "sha1": "a869b9db9e5e81fae5660ccf4d1fec87a18f1726",
+        "format": "Text PDF",
+        "old_version": "true"
+      },
+      {
+        "name": "history/files/Grandmas_kettle.pdf.~2~",
+        "source": "original",
+        "old_version": "true",
+        "mtime": "1710526312",
+        "size": "221182",
+        "md5": "97239b82b80d94f4c4ba69dbb056532b",
+        "crc32": "007208af",
+        "sha1": "a869b9db9e5e81fae5660ccf4d1fec87a18f1726",
+        "format": "Text PDF"
+      }
+    ],
+    "files_count": 17,
+    "item_last_updated": 1710526897,
+    "item_size": 1174077,
+    "metadata": {
+      "identifier": "bel17_2024_02_29",
+      "collection": [
+        "northlibertydigitalhistory",
+        "additional_collections"
+      ],
+      "color": "color",
+      "contributor": "Joan Alt Belknap",
+      "coverage": [
+        "North Liberty",
+        "Iowa",
+        "Penn Township",
+        "Johnson County"
+      ],
+      "creator": "Joe Alt",
+      "date": "1990-01-01",
+      "description": "Memories written by Joe Alt about the cast iron kettle that his mother (Emma Stewart Alt) used for cooking.  Joe enjoyed taking various items to the Muscatine County Fair for display in the Heritage Hall.",
+      "language": "eng",
+      "licenseurl": "https://creativecommons.org/licenses/by-nc/4.0/deed.en",
+      "mediatype": "texts",
+      "scanner": "Internet Archive Python library 3.6.0",
+      "subject": [
+        "Memorabilia",
+        "Family Histories",
+        "Tools and Equipment",
+        "Joe Alt collection"
+      ],
+      "title": "Cast Iron Kettle Memories",
+      "uploader": "nshimmin@northlibertyiowa.org",
+      "publicdate": "2024-03-15 18:09:43",
+      "addeddate": "2024-03-15 18:09:43",
+      "identifier-access": "http://archive.org/details/bel17_2024_02_29",
+      "identifier-ark": "ark:/13960/s2328vkz33f",
+      "ppi": "300",
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000"
+    },
+    "server": "ia600204.us.archive.org",
+    "uniq": 339737866,
+    "workable_servers": [
+      "ia600204.us.archive.org",
+      "ia800204.us.archive.org"
+    ]
+  },
+  "institution": "Joe Alt",
+  "pdf_url": "https://archive.org/download/bel17_2024_02_29/Grandmas_kettle.pdf",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

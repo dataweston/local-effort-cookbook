@@ -1,0 +1,543 @@
+{
+  "source": "internet_archive",
+  "identifier": "fishseafood00knox",
+  "title": "Fish & seafood",
+  "creator": "Knox, Gerald M",
+  "year": 1986,
+  "subject": [
+    "Cooking (Fish)",
+    "Cookery (Seafood)"
+  ],
+  "description": [
+    "At head of title: Better homes and gardens",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/fishseafood00knox"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/fishseafood00knox"
+        }
+      ]
+    },
+    "created": 1758558425,
+    "d1": "ia600203.us.archive.org",
+    "d2": "ia800203.us.archive.org",
+    "dir": "/13/items/fishseafood00knox",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660016788",
+        "size": "20735",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "59c72eafd33a1d199ea5b6394b3d97e8",
+        "crc32": "1541fe59",
+        "sha1": "a12c755867cd5b1b5a99b1a6d249f3c4cbe72265"
+      },
+      {
+        "name": "fishseafood00knox.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "fishseafood00knox_hocr.html",
+        "mtime": "1753347718",
+        "size": "48912229",
+        "private": "true",
+        "md5": "0d81143b46ea7833ce81234394a52b99",
+        "crc32": "9980515e",
+        "sha1": "8c430d3ae71b04662cef9c7c175f796aaa39f2b1"
+      },
+      {
+        "name": "fishseafood00knox.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "fishseafood00knox_jp2.zip",
+        "mtime": "1344231799",
+        "size": "240171",
+        "md5": "19cf86ce6c04d5984243a121db8e0b74",
+        "crc32": "a84c702e",
+        "sha1": "6b84617e978a2dbd6aee3a0e5591ab72b3b58012"
+      },
+      {
+        "name": "fishseafood00knox.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "fishseafood00knox.pdf",
+        "mtime": "1753347432",
+        "size": "23661294",
+        "md5": "b4e5d341a0f44118712435026feeaff5",
+        "crc32": "afc783e0",
+        "sha1": "d8a848c7f311d54ac93e334f7fe5fc17d7d507d3"
+      },
+      {
+        "name": "fishseafood00knox.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "fishseafood00knox_page_numbers.json",
+        "mtime": "1720918795",
+        "size": "23317443",
+        "md5": "e2e880735f77c88c487d04b7e96657db",
+        "crc32": "46b6ecb2",
+        "sha1": "6ca9c13f28a23cdd23df392a03b8432878a6418d",
+        "private": "true"
+      },
+      {
+        "name": "fishseafood00knox.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1335380771",
+        "size": "441737",
+        "md5": "7a8529add5ecc6854eb005f7ea504882",
+        "crc32": "99f27a9c",
+        "sha1": "9c2c51a58ea4a9dc553851ae7af452bf6a6714d1"
+      },
+      {
+        "name": "fishseafood00knox.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "fishseafood00knox.warc.gz",
+        "mtime": "1344228394",
+        "size": "5663",
+        "md5": "a8159ccdaeb8e64c8d7b81fffebc7ac4",
+        "crc32": "eaad3557",
+        "sha1": "08cd365cca9e62bdafbb854519f5d84d22fa97fa",
+        "private": "true"
+      },
+      {
+        "name": "fishseafood00knox_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "fishseafood00knox_jp2.zip",
+        "mtime": "1344233217",
+        "size": "3106261",
+        "md5": "aafa0696a23ffff3af14a8f4e8e85dad",
+        "crc32": "8cb4f261",
+        "sha1": "75d6e51127de78b6e707dfb9d15b905add4d4d26",
+        "private": "true"
+      },
+      {
+        "name": "fishseafood00knox_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "fishseafood00knox_abbyy.gz",
+        "mtime": "1660015870",
+        "size": "2610996",
+        "md5": "ec8f5bb65cefc11e303d1398af69cd18",
+        "crc32": "0f64ef65",
+        "sha1": "b96f1b4178e0bbbacee3948c90c56951adc2938d",
+        "private": "true"
+      },
+      {
+        "name": "fishseafood00knox_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "fishseafood00knox_scandata.xml",
+        "mtime": "1670000112",
+        "size": "761",
+        "md5": "d4676d0534fb4ecc7c2e75c9f5fd2cb3",
+        "crc32": "6444e6bc",
+        "sha1": "55624aad559fb31bc15a2ea0ad2fc86baac08b03",
+        "private": "true"
+      },
+      {
+        "name": "fishseafood00knox_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1335380771",
+        "size": "953",
+        "md5": "537cb2424463044c5acd828a1c56b07f",
+        "crc32": "3381038d",
+        "sha1": "a6bdb0a3fd733b681257f9ea85f7424bb897b055"
+      },
+      {
+        "name": "fishseafood00knox_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "fishseafood00knox_djvu.xml",
+        "mtime": "1720918884",
+        "size": "234325",
+        "md5": "6cfc717b5855ec728218bd31d549c735",
+        "crc32": "2b42df74",
+        "sha1": "5266e426dc91b1c722a53f9ac56f8a93673aacce",
+        "private": "true"
+      },
+      {
+        "name": "fishseafood00knox_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "fishseafood00knox_hocr.html",
+        "mtime": "1720915356",
+        "size": "2975066",
+        "md5": "4184bf8cc8cc759069563bbe4cb1c788",
+        "crc32": "3ad771c6",
+        "sha1": "9eab81ffd5a4f3f094d4355cab7999a51ca1de0f",
+        "private": "true"
+      },
+      {
+        "name": "fishseafood00knox_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "fishseafood00knox.pdf",
+        "mtime": "1720918889",
+        "size": "23282906",
+        "md5": "e6101c3223d3ab9d8d8d5719158e869b",
+        "crc32": "24b43390",
+        "sha1": "63e65c3b8bc5bf9ad13db794017fbff3650699d6"
+      },
+      {
+        "name": "fishseafood00knox_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "83b6be0d143f896a40a95d35f1f769d4",
+        "summation": "md5"
+      },
+      {
+        "name": "fishseafood00knox_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "fishseafood00knox_chocr.html.gz",
+        "mtime": "1660016204",
+        "size": "6183944",
+        "md5": "3e8cc397798fa929b39379a68b7ba4d9",
+        "crc32": "0404e635",
+        "sha1": "7dcde1be87eb74a44c01ff3cf648e8b87d13353c",
+        "private": "true"
+      },
+      {
+        "name": "fishseafood00knox_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "fishseafood00knox_hocr.html",
+        "mtime": "1660016398",
+        "size": "1577",
+        "md5": "dda775e4e2c50af2a56aeb9a34c54240",
+        "crc32": "3c533b6b",
+        "sha1": "697ac248f41fa1f0fefc1ebe75a4f280b539be04",
+        "private": "true"
+      },
+      {
+        "name": "fishseafood00knox_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1421",
+        "word_conf_11_20": "1221",
+        "word_conf_21_30": "4182",
+        "word_conf_31_40": "5012",
+        "word_conf_41_50": "7228",
+        "word_conf_51_60": "6135",
+        "word_conf_61_70": "4157",
+        "word_conf_71_80": "1679",
+        "word_conf_81_90": "810",
+        "word_conf_91_100": "2524",
+        "format": "OCR Search Text",
+        "original": "fishseafood00knox_hocr.html",
+        "mtime": "1660016710",
+        "size": "60007",
+        "md5": "96daf9767f8ab4689e456b2b7df42572",
+        "crc32": "ee0bdbf9",
+        "sha1": "44f26c5a5977daaf9f26e9168891ac047d8a4457",
+        "private": "true"
+      },
+      {
+        "name": "fishseafood00knox_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "fishseafood00knox_orig_jp2.tar",
+        "mtime": "1344231725",
+        "size": "110427964",
+        "md5": "68e650dc605d038db7ad675324b83211",
+        "crc32": "09e5271c",
+        "sha1": "efca7a470a763f06a4a41c083e455582708c2843",
+        "private": "true",
+        "filecount": "138"
+      },
+      {
+        "name": "fishseafood00knox_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "fishseafood00knox.epub",
+        "mtime": "1753347841",
+        "size": "49096421",
+        "md5": "d9e0860ff32d889dab3214f83795c8eb",
+        "crc32": "840ff23f",
+        "sha1": "3f398f34387562dc79eea5ac4365406d139dd5a6"
+      },
+      {
+        "name": "fishseafood00knox_loans.json",
+        "source": "original",
+        "mtime": "1593692940",
+        "size": "4249",
+        "format": "JSON",
+        "private": "true",
+        "md5": "7e1627a0f3f46f66be3596d13922cd12",
+        "crc32": "c4d880ad",
+        "sha1": "1540793a97a6ba37ec19226e3a99809609f8285e"
+      },
+      {
+        "name": "fishseafood00knox_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1335380771",
+        "size": "2890",
+        "md5": "d0a46925fde1144866b19e541decb808",
+        "crc32": "1b2a378a",
+        "sha1": "94c269b918ae92e502a5a18bb7eff72b709a1d35"
+      },
+      {
+        "name": "fishseafood00knox_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "fishseafood00knox_xisbn.json",
+        "mtime": "1454328456",
+        "size": "294",
+        "md5": "5e78e848d1461b26c6819a66c1950db0",
+        "crc32": "f4dc5ad4",
+        "sha1": "3c9d50b9d9d0741ebfed6350ac04e03bcfaede1b",
+        "private": "true"
+      },
+      {
+        "name": "fishseafood00knox_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1335380771",
+        "size": "941",
+        "md5": "1956418a06d5cef45a66ff03441e92bf",
+        "crc32": "0ff8c9d5",
+        "sha1": "e277c6a77ddf7a973cf210ab5ee77eac55917848"
+      },
+      {
+        "name": "fishseafood00knox_meta.sqlite",
+        "source": "original",
+        "mtime": "1467366254",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "cf1f55ca8586b77f0535126d4c9bfb78",
+        "crc32": "fbfdb970",
+        "sha1": "c72035b94900cb21b2582551055f189fe489778b"
+      },
+      {
+        "name": "fishseafood00knox_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753347842",
+        "size": "3329",
+        "md5": "c03ad59cc08852cb71c46d385ca428e4",
+        "crc32": "f3e510b4",
+        "sha1": "4f5d183c784b9b5456db268c43b0fdad1a105b5c"
+      },
+      {
+        "name": "fishseafood00knox_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1335380771",
+        "size": "282",
+        "md5": "98221391bad02a7407f1e7abf710d992",
+        "crc32": "e7206e8c",
+        "sha1": "de2a48b077043195c9ea8cf17b898f1676ba7586"
+      },
+      {
+        "name": "fishseafood00knox_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1343696092",
+        "size": "142223360",
+        "md5": "51c4f747679ec6b2866398032aee53d6",
+        "crc32": "fcada119",
+        "sha1": "6c40f0df6f0d4799a2cc283954d68157133ddaa0",
+        "private": "true",
+        "filecount": "138"
+      },
+      {
+        "name": "fishseafood00knox_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "94",
+        "format": "Page Numbers JSON",
+        "original": "fishseafood00knox_hocr.html",
+        "mtime": "1720915648",
+        "size": "23253",
+        "md5": "3825cf9a89606e917339f10493f1c7f2",
+        "crc32": "3a300e0e",
+        "sha1": "4576bb4c59fa7ddfcb68a02ca9cc424b96aa01c6",
+        "private": "true"
+      },
+      {
+        "name": "fishseafood00knox_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670000111",
+        "size": "179791",
+        "md5": "653a4c727048652c81364531400a8fe6",
+        "crc32": "1a930dd8",
+        "sha1": "007f048c3a9d77af5be65d127455e3d8c9efe17a"
+      },
+      {
+        "name": "fishseafood00knox_xisbn.json",
+        "source": "original",
+        "mtime": "1454322688",
+        "size": "394",
+        "md5": "3d08efd1b7f00f412f2333138a5fedbf",
+        "crc32": "f5c46931",
+        "sha1": "f8c7342ad6bb9df683ecadad93e2e5ba22058d42",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753347842,
+    "item_size": 437025380,
+    "metadata": {
+      "title": "Fish & seafood",
+      "creator": [
+        "Knox, Gerald M",
+        "Frohling, Lorene"
+      ],
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "date": "1986-01-01",
+      "language": "eng",
+      "isbn": [
+        "069602196X",
+        "9780696021961"
+      ],
+      "openlibrary": "OL2558824M",
+      "subject": [
+        "Cooking (Fish)",
+        "Cookery (Seafood)"
+      ],
+      "lccn": "85073121",
+      "description": [
+        "At head of title: Better homes and gardens",
+        "Includes index"
+      ],
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-04-25 19:06:06",
+      "updater": "associate-lotu-tii@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "f0119",
+      "boxid": "IA106805",
+      "identifier": "fishseafood00knox",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2012-04-25 19:06:13",
+      "publicdate": "2012-05-07 04:07:29",
+      "scanner": "scribe3.shenzhen.archive.org",
+      "repub_seconds": "159",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-sven@archive.org",
+      "scandate": "20120727133359",
+      "republisher": "scanner-shenzhen-sun@archive.org",
+      "imagecount": "138",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/fishseafood00knox",
+      "identifier-ark": "ark:/13960/t8jd62d7z",
+      "bookplateleaf": "0002",
+      "scanfee": "150",
+      "external-identifier": [
+        "urn:acs6:fishseafood00knox:pdf:66a23a5b-b32b-4ac3-8a98-04e8ea3dccd4",
+        "urn:acs6:fishseafood00knox:epub:b49b04b1-d31c-49b5-ba97-2cb5d83a3574",
+        "urn:oclc:record:1034667579",
+        "urn:lcp:fishseafood00knox:lcpdf:d9c18f49-f885-465f-beac-c407b573e752",
+        "urn:lcp:fishseafood00knox:epub:0f5c8622-c72c-40bc-968f-087eb3de4f12"
+      ],
+      "donor": "alibris",
+      "sponsordate": "not to be invoiced-past billing period",
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": [
+        "15252381",
+        "319929337"
+      ],
+      "backup_location": "ia903802_34",
+      "openlibrary_edition": "OL7760404M",
+      "openlibrary_work": "OL8194217W",
+      "republisher_operator": "scanner-shenzhen-sun@archive.org",
+      "republisher_date": "20120731005256",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "94",
+      "filesxml": "Wed Apr 3 2:39:43 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia800203.us.archive.org",
+    "uniq": 1306476908,
+    "workable_servers": [
+      "ia800203.us.archive.org",
+      "ia600203.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/15252381?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "85073121"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Gerald M. Knox ; fish and seafood contributing editor, Lorene Frohling].",
+          "ed": "1st ed.",
+          "year": "1986",
+          "isbn": [
+            "069602196X"
+          ],
+          "title": "Fish & seafood",
+          "oclcnum": [
+            "15252381",
+            "319929337"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Knox, Gerald M",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

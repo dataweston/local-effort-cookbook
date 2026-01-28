@@ -1,0 +1,278 @@
+{
+  "source": "internet_archive",
+  "identifier": "belgium-ethnic-cooking-wisconsin-style",
+  "title": "Belgium: Ethnic Cooking Wisconsin Style",
+  "creator": null,
+  "year": 1982,
+  "subject": [
+    "Belgian",
+    "Wisconsin",
+    "recipes"
+  ],
+  "description": "Belgium recipies from Ethnic Cooking Wisconsin Style, published by the American Cancer Society, Wisconsin Div in 1982",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720006.ca.archive.org",
+          "dir": "/0/items/belgium-ethnic-cooking-wisconsin-style"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720006.ca.archive.org",
+          "dir": "/0/items/belgium-ethnic-cooking-wisconsin-style"
+        }
+      ]
+    },
+    "created": 1758555751,
+    "d1": "ia601505.us.archive.org",
+    "d2": "ia801505.us.archive.org",
+    "dir": "/5/items/belgium-ethnic-cooking-wisconsin-style",
+    "files": [
+      {
+        "name": "Belgium - Ethnic Cooking Wisconsin Style.pdf",
+        "source": "original",
+        "mtime": "1665874630",
+        "size": "739011",
+        "md5": "3fa46a1b1530ad98bb2483d4e0629873",
+        "crc32": "2f2d5094",
+        "sha1": "9b20fb941e3d357703213c13e770b0ae06e96a0e",
+        "format": "Text PDF",
+        "viruscheck": "1665874960"
+      },
+      {
+        "name": "Belgium - Ethnic Cooking Wisconsin Style_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.2.0-1-gc42a",
+        "ocr_parameters": "-l eng+Latin",
+        "ocr_module_version": "0.0.18",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Belgium - Ethnic Cooking Wisconsin Style_jp2.zip",
+        "mtime": "1665875065",
+        "size": "71887",
+        "md5": "a7b07b445e4c7cfc4dd3c0386abc166d",
+        "crc32": "92707329",
+        "sha1": "297dfe2bae6faf7f90c4c0420dd328eabf1004a2"
+      },
+      {
+        "name": "Belgium - Ethnic Cooking Wisconsin Style_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Belgium - Ethnic Cooking Wisconsin Style_djvu.xml",
+        "mtime": "1665875145",
+        "size": "5312",
+        "md5": "e97832ea035a12cbeddfd2c4660f4f8a",
+        "crc32": "59599ac4",
+        "sha1": "f2c4899b307e929490cf503c28c5f196862c56bc"
+      },
+      {
+        "name": "Belgium - Ethnic Cooking Wisconsin Style_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Belgium - Ethnic Cooking Wisconsin Style_hocr.html",
+        "mtime": "1665875097",
+        "size": "73291",
+        "md5": "991474ea048ed8c03336f967efa404b8",
+        "crc32": "1b40c23c",
+        "sha1": "1a23219807274eba3a900f423e0b89cfa0a295aa"
+      },
+      {
+        "name": "Belgium - Ethnic Cooking Wisconsin Style_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng+Latin",
+        "ocr_module_version": "0.0.18",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Belgium - Ethnic Cooking Wisconsin Style_chocr.html.gz",
+        "mtime": "1665875086",
+        "size": "138008",
+        "md5": "86343bee1336bdc713e197da1d5f9371",
+        "crc32": "b3f5fe3e",
+        "sha1": "ec2729497ed2ab2e2be0c93f83bc3165e85e0c02"
+      },
+      {
+        "name": "Belgium - Ethnic Cooking Wisconsin Style_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "Belgium - Ethnic Cooking Wisconsin Style_hocr.html",
+        "mtime": "1665875118",
+        "size": "95",
+        "md5": "2b2ee5d0deb6c01be0e38f3e57d042e3",
+        "crc32": "f41c514b",
+        "sha1": "3efc1da8ddf48f55e4d5e4561c73018985834db5"
+      },
+      {
+        "name": "Belgium - Ethnic Cooking Wisconsin Style_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "0",
+        "word_conf_11_20": "1",
+        "word_conf_21_30": "2",
+        "word_conf_31_40": "1",
+        "word_conf_41_50": "2",
+        "word_conf_51_60": "3",
+        "word_conf_61_70": "12",
+        "word_conf_71_80": "17",
+        "word_conf_81_90": "23",
+        "word_conf_91_100": "820",
+        "format": "OCR Search Text",
+        "original": "Belgium - Ethnic Cooking Wisconsin Style_hocr.html",
+        "mtime": "1665875135",
+        "size": "2095",
+        "md5": "1b2828bf86005474cd9ab336d39c364a",
+        "crc32": "b224e8c6",
+        "sha1": "92184ad0396f218619757ae50c682241f7a0ca03"
+      },
+      {
+        "name": "Belgium - Ethnic Cooking Wisconsin Style_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Belgium - Ethnic Cooking Wisconsin Style.pdf",
+        "mtime": "1665874984",
+        "size": "781891",
+        "md5": "aa3df9b98828d44bcd715ee2fb3fb016",
+        "crc32": "6d0b4901",
+        "sha1": "eeab4b38e23a06e928b5ce880c9b1c41db69f195",
+        "filecount": "5"
+      },
+      {
+        "name": "Belgium - Ethnic Cooking Wisconsin Style_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "Belgium - Ethnic Cooking Wisconsin Style_djvu.xml",
+        "mtime": "1665875150",
+        "size": "995",
+        "md5": "a4f59265084fbc17b7b829978cbdf8ec",
+        "crc32": "42c00414",
+        "sha1": "faecdfc17bff3585a9636a0216def1f0eac2cbc6"
+      },
+      {
+        "name": "Belgium - Ethnic Cooking Wisconsin Style_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Belgium - Ethnic Cooking Wisconsin Style_djvu.xml",
+        "mtime": "1665875148",
+        "size": "1845",
+        "md5": "da103244e64cd5b78291699c168b0891",
+        "crc32": "9878c60c",
+        "sha1": "a6c741618d537f63ace63b55d98c5c48f1db8e54"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1665875156",
+        "size": "10318",
+        "md5": "11b2616b42a00fbdfd769ba62ce409df",
+        "crc32": "4e740d6d",
+        "sha1": "66340d1d9dbf51fa1b47e4f97b8b36e7c3df625f",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "belgium-ethnic-cooking-wisconsin-style_archive.torrent",
+        "source": "metadata",
+        "btih": "6e7432a7c7eb478c60c6cf324fe642e1d4013e2f",
+        "mtime": "1750956580",
+        "size": "4006",
+        "md5": "02e36f9edbbe997174905143e1d423d6",
+        "crc32": "a4a3a7f8",
+        "sha1": "e2b42ff361bbee85a473dd73f38094310c505484",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "belgium-ethnic-cooking-wisconsin-style_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "923935bb20dfa16c3761932f8c1d3ea0",
+        "summation": "md5"
+      },
+      {
+        "name": "belgium-ethnic-cooking-wisconsin-style_meta.sqlite",
+        "source": "original",
+        "mtime": "1665874647",
+        "size": "20480",
+        "md5": "7b2096a8353888c5b37d95801625c029",
+        "crc32": "cba9a2c3",
+        "sha1": "1bcd4b091d22c3b7258abb2919a24841b557600c",
+        "format": "Metadata"
+      },
+      {
+        "name": "belgium-ethnic-cooking-wisconsin-style_meta.xml",
+        "source": "original",
+        "mtime": "1750956578",
+        "size": "1467",
+        "md5": "d8acc6e5e71cf345a7275372d97ebb32",
+        "crc32": "efb1a385",
+        "sha1": "d338f323c9fac1bc5680306b2619a2231de62424",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1750956580,
+    "item_size": 1850701,
+    "metadata": {
+      "identifier": "belgium-ethnic-cooking-wisconsin-style",
+      "mediatype": "texts",
+      "collection": [
+        "opensource",
+        "community"
+      ],
+      "date": "1982-01-01",
+      "description": "Belgium recipies from Ethnic Cooking Wisconsin Style, published by the American Cancer Society, Wisconsin Div in 1982",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "Belgian",
+        "Wisconsin",
+        "recipes"
+      ],
+      "title": "Belgium: Ethnic Cooking Wisconsin Style",
+      "uploader": "kb9mwr@yahoo.com",
+      "publicdate": "2022-10-15 22:57:20",
+      "addeddate": "2022-10-15 22:57:20",
+      "curation": "[curator]validator@archive.org[/curator][date]20221015230240[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/belgium-ethnic-cooking-wisconsin-style",
+      "identifier-ark": "ark:/13960/s2kwnx6kpqj",
+      "ppi": "300",
+      "ocr": "tesseract 5.2.0-1-gc42a",
+      "ocr_parameters": "-l eng+Latin",
+      "ocr_module_version": "0.0.18",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "language": "eng"
+    },
+    "server": "ia601505.us.archive.org",
+    "uniq": 202288345,
+    "workable_servers": [
+      "ia601505.us.archive.org",
+      "ia801505.us.archive.org"
+    ]
+  },
+  "pdf_url": "https://archive.org/download/belgium-ethnic-cooking-wisconsin-style/Belgium - Ethnic Cooking Wisconsin Style.pdf",
+  "location": {
+    "state": "Wisconsin"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Wisconsin; Digitized scan available"
+}

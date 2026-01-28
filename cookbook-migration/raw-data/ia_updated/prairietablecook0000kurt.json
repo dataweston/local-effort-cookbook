@@ -1,0 +1,522 @@
+{
+  "source": "internet_archive",
+  "identifier": "prairietablecook0000kurt",
+  "title": "The prairie table cookbook",
+  "creator": "Kurtis, Bill",
+  "year": 2008,
+  "subject": [
+    "Cooking, American -- Western style",
+    "Cooking (Beef)",
+    "Cooking (Buffalo meat)",
+    "Cooking (Natural foods)",
+    "Natural beef"
+  ],
+  "description": [
+    "viii, 152 pages : 24 cm",
+    "Includes bibliographical references (page 150-152)"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720509.ca.archive.org",
+          "dir": "/0/items/prairietablecook0000kurt"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720509.ca.archive.org",
+          "dir": "/0/items/prairietablecook0000kurt"
+        }
+      ]
+    },
+    "created": 1758556800,
+    "d1": "ia600109.us.archive.org",
+    "d2": "ia800109.us.archive.org",
+    "dir": "/30/items/prairietablecook0000kurt",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660936923",
+        "size": "17568",
+        "md5": "73698ec530f6ca3156c31b8c8b7f3aca",
+        "crc32": "f77f8fe4",
+        "sha1": "ba080cd3ecd766b9eea1c5683663176d222280ff",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/prairietablecook0000kurt_iabdash_2018-10-1513:23:19.log",
+        "source": "original",
+        "mtime": "1539581009",
+        "size": "691",
+        "md5": "eedf74fe7cf74fa50d42f2ec0a4e577a",
+        "crc32": "3cf1c325",
+        "sha1": "c7a41a1dc8d766bd928a2b68a88decb4ebd7432f",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/prairietablecook0000kurt_scanning_2018-10-1513:23:14.log",
+        "source": "original",
+        "mtime": "1539581003",
+        "size": "380946",
+        "md5": "75ce039c5ea89598456560bc7ae18817",
+        "crc32": "efec02cc",
+        "sha1": "a417a9c595a0640eb4735af97386457a008c69a3",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "prairietablecook0000kurt.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "prairietablecook0000kurt_hocr.html",
+        "mtime": "1753838317",
+        "size": "42247264",
+        "private": "true",
+        "md5": "65364be740f7f12a2c73dfb8435a7293",
+        "crc32": "c47a5208",
+        "sha1": "d44e53138a64bac9bcd9e51b39ef0a0f2787dc50"
+      },
+      {
+        "name": "prairietablecook0000kurt.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "prairietablecook0000kurt.pdf",
+        "mtime": "1753838122",
+        "size": "14148792",
+        "md5": "0c0bf6109ce078b8ba520f1149f36d15",
+        "crc32": "40934b1e",
+        "sha1": "4e134d4af27b74a6519a6f23e460747789c7739a"
+      },
+      {
+        "name": "prairietablecook0000kurt.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "prairietablecook0000kurt_page_numbers.json",
+        "mtime": "1719517928",
+        "size": "13558302",
+        "md5": "b5e4247db688568627011b21c8b3790f",
+        "crc32": "74d49552",
+        "sha1": "190af2d78c57374c712a3f9e9cd9abc3a71037c6",
+        "private": "true"
+      },
+      {
+        "name": "prairietablecook0000kurt_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "prairietablecook0000kurt_jp2.zip",
+        "mtime": "1540292125",
+        "size": "3325802",
+        "md5": "423a2498fed73e34224239a7675baecf",
+        "crc32": "5bfd58da",
+        "sha1": "372d37e06173a10701e80b3fee9f46e2d495b2aa",
+        "private": "true"
+      },
+      {
+        "name": "prairietablecook0000kurt_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "prairietablecook0000kurt_abbyy.gz",
+        "mtime": "1660936383",
+        "size": "2861504",
+        "md5": "1c0be8d10e8e8d8bcceae044a6e3f480",
+        "crc32": "7da7b824",
+        "sha1": "3416a165e01798f3434cdb753501b9c79e6c9068",
+        "private": "true"
+      },
+      {
+        "name": "prairietablecook0000kurt_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "prairietablecook0000kurt_scandata.xml",
+        "mtime": "1670973780",
+        "size": "788",
+        "md5": "21df45c868cfbc5623677312798fb5d3",
+        "crc32": "f800d5ef",
+        "sha1": "439fa1952e2d6e2ba4f1512588ac5bb088f072b1",
+        "private": "true"
+      },
+      {
+        "name": "prairietablecook0000kurt_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660936255",
+        "size": "1787",
+        "md5": "39d873928a8cd0892ad9bf1918f1ae28",
+        "crc32": "42a25ef6",
+        "sha1": "4e36890e3245ebdd07441144057d49612414281e"
+      },
+      {
+        "name": "prairietablecook0000kurt_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "prairietablecook0000kurt_djvu.xml",
+        "mtime": "1660936917",
+        "size": "262214",
+        "md5": "39ba5b6334c56f6c5c3a6ea790d96913",
+        "crc32": "2904132b",
+        "sha1": "d2093a9d3dc689547ba181e14e33ba2706d77179",
+        "private": "true"
+      },
+      {
+        "name": "prairietablecook0000kurt_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "prairietablecook0000kurt_hocr.html",
+        "mtime": "1660936658",
+        "size": "3194598",
+        "md5": "71801705700b178c47273ce60084272e",
+        "crc32": "7c89b388",
+        "sha1": "5e994fe5b5294fde829d6dc3edf41e8c34a12fe1",
+        "private": "true"
+      },
+      {
+        "name": "prairietablecook0000kurt_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "prairietablecook0000kurt_abbyy.gz",
+        "mtime": "1540293074",
+        "size": "11200324",
+        "md5": "5b5117dba2778a335e46a06852dfac8b",
+        "crc32": "c32bb290",
+        "sha1": "182e2ed903e3ff0013a1ce07df89f114d95a99d0"
+      },
+      {
+        "name": "prairietablecook0000kurt_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "prairietablecook0000kurt.pdf",
+        "mtime": "1719518508",
+        "size": "13461118",
+        "md5": "b52706ba989b62af35825208147ec94b",
+        "crc32": "1c1aa7cb",
+        "sha1": "c343255fd6bdb006afe59bd7dc5e29c777f33459"
+      },
+      {
+        "name": "prairietablecook0000kurt_events.json",
+        "source": "original",
+        "mtime": "1540287215",
+        "size": "51",
+        "md5": "f404fd9eaf883b83bc682828cdde42aa",
+        "crc32": "64919c75",
+        "sha1": "20675aaebe13a00b30c4fd06a03fe7a4d3057327",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "prairietablecook0000kurt_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "0e57d83b56120c725a199a7e78b48347",
+        "summation": "md5"
+      },
+      {
+        "name": "prairietablecook0000kurt_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "prairietablecook0000kurt_chocr.html.gz",
+        "mtime": "1660936643",
+        "size": "6624513",
+        "md5": "72d039eb68ec3839c4021d7e065dede7",
+        "crc32": "ff6e3b50",
+        "sha1": "14bd8962755d7fa29c0c5b8aad2f4a136d65f5f1",
+        "private": "true"
+      },
+      {
+        "name": "prairietablecook0000kurt_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "prairietablecook0000kurt_hocr.html",
+        "mtime": "1660936742",
+        "size": "1969",
+        "md5": "a11841829de88747ce989edec63fed0a",
+        "crc32": "fffe6065",
+        "sha1": "fd65901c703f134a4d722940e4838d2bdcbeb22e",
+        "private": "true"
+      },
+      {
+        "name": "prairietablecook0000kurt_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "790",
+        "word_conf_11_20": "225",
+        "word_conf_21_30": "351",
+        "word_conf_31_40": "418",
+        "word_conf_41_50": "519",
+        "word_conf_51_60": "991",
+        "word_conf_61_70": "2667",
+        "word_conf_71_80": "6467",
+        "word_conf_81_90": "11166",
+        "word_conf_91_100": "15165",
+        "format": "OCR Search Text",
+        "original": "prairietablecook0000kurt_hocr.html",
+        "mtime": "1660936892",
+        "size": "89740",
+        "md5": "0452d57a260b5d1e3b229d52df3986b5",
+        "crc32": "2669f1f6",
+        "sha1": "457cfff2e5edcfefdf430ee730fc0a841957babc",
+        "private": "true"
+      },
+      {
+        "name": "prairietablecook0000kurt_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "prairietablecook0000kurt_orig_jp2.tar",
+        "mtime": "1540291219",
+        "size": "99541018",
+        "md5": "a3f6f0d9bacd6bb89dbcf787d64036f0",
+        "crc32": "6e392be6",
+        "sha1": "de0e0c9d0e8bfc532e5b5cb3379f04b5d4347087",
+        "private": "true",
+        "filecount": "170"
+      },
+      {
+        "name": "prairietablecook0000kurt_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "prairietablecook0000kurt.epub",
+        "mtime": "1753838851",
+        "size": "42655219",
+        "md5": "7e4ed884c2b08f41405a591328b841cc",
+        "crc32": "5e2d683f",
+        "sha1": "040ced68b9de8276d1672d0a00ea758061388cca"
+      },
+      {
+        "name": "prairietablecook0000kurt_loans.json",
+        "source": "original",
+        "mtime": "1594921074",
+        "size": "984",
+        "format": "JSON",
+        "private": "true",
+        "md5": "1bbdda51ee533c9bfa9cc34ac7f9f7ac",
+        "crc32": "5f1fb828",
+        "sha1": "d497692e9282cfda8279f74e413cd74de334554d"
+      },
+      {
+        "name": "prairietablecook0000kurt_marc.xml",
+        "source": "original",
+        "mtime": "1660936254",
+        "size": "7136",
+        "format": "MARC",
+        "md5": "18a7e0391766dc0fbedf6ab0f1b91d9e",
+        "crc32": "f40bb467",
+        "sha1": "896fa97a048357b7ef7e5ecfff7cfdb176ba93d6"
+      },
+      {
+        "name": "prairietablecook0000kurt_meta.mrc",
+        "source": "original",
+        "mtime": "1539581022",
+        "size": "2041",
+        "md5": "816db2fd991065083fb25decb1b99f4e",
+        "crc32": "fffce0eb",
+        "sha1": "4e35aae402404aad2c80d68d937fa34f8b50e72f",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "prairietablecook0000kurt_meta.sqlite",
+        "source": "original",
+        "mtime": "1540287396",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "0c102eda16f026a3fcca658bfee0655a",
+        "crc32": "ce443070",
+        "sha1": "65a906811c8f00ad960d8db7a103e5b1dc91a778"
+      },
+      {
+        "name": "prairietablecook0000kurt_meta.xml",
+        "source": "original",
+        "mtime": "1753838851",
+        "size": "3695",
+        "format": "Metadata",
+        "md5": "dd35a0564358d821132f432a40523430",
+        "crc32": "c3d035bc",
+        "sha1": "1518a6f80b69cfdc2f1d7b750113560257294caa"
+      },
+      {
+        "name": "prairietablecook0000kurt_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1540287395",
+        "size": "356075520",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "7a3ccbd0be8b4c807355830d3e8d746e",
+        "crc32": "ded508db",
+        "sha1": "db3310831976913e1ea77505e42736e8ad83ac5a",
+        "filecount": "170"
+      },
+      {
+        "name": "prairietablecook0000kurt_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "92",
+        "format": "Page Numbers JSON",
+        "original": "prairietablecook0000kurt_hocr.html",
+        "mtime": "1719517928",
+        "size": "28365",
+        "md5": "20abbdf526d1dd89d2a5fcc8c5afb9a3",
+        "crc32": "6e9b0304",
+        "sha1": "586e08d9ed7abfcf15b7ad15e43c2c3ae103449b",
+        "private": "true"
+      },
+      {
+        "name": "prairietablecook0000kurt_scandata.xml",
+        "source": "original",
+        "mtime": "1670973780",
+        "size": "173047",
+        "format": "Scandata",
+        "md5": "6f18e70932fc911cca284e3e9f904ea0",
+        "crc32": "da521c6c",
+        "sha1": "856b3ccb6257d426a7696e623f54c85769ed7003"
+      },
+      {
+        "name": "prairietablecook0000kurt_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "prairietablecook0000kurt_djvu.xml",
+        "mtime": "1670973742",
+        "size": "94341",
+        "md5": "d47ed245e79c383793e4663b0e7f3b0c",
+        "crc32": "a14e87b9",
+        "sha1": "26dc0daeb740c42f2e191dac393a2b23e3fde466",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753838851,
+    "item_size": 609976745,
+    "metadata": {
+      "identifier": "prairietablecook0000kurt",
+      "associated-names": "Martin, Michelle M; Tallgrass Beef Co",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Kurtis, Bill",
+      "creator-alt-script": "None",
+      "date": "2008-01-01",
+      "description": [
+        "viii, 152 pages : 24 cm",
+        "Includes bibliographical references (page 150-152)"
+      ],
+      "isbn": [
+        "9781402210495",
+        "1402210493"
+      ],
+      "language": "eng",
+      "lccn": "2007027397",
+      "mediatype": "texts",
+      "operator": "associate-law-chiyeung@archive.org",
+      "ppi": "300",
+      "publisher": "Naperville, IL : Sourcebooks",
+      "repub_state": "22",
+      "scanner": "ttscribe17.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "subject": [
+        "Cooking, American -- Western style",
+        "Cooking (Beef)",
+        "Cooking (Buffalo meat)",
+        "Cooking (Natural foods)",
+        "Natural beef",
+        "Cooking, American -- Western style",
+        "Cooking (Beef)",
+        "Cooking (Buffalo meat)",
+        "Cooking (Natural foods)",
+        "Natural beef"
+      ],
+      "title": "The prairie table cookbook ",
+      "title-alt-script": "None",
+      "tts_version": "v1.60-1-g2f920ca",
+      "uploader": "ttscribe17.hongkong@archive.org",
+      "addeddate": "2018-10-15 05:23:05",
+      "publicdate": "2018-10-15 05:23:37",
+      "imagecount": "170",
+      "scandate": "20181015065801",
+      "republisher_operator": "republisher14.dhaka@archive.org",
+      "republisher_date": "20181023153249",
+      "republisher_time": "279",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/prairietablecook0000kurt",
+      "identifier-ark": "ark:/13960/t9384ns33",
+      "external-identifier": [
+        "urn:acs6:prairietablecook0000kurt:epub:0573065a-48a5-4e00-b5bf-78e8b3d7d903",
+        "urn:acs6:prairietablecook0000kurt:pdf:3b5a0fed-2548-4aaf-b3f3-15e97faf9314",
+        "urn:lcp:prairietablecook0000kurt:lcpdf:3a106bed-7fe6-4d6b-9372-89cba05a34a2",
+        "urn:lcp:prairietablecook0000kurt:epub:c187f632-f4df-47d0-ae75-c68c23c88bf8"
+      ],
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20181023121140[/date][state]approved[/state][comment]199[/comment]",
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "boxid": "IA1382914",
+      "sponsordate": "20181031",
+      "openlibrary_edition": "OL11636230M",
+      "openlibrary_work": "OL5598135W",
+      "access-restricted-item": "true",
+      "backup_location": "ia906803_4",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__num_history": "8",
+      "oclc-id": [
+        "155123852",
+        "236118529"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "92",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia600109.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "schroederlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9781402210495"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-07-16 00:29:16.389229"
+        }
+      }
+    },
+    "uniq": 1519622677,
+    "workable_servers": [
+      "ia600109.us.archive.org",
+      "ia800109.us.archive.org"
+    ]
+  },
+  "institution": "Kurtis, Bill",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,36 @@
+{
+  "source": "dpla",
+  "id": "73865de7b8f4772b7e59553025805dfa",
+  "identifier": "73865de7b8f4772b7e59553025805dfa",
+  "title": "Cranfest Brochures",
+  "subject": [
+    "Cranfest",
+    "Recipes"
+  ],
+  "spatial": [
+    "Warrens, Wisconsin"
+  ],
+  "description": "This item includes cranberry recipes.",
+  "isShownAt": "http://content.mpl.org/cdm/ref/collection/cran/id/57",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/wisconsin",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878508"
+    ],
+    "name": "Recollection Wisconsin"
+  },
+  "institution": "Recollection Wisconsin",
+  "data": {
+    "object": "https://content.mpl.org/utils/getthumbnail/collection/cran/id/57",
+    "isShownAt": "http://content.mpl.org/cdm/ref/collection/cran/id/57"
+  },
+  "location": {
+    "state": "Wisconsin"
+  },
+  "curation": {
+    "score": 4,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Wisconsin; Digitized scan available"
+}

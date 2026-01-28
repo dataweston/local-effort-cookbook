@@ -1,0 +1,279 @@
+{
+  "source": "internet_archive",
+  "identifier": "2015StoutGraduateBulletin",
+  "title": "Graduate Bulletin [2015]",
+  "creator": "University of Wisconsin--Stout. University Relations.",
+  "year": 2015,
+  "subject": [
+    "University of Wisconsin--Stout--History",
+    "University of Wisconsin--Stout--Periodicals",
+    "University of Wisconsin--Stout--Curricula",
+    "Home economics--Study and teaching--History",
+    "Art--Study and teaching--History",
+    "Industrial arts--Study and teaching--History",
+    "Physical education and training--Wisconsin--Menomonie--History"
+  ],
+  "description": "Annual and biennial bulletins of the University of Wisconsin-Stout and its predecessor institutions. The bulletins provide descriptions of campus, lists of administrators and faculty, information on institutional objectives, courses offered, and curriculum.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/2015StoutGraduateBulletin"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/2015StoutGraduateBulletin"
+        }
+      ]
+    },
+    "created": 1758335563,
+    "d1": "ia600702.us.archive.org",
+    "d2": "ia800702.us.archive.org",
+    "dir": "/17/items/2015StoutGraduateBulletin",
+    "files": [
+      {
+        "name": "2015StoutGraduateBulletin_archive.torrent",
+        "source": "metadata",
+        "btih": "9abc37414544a8a36ecd14dea11c92aba14e8225",
+        "mtime": "1675443450",
+        "size": "8572",
+        "md5": "80bc0837b00d4af9bfa5af5cab219bef",
+        "crc32": "e9f42f39",
+        "sha1": "d2af7b9558096443ea355ebd4dfe9b14ee500465",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "2015StoutGraduateBulletin_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9ada9b373c1e0b84e7a9dc4e7a1aa5a2",
+        "summation": "md5"
+      },
+      {
+        "name": "2015StoutGraduateBulletin_meta.sqlite",
+        "source": "original",
+        "mtime": "1675352474",
+        "size": "20480",
+        "md5": "e1ce5de8eff77c02ded75503a7ab7d6e",
+        "crc32": "6d396af4",
+        "sha1": "1b710e0a28ad86cbfb03f557faf37526de8cb84f",
+        "format": "Metadata"
+      },
+      {
+        "name": "2015StoutGraduateBulletin_meta.xml",
+        "source": "original",
+        "mtime": "1675443437",
+        "size": "2279",
+        "md5": "67cb57d8288eea83bf7915dd113cc88f",
+        "crc32": "dd12cf31",
+        "sha1": "49fa49e19501836fbcd99c7a327035989ee0a91e",
+        "format": "Metadata"
+      },
+      {
+        "name": "2015_GraduateBulletin.pdf",
+        "source": "original",
+        "mtime": "1675352413",
+        "size": "1450319",
+        "md5": "2d0c30c8792c7e597411d809a032058a",
+        "crc32": "73129f50",
+        "sha1": "5aac13e2008e8ad5372cf5b4cbdbc4cd61555743",
+        "format": "Text PDF",
+        "viruscheck": "1675352792"
+      },
+      {
+        "name": "2015_GraduateBulletin_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-1-gd3a4",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "2015_GraduateBulletin_jp2.zip",
+        "mtime": "1675354219",
+        "size": "7327322",
+        "md5": "093496723dfb8000a48391e998b270b8",
+        "crc32": "01a41f7e",
+        "sha1": "7977efc299236458af0a00e65f155fbe44427ce7"
+      },
+      {
+        "name": "2015_GraduateBulletin_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "2015_GraduateBulletin_djvu.xml",
+        "mtime": "1675354330",
+        "size": "583525",
+        "md5": "f0936a467deddf3bbdba23d6eae1297b",
+        "crc32": "fe3feac6",
+        "sha1": "df48fb4d3103301c512d99dd4912b6c55359a44c"
+      },
+      {
+        "name": "2015_GraduateBulletin_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "2015_GraduateBulletin_hocr.html",
+        "mtime": "1675354267",
+        "size": "6579287",
+        "md5": "5a997532d7f405b510cb239c386f3415",
+        "crc32": "c0a6ed0e",
+        "sha1": "26fc4a3c57ce0af7ae81266267e16f645e39b886"
+      },
+      {
+        "name": "2015_GraduateBulletin_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "2015_GraduateBulletin_chocr.html.gz",
+        "mtime": "1675354249",
+        "size": "12165821",
+        "md5": "4456548bd966714583545925ada7e4ef",
+        "crc32": "bb71497f",
+        "sha1": "0589d7ba9aa05f34c64c5bda4d4c912eb8950f66"
+      },
+      {
+        "name": "2015_GraduateBulletin_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "2015_GraduateBulletin_hocr.html",
+        "mtime": "1675354278",
+        "size": "3777",
+        "md5": "c556262d17b9974136a9863d560b0baf",
+        "crc32": "ef11235f",
+        "sha1": "10cc580c7c82ca97a08de4aadc10a0f440062962"
+      },
+      {
+        "name": "2015_GraduateBulletin_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "78",
+        "word_conf_11_20": "57",
+        "word_conf_21_30": "89",
+        "word_conf_31_40": "112",
+        "word_conf_41_50": "168",
+        "word_conf_51_60": "256",
+        "word_conf_61_70": "345",
+        "word_conf_71_80": "518",
+        "word_conf_81_90": "1189",
+        "word_conf_91_100": "74982",
+        "format": "OCR Search Text",
+        "original": "2015_GraduateBulletin_hocr.html",
+        "mtime": "1675354306",
+        "size": "149280",
+        "md5": "f7aabf954761b145d26921f37c067156",
+        "crc32": "92b026ab",
+        "sha1": "fe00b4345e50d26339d53c3fdf9123faa413e12d"
+      },
+      {
+        "name": "2015_GraduateBulletin_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "2015_GraduateBulletin.pdf",
+        "mtime": "1675353466",
+        "size": "101318267",
+        "md5": "47f43a6778ddcf02c21308ad5ba21be0",
+        "crc32": "729aa717",
+        "sha1": "de25de6bcb96377598dc8f91ff4638b506c85e8e",
+        "filecount": "316"
+      },
+      {
+        "name": "2015_GraduateBulletin_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "2015_GraduateBulletin_djvu.xml",
+        "mtime": "1675354455",
+        "size": "45385",
+        "md5": "7370460776244c1885f96a97aa458fef",
+        "crc32": "23b61145",
+        "sha1": "185d4117fc80b2a66051612ccd899643e868f554"
+      },
+      {
+        "name": "2015_GraduateBulletin_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "2015_GraduateBulletin_djvu.xml",
+        "mtime": "1675354428",
+        "size": "101565",
+        "md5": "62c672dd744ad02df6e06b22566639fe",
+        "crc32": "e6b12235",
+        "sha1": "1f1fe734ec0a22816e8ada4ce38e04bdbdee37d5"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1675354483",
+        "size": "9346",
+        "md5": "26f4616276d62bc90101a9b27956dfd8",
+        "crc32": "3348afb1",
+        "sha1": "e5e40fd586660db9ba6b68fb404dd69bc8941e83",
+        "format": "Item Tile",
+        "rotation": "0"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1675443450,
+    "item_size": 129765225,
+    "metadata": {
+      "identifier": "2015StoutGraduateBulletin",
+      "mediatype": "texts",
+      "creator": "University of Wisconsin--Stout. University Relations.",
+      "date": "2015-01-01",
+      "description": "<span style=\"font-family:Arial, Helvetica, sans-serif;font-size:13px;background-color:rgb(255,255,255);\">Annual and biennial bulletins of the University of Wisconsin-Stout and its <br />predecessor institutions. The bulletins provide descriptions of campus, <br />lists of administrators and faculty, information on institutional <br />objectives, courses offered, and curriculum.</span>",
+      "language": "eng",
+      "licenseurl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "University of Wisconsin--Stout--History",
+        "University of Wisconsin--Stout--Periodicals",
+        "University of Wisconsin--Stout--Curricula",
+        "Home economics--Study and teaching--History",
+        "Art--Study and teaching--History",
+        "Industrial arts--Study and teaching--History",
+        "Physical education and training--Wisconsin--Menomonie--History"
+      ],
+      "title": "Graduate Bulletin [2015]",
+      "uploader": "ambersoni6732@my.uwstout.edu",
+      "publicdate": "2023-02-02 15:40:45",
+      "addeddate": "2023-02-02 15:40:45",
+      "curation": "[curator]validator@archive.org[/curator][date]20230202154632[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/2015StoutGraduateBulletin",
+      "identifier-ark": "ark:/13960/s25pcq1ttpw",
+      "ppi": "300",
+      "ocr": "tesseract 5.3.0-1-gd3a4",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.18",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "collection": [
+        "stoutbulletins",
+        "universityofwisconsinstoutarchives",
+        "americana"
+      ],
+      "normalized_dates": [
+        "2015-01-01"
+      ]
+    },
+    "server": "ia800702.us.archive.org",
+    "uniq": 706230605,
+    "workable_servers": [
+      "ia800702.us.archive.org",
+      "ia600702.us.archive.org"
+    ]
+  }
+}

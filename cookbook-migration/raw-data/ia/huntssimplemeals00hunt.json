@@ -1,0 +1,511 @@
+{
+  "source": "internet_archive",
+  "identifier": "huntssimplemeals00hunt",
+  "title": "Hunt's simple meals for busy days",
+  "creator": "Hunt Foods Company",
+  "year": 1995,
+  "subject": [
+    "Cookery (Tomatoes)",
+    "Quick and easy cookery"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/huntssimplemeals00hunt"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/huntssimplemeals00hunt"
+        }
+      ]
+    },
+    "created": 1758558761,
+    "d1": "ia601304.us.archive.org",
+    "d2": "ia801304.us.archive.org",
+    "dir": "/2/items/huntssimplemeals00hunt",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660237964",
+        "size": "20240",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "529b0b79fafc46bc4c465cae90b346ce",
+        "crc32": "1fb5d2fa",
+        "sha1": "fdef260b0a1cb6833efb8d6e22da19a035440a70"
+      },
+      {
+        "name": "huntssimplemeals00hunt.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "huntssimplemeals00hunt_hocr.html",
+        "mtime": "1756183521",
+        "size": "15787516",
+        "private": "true",
+        "md5": "bebfb9b5f2b639c036d50f2f7561f294",
+        "crc32": "a1450dd5",
+        "sha1": "5bc68f47e2eb4235d38b22e597386246ff3ebea2"
+      },
+      {
+        "name": "huntssimplemeals00hunt.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "huntssimplemeals00hunt_jp2.zip",
+        "md5": "dbebd5cc3d0044f76d703b416acca301",
+        "mtime": "1263315243",
+        "size": "224921",
+        "crc32": "96f6c194",
+        "sha1": "2ade0f0314aa18beae7ee4f7bad0ac3a064d2aa0"
+      },
+      {
+        "name": "huntssimplemeals00hunt.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "huntssimplemeals00hunt.pdf",
+        "mtime": "1756183394",
+        "size": "7548743",
+        "md5": "940d28f4d5dc91b9b71ae3369d4b0811",
+        "crc32": "715ff8f6",
+        "sha1": "56840066d64e934ee4db870469d9c2f5f3a746bb"
+      },
+      {
+        "name": "huntssimplemeals00hunt.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "huntssimplemeals00hunt_page_numbers.json",
+        "mtime": "1716066975",
+        "size": "6913839",
+        "md5": "e89f14bf0dc00030a2b9f9a781866209",
+        "crc32": "e393cbee",
+        "sha1": "1315da43e9b1b2963ec191810e37762c5b4650e8",
+        "private": "true"
+      },
+      {
+        "name": "huntssimplemeals00hunt_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "huntssimplemeals00hunt_jp2.zip",
+        "md5": "591266e9693ec8a67d775c55e5caa0a6",
+        "mtime": "1263321656",
+        "size": "1729733",
+        "crc32": "2acbf3bd",
+        "sha1": "91cb4bcb79e89826706ffa349e335b3150c28726",
+        "private": "true"
+      },
+      {
+        "name": "huntssimplemeals00hunt_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "huntssimplemeals00hunt_abbyy.gz",
+        "mtime": "1660237617",
+        "size": "1400987",
+        "md5": "e4ac980d145402d6f0ec458075706264",
+        "crc32": "0a447069",
+        "sha1": "3bd11e852e91f4bcd31dbaa25afe1407d7507d98",
+        "private": "true"
+      },
+      {
+        "name": "huntssimplemeals00hunt_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "huntssimplemeals00hunt_scandata.xml",
+        "mtime": "1670230122",
+        "size": "781",
+        "md5": "24993eca6ad6e9353de201ba13cc2050",
+        "crc32": "d07a953a",
+        "sha1": "adb6885b8bcdcd5ed54bd99a4de356cf92ec1587",
+        "private": "true"
+      },
+      {
+        "name": "huntssimplemeals00hunt_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "08bc6ce174b50045c6c205e97beaee31",
+        "mtime": "1262623276",
+        "size": "637",
+        "crc32": "9ee6dcaa",
+        "sha1": "32e9ddd9e6be088ee2b6eaa2250ab57869064753"
+      },
+      {
+        "name": "huntssimplemeals00hunt_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "huntssimplemeals00hunt_djvu.xml",
+        "mtime": "1716067506",
+        "size": "128469",
+        "md5": "a4bbc776335b1de66e415820ce7ac2b3",
+        "crc32": "bc3f4f9c",
+        "sha1": "f547f72b764413cf7564745a2af09b38cf8559cf",
+        "private": "true"
+      },
+      {
+        "name": "huntssimplemeals00hunt_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "huntssimplemeals00hunt_hocr.html",
+        "mtime": "1716065687",
+        "size": "1550542",
+        "md5": "a9145ae665f133aafc681007afb7f59c",
+        "crc32": "8769b415",
+        "sha1": "9da6eca963b8cb76b06b795050bba530d2a75ec8",
+        "private": "true"
+      },
+      {
+        "name": "huntssimplemeals00hunt_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "huntssimplemeals00hunt.pdf",
+        "mtime": "1716067509",
+        "size": "6887461",
+        "md5": "190222bdb4e8311ab508df92a3e7739e",
+        "crc32": "bd493fe1",
+        "sha1": "449da337aa42caf5654237c1d8d666bac4bc1da6"
+      },
+      {
+        "name": "huntssimplemeals00hunt_extramarc.xml",
+        "source": "original",
+        "mtime": "1402203010",
+        "size": "2667",
+        "md5": "4583fee4badd1e20594c15a84a917782",
+        "crc32": "a25587f0",
+        "sha1": "61dbf274f1dce36a52770bdd73cd0570d4ef76b9",
+        "format": "Metadata"
+      },
+      {
+        "name": "huntssimplemeals00hunt_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "0cbbff97d139141430e4b240708cf83c",
+        "summation": "md5"
+      },
+      {
+        "name": "huntssimplemeals00hunt_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "huntssimplemeals00hunt_chocr.html.gz",
+        "mtime": "1660237794",
+        "size": "3021041",
+        "md5": "5f7c4ce7035618fc125251a5f21cde72",
+        "crc32": "3e1b9574",
+        "sha1": "e04f6c7806ed5be2918f5232548b47099d552eb3",
+        "private": "true"
+      },
+      {
+        "name": "huntssimplemeals00hunt_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "huntssimplemeals00hunt_hocr.html",
+        "mtime": "1660237858",
+        "size": "1203",
+        "md5": "a53088497c659270854e5838ceae082d",
+        "crc32": "2844f16f",
+        "sha1": "797f47f2d458a72da04616d6fbb6c419470c206a",
+        "private": "true"
+      },
+      {
+        "name": "huntssimplemeals00hunt_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2026",
+        "word_conf_11_20": "1260",
+        "word_conf_21_30": "2327",
+        "word_conf_31_40": "2171",
+        "word_conf_41_50": "3135",
+        "word_conf_51_60": "2742",
+        "word_conf_61_70": "2478",
+        "word_conf_71_80": "1292",
+        "word_conf_81_90": "383",
+        "word_conf_91_100": "646",
+        "format": "OCR Search Text",
+        "original": "huntssimplemeals00hunt_hocr.html",
+        "mtime": "1660237924",
+        "size": "32207",
+        "md5": "56f41d8fd358c5c81d264130d9531862",
+        "crc32": "62a6c2bf",
+        "sha1": "ead6e0a56d3c8ad8fde764d5fb063a39ece61746",
+        "private": "true"
+      },
+      {
+        "name": "huntssimplemeals00hunt_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "huntssimplemeals00hunt_orig_jp2.tar",
+        "md5": "835fbbffc8c172c5c9db537429b10801",
+        "mtime": "1263315212",
+        "size": "38850169",
+        "crc32": "46e25b18",
+        "sha1": "579aa7466c000175589673cde9c8aad60e514fb2",
+        "private": "true",
+        "filecount": "110"
+      },
+      {
+        "name": "huntssimplemeals00hunt_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "huntssimplemeals00hunt.epub",
+        "mtime": "1756183659",
+        "size": "15808808",
+        "md5": "8755c21bd8c616b84bdaa5515adea79d",
+        "crc32": "4afab326",
+        "sha1": "d3e2f86eac51f570f8018ff7abf21dcdee09bffa"
+      },
+      {
+        "name": "huntssimplemeals00hunt_loans.json",
+        "source": "original",
+        "mtime": "1593069303",
+        "size": "3450",
+        "format": "JSON",
+        "private": "true",
+        "md5": "c9a98d42c5ae0df95db28d2cf3e3afb4",
+        "crc32": "097b1b04",
+        "sha1": "b794ae22179938f0c9ebb47fc47fe789523e2380"
+      },
+      {
+        "name": "huntssimplemeals00hunt_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "174bf9fcdc6862880a30f3c03b99435f",
+        "mtime": "1262623276",
+        "size": "3431",
+        "crc32": "de72ef5c",
+        "sha1": "b6d971f1d10c1e8694c4d183d7c31756befe37fc"
+      },
+      {
+        "name": "huntssimplemeals00hunt_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "huntssimplemeals00hunt_xisbn.json",
+        "mtime": "1454545257",
+        "size": "312",
+        "md5": "657efe47bd80fdfd6b180bf329ac4322",
+        "crc32": "501db26f",
+        "sha1": "6ab44a0f3864e1640a1739de528667ff449fc07f",
+        "private": "true"
+      },
+      {
+        "name": "huntssimplemeals00hunt_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "d345338798b688f2d1ff12f02febabcc",
+        "mtime": "1262623276",
+        "size": "989",
+        "crc32": "1b831fd3",
+        "sha1": "af7f5c4b06de7ad75837a1784a93e29913ea8d1e"
+      },
+      {
+        "name": "huntssimplemeals00hunt_meta.sqlite",
+        "source": "original",
+        "mtime": "1464649661",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "4252b0408fb490b8465a7cfc75362a03",
+        "crc32": "093ad518",
+        "sha1": "2e24342a7dea165cbceabbfe3a068bb739db819a"
+      },
+      {
+        "name": "huntssimplemeals00hunt_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1756183659",
+        "size": "2971",
+        "md5": "c4750f585f7d2302744a893fb6e3a6ab",
+        "crc32": "d8c2173b",
+        "sha1": "c5a33ac576fbd0e495c61fc4add050eb58f25b83"
+      },
+      {
+        "name": "huntssimplemeals00hunt_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "2c1dd28a5ad3c98fef19f60891ca1f8f",
+        "mtime": "1262623276",
+        "size": "398",
+        "crc32": "f96e33a4",
+        "sha1": "d5fb1505b204fa4e9b5eb22cc868c491572849aa"
+      },
+      {
+        "name": "huntssimplemeals00hunt_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "563c40d84cc9bbfa63ee0b73d002b2ea",
+        "mtime": "1263312598",
+        "size": "91637760",
+        "crc32": "d8b8605f",
+        "sha1": "c1dd3f1e71009410406a1d69528aac15a4f786af",
+        "private": "true",
+        "filecount": "110"
+      },
+      {
+        "name": "huntssimplemeals00hunt_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "huntssimplemeals00hunt_hocr.html",
+        "mtime": "1716066024",
+        "size": "17597",
+        "md5": "992555370febee2614bebc6cc93c5d61",
+        "crc32": "70e45255",
+        "sha1": "51d9ab94592fc10036217486e6f38f905f6c777a",
+        "private": "true"
+      },
+      {
+        "name": "huntssimplemeals00hunt_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "c073109d606a93439ff564a0d56b07e8",
+        "mtime": "1670230121",
+        "size": "57499",
+        "crc32": "353912c3",
+        "sha1": "a3b5b8ee8a5714c58d57e5109727ac4ccc734a52"
+      },
+      {
+        "name": "huntssimplemeals00hunt_xisbn.json",
+        "source": "original",
+        "mtime": "1454539899",
+        "size": "287",
+        "md5": "26d2ad5650600dde166690c01f0245c5",
+        "crc32": "34a87ff4",
+        "sha1": "fc6d1f92e971011bbb42bc1e82f87a11c2ce43d1",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1756183659,
+    "item_size": 191640802,
+    "metadata": {
+      "title": "Hunt's simple meals for busy days",
+      "creator": "Hunt Foods Company",
+      "subject": [
+        "Cookery (Tomatoes)",
+        "Quick and easy cookery"
+      ],
+      "description": "Includes index",
+      "publisher": "Des Moines, Ia. : Meredith",
+      "date": "1995-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696205068",
+        "9780696205064"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA104713",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "la",
+      "mediatype": "texts",
+      "updatedate": "2010-01-04 16:41:16",
+      "updater": "LineK",
+      "identifier": "huntssimplemeals00hunt",
+      "uploader": "line@archive.org",
+      "addeddate": "2010-01-04 16:41:18",
+      "publicdate": "2010-01-04 16:51:25",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-ben-williams@archive.org",
+      "scanner": "scribe8.la.archive.org",
+      "scandate": "20100108170711",
+      "imagecount": "108",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/huntssimplemeals00hunt",
+      "identifier-ark": "ark:/13960/t51g19x9v",
+      "bookplateleaf": "0003",
+      "curation": "[curator]kellycritch@archive.org[/curator][date]20100203143352[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:huntssimplemeals00hunt:pdf:7caa6e1f-4e9c-41cd-89af-70667c8e900e",
+        "urn:acs6:huntssimplemeals00hunt:epub:86dce6b2-10da-479a-8cd5-10dfa641a9c9",
+        "urn:oclc:record:1035603017",
+        "urn:lcp:huntssimplemeals00hunt:lcpdf:e3fd5483-a1b5-4fde-a5d9-49adfcc38f1e",
+        "urn:lcp:huntssimplemeals00hunt:epub:aca26035-9969-4759-8b23-82e3ac54ab26"
+      ],
+      "donor": "alibris",
+      "extramarc": "University of Illinois Urbana-Champaign (PZ)",
+      "city": "Des Moines, Ia.",
+      "oclc-id": "33082822",
+      "lccn": "96124539",
+      "backup_location": "ia903604_23",
+      "openlibrary_edition": "OL544531M",
+      "openlibrary_work": "OL15161191W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Thu Dec 24 17:12:17 UTC 2020",
+        "Wed Apr 3 4:57:14 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia601304.us.archive.org",
+    "uniq": 1066729671,
+    "workable_servers": [
+      "ia601304.us.archive.org",
+      "ia801304.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/33082822?referer=xid"
+          ],
+          "publisher": "Meredith",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "96124539"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Ia.",
+          "year": "1995",
+          "isbn": [
+            "0696205068"
+          ],
+          "title": "Hunt's simple meals for busy days.",
+          "oclcnum": [
+            "33082822"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Hunt Foods Company",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

@@ -1,0 +1,134 @@
+{
+  "source": "internet_archive",
+  "identifier": "ARCHIVEIT-2984-WEEKLY-9310-00000",
+  "title": "Archive-It Crawl Data: Partner 478 Collection 2984 Recurrence WEEKLY (around 2014-02-24T17:44:17Z)",
+  "creator": "Archive-It",
+  "year": 2014,
+  "subject": null,
+  "description": "recurrence=WEEKLY, maxDuration=259200, maxDocumentCount=null, isTestCrawl=false, isPatchCrawl=false, oneTimeSubtype=null, seedCount=11, accountId=478, accountType=SUBSCRIBER, organizationName=\"Wisconsin Historical Society\", collectionId=2984, collectionName=\"Online Newsletters\"",
+  "metadata": {
+    "created": 1758319843,
+    "d1": "ia600605.us.archive.org",
+    "d2": "ia800605.us.archive.org",
+    "dir": "/6/items/ARCHIVEIT-2984-WEEKLY-9310-00000",
+    "files": [
+      {
+        "name": "ARCHIVEIT-2984-WEEKLY-9310-00000.cdx.gz",
+        "source": "original",
+        "mtime": "1409349265",
+        "size": "116013",
+        "format": "Item CDX Index",
+        "private": "true",
+        "md5": "a58c6cde04998dab353ef197c1c7cf6c",
+        "crc32": "584b2fdc",
+        "sha1": "6beca875983e7797260bcdd1bce87ebdf956badb"
+      },
+      {
+        "name": "ARCHIVEIT-2984-WEEKLY-9310-00000.cdx.idx",
+        "source": "original",
+        "mtime": "1409349265",
+        "size": "50",
+        "format": "Item CDX Meta-Index",
+        "private": "true",
+        "md5": "8c0e16b8a685cbc6e45fb61ad85baa1d",
+        "crc32": "260df9da",
+        "sha1": "71f07ca19967dd9daf8a38d36e63fbc17d039930"
+      },
+      {
+        "name": "ARCHIVEIT-2984-WEEKLY-9310-00000_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "b4aa4719991477f678b7b94e9fc5eef5",
+        "summation": "md5"
+      },
+      {
+        "name": "ARCHIVEIT-2984-WEEKLY-9310-00000_meta.sqlite",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1393322912",
+        "size": "11264",
+        "md5": "2fa7b2bde2a3e9804bf55d3d5cf8928f",
+        "crc32": "65622a82",
+        "sha1": "3d2607b136b34ef3895321fc239857c9e1ca0516"
+      },
+      {
+        "name": "ARCHIVEIT-2984-WEEKLY-9310-00000_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1718752513",
+        "size": "1824",
+        "md5": "624cc116e389e18beb7b7b37105b27ec",
+        "crc32": "a4d8b4de",
+        "sha1": "303017cc717162e618422e7078a584670a090230"
+      },
+      {
+        "name": "ARCHIVEIT-2984-WEEKLY-9310-20140224174412662-00001-wbgrp-crawl058.us.archive.org-6441.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1393322905",
+        "size": "13893224",
+        "private": "true",
+        "md5": "21dad7656b7d79aba214f8246d33307e",
+        "crc32": "5a685ab1",
+        "sha1": "0945652272f603433adcfccd0cecafe2af73c180"
+      },
+      {
+        "name": "ARCHIVEIT-2984-WEEKLY-9310-20140224174412662-00001-wbgrp-crawl058.us.archive.org-6441.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "ARCHIVEIT-2984-WEEKLY-9310-20140224174412662-00001-wbgrp-crawl058.us.archive.org-6441.warc.gz",
+        "mtime": "1409349224",
+        "size": "118695",
+        "md5": "f16096210a4ad3ec2707f89a55837fbe",
+        "crc32": "73759a61",
+        "sha1": "57b1d1db77e4a51d9a6a1f0dc4317542ae21c1b1",
+        "private": "true"
+      }
+    ],
+    "files_count": 7,
+    "item_last_updated": 1718752513,
+    "item_size": 14141070,
+    "metadata": {
+      "identifier": "ARCHIVEIT-2984-WEEKLY-9310-00000",
+      "archiveit-account-id": "478",
+      "archiveit-account-organization-name": "Wisconsin Historical Society",
+      "archiveit-collection-id": "2984",
+      "archiveit-collection-name": "Online Newsletters",
+      "archiveit-recurrence": "WEEKLY",
+      "contributor": "Internet Archive",
+      "crawler": "Heritrix/3.3.0-SNAPSHOT-20140221-2356",
+      "creator": "Archive-It",
+      "description": "recurrence=WEEKLY, maxDuration=259200, maxDocumentCount=null, isTestCrawl=false, isPatchCrawl=false, oneTimeSubtype=null, seedCount=11, accountId=478, accountType=SUBSCRIBER, organizationName=\"Wisconsin Historical Society\", collectionId=2984, collectionName=\"Online Newsletters\"",
+      "mediatype": "web",
+      "scandate": "20140224174417",
+      "scanner": "wbgrp-crawl058.us.archive.org",
+      "sponsor": "Wisconsin Historical Society",
+      "title": "Archive-It Crawl Data: Partner 478 Collection 2984 Recurrence WEEKLY (around 2014-02-24T17:44:17Z)",
+      "collection": [
+        "ArchiveIt-Collection-2984",
+        "ArchiveIt-Partner-478",
+        "archiveitdigitalcollection",
+        "web",
+        "archiveitpartners"
+      ],
+      "publicdate": "2014-02-25 02:42:56",
+      "uploader": "archiveit-uploads@archive.org",
+      "addeddate": "2014-02-25 02:42:56",
+      "imagecount": "2791",
+      "firstfiledate": "20140224174417",
+      "lastfiledate": "20140225023616",
+      "date": "2014-01-01",
+      "backup_location": "ia905804_26",
+      "access-restricted-item": "true",
+      "normalized_dates": [
+        "2014-01-01"
+      ]
+    },
+    "server": "ia800605.us.archive.org",
+    "uniq": 1908195327,
+    "workable_servers": [
+      "ia800605.us.archive.org",
+      "ia600605.us.archive.org"
+    ]
+  }
+}

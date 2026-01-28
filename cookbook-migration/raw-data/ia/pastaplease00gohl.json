@@ -1,0 +1,510 @@
+{
+  "source": "internet_archive",
+  "identifier": "pastaplease00gohl",
+  "title": "Pasta, please",
+  "creator": "Gohlke, Annette",
+  "year": 1990,
+  "subject": "Cooking (Pasta)",
+  "description": [
+    "At head of title: Country woman",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/pastaplease00gohl"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/pastaplease00gohl"
+        }
+      ]
+    },
+    "created": 1758559315,
+    "d1": "ia600203.us.archive.org",
+    "d2": "ia800203.us.archive.org",
+    "dir": "/31/items/pastaplease00gohl",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660867292",
+        "size": "20928",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "1713a1d35041ae7d0a41fbd92c48fc89",
+        "crc32": "ec764b73",
+        "sha1": "2c1f0b322ed0bb779ad534592d268bab29851917"
+      },
+      {
+        "name": "pastaplease00gohl.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "pastaplease00gohl_hocr.html",
+        "mtime": "1757218317",
+        "size": "3870484",
+        "private": "true",
+        "md5": "77780fec7a485a7dc276b49095a25db2",
+        "crc32": "9b121f34",
+        "sha1": "2486275d716798b3ecc452f682e438464348280b"
+      },
+      {
+        "name": "pastaplease00gohl.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "pastaplease00gohl_jp2.zip",
+        "mtime": "1314121170",
+        "size": "320241",
+        "md5": "d22c67d6eca9334c2967398e231d670b",
+        "crc32": "168dd444",
+        "sha1": "9c9aa71042645d951dd49a565f447f443ab50a04"
+      },
+      {
+        "name": "pastaplease00gohl.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "pastaplease00gohl.pdf",
+        "mtime": "1757218228",
+        "size": "7060615",
+        "md5": "2b87697a736bc773086877a3bf7a9af2",
+        "crc32": "1f7e264f",
+        "sha1": "1a96a7106293faa22c7bd31e631607a4f864ddd8"
+      },
+      {
+        "name": "pastaplease00gohl.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "pastaplease00gohl_page_numbers.json",
+        "mtime": "1716343287",
+        "size": "6759382",
+        "md5": "d1cb47a11e60ca02fd7a2ab99f7f9cac",
+        "crc32": "5194bdc8",
+        "sha1": "be582be2ced86442dd78eba03d8cfeada8c92c74",
+        "private": "true"
+      },
+      {
+        "name": "pastaplease00gohl_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "pastaplease00gohl_jp2.zip",
+        "mtime": "1314154558",
+        "size": "1777978",
+        "md5": "63c31fca610d1c5d102b71ec504735c0",
+        "crc32": "e32b04c0",
+        "sha1": "51a14deb80115795c51836540eb0e57ffff17a93",
+        "private": "true"
+      },
+      {
+        "name": "pastaplease00gohl_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "pastaplease00gohl_abbyy.gz",
+        "mtime": "1660867188",
+        "size": "1477947",
+        "md5": "16036562ddb9b9a449533fc386d9440e",
+        "crc32": "32c09f46",
+        "sha1": "a80f0c2fbece5e83846ebdf0846044cdc3a1cfce",
+        "private": "true"
+      },
+      {
+        "name": "pastaplease00gohl_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "pastaplease00gohl_scandata.xml",
+        "mtime": "1670840933",
+        "size": "758",
+        "md5": "7063cd7782ca1d4c77b48250dc1edca3",
+        "crc32": "e746e168",
+        "sha1": "c84c2f36a838827a77705b9d2e90243d0ae34162",
+        "private": "true"
+      },
+      {
+        "name": "pastaplease00gohl_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1281970139",
+        "size": "638",
+        "md5": "100830252ba84a0ac362d1f1cbb17ca7",
+        "crc32": "d85638b6",
+        "sha1": "7470d35738eeecdbeefacf4fb82aca85b06cfbc4"
+      },
+      {
+        "name": "pastaplease00gohl_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "pastaplease00gohl_djvu.xml",
+        "mtime": "1716343527",
+        "size": "135561",
+        "md5": "50ec8e05d4d05ed67b8a914fa49b1b94",
+        "crc32": "82a02311",
+        "sha1": "c5acfc15bb617443fcb09520f8c74c2cf9e07a3f",
+        "private": "true"
+      },
+      {
+        "name": "pastaplease00gohl_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "pastaplease00gohl_hocr.html",
+        "mtime": "1716342164",
+        "size": "1573921",
+        "md5": "4fbdf4c1c6a73b295180c7e7b4a01d06",
+        "crc32": "1e8c11d0",
+        "sha1": "f8f038fc4db24d174ae7ecc98e77ea6cab6252e3",
+        "private": "true"
+      },
+      {
+        "name": "pastaplease00gohl_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "pastaplease00gohl.pdf",
+        "mtime": "1716343530",
+        "size": "6742124",
+        "md5": "f454a918d7306604c7f30d22624be12a",
+        "crc32": "abdbef11",
+        "sha1": "cc3cc495e8d058ab92e47b8c913d616e9eb573bb"
+      },
+      {
+        "name": "pastaplease00gohl_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "a343285ec2dc6c527b964044853762bc",
+        "summation": "md5"
+      },
+      {
+        "name": "pastaplease00gohl_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "pastaplease00gohl_chocr.html.gz",
+        "mtime": "1660867242",
+        "size": "3042566",
+        "md5": "4adbbbb981189e6c773a4626478d089b",
+        "crc32": "4cbdb689",
+        "sha1": "e5f3306042589ead1df143c5da13bae1bded13eb",
+        "private": "true"
+      },
+      {
+        "name": "pastaplease00gohl_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "pastaplease00gohl_hocr.html",
+        "mtime": "1660867264",
+        "size": "822",
+        "md5": "070c6ddedf4e21593a5ada58b4777ebd",
+        "crc32": "7c062c1a",
+        "sha1": "d6bbf00fd1916e21e4fb31e8fb910e12f2e91e6b",
+        "private": "true"
+      },
+      {
+        "name": "pastaplease00gohl_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "531",
+        "word_conf_11_20": "478",
+        "word_conf_21_30": "1930",
+        "word_conf_31_40": "1307",
+        "word_conf_41_50": "2521",
+        "word_conf_51_60": "3447",
+        "word_conf_61_70": "3437",
+        "word_conf_71_80": "2503",
+        "word_conf_81_90": "730",
+        "word_conf_91_100": "1728",
+        "format": "OCR Search Text",
+        "original": "pastaplease00gohl_hocr.html",
+        "mtime": "1660867276",
+        "size": "37108",
+        "md5": "1aaeddc85751c90c0ac681bce1004c8d",
+        "crc32": "5c149c22",
+        "sha1": "ed0881258b4a01d7f20168c55a3db6bdb8bdf3eb",
+        "private": "true"
+      },
+      {
+        "name": "pastaplease00gohl_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "pastaplease00gohl_orig_jp2.tar",
+        "mtime": "1314121129",
+        "size": "30098137",
+        "md5": "035feeb9fac8e7f9106ba2554cf796f1",
+        "crc32": "8c3c764a",
+        "sha1": "db077f34aef8c6dbd1a4e849949b97a7ba2024ce",
+        "private": "true",
+        "filecount": "72"
+      },
+      {
+        "name": "pastaplease00gohl_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "pastaplease00gohl.epub",
+        "mtime": "1757218721",
+        "size": "3914900",
+        "md5": "2d6e1a67aa57b9068f48e0f7027d76ee",
+        "crc32": "bf8b2294",
+        "sha1": "a345777ddd19ef3f9dedf56eb638b2f18fa0bcc7"
+      },
+      {
+        "name": "pastaplease00gohl_loans.json",
+        "source": "original",
+        "mtime": "1594089637",
+        "size": "3352",
+        "format": "JSON",
+        "private": "true",
+        "md5": "8669324d81725c9a671353f188c36aa4",
+        "crc32": "dd3e54cd",
+        "sha1": "473967e5e7c459667cfe9a654ef55d0052d0cafc"
+      },
+      {
+        "name": "pastaplease00gohl_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1281970139",
+        "size": "2888",
+        "md5": "f3ded9cb16cb995d8c074f1ce675507e",
+        "crc32": "5340c389",
+        "sha1": "99de6ddd8b171f32380a49bcd0b0fbc6a743fd96"
+      },
+      {
+        "name": "pastaplease00gohl_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "pastaplease00gohl_xisbn.json",
+        "mtime": "1454703986",
+        "size": "333",
+        "md5": "80579ade9bac3e647dc7dff00f6cdbbf",
+        "crc32": "b730cff7",
+        "sha1": "4f3b7efa4db763df6c69f0f2db284997f02a7469",
+        "private": "true"
+      },
+      {
+        "name": "pastaplease00gohl_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1281970139",
+        "size": "911",
+        "md5": "dbb52f02bf265684d65ca6abd63191cc",
+        "crc32": "81cc493d",
+        "sha1": "6b4ac85e5ce8e7c4793a3d04bb7311089174df1a"
+      },
+      {
+        "name": "pastaplease00gohl_meta.sqlite",
+        "source": "original",
+        "mtime": "1466971950",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "85150e64585b8b5db775a9d71c4047fc",
+        "crc32": "7f5cc6ab",
+        "sha1": "b0b133b2c0c5f721fd129b5f81fe8f178f1b6097"
+      },
+      {
+        "name": "pastaplease00gohl_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1757218721",
+        "size": "3068",
+        "md5": "247e02554027859b1d26bc8367ea1558",
+        "crc32": "057279bd",
+        "sha1": "9b41e217bfa80bff30e3188244a00e3a6b94df24"
+      },
+      {
+        "name": "pastaplease00gohl_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1281970139",
+        "size": "393",
+        "md5": "ea0f2b1294d69fab1662bb3f9e4bf037",
+        "crc32": "2e8dd9b7",
+        "sha1": "0b03b3cc973980c3560538168d57917a599d41b3"
+      },
+      {
+        "name": "pastaplease00gohl_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1313542807",
+        "size": "40734720",
+        "md5": "6be9dc26db68c881dfcd95463e75265b",
+        "crc32": "d82d49f5",
+        "sha1": "ad4bfd4fad77055b1a97e3922c71d5c552282a1c",
+        "private": "true",
+        "filecount": "72"
+      },
+      {
+        "name": "pastaplease00gohl_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "88",
+        "format": "Page Numbers JSON",
+        "original": "pastaplease00gohl_hocr.html",
+        "mtime": "1716342375",
+        "size": "11501",
+        "md5": "9335dacb2613345ee72c2b9f317b32da",
+        "crc32": "0b01695b",
+        "sha1": "849cf41f2285e778ff740867ad589e112180c0fe",
+        "private": "true"
+      },
+      {
+        "name": "pastaplease00gohl_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670840933",
+        "size": "72166",
+        "md5": "feb0d4df6cb4c1a845a28f1b1713e2c0",
+        "crc32": "821d632e",
+        "sha1": "c870702673a013e7a941aa9834adb058f5759562"
+      },
+      {
+        "name": "pastaplease00gohl_xisbn.json",
+        "source": "original",
+        "mtime": "1454674962",
+        "size": "401",
+        "md5": "d724ba683f0f5f368cfa996d3927b632",
+        "crc32": "0720a4b3",
+        "sha1": "ec7515ff06036f50dbdd955a1c10ae9a90d76e72",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1757218721,
+    "item_size": 107669987,
+    "metadata": {
+      "title": "Pasta, please",
+      "creator": "Gohlke, Annette",
+      "subject": "Cooking (Pasta)",
+      "description": [
+        "At head of title: Country woman",
+        "Includes index"
+      ],
+      "publisher": "Milwaukee, WI : Reiman Publications",
+      "date": "1990-01-01",
+      "language": "eng",
+      "isbn": [
+        "0898210429",
+        "9780898210422"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA121814",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-08-16 14:48:59",
+      "updater": "MyH-loader",
+      "identifier": "pastaplease00gohl",
+      "uploader": "my.h@archive.org",
+      "addeddate": "2010-08-16 14:49:01",
+      "publicdate": "2010-08-16 14:49:04",
+      "scanner": "scribe10.shenzhen.archive.org",
+      "repub_seconds": "133",
+      "ppi": "514",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-tom@archive.org",
+      "scandate": "20110817010002",
+      "imagecount": "70",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/pastaplease00gohl",
+      "identifier-ark": "ark:/13960/t8bg3mz40",
+      "scanfee": "150",
+      "sponsordate": "sent20110906",
+      "external-identifier": [
+        "urn:acs6:pastaplease00gohl:pdf:82dd7650-a1dd-4a02-b584-a2400f9de9ec",
+        "urn:acs6:pastaplease00gohl:epub:d1932e44-ebd8-4159-8357-d8fbebc9428b",
+        "urn:oclc:record:1036774316",
+        "urn:lcp:pastaplease00gohl:lcpdf:917eb042-8452-4fe2-a00b-7807ed900cfa",
+        "urn:lcp:pastaplease00gohl:epub:7ba1617b-e823-40fc-b899-61e4dc6e1857"
+      ],
+      "curation": "[curator]scanner-shenzhen-leo@archive.org[/curator][date]20120307031159[/date][state]approved[/state][comment]199[/comment]",
+      "boxid_2": "CH117401",
+      "donor": "alibris",
+      "city": "Milwaukee, WI",
+      "oclc-id": [
+        "25833942",
+        "9467941"
+      ],
+      "lccn": "82050005",
+      "backup_location": "ia903606_4",
+      "openlibrary_edition": "OL3507858M",
+      "openlibrary_work": "OL16038181W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Fri Dec 25 17:00:48 UTC 2020",
+        "Wed Apr 3 11:02:40 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "88",
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia600203.us.archive.org",
+    "uniq": 1802687171,
+    "workable_servers": [
+      "ia600203.us.archive.org",
+      "ia800203.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/25833942?referer=xid"
+          ],
+          "publisher": "Reiman Publications",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "82050005"
+          ],
+          "lang": "eng",
+          "city": "Milwaukee, WI",
+          "author": "edited by Annette Gohlke ; associated editor, Joan Sobczak ; illustration/layout artist, Janet Kumbier.",
+          "year": "1990",
+          "isbn": [
+            "0898210429"
+          ],
+          "title": "Pasta, please",
+          "oclcnum": [
+            "25833942",
+            "9467941"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Gohlke, Annette",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Milwaukee"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

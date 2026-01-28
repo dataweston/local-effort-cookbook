@@ -1,0 +1,116 @@
+{
+  "source": "dpla",
+  "id": "4053c47b7b7a44644b4ca0794ce0e093",
+  "identifier": "4053c47b7b7a44644b4ca0794ce0e093",
+  "title": "The Miriam cook book A collection of tested receipts published by the Miriam Circle-Ladies' Aid Society of the M.E. church, Albion, Michigan...",
+  "subject": [
+    "Methodist Episcopal Church--Michigan--Albion (Calhoun County)",
+    "First Methodist Episcopal Church (Albion, Calhoun County, Mich.)",
+    "Cooking, American",
+    "Cooking--Michigan--Albion (Calhoun County)",
+    "Albion (Calhoun County, Mich.)--Religion"
+  ],
+  "spatial": [
+    "Albion (Calhoun County, Mich.)",
+    "Michigan",
+    "Albion (Calhoun County)"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/003262303",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/4053c47b7b7a44644b4ca0794ce0e093#SourceResource",
+      "creator": [
+        "First Methodist Episcopal Church (Albion, Calhoun County, Mich.). Ladies' Aid Society"
+      ],
+      "date": [
+        {
+          "displayDate": "190]"
+        }
+      ],
+      "extent": [
+        "161 p."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "(MiU)003262303",
+        "sdr-miu003262303",
+        "(OCoLC)39234041",
+        "Hathi: 003262303"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "[Albion, Mich."
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Albion (Calhoun County, Mich.)"
+        },
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Albion (Calhoun County)"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Methodist Episcopal Church--Michigan--Albion (Calhoun County)"
+        },
+        {
+          "name": "First Methodist Episcopal Church (Albion, Calhoun County, Mich.)"
+        },
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Cooking--Michigan--Albion (Calhoun County)"
+        },
+        {
+          "name": "Albion (Calhoun County, Mich.)--Religion"
+        }
+      ],
+      "title": [
+        "The Miriam cook book A collection of tested receipts published by the Miriam Circle-Ladies' Aid Society of the M.E. church, Albion, Michigan..."
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {}
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=RAbiAAAAMAAJ&printsec=frontcover&img=1&zoom=5",
+    "isShownAt": "http://catalog.hathitrust.org/Record/003262303"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Ladies' Aid",
+      "Episcopal",
+      "Methodist"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Church, Ladies' Aid, Episcopal, Methodist; Digitized scan available"
+}

@@ -1,0 +1,493 @@
+{
+  "source": "internet_archive",
+  "identifier": "simplewintermeal00linc",
+  "title": "Simple winter meals",
+  "creator": "LW Press",
+  "year": 2005,
+  "subject": "Cookery",
+  "description": "Cover title",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720808.ca.archive.org",
+          "dir": "/0/items/simplewintermeal00linc"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720808.ca.archive.org",
+          "dir": "/0/items/simplewintermeal00linc"
+        }
+      ]
+    },
+    "created": 1758557840,
+    "d1": "ia601505.us.archive.org",
+    "d2": "ia801505.us.archive.org",
+    "dir": "/7/items/simplewintermeal00linc",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661077598",
+        "size": "21858",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "fd64b6326776cc3f81b1625f6a65dfe7",
+        "crc32": "32273a6b",
+        "sha1": "1208576c1327dc36e0f86cdff0d4d4739afb740a"
+      },
+      {
+        "name": "simplewintermeal00linc.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "simplewintermeal00linc_hocr.html",
+        "mtime": "1758333685",
+        "size": "8479681",
+        "private": "true",
+        "md5": "1403cb0cf4e392eba6ec51280550d560",
+        "crc32": "bc467e1b",
+        "sha1": "c8845e995eb5fef0f3a151c80e908fee3ba6b18a"
+      },
+      {
+        "name": "simplewintermeal00linc.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "simplewintermeal00linc_jp2.zip",
+        "md5": "81976cc93c7c7a89ea091e7044fe1714",
+        "mtime": "1281153304",
+        "size": "254499",
+        "crc32": "5f542698",
+        "sha1": "75e8286304b558ac7ed25edc65e2c575463bc7b4"
+      },
+      {
+        "name": "simplewintermeal00linc.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "simplewintermeal00linc.pdf",
+        "mtime": "1758333580",
+        "size": "4807887",
+        "md5": "d3684c2d20a16b77a710b11524f6614a",
+        "crc32": "242ecf45",
+        "sha1": "3a04393672d0cc5fa61dd5ab0824ecdc01fce727"
+      },
+      {
+        "name": "simplewintermeal00linc.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "simplewintermeal00linc_page_numbers.json",
+        "mtime": "1716030547",
+        "size": "4509624",
+        "md5": "2056c06772d6a03370119c8b5b45b79f",
+        "crc32": "7047c21e",
+        "sha1": "2f56f853b9e6de1342638db707b1f8b6f9b27368",
+        "private": "true"
+      },
+      {
+        "name": "simplewintermeal00linc_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "simplewintermeal00linc_jp2.zip",
+        "md5": "6c604bfb95e89d6e9b21543d5641d247",
+        "mtime": "1281154326",
+        "size": "367532",
+        "crc32": "66f98cd9",
+        "sha1": "532e8431afe770821b4489df0ee14c405758d65d",
+        "private": "true"
+      },
+      {
+        "name": "simplewintermeal00linc_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "simplewintermeal00linc_abbyy.gz",
+        "mtime": "1661077544",
+        "size": "304223",
+        "md5": "17c2239fd663eb6ab9cc4a87ccc9037d",
+        "crc32": "edbbc1cb",
+        "sha1": "cc6185e1002f059270d5ca9e5308041f12d3dd3b",
+        "private": "true"
+      },
+      {
+        "name": "simplewintermeal00linc_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "simplewintermeal00linc_scandata.xml",
+        "mtime": "1671269225",
+        "size": "780",
+        "md5": "3cc34e3414686f9d8a233b39130de64e",
+        "crc32": "170b13e1",
+        "sha1": "17e8c0a4b767edbf36fa4c15590707af61a989e7",
+        "private": "true"
+      },
+      {
+        "name": "simplewintermeal00linc_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "78d5037b08b4a99f863927b0369b3fa0",
+        "mtime": "1279144737",
+        "size": "514",
+        "crc32": "59812ac9",
+        "sha1": "e70ea205c7fc3c25d15a9e1b3c8e013d841351e3"
+      },
+      {
+        "name": "simplewintermeal00linc_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "simplewintermeal00linc_djvu.xml",
+        "mtime": "1716030598",
+        "size": "27849",
+        "md5": "3252b8ae3d8c063dceee5df7485e1763",
+        "crc32": "713000f8",
+        "sha1": "53e8176825a351eba9a56188cc37bdbf23a2ec26",
+        "private": "true"
+      },
+      {
+        "name": "simplewintermeal00linc_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "simplewintermeal00linc_hocr.html",
+        "mtime": "1716029670",
+        "size": "342350",
+        "md5": "12d4929444dd19fb3665788d0fc6c5dd",
+        "crc32": "eee342ce",
+        "sha1": "9842de41e3789bb9621217ee060bbaed51fa2244",
+        "private": "true"
+      },
+      {
+        "name": "simplewintermeal00linc_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "simplewintermeal00linc.pdf",
+        "mtime": "1716030601",
+        "size": "4501482",
+        "md5": "ba7488a94c1c0fd4cf3995483976d503",
+        "crc32": "c583be28",
+        "sha1": "fcf264c9fa80d103aed51ed2d8eafefe061a284d"
+      },
+      {
+        "name": "simplewintermeal00linc_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "0ecf741a9b78b02f109e77b68d9bbcc4",
+        "summation": "md5"
+      },
+      {
+        "name": "simplewintermeal00linc_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "simplewintermeal00linc_chocr.html.gz",
+        "mtime": "1661077569",
+        "size": "675437",
+        "md5": "84d54564735af2572013b662a77eeb19",
+        "crc32": "7d25bfc9",
+        "sha1": "e787245ec60b9760b0d80d77144843e2d6f91f4d",
+        "private": "true"
+      },
+      {
+        "name": "simplewintermeal00linc_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "simplewintermeal00linc_hocr.html",
+        "mtime": "1661077579",
+        "size": "392",
+        "md5": "c33ad02709c3cb0dc43ca089d6b2902b",
+        "crc32": "d44f7271",
+        "sha1": "aa3ae12f762cbc79d64d4164b2169f95d16f636b",
+        "private": "true"
+      },
+      {
+        "name": "simplewintermeal00linc_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "420",
+        "word_conf_11_20": "129",
+        "word_conf_21_30": "276",
+        "word_conf_31_40": "218",
+        "word_conf_41_50": "475",
+        "word_conf_51_60": "571",
+        "word_conf_61_70": "785",
+        "word_conf_71_80": "564",
+        "word_conf_81_90": "165",
+        "word_conf_91_100": "350",
+        "format": "OCR Search Text",
+        "original": "simplewintermeal00linc_hocr.html",
+        "mtime": "1661077587",
+        "size": "8634",
+        "md5": "969a1f991d30f0fc8c3dccede953056d",
+        "crc32": "6c6ea1f6",
+        "sha1": "ccc953fc0a21476021f118eb735e4a09bd85c693",
+        "private": "true"
+      },
+      {
+        "name": "simplewintermeal00linc_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "simplewintermeal00linc_orig_jp2.tar",
+        "md5": "e04bfea749de761374c6da2038bef2bc",
+        "mtime": "1281153246",
+        "size": "13539930",
+        "crc32": "59cac5da",
+        "sha1": "99323647f244191ba49bb413cb25cd6be44edc8c",
+        "private": "true",
+        "filecount": "38"
+      },
+      {
+        "name": "simplewintermeal00linc_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "simplewintermeal00linc.epub",
+        "mtime": "1758333721",
+        "size": "8510745",
+        "md5": "1e329dc616be54576455df86891324a0",
+        "crc32": "82b2484c",
+        "sha1": "1786f16e970a15bff2dff53ca32d12501bc67601"
+      },
+      {
+        "name": "simplewintermeal00linc_loans.json",
+        "source": "original",
+        "mtime": "1593045446",
+        "size": "2842",
+        "format": "JSON",
+        "private": "true",
+        "md5": "3a64dfbe935a6cf4323651abdc45a5a6",
+        "crc32": "2ab450ed",
+        "sha1": "fa622dfc0dc00e36c24c702878d3b16a1aa8f4c5"
+      },
+      {
+        "name": "simplewintermeal00linc_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "f1ec0bf47d05fa2ff572cac5e22b4ec9",
+        "mtime": "1279144737",
+        "size": "2540",
+        "crc32": "526ac40",
+        "sha1": "1670a963cf600f5b2458aab406ba88caf69b3926"
+      },
+      {
+        "name": "simplewintermeal00linc_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "simplewintermeal00linc_xisbn.json",
+        "mtime": "1454746090",
+        "size": "314",
+        "md5": "8f375aca5c4524816a9028a0b090eccd",
+        "crc32": "900da1a7",
+        "sha1": "22e6f2606134e0b593b89d12e4132fb1a1c21e37",
+        "private": "true"
+      },
+      {
+        "name": "simplewintermeal00linc_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "bdbaff3aae76d264d0918bb3b1ba5e85",
+        "mtime": "1279144737",
+        "size": "713",
+        "crc32": "da8b84da",
+        "sha1": "59008f856154e23b4ac2b283c5d29b2ffa24abde"
+      },
+      {
+        "name": "simplewintermeal00linc_meta.sqlite",
+        "source": "original",
+        "mtime": "1467945416",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "b7e013b7e582396db35226aea4d9180a",
+        "crc32": "86574805",
+        "sha1": "73709643c73f431493cec23366483131e20a451d"
+      },
+      {
+        "name": "simplewintermeal00linc_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1758333721",
+        "size": "2819",
+        "md5": "da164e95f0521b6af4f2a6bcf7cba2e6",
+        "crc32": "c4654b21",
+        "sha1": "586b594744f69d2e6e20167fb189f3fbb5975598"
+      },
+      {
+        "name": "simplewintermeal00linc_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "cfce92a8b1eef70aff75717ba1d722b9",
+        "mtime": "1279144737",
+        "size": "458",
+        "crc32": "283c9ceb",
+        "sha1": "d94f0b31488cc97df1feb13ac1a15adf24f28333"
+      },
+      {
+        "name": "simplewintermeal00linc_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "ac022b8c6218132703882aa887d775ad",
+        "mtime": "1281152633",
+        "size": "20715520",
+        "crc32": "2aea338f",
+        "sha1": "eb62f14b907f7ea9bf3502e425cd6cfe6753e15a",
+        "private": "true",
+        "filecount": "38"
+      },
+      {
+        "name": "simplewintermeal00linc_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "simplewintermeal00linc_hocr.html",
+        "mtime": "1716030086",
+        "size": "5558",
+        "md5": "a97a3d970c5d86fceeda2e43c5a26e4a",
+        "crc32": "48b49344",
+        "sha1": "f857a00bc754a998effcc50e6ff83c73271dec52",
+        "private": "true"
+      },
+      {
+        "name": "simplewintermeal00linc_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "1ab6126202bfd95e99b1da49a6ce1522",
+        "mtime": "1671269225",
+        "size": "20467",
+        "crc32": "a5bebddd",
+        "sha1": "da2403dda236ba2844a3429b5bbd7f157ce8dc27"
+      },
+      {
+        "name": "simplewintermeal00linc_xisbn.json",
+        "source": "original",
+        "mtime": "1454738090",
+        "size": "275",
+        "md5": "2dc9ca29694dc81c5c16945a823f7ac5",
+        "crc32": "09346d71",
+        "sha1": "72373f703521d3056e4bd322b290aec8db51afa8",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1758333721,
+    "item_size": 67111067,
+    "metadata": {
+      "title": "Simple winter meals",
+      "creator": "LW Press",
+      "subject": "Cookery",
+      "description": "Cover title",
+      "publisher": "Lincolnwood, IL : LW Press",
+      "date": "2005-01-01",
+      "language": "eng",
+      "isbn": [
+        "1412723574",
+        "9781412723572"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA123805",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sfdowntown",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-07-14 21:58:57",
+      "updater": "adriana.g@archive.org",
+      "identifier": "simplewintermeal00linc",
+      "uploader": "adriana.g@archive.org",
+      "addeddate": "2010-07-14 21:58:59",
+      "publicdate": "2010-07-14 21:59:03",
+      "ppi": "400",
+      "camera": "Canon 5D",
+      "operator": "scanner-romeo-baful@archive.org",
+      "scanner": "scribe11.sfdowntown.archive.org",
+      "scandate": "20100807025625",
+      "imagecount": "36",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/simplewintermeal00linc",
+      "identifier-ark": "ark:/13960/t4th9839x",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20100909001950[/date][state]approved[/state]",
+      "boxid_2": "CH117501",
+      "city": "Lincolnwood, IL",
+      "oclc-id": "85898760",
+      "lccn": "2006281979",
+      "backup_location": "ia903605_30",
+      "external-identifier": [
+        "urn:acs6:simplewintermeal00linc:pdf:7bf0813a-e2e3-48bf-8470-dbeffe3d288f",
+        "urn:acs6:simplewintermeal00linc:epub:ef7194ed-4a1d-46ca-bc1c-06c48b021687",
+        "urn:oclc:record:1036867126",
+        "urn:lcp:simplewintermeal00linc:lcpdf:aed34daf-612d-4aaf-b3cf-8330a7e0bbc1",
+        "urn:lcp:simplewintermeal00linc:epub:06f56c90-c95a-4aca-be3b-f2703a18ab46"
+      ],
+      "openlibrary_edition": "OL17437120M",
+      "openlibrary_work": "OL18074919W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Sat Dec 26 5:34:19 UTC 2020",
+        "Wed Apr 3 13:36:59 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23"
+    },
+    "server": "ia801505.us.archive.org",
+    "uniq": 703152398,
+    "workable_servers": [
+      "ia801505.us.archive.org",
+      "ia601505.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/85898760?referer=xid"
+          ],
+          "publisher": "LW Press",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2006281979"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "2005",
+          "isbn": [
+            "1412723574"
+          ],
+          "title": "Simple winter meals.",
+          "oclcnum": [
+            "85898760"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "LW Press",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

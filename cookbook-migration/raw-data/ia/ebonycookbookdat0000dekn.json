@@ -1,0 +1,537 @@
+{
+  "source": "internet_archive",
+  "identifier": "ebonycookbookdat0000dekn",
+  "title": "The Ebony cookbook : a date with a dish",
+  "creator": "De Knight, Freda, 1910-1963",
+  "year": 1973,
+  "subject": [
+    "Cooking, American",
+    "African American cooking"
+  ],
+  "description": [
+    "384 p. 22 cm",
+    "First published in 1948 under title: A date with a dish"
+  ],
+  "metadata": {
+    "created": 1758555367,
+    "d1": "ia904600.us.archive.org",
+    "d2": "ia804600.us.archive.org",
+    "dir": "/26/items/ebonycookbookdat0000dekn",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659910229",
+        "size": "22344",
+        "md5": "189404a7e2592066ded2949cafe4cd22",
+        "crc32": "46f3ae7e",
+        "sha1": "bd08721722432a629975dbaebc7fd01f1904f43d",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "ebonycookbookdat0000dekn_hocr.html",
+        "mtime": "1753259843",
+        "size": "976487",
+        "private": "true",
+        "md5": "d517ea1ba9221842450058efffcd8d25",
+        "crc32": "b261c94b",
+        "sha1": "2e8c87f794f696a842bd5024e30c8ce05636c351"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "ebonycookbookdat0000dekn.pdf",
+        "mtime": "1753259815",
+        "size": "16794766",
+        "md5": "afd9f6d7c46f9b931223d45acdfda0d7",
+        "crc32": "9bc0d4e5",
+        "sha1": "1f7393ef7ce14c606dfd3109025c6620cea8ed6c"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "ebonycookbookdat0000dekn_page_numbers.json",
+        "mtime": "1720299260",
+        "size": "16496552",
+        "md5": "7880e50da005b4307cdb1e22580362a4",
+        "crc32": "b7eb4995",
+        "sha1": "5f215b20c52f1ce968a97fac817119c6f4d04d74",
+        "private": "true"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-1-g862e",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9829",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "ebonycookbookdat0000dekn_jp2.zip",
+        "mtime": "1643276094",
+        "size": "8598832",
+        "md5": "94d94c7f2c99989f4ebdd48e904a78d9",
+        "crc32": "e314b978",
+        "sha1": "7f09940105e15ea2c29f370d49b71f238ff63e3d",
+        "private": "true"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "ebonycookbookdat0000dekn_scandata.xml",
+        "mtime": "1669843529",
+        "size": "788",
+        "md5": "a06fb1ba6b5cf621586624e135171b07",
+        "crc32": "ccfdc39d",
+        "sha1": "fc15f4cc66e0cb407e192329888168b096ffe6db",
+        "private": "true"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1643267941",
+        "size": "1107",
+        "md5": "a58b5d758050048bb1e048ed838d85b8",
+        "crc32": "ae8612ae",
+        "sha1": "4b93ffd478d60017104f09a320381fc5a1f4b302"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "ebonycookbookdat0000dekn_djvu.xml",
+        "mtime": "1643276169",
+        "size": "623468",
+        "md5": "c6322d089a42bb264c2ae5d14d27b362",
+        "crc32": "c50bde48",
+        "sha1": "c47f7e4b0a9abe1f36b2d5f4a4510603f2b0f313",
+        "private": "true"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "ebonycookbookdat0000dekn_hocr.html",
+        "mtime": "1643276137",
+        "size": "8625935",
+        "md5": "21f3a5c3797c4ff00e9222285bf3e1dc",
+        "crc32": "cb2dd859",
+        "sha1": "05af7d505656895b0fb2cedb7767ef8c12e2205f",
+        "private": "true"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "ebonycookbookdat0000dekn.pdf",
+        "mtime": "1720300114",
+        "size": "16394283",
+        "md5": "3811971d5999dfa6552f4d3dfea9a538",
+        "crc32": "c6f71e6e",
+        "sha1": "c732e7b3193764d8721c9b8acba18d46e81172ae"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_events.json",
+        "source": "original",
+        "mtime": "1643267533",
+        "size": "115",
+        "md5": "fc5489beaef948b4884fbdfc203725aa",
+        "crc32": "52c9d641",
+        "sha1": "0292a3809c754ab7b537a1683b2be3b17b35caa8",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "c39140138e34c481e360268777178e66",
+        "summation": "md5"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.14",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9829",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "ebonycookbookdat0000dekn_chocr.html.gz",
+        "mtime": "1643276121",
+        "size": "16454072",
+        "md5": "02317923c1fed98badd66c020f5f98d1",
+        "crc32": "77a63b1d",
+        "sha1": "adf139f200780868387d9a9f08dcd93826977805",
+        "private": "true"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "ebonycookbookdat0000dekn_hocr.html",
+        "mtime": "1643276146",
+        "size": "4909",
+        "md5": "5a539344e9a44c5186431f38bc437f90",
+        "crc32": "fdfcaff6",
+        "sha1": "148ab0c9736ca234f9fa4eeb3d26e985fbdb20bc",
+        "private": "true"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "443",
+        "word_conf_11_20": "232",
+        "word_conf_21_30": "271",
+        "word_conf_31_40": "376",
+        "word_conf_41_50": "442",
+        "word_conf_51_60": "454",
+        "word_conf_61_70": "619",
+        "word_conf_71_80": "1132",
+        "word_conf_81_90": "2280",
+        "word_conf_91_100": "99102",
+        "format": "OCR Search Text",
+        "original": "ebonycookbookdat0000dekn_hocr.html",
+        "mtime": "1643276160",
+        "size": "187719",
+        "md5": "61a7b6e1e469a5e16551ec46519bb611",
+        "crc32": "801f26fa",
+        "sha1": "de2f07bc1273df596f3eb69c615ff8b2979ab102",
+        "private": "true"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "ebonycookbookdat0000dekn_orig_jp2.tar",
+        "mtime": "1643274101",
+        "size": "142262896",
+        "md5": "efc8dca09c1db672619b6ff998f3f498",
+        "crc32": "549b2662",
+        "sha1": "37192274f3fdaf66bf0f21309cf8274cf6defbd7",
+        "private": "true",
+        "filecount": "410"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "ebonycookbookdat0000dekn.epub",
+        "mtime": "1753259887",
+        "size": "999742",
+        "md5": "23fa9fd3c1a9caaa13b6f4f1bf8e2ddc",
+        "crc32": "2bcd2e6a",
+        "sha1": "aaafca1b99aa044fbd3f46da2cbad5970508a0d9"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_marc.xml",
+        "source": "original",
+        "mtime": "1639574180",
+        "size": "2884",
+        "md5": "07925adb1afca8ffea72ef9baca50e7d",
+        "crc32": "8b37a079",
+        "sha1": "3d4e89516dffda3d59d152eaf7b8f37407a0c2bf",
+        "format": "MARC"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_meta.mrc",
+        "source": "original",
+        "mtime": "1639574176",
+        "size": "952",
+        "md5": "05aa55b2ccf9ee503dab3fc976819b6b",
+        "crc32": "f45c5f9a",
+        "sha1": "2b5de3f4b021468a51bb22ca9148fc9f323ba54d",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_meta.sqlite",
+        "source": "original",
+        "mtime": "1643267875",
+        "size": "45056",
+        "md5": "f8517c4626c90b86bf8da8c18dd0891e",
+        "crc32": "8736c8f4",
+        "sha1": "324901c8bdbf1160014654f1039fc69fadd654ad",
+        "format": "Metadata"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_meta.xml",
+        "source": "original",
+        "mtime": "1753259887",
+        "size": "3261",
+        "md5": "dd128e7fdda9e11c3d37d2d587fc8552",
+        "crc32": "5cf4a604",
+        "sha1": "1ce42127ba03bfde8cd5a06578b3ef5db95a0e45",
+        "format": "Metadata"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1643267872",
+        "size": "802017280",
+        "md5": "d45d29bac85737b715b6a345955c29cc",
+        "crc32": "8d86e358",
+        "sha1": "3949666bf2f6d9db206ed13df65592418ad5ec62",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "410"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "ebonycookbookdat0000dekn_hocr.html",
+        "mtime": "1720299260",
+        "size": "68668",
+        "md5": "c61aa2d3958340f2b9cb7c49f6baa2c9",
+        "crc32": "1a63b808",
+        "sha1": "27b16720a58fd15a03563cd7feae917052a5b5b0",
+        "private": "true"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_scandata.xml",
+        "source": "original",
+        "mtime": "1669843529",
+        "size": "444877",
+        "md5": "06fcd2ac59b989c06a05394daea7351b",
+        "crc32": "bba78c4a",
+        "sha1": "4e23465974cee05bd2ab566faf7e67fc22bddab0",
+        "format": "Scandata"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_slip.png",
+        "source": "original",
+        "mtime": "1639562675",
+        "size": "44042",
+        "md5": "a404a5603dd5f9d49d24ec5056514b2b",
+        "crc32": "02abe8a1",
+        "sha1": "66a656977fb8fac79165949320f4742c7fa87cf8",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "ebonycookbookdat0000dekn_slip.png",
+        "mtime": "1643267943",
+        "size": "8895",
+        "md5": "0a92dd9d53d37865fe7ec16019068dc4",
+        "crc32": "5169cfd0",
+        "sha1": "16a8e6e19583d8ae794ddf987ae250b681d52626",
+        "private": "true"
+      },
+      {
+        "name": "ebonycookbookdat0000dekn_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "ebonycookbookdat0000dekn_djvu.xml",
+        "mtime": "1669843504",
+        "size": "630",
+        "md5": "85a9875f6fb523afa39a6ff7015d2702",
+        "crc32": "d315be39",
+        "sha1": "23092bba9861f3ff9d695acdb247c36d02173366",
+        "private": "true"
+      },
+      {
+        "name": "logs/ebonycookbookdat0000dekn_iabdash_2021-12-1521:16:23.log",
+        "source": "original",
+        "mtime": "1639574187",
+        "size": "1365",
+        "md5": "ca7d3f1509da1bc8274daeb96d28981c",
+        "crc32": "c555b38a",
+        "sha1": "6897682b37a016b6d76dd641a0189aa91be56d90",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/ebonycookbookdat0000dekn_scanning_2021-12-1521:16:32.log",
+        "source": "original",
+        "mtime": "1639574195",
+        "size": "2111979",
+        "md5": "711ccf84f7bec5d50eaecb06e41a9a11",
+        "crc32": "4b8860f1",
+        "sha1": "982e51760364fdcefa69f5513cb062ae0bd582f2",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/ebonycookbookdat0000dekn_scanning_2022-01-2712:56:50.log",
+        "source": "original",
+        "mtime": "1643259414",
+        "size": "687273",
+        "md5": "2935dcddc4e3cdca8629d6747b0d38de",
+        "crc32": "d086d04f",
+        "sha1": "3e2f27ea568577ca7372ade7ab7a9fd3fe322784",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/ebonycookbookdat0000dekn_status_history_2021-12-1521:16:27.log",
+        "source": "original",
+        "mtime": "1639574191",
+        "size": "408",
+        "md5": "931f3a2d8c5da34ac51c511c3283caf7",
+        "crc32": "cbc2e36a",
+        "sha1": "f7211f625b3b827180ad7126776a7101fb822cf5",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753259887,
+    "item_size": 1033881585,
+    "metadata": {
+      "identifier": "ebonycookbookdat0000dekn",
+      "boxid": "IA40329324",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "De Knight, Freda, 1910-1963",
+      "date": "1973-01-01",
+      "description": [
+        "384 p. 22 cm",
+        "First published in 1948 under title: A date with a dish"
+      ],
+      "isbn": "0874850037",
+      "language": "eng",
+      "lccn": "72013963",
+      "mediatype": "texts",
+      "old_pallet": "IA-WL-1200081",
+      "openlibrary_edition": "OL5293403M",
+      "openlibrary_work": "OL7140659W",
+      "operator": "associate-jerelyn-gonzaga@archive.org",
+      "publisher": "Chicago, IL : Johnson Pub. Co.",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station20.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "0874850037",
+      "subject": [
+        "Cooking, American",
+        "African American cooking"
+      ],
+      "title": "The Ebony cookbook : a date with a dish",
+      "tts_version": "4.5-initial-80-gce32ee1e",
+      "uploader": "station20.cebu@archive.org",
+      "publicdate": "2021-12-15 10:05:02",
+      "access-restricted-item": "true",
+      "imagecount": "410",
+      "scandate": "20211215142608",
+      "sent_to_scribe": "station20.cebu.archive.org",
+      "ppi": "360",
+      "republisher_operator": "associate-louvette-cabusas@archive.org;associate-ritzell-pardillo@archive.org",
+      "republisher_date": "20220127150402",
+      "republisher_time": "970",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/ebonycookbookdat0000dekn",
+      "identifier-ark": "ark:/13960/s2r4pg24v8v",
+      "bookplateleaf": "0006",
+      "ocr": "tesseract 5.0.0-1-g862e",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.14",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9829",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "100",
+      "pdf_module_version": "0.0.17",
+      "external-identifier": [
+        "urn:acs6:ebonycookbookdat0000dekn:pdf:dde9d704-2ed8-4a82-ba6d-c9714b7f72a9",
+        "urn:oclc:record:1301971006",
+        "urn:lcp:ebonycookbookdat0000dekn:lcpdf:33f2eac2-aced-4659-a8ba-02c1a94ecd90",
+        "urn:lcp:ebonycookbookdat0000dekn:epub:3d811d65-d6d4-45cd-b666-9ae9da1ce716"
+      ],
+      "addeddate": "2022-01-27 10:06:53",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20220131",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia804600.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "americanuniversity-ol": {
+          "notes": {
+            "isbn": [
+              "9780874850031"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-07-11 03:10:30.946308"
+        },
+        "kalamazoocollege-ol": {
+          "notes": {
+            "isbn": [
+              "9780874850031"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-07-14 02:58:46.126135"
+        },
+        "wilsoncollege-ol": {
+          "notes": {
+            "isbn": [
+              "9780874850031"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-07-13 00:51:23.690984"
+        }
+      }
+    },
+    "uniq": 283269496,
+    "workable_servers": [
+      "ia804600.us.archive.org",
+      "ia904600.us.archive.org"
+    ]
+  },
+  "institution": "De Knight, Freda, 1910-1963",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

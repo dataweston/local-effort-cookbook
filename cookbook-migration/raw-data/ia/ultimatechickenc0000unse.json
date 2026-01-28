@@ -1,0 +1,538 @@
+{
+  "source": "internet_archive",
+  "identifier": "ultimatechickenc0000unse",
+  "title": "The ultimate chicken cookbook",
+  "creator": null,
+  "year": 2009,
+  "subject": "Cooking (Chicken)",
+  "description": [
+    "320 pages : 29 cm",
+    "Includes indexes"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/ultimatechickenc0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/ultimatechickenc0000unse"
+        }
+      ]
+    },
+    "created": 1758558369,
+    "d1": "ia903108.us.archive.org",
+    "d2": "ia803108.us.archive.org",
+    "dir": "/31/items/ultimatechickenc0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661200528",
+        "size": "23843",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "d8a17f405de9b8a321d298b4d3cbca9d",
+        "crc32": "c3d778f9",
+        "sha1": "2ea4d2aada7e5ed91d2d9e642088408262bb24f5"
+      },
+      {
+        "name": "logs/ultimatechickenc0000unse_iabdash_2019-09-1920:22:56.log",
+        "source": "original",
+        "mtime": "1568895780",
+        "size": "1358",
+        "md5": "bc3ac733c298d1d5b2e6f9056d03f71a",
+        "crc32": "9c88b4ac",
+        "sha1": "3bf8015d71a1e7d07f6c46b666fe3a669727020e",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/ultimatechickenc0000unse_scanning_2019-09-1920:23:01.log",
+        "source": "original",
+        "mtime": "1568895786",
+        "size": "1196270",
+        "md5": "3cc330bdd6e455975a73fc47f8b6e4ba",
+        "crc32": "2aa04233",
+        "sha1": "dcf9c8e13316d8c6cd325849982b29635902aae8",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "ultimatechickenc0000unse_hocr.html",
+        "mtime": "1754136234",
+        "size": "231179099",
+        "private": "true",
+        "md5": "b96ab6169b02f7c23e9d367f4c88a837",
+        "crc32": "e4976b9b",
+        "sha1": "19414c06f367030cb53e391d24226cd71cd650d1"
+      },
+      {
+        "name": "ultimatechickenc0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "ultimatechickenc0000unse.pdf",
+        "mtime": "1754135888",
+        "size": "54880356",
+        "md5": "ac28101541f26625c706cb81da514d5b",
+        "crc32": "98c05243",
+        "sha1": "97ce8a4d3fb49397e77f7923de3e141108cd18b1"
+      },
+      {
+        "name": "ultimatechickenc0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "ultimatechickenc0000unse_page_numbers.json",
+        "mtime": "1726092928",
+        "size": "54378634",
+        "md5": "6eae4299e4147c42e61d9e8ef91361fa",
+        "crc32": "e894b5a5",
+        "sha1": "ae6cf45e157f64e56df14e9b7810fd850c9f3359",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "ultimatechickenc0000unse_jp2.zip",
+        "mtime": "1569213756",
+        "size": "9975733",
+        "md5": "f99d3fe8a8b62df11188493456c4006b",
+        "crc32": "6f6468aa",
+        "sha1": "55d8fa359ce486c77cea2e1ac9bbdd208a7db27b",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "ultimatechickenc0000unse_abbyy.gz",
+        "mtime": "1661199838",
+        "size": "8396973",
+        "md5": "5b7ca42070012657a19cc83051956d9d",
+        "crc32": "942878e2",
+        "sha1": "57dda02b24acb0053fe10f526796b12065d0b1dd",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "ultimatechickenc0000unse_scandata.xml",
+        "mtime": "1671550576",
+        "size": "789",
+        "md5": "1f07f7f1aa2562937d5b0f24c5b3dfbc",
+        "crc32": "290c5f8b",
+        "sha1": "625dfb9cbc47905afc81713377e274be995c1370",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1661199646",
+        "size": "1121",
+        "md5": "8b2b8a5b99e17ba0bc0b68a96022393c",
+        "crc32": "c85bd163",
+        "sha1": "bcd10117fa37c51590036a065df85a26d804ae19"
+      },
+      {
+        "name": "ultimatechickenc0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "ultimatechickenc0000unse_djvu.xml",
+        "mtime": "1661200518",
+        "size": "752240",
+        "md5": "16e1e169222bd744ac444f93831ef366",
+        "crc32": "a8beb90d",
+        "sha1": "28c76b58b53a5a9957dca8af60b77b4efe6d17e0",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "ultimatechickenc0000unse_hocr.html",
+        "mtime": "1661200183",
+        "size": "9078386",
+        "md5": "9ada76b4037a00a1e12db4ac1ecb32c5",
+        "crc32": "d6c47382",
+        "sha1": "4664fa26e2064fb23b2a68b0beaf37569c37ee1f",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "ultimatechickenc0000unse_abbyy.gz",
+        "mtime": "1569217499",
+        "size": "28035956",
+        "md5": "fff238f7d5c389eb8f5b169dee686af8",
+        "crc32": "2d9f7f76",
+        "sha1": "34825ec754e191c7661219bee31727a9d3cda025"
+      },
+      {
+        "name": "ultimatechickenc0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "ultimatechickenc0000unse.pdf",
+        "mtime": "1726094227",
+        "size": "54050840",
+        "md5": "8615828eda6d9aa92437677f14e3678c",
+        "crc32": "26ec9eb0",
+        "sha1": "cf92a2776e0b2a76d1ce02047c560bfbc43d8888"
+      },
+      {
+        "name": "ultimatechickenc0000unse_events.json",
+        "source": "original",
+        "mtime": "1569202191",
+        "size": "59",
+        "md5": "da8a2884be40e2d4862da2ef34fbbce5",
+        "crc32": "652326e1",
+        "sha1": "b402183d0da3df7936de87f3796564dd85ea2664",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "a51cd5b9b96178329a34f530f041cca3",
+        "summation": "md5"
+      },
+      {
+        "name": "ultimatechickenc0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "ultimatechickenc0000unse_chocr.html.gz",
+        "mtime": "1661200069",
+        "size": "19340377",
+        "md5": "f0210bf8138960eab0766b378102df51",
+        "crc32": "598d8b78",
+        "sha1": "a913541e827bf664c868c171a880bbb8ee8d8bfc",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "ultimatechickenc0000unse_hocr.html",
+        "mtime": "1661200370",
+        "size": "3902",
+        "md5": "0da51930eeed199585bec3a2e0e92b9b",
+        "crc32": "ea7307cc",
+        "sha1": "e5662fbbf01ba28996b952a953f52c2e42ef0886",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "331",
+        "word_conf_11_20": "254",
+        "word_conf_21_30": "534",
+        "word_conf_31_40": "1030",
+        "word_conf_41_50": "1382",
+        "word_conf_51_60": "2146",
+        "word_conf_61_70": "5037",
+        "word_conf_71_80": "12398",
+        "word_conf_81_90": "28891",
+        "word_conf_91_100": "53930",
+        "format": "OCR Search Text",
+        "original": "ultimatechickenc0000unse_hocr.html",
+        "mtime": "1661200474",
+        "size": "182845",
+        "md5": "9ae5d59183c7917475f1263d3dfd99d0",
+        "crc32": "a1be4805",
+        "sha1": "d79c936fa46b4c5a54f59663b06e3b95ac49a749",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "ultimatechickenc0000unse_orig_jp2.tar",
+        "mtime": "1569210872",
+        "size": "374489214",
+        "md5": "23e38069f94103f820c14ddef4ac8c4d",
+        "crc32": "29809e33",
+        "sha1": "27a79fd6dbcca82ae0bdd78fb4306e127f3a2962",
+        "private": "true",
+        "filecount": "330"
+      },
+      {
+        "name": "ultimatechickenc0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "ultimatechickenc0000unse.epub",
+        "mtime": "1754136312",
+        "size": "231568654",
+        "md5": "e8e4c4637a80624205d8edae0dfcbbbe",
+        "crc32": "42dfd7fe",
+        "sha1": "922b9fdcc2d66fe9654f13d5aadf7d408a4d5299"
+      },
+      {
+        "name": "ultimatechickenc0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593080425",
+        "size": "1348",
+        "format": "JSON",
+        "private": "true",
+        "md5": "ef5602e9fbb0cb9676b260776ea55695",
+        "crc32": "f573fd6c",
+        "sha1": "c6f019221fec7e9363bbe0d091b1c0097d887b38"
+      },
+      {
+        "name": "ultimatechickenc0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1661199644",
+        "size": "4253",
+        "format": "MARC",
+        "md5": "3d9be1e5a3f18fcd2bb1179f54ef32ed",
+        "crc32": "dbed3cdb",
+        "sha1": "28ee404f2374f0b76b47b3790f9f454c4af7b8e4"
+      },
+      {
+        "name": "ultimatechickenc0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1568895776",
+        "size": "1202",
+        "md5": "525ecbf97d59c291b76378083a2a2151",
+        "crc32": "6c417fa2",
+        "sha1": "ccd89d801bbaff4eed8f003c43aab645e3ae9782",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "ultimatechickenc0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1569202372",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "3f69c43365627639b5bc22c090afeb28",
+        "crc32": "218990a1",
+        "sha1": "b2a46685b38b0c00b256dbf0f05cc9b34e6d233f"
+      },
+      {
+        "name": "ultimatechickenc0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1754136313",
+        "size": "2966",
+        "format": "Metadata",
+        "md5": "a5b11e0f7ab85002930f9ef65729b6c8",
+        "crc32": "a20deb72",
+        "sha1": "28c4ed6d0feb32d0b79d7978850e24c8ed5eaab4"
+      },
+      {
+        "name": "ultimatechickenc0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1569202371",
+        "size": "719677440",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "8d0584e0c699afbb5d97e84c16b8fe4b",
+        "crc32": "1d1d8b19",
+        "sha1": "4222e4fb3205c12e2797a7f36eff55ecc57f1d3b",
+        "filecount": "330"
+      },
+      {
+        "name": "ultimatechickenc0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "ultimatechickenc0000unse_hocr.html",
+        "mtime": "1726092901",
+        "size": "55335",
+        "md5": "5c1989f94b1499ec03b2b025b2f4a59d",
+        "crc32": "bc96a1b8",
+        "sha1": "fba4b84b14aaeacb9d188866a62b6d8a8af93720",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671550575",
+        "size": "337116",
+        "format": "Scandata",
+        "md5": "9cf7fb20e45ba91fb7635ed021d4b8ae",
+        "crc32": "58e91128",
+        "sha1": "592676197b5ec0a54f04f9bb8faec8820ba55d7e"
+      },
+      {
+        "name": "ultimatechickenc0000unse_slip.png",
+        "source": "original",
+        "mtime": "1568882984",
+        "size": "39834",
+        "md5": "76829e89656b95633ec2da5b783fe5a3",
+        "crc32": "b67b8897",
+        "sha1": "830aeef3512342fda9cc31dbdc8d2457f677608f",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "ultimatechickenc0000unse_slip.png",
+        "mtime": "1569202445",
+        "size": "5665",
+        "md5": "6d7e14813dc59c4ee67b9c0a480dfc63",
+        "crc32": "977723e9",
+        "sha1": "d01f3cc8521cd085f5552450e725de6648dce323",
+        "private": "true"
+      },
+      {
+        "name": "ultimatechickenc0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "ultimatechickenc0000unse_djvu.xml",
+        "mtime": "1671549995",
+        "size": "576",
+        "md5": "f3ac65d97e2b4e75e031f77ba2b2fa9f",
+        "crc32": "1332d057",
+        "sha1": "7f34a72df755635526ef71cdcdc4d515ca253192",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1754136313,
+    "item_size": 1797679792,
+    "metadata": {
+      "identifier": "ultimatechickenc0000unse",
+      "associated-names": "Lanphier, Krista",
+      "boxid": "IA1664910",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2009-01-01",
+      "description": [
+        "320 pages : 29 cm",
+        "Includes indexes"
+      ],
+      "isbn": [
+        "9780898216356",
+        "0898216354"
+      ],
+      "language": "eng",
+      "lccn": "2008933649",
+      "mediatype": "texts",
+      "notes": "obscured text<br />",
+      "old_pallet": "IA12264",
+      "operator": "associate-jonalyn-templado@archive.org",
+      "ppi": "300",
+      "publisher": "Greendale, WI : Taste of Home Books",
+      "repub_state": "19",
+      "scanner": "station07.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780898216356",
+      "subject": "Cooking (Chicken)",
+      "title": "The ultimate chicken cookbook",
+      "tts_version": "3.0-initial-170-gdf78d52",
+      "uploader": "station07.cebu@archive.org",
+      "addeddate": "2019-09-19 08:49:44",
+      "publicdate": "2019-09-19 08:49:56",
+      "imagecount": "330",
+      "scandate": "20190919134012",
+      "republisher_operator": "associate-criselyn-alicoben@archive.org",
+      "republisher_date": "20190923092947",
+      "republisher_time": "834",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/ultimatechickenc0000unse",
+      "identifier-ark": "ark:/13960/t6k150v43",
+      "bookplateleaf": "0004",
+      "external-identifier": [
+        "urn:acs6:ultimatechickenc0000unse:epub:70e33520-64c1-4aad-8c23-e6b55d849fa9",
+        "urn:acs6:ultimatechickenc0000unse:pdf:11a61ecd-80e4-44db-ae33-b74b966db753",
+        "urn:lcp:ultimatechickenc0000unse:lcpdf:d1007f81-656e-47ff-ae73-a3de713c3f4b",
+        "urn:lcp:ultimatechickenc0000unse:epub:b22b3897-1d40-4baf-8edb-e53afdb7e638"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_edition": "OL24532917M",
+      "openlibrary_work": "OL15580547W",
+      "sponsordate": "20190930",
+      "access-restricted-item": "true",
+      "backup_location": "ia907001_17",
+      "oclc-id": "311863841",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia803108.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "delawarecountydistrictlibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780898216356"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-10-29 04:38:04.580387"
+        },
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA-MC-0000052",
+              "IA-MC-0000136",
+              "IA-MC-0000128",
+              "IA-MC-0000138",
+              "IA-MC-0000053"
+            ],
+            "num_copies": 5
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-23 04:59:25.985353"
+        }
+      }
+    },
+    "uniq": 654400721,
+    "workable_servers": [
+      "ia803108.us.archive.org",
+      "ia903108.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

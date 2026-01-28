@@ -1,0 +1,106 @@
+{
+  "source": "dpla",
+  "id": "5d1531795b436e7cfdd3aaf5fe09b017",
+  "identifier": "5d1531795b436e7cfdd3aaf5fe09b017",
+  "title": "Cook book",
+  "subject": [
+    "Cooking, American",
+    "Community cookbooks--Illinois--Elgin"
+  ],
+  "spatial": [
+    "Illinois",
+    "Elgin"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/100243278",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1915,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/5d1531795b436e7cfdd3aaf5fe09b017#SourceResource",
+      "contributor": [
+        "Larkin Children's Home (Elgin, Ill.). Board of Directors"
+      ],
+      "date": [
+        {
+          "begin": "1915",
+          "displayDate": "1915",
+          "end": "1915"
+        }
+      ],
+      "extent": [
+        "156 p. ; 21 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-hvd007709891",
+        "(OCoLC)38470877",
+        "Hathi: 100243278"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Elgin, Illinois : The Home"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        },
+        {
+          "name": "Elgin"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Community cookbooks--Illinois--Elgin"
+        }
+      ],
+      "title": [
+        "Cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1915-01-01",
+      "normalized_dates": [
+        "1915-01-01"
+      ],
+      "date_range": {
+        "begin": "1915-01-01",
+        "end": "1915-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=wBAUAAAAYAAJ&printsec=frontcover&img=1&zoom=5",
+    "isShownAt": "http://catalog.hathitrust.org/Record/100243278"
+  },
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

@@ -1,0 +1,315 @@
+{
+  "source": "internet_archive",
+  "identifier": "the-cookie-book",
+  "title": "The Cookie Book",
+  "creator": "Culinary Arts Institute",
+  "year": 1950,
+  "subject": [
+    "cookie",
+    "cookbook"
+  ],
+  "description": "A mid-century American paperback cookbook filled with recipes for cookies of various sorts. Edited by Ruth Berolzheimer and published by Consolidated Book Publishers in Chicago, Illinois.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721902.ca.archive.org",
+          "dir": "/0/items/the-cookie-book"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721902.ca.archive.org",
+          "dir": "/0/items/the-cookie-book"
+        }
+      ]
+    },
+    "created": 1758556744,
+    "d1": "ia601208.us.archive.org",
+    "d2": "ia801208.us.archive.org",
+    "dir": "/31/items/the-cookie-book",
+    "files": [
+      {
+        "name": "The Cookie Book.epub",
+        "source": "derivative",
+        "original": "The Cookie Book_hocr.html",
+        "mtime": "1717200894",
+        "size": "49619969",
+        "md5": "a61321053e8c5a383a8166fd691fadd5",
+        "crc32": "778be466",
+        "sha1": "805b0dafa21ccce304cd97b75ea03ecd21209301",
+        "format": "EPUB"
+      },
+      {
+        "name": "The Cookie Book.pdf",
+        "source": "original",
+        "mtime": "1703805768",
+        "size": "81288632",
+        "md5": "4800f861cc82baef5c764325ae5968f2",
+        "crc32": "ad4bef49",
+        "sha1": "3d2a1a5cb78059f97278abf6efaf6e9c8c8a1fca",
+        "format": "Text PDF"
+      },
+      {
+        "name": "The Cookie Book_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-deu;lang-lat;lang-eng;lang-spa;lang-Latin;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": [
+          "Latin",
+          "Bengali"
+        ],
+        "ocr_detected_script_conf": [
+          "0.9742",
+          "0.0148"
+        ],
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "The Cookie Book_jp2.zip",
+        "mtime": "1703807943",
+        "size": "1838515",
+        "md5": "7211ec8e8748527ac1c7c6478e58483a",
+        "crc32": "40cdc4a6",
+        "sha1": "3d704a56ef2f0ca711f24c1f36a5cf2c9a07c642"
+      },
+      {
+        "name": "The Cookie Book_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "The Cookie Book_djvu.xml",
+        "mtime": "1703808585",
+        "size": "129173",
+        "md5": "3034beb4e1dd0d5c571331accbc0e6fc",
+        "crc32": "4da3a8b0",
+        "sha1": "c76491518b0d4b8737db582b03b2b07a6a3cc9a8"
+      },
+      {
+        "name": "The Cookie Book_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "The Cookie Book_hocr.html",
+        "mtime": "1703808119",
+        "size": "1828911",
+        "md5": "c71c19d684ab20b6a3a21b90bcb3adf3",
+        "crc32": "bbcee132",
+        "sha1": "f5c48b6345cd086db7ef7c5e9489ae71ea5ed054"
+      },
+      {
+        "name": "The Cookie Book_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.2.0",
+        "hocr_char_to_word_hocr_version": "1.1.45",
+        "ocr_parameters": "lang-deu;lang-lat;lang-eng;lang-spa;lang-Latin;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": [
+          "Latin",
+          "Bengali"
+        ],
+        "ocr_detected_script_conf": [
+          "0.9742",
+          "0.0148"
+        ],
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "The Cookie Book_chocr.html.gz",
+        "mtime": "1703807990",
+        "size": "4183260",
+        "md5": "7c1c27c89dc1c783554e848f376807ea",
+        "crc32": "1dd8dbe0",
+        "sha1": "9906a276e0a1cf5685ec4c68b70c1d34c40e95c4"
+      },
+      {
+        "name": "The Cookie Book_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "The Cookie Book_hocr.html",
+        "mtime": "1703808239",
+        "size": "601",
+        "md5": "302cf6188128f3a97071b40071ec57a0",
+        "crc32": "2d26a58f",
+        "sha1": "0fde49d0341dc833ffe1daa0f13ae33c5a847546"
+      },
+      {
+        "name": "The Cookie Book_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "42",
+        "word_conf_11_20": "35",
+        "word_conf_21_30": "64",
+        "word_conf_31_40": "55",
+        "word_conf_41_50": "68",
+        "word_conf_51_60": "72",
+        "word_conf_61_70": "101",
+        "word_conf_71_80": "220",
+        "word_conf_81_90": "1121",
+        "word_conf_91_100": "19543",
+        "format": "OCR Search Text",
+        "original": "The Cookie Book_hocr.html",
+        "mtime": "1703808569",
+        "size": "36128",
+        "md5": "81b6de31349b39e4f909da6715c32f4e",
+        "crc32": "4fc11bae",
+        "sha1": "001b60c52476380b7122579add3ba95d4ada56c0"
+      },
+      {
+        "name": "The Cookie Book_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "The Cookie Book.pdf",
+        "mtime": "1703806033",
+        "size": "69607902",
+        "md5": "032afc4c0d2faeed042e3f960890ab8d",
+        "crc32": "5cd1d1c2",
+        "sha1": "3950210be21a5a44408b19bd0f2107b686e28e78",
+        "filecount": "52"
+      },
+      {
+        "name": "The Cookie Book_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.3",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "63",
+        "format": "Page Numbers JSON",
+        "original": "The Cookie Book_hocr.html",
+        "mtime": "1703808955",
+        "size": "8909",
+        "md5": "5badd346a36a3b65c3cb3cd850a802fd",
+        "crc32": "47f093c5",
+        "sha1": "c1c3733c7ec6b510e86c76e6897a15814aa28c6c"
+      },
+      {
+        "name": "The Cookie Book_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "The Cookie Book_djvu.xml",
+        "mtime": "1703808955",
+        "size": "18251",
+        "md5": "b9bd34d26507874b9adf3d6411916df9",
+        "crc32": "dcaf6178",
+        "sha1": "c9842ca8932ab972956ff37f634cd37702cc591d"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1703809028",
+        "size": "18491",
+        "md5": "c9911ec6710933db4e85e3216655423f",
+        "crc32": "0227f8e8",
+        "sha1": "360b45ca36688d07745807e2495e824f67ff9646",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "the-cookie-book_archive.torrent",
+        "source": "metadata",
+        "btih": "f007db777bff9661b09c050171119b62af978ebf",
+        "mtime": "1717200897",
+        "size": "11625",
+        "md5": "c23df3d9d1b296a39a19cbdc7788f2b9",
+        "crc32": "95287b9c",
+        "sha1": "ca11e2af8f711b99d1564c15e90d01a4af9bfbfb",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "the-cookie-book_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9b383555f3f05f1b4fe1741858df7d5d",
+        "summation": "md5"
+      },
+      {
+        "name": "the-cookie-book_meta.sqlite",
+        "source": "original",
+        "mtime": "1703805798",
+        "size": "20480",
+        "md5": "74b404f07923c8b49b2e88c127b69866",
+        "crc32": "8184d16f",
+        "sha1": "737d83a7f90d0b415f54dec0c2409640bb4e44ad",
+        "format": "Metadata"
+      },
+      {
+        "name": "the-cookie-book_meta.xml",
+        "source": "original",
+        "mtime": "1716130450",
+        "size": "1890",
+        "md5": "9b98072fe6c501f28a8b098a45c34f11",
+        "crc32": "bda4c2bd",
+        "sha1": "b75aa978f39239586040c4914f6e736aeec767ae",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1717200897,
+    "item_size": 208612737,
+    "metadata": {
+      "identifier": "the-cookie-book",
+      "mediatype": "texts",
+      "collection": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "creator": "Culinary Arts Institute",
+      "date": "1950-01-01",
+      "description": "A mid-century American paperback cookbook filled with recipes for cookies of various sorts. Edited by Ruth Berolzheimer and published by Consolidated Book Publishers in Chicago, Illinois.<br />",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "cookie",
+        "cookbook"
+      ],
+      "title": "The Cookie Book",
+      "uploader": "marobe01@outlook.com",
+      "publicdate": "2023-12-28 23:23:09",
+      "addeddate": "2023-12-28 23:23:09",
+      "curation": "[curator]validator@archive.org[/curator][date]20231228232333[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/the-cookie-book",
+      "identifier-ark": "ark:/13960/s2gt3cnsj75",
+      "ppi": "400",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l deu+lat+eng+spa+Latin",
+      "ocr_module_version": "0.0.21",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": [
+        "Latin",
+        "Bengali"
+      ],
+      "ocr_detected_script_conf": [
+        "0.9742",
+        "0.0148"
+      ],
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "63",
+      "page_number_module_version": "1.0.3",
+      "collection_added": [
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia601208.us.archive.org",
+    "uniq": 1091499801,
+    "workable_servers": [
+      "ia601208.us.archive.org",
+      "ia801208.us.archive.org"
+    ]
+  },
+  "institution": "Culinary Arts Institute",
+  "pdf_url": "https://archive.org/download/the-cookie-book/The Cookie Book.pdf",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

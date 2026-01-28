@@ -1,0 +1,292 @@
+{
+  "source": "internet_archive",
+  "identifier": "StoutSummerBulletin1956",
+  "title": "Summer Bulletin [1956]",
+  "creator": "University of Wisconsin--Stout. University Relations.",
+  "year": 1956,
+  "subject": [
+    "University of Wisconsin--Stout--History",
+    "University of Wisconsin--Stout--Periodicals",
+    "University of Wisconsin--Stout--Curricula",
+    "Home economics--Study and teaching--History",
+    "Art--Study and teaching--History",
+    "Industrial arts--Study and teaching--History",
+    "Physical education and training--Wisconsin--Menomonie--History"
+  ],
+  "description": "Annual and biennial bulletins of the University of Wisconsin-Stout and its predecessor institutions. The bulletins provide descriptions of campus, lists of administrators and faculty, information on institutional objectives, courses offered, and curriculum.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/StoutSummerBulletin1956"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720004.ca.archive.org",
+          "dir": "/0/items/StoutSummerBulletin1956"
+        }
+      ]
+    },
+    "created": 1758335528,
+    "d1": "ia601606.us.archive.org",
+    "d2": "ia801606.us.archive.org",
+    "dir": "/19/items/StoutSummerBulletin1956",
+    "files": [
+      {
+        "name": "1956_SummerBulletin.pdf",
+        "source": "original",
+        "mtime": "1676045019",
+        "size": "236808657",
+        "md5": "6cdd8655bebcdca34a4b132409e802b2",
+        "crc32": "3aef30ba",
+        "sha1": "99f5dd76e567a58809edcd6d19af7013ce474dd3",
+        "format": "Image Container PDF"
+      },
+      {
+        "name": "1956_SummerBulletin_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-1-gd3a4",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.8243",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "1956_SummerBulletin_jp2.zip",
+        "mtime": "1676045290",
+        "size": "680153",
+        "md5": "c27a211c51947e60ac1c202ed7029c77",
+        "crc32": "1a03a917",
+        "sha1": "d3fc1af51978a23d579d5498baa0e1d1d496c7c6"
+      },
+      {
+        "name": "1956_SummerBulletin_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "1956_SummerBulletin_djvu.xml",
+        "mtime": "1676045334",
+        "size": "50772",
+        "md5": "aaa20e66135516a61608ef112a3d9417",
+        "crc32": "8dca19cf",
+        "sha1": "1d43a03c96beb1398c175d59e5170034e931cd9f"
+      },
+      {
+        "name": "1956_SummerBulletin_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "1956_SummerBulletin_hocr.html",
+        "mtime": "1676045312",
+        "size": "593306",
+        "md5": "9320307ff9bc245403c160713f4c7385",
+        "crc32": "7247e996",
+        "sha1": "8cf82b56ab6340f09e4731bef94d03227c2d6b58"
+      },
+      {
+        "name": "1956_SummerBulletin_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.8243",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "1956_SummerBulletin_chocr.html.gz",
+        "mtime": "1676045304",
+        "size": "1117903",
+        "md5": "2d0c86dd46a1a3ce41b8a6123baa3b46",
+        "crc32": "f0b4d352",
+        "sha1": "57aa129536e7b17daf1f2a738bd1916394c5a4be"
+      },
+      {
+        "name": "1956_SummerBulletin_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "1956_SummerBulletin_hocr.html",
+        "mtime": "1676045316",
+        "size": "355",
+        "md5": "9a5087dd756d809a16550aeb10c35bdb",
+        "crc32": "c971f807",
+        "sha1": "544242b7b8a69cc72a2e0ce2bd3b0ea134a363f3"
+      },
+      {
+        "name": "1956_SummerBulletin_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "23",
+        "word_conf_11_20": "15",
+        "word_conf_21_30": "6",
+        "word_conf_31_40": "16",
+        "word_conf_41_50": "18",
+        "word_conf_51_60": "17",
+        "word_conf_61_70": "25",
+        "word_conf_71_80": "54",
+        "word_conf_81_90": "210",
+        "word_conf_91_100": "6847",
+        "format": "OCR Search Text",
+        "original": "1956_SummerBulletin_hocr.html",
+        "mtime": "1676045326",
+        "size": "16160",
+        "md5": "63c91cfbc0d59d8031b15b9b9394ad0a",
+        "crc32": "df3cce47",
+        "sha1": "6f962d2bb64cf266dbf11828824893d8529a5cee"
+      },
+      {
+        "name": "1956_SummerBulletin_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "1956_SummerBulletin.pdf",
+        "mtime": "1676045170",
+        "size": "9338727",
+        "md5": "1cc4ff6306f505abe6207d9919693d83",
+        "crc32": "960d1a3a",
+        "sha1": "2ef0212cd6920b32923c5cf8e726b7adfffcdf3e",
+        "filecount": "30"
+      },
+      {
+        "name": "1956_SummerBulletin_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "1956_SummerBulletin_djvu.xml",
+        "mtime": "1676045346",
+        "size": "5784",
+        "md5": "40ee8f9d8da7dd051c0b7c6e39c1b251",
+        "crc32": "a51d7ab2",
+        "sha1": "ac76cdee08d78b262057a98e9f7a0e2529551af3"
+      },
+      {
+        "name": "1956_SummerBulletin_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "1956_SummerBulletin_djvu.xml",
+        "mtime": "1676045346",
+        "size": "10768",
+        "md5": "39fb4123f87e07af0c5fb0b2ec63dba8",
+        "crc32": "3d3ab2f9",
+        "sha1": "a1a03960c11d2b42f60a9886c0a790ed137e2a17"
+      },
+      {
+        "name": "1956_SummerBulletin_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.20",
+        "format": "Additional Text PDF",
+        "original": "1956_SummerBulletin_page_numbers.json",
+        "mtime": "1676045408",
+        "size": "2562328",
+        "md5": "b8dc617709cb33a9146ff8370805c71f",
+        "crc32": "0f884d47",
+        "sha1": "017e0f52d58a76dc5dda0af16714c2bfd0371d6a"
+      },
+      {
+        "name": "StoutSummerBulletin1956_archive.torrent",
+        "source": "metadata",
+        "btih": "3b744f49af86869813ff17e41063557b1a915d67",
+        "mtime": "1676045477",
+        "size": "13351",
+        "md5": "5ec10fad37b484cdb0594366fcafcf93",
+        "crc32": "bba83f85",
+        "sha1": "7ec449fde187e08a0dbc1daf6ff79f82e8181205",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "StoutSummerBulletin1956_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "b710cc1875524ebccd98010d59bd84e2",
+        "summation": "md5"
+      },
+      {
+        "name": "StoutSummerBulletin1956_meta.sqlite",
+        "source": "original",
+        "mtime": "1676045051",
+        "size": "20480",
+        "md5": "f0f24abd45aee99798bf787ae413f73e",
+        "crc32": "20d9e674",
+        "sha1": "dd1c27d613a57fc6099b26de268dc13ed424b6d0",
+        "format": "Metadata"
+      },
+      {
+        "name": "StoutSummerBulletin1956_meta.xml",
+        "source": "original",
+        "mtime": "1676045475",
+        "size": "2150",
+        "md5": "ec0ba64d1fb97ba81c5f6b641295bf42",
+        "crc32": "2b32edb2",
+        "sha1": "8ce7f6f8a5c542207ca8d6aa66635d22b9e40725",
+        "format": "Metadata"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1676045423",
+        "size": "11135",
+        "md5": "9ac8d33661aba0e95c2d4484301e5789",
+        "crc32": "0a364003",
+        "sha1": "4f8e83d161191d4f4ecc6a22718c0319e1fb1a25",
+        "format": "Item Tile",
+        "rotation": "0"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1676045477,
+    "item_size": 251232029,
+    "metadata": {
+      "identifier": "StoutSummerBulletin1956",
+      "mediatype": "texts",
+      "collection": [
+        "stoutbulletins",
+        "universityofwisconsinstoutarchives",
+        "americana"
+      ],
+      "creator": "University of Wisconsin--Stout. University Relations.",
+      "description": "Annual and biennial bulletins of the University of Wisconsin-Stout and <br />\nits predecessor institutions. The bulletins provide descriptions of <br />\ncampus, lists of administrators and faculty, information on <br />\ninstitutional objectives, courses offered, and curriculum.",
+      "language": "eng",
+      "licenseurl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "University of Wisconsin--Stout--History",
+        "University of Wisconsin--Stout--Periodicals",
+        "University of Wisconsin--Stout--Curricula",
+        "Home economics--Study and teaching--History",
+        "Art--Study and teaching--History",
+        "Industrial arts--Study and teaching--History",
+        "Physical education and training--Wisconsin--Menomonie--History"
+      ],
+      "title": "Summer Bulletin [1956]",
+      "uploader": "ambersoni6732@my.uwstout.edu",
+      "publicdate": "2023-02-10 16:03:57",
+      "addeddate": "2023-02-10 16:03:57",
+      "identifier-access": "http://archive.org/details/StoutSummerBulletin1956",
+      "identifier-ark": "ark:/13960/s25v1st6733",
+      "ppi": "300",
+      "ocr": "tesseract 5.3.0-1-gd3a4",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.18",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.8243",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "96.55",
+      "pdf_module_version": "0.0.20",
+      "date": "1956-01-01",
+      "year": "1956",
+      "normalized_dates": [
+        "1956-01-01"
+      ]
+    },
+    "server": "ia801606.us.archive.org",
+    "uniq": 1058226219,
+    "workable_servers": [
+      "ia801606.us.archive.org",
+      "ia601606.us.archive.org"
+    ]
+  }
+}

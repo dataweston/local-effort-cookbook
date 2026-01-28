@@ -1,0 +1,299 @@
+{
+  "source": "internet_archive",
+  "identifier": "ten-minute-recipes-images",
+  "title": "Ten Minute Recipes",
+  "creator": "Woolverton Printing & Publishing Co",
+  "year": 1905,
+  "subject": "cookbook",
+  "description": "Woolverton Printing & Publishing Co. ca. 1905. Ten Minute Recipes . Osage Iowa: Woolverton Print. & Pub.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/ten-minute-recipes-images"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720002.ca.archive.org",
+          "dir": "/0/items/ten-minute-recipes-images"
+        }
+      ]
+    },
+    "created": 1758559457,
+    "d1": "ia601507.us.archive.org",
+    "d2": "ia801507.us.archive.org",
+    "dir": "/19/items/ten-minute-recipes-images",
+    "files": [
+      {
+        "name": "Ten Minute Recipes.epub",
+        "source": "derivative",
+        "original": "Ten Minute Recipes_hocr.html",
+        "mtime": "1722440085",
+        "size": "934452",
+        "md5": "197ce6f7447b28005f577563db69e2dd",
+        "crc32": "877ea6a8",
+        "sha1": "12668f07d2b5e0da7f906d8d48ddc9914e2215e5",
+        "format": "EPUB"
+      },
+      {
+        "name": "Ten Minute Recipes.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.19",
+        "format": "Text PDF",
+        "original": "Ten Minute Recipes_page_numbers.json",
+        "mtime": "1663675771",
+        "size": "3238416",
+        "md5": "17748e9e8fdb999ae18aea7b86687529",
+        "crc32": "074a7451",
+        "sha1": "562c6d1e76619eda7595090339ece2b27ca0c728"
+      },
+      {
+        "name": "Ten Minute Recipes_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.2.0-1-gc42a",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9735",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Ten Minute Recipes_jp2.zip",
+        "mtime": "1663675673",
+        "size": "438087",
+        "md5": "cd795fb11db8c2840a0d537272957106",
+        "crc32": "378cf3e2",
+        "sha1": "a04c351289cc9fd2dee583533ef1e92e780f061f"
+      },
+      {
+        "name": "Ten Minute Recipes_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Ten Minute Recipes_djvu.xml",
+        "mtime": "1663675709",
+        "size": "29730",
+        "md5": "081091363fce9ef7fc0b30c129df1318",
+        "crc32": "b17b6f74",
+        "sha1": "fd881745372af53bed88e1bc0f6ee35890981084"
+      },
+      {
+        "name": "Ten Minute Recipes_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Ten Minute Recipes_hocr.html",
+        "mtime": "1663675690",
+        "size": "412008",
+        "md5": "872dde6073948c6112b4f04e3baf615e",
+        "crc32": "0272cbcd",
+        "sha1": "e6c644ca7038bf8b3c16117ffc565451a8ad8f36"
+      },
+      {
+        "name": "Ten Minute Recipes_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.18",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9735",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Ten Minute Recipes_chocr.html.gz",
+        "mtime": "1663675683",
+        "size": "772831",
+        "md5": "bca9ab008e72c5f4fcee0d6dad359bfb",
+        "crc32": "ddfe48c4",
+        "sha1": "16d4181d4721813799010c517e01e06c6c0a4bf1"
+      },
+      {
+        "name": "Ten Minute Recipes_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "Ten Minute Recipes_hocr.html",
+        "mtime": "1663675693",
+        "size": "241",
+        "md5": "10d7d5c1b9923232ff2ff997b0273468",
+        "crc32": "fc04b130",
+        "sha1": "2b2ca997b5071f1dbb4d53746641d515f5c9ef3e"
+      },
+      {
+        "name": "Ten Minute Recipes_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "22",
+        "word_conf_11_20": "8",
+        "word_conf_21_30": "10",
+        "word_conf_31_40": "20",
+        "word_conf_41_50": "21",
+        "word_conf_51_60": "28",
+        "word_conf_61_70": "37",
+        "word_conf_71_80": "56",
+        "word_conf_81_90": "184",
+        "word_conf_91_100": "4795",
+        "format": "OCR Search Text",
+        "original": "Ten Minute Recipes_hocr.html",
+        "mtime": "1663675702",
+        "size": "10843",
+        "md5": "dd8f65c1c61b882212eef0c37a03262c",
+        "crc32": "dc85f85d",
+        "sha1": "77513e745484050d3898cc470b061c39d1d83fde"
+      },
+      {
+        "name": "Ten Minute Recipes_images.zip",
+        "source": "original",
+        "mtime": "1663675455",
+        "size": "22058918",
+        "md5": "f1b3c7d4b38bc35f9be1aca494639bcd",
+        "crc32": "78775b9f",
+        "sha1": "8cde35500ad6f085ab8bc977fdd7fd4f3fce49b0",
+        "format": "Generic Raw Book Zip",
+        "filecount": "40"
+      },
+      {
+        "name": "Ten Minute Recipes_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Ten Minute Recipes_images.zip",
+        "mtime": "1663675566",
+        "size": "7019794",
+        "md5": "53b95b32a7883c91c246874c343d4d95",
+        "crc32": "07f3701f",
+        "sha1": "fe1600e7bef05152a2afee3007cded7e0c8ed42e",
+        "filecount": "20"
+      },
+      {
+        "name": "Ten Minute Recipes_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "Ten Minute Recipes_djvu.xml",
+        "mtime": "1663675720",
+        "size": "3041",
+        "md5": "5b76c7fe0d82c1601d585d7314a87d93",
+        "crc32": "a96a6b28",
+        "sha1": "058a58fd88e7efa8ce34bc9f8830950a747d2439"
+      },
+      {
+        "name": "Ten Minute Recipes_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Ten Minute Recipes_djvu.xml",
+        "mtime": "1663675717",
+        "size": "6588",
+        "md5": "18746784258f6ef23591291d9d2688c3",
+        "crc32": "e326c5e4",
+        "sha1": "d187eb67aa41877f58a46b91a73749bd8a891112"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1663675785",
+        "size": "20477",
+        "md5": "600daccd3b6b16587bdf3049d46e8be5",
+        "crc32": "44a08af4",
+        "sha1": "923a2498000e540e1ca4937f29444fd7cbbd5dbf",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "ten-minute-recipes-images_archive.torrent",
+        "source": "metadata",
+        "btih": "bcd3d8fa6d6b69752245f65cdeb47b43dcc4cd9d",
+        "mtime": "1722440088",
+        "size": "5305",
+        "md5": "d6c4581516be18f054838f7c834dea12",
+        "crc32": "b7514d9d",
+        "sha1": "7f95b125a33d3f4114764c42df15006646575297",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "ten-minute-recipes-images_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "882e33ebaf02ee43a1314bf5beb31afd",
+        "summation": "md5"
+      },
+      {
+        "name": "ten-minute-recipes-images_meta.sqlite",
+        "source": "original",
+        "mtime": "1663675484",
+        "size": "20480",
+        "md5": "f73f8b36cfc665be40152b294ad97ce4",
+        "crc32": "397915d7",
+        "sha1": "25d0bc970b3a30d70ecb26fd34be19b2fb8a9c56",
+        "format": "Metadata"
+      },
+      {
+        "name": "ten-minute-recipes-images_meta.xml",
+        "source": "original",
+        "mtime": "1716130404",
+        "size": "1704",
+        "md5": "589215a744146ffcfb170fefbc94366c",
+        "crc32": "e59a8f48",
+        "sha1": "2fb42271d85e8fb6a3f8d85991764dfd746c56a4",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 17,
+    "item_last_updated": 1722440088,
+    "item_size": 34972915,
+    "metadata": {
+      "identifier": "ten-minute-recipes-images",
+      "mediatype": "texts",
+      "collection": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "creator": "Woolverton Printing & Publishing Co",
+      "date": "1905-01-01",
+      "description": "Woolverton Printing &amp; Publishing Co. ca. 1905. <i>Ten Minute Recipes</i>. Osage  Iowa: Woolverton Print. &amp; Pub.",
+      "language": "eng",
+      "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": "cookbook",
+      "title": "Ten Minute Recipes",
+      "uploader": "valoise@gmail.com",
+      "publicdate": "2022-09-20 12:04:39",
+      "addeddate": "2022-09-20 12:04:39",
+      "curation": "[curator]validator@archive.org[/curator][date]20220920120502[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/ten-minute-recipes-images",
+      "identifier-ark": "ark:/13960/s2hcb8bdgr9",
+      "ocr": "tesseract 5.2.0-1-gc42a",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.18",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9735",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "pdf_module_version": "0.0.19",
+      "year": "1905",
+      "collection_added": [
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia801507.us.archive.org",
+    "uniq": 2063014516,
+    "workable_servers": [
+      "ia801507.us.archive.org",
+      "ia601507.us.archive.org"
+    ]
+  },
+  "institution": "Woolverton Printing & Publishing Co",
+  "pdf_url": "https://archive.org/download/ten-minute-recipes-images/Ten Minute Recipes.pdf",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

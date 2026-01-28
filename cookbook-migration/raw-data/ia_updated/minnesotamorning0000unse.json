@@ -1,0 +1,486 @@
+{
+  "source": "internet_archive",
+  "identifier": "minnesotamorning0000unse",
+  "title": "Minnesota mornings : comfort & cuisine from Minnesota Bed & Breakfast Guild",
+  "creator": null,
+  "year": 2000,
+  "subject": [
+    "Bed and breakfast accommodations -- Minnesota -- Guidebooks",
+    "Cooking -- Minnesota",
+    "Bed and breakfast accommodations",
+    "Cooking",
+    "Minnesota"
+  ],
+  "description": [
+    "141 pages : 26 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/minnesotamorning0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/minnesotamorning0000unse"
+        }
+      ]
+    },
+    "created": 1758557119,
+    "d1": "ia902806.us.archive.org",
+    "d2": "ia802806.us.archive.org",
+    "dir": "/2/items/minnesotamorning0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660678814",
+        "size": "28566",
+        "md5": "bd0cbb9f29a797769548ce5a0fc6ff01",
+        "crc32": "ab2bb41e",
+        "sha1": "a0b637e63c2d9bca8bbcbf5e62a25768a0cef761",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/minnesotamorning0000unse_iabdash_2018-07-27012151.log",
+        "source": "original",
+        "mtime": "1532625724",
+        "size": "701",
+        "md5": "ad7f141685a2f29d54fba6ce733e4915",
+        "crc32": "246a9ed4",
+        "sha1": "10b28f9fadfc04e9796816c087e09924217dc290",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/minnesotamorning0000unse_scanning_2018-07-27012144.log",
+        "source": "original",
+        "mtime": "1532625717",
+        "size": "314125",
+        "md5": "3dbeaf774403859da1f275e6c58cfd00",
+        "crc32": "81d7afb2",
+        "sha1": "cf284868971e9b2d49a667ee1c0552eac3b22e00",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "minnesotamorning0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "minnesotamorning0000unse_hocr.html",
+        "mtime": "1753650190",
+        "size": "68192295",
+        "private": "true",
+        "md5": "675da6ffa4e48a779ff7f88643530d36",
+        "crc32": "d6e73de4",
+        "sha1": "310c113c64800958044431595656603efb3ee8b2"
+      },
+      {
+        "name": "minnesotamorning0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "minnesotamorning0000unse.pdf",
+        "mtime": "1753650040",
+        "size": "25986043",
+        "md5": "a80911e2264352ba67899af7295f9025",
+        "crc32": "3a818f6e",
+        "sha1": "306e9c47d8936e8f15422f476ace46799122151d"
+      },
+      {
+        "name": "minnesotamorning0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "minnesotamorning0000unse_page_numbers.json",
+        "mtime": "1716169575",
+        "size": "25326754",
+        "md5": "0144aa18bf1fb1cc042ccaa7018dad38",
+        "crc32": "220958c2",
+        "sha1": "74ae3dd478f44eab585364a4742191c07614fc36",
+        "private": "true"
+      },
+      {
+        "name": "minnesotamorning0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "minnesotamorning0000unse_jp2.zip",
+        "mtime": "1532707800",
+        "size": "2836730",
+        "md5": "a2e648ddba3ee9688133a1fa15f86807",
+        "crc32": "8cbbac1c",
+        "sha1": "206f6ea07841a395a64bef569843fadb6306e0f7",
+        "private": "true"
+      },
+      {
+        "name": "minnesotamorning0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "minnesotamorning0000unse_abbyy.gz",
+        "mtime": "1660678471",
+        "size": "2304313",
+        "md5": "15f4614aa5c0680dc65a967ab3149666",
+        "crc32": "2ebc18f7",
+        "sha1": "1bb392b6192038a313cdd848371c0d28437d7d05",
+        "private": "true"
+      },
+      {
+        "name": "minnesotamorning0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "minnesotamorning0000unse_scandata.xml",
+        "mtime": "1670680021",
+        "size": "787",
+        "md5": "b80ba1daf1365142e4a3a9f04564e899",
+        "crc32": "9ae1ba9e",
+        "sha1": "76d1bd87a33450c6e86ea0cbe01bafd1e510d2d3",
+        "private": "true"
+      },
+      {
+        "name": "minnesotamorning0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660678431",
+        "size": "1423",
+        "md5": "a6f2ae0d6fadbc93e4758f1b78ed7ca7",
+        "crc32": "b88d94aa",
+        "sha1": "509caadf4134125c51ab1baa0e6472d63e335093"
+      },
+      {
+        "name": "minnesotamorning0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "minnesotamorning0000unse_djvu.xml",
+        "mtime": "1660678809",
+        "size": "198797",
+        "md5": "8f732e85ebac0d229b9426392194066f",
+        "crc32": "452a18aa",
+        "sha1": "6d4dd759d8f78e2855d91d5758863a8b9bf76135",
+        "private": "true"
+      },
+      {
+        "name": "minnesotamorning0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "minnesotamorning0000unse_hocr.html",
+        "mtime": "1660678650",
+        "size": "2390652",
+        "md5": "e23117d267e21f425fd0a256468fb88d",
+        "crc32": "57398a8a",
+        "sha1": "2e2099cc46ee8a2ff659af51478c6094cae20178",
+        "private": "true"
+      },
+      {
+        "name": "minnesotamorning0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "minnesotamorning0000unse_abbyy.gz",
+        "mtime": "1532708753",
+        "size": "16496562",
+        "md5": "6d2fa536ef143ab0865e46600d4fab63",
+        "crc32": "565a2d06",
+        "sha1": "f33504e58fdadfb94f6cc5b9873eb92c1e608656"
+      },
+      {
+        "name": "minnesotamorning0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "minnesotamorning0000unse.pdf",
+        "mtime": "1716170051",
+        "size": "25235394",
+        "md5": "9f090f009cca9a03ab2a12f06c5686e9",
+        "crc32": "4b1d12c0",
+        "sha1": "cc42ad7c3bdb02a82a33f1c5abb262495a654aca"
+      },
+      {
+        "name": "minnesotamorning0000unse_events.json",
+        "source": "original",
+        "mtime": "1532703542",
+        "size": "50",
+        "md5": "758ea67531ef4fcfb54354b2854cd22c",
+        "crc32": "a4046026",
+        "sha1": "f8b92e17c861ee6d52aa7842db4da9e3146fb49f",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "minnesotamorning0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "6ce9d238bb54cf834d0bcbc5dc4482db",
+        "summation": "md5"
+      },
+      {
+        "name": "minnesotamorning0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "minnesotamorning0000unse_chocr.html.gz",
+        "mtime": "1660678609",
+        "size": "5174269",
+        "md5": "7378d9eef6c1c13929eca27a2cf7cce4",
+        "crc32": "fe0544bb",
+        "sha1": "14cb0212304f8512e39432b9251daf68f7c9895a",
+        "private": "true"
+      },
+      {
+        "name": "minnesotamorning0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "minnesotamorning0000unse_hocr.html",
+        "mtime": "1660678706",
+        "size": "1754",
+        "md5": "b071bc5cef7353647135d4632017ea8e",
+        "crc32": "933dbf6a",
+        "sha1": "89f962c6ca02d5d7e2074c23578b270abe9b52db",
+        "private": "true"
+      },
+      {
+        "name": "minnesotamorning0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "350",
+        "word_conf_11_20": "98",
+        "word_conf_21_30": "217",
+        "word_conf_31_40": "357",
+        "word_conf_41_50": "622",
+        "word_conf_51_60": "1095",
+        "word_conf_61_70": "2372",
+        "word_conf_71_80": "5595",
+        "word_conf_81_90": "8432",
+        "word_conf_91_100": "8988",
+        "format": "OCR Search Text",
+        "original": "minnesotamorning0000unse_hocr.html",
+        "mtime": "1660678798",
+        "size": "63820",
+        "md5": "218b66dc771991ebdec8127e0fab44ea",
+        "crc32": "62840101",
+        "sha1": "5f52672e7074c94405b236a3b7197ae5d6015f03",
+        "private": "true"
+      },
+      {
+        "name": "minnesotamorning0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "minnesotamorning0000unse_orig_jp2.tar",
+        "mtime": "1532705349",
+        "size": "162391599",
+        "md5": "17a65117663b4880d143240ba47232d2",
+        "crc32": "ae6693b9",
+        "sha1": "03d30e225cd65164dc8aff6451581dd265558092",
+        "private": "true",
+        "filecount": "150"
+      },
+      {
+        "name": "minnesotamorning0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "minnesotamorning0000unse.epub",
+        "mtime": "1753650232",
+        "size": "68822544",
+        "md5": "a0dd5fb5d63303392991fcdf2be0dedd",
+        "crc32": "cfb600ef",
+        "sha1": "a3d4ab373f15aab37ee5820df1570485528e469a"
+      },
+      {
+        "name": "minnesotamorning0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1660678431",
+        "size": "6783",
+        "format": "MARC",
+        "md5": "0611bbd2dec3867189439a12d78797eb",
+        "crc32": "c6c9644c",
+        "sha1": "ca2536768c4e6547de925a035824b4aceb96b9f8"
+      },
+      {
+        "name": "minnesotamorning0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1532625736",
+        "size": "1835",
+        "md5": "a933a10e52f2bbb2b93e5ab0b94d05e6",
+        "crc32": "c0dfedbd",
+        "sha1": "2991ce6af53d581cee1379333eda787b81e5d304",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "minnesotamorning0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1532703704",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "a92f68b5ce3efed4d6e65277b0f24a0f",
+        "crc32": "0fba1dad",
+        "sha1": "8e93c587a9cd46be8e28782cf2c224b950de3fd3"
+      },
+      {
+        "name": "minnesotamorning0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753650232",
+        "size": "3218",
+        "format": "Metadata",
+        "md5": "014845a93b95012c5152eb51dbf6938b",
+        "crc32": "8f815984",
+        "sha1": "6bbe94fc028a3844396106707ebd2d4fa29583e3"
+      },
+      {
+        "name": "minnesotamorning0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1532703703",
+        "size": "329891840",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "68db35afbcfbd7e272841f43c41f00d7",
+        "crc32": "3b624835",
+        "sha1": "446eafee699cdbfd480190f7ae7ec35e7348a23d",
+        "filecount": "150"
+      },
+      {
+        "name": "minnesotamorning0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "98",
+        "format": "Page Numbers JSON",
+        "original": "minnesotamorning0000unse_hocr.html",
+        "mtime": "1716169574",
+        "size": "25120",
+        "md5": "adafd1428e1feea35ac152292971d70e",
+        "crc32": "c740dece",
+        "sha1": "9433f4dc969b9246b0d3abd36cc7551076db08bc",
+        "private": "true"
+      },
+      {
+        "name": "minnesotamorning0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670680021",
+        "size": "152959",
+        "format": "Scandata",
+        "md5": "b4aa3ed2033ccad43667a233beb9a54b",
+        "crc32": "d585e230",
+        "sha1": "6fa1c619694bcf442ccca0f492146faf07f4dff1"
+      },
+      {
+        "name": "minnesotamorning0000unse_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "minnesotamorning0000unse_djvu.xml",
+        "mtime": "1670679946",
+        "size": "7208",
+        "md5": "1337caa4575b167861913364d422fd2f",
+        "crc32": "110cf86c",
+        "sha1": "a5a11385839edf95fc6be8cf43410d05707536b4",
+        "private": "true"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1753650232,
+    "item_size": 735872525,
+    "metadata": {
+      "identifier": "minnesotamorning0000unse",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "date": "2000-01-01",
+      "isbn": [
+        "0942495950",
+        "9780942495959"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "operator": "associate-samihui@archive.org",
+      "ppi": "300",
+      "publisher": "Amherst, Wis. : Amherst Press",
+      "repub_state": "22",
+      "scanner": "ttscribe24.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "title": "Minnesota mornings : comfort & cuisine from Minnesota Bed & Breakfast Guild",
+      "tts_version": "v1.58-final-25-g44facaa",
+      "uploader": "ttscribe24.hongkong@archive.org",
+      "addeddate": "2018-07-26 17:21:39",
+      "publicdate": "2018-07-26 17:22:27",
+      "imagecount": "150",
+      "scandate": "20180726200412",
+      "subject": [
+        "Bed and breakfast accommodations -- Minnesota -- Guidebooks",
+        "Cooking -- Minnesota",
+        "Bed and breakfast accommodations",
+        "Cooking",
+        "Minnesota"
+      ],
+      "lccn": "99068651",
+      "description": [
+        "141 pages : 26 cm",
+        "Includes index"
+      ],
+      "associated-names": "Minnesota Bed & Breakfast Guild",
+      "republisher_operator": "republisher4.dhaka@archive.org",
+      "republisher_date": "20180727205846",
+      "republisher_time": "435",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/minnesotamorning0000unse",
+      "identifier-ark": "ark:/13960/t8vb56p5z",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:minnesotamorning0000unse:epub:4ef66baf-636a-454b-89f8-95ff32efa5a3",
+        "urn:acs6:minnesotamorning0000unse:pdf:ef9b0ee2-13cd-4297-a07e-acb0c09790fe",
+        "urn:lcp:minnesotamorning0000unse:lcpdf:ea269b85-e7b6-4afc-88e7-bebab25a4404",
+        "urn:lcp:minnesotamorning0000unse:epub:dae0823e-c79f-455d-bdb7-7536075df5a5"
+      ],
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20180727180403[/date][state]approved[/state][comment]199[/comment]",
+      "boxid": "IA1284813",
+      "sponsordate": "20180731",
+      "openlibrary_edition": "OL23040538M",
+      "openlibrary_work": "OL17899869W",
+      "backup_location": "ia906709_27",
+      "access-restricted-item": "true",
+      "oclc-id": [
+        "47623676",
+        "778892453",
+        "990715401"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "98",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia902806.us.archive.org",
+    "uniq": 1949600787,
+    "workable_servers": [
+      "ia902806.us.archive.org",
+      "ia802806.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Minnesota"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Guild"
+    ]
+  },
+  "curation_notes": "State match: Minnesota; Community markers: Guild; Digitized scan available"
+}

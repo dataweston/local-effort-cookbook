@@ -1,0 +1,760 @@
+{
+  "source": "internet_archive",
+  "identifier": "newcookbook00desm",
+  "title": "New cook book",
+  "creator": "Better homes and gardens",
+  "year": 1982,
+  "subject": "Cookery, American",
+  "description": [
+    "At head of title: Better homes and gardens",
+    "Includes index"
+  ],
+  "metadata": {
+    "created": 1758556974,
+    "d1": "ia601504.us.archive.org",
+    "d2": "ia801504.us.archive.org",
+    "dir": "/17/items/newcookbook00desm",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660737919",
+        "size": "20781",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "9b129e303460c068f29349b85cdf6e0b",
+        "crc32": "e62d1ef9",
+        "sha1": "05d5da54dda7b60130d28829a3591b688865df05"
+      },
+      {
+        "name": "newcookbook00desm.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "newcookbook00desm_hocr.html",
+        "mtime": "1753674208",
+        "size": "50306929",
+        "private": "true",
+        "md5": "1c2b13c5a792aa853105a01f18cd4dc2",
+        "crc32": "12bebe19",
+        "sha1": "2547d239beb826bfc470f62ebe9a582b17989381"
+      },
+      {
+        "name": "newcookbook00desm.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "newcookbook00desm_jp2.zip",
+        "md5": "feb84be794f1ae167500113f6ee8ac7e",
+        "mtime": "1263934661",
+        "size": "222361",
+        "crc32": "94336163",
+        "sha1": "06524e94056c0655838028893e90ca2da99ef07f"
+      },
+      {
+        "name": "newcookbook00desm.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "newcookbook00desm.pdf",
+        "mtime": "1753673965",
+        "size": "31470238",
+        "md5": "ad48d856fadc9e1ea05f6a853a0204df",
+        "crc32": "f83e1375",
+        "sha1": "54eae5a9aa71eba14cd83fbec2f8d291ca13405e"
+      },
+      {
+        "name": "newcookbook00desm.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "newcookbook00desm_page_numbers.json",
+        "mtime": "1717456026",
+        "size": "30732758",
+        "md5": "6ce6e08166de9d112c323d4d34cd48a7",
+        "crc32": "a92a66e0",
+        "sha1": "16ce2e606ae3b5ebdbf6a3b7704ca5ffe5d79de0",
+        "private": "true"
+      },
+      {
+        "name": "newcookbook00desm_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "newcookbook00desm_jp2.zip",
+        "md5": "1a33bf3ef1f9d91f670b540ecbac5b72",
+        "mtime": "1263951493",
+        "size": "20261690",
+        "crc32": "ec5b3d93",
+        "sha1": "166c880831f9c3c0ef07cb366b8192da466372c6",
+        "private": "true"
+      },
+      {
+        "name": "newcookbook00desm_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "newcookbook00desm_page_numbers.json",
+        "mtime": "1717456037",
+        "size": "28578932",
+        "md5": "d481e251cae4ccba42308d5d5b5e6f54",
+        "crc32": "de6c658d",
+        "sha1": "1939cdf0c86304cff981fa857d79d869df1d3121",
+        "private": "true"
+      },
+      {
+        "name": "newcookbook00desm_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "newcookbook00desm_abbyy.gz",
+        "mtime": "1660736931",
+        "size": "17020241",
+        "md5": "52983ced9855692efa258364a0de042d",
+        "crc32": "d55e43ec",
+        "sha1": "180c7d52ae25b6cfedf5a9fcd8a0a2e93223a1b9",
+        "private": "true"
+      },
+      {
+        "name": "newcookbook00desm_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "newcookbook00desm_scandata.xml",
+        "mtime": "1670741554",
+        "size": "760",
+        "md5": "680e5750958581b859299b44faaa1a2b",
+        "crc32": "34177de2",
+        "sha1": "c1a3ae4b85df047d36b99425b2680f5233d3bca8",
+        "private": "true"
+      },
+      {
+        "name": "newcookbook00desm_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "bc543e9804f3cc338048d3a9672c3adf",
+        "mtime": "1263576240",
+        "size": "606",
+        "crc32": "69a833e1",
+        "sha1": "22c66cb438566b8fba41d41c57441f0a08153776"
+      },
+      {
+        "name": "newcookbook00desm_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "newcookbook00desm_djvu.xml",
+        "mtime": "1719291581",
+        "size": "1609690",
+        "md5": "13aa4d46d1041e61c56f3679f490e31a",
+        "crc32": "6c2b9014",
+        "sha1": "15a6d33721e5de91821585c9ea594f5f5f997ee1",
+        "private": "true"
+      },
+      {
+        "name": "newcookbook00desm_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "newcookbook00desm_hocr.html",
+        "mtime": "1719291576",
+        "size": "20239902",
+        "md5": "ff484a3754404828d1048fccf48212d4",
+        "crc32": "d1482dc7",
+        "sha1": "11d1cee3ab55ef738609e29b06df0507151d1b6c",
+        "private": "true"
+      },
+      {
+        "name": "newcookbook00desm_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "newcookbook00desm.pdf",
+        "mtime": "1717457324",
+        "size": "30648301",
+        "md5": "8cabf4bf4dcdcd184a3259d6f4414bf3",
+        "crc32": "92aafe43",
+        "sha1": "262bc267ae9c76942dffcb7cad49a8a4512ac17f"
+      },
+      {
+        "name": "newcookbook00desm_extramarc.xml",
+        "source": "original",
+        "mtime": "1402195987",
+        "size": "2648",
+        "md5": "23723d5bd93a8247518eb9cb467e48ec",
+        "crc32": "62fa74cc",
+        "sha1": "1130a657976b9048f4a7b77e54cd0ddda311f22b",
+        "format": "Metadata"
+      },
+      {
+        "name": "newcookbook00desm_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "0cc29da30e8523fa6848a3c6c2f37135",
+        "summation": "md5"
+      },
+      {
+        "name": "newcookbook00desm_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "newcookbook00desm_chocr.html.gz",
+        "mtime": "1660737511",
+        "size": "43962084",
+        "md5": "eead7f7e48285dc5877163daf1e521d8",
+        "crc32": "8e6ec668",
+        "sha1": "e5f572ed1614eacc5442b7a9c15263d17eab6f9d",
+        "private": "true"
+      },
+      {
+        "name": "newcookbook00desm_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "newcookbook00desm_hocr.html",
+        "mtime": "1660737767",
+        "size": "5985",
+        "md5": "a0686799edccf92e21bd66d63d5715f7",
+        "crc32": "69fc8568",
+        "sha1": "13773bb1bf6ee0aef10f5a84ef4c949296183534",
+        "private": "true"
+      },
+      {
+        "name": "newcookbook00desm_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "11773",
+        "word_conf_11_20": "5689",
+        "word_conf_21_30": "16496",
+        "word_conf_31_40": "13877",
+        "word_conf_41_50": "31640",
+        "word_conf_51_60": "36966",
+        "word_conf_61_70": "47238",
+        "word_conf_71_80": "31174",
+        "word_conf_81_90": "9359",
+        "word_conf_91_100": "31420",
+        "format": "OCR Search Text",
+        "original": "newcookbook00desm_hocr.html",
+        "mtime": "1660737872",
+        "size": "409266",
+        "md5": "bc64e991db7b6fc51361a79158641feb",
+        "crc32": "4caccd4e",
+        "sha1": "fe05d7adb106fb58e015418f016d3a45f23d8e2f",
+        "private": "true"
+      },
+      {
+        "name": "newcookbook00desm_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "newcookbook00desm_orig_jp2.tar",
+        "md5": "37a7e1723f68980b3cd7a41d4dd71418",
+        "mtime": "1263934616",
+        "size": "256225100",
+        "crc32": "5ff2a7cf",
+        "sha1": "5acb5f2ce30443cfbb57d4d68f2482a81e75a79f",
+        "private": "true",
+        "filecount": "498"
+      },
+      {
+        "name": "newcookbook00desm_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "newcookbook00desm.epub",
+        "mtime": "1753674487",
+        "size": "50362825",
+        "md5": "e7d747297b9e9e15122728ce5a8503c7",
+        "crc32": "b1685a29",
+        "sha1": "52973fbeb36c1bd9454edb63da0b115effb5f1e3"
+      },
+      {
+        "name": "newcookbook00desm_loans.json",
+        "source": "original",
+        "mtime": "1594170609",
+        "size": "8603",
+        "format": "JSON",
+        "private": "true",
+        "md5": "4f13e0a9cf7d097c738297151807c1d7",
+        "crc32": "9cdfb086",
+        "sha1": "3d04da7ffea444bf8d4c54d1346aba07cc15ae3e"
+      },
+      {
+        "name": "newcookbook00desm_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "c8d96945972fab65a207327f7bf6a5f4",
+        "mtime": "1263576240",
+        "size": "2456",
+        "crc32": "d4e0e486",
+        "sha1": "b6caec9f1b36003d06c394c2578ced6cc29ff25a"
+      },
+      {
+        "name": "newcookbook00desm_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "newcookbook00desm_xisbn.json",
+        "mtime": "1454712219",
+        "size": "1621",
+        "md5": "46f565e9c0fedc3bf20c6c0453214831",
+        "crc32": "d2d1d979",
+        "sha1": "e822302b7db62fd2430bd1215f7909ca1d90bd3b",
+        "private": "true"
+      },
+      {
+        "name": "newcookbook00desm_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "52edbedf09913bb074ecfe6b8f926186",
+        "mtime": "1263576240",
+        "size": "761",
+        "crc32": "abb86036",
+        "sha1": "56dffea692fb25e3b9ec8f57a946c6435d66155b"
+      },
+      {
+        "name": "newcookbook00desm_meta.sqlite",
+        "source": "original",
+        "mtime": "1467781203",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "04300bcb9c32b86a1103c356c4ca3800",
+        "crc32": "40293785",
+        "sha1": "8e734199ed303257ff91fdd370dccb47f84e9c2f"
+      },
+      {
+        "name": "newcookbook00desm_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753674488",
+        "size": "4938",
+        "md5": "e050e6caacd180221f32538418553b8b",
+        "crc32": "3fdc7f73",
+        "sha1": "a25561cb5e8ce874231ffc2e8cbeb5316e94206a"
+      },
+      {
+        "name": "newcookbook00desm_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "6a6d20d9ea01aa329b77173f2f0e5d26",
+        "mtime": "1263576240",
+        "size": "393",
+        "crc32": "8da6326",
+        "sha1": "872b026884f53b62b0a96b79bea8928d1b18bffc"
+      },
+      {
+        "name": "newcookbook00desm_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "22bf81010e55b43c9f635d345d8aecb5",
+        "mtime": "1263923231",
+        "size": "441282560",
+        "crc32": "e254df89",
+        "sha1": "b7d67f510647d9d2b6e766eb21af3908f5f184cd",
+        "private": "true",
+        "filecount": "498"
+      },
+      {
+        "name": "newcookbook00desm_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "newcookbook00desm_hocr.html",
+        "mtime": "1717456019",
+        "size": "82701",
+        "md5": "7318eabb938a94c011e7e240c7beda1b",
+        "crc32": "0a573d4a",
+        "sha1": "8f4594db95c8f010e72081cfd5409a1bed807e76",
+        "private": "true"
+      },
+      {
+        "name": "newcookbook00desm_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "09a2c2e691cb38b4435abfde98df6a43",
+        "mtime": "1670741554",
+        "size": "258229",
+        "crc32": "1e44295c",
+        "sha1": "e8b0df16267b4f7fd1f9b1001a0111daafb69dc5"
+      },
+      {
+        "name": "newcookbook00desm_xisbn.json",
+        "source": "original",
+        "mtime": "1454651970",
+        "size": "2962",
+        "md5": "f3e20a300ef79280da416ffbc60a44ae",
+        "crc32": "223cc7e9",
+        "sha1": "1ce365e48f235fcfffef32ba56bbe4a0eab35a50",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753674488,
+    "item_size": 1023732465,
+    "metadata": {
+      "title": "New cook book",
+      "creator": "Better homes and gardens",
+      "subject": "Cookery, American",
+      "description": [
+        "At head of title: Better homes and gardens",
+        "Includes index"
+      ],
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "date": "1982-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696008904",
+        "9780696008900"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA104807",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "la",
+      "mediatype": "texts",
+      "updatedate": "2010-01-15 17:24:01",
+      "updater": "LineK",
+      "identifier": "newcookbook00desm",
+      "uploader": "line@archive.org",
+      "addeddate": "2010-01-15 17:24:03",
+      "publicdate": "2010-01-15 17:24:07",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-angela-chance@archive.org",
+      "scanner": "scribe3.la.archive.org",
+      "scandate": "20100119162258",
+      "imagecount": "494",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/newcookbook00desm",
+      "identifier-ark": "ark:/13960/t3902rg5z",
+      "bookplateleaf": "0004",
+      "curation": "[curator]kellycritch@archive.org[/curator][date]20100203143352[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:newcookbook00desm:pdf:941c7a04-fe96-4f07-8382-9276824343b2",
+        "urn:acs6:newcookbook00desm:epub:4a02864b-54c7-480d-a84a-6861f7dae362",
+        "urn:oclc:record:1036807310",
+        "urn:lcp:newcookbook00desm:lcpdf:cb2616f1-c08c-4c36-9f4f-a29bca1d0d15",
+        "urn:lcp:newcookbook00desm:epub:8f28e919-8781-4307-9786-9005e07625f5"
+      ],
+      "donor": "alibris",
+      "extramarc": "University of Illinois Urbana-Champaign (PZ)",
+      "city": "Des Moines, Iowa",
+      "edition": "1st casebound ed.",
+      "oclc-id": [
+        "317419169",
+        "793529672",
+        "8819769"
+      ],
+      "lccn": "81067547",
+      "related-external-id": [
+        "urn:isbn:0696224038",
+        "urn:lccn:2005921398",
+        "urn:lccn:2006921302",
+        "urn:oclc:671722682",
+        "urn:oclc:71333987",
+        "urn:oclc:416504831",
+        "urn:isbn:0808505440",
+        "urn:oclc:779650164",
+        "urn:isbn:0696234491",
+        "urn:oclc:173275981",
+        "urn:oclc:232868553",
+        "urn:isbn:0696000113",
+        "urn:lccn:79055162",
+        "urn:oclc:650511766",
+        "urn:oclc:7771804",
+        "urn:isbn:0696225654",
+        "urn:lccn:83062526",
+        "urn:oclc:671848376",
+        "urn:isbn:0696235110",
+        "urn:lccn:2007925868",
+        "urn:oclc:174964307",
+        "urn:oclc:174969690",
+        "urn:oclc:725062849",
+        "urn:isbn:0696008254",
+        "urn:oclc:10436662",
+        "urn:oclc:10627609",
+        "urn:isbn:0553562916",
+        "urn:oclc:28239112",
+        "urn:oclc:704904257",
+        "urn:oclc:779012789"
+      ],
+      "backup_location": "ia903604_25",
+      "openlibrary_edition": "OL3789565M",
+      "openlibrary_work": "OL15162951W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Fri Dec 25 11:55:34 UTC 2020",
+        "Wed Apr 3 10:06:27 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801504.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA-MC-1300018",
+              "IA-MC-1300028",
+              "IA-MC-1200024"
+            ],
+            "num_copies": 3
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 09:55:05.219798"
+        }
+      }
+    },
+    "uniq": 1572844044,
+    "workable_servers": [
+      "ia801504.us.archive.org",
+      "ia601504.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/317419169?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "81067547"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Sandra Granseth].",
+          "ed": "1st casebound ed.",
+          "year": "1982",
+          "isbn": [
+            "0696008904"
+          ],
+          "title": "New cook book",
+          "oclcnum": [
+            "317419169",
+            "793529672",
+            "8819769"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/671722682?referer=xid"
+          ],
+          "publisher": "Better Homes and Gardens Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2005921398",
+            "2006921302"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "ed": "14th ed., Limited ed.",
+          "year": "2005",
+          "isbn": [
+            "0696224038"
+          ],
+          "title": "Better homes and gardens New cook book.",
+          "oclcnum": [
+            "671722682",
+            "71333987",
+            "416504831"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/779650164?referer=xid"
+          ],
+          "isbn": [
+            "0808505440"
+          ],
+          "year": "1981",
+          "form": [
+            "BA"
+          ],
+          "city": "New York : Bantam",
+          "lang": "eng",
+          "title": "Better homes and gardens new cook book",
+          "oclcnum": [
+            "779650164"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/173275981?referer=xid"
+          ],
+          "publisher": "Meredith Books",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "2006921302"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Jan Miller].",
+          "ed": "14th ed.",
+          "year": "2006",
+          "isbn": [
+            "0696234491"
+          ],
+          "title": "Better homes and gardens new cook book.",
+          "oclcnum": [
+            "173275981",
+            "232868553"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/650511766?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "79055162"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Sandra Granseth].",
+          "ed": "9th ed.",
+          "year": "1981",
+          "isbn": [
+            "0696000113"
+          ],
+          "title": "New cook book",
+          "oclcnum": [
+            "650511766",
+            "7771804"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/416504831?referer=xid"
+          ],
+          "publisher": "Better Homes and Gardens",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2006921302",
+            "83062526"
+          ],
+          "lang": "eng",
+          "city": "Des Moines",
+          "author": "[editor, Sandra Granseth].",
+          "ed": "14th ed.",
+          "year": "2006",
+          "isbn": [
+            "0696225654"
+          ],
+          "title": "Better Homes and Gardens new cook book.",
+          "oclcnum": [
+            "416504831",
+            "671848376",
+            "71333987"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/174964307?referer=xid"
+          ],
+          "publisher": "Meredith Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "2007925868"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "ed": "Limited ed.",
+          "year": "2007",
+          "isbn": [
+            "0696235110"
+          ],
+          "title": "Better homes and gardens new cook book : celebrating the promise.",
+          "oclcnum": [
+            "174964307",
+            "174969690",
+            "725062849"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/10436662?referer=xid"
+          ],
+          "publisher": "Better Homes and Gardens",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "83062526"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "Better Homes and Gardens.",
+          "ed": "New soft cover ed., 1st trade pbk. ed.",
+          "year": "1981",
+          "isbn": [
+            "0696008254"
+          ],
+          "title": "New cook book",
+          "oclcnum": [
+            "10436662",
+            "10627609"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/28239112?referer=xid"
+          ],
+          "publisher": "Bantam Books",
+          "form": [
+            "BC"
+          ],
+          "lang": "eng",
+          "city": "New York",
+          "ed": "Bantam 10th rev. ed.",
+          "year": "1993",
+          "isbn": [
+            "0553562916"
+          ],
+          "title": "New cook book.",
+          "oclcnum": [
+            "28239112",
+            "704904257",
+            "779012789"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Better homes and gardens",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa, Illinois; Digitized scan available"
+}

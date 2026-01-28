@@ -1,0 +1,507 @@
+{
+  "source": "internet_archive",
+  "identifier": "foodsofireland0000shee",
+  "title": "Foods of Ireland",
+  "creator": "Sheen, Barbara",
+  "year": 2011,
+  "subject": [
+    "Cooking, Irish -- Juvenile literature",
+    "Cooking, Irish",
+    "Manners and customs",
+    "Irish cooking",
+    "Ireland -- Social life and customs -- Juvenile literature",
+    "Ireland -- Social life and customs",
+    "Ireland"
+  ],
+  "description": [
+    "64 pages : 24 cm",
+    "Explores the foods, cooking traditions, customs, eating habits, and food sources of Ireland",
+    "Includes bibliographical references (pages 57-58) and index",
+    "Basic ingredients -- Simple, filling, and flavorful -- It is tea time -- Let's celebrate"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/foodsofireland0000shee"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790001.ca.archive.org",
+          "dir": "/0/items/foodsofireland0000shee"
+        }
+      ]
+    },
+    "created": 1758559057,
+    "d1": "ia903200.us.archive.org",
+    "d2": "ia803200.us.archive.org",
+    "dir": "/17/items/foodsofireland0000shee",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660024073",
+        "size": "17873",
+        "md5": "2f2b7aad5847a8eb17b0e8f8c2279762",
+        "crc32": "2a04bfb7",
+        "sha1": "8b0c0ce76801da3dcabcb5318c360377abac2742",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "foodsofireland0000shee.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "foodsofireland0000shee_hocr.html",
+        "mtime": "1753354723",
+        "size": "23379051",
+        "private": "true",
+        "md5": "6014bda14a299157e365a47c54e84b8f",
+        "crc32": "92aa48fa",
+        "sha1": "b1f545f0bf03e152aef8715ac3beaca6d016d838"
+      },
+      {
+        "name": "foodsofireland0000shee.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "foodsofireland0000shee.pdf",
+        "mtime": "1753354574",
+        "size": "10254551",
+        "md5": "3fc202c84624fa73aa01ecc7a7c0ebf9",
+        "crc32": "f8066d0e",
+        "sha1": "661d8a3cc315d73c857c113d66efb10faa7701c2"
+      },
+      {
+        "name": "foodsofireland0000shee.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "foodsofireland0000shee_page_numbers.json",
+        "mtime": "1722357032",
+        "size": "9686206",
+        "md5": "63413ba3727eb27270e162edb83a8da2",
+        "crc32": "73bfc7ee",
+        "sha1": "ba67405f7221f39fb04857436aa0b32ac3f1f010",
+        "private": "true"
+      },
+      {
+        "name": "foodsofireland0000shee_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "foodsofireland0000shee_jp2.zip",
+        "mtime": "1535779206",
+        "size": "912310",
+        "md5": "9c705e12a2cbcd3247e358053df5e58f",
+        "crc32": "6e3b555f",
+        "sha1": "473583662e6b6ac91563841c2c2f7bc07b25a5c2",
+        "private": "true"
+      },
+      {
+        "name": "foodsofireland0000shee_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "foodsofireland0000shee_abbyy.gz",
+        "mtime": "1660024004",
+        "size": "748547",
+        "md5": "84401fbfe25848a15658a1990efd0199",
+        "crc32": "1e78eccc",
+        "sha1": "7511f16e816a9761c06eed9e0ad32317c9454f9b",
+        "private": "true"
+      },
+      {
+        "name": "foodsofireland0000shee_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "foodsofireland0000shee_scandata.xml",
+        "mtime": "1670015852",
+        "size": "779",
+        "md5": "a20af33e83cce2d5b08085f3039757cc",
+        "crc32": "eee74b37",
+        "sha1": "b7b8d7e43e7fcb6c46ad33fdee5fa5089a7e4eee",
+        "private": "true"
+      },
+      {
+        "name": "foodsofireland0000shee_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1660023961",
+        "size": "1792",
+        "md5": "3069a8f130a1763acd37ab283bcf409a",
+        "crc32": "80a71e7e",
+        "sha1": "9de063bc61bda33954a9432c75a9a9b429619d13"
+      },
+      {
+        "name": "foodsofireland0000shee_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "foodsofireland0000shee_djvu.xml",
+        "mtime": "1660024068",
+        "size": "67885",
+        "md5": "52823db0368c88c6f3236e6846d6f627",
+        "crc32": "266d8f6c",
+        "sha1": "f8824cfbb5da84a3b88a25e933599246a5099355",
+        "private": "true"
+      },
+      {
+        "name": "foodsofireland0000shee_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "foodsofireland0000shee_hocr.html",
+        "mtime": "1660024041",
+        "size": "841791",
+        "md5": "6b2ae9ca8789d8e091df6b8f0d2aa524",
+        "crc32": "f322e1d8",
+        "sha1": "8dbaa776b6f0f9abeefa6496c01edf788f006516",
+        "private": "true"
+      },
+      {
+        "name": "foodsofireland0000shee_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "foodsofireland0000shee_abbyy.gz",
+        "mtime": "1535779678",
+        "size": "3061832",
+        "md5": "6d1c5aaf94d46eb3bffb46c130af1e85",
+        "crc32": "3724acf4",
+        "sha1": "9f608619153d43a1adf4aa62b86834566640baeb"
+      },
+      {
+        "name": "foodsofireland0000shee_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "foodsofireland0000shee.pdf",
+        "mtime": "1722357503",
+        "size": "9652645",
+        "md5": "cef16ae8677f7300d1fa698ea13dae3b",
+        "crc32": "5f3cd9ae",
+        "sha1": "5a2f0da79a92cd4d9e987c4d8111287d3cba9219"
+      },
+      {
+        "name": "foodsofireland0000shee_events.json",
+        "source": "original",
+        "mtime": "1535777631",
+        "size": "50",
+        "md5": "877690709694631473c4a9e6512e3bf6",
+        "crc32": "54aa1218",
+        "sha1": "5d3e5ca71f4916458dd7d6776dd3edb286a23446",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "foodsofireland0000shee_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "88c1d784d81660679fd43511285394dc",
+        "summation": "md5"
+      },
+      {
+        "name": "foodsofireland0000shee_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "foodsofireland0000shee_chocr.html.gz",
+        "mtime": "1660024033",
+        "size": "1748275",
+        "md5": "7fec02a29dea989e4289e555547f159d",
+        "crc32": "ce0f8d54",
+        "sha1": "d9e52b1953b7965ec997503b59209fc76c8a73d1",
+        "private": "true"
+      },
+      {
+        "name": "foodsofireland0000shee_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "foodsofireland0000shee_hocr.html",
+        "mtime": "1660024045",
+        "size": "816",
+        "md5": "5f08a8787bf81e947897cc625c091ad9",
+        "crc32": "720de2bd",
+        "sha1": "88b6e5749bbb220ee0af42a3901d89554ddbe692",
+        "private": "true"
+      },
+      {
+        "name": "foodsofireland0000shee_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "75",
+        "word_conf_11_20": "22",
+        "word_conf_21_30": "48",
+        "word_conf_31_40": "57",
+        "word_conf_41_50": "79",
+        "word_conf_51_60": "113",
+        "word_conf_61_70": "179",
+        "word_conf_71_80": "503",
+        "word_conf_81_90": "1649",
+        "word_conf_91_100": "7172",
+        "format": "OCR Search Text",
+        "original": "foodsofireland0000shee_hocr.html",
+        "mtime": "1660024056",
+        "size": "23814",
+        "md5": "634b8933454c18a8bbd1781b2128c9d8",
+        "crc32": "5679409f",
+        "sha1": "2ddbdadc596f92626c2631b61347292ae98b158f",
+        "private": "true"
+      },
+      {
+        "name": "foodsofireland0000shee_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "foodsofireland0000shee_orig_jp2.tar",
+        "mtime": "1535778646",
+        "size": "81646503",
+        "md5": "bca908eea0f5a65b98db5ee875fcec36",
+        "crc32": "5882b407",
+        "sha1": "67ebe3c424d124837b3c2630e11dfe772d841afa",
+        "private": "true",
+        "filecount": "74"
+      },
+      {
+        "name": "foodsofireland0000shee_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "foodsofireland0000shee.epub",
+        "mtime": "1753354772",
+        "size": "23710539",
+        "md5": "06620c631e89958a767bd745b83be15e",
+        "crc32": "4d8f4762",
+        "sha1": "189bb07971a96d064d1feec824aa2bbfa956ec8a"
+      },
+      {
+        "name": "foodsofireland0000shee_loans.json",
+        "source": "original",
+        "mtime": "1593701469",
+        "size": "4387",
+        "format": "JSON",
+        "private": "true",
+        "md5": "f62db701f574a2c0e7d6156c21c71e36",
+        "crc32": "bc7032a4",
+        "sha1": "f692d7d901bc535e04fb54777ce2667cc82aff86"
+      },
+      {
+        "name": "foodsofireland0000shee_marc.xml",
+        "source": "original",
+        "mtime": "1660023961",
+        "size": "7116",
+        "format": "MARC",
+        "md5": "c61a2bd1db5e41884bb9ef120f16dec5",
+        "crc32": "16eba000",
+        "sha1": "73c3576d46a4e11831a7e06de164e0ad49c010dd"
+      },
+      {
+        "name": "foodsofireland0000shee_meta.mrc",
+        "source": "original",
+        "mtime": "1535038522",
+        "size": "2114",
+        "md5": "0f4c7d23d926604823c929758942c26a",
+        "crc32": "cad481cf",
+        "sha1": "38fe8fff6bdbc53a9529f4fd043573128b4d9813",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "foodsofireland0000shee_meta.sqlite",
+        "source": "original",
+        "mtime": "1535777657",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "c76ac53807dff3cdd74f026edf91c623",
+        "crc32": "d6e522e3",
+        "sha1": "065a5a0e440de4d05e85042c55eafae2b2581f22"
+      },
+      {
+        "name": "foodsofireland0000shee_meta.xml",
+        "source": "original",
+        "mtime": "1753354772",
+        "size": "3583",
+        "format": "Metadata",
+        "md5": "def689bf9bc86add88de2fae279a93d1",
+        "crc32": "c418af26",
+        "sha1": "45da2c1432fa80d5f5edfb2edc4b45f1e952f408"
+      },
+      {
+        "name": "foodsofireland0000shee_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1535777657",
+        "size": "169779200",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "918bd48001ae61190227e267ccafa621",
+        "crc32": "0d08fec0",
+        "sha1": "fd2995410fb540ca8593421bd4f0ed186af92fb1",
+        "filecount": "74"
+      },
+      {
+        "name": "foodsofireland0000shee_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "59",
+        "format": "Page Numbers JSON",
+        "original": "foodsofireland0000shee_hocr.html",
+        "mtime": "1722357032",
+        "size": "12369",
+        "md5": "db98f185b75bcdfced45595fc464d7d5",
+        "crc32": "e8edffee",
+        "sha1": "fa3b90602d2d9cef8f85a8589420799fd845de83",
+        "private": "true"
+      },
+      {
+        "name": "foodsofireland0000shee_scandata.xml",
+        "source": "original",
+        "mtime": "1670015852",
+        "size": "75590",
+        "format": "Scandata",
+        "md5": "f8026757745b7c530b25a246fdf43137",
+        "crc32": "2c753097",
+        "sha1": "b8aa407ff895a67d9b01a59043bbc71f7a110c2b"
+      },
+      {
+        "name": "foodsofireland0000shee_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "foodsofireland0000shee_djvu.xml",
+        "mtime": "1670015832",
+        "size": "7724",
+        "md5": "6924718813b27fd31f5bca6ca200bf7d",
+        "crc32": "f88e6231",
+        "sha1": "0180523648d5f164b502553f132e372298fd6bf5",
+        "private": "true"
+      },
+      {
+        "name": "logs/foodsofireland0000shee_iabdash_2018-08-2323:30:44.log",
+        "source": "original",
+        "mtime": "1535038383",
+        "size": "678",
+        "md5": "bb98ad4911c6e61850d11d0ffa23cb67",
+        "crc32": "54a629e6",
+        "sha1": "8fe1c35fa7c8f2d98848824c02c764c511fbd5ea",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/foodsofireland0000shee_scanning_2018-08-2323:30:34.log",
+        "source": "original",
+        "mtime": "1535038244",
+        "size": "132939",
+        "md5": "41a0b1aaf49f367a8f30c34e88cdeaca",
+        "crc32": "39b63e58",
+        "sha1": "5e4c4148f93285325a8a1497c507e460ec1018bd",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753354772,
+    "item_size": 335798367,
+    "metadata": {
+      "identifier": "foodsofireland0000shee",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "china",
+      "contributor": "Internet Archive",
+      "creator": "Sheen, Barbara",
+      "creator-alt-script": "None",
+      "date": "2011-01-01",
+      "description": [
+        "64 pages : 24 cm",
+        "Explores the foods, cooking traditions, customs, eating habits, and food sources of Ireland",
+        "Includes bibliographical references (pages 57-58) and index",
+        "Basic ingredients -- Simple, filling, and flavorful -- It is tea time -- Let's celebrate"
+      ],
+      "isbn": [
+        "9780737751147",
+        "0737751142"
+      ],
+      "language": "eng",
+      "lccn": "2010018791",
+      "mediatype": "texts",
+      "operator": "associate-tszyin-fong@archive.org",
+      "ppi": "300",
+      "publisher": "Farmington Hills, MI : KidHaven Press",
+      "repub_state": "22",
+      "scanner": "ttscribe6.hongkong.archive.org",
+      "scanningcenter": "hongkong",
+      "subject": [
+        "Cooking, Irish -- Juvenile literature",
+        "Cooking, Irish",
+        "Cooking, Irish",
+        "Manners and customs",
+        "Irish cooking",
+        "Ireland -- Social life and customs -- Juvenile literature",
+        "Ireland -- Social life and customs",
+        "Ireland",
+        "Ireland -- Social life and customs"
+      ],
+      "title": "Foods of Ireland ",
+      "title-alt-script": "None",
+      "tts_version": "v1.60",
+      "uploader": "ttscribe6.hongkong@archive.org",
+      "addeddate": "2018-08-23 15:30:11",
+      "publicdate": "2018-08-23 15:30:54",
+      "imagecount": "74",
+      "scandate": "20180823171752",
+      "republisher_operator": "republisher4.dhaka@archive.org",
+      "republisher_date": "20180901104715",
+      "republisher_time": "575",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/foodsofireland0000shee",
+      "identifier-ark": "ark:/13960/t54f8zk9g",
+      "bookplateleaf": "0002",
+      "external-identifier": [
+        "urn:acs6:foodsofireland0000shee:epub:893c19b1-6961-4076-8c03-c6b2ddec12bd",
+        "urn:acs6:foodsofireland0000shee:pdf:62311db9-e5d6-4ec5-9f1e-55b49d9723d6",
+        "urn:lcp:foodsofireland0000shee:lcpdf:37d3bd7d-430a-4fa4-aa0c-60031559b8b1",
+        "urn:lcp:foodsofireland0000shee:epub:3cfd5bbb-b569-41d4-9738-d9973a3c2667"
+      ],
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20180905191349[/date]",
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "boxid": "IA1330718",
+      "sponsordate": "20180831",
+      "openlibrary_edition": "OL26093171M",
+      "openlibrary_work": "OL17505190W",
+      "access-restricted-item": "true",
+      "backup_location": "ia906801_3",
+      "oclc-id": [
+        "609539014",
+        "681478916"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "59",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia803200.us.archive.org",
+    "uniq": 938978129,
+    "workable_servers": [
+      "ia803200.us.archive.org",
+      "ia903200.us.archive.org"
+    ]
+  },
+  "institution": "Sheen, Barbara",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

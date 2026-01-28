@@ -1,0 +1,596 @@
+{
+  "source": "internet_archive",
+  "identifier": "fromwisconsin00palm",
+  "title": "From Wisconsin--more than a cookbook",
+  "creator": "Gluesing, Laurie",
+  "year": 1991,
+  "subject": [
+    "Regional & Ethnic - American - Middle Western States",
+    "Cooking / Wine",
+    "Cooking, American",
+    "Manners and customs"
+  ],
+  "description": "Includes indexes",
+  "metadata": {
+    "created": 1758555124,
+    "d1": "ia601205.us.archive.org",
+    "d2": "ia801205.us.archive.org",
+    "dir": "/29/items/fromwisconsin00palm",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660050254",
+        "size": "16632",
+        "md5": "91696b10470c6195b2fcc8a7e369b80b",
+        "crc32": "7986eb6e",
+        "sha1": "af45d949d2de1d87bf002e109fac9c99c1b02058",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "fromwisconsin00palm.cdx.gz",
+        "source": "original",
+        "mtime": "1454925920",
+        "size": "6872",
+        "md5": "8dbfa9f21a57230efbf61c493969a9c1",
+        "crc32": "8f690cd7",
+        "sha1": "a7f3d69e3116da37df9fed64538896ab54075138",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm.cdx.idx",
+        "source": "original",
+        "mtime": "1454925920",
+        "size": "35",
+        "md5": "5453cb3d4e56712af58ed8fe8bc90c0c",
+        "crc32": "5ba4337f",
+        "sha1": "b7960ff4cc7e597737755aaf89845b247856a2d3",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "fromwisconsin00palm_hocr.html",
+        "mtime": "1756006412",
+        "size": "22853581",
+        "private": "true",
+        "md5": "80d81a33be6ae545a2754b9e22dd8bc3",
+        "crc32": "9bdad6f6",
+        "sha1": "7883c87333ba318b8425d8a2031b09d3e5f0f422"
+      },
+      {
+        "name": "fromwisconsin00palm.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "fromwisconsin00palm.pdf",
+        "mtime": "1756005825",
+        "size": "21848051",
+        "md5": "e75e153f2d39f1d9da5e3552da2ce11d",
+        "crc32": "94f76f1f",
+        "sha1": "b6cc1d8bdd3fa31468020c6d42df50a80a6df183"
+      },
+      {
+        "name": "fromwisconsin00palm.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "fromwisconsin00palm_page_numbers.json",
+        "mtime": "1722692617",
+        "size": "21507715",
+        "md5": "fc0bc214ebc8be953d3ba3eec2408e4f",
+        "crc32": "af521f9f",
+        "sha1": "dc0bcf4a4e32c748b3e0cf78167eeeef0ca434e7",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1362609601",
+        "size": "506546",
+        "md5": "338b251ea8fe33d1cdbca8da2d5db456",
+        "crc32": "2a630eb1",
+        "sha1": "bd094f20b480fc49fd4f78a280835c6dab9cc70b"
+      },
+      {
+        "name": "fromwisconsin00palm.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "fromwisconsin00palm.warc.gz",
+        "mtime": "1454925900",
+        "size": "7046",
+        "md5": "78ef39a3081b5d4210220de8ed97c581",
+        "crc32": "ef8d1b24",
+        "sha1": "3cf8bd63bbe28b8302ea138db9a4af323a856fd3",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "fromwisconsin00palm_jp2.zip",
+        "mtime": "1536237086",
+        "size": "4285069",
+        "md5": "48c791c6c83eadb6fc04572bcb594a7e",
+        "crc32": "5ad96862",
+        "sha1": "81bf9303ebf3e76eee814824771b786e8150ee72",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "fromwisconsin00palm_abbyy.gz",
+        "mtime": "1660050085",
+        "size": "3438279",
+        "md5": "e4bf948584675e9b607c828ac76e7331",
+        "crc32": "310e8ad5",
+        "sha1": "915f57bafc413d67a2c13b0430b75bc633094345",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "fromwisconsin00palm_scandata.xml",
+        "mtime": "1670047975",
+        "size": "767",
+        "md5": "79d8597333bfab9730106006d5780909",
+        "crc32": "3501a507",
+        "sha1": "bdfacf772015b40710ab1a551f081deabdfb51f2",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1454925897",
+        "size": "772",
+        "md5": "a9dba39602756dbeb211f9c526da079e",
+        "crc32": "3a8ad1f5",
+        "sha1": "b8fe838cd44cecf42aa50082e643508d80d239eb"
+      },
+      {
+        "name": "fromwisconsin00palm_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "fromwisconsin00palm_djvu.xml",
+        "mtime": "1660050235",
+        "size": "304141",
+        "md5": "8af32b7eb6da661fd464181964edd1f6",
+        "crc32": "0c6577f9",
+        "sha1": "2d2f19d772c393153ebc93de5c4fa2b9d7d5dd52",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "fromwisconsin00palm_hocr.html",
+        "mtime": "1660050178",
+        "size": "3823890",
+        "md5": "1e5a7d8a2c6edae64f89e5fd0e970869",
+        "crc32": "1ab48b42",
+        "sha1": "a7a3c8f95535c8196836821f67781c8e50f77bc2",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "fromwisconsin00palm_abbyy.gz",
+        "mtime": "1536239051",
+        "size": "2001448",
+        "md5": "0bfd926339a8381b89676cfa5c392470",
+        "crc32": "de0bbf9d",
+        "sha1": "213d52d2bb9124a07fcc3d098790c99ee3c26c01"
+      },
+      {
+        "name": "fromwisconsin00palm_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "fromwisconsin00palm.pdf",
+        "mtime": "1722693120",
+        "size": "21347501",
+        "md5": "589bc465081dab169cbfe70b001e5080",
+        "crc32": "d06bfb1e",
+        "sha1": "cc9ca067a8b01066dabd6ebe60cf377f1a5f152a"
+      },
+      {
+        "name": "fromwisconsin00palm_events.json",
+        "source": "original",
+        "mtime": "1536231147",
+        "size": "50",
+        "md5": "f788cfcb6cf7b958f42c9584e12f33ff",
+        "crc32": "e0380ca9",
+        "sha1": "2e12719d9a6e8918a4113e0181969bf903e710a9",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "d2c50a22acbdc4947c8e7af17252e011",
+        "summation": "md5"
+      },
+      {
+        "name": "fromwisconsin00palm_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "fromwisconsin00palm_chocr.html.gz",
+        "mtime": "1660050155",
+        "size": "8251445",
+        "md5": "17b46145cb99b48452998839ac537c70",
+        "crc32": "4f36d586",
+        "sha1": "feef735b3118440194ac9a1b86cc2850f38e43b0",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "fromwisconsin00palm_hocr.html",
+        "mtime": "1660050204",
+        "size": "2837",
+        "md5": "e426745b37e57f315eaec118f732a41d",
+        "crc32": "3607cc8e",
+        "sha1": "e4909ee5d5a4f1fbe2cdb281e75089350e92c147",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1505",
+        "word_conf_11_20": "105",
+        "word_conf_21_30": "303",
+        "word_conf_31_40": "557",
+        "word_conf_41_50": "845",
+        "word_conf_51_60": "1656",
+        "word_conf_61_70": "4077",
+        "word_conf_71_80": "8855",
+        "word_conf_81_90": "12832",
+        "word_conf_91_100": "13658",
+        "format": "OCR Search Text",
+        "original": "fromwisconsin00palm_hocr.html",
+        "mtime": "1660050224",
+        "size": "93060",
+        "md5": "8a891bf9e561ee72a37a29519cfab43c",
+        "crc32": "9ca281ef",
+        "sha1": "c3519cb6396af2d7b09143161c0659a5def0a214",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "fromwisconsin00palm_orig_jp2.tar",
+        "mtime": "1536235564",
+        "size": "214912261",
+        "md5": "3298064f5ce443ea43a2b9945087d5d6",
+        "crc32": "07e74d97",
+        "sha1": "1a4985b170710ef16bb16d2ab1a66b5183e9e5ca",
+        "private": "true",
+        "filecount": "244"
+      },
+      {
+        "name": "fromwisconsin00palm_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "fromwisconsin00palm.epub",
+        "mtime": "1756006745",
+        "size": "23335299",
+        "md5": "52dec51cd0827e7edc945142e6eb649a",
+        "crc32": "c634344b",
+        "sha1": "45afdc2e80851a910baf6391b6d08dc9a060070d"
+      },
+      {
+        "name": "fromwisconsin00palm_loans.json",
+        "source": "original",
+        "mtime": "1593237816",
+        "size": "1644",
+        "format": "JSON",
+        "private": "true",
+        "md5": "d2c9099f62aceb75c8e647af4e3c9d5d",
+        "crc32": "fee0de92",
+        "sha1": "5dc59d6ac551be8be83aa781b512478141d79bf7"
+      },
+      {
+        "name": "fromwisconsin00palm_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1454925897",
+        "size": "3978",
+        "md5": "33885f238e371831859bc5b6be024b70",
+        "crc32": "0bfd53e7",
+        "sha1": "caf1d4e28b278461b6a10369242ba768f4279008"
+      },
+      {
+        "name": "fromwisconsin00palm_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "fromwisconsin00palm_xisbn.json",
+        "mtime": "1454925902",
+        "size": "242",
+        "md5": "2b913b9da2dbd0f508cd2e8b44878a25",
+        "crc32": "80e26549",
+        "sha1": "955aa730b166d1e9e699d266d5351468e7f544ca",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454925897",
+        "size": "1212",
+        "md5": "960f9bccf9406bb47355c09c25c7d96f",
+        "crc32": "a45b1292",
+        "sha1": "e2e51f3e254f4645ab410c2bf44696b67f49b698"
+      },
+      {
+        "name": "fromwisconsin00palm_meta.sqlite",
+        "source": "original",
+        "mtime": "1536231214",
+        "size": "14336",
+        "format": "Metadata",
+        "md5": "89ad9f01f0f07508be683e33a0421972",
+        "crc32": "ee7e3980",
+        "sha1": "966566ce01b4bb48cb7f5f0fd67091315a008850"
+      },
+      {
+        "name": "fromwisconsin00palm_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1756006745",
+        "size": "3291",
+        "md5": "1c2b6749fa944275f85a9a67aeebee87",
+        "crc32": "a126b69b",
+        "sha1": "a03c95f20458a59e0f729eb3d7d766e14b258484"
+      },
+      {
+        "name": "fromwisconsin00palm_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1362609601",
+        "size": "292",
+        "md5": "ada7656b11e8b1d47b71583652db7da4",
+        "crc32": "820d63aa",
+        "sha1": "cbe98fbd0e8c21306cefaf991a729212e0819190"
+      },
+      {
+        "name": "fromwisconsin00palm_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1536231212",
+        "size": "527267840",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "452c4aeaa00ea01c559fdbad932bff07",
+        "crc32": "eba86812",
+        "sha1": "4880a9609e1527306b7d755e01a488ee3e8e49b1",
+        "filecount": "244"
+      },
+      {
+        "name": "fromwisconsin00palm_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "fromwisconsin00palm_hocr.html",
+        "mtime": "1722692616",
+        "size": "40763",
+        "md5": "d0a98d2b8fd9baf8526d7eca2403a514",
+        "crc32": "dfb71784",
+        "sha1": "d9cba341deecdc8e268d544c1b016f33cd093036",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm_scandata.xml",
+        "source": "original",
+        "mtime": "1670047975",
+        "size": "250283",
+        "format": "Scandata",
+        "md5": "93d60807487e8e9da6b932932b97bd5f",
+        "crc32": "51e366a4",
+        "sha1": "db3b414c1b3ccee3bf939055b1c4b40ee2103157"
+      },
+      {
+        "name": "fromwisconsin00palm_toc.xml",
+        "source": "derivative",
+        "format": "Contents",
+        "original": "fromwisconsin00palm_djvu.xml",
+        "mtime": "1670047825",
+        "size": "6042",
+        "md5": "86372e410fce90f7b8f0e8ceea83d222",
+        "crc32": "0a53332b",
+        "sha1": "12a617d730edc990321138fd7c97856e4864020a",
+        "private": "true"
+      },
+      {
+        "name": "fromwisconsin00palm_xisbn.json",
+        "source": "original",
+        "mtime": "1454925253",
+        "size": "400",
+        "md5": "bc8a17f6caf8822f56a3fad554c9b82d",
+        "crc32": "0e68f2f9",
+        "sha1": "0b6c44507624919493666c26c781ca54a6625a0e",
+        "format": "OCLC xISBN JSON"
+      },
+      {
+        "name": "logs/fromwisconsin00palm_iabdash_2018-08-3119:16:00.log",
+        "source": "original",
+        "mtime": "1535714167",
+        "size": "674",
+        "md5": "167692fb00d421e670179dba73ecc898",
+        "crc32": "968e19bd",
+        "sha1": "b00606833186fdfb3f23298fb946bee64c941778",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/fromwisconsin00palm_scanning_2018-08-3119:15:53.log",
+        "source": "original",
+        "mtime": "1535714156",
+        "size": "821603",
+        "md5": "77c5952bd1b9e4c3229975820f7168af",
+        "crc32": "bfffedd5",
+        "sha1": "9f05f094b3b27fa45c272f7c6f2287e54d73b853",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 37,
+    "item_last_updated": 1756006745,
+    "item_size": 876955897,
+    "metadata": {
+      "publisher": "Shoreview, Minn. : Gluesing and Gluesing, Inc.",
+      "title": "From Wisconsin--more than a cookbook",
+      "isbn": [
+        "0963135708",
+        "9780963135704"
+      ],
+      "language": "eng",
+      "date": "1991-01-01",
+      "openlibrary": "OL8521959M",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "22",
+      "subject": [
+        "Regional & Ethnic - American - Middle Western States",
+        "Cooking / Wine",
+        "Cooking, American",
+        "Manners and customs"
+      ],
+      "updatedate": "2013-03-06 22:39:43",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "contributor": "Internet Archive",
+      "scanningcenter": "hongkong",
+      "shiptracking": "f0199",
+      "boxid": "IA1343321",
+      "identifier": "fromwisconsin00palm",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2013-03-06 22:40:03",
+      "publicdate": "2013-03-06 22:40:06",
+      "donor": "alibris",
+      "creator": [
+        "Gluesing, Laurie",
+        "Gluesing, Debra"
+      ],
+      "description": "Includes indexes",
+      "identifier-access": "http://archive.org/details/fromwisconsin00palm",
+      "identifier-ark": "ark:/13960/t7mp92f08",
+      "city": "Shoreview, Minn.",
+      "oclc-id": "25978566",
+      "backup_location": "ia905607_31",
+      "scanner": "ttscribe10.hongkong.archive.org",
+      "operator": "associate-tinming-wong@archive.org",
+      "tts_version": "v1.60-1-g2f920ca",
+      "imagecount": "244",
+      "scandate": "20180831123044",
+      "notes": "Text cut off.<br />Text cut off in gutter.<br />",
+      "ppi": "300",
+      "republisher_operator": "republisher9.dhaka@archive.org",
+      "republisher_date": "20180906165012",
+      "republisher_time": "912",
+      "foldoutcount": "0",
+      "bookplateleaf": "0008",
+      "external-identifier": [
+        "urn:acs6:fromwisconsin00palm:epub:170c9358-4317-4382-bdc7-20e5dc76231e",
+        "urn:acs6:fromwisconsin00palm:pdf:07b88129-79a9-42bb-a2d0-e0ecc644eb8b",
+        "urn:oclc:record:1149325294",
+        "urn:lcp:fromwisconsin00palm:lcpdf:2f9329f8-1da5-4ad5-8e5f-063aaf895bed",
+        "urn:lcp:fromwisconsin00palm:epub:62b9cbf8-88e6-430b-8db1-2088524daff4"
+      ],
+      "curation": "[curator]lenscriv@archive.org[/curator][date]20180906183303[/date]",
+      "scanfee": "0;1.45;0",
+      "invoice": "1213",
+      "openlibrary_edition": "OL26492063M",
+      "openlibrary_work": "OL17917772W",
+      "sponsordate": "20180930",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801205.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA-MC-0000049"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 06:32:24.329714"
+        }
+      }
+    },
+    "uniq": 1885300157,
+    "workable_servers": [
+      "ia801205.us.archive.org",
+      "ia601205.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/25978566?referer=xid"
+          ],
+          "publisher": "Gluesing and Gluesing, Inc.",
+          "form": [
+            "BC"
+          ],
+          "lang": "eng",
+          "city": "Shoreview, Minn.",
+          "author": "by Laurie Gluesing and Debra Gluesing ; illustrated by Alvera M. Lundin ; edited by Gigi Lambrecht.",
+          "year": "1991",
+          "isbn": [
+            "0963135708"
+          ],
+          "title": "From Wisconsin--more than a cookbook",
+          "oclcnum": [
+            "25978566"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Gluesing, Laurie",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Wisconsin"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Wisconsin; Digitized scan available"
+}

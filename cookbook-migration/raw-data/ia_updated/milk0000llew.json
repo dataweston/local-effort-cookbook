@@ -1,0 +1,523 @@
+{
+  "source": "internet_archive",
+  "identifier": "milk0000llew",
+  "title": "Milk",
+  "creator": "Llewellyn, Claire",
+  "year": 2005,
+  "subject": [
+    "Dairy processing -- Juvenile literature",
+    "Milk -- Pictorial works -- Juvenile literature",
+    "Milk",
+    "Dairying",
+    "Dairy products",
+    "Dairy processing"
+  ],
+  "description": [
+    "24 pages : 23 cm",
+    "Discusses how milk is taken from the cow, processed, and distributed to users",
+    "Includes index",
+    "Drinking milk -- Milk is good for us -- Cow's milk -- Milk for the calf -- Milking the cows -- From the farm to the dairy -- At the dairy -- Dairy foods -- Cooking with milk -- I know that ... -- Index -- About this book"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/milk0000llew"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/milk0000llew"
+        }
+      ]
+    },
+    "created": 1758555319,
+    "d1": "ia600905.us.archive.org",
+    "d2": "ia800905.us.archive.org",
+    "dir": "/11/items/milk0000llew",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660673724",
+        "size": "10954",
+        "md5": "b751b16d04ca3f42126e0d7e8255ae58",
+        "crc32": "517f1fe5",
+        "sha1": "835bd47821f571c313057515b03a75e8f41dfbaf",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/milk0000llew_iabdash_2020-10-1115:53:43.log",
+        "source": "original",
+        "mtime": "1602402830",
+        "size": "1271",
+        "md5": "1c09f866921b64cf1552d386e5d28d21",
+        "crc32": "6817f92f",
+        "sha1": "f804f22af5a8ff764c75da8613df88329f0971fe",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/milk0000llew_scanning_2020-10-1115:53:57.log",
+        "source": "original",
+        "mtime": "1602402841",
+        "size": "131696",
+        "md5": "4fbc7bec2326fdf576be4c593246b2e0",
+        "crc32": "079974f5",
+        "sha1": "d9c6c364255b4114047973ef3cd0aeb73fdd6357",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/milk0000llew_status_history_2020-10-1115:53:51.log",
+        "source": "original",
+        "mtime": "1602402836",
+        "size": "510",
+        "md5": "3fbf00589e32dc6815a0c5c7f270dfec",
+        "crc32": "4be04aa6",
+        "sha1": "17f4dbd72282bba11d0e7ac5c17ffdff8727f00f",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "milk0000llew_hocr.html",
+        "mtime": "1757072817",
+        "size": "11364376",
+        "private": "true",
+        "md5": "db9383f2eec538cce3cd92ecd3f7bd46",
+        "crc32": "2541bb24",
+        "sha1": "56ba84d93686e76e91cb907bda0c6e3a589120ed"
+      },
+      {
+        "name": "milk0000llew.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "milk0000llew.pdf",
+        "mtime": "1757072681",
+        "size": "4179443",
+        "md5": "7798dd0072e2f1294d6a1d4d32caaf40",
+        "crc32": "1517394e",
+        "sha1": "955aee76da337100ce50eaf4f9adcf661f20d1fe"
+      },
+      {
+        "name": "milk0000llew.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "milk0000llew_page_numbers.json",
+        "mtime": "1716040838",
+        "size": "3613465",
+        "md5": "0c21bd77b72d2fca96100618a5e35444",
+        "crc32": "4191cd3a",
+        "sha1": "61ea31407f373681ecff1357152d29d00512c0ac",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "milk0000llew_jp2.zip",
+        "mtime": "1602651291",
+        "size": "133704",
+        "md5": "77cabca5d08c5b61945157e0e32db686",
+        "crc32": "92745ff0",
+        "sha1": "676533e31b00d1def491ae2df533ef0124b89898",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "milk0000llew_abbyy.gz",
+        "mtime": "1660673558",
+        "size": "91600",
+        "md5": "c6631856941f2e0f8a0bef9ff98a11ff",
+        "crc32": "a81937f0",
+        "sha1": "02bee4ff952d4820d031b3b97f777ab4466d82f6",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "milk0000llew_scandata.xml",
+        "mtime": "1670675289",
+        "size": "740",
+        "md5": "9512172b6dc40b23b9bab2002eb43cdb",
+        "crc32": "054d3be5",
+        "sha1": "fdfb27896e5087d3d9b35921893b81688863a8ae",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1602649478",
+        "size": "1613",
+        "md5": "0ea1eecc45e1147aa800ecfd1a9b63d2",
+        "crc32": "bc1971f9",
+        "sha1": "dbf72dce0085bd53b00ccc69d3526a0d82146d19"
+      },
+      {
+        "name": "milk0000llew_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "milk0000llew_djvu.xml",
+        "mtime": "1660673717",
+        "size": "7309",
+        "md5": "4f08b328cf3d2ced589a1f73c5b5421c",
+        "crc32": "33845660",
+        "sha1": "59c699fbd915e222f30b8455d17ec2f85e171e2a",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "milk0000llew_hocr.html",
+        "mtime": "1660673629",
+        "size": "114931",
+        "md5": "4747a587a41fc25d50c86b2df8507dd9",
+        "crc32": "9116d8e4",
+        "sha1": "624029c27ee61094c82482adebb8e84b5eacf9bc",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "milk0000llew_abbyy.gz",
+        "mtime": "1602651308",
+        "size": "1672326",
+        "md5": "a7f2f01a30e9df2f59385b66a8babfd4",
+        "crc32": "6d472d89",
+        "sha1": "9b838ffccaf7ff7d739f75e85cfe79bd362a79f4"
+      },
+      {
+        "name": "milk0000llew_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "milk0000llew.pdf",
+        "mtime": "1716041636",
+        "size": "3599322",
+        "md5": "5a3d1fcfd4f50bee7c4a5d833c1499f4",
+        "crc32": "782d0156",
+        "sha1": "c7f88b41703a9973419f28190f0bf529986875f9"
+      },
+      {
+        "name": "milk0000llew_events.json",
+        "source": "original",
+        "mtime": "1602649362",
+        "size": "55",
+        "md5": "ce12c5be3cec777872d89ad8eaa6dd9e",
+        "crc32": "1353eeb6",
+        "sha1": "aa099895d0be68f8bdd200329b2a7fbe0241d1a1",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "2e14ff1e80e87586d4b20246f2f91d8d",
+        "summation": "md5"
+      },
+      {
+        "name": "milk0000llew_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "milk0000llew_chocr.html.gz",
+        "mtime": "1660673619",
+        "size": "273989",
+        "md5": "e3d477317f2945fe1fd2f74db3874da0",
+        "crc32": "569d1098",
+        "sha1": "324f13522dcd88f1ab108f7d00226d8c92824582",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "milk0000llew_hocr.html",
+        "mtime": "1660673681",
+        "size": "351",
+        "md5": "e6ec3618439266908d494e2d8d86cc2e",
+        "crc32": "192a314e",
+        "sha1": "c2ae5b8cdff085627ce9e56f3be14d88dc785183",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "40",
+        "word_conf_11_20": "23",
+        "word_conf_21_30": "26",
+        "word_conf_31_40": "25",
+        "word_conf_41_50": "25",
+        "word_conf_51_60": "44",
+        "word_conf_61_70": "47",
+        "word_conf_71_80": "79",
+        "word_conf_81_90": "169",
+        "word_conf_91_100": "617",
+        "format": "OCR Search Text",
+        "original": "milk0000llew_hocr.html",
+        "mtime": "1660673695",
+        "size": "3054",
+        "md5": "3bcdd6ca50757fc5ddd84060854e6748",
+        "crc32": "4595d775",
+        "sha1": "035a41e4ed8e53d267369ca81574e6dedb8e8048",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "milk0000llew_orig_jp2.tar",
+        "mtime": "1602650359",
+        "size": "17828528",
+        "md5": "115e33c5b867427d926da6752b3a5a7c",
+        "crc32": "e6c68fa8",
+        "sha1": "a5d45327fc8bc941ad73abb905053ec7079abd4d",
+        "private": "true",
+        "filecount": "34"
+      },
+      {
+        "name": "milk0000llew_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "milk0000llew.epub",
+        "mtime": "1757073127",
+        "size": "11701715",
+        "md5": "d0a7011599a63d3cb43d5c2772a03fe4",
+        "crc32": "4e063fb0",
+        "sha1": "deebfb0c5c98ae510bf2945834e75170f1e262a3"
+      },
+      {
+        "name": "milk0000llew_marc.xml",
+        "source": "original",
+        "mtime": "1602402822",
+        "size": "7397",
+        "md5": "84a7af1548671620ee7ea7e96130f3ec",
+        "crc32": "3b19c35f",
+        "sha1": "e1a9cf738eb1f98d1839f69d1de889e4f3b331fd",
+        "format": "MARC"
+      },
+      {
+        "name": "milk0000llew_meta.mrc",
+        "source": "original",
+        "mtime": "1602402818",
+        "size": "2182",
+        "md5": "90c888d975a20a1b68e2f91e3614033c",
+        "crc32": "1da14083",
+        "sha1": "567ee9db9af8ff021c418dbd7b4099c376824652",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "milk0000llew_meta.sqlite",
+        "source": "original",
+        "mtime": "1602649423",
+        "size": "19456",
+        "md5": "7d75e23f0a909f43873d4b89698ce860",
+        "crc32": "071e9340",
+        "sha1": "2984e346f2ee579a51c55f5d69781f23174bf046",
+        "format": "Metadata"
+      },
+      {
+        "name": "milk0000llew_meta.xml",
+        "source": "original",
+        "mtime": "1757073128",
+        "size": "3355",
+        "md5": "b967cafe6b735c8beaabf5542c6060a3",
+        "crc32": "f76926df",
+        "sha1": "59c3a94551104133f198b8cfaf969acaebed1c37",
+        "format": "Metadata"
+      },
+      {
+        "name": "milk0000llew_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1602649419",
+        "size": "48609280",
+        "md5": "0b08610d9f06ef492aec36a4f28beeec",
+        "crc32": "1c85f144",
+        "sha1": "585cc751d3eccaa4b79b5b3fb6bd7e918fb5791e",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "34"
+      },
+      {
+        "name": "milk0000llew_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "76",
+        "format": "Page Numbers JSON",
+        "original": "milk0000llew_hocr.html",
+        "mtime": "1716040836",
+        "size": "5498",
+        "md5": "87feb7b37725288987b2776044e9c2f5",
+        "crc32": "3bd7697e",
+        "sha1": "5e5fdac5605ac9e223c7b9af32eb72177b5436e8",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew_scandata.xml",
+        "source": "original",
+        "mtime": "1670675289",
+        "size": "34882",
+        "md5": "ad8ab09c239bd9235990c5c1be9ecdb7",
+        "crc32": "c6203a17",
+        "sha1": "d914806f84d661854fd476669420427876dfcd79",
+        "format": "Scandata"
+      },
+      {
+        "name": "milk0000llew_slip.png",
+        "source": "original",
+        "mtime": "1602399458",
+        "size": "35076",
+        "md5": "d3aed3519c840d427344d6ab5e8e6be8",
+        "crc32": "e2b67436",
+        "sha1": "7f55c00860ebac9a7813360dc7291c2097d9c8c3",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "milk0000llew_slip.png",
+        "mtime": "1602649483",
+        "size": "4881",
+        "md5": "292ac4146fa828daa04dd385279678a7",
+        "crc32": "aefe65d9",
+        "sha1": "1600712b3989ce095fcffd23cdfe3afb5a580a2c",
+        "private": "true"
+      },
+      {
+        "name": "milk0000llew_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "milk0000llew_djvu.xml",
+        "mtime": "1670675279",
+        "size": "474",
+        "md5": "97f77f4a8f43e81fe2607adb35859fa8",
+        "crc32": "1ca739a1",
+        "sha1": "96074102abba208422f3d5df74368449fd51ed4a",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1757073128,
+    "item_size": 103453433,
+    "metadata": {
+      "identifier": "milk0000llew",
+      "boxid": "IA1967621",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Llewellyn, Claire",
+      "date": "2005-01-01",
+      "description": [
+        "24 pages : 23 cm",
+        "Discusses how milk is taken from the cow, processed, and distributed to users",
+        "Includes index",
+        "Drinking milk -- Milk is good for us -- Cow's milk -- Milk for the calf -- Milking the cows -- From the farm to the dairy -- At the dairy -- Dairy foods -- Cooking with milk -- I know that ... -- Index -- About this book"
+      ],
+      "isbn": [
+        "1932889418",
+        "9781932889413"
+      ],
+      "language": "eng",
+      "lccn": "2004103746",
+      "mediatype": "texts",
+      "old_pallet": "IA19521",
+      "openlibrary_edition": "OL8811585M",
+      "openlibrary_work": "OL1919703W",
+      "operator": "associate-christyll-aton@archive.org",
+      "ppi": "300",
+      "publisher": "North Mankato, MN : Sea to Sea Publications",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station52.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9781932889413",
+      "subject": [
+        "Dairy processing -- Juvenile literature",
+        "Milk -- Pictorial works -- Juvenile literature",
+        "Milk",
+        "Dairying",
+        "Dairy products",
+        "Dairy processing"
+      ],
+      "title": "Milk",
+      "tts_version": "4.1-initial-7-g3c9b7b2b",
+      "uploader": "station52.cebu@archive.org",
+      "publicdate": "2020-10-11 06:59:47",
+      "access-restricted-item": "true",
+      "imagecount": "34",
+      "scandate": "20201011095724",
+      "republisher_operator": "associate-jelyn-tapinit@archive.org",
+      "republisher_date": "20201014122230",
+      "republisher_time": "175",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/milk0000llew",
+      "identifier-ark": "ark:/13960/t3b08nh1t",
+      "external-identifier": [
+        "urn:acs6:milk0000llew:epub:83858889-1bfa-440e-820e-19e9228cfc35",
+        "urn:acs6:milk0000llew:pdf:0137751d-35bc-4d6b-8291-1b791ed11ad7",
+        "urn:oclc:record:1225862534",
+        "urn:lcp:milk0000llew:lcpdf:fd2aea93-33b6-4c14-a75b-eaa50f99c056",
+        "urn:lcp:milk0000llew:epub:d010dfd2-ea55-4528-94d3-0669907df1ab"
+      ],
+      "page_number_confidence": "76",
+      "addeddate": "2020-10-14 05:00:37",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20201031",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_module_version": "1.0.5",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia800905.us.archive.org",
+    "uniq": 429110722,
+    "workable_servers": [
+      "ia800905.us.archive.org",
+      "ia600905.us.archive.org"
+    ]
+  },
+  "institution": "Llewellyn, Claire",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia",
+    "city": "Mankato"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

@@ -1,0 +1,554 @@
+{
+  "source": "internet_archive",
+  "identifier": "countrypleasures00desm",
+  "title": "Country pleasures",
+  "creator": "Better Homes and Gardens",
+  "year": 1994,
+  "subject": [
+    "Christmas decorations",
+    "Christmas cookery",
+    "Handicraft"
+  ],
+  "description": [
+    "At head of title: Better Homes and Gardens",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/countrypleasures00desm"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/countrypleasures00desm"
+        }
+      ]
+    },
+    "created": 1758554841,
+    "d1": "ia600509.us.archive.org",
+    "d2": "ia800509.us.archive.org",
+    "dir": "/3/items/countrypleasures00desm",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659798770",
+        "size": "22702",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "33693c04eb2e6908f03e3a39c1abba84",
+        "crc32": "26b9da2f",
+        "sha1": "54bf31b1522ecaa75946f288845675b7ce970057"
+      },
+      {
+        "name": "countrypleasures00desm.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "countrypleasures00desm_hocr.html",
+        "mtime": "1753196523",
+        "size": "29915887",
+        "private": "true",
+        "md5": "2f99b772234350348c63d5932d6aee48",
+        "crc32": "a7c04eee",
+        "sha1": "a517f1fff303b12c17ec843451d21aac3c34af27"
+      },
+      {
+        "name": "countrypleasures00desm.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "countrypleasures00desm_jp2.zip",
+        "md5": "319009adfbfb3bf72d14457a09609558",
+        "mtime": "1275546114",
+        "size": "202506",
+        "crc32": "206d9afa",
+        "sha1": "4987ad0c8791aecc7699ed9e096ce6efdad47ac3"
+      },
+      {
+        "name": "countrypleasures00desm.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "countrypleasures00desm.pdf",
+        "mtime": "1753196197",
+        "size": "12542850",
+        "md5": "86ee094369659d563372356410489c55",
+        "crc32": "0a8b9cf2",
+        "sha1": "a5326f44e9c520ff4c96a375ef63e33c206238c6"
+      },
+      {
+        "name": "countrypleasures00desm.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "countrypleasures00desm_page_numbers.json",
+        "mtime": "1719241209",
+        "size": "12088746",
+        "md5": "62b7cc1d864e0ccb73847f5c13507d62",
+        "crc32": "74c5377f",
+        "sha1": "94d43b61e2626b250341c18786bdf510ea798945",
+        "private": "true"
+      },
+      {
+        "name": "countrypleasures00desm_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "countrypleasures00desm_jp2.zip",
+        "md5": "c90c5d8c508ed6a1e64fce2aa002722b",
+        "mtime": "1275558695",
+        "size": "3463185",
+        "crc32": "91161e35",
+        "sha1": "52f3df1009393e41bc340414d6023d29878cae2f",
+        "private": "true"
+      },
+      {
+        "name": "countrypleasures00desm_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "countrypleasures00desm_page_numbers.json",
+        "mtime": "1719241210",
+        "size": "11071907",
+        "md5": "f079f3a7768ed62542cafd9e6ba66999",
+        "crc32": "3ce97c58",
+        "sha1": "db3f1355ae406723dc593c9fd9f3ab3dc07c0089",
+        "private": "true"
+      },
+      {
+        "name": "countrypleasures00desm_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "countrypleasures00desm_abbyy.gz",
+        "mtime": "1659798564",
+        "size": "2886583",
+        "md5": "43b15e8bd301ca2709fdda7919ccbdab",
+        "crc32": "4a8fc280",
+        "sha1": "3ed579ba84f1b17213410183dbdf36f00e7a8bfd",
+        "private": "true"
+      },
+      {
+        "name": "countrypleasures00desm_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "countrypleasures00desm_scandata.xml",
+        "mtime": "1669691379",
+        "size": "779",
+        "md5": "bebb8818fc852dddd95a708aa3d60151",
+        "crc32": "1d870e87",
+        "sha1": "fe19964473520a9331001b3f45174e61383721e4",
+        "private": "true"
+      },
+      {
+        "name": "countrypleasures00desm_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "a0d8932d4c144f13d38ae8f7ce20d7cc",
+        "mtime": "1274807196",
+        "size": "773",
+        "crc32": "45a70676",
+        "sha1": "1a724269cbae683b2b848bc9ebb23633de29702f"
+      },
+      {
+        "name": "countrypleasures00desm_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "countrypleasures00desm_djvu.xml",
+        "mtime": "1722064784",
+        "size": "273333",
+        "md5": "e17a03655a8f31c7b0251a9d40974e88",
+        "crc32": "a8525860",
+        "sha1": "cf924131d95bab9765aad872d1a7980832a9f4d0",
+        "private": "true"
+      },
+      {
+        "name": "countrypleasures00desm_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "countrypleasures00desm_hocr.html",
+        "mtime": "1722064780",
+        "size": "3504454",
+        "md5": "bd0f264f01bfcf312a2ac1e79b32423f",
+        "crc32": "ecfee8c4",
+        "sha1": "bc37a8880e9ef857900c80ad1cf7016ef2ce1b2a",
+        "private": "true"
+      },
+      {
+        "name": "countrypleasures00desm_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "countrypleasures00desm.pdf",
+        "mtime": "1719241844",
+        "size": "12060133",
+        "md5": "327501289097690c9ae24192578a93bf",
+        "crc32": "9f9d0276",
+        "sha1": "ddcf1aca74edec02304a95b81597c7b449f00031"
+      },
+      {
+        "name": "countrypleasures00desm_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9f5b42a721cc3eb3702bceca5608d10f",
+        "summation": "md5"
+      },
+      {
+        "name": "countrypleasures00desm_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "countrypleasures00desm_chocr.html.gz",
+        "mtime": "1659798679",
+        "size": "7317192",
+        "md5": "18a0f6c44e41f85f301742e966ab1a7a",
+        "crc32": "ce50bdf6",
+        "sha1": "75ff6115c1f2b398f6b362d4ee8bcac87122eac8",
+        "private": "true"
+      },
+      {
+        "name": "countrypleasures00desm_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "countrypleasures00desm_hocr.html",
+        "mtime": "1659798724",
+        "size": "1960",
+        "md5": "ea2787ee60ab72527b4aed4ab3278c4f",
+        "crc32": "dd8bb8ac",
+        "sha1": "8d336f45fd426daf237e17c5e6f060ba5d193696",
+        "private": "true"
+      },
+      {
+        "name": "countrypleasures00desm_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "4552",
+        "word_conf_11_20": "2144",
+        "word_conf_21_30": "3577",
+        "word_conf_31_40": "3911",
+        "word_conf_41_50": "6234",
+        "word_conf_51_60": "6539",
+        "word_conf_61_70": "6604",
+        "word_conf_71_80": "3127",
+        "word_conf_81_90": "960",
+        "word_conf_91_100": "2928",
+        "format": "OCR Search Text",
+        "original": "countrypleasures00desm_hocr.html",
+        "mtime": "1659798751",
+        "size": "83755",
+        "md5": "8417621a2d558a3c58e3a8930a7355bf",
+        "crc32": "d26b0cba",
+        "sha1": "10ab750a7d3c029ceb43285ceebfebf4443b39d0",
+        "private": "true"
+      },
+      {
+        "name": "countrypleasures00desm_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "countrypleasures00desm_orig_jp2.tar",
+        "md5": "0a9c74ef3fd8b22e7433d85a6fe9de59",
+        "mtime": "1275546051",
+        "size": "78850130",
+        "crc32": "3673cb7b",
+        "sha1": "8f96217909eb78c79db50448e58730fb700cd1b1",
+        "private": "true",
+        "filecount": "174"
+      },
+      {
+        "name": "countrypleasures00desm_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "countrypleasures00desm.epub",
+        "mtime": "1753196713",
+        "size": "30179043",
+        "md5": "c6b5ccca123398af37fe5252d645bb1d",
+        "crc32": "51e88e3d",
+        "sha1": "a2766b062add3ab07750148cfb51cef1a5c2a5a1"
+      },
+      {
+        "name": "countrypleasures00desm_loans.json",
+        "source": "original",
+        "mtime": "1593038486",
+        "size": "4568",
+        "format": "JSON",
+        "private": "true",
+        "md5": "e16def86a841a8398bb72a1d89d877ef",
+        "crc32": "ed889338",
+        "sha1": "0b5493c77f19e3e078909bf46d07fdbf69622ff2"
+      },
+      {
+        "name": "countrypleasures00desm_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "bfb5b03f04ec541a4a2ebb640f43c7b2",
+        "mtime": "1274807196",
+        "size": "3983",
+        "crc32": "63a84c4f",
+        "sha1": "682289cb745db3d1c06250d45da29095888a0e33"
+      },
+      {
+        "name": "countrypleasures00desm_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "countrypleasures00desm_xisbn.json",
+        "mtime": "1454274105",
+        "size": "571",
+        "md5": "48abcb144b3f66ad75528142746d6771",
+        "crc32": "007b702e",
+        "sha1": "c16b15446bb83a992b923731b39d11f78fea7b35",
+        "private": "true"
+      },
+      {
+        "name": "countrypleasures00desm_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "1bbdd6dd65798c682a9b995df806f873",
+        "mtime": "1274807196",
+        "size": "1222",
+        "crc32": "9ef1cc25",
+        "sha1": "de42c2a139e7801232be1aa47f25fbc6cb43f3f2"
+      },
+      {
+        "name": "countrypleasures00desm_meta.sqlite",
+        "source": "original",
+        "mtime": "1466188279",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "372970a86a3f2bcc6170e5a5f988a640",
+        "crc32": "7ea5ca12",
+        "sha1": "ae098d687a4a83c0b9b329cabaae0647404873bb"
+      },
+      {
+        "name": "countrypleasures00desm_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753196713",
+        "size": "3352",
+        "md5": "ea6c8e0e6d947b5741e441aa8df6ea6a",
+        "crc32": "3957750c",
+        "sha1": "bfcbcb52cfde522348da8ae3cb4392fbcbc0a97d"
+      },
+      {
+        "name": "countrypleasures00desm_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "1ca7ba608ad979ad72ba780ee955e165",
+        "mtime": "1274807196",
+        "size": "443",
+        "crc32": "cf3e6d",
+        "sha1": "7aef2c949d7451435058a5e06d873e5fc243419d"
+      },
+      {
+        "name": "countrypleasures00desm_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "bce8b2c8b17411b1ad03af1f6c0052f7",
+        "mtime": "1275542474",
+        "size": "116817920",
+        "crc32": "04d0dfbf",
+        "sha1": "bdef8a3f22ea6fe19630bbd83435bd04b6a65d22",
+        "private": "true",
+        "filecount": "174"
+      },
+      {
+        "name": "countrypleasures00desm_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "9",
+        "format": "Page Numbers JSON",
+        "original": "countrypleasures00desm_hocr.html",
+        "mtime": "1719241209",
+        "size": "28601",
+        "md5": "8d303ace3adb3830e387dec746b99443",
+        "crc32": "aa6450bb",
+        "sha1": "b3baa2f47a17e67bdc71003071a52b8322581f9a",
+        "private": "true"
+      },
+      {
+        "name": "countrypleasures00desm_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "fa3070596c7db62d832003f1f367a218",
+        "mtime": "1669691379",
+        "size": "90230",
+        "crc32": "e1e4bf62",
+        "sha1": "cc31adb57afab1614d9c34b23c6516ce08543b70"
+      },
+      {
+        "name": "countrypleasures00desm_xisbn.json",
+        "source": "original",
+        "mtime": "1454184182",
+        "size": "609",
+        "md5": "42073ad90eb14bc5aae7b24622003a67",
+        "crc32": "0a6ca8a1",
+        "sha1": "e52fc8e75eaaf0f26374b70d08b99e35c66ae2e6",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753196713,
+    "item_size": 321423561,
+    "metadata": {
+      "title": "Country pleasures",
+      "creator": "Better Homes and Gardens",
+      "subject": [
+        "Christmas decorations",
+        "Christmas cookery",
+        "Handicraft"
+      ],
+      "description": [
+        "At head of title: Better Homes and Gardens",
+        "Includes index"
+      ],
+      "publisher": "[Des Moines, Iowa : Better Homes and Gardens Books] : distributed by Meredith Corporation",
+      "date": "1994-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696025655",
+        "069620360X"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA1491414",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sfdowntown",
+      "mediatype": "texts",
+      "updatedate": "2010-05-25 17:06:36",
+      "updater": "loader-ElisaR",
+      "identifier": "countrypleasures00desm",
+      "uploader": "scanner-elisa-rangel@archive.org",
+      "addeddate": "2010-05-25 17:06:38",
+      "publicdate": "2010-05-25 17:06:41",
+      "ppi": "400",
+      "camera": "Canon 5D",
+      "operator": "scanner-maria-jordan@archive.org",
+      "scanner": "scribe1.sfdowntown.archive.org",
+      "scandate": "20100603051256",
+      "imagecount": "172",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/countrypleasures00desm",
+      "identifier-ark": "ark:/13960/t3rv17t60",
+      "curatestate": "approved",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20100707153438[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:countrypleasures00desm:pdf:be45c1a2-28d4-4fb3-b3fe-a250616bf229",
+        "urn:acs6:countrypleasures00desm:epub:aa80b1e2-d07a-4ef1-822e-0c66c90587d4",
+        "urn:oclc:record:1028560232",
+        "urn:lcp:countrypleasures00desm:lcpdf:4797d20b-9790-402d-96ed-36828115c87c",
+        "urn:lcp:countrypleasures00desm:epub:75c36fad-6eb8-4f21-ba38-0a199172f28b"
+      ],
+      "boxid_2": "CH112301",
+      "donor": "alibris",
+      "city": "Des Moines, Iowa",
+      "oclc-id": [
+        "299212859",
+        "30838204",
+        "317323517",
+        "642686770"
+      ],
+      "lccn": "95137219",
+      "related-external-id": [
+        "urn:isbn:069620360X",
+        "urn:lccn:95137219",
+        "urn:oclc:30838204"
+      ],
+      "backup_location": "ia903605_18",
+      "openlibrary_edition": "OL855703M",
+      "openlibrary_work": "OL16479791W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 21:47:20 UTC 2020",
+        "Wed Apr 3 0:11:38 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "9",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia600509.us.archive.org",
+    "servers_unavailable": true,
+    "uniq": 1210732632,
+    "workable_servers": [
+      "ia600509.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/299212859?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BB"
+          ],
+          "lccn": [
+            "95137219"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "year": "1994",
+          "isbn": [
+            "0696025655"
+          ],
+          "title": "Christmas at home : Country pleasures.",
+          "oclcnum": [
+            "299212859",
+            "30838204",
+            "317323517",
+            "642686770"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/30838204?referer=xid"
+          ],
+          "publisher": "Better Homes and Gardens Books]",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "95137219"
+          ],
+          "lang": "eng",
+          "city": "[Des Moines, Iowa",
+          "year": "1994",
+          "isbn": [
+            "069620360X"
+          ],
+          "title": "Country pleasures.",
+          "oclcnum": [
+            "30838204"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Better Homes and Gardens",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

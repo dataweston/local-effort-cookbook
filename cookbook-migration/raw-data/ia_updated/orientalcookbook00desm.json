@@ -1,0 +1,570 @@
+{
+  "source": "internet_archive",
+  "identifier": "orientalcookbook00desm",
+  "title": "Oriental cook book",
+  "creator": "better home gardens",
+  "year": 1982,
+  "subject": "Cooking, Asian",
+  "description": "At head of title: Better homes and gardens",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/orientalcookbook00desm"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/orientalcookbook00desm"
+        }
+      ]
+    },
+    "created": 1758556475,
+    "d1": "ia601606.us.archive.org",
+    "d2": "ia801606.us.archive.org",
+    "dir": "/34/items/orientalcookbook00desm",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660811835",
+        "size": "24083",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "12c363b1da2a9cbec2e8bd764543d5a7",
+        "crc32": "ce9c4d43",
+        "sha1": "845e5ec6812dfcce9ae4fb87c45a9451b7db2a67"
+      },
+      {
+        "name": "orientalcookbook00desm.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "orientalcookbook00desm_hocr.html",
+        "mtime": "1753718725",
+        "size": "16921293",
+        "private": "true",
+        "md5": "baaad7ee5352b2fdf6de36988643ae71",
+        "crc32": "4d255eb3",
+        "sha1": "6914000eafc44af26b531b93d12c55a88fc7481d"
+      },
+      {
+        "name": "orientalcookbook00desm.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "orientalcookbook00desm_jp2.zip",
+        "mtime": "1325316108",
+        "size": "252677",
+        "md5": "5b86a16eaccac377027f9a91b3d8ae44",
+        "crc32": "a79748c8",
+        "sha1": "8ee8bd4b7a41e98ae0ef4b7eef7c93c01a8b92a0"
+      },
+      {
+        "name": "orientalcookbook00desm.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "orientalcookbook00desm.pdf",
+        "mtime": "1753718675",
+        "size": "15262078",
+        "md5": "30fd71ef0a53cbc8568d6a041410fcbb",
+        "crc32": "fd863038",
+        "sha1": "c9a7b6270a304a30011aa9a453f704c02558694d"
+      },
+      {
+        "name": "orientalcookbook00desm.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "orientalcookbook00desm_page_numbers.json",
+        "mtime": "1716181750",
+        "size": "14831312",
+        "md5": "3ef581e23c19d99fa25878457902faf2",
+        "crc32": "74d31cd7",
+        "sha1": "06d03ece0d6cf85a4b18fbc13af1076463ad02e2",
+        "private": "true"
+      },
+      {
+        "name": "orientalcookbook00desm_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "orientalcookbook00desm_jp2.zip",
+        "mtime": "1325317124",
+        "size": "3397240",
+        "md5": "4e615f73e34b53a9f15f254a9930e36a",
+        "crc32": "6cead5ca",
+        "sha1": "54a108ad4c903fe0c2edff9a772056ea0e925709",
+        "private": "true"
+      },
+      {
+        "name": "orientalcookbook00desm_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "orientalcookbook00desm_abbyy.gz",
+        "mtime": "1660810869",
+        "size": "2876924",
+        "md5": "fd823129f9cf6b78c6f27490a48524bf",
+        "crc32": "f7efd1d3",
+        "sha1": "f2b2836db8244deba55dcb7a85c4d87960281045",
+        "private": "true"
+      },
+      {
+        "name": "orientalcookbook00desm_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "orientalcookbook00desm_scandata.xml",
+        "mtime": "1670814129",
+        "size": "781",
+        "md5": "edffec4199c716b06e7180b5485dbe12",
+        "crc32": "fdca0225",
+        "sha1": "89954901f18379feaa57c9eb8aa71f6f9c0c97d6",
+        "private": "true"
+      },
+      {
+        "name": "orientalcookbook00desm_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1270586897",
+        "size": "558",
+        "md5": "e696639c9c5f417f8e6249e8e5d4a8b3",
+        "crc32": "e998a2a4",
+        "sha1": "414b1463a04baf3a839ef7290e708970af32f0f1"
+      },
+      {
+        "name": "orientalcookbook00desm_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "orientalcookbook00desm_djvu.xml",
+        "mtime": "1716181790",
+        "size": "261199",
+        "md5": "f4e165a912126730fa7d32f4f1a61d42",
+        "crc32": "3b994316",
+        "sha1": "ebf6988c1a88750042dbe5d7a4be447c95ca6216",
+        "private": "true"
+      },
+      {
+        "name": "orientalcookbook00desm_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "orientalcookbook00desm_hocr.html",
+        "mtime": "1716180796",
+        "size": "3106064",
+        "md5": "47a86ade7569ff2a7771e73b128f7c9f",
+        "crc32": "174e6a1e",
+        "sha1": "440e1543a5ac53f5e11ae7acf19432f9be26fed5",
+        "private": "true"
+      },
+      {
+        "name": "orientalcookbook00desm_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "orientalcookbook00desm.pdf",
+        "mtime": "1716181792",
+        "size": "14805919",
+        "md5": "737be6dbb9869f9662dcf1ed2301b712",
+        "crc32": "765fdbd4",
+        "sha1": "9b470dadbcc9d245d6cbeeba8420e313b3c95808"
+      },
+      {
+        "name": "orientalcookbook00desm_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "2cdaf90b194d2f6ea287cb982c23d7db",
+        "summation": "md5"
+      },
+      {
+        "name": "orientalcookbook00desm_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "orientalcookbook00desm_chocr.html.gz",
+        "mtime": "1660811286",
+        "size": "6043738",
+        "md5": "30ae947e990924d54619e16c7b82fe5b",
+        "crc32": "973d8430",
+        "sha1": "d0d73b4010c66898833b82fcc8e6bf9b9a58e49d",
+        "private": "true"
+      },
+      {
+        "name": "orientalcookbook00desm_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "orientalcookbook00desm_hocr.html",
+        "mtime": "1660811612",
+        "size": "1193",
+        "md5": "951f33cbd9e6c8e0d67607714c61dda3",
+        "crc32": "a381f7ed",
+        "sha1": "d05db87576e7f57fbad3fdc38a98cd62f8340f2e",
+        "private": "true"
+      },
+      {
+        "name": "orientalcookbook00desm_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1290",
+        "word_conf_11_20": "822",
+        "word_conf_21_30": "2580",
+        "word_conf_31_40": "2773",
+        "word_conf_41_50": "5318",
+        "word_conf_51_60": "7101",
+        "word_conf_61_70": "7965",
+        "word_conf_71_80": "4608",
+        "word_conf_81_90": "1508",
+        "word_conf_91_100": "3052",
+        "format": "OCR Search Text",
+        "original": "orientalcookbook00desm_hocr.html",
+        "mtime": "1660811765",
+        "size": "64218",
+        "md5": "cf0086c91da904b9736924cc89c2583a",
+        "crc32": "cb9c820c",
+        "sha1": "aec325e84b3757b68876377cd710fd1321be8e01",
+        "private": "true"
+      },
+      {
+        "name": "orientalcookbook00desm_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "orientalcookbook00desm_orig_jp2.tar",
+        "mtime": "1325315922",
+        "size": "67760807",
+        "md5": "dccd50d261163121e7ef091b21acb812",
+        "crc32": "6d878284",
+        "sha1": "49a73786fd9fae44752f1e7a5fa97ce74784669b",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "orientalcookbook00desm_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "orientalcookbook00desm.epub",
+        "mtime": "1753718761",
+        "size": "17030853",
+        "md5": "22ec2655ca419e922df697217f39cba9",
+        "crc32": "6affc9d7",
+        "sha1": "afcb9b693133294c64cb89aea8b2bda744ea8332"
+      },
+      {
+        "name": "orientalcookbook00desm_loans.json",
+        "source": "original",
+        "mtime": "1593091479",
+        "size": "2215",
+        "format": "JSON",
+        "private": "true",
+        "md5": "7fb1073acf63fe8cd0b9e56acab9d0f8",
+        "crc32": "91c0af7f",
+        "sha1": "53068780ad1d89e571b656abfa00c72365beb50e"
+      },
+      {
+        "name": "orientalcookbook00desm_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1270586897",
+        "size": "2207",
+        "md5": "63f2803183aa10997c480da511bbd1fc",
+        "crc32": "81cb0499",
+        "sha1": "9792e49895896b2267c300920418de2fbf2d6b16"
+      },
+      {
+        "name": "orientalcookbook00desm_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "orientalcookbook00desm_xisbn.json",
+        "mtime": "1454706703",
+        "size": "804",
+        "md5": "fe74873ee41d106b91fd8b61d6521d34",
+        "crc32": "64ec9852",
+        "sha1": "424a0b1e0169b43dc566c1cbd4af5f43014875e9",
+        "private": "true"
+      },
+      {
+        "name": "orientalcookbook00desm_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1270586897",
+        "size": "695",
+        "md5": "bcb3e21ed75a2c14ac7e973943a5c79e",
+        "crc32": "b7c27665",
+        "sha1": "c611dbb2243a60781dbdc171b0eb34eb2a9a8d16"
+      },
+      {
+        "name": "orientalcookbook00desm_meta.sqlite",
+        "source": "original",
+        "mtime": "1467659914",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "48e05b50970cc714e632bc48def0bc7d",
+        "crc32": "7e539f78",
+        "sha1": "baeedfb36e37cfbf99f09269def7f78c8769f4e7"
+      },
+      {
+        "name": "orientalcookbook00desm_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753718762",
+        "size": "3590",
+        "md5": "c40b0bf21183b1f3df5d5dc8c73d844f",
+        "crc32": "084dca01",
+        "sha1": "9325ca64a362dcaa34c5b198ad84dd6155bb16ed"
+      },
+      {
+        "name": "orientalcookbook00desm_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1270586897",
+        "size": "402",
+        "md5": "98a988a0f58f484e00f1c52de10f2a65",
+        "crc32": "10f72633",
+        "sha1": "5f54d7777bbf3dd1c10ef9f69421d3d0a334415d"
+      },
+      {
+        "name": "orientalcookbook00desm_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1323839727",
+        "size": "88821760",
+        "md5": "d75f37cb53ee0b2cefd8e92fad399d63",
+        "crc32": "8c058cc2",
+        "sha1": "64e346dcb560b0d6cd4cb489eda5f6522f05534e",
+        "private": "true",
+        "filecount": "102"
+      },
+      {
+        "name": "orientalcookbook00desm_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "97",
+        "format": "Page Numbers JSON",
+        "original": "orientalcookbook00desm_hocr.html",
+        "mtime": "1716180878",
+        "size": "17068",
+        "md5": "090743685f6367bdeeb071f622b4bc0a",
+        "crc32": "e7d6e66c",
+        "sha1": "66d057cad66149a2e6400d35c7ba06cf8478fa67",
+        "private": "true"
+      },
+      {
+        "name": "orientalcookbook00desm_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1670814129",
+        "size": "101608",
+        "md5": "2870b6a171c749f5c85ea9dc099b28cb",
+        "crc32": "93ca9d5b",
+        "sha1": "f716396e45af6569d5763a705934fb2d6007d1a8"
+      },
+      {
+        "name": "orientalcookbook00desm_xisbn.json",
+        "source": "original",
+        "mtime": "1454666718",
+        "size": "1071",
+        "md5": "83e88c77c691d25214992edddd172290",
+        "crc32": "feb1942f",
+        "sha1": "a073a046889fdb25fd1351662a7132deb04ab6ce",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1753718762,
+    "item_size": 251598501,
+    "metadata": {
+      "title": "Oriental cook book",
+      "creator": "better home gardens",
+      "subject": "Cooking, Asian",
+      "description": "At head of title: Better homes and gardens",
+      "publisher": "Des Moines, Iowa : Meredith",
+      "date": "1982-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696010453",
+        "9780696010453"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA112916",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "mediatype": "texts",
+      "repub_state": "4",
+      "updatedate": "2010-04-06 20:48:18",
+      "updater": "LannetteF",
+      "identifier": "orientalcookbook00desm",
+      "uploader": "lannette@archive.org",
+      "addeddate": "2010-04-06 20:48:20",
+      "publicdate": "2010-04-06 20:48:24",
+      "filesxml": [
+        "Mon Oct 24 20:24:27 UTC 2011",
+        "Wed Apr 3 10:45:45 UTC 2024"
+      ],
+      "scanner": "scribe1.shenzhen.archive.org",
+      "repub_seconds": "146",
+      "ppi": "386",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-fred@archive.org",
+      "scandate": "20111214051523",
+      "republisher": "scanner-shenzhen-rock@archive.org",
+      "imagecount": "102",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/orientalcookbook00desm",
+      "identifier-ark": "ark:/13960/t6446qg09",
+      "scanfee": "125",
+      "sponsordate": "sent20120113",
+      "external-identifier": [
+        "urn:acs6:orientalcookbook00desm:pdf:45f630a2-257b-4492-8294-d3ee34674258",
+        "urn:acs6:orientalcookbook00desm:epub:bfc19bc5-8a65-4f7a-a368-881ede5011a0",
+        "urn:oclc:record:1036761446",
+        "urn:lcp:orientalcookbook00desm:lcpdf:1c0a3c7a-838e-484a-8eb7-e6aceef7775a",
+        "urn:lcp:orientalcookbook00desm:epub:303a6ff8-edf5-491e-8012-7e70fbc77f29"
+      ],
+      "donor": "alibris",
+      "city": "Des Moines",
+      "edition": "Large-format ed.",
+      "oclc-id": [
+        "123751179",
+        "317410450",
+        "71397217",
+        "768190107",
+        "779635589",
+        "9793502"
+      ],
+      "lccn": "77074592",
+      "related-external-id": [
+        "urn:isbn:069601047X",
+        "urn:lccn:77074592",
+        "urn:oclc:12182492",
+        "urn:isbn:0696002051",
+        "urn:oclc:3419969",
+        "urn:oclc:54383710",
+        "urn:oclc:807203819"
+      ],
+      "backup_location": "ia903605_6",
+      "republisher_operator": "scanner-shenzhen-rock@archive.org",
+      "openlibrary_edition": "OL24201546M",
+      "openlibrary_work": "OL15134172W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "97",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia801606.us.archive.org",
+    "uniq": 1598678456,
+    "workable_servers": [
+      "ia801606.us.archive.org",
+      "ia601606.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/123751179?referer=xid"
+          ],
+          "publisher": "Meredith",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "77074592"
+          ],
+          "lang": "eng",
+          "city": "Des Moines",
+          "author": "by th staff and editors of Better homes and gardens.",
+          "ed": "Large-format ed.",
+          "year": "1983",
+          "isbn": [
+            "0696010453"
+          ],
+          "title": "Oriental cookbook.",
+          "oclcnum": [
+            "123751179",
+            "317410450",
+            "71397217",
+            "768190107",
+            "779635589",
+            "9793502"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/12182492?referer=xid"
+          ],
+          "publisher": "Meredith",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "77074592"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "Better Homes and Gardens.",
+          "ed": "Soft-cover ed.",
+          "year": "1983",
+          "isbn": [
+            "069601047X"
+          ],
+          "title": "Oriental cook book",
+          "oclcnum": [
+            "12182492"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/3419969?referer=xid"
+          ],
+          "publisher": "Meredith",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "77074592"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "Better Homes and Gardens.",
+          "ed": "1st ed.",
+          "year": "1977",
+          "isbn": [
+            "0696002051"
+          ],
+          "title": "Better homes and gardens oriental cook book.",
+          "oclcnum": [
+            "3419969",
+            "54383710",
+            "807203819"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "better home gardens",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

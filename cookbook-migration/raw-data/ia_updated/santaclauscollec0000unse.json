@@ -1,0 +1,494 @@
+{
+  "source": "internet_archive",
+  "identifier": "santaclauscollec0000unse",
+  "title": "Santa Claus collection. Vol. 3",
+  "creator": "None",
+  "year": 2001,
+  "subject": [
+    "{u'0': u'Santa Claus', u'3': u'Christmas decorations', u'2': u'Santa dolls', u'4': u'Christmas cooking'}",
+    "Santa Claus",
+    "Santa dolls",
+    "Christmas decorations",
+    "Christmas cooking"
+  ],
+  "description": [
+    "160 pages : 29 cm",
+    "\"For generations, Santa Claus has inspired smiles, wishes, and wonderment. Now he inspires this collection of heartwarming stories and creative traditions. From the people who helped form Santa's image to the collectors and artisans who cherish and shape his likeness today, you'll understand why Santa is so special.\"--Page 4 of cover"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/santaclauscollec0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/santaclauscollec0000unse"
+        }
+      ]
+    },
+    "created": 1758556820,
+    "d1": "ia600201.us.archive.org",
+    "d2": "ia800201.us.archive.org",
+    "dir": "/15/items/santaclauscollec0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661018499",
+        "size": "21575",
+        "md5": "af3fcf59975127cf7c7a07db89773433",
+        "crc32": "3fe402d3",
+        "sha1": "7b12c5789993ecd16376776e621a9ef795dc8c9d",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/santaclauscollec0000unse_iabdash_2018-12-2817:11:55.log",
+        "source": "original",
+        "mtime": "1545988331",
+        "size": "1338",
+        "md5": "af060fa73187bc862b6b1eda968ce494",
+        "crc32": "a485db71",
+        "sha1": "b6a198382f07b3c8d8c1836fcde7a367972b4a01",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/santaclauscollec0000unse_scanning_2018-12-2817:11:50.log",
+        "source": "original",
+        "mtime": "1545988323",
+        "size": "325424",
+        "md5": "d6d95b124cc50f03ae60e34b1c587fcf",
+        "crc32": "eab5b15b",
+        "sha1": "7beab0caebaf474d4fa2e54d3595fe3867fedb72",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "santaclauscollec0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "santaclauscollec0000unse_hocr.html",
+        "mtime": "1753998333",
+        "size": "179991342",
+        "private": "true",
+        "md5": "c5bf1e2323301154388c6342ea4b6391",
+        "crc32": "f551bf14",
+        "sha1": "2f950231ce293a6a7030faeda22542d786165896"
+      },
+      {
+        "name": "santaclauscollec0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "santaclauscollec0000unse.pdf",
+        "mtime": "1753997703",
+        "size": "30663339",
+        "md5": "023ba56382f6b0d9df074632bbbd75c1",
+        "crc32": "655aeaea",
+        "sha1": "77f7a7f6fd357e54e290adda68a0655f1db41278"
+      },
+      {
+        "name": "santaclauscollec0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "santaclauscollec0000unse_page_numbers.json",
+        "mtime": "1722709093",
+        "size": "29980061",
+        "md5": "97de740389cba551d2fdaad4f6e83fd2",
+        "crc32": "1608262d",
+        "sha1": "e8536a5eac0d61f5a894642c063414d5819d1006",
+        "private": "true"
+      },
+      {
+        "name": "santaclauscollec0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "santaclauscollec0000unse_jp2.zip",
+        "mtime": "1546398713",
+        "size": "2550612",
+        "md5": "b2538040a577e9771873bae5ecea02c9",
+        "crc32": "b0fff6a7",
+        "sha1": "1be0973f2021dd08d5357978e94949d3156c110f",
+        "private": "true"
+      },
+      {
+        "name": "santaclauscollec0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "santaclauscollec0000unse_abbyy.gz",
+        "mtime": "1661018444",
+        "size": "2082655",
+        "md5": "b35f9066e38c65d5bf8107800fb50f02",
+        "crc32": "a2f0096b",
+        "sha1": "b198d5651e912ecda8a47f6db8b049b84fb3d72d",
+        "private": "true"
+      },
+      {
+        "name": "santaclauscollec0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "santaclauscollec0000unse_scandata.xml",
+        "mtime": "1671169332",
+        "size": "789",
+        "md5": "64f15ee6a0c1103af8597fe7648d2c0b",
+        "crc32": "483d75f2",
+        "sha1": "808bfc311ff858dad859ed8a93088740a768667d",
+        "private": "true"
+      },
+      {
+        "name": "santaclauscollec0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1661018431",
+        "size": "1635",
+        "md5": "0a525bd1016e77d299ff131531e1c343",
+        "crc32": "0eca9897",
+        "sha1": "c20204e25b3aec305823cae40cd3eae5481483c0"
+      },
+      {
+        "name": "santaclauscollec0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "santaclauscollec0000unse_djvu.xml",
+        "mtime": "1661018493",
+        "size": "187424",
+        "md5": "cc31f81daff9e71bac4f5ceb8d8bd1fc",
+        "crc32": "7e0f8c29",
+        "sha1": "353284b63f8e2638a4f185be13fe9c6d2b424888",
+        "private": "true"
+      },
+      {
+        "name": "santaclauscollec0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "santaclauscollec0000unse_hocr.html",
+        "mtime": "1661018474",
+        "size": "2261927",
+        "md5": "7d6cd1e5b5d9e2422ed4fe174891d661",
+        "crc32": "f1a012b3",
+        "sha1": "f6b389720b0ba282ac24fa708a6a5b32ade37647",
+        "private": "true"
+      },
+      {
+        "name": "santaclauscollec0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "santaclauscollec0000unse_abbyy.gz",
+        "mtime": "1546400041",
+        "size": "6197662",
+        "md5": "efd43edd2a1f701dc9eaad725ec904bc",
+        "crc32": "b86ddd3b",
+        "sha1": "f532505f1cca9b6877b0acf0328e93f890637594"
+      },
+      {
+        "name": "santaclauscollec0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "santaclauscollec0000unse.pdf",
+        "mtime": "1722710591",
+        "size": "29892182",
+        "md5": "81fd59d3efa1eb98e189caa5fc7f45c5",
+        "crc32": "9e49cc50",
+        "sha1": "cbf413489ba11b6f1aa9d5d5b4179c8ef18fb3bd"
+      },
+      {
+        "name": "santaclauscollec0000unse_events.json",
+        "source": "original",
+        "mtime": "1546394039",
+        "size": "55",
+        "md5": "8f3431afff58d9031bea637fb17b3c82",
+        "crc32": "d66bd415",
+        "sha1": "d901e4c45b25bc4d4bf4fff57b41341b834a8103",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "santaclauscollec0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "d97527e09bf2af964ba4464e16748a13",
+        "summation": "md5"
+      },
+      {
+        "name": "santaclauscollec0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "santaclauscollec0000unse_chocr.html.gz",
+        "mtime": "1661018467",
+        "size": "4729006",
+        "md5": "2cda0a9a0a4a9f2b3450a845eedd3694",
+        "crc32": "cc19df2b",
+        "sha1": "be7c5879492ddcb6dbb999016077ba3e987982a8",
+        "private": "true"
+      },
+      {
+        "name": "santaclauscollec0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "santaclauscollec0000unse_hocr.html",
+        "mtime": "1661018478",
+        "size": "1856",
+        "md5": "4daa7ed601e7b714a8cd7ade5c1f828d",
+        "crc32": "118f522e",
+        "sha1": "9f0a28cde020f8faeb9a4979fe97e1afe3358b6f",
+        "private": "true"
+      },
+      {
+        "name": "santaclauscollec0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "682",
+        "word_conf_11_20": "186",
+        "word_conf_21_30": "181",
+        "word_conf_31_40": "252",
+        "word_conf_41_50": "414",
+        "word_conf_51_60": "694",
+        "word_conf_61_70": "1600",
+        "word_conf_71_80": "3607",
+        "word_conf_81_90": "6834",
+        "word_conf_91_100": "12261",
+        "format": "OCR Search Text",
+        "original": "santaclauscollec0000unse_hocr.html",
+        "mtime": "1661018486",
+        "size": "67541",
+        "md5": "393cd2f925c114b12c6bb2fef8594857",
+        "crc32": "5eabf32c",
+        "sha1": "54a76e78c881875d426963399ac4677544d53ea3",
+        "private": "true"
+      },
+      {
+        "name": "santaclauscollec0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "santaclauscollec0000unse_orig_jp2.tar",
+        "mtime": "1546397124",
+        "size": "199221677",
+        "md5": "98e25c08bd3f6e4f29326d00ebea95dc",
+        "crc32": "779edf70",
+        "sha1": "ffcf0c2282d408cc2de762964a365ad3d70691a1",
+        "private": "true",
+        "filecount": "170"
+      },
+      {
+        "name": "santaclauscollec0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "santaclauscollec0000unse.epub",
+        "mtime": "1753998690",
+        "size": "181232922",
+        "md5": "2b6a25485d1ded1c62ac8c700e7e5c72",
+        "crc32": "0fd74bd1",
+        "sha1": "f3b30cb99dbd65f8b0e65380a57e1092706454b6"
+      },
+      {
+        "name": "santaclauscollec0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593468010",
+        "size": "1360",
+        "format": "JSON",
+        "private": "true",
+        "md5": "601868d1c85091b1a820206ef730bbb3",
+        "crc32": "9979238e",
+        "sha1": "87a572dea5ff06284226d0c1d29277fab7b56492"
+      },
+      {
+        "name": "santaclauscollec0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1661018431",
+        "size": "4946",
+        "format": "MARC",
+        "md5": "e84146f2923f8edddfd70200416da4a0",
+        "crc32": "9f06275a",
+        "sha1": "2624cd9123289a89f13e5b02fb6ec70ab0873484"
+      },
+      {
+        "name": "santaclauscollec0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1545988343",
+        "size": "1692",
+        "md5": "d0cb62d01793d388c6046337b7011fb9",
+        "crc32": "7f619d1b",
+        "sha1": "8720d449f66aad1e1613f5a3562503e9e429eeb6",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "santaclauscollec0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1546394623",
+        "size": "17408",
+        "format": "Metadata",
+        "md5": "feda5baafdcbe567d12c96618601ec44",
+        "crc32": "d40f2a3b",
+        "sha1": "afaec3e201de90863c621149ddd794ed862548ff"
+      },
+      {
+        "name": "santaclauscollec0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1753998691",
+        "size": "3519",
+        "format": "Metadata",
+        "md5": "9ee55b3e8896000e0c7dad0e375aa0d9",
+        "crc32": "d3b47c81",
+        "sha1": "5fb89722ea56165fe06d7f087db10bc450d3e8cd"
+      },
+      {
+        "name": "santaclauscollec0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1546394622",
+        "size": "343797760",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "896c0eeb8c3b2e7fe537d47d438ca52f",
+        "crc32": "0c53de2d",
+        "sha1": "484cf59055cdf70d6f1b2608d53ee7e62e9ce7ef",
+        "filecount": "170"
+      },
+      {
+        "name": "santaclauscollec0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "90",
+        "format": "Page Numbers JSON",
+        "original": "santaclauscollec0000unse_hocr.html",
+        "mtime": "1722709093",
+        "size": "28660",
+        "md5": "2f8a6730ef3711e6d2c0fedf6197845e",
+        "crc32": "d7228dc6",
+        "sha1": "de6b7c139743b803f99b6627306a519745ae3a7e",
+        "private": "true"
+      },
+      {
+        "name": "santaclauscollec0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1671169332",
+        "size": "173926",
+        "format": "Scandata",
+        "md5": "d58d06632d2182cae0c93535fbbcc3fe",
+        "crc32": "97faaa4d",
+        "sha1": "13e922f1a4dc00714dc2a2e10080706ef36bc466"
+      },
+      {
+        "name": "santaclauscollec0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "santaclauscollec0000unse_djvu.xml",
+        "mtime": "1671169052",
+        "size": "765",
+        "md5": "06f49b080eccc65c2e88815b8cab668a",
+        "crc32": "61951eca",
+        "sha1": "e92bb8e79446365cfb6cbd80397c5edfb2e5ca81",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753998691,
+    "item_size": 1013441058,
+    "metadata": {
+      "identifier": "santaclauscollec0000unse",
+      "associated-names": "Better Homes and Gardens Books (Firm)",
+      "boxid": "IA1517703",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "None",
+      "creator-alt-script": "None",
+      "date": "2001-01-01",
+      "description": [
+        "160 pages : 29 cm",
+        "\"For generations, Santa Claus has inspired smiles, wishes, and wonderment. Now he inspires this collection of heartwarming stories and creative traditions. From the people who helped form Santa's image to the collectors and artisans who cherish and shape his likeness today, you'll understand why Santa is so special.\"--Page 4 of cover"
+      ],
+      "isbn": [
+        "0696213672",
+        "9780696213670"
+      ],
+      "language": "eng",
+      "mediatype": "texts",
+      "notes": "cut off text due to tight margin,inherent from the physical copy<br />",
+      "old_pallet": "IA14535",
+      "operator": "associate-evelyn-rabe@archive.org",
+      "ppi": "300",
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "repub_state": "19",
+      "scanner": "station12.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "subject": [
+        "{u'0': u'Santa Claus', u'3': u'Christmas decorations', u'2': u'Santa dolls', u'4': u'Christmas cooking'}",
+        "Santa Claus",
+        "Santa dolls",
+        "Christmas decorations",
+        "Christmas cooking"
+      ],
+      "title": "Santa Claus collection. Vol. 3",
+      "title-alt-script": "None",
+      "tts_version": "1.62-final-2-g3110b6e",
+      "uploader": "station12.cebu@archive.org",
+      "addeddate": "2018-12-28 09:11:50",
+      "publicdate": "2018-12-28 09:12:24",
+      "imagecount": "170",
+      "scandate": "20181228100456",
+      "republisher_operator": "associate-jessica-tunga@archive.org",
+      "republisher_date": "20190102095355",
+      "republisher_time": "262",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/santaclauscollec0000unse",
+      "identifier-ark": "ark:/13960/t68417z42",
+      "external-identifier": [
+        "urn:acs6:santaclauscollec0000unse:epub:8ee725ac-d079-4767-bbc5-f5880bdc1132",
+        "urn:acs6:santaclauscollec0000unse:pdf:fc7025c7-32ca-4ff4-ba52-00366fc23d07",
+        "urn:lcp:santaclauscollec0000unse:lcpdf:6b9306a5-aa20-4124-a582-ddd8282881c8",
+        "urn:lcp:santaclauscollec0000unse:epub:f0fcf822-7afe-41ba-9ef3-0a1581a5a8db"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20181231",
+      "openlibrary_edition": "OL9877193M",
+      "openlibrary_work": "OL18147152W",
+      "access-restricted-item": "true",
+      "backup_location": "ia906805_32",
+      "oclc-id": "51337340",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "90",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia600201.us.archive.org",
+    "uniq": 1060866309,
+    "workable_servers": [
+      "ia600201.us.archive.org",
+      "ia800201.us.archive.org"
+    ]
+  },
+  "institution": "None",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

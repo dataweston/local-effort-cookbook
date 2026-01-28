@@ -1,0 +1,42 @@
+{
+  "source": "dpla",
+  "id": "161d2eb3786ca666c369bb7956a01962",
+  "identifier": "161d2eb3786ca666c369bb7956a01962",
+  "title": "Saint Martin's savoires cookbook, Grace Episcopal Church, Sheboygan, Wisconsin",
+  "subject": [
+    "Episcopal churches",
+    "Cookery",
+    "Guilds",
+    "Books"
+  ],
+  "spatial": [
+    "Sheboygan, Wisconsin",
+    "Sheboygan"
+  ],
+  "description": "This recipe book was compiled by the members of Grace Episcopal Church, Sheboygan, Wisconsin and was sponsored by The Daughters of Grace Church. This cookbook was compiled in the 1980's.",
+  "isShownAt": "http://content.mpl.org/cdm/ref/collection/MPL/id/7401",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/wisconsin",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878508"
+    ],
+    "name": "Recollection Wisconsin"
+  },
+  "institution": "Recollection Wisconsin",
+  "data": {
+    "object": "https://content.mpl.org/utils/getthumbnail/collection/MPL/id/7401",
+    "isShownAt": "http://content.mpl.org/cdm/ref/collection/MPL/id/7401"
+  },
+  "location": {
+    "state": "Wisconsin"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Guild"
+    ]
+  },
+  "curation_notes": "State match: Wisconsin; Community markers: Church, Guild; Digitized scan available"
+}

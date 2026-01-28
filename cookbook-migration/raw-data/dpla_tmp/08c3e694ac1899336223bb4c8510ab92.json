@@ -1,0 +1,103 @@
+{
+  "source": "dpla",
+  "id": "08c3e694ac1899336223bb4c8510ab92",
+  "identifier": "08c3e694ac1899336223bb4c8510ab92",
+  "title": "Mrs. Owen's Illinois cook book",
+  "subject": [
+    "Cookery, American--Illinois"
+  ],
+  "spatial": [
+    "Illinois"
+  ],
+  "description": "Includes index.",
+  "isShownAt": "http://catalog.hathitrust.org/Record/008721724",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1871,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/08c3e694ac1899336223bb4c8510ab92#SourceResource",
+      "creator": [
+        "Owen, Mrs. T. J. V"
+      ],
+      "date": [
+        {
+          "begin": "1871",
+          "displayDate": "1871",
+          "end": "1871"
+        }
+      ],
+      "description": [
+        "Includes index."
+      ],
+      "extent": [
+        "360 p. ; 19 cm."
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "sdr-uiuc4181776",
+        "(OCoLC)15081392",
+        "Hathi: 008721724"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "Springfield, Il. : John H. Johnson"
+      ],
+      "relation": [
+        "Printed version. (IU)30112025316719"
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Illinois"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cookery, American--Illinois"
+        }
+      ],
+      "title": [
+        "Mrs. Owen's Illinois cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1871-01-01",
+      "normalized_dates": [
+        "1871-01-01"
+      ],
+      "date_range": {
+        "begin": "1871-01-01",
+        "end": "1871-01-01"
+      }
+    }
+  },
+  "data": {
+    "isShownAt": "http://catalog.hathitrust.org/Record/008721724"
+  },
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

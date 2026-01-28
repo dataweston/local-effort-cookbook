@@ -1,0 +1,557 @@
+{
+  "source": "internet_archive",
+  "identifier": "betterhomesgarde00tayl",
+  "title": "Better homes and gardens calorie-trimmed recipes",
+  "creator": "Taylor, Joy, 1955-",
+  "year": 1980,
+  "subject": [
+    "Low-calorie diet",
+    "Food"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/betterhomesgarde00tayl"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790002.ca.archive.org",
+          "dir": "/0/items/betterhomesgarde00tayl"
+        }
+      ]
+    },
+    "created": 1758335673,
+    "d1": "ia600200.us.archive.org",
+    "d2": "ia800200.us.archive.org",
+    "dir": "/2/items/betterhomesgarde00tayl",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658705207",
+        "size": "27401",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "83c961196b4b35171dbc275ea0f0bd5d",
+        "crc32": "327ba872",
+        "sha1": "102b220a062945b9e4f440bca342d9b356ae6913"
+      },
+      {
+        "name": "betterhomesgarde00tayl.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "betterhomesgarde00tayl_hocr.html",
+        "mtime": "1753060161",
+        "size": "13584146",
+        "private": "true",
+        "md5": "46b587852bf2b9e644b8059b3f861748",
+        "crc32": "150401a0",
+        "sha1": "6bd359cda4debe1e172784ca61cb6090a8083f37"
+      },
+      {
+        "name": "betterhomesgarde00tayl.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "betterhomesgarde00tayl_jp2.zip",
+        "md5": "81d18e9608f4e52f8105fe7bd540d22f",
+        "mtime": "1255647286",
+        "size": "249576",
+        "crc32": "ad843977",
+        "sha1": "24ee6888ac2de4f6e5cfbf21620de67ce7c5a1dc"
+      },
+      {
+        "name": "betterhomesgarde00tayl.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "betterhomesgarde00tayl.pdf",
+        "mtime": "1753060065",
+        "size": "7042079",
+        "md5": "3dd1a821c41c9bd1704dbbef7136a524",
+        "crc32": "651a944c",
+        "sha1": "6926938ddc304b8698d0d85efa0ab172ee69c3b0"
+      },
+      {
+        "name": "betterhomesgarde00tayl.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "betterhomesgarde00tayl_page_numbers.json",
+        "mtime": "1716665063",
+        "size": "6508774",
+        "md5": "51d72eee7bd9fe698b95f5b29e6cea0e",
+        "crc32": "6d12ed95",
+        "sha1": "2cffb192e0b00cc2ff9d0e8d397e42459debfcea",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00tayl_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "betterhomesgarde00tayl_jp2.zip",
+        "md5": "0ecc84c46d4c3e4c2d4302e9b0617bb1",
+        "mtime": "1255651104",
+        "size": "4054227",
+        "crc32": "daec1365",
+        "sha1": "eb40927dc3ea048c41b25365b48ac9d02fe38d30",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00tayl_bw.pdf",
+        "source": "derivative",
+        "format": "Grayscale PDF",
+        "original": "betterhomesgarde00tayl_page_numbers.json",
+        "mtime": "1716665066",
+        "size": "5548286",
+        "md5": "ef668222e4cb47a56ea5b57e651372b1",
+        "crc32": "fab1dab3",
+        "sha1": "fefaa4835f15cdf1be9c759c06766e9fd14cd1a8",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00tayl_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "betterhomesgarde00tayl_abbyy.gz",
+        "mtime": "1658704731",
+        "size": "3353047",
+        "md5": "41f9a36ea5ad388b15595242c2076984",
+        "crc32": "4e9c8363",
+        "sha1": "e7f1dc6b985117781fd56b79bc56193fbce2355d",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00tayl_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "betterhomesgarde00tayl_scandata.xml",
+        "mtime": "1669422127",
+        "size": "780",
+        "md5": "9ffa139c13daeccc73fcd984c61c74c1",
+        "crc32": "359bcc8f",
+        "sha1": "f73df8a1123869f5ded0ca52d49ce8f848d7feab",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00tayl_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "1a83f59954477163a331ced4dc873e61",
+        "mtime": "1255619281",
+        "size": "638",
+        "crc32": "1c091508",
+        "sha1": "ea8e39c42a53a00febe614ac6af43750145e41ef"
+      },
+      {
+        "name": "betterhomesgarde00tayl_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "betterhomesgarde00tayl_djvu.xml",
+        "mtime": "1722259270",
+        "size": "318242",
+        "md5": "4672ff6d568ac378ca2988b7681cde4b",
+        "crc32": "bc556259",
+        "sha1": "002a7fb9b2708c851d3148d65e0151b4b2fea2ca",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00tayl_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "betterhomesgarde00tayl_hocr.html",
+        "mtime": "1722259266",
+        "size": "3953529",
+        "md5": "10fc7e320a6f3a4e2361c208b84339d5",
+        "crc32": "433b50dd",
+        "sha1": "df7f6acb5dd5498e7bb0d85d0596ca7d472401ad",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00tayl_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "betterhomesgarde00tayl.pdf",
+        "mtime": "1716665537",
+        "size": "6491760",
+        "md5": "0dc2055dbeb5228c0eb035b03b28f6df",
+        "crc32": "bf156855",
+        "sha1": "8af5cdbc8c78bb08b027f71f861f7d1678331222"
+      },
+      {
+        "name": "betterhomesgarde00tayl_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "590b694c470d51f045711062f9df8b3d",
+        "summation": "md5"
+      },
+      {
+        "name": "betterhomesgarde00tayl_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "betterhomesgarde00tayl_chocr.html.gz",
+        "mtime": "1658704934",
+        "size": "8559800",
+        "md5": "d3a2a51c63890f10aa7fdeae6606c6ff",
+        "crc32": "d96f6508",
+        "sha1": "e700e83f3c4d400a35395fca926e68c7a0cd7885",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00tayl_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "betterhomesgarde00tayl_hocr.html",
+        "mtime": "1658705042",
+        "size": "1220",
+        "md5": "73a610dc91b5ac0aaecb400cfc7d1326",
+        "crc32": "7270159a",
+        "sha1": "0ddf46e12c7159527668cd6677dccf5ba097e35e",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00tayl_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "2349",
+        "word_conf_11_20": "1604",
+        "word_conf_21_30": "3259",
+        "word_conf_31_40": "3278",
+        "word_conf_41_50": "5357",
+        "word_conf_51_60": "7284",
+        "word_conf_61_70": "7990",
+        "word_conf_71_80": "5690",
+        "word_conf_81_90": "2031",
+        "word_conf_91_100": "6408",
+        "format": "OCR Search Text",
+        "original": "betterhomesgarde00tayl_hocr.html",
+        "mtime": "1658705162",
+        "size": "86775",
+        "md5": "8e54370739fc0f2418cc87608ac9bf73",
+        "crc32": "c275c2b4",
+        "sha1": "459e5382ca622b4fe720d52dab0232207c98de87",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00tayl_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "betterhomesgarde00tayl_orig_jp2.tar",
+        "md5": "bd5feb9f360f34c9cd40f51e8f4c4a8e",
+        "mtime": "1255647253",
+        "size": "56224111",
+        "crc32": "dce49027",
+        "sha1": "6a0af44d7d75410b5a1a5c732275a409840256c7",
+        "private": "true",
+        "filecount": "106"
+      },
+      {
+        "name": "betterhomesgarde00tayl_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "betterhomesgarde00tayl.epub",
+        "mtime": "1753060303",
+        "size": "13595020",
+        "md5": "72bb686d0146fadd199f32c2d90a361c",
+        "crc32": "48999154",
+        "sha1": "9327b6cfd7ad01b9af442275513f3d4344b78e0d"
+      },
+      {
+        "name": "betterhomesgarde00tayl_loans.json",
+        "source": "original",
+        "mtime": "1593140912",
+        "size": "4387",
+        "format": "JSON",
+        "private": "true",
+        "md5": "e06c5cd1ffc1e64b07b3bfd51ca8dc25",
+        "crc32": "27a19f83",
+        "sha1": "16126ae9165393825f9e06d1c137379f27ce3d0e"
+      },
+      {
+        "name": "betterhomesgarde00tayl_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "e5a890ab9e697e5a76a00862a6428852",
+        "mtime": "1255619281",
+        "size": "3580",
+        "crc32": "3f66607b",
+        "sha1": "54cc3e2e0a86d9cd18d85719afd719e7543b24c5"
+      },
+      {
+        "name": "betterhomesgarde00tayl_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "betterhomesgarde00tayl_xisbn.json",
+        "mtime": "1454287799",
+        "size": "533",
+        "md5": "772cbb4a36416927f3c145b7931e2980",
+        "crc32": "e38059a7",
+        "sha1": "b3ffdf6b45dee05bf824919a1a9a406469d0dca0",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00tayl_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "57da701ff591994d97a5f93d4b184c56",
+        "mtime": "1255619281",
+        "size": "1039",
+        "crc32": "4f35d1aa",
+        "sha1": "58029cbb8581472b57fd8ce6fa6d23fe58144735"
+      },
+      {
+        "name": "betterhomesgarde00tayl_meta.sqlite",
+        "source": "original",
+        "mtime": "1463987032",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "64308abbd5ec06830a83c335aca647bb",
+        "crc32": "c1b3ee96",
+        "sha1": "2dde8f89147e3a8bea696c0c245ea3d584d360fd"
+      },
+      {
+        "name": "betterhomesgarde00tayl_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753060304",
+        "size": "3214",
+        "md5": "b70087c99e2373f2a757fd2ae89c875f",
+        "crc32": "b76c4e4c",
+        "sha1": "3a26fc605213d79024c791cc7c609e47ae91f188"
+      },
+      {
+        "name": "betterhomesgarde00tayl_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "b7d32d5e222de98dec1a2b7582623b57",
+        "mtime": "1255619281",
+        "size": "459",
+        "crc32": "f82b66c8",
+        "sha1": "5e1bb83bb382008f5c3d80fa49217236a1f3234b"
+      },
+      {
+        "name": "betterhomesgarde00tayl_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "da9a653808dd21975423f584277cd539",
+        "mtime": "1255637642",
+        "size": "115087360",
+        "crc32": "b40f0a6c",
+        "sha1": "f415bb2fcb85163e2b0ecd9c5ff2d9abffed70af",
+        "private": "true",
+        "filecount": "106"
+      },
+      {
+        "name": "betterhomesgarde00tayl_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "94",
+        "format": "Page Numbers JSON",
+        "original": "betterhomesgarde00tayl_hocr.html",
+        "mtime": "1716665060",
+        "size": "16831",
+        "md5": "e6e1d2d8d0e716d11529ef7aa3c2504c",
+        "crc32": "2662d60a",
+        "sha1": "d6262f364c27cca6fe4e13bc433e02176df45aa1",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00tayl_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "ce29ec5ed04752247e9d2fb3f80d6821",
+        "mtime": "1669422127",
+        "size": "56245",
+        "crc32": "2b897bdd",
+        "sha1": "9d38a44b2f1286f157e278888d139aa6d104c406"
+      },
+      {
+        "name": "betterhomesgarde00tayl_xisbn.json",
+        "source": "original",
+        "mtime": "1454079388",
+        "size": "682",
+        "md5": "4a6af0287792c372bca79e9f750fc243",
+        "crc32": "031aadb3",
+        "sha1": "65ea0454c36e0fd4bf9ca581d9006509f22eda61",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753060304,
+    "item_size": 244779885,
+    "metadata": {
+      "title": "Better homes and gardens calorie-trimmed recipes",
+      "creator": "Taylor, Joy, 1955-",
+      "subject": [
+        "Low-calorie diet",
+        "Food"
+      ],
+      "description": "Includes index",
+      "publisher": "Des Moines, Iowa : Meredith Corp.",
+      "date": "1980-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696006057",
+        "9780696006050"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA104119",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "la",
+      "mediatype": "texts",
+      "updatedate": "2009-10-15 15:08:01",
+      "updater": "KellyCritch",
+      "identifier": "betterhomesgarde00tayl",
+      "uploader": "kellycritch@archive.org",
+      "addeddate": "2009-10-15 15:08:03",
+      "publicdate": "2009-10-15 15:08:10",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-line-kuoch@archive.org",
+      "scanner": "scribe7.la.archive.org",
+      "scandate": "20091015200037",
+      "imagecount": "104",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/betterhomesgarde00tayl",
+      "identifier-ark": "ark:/13960/t6349678n",
+      "bookplateleaf": "0002",
+      "ocr": "ABBYY FineReader 8.0",
+      "notes": "Narrow margins.",
+      "curation": "[curator]melliott@archive.org[/curator][date]20091019220949[/date][state]approved[/state]",
+      "sponsordate": "20091031",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:betterhomesgarde00tayl:pdf:bc36907e-6fad-46eb-a003-1af55bb38314",
+        "urn:acs6:betterhomesgarde00tayl:epub:04b78a27-9222-491a-99da-0226f56c4781",
+        "urn:oclc:record:1028723691",
+        "urn:lcp:betterhomesgarde00tayl:lcpdf:b36b9907-5f3c-4099-8ef0-0c6fe269077a",
+        "urn:lcp:betterhomesgarde00tayl:epub:6f2ccd64-7fbb-4e0c-ac77-8b495f5d9e4c"
+      ],
+      "donor": "alibris",
+      "city": "Des Moines, IA",
+      "edition": "1st ed.",
+      "oclc-id": [
+        "503174036",
+        "6876682"
+      ],
+      "lccn": "79093396",
+      "related-external-id": [
+        "urn:isbn:0696011107",
+        "urn:lccn:79093396",
+        "urn:oclc:11123262"
+      ],
+      "backup_location": "ia903604_4",
+      "openlibrary_edition": "OL4438323M",
+      "openlibrary_work": "OL15159088W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Wed Dec 23 9:19:47 UTC 2020",
+        "Tue Apr 2 22:06:28 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "94",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "printdisabled",
+        "inlibrary"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "1980-01-01"
+      ]
+    },
+    "server": "ia600200.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-sd-ol": {
+          "notes": {
+            "duplicates": [
+              "calorietrimmedre00bett"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-03-12 01:44:17.659864"
+        }
+      }
+    },
+    "uniq": 776920701,
+    "workable_servers": [
+      "ia600200.us.archive.org",
+      "ia800200.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/503174036?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "79093396"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, IA",
+          "author": "-editor, Joy Taylor-.",
+          "ed": "1st ed.",
+          "year": "1980",
+          "isbn": [
+            "0696006057"
+          ],
+          "title": "Calorie-trimmed recipes",
+          "oclcnum": [
+            "503174036",
+            "6876682"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/11123262?referer=xid"
+          ],
+          "publisher": "Meredith Corp.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "79093396"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "editor, Joy Taylor.",
+          "ed": "Large-format ed.",
+          "year": "1983",
+          "isbn": [
+            "0696011107"
+          ],
+          "title": "Better homes and gardens calorie-trimmed recipes",
+          "oclcnum": [
+            "11123262"
+          ]
+        }
+      ]
+    }
+  }
+}

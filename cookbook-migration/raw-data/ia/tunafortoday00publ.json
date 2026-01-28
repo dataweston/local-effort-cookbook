@@ -1,0 +1,539 @@
+{
+  "source": "internet_archive",
+  "identifier": "tunafortoday00publ",
+  "title": "Tuna for today : tempting new ideas",
+  "creator": "StarKist Seafood Company",
+  "year": 1997,
+  "subject": [
+    "Cookery (Tuna)",
+    "Cooking (Tuna)"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/tunafortoday00publ"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790009.ca.archive.org",
+          "dir": "/0/items/tunafortoday00publ"
+        }
+      ]
+    },
+    "created": 1758558044,
+    "d1": "ia902808.us.archive.org",
+    "d2": "ia802808.us.archive.org",
+    "dir": "/14/items/tunafortoday00publ",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661196322",
+        "size": "20696",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "2bd2724ece13434dde884f918a38b90f",
+        "crc32": "fb0ff31c",
+        "sha1": "a5a07326252de166f048ff89c264462386df159a"
+      },
+      {
+        "name": "tunafortoday00publ.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "tunafortoday00publ_hocr.html",
+        "mtime": "1754133183",
+        "size": "33544168",
+        "private": "true",
+        "md5": "b9d488f2bf20760ef0f06e0f4bd8c877",
+        "crc32": "698faf8f",
+        "sha1": "a5bf884aa64423cd0a87edbfc79c662d8007ed9a"
+      },
+      {
+        "name": "tunafortoday00publ.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "tunafortoday00publ_jp2.zip",
+        "mtime": "1353141889",
+        "size": "249498",
+        "md5": "d2d3e8be32bf4846f248df737728d8e7",
+        "crc32": "ddd517af",
+        "sha1": "d087d878339f7f58562956eae1b0f5c1fa20e661"
+      },
+      {
+        "name": "tunafortoday00publ.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "tunafortoday00publ.pdf",
+        "mtime": "1754133043",
+        "size": "10825530",
+        "md5": "c4370a11479ff6e969a37aaa9f4def21",
+        "crc32": "6613885c",
+        "sha1": "a5b79c28687bf899ff6773ad33f156eef86f41c9"
+      },
+      {
+        "name": "tunafortoday00publ.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "tunafortoday00publ_page_numbers.json",
+        "mtime": "1715664732",
+        "size": "10463922",
+        "md5": "d0b6156cc753da140db277e7a5f6785e",
+        "crc32": "3de6b7b0",
+        "sha1": "ea43e3203327c3c28b4e154bb465f8ae1a796de5",
+        "private": "true"
+      },
+      {
+        "name": "tunafortoday00publ_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "tunafortoday00publ_jp2.zip",
+        "mtime": "1353142806",
+        "size": "1551836",
+        "md5": "dd4f61de34ee80f37b8a9601abd1ea76",
+        "crc32": "18a4222d",
+        "sha1": "b834be848fc595852291e51d88b23b45f4d41105",
+        "private": "true"
+      },
+      {
+        "name": "tunafortoday00publ_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "tunafortoday00publ_abbyy.gz",
+        "mtime": "1661194394",
+        "size": "1287968",
+        "md5": "633645a8f8d9ad87b8ef09f5da9e096f",
+        "crc32": "504dd6b6",
+        "sha1": "0605e0ab4a868868f3e62f890bd1a9b29f50a9c7",
+        "private": "true"
+      },
+      {
+        "name": "tunafortoday00publ_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "tunafortoday00publ_scandata.xml",
+        "mtime": "1671531377",
+        "size": "762",
+        "md5": "88dc7887ae5e0198b8f28dd932c66361",
+        "crc32": "738aff17",
+        "sha1": "3208c995582cdd572eb641d55ba120fe9cd814c2",
+        "private": "true"
+      },
+      {
+        "name": "tunafortoday00publ_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1509975472",
+        "size": "981",
+        "md5": "ec6288fa07a15e83b7c49bfcc6a2fe13",
+        "crc32": "6a58f32b",
+        "sha1": "1fe0d7cbb4ddd18ae5d8e1580fdbb2a2a5c623a7"
+      },
+      {
+        "name": "tunafortoday00publ_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "tunafortoday00publ_djvu.xml",
+        "mtime": "1715664743",
+        "size": "113272",
+        "md5": "aafd66901bf70ae03863504c2624bcdb",
+        "crc32": "4e65fc33",
+        "sha1": "488e02a3874a2ca282f20298243fd10fb228b59e",
+        "private": "true"
+      },
+      {
+        "name": "tunafortoday00publ_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "tunafortoday00publ_hocr.html",
+        "mtime": "1715664401",
+        "size": "1381624",
+        "md5": "d8df1cc36158475d662f2bfdc0db80e6",
+        "crc32": "fe17075b",
+        "sha1": "1045b8ba40626c8735047797b3b34651e43c089d",
+        "private": "true"
+      },
+      {
+        "name": "tunafortoday00publ_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "tunafortoday00publ.pdf",
+        "mtime": "1715664746",
+        "size": "10439644",
+        "md5": "88c62b0058fa5b515d7bc867c548b44b",
+        "crc32": "22e8afc3",
+        "sha1": "8424e431a82f611c78ed9af567c537d8c0fe5049"
+      },
+      {
+        "name": "tunafortoday00publ_extramarc.xml",
+        "source": "original",
+        "mtime": "1397066917",
+        "size": "2254",
+        "md5": "b0ded778081c87f2af21a4ccb8415c32",
+        "crc32": "662dfbfe",
+        "sha1": "825236e5efdf32f9d035c47f1c12113d6bf7bf7c",
+        "format": "Metadata"
+      },
+      {
+        "name": "tunafortoday00publ_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "9e1ec0cbf093f941b2b62968e699bf5c",
+        "summation": "md5"
+      },
+      {
+        "name": "tunafortoday00publ_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "tunafortoday00publ_chocr.html.gz",
+        "mtime": "1661195804",
+        "size": "2801138",
+        "md5": "69e4ea6a9999f027e9e3eb731de70fda",
+        "crc32": "57920b64",
+        "sha1": "99c390695bc959f8baa0aea6fd6bad000a462126",
+        "private": "true"
+      },
+      {
+        "name": "tunafortoday00publ_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "tunafortoday00publ_hocr.html",
+        "mtime": "1661196067",
+        "size": "1011",
+        "md5": "cce6375198325eb33ac2cd22ef44a2a9",
+        "crc32": "772923dc",
+        "sha1": "6e553b9ef02f2ba51cb71e0ff25f43a24d2a7c09",
+        "private": "true"
+      },
+      {
+        "name": "tunafortoday00publ_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "695",
+        "word_conf_11_20": "508",
+        "word_conf_21_30": "1593",
+        "word_conf_31_40": "1786",
+        "word_conf_41_50": "2813",
+        "word_conf_51_60": "2979",
+        "word_conf_61_70": "2660",
+        "word_conf_71_80": "1280",
+        "word_conf_81_90": "587",
+        "word_conf_91_100": "924",
+        "format": "OCR Search Text",
+        "original": "tunafortoday00publ_hocr.html",
+        "mtime": "1661196245",
+        "size": "28782",
+        "md5": "dbd4f779ab21662f86e7f051b374dd08",
+        "crc32": "ead4c6ce",
+        "sha1": "abc18c67cc83d350f54cf51c53c21ac4f6b0117c",
+        "private": "true"
+      },
+      {
+        "name": "tunafortoday00publ_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "tunafortoday00publ_orig_jp2.tar",
+        "mtime": "1353141827",
+        "size": "59149730",
+        "md5": "34a8e3e3e9a185342a7cd38e3b92c4ce",
+        "crc32": "5fbf4d28",
+        "sha1": "e0547f6c1995aee997c8c56da4b0c9f71ae4dd6d",
+        "private": "true",
+        "filecount": "98"
+      },
+      {
+        "name": "tunafortoday00publ_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "tunafortoday00publ.epub",
+        "mtime": "1754133209",
+        "size": "33578307",
+        "md5": "2c095d4a892ec4dbbba9b4c36edecfc7",
+        "crc32": "11048b42",
+        "sha1": "c913a70c9f18b23147dd9c9f2dacb8e9ee7b9883"
+      },
+      {
+        "name": "tunafortoday00publ_loans.json",
+        "source": "original",
+        "mtime": "1593026601",
+        "size": "1036",
+        "format": "JSON",
+        "private": "true",
+        "md5": "96c3064b269f1d054575fbabf38bdfeb",
+        "crc32": "82bf7116",
+        "sha1": "46a40d102c09176c87995c882a94005894740070"
+      },
+      {
+        "name": "tunafortoday00publ_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1509975472",
+        "size": "4190",
+        "md5": "b138ae3f441c22d025818fd04f7c960b",
+        "crc32": "82ff12a6",
+        "sha1": "053f755fa3c023f62ceda5ec0028b8f8362655f0"
+      },
+      {
+        "name": "tunafortoday00publ_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "tunafortoday00publ_xisbn.json",
+        "mtime": "1454797043",
+        "size": "372",
+        "md5": "c4a1d90408ebc83dd15fd3567be81695",
+        "crc32": "79e55d44",
+        "sha1": "eecfd6996d5c10dbbe299c7b2ec1f895f88f1c91",
+        "private": "true"
+      },
+      {
+        "name": "tunafortoday00publ_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454797041",
+        "size": "1166",
+        "md5": "4e27eb124fb1aab3d13407aa59baa8bd",
+        "crc32": "1c007505",
+        "sha1": "fffe2dbb912d5cdbb51f329ecc99545a46017f8f"
+      },
+      {
+        "name": "tunafortoday00publ_meta.sqlite",
+        "source": "original",
+        "mtime": "1463190917",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "d1a2fb8dfff811ff8ca2d5b976f6e027",
+        "crc32": "a38e648e",
+        "sha1": "7295020477c14f4b45fba06d831a4044b825d33d"
+      },
+      {
+        "name": "tunafortoday00publ_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1754133209",
+        "size": "3486",
+        "md5": "375fc92e1371d2ff47831b231d2d6b5d",
+        "crc32": "0d7ff224",
+        "sha1": "dc660a796d53f8a1687d8668b733fc79282b0c63"
+      },
+      {
+        "name": "tunafortoday00publ_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1315604658",
+        "size": "274",
+        "md5": "72868da4cc55235e52cb186d3e910fd7",
+        "crc32": "bed16fb3",
+        "sha1": "c6ab85649f1f899801604ec87a0b0c5810db5d09"
+      },
+      {
+        "name": "tunafortoday00publ_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1353138677",
+        "size": "111175680",
+        "md5": "c23aa1efbd81d61409c43597e97bc8a8",
+        "crc32": "27d0fe0a",
+        "sha1": "40d32f3baadbdf988a4e4beb3db32d9c4000cd3f",
+        "private": "true",
+        "filecount": "98"
+      },
+      {
+        "name": "tunafortoday00publ_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "tunafortoday00publ_hocr.html",
+        "mtime": "1715664407",
+        "size": "16304",
+        "md5": "822e12f9a0d97565dd06765d63dd94db",
+        "crc32": "9eb8b64a",
+        "sha1": "9f6cc83363a2ae6c13e8e9a2ccdabd8127f2651f",
+        "private": "true"
+      },
+      {
+        "name": "tunafortoday00publ_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1671531377",
+        "size": "128712",
+        "md5": "a945d978fadb42c63a88567a396bbf60",
+        "crc32": "f1176d1c",
+        "sha1": "47f0be1e57bc05a41b4479a6a4c2cc0d0e6511be"
+      },
+      {
+        "name": "tunafortoday00publ_xisbn.json",
+        "source": "original",
+        "mtime": "1454794955",
+        "size": "604",
+        "md5": "3bdf894d299456a5edb1b9085f87f780",
+        "crc32": "9eaadd91",
+        "sha1": "f3145f681ea2a5c297bc9ae683146b0a32eaef32",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1754133209,
+    "item_size": 276779091,
+    "metadata": {
+      "title": "Tuna for today : tempting new ideas",
+      "language": "eng",
+      "publisher": "Lincolnwood, IL : Publications International, Ltd.",
+      "openlibrary": "OL21086471M",
+      "notes": "Includes index.",
+      "isbn": [
+        "0785323864",
+        "9780785323860"
+      ],
+      "date": "1997-01-01",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "subject": [
+        "Cookery (Tuna)",
+        "Cooking (Tuna)"
+      ],
+      "updatedate": "2011-09-09 21:44:11",
+      "updater": "tracey.g@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "fsfpl",
+      "boxid": "IA161711",
+      "identifier": "tunafortoday00publ",
+      "uploader": "tracey.g@archive.org",
+      "addeddate": "2011-09-09 21:44:20",
+      "publicdate": "2011-09-09 21:44:22",
+      "filesxml": [
+        "Mon Oct 24 21:46:16 UTC 2011",
+        "Wed Apr 3 15:39:50 UTC 2024"
+      ],
+      "scanner": "scribe15.shenzhen.archive.org",
+      "repub_seconds": "2505245",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-cop@archive.org",
+      "scandate": "20120926054010",
+      "republisher": "scanner-shenzhen-david@archive.org",
+      "imagecount": "98",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/tunafortoday00publ",
+      "identifier-ark": "ark:/13960/t8v99f45v",
+      "bookplateleaf": "0002",
+      "scanfee": "150",
+      "sponsordate": "not to be invoiced-past billing period",
+      "extramarc": "University of Illinois Urbana-Champaign (PZ)",
+      "external-identifier": [
+        "urn:acs6:tunafortoday00publ:pdf:11f36b17-e25d-477a-bfdc-56288d312be2",
+        "urn:acs6:tunafortoday00publ:epub:3b1cf402-1eb4-4f21-93c1-257624587096",
+        "urn:oclc:record:1036905232",
+        "urn:lcp:tunafortoday00publ:lcpdf:cf2bb68e-38fa-448a-8a6d-9829c6e45529",
+        "urn:lcp:tunafortoday00publ:epub:30b57dea-d822-419f-af6e-220bfa036ef3"
+      ],
+      "creator": "StarKist Seafood Company",
+      "description": "Includes index",
+      "city": "Lincolnwood, IL",
+      "oclc-id": "41313612",
+      "related-external-id": [
+        "urn:isbn:0785308792",
+        "urn:oclc:36708110"
+      ],
+      "backup_location": "ia903703_2",
+      "republisher_operator": "scanner-shenzhen-beck@archive.org;scanner-shenzhen-thomas@archive.org;scanner-shenzhen-david@archive.org",
+      "republisher_date": "20121117072644",
+      "openlibrary_edition": "OL21086471M",
+      "openlibrary_work": "OL18181231W",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ]
+    },
+    "server": "ia802808.us.archive.org",
+    "uniq": 1125329548,
+    "workable_servers": [
+      "ia802808.us.archive.org",
+      "ia902808.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/41313612?referer=xid"
+          ],
+          "publisher": "Publications International, Ltd.",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "author": "StarKist.",
+          "year": "1997",
+          "isbn": [
+            "0785323864"
+          ],
+          "title": "Tuna for today : tempting new ideas",
+          "oclcnum": [
+            "41313612"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/36708110?referer=xid"
+          ],
+          "publisher": "Publications International, Ltd.",
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "author": "StarKist.",
+          "year": "1994",
+          "isbn": [
+            "0785308792"
+          ],
+          "title": "Tuna for today : tempting new ideas",
+          "oclcnum": [
+            "36708110"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "StarKist Seafood Company",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

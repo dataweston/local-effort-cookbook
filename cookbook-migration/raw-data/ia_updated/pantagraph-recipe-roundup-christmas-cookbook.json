@@ -1,0 +1,301 @@
+{
+  "source": "internet_archive",
+  "identifier": "pantagraph-recipe-roundup-christmas-cookbook",
+  "title": "Pantagraph Recipe Roundup Christmas Cookbook",
+  "creator": null,
+  "year": null,
+  "subject": [
+    "cookbook",
+    "illinois history",
+    "Bloomington Illinois"
+  ],
+  "description": "Pantagraph Recipe Roundup Christmas Cookbook",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721901.ca.archive.org",
+          "dir": "/0/items/pantagraph-recipe-roundup-christmas-cookbook"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721901.ca.archive.org",
+          "dir": "/0/items/pantagraph-recipe-roundup-christmas-cookbook"
+        }
+      ]
+    },
+    "created": 1758555446,
+    "d1": "ia600500.us.archive.org",
+    "d2": "ia800500.us.archive.org",
+    "dir": "/1/items/pantagraph-recipe-roundup-christmas-cookbook",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1703010898",
+        "size": "22155",
+        "md5": "20f4e9435e90becfef4dddb102741f5d",
+        "crc32": "0f7c3e40",
+        "sha1": "eceb2614458427b4201af84725ad4db582092ec1",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "pantagraph recipe roundup christmas cookbook.epub",
+        "source": "derivative",
+        "original": "pantagraph recipe roundup christmas cookbook_hocr.html",
+        "mtime": "1705844706",
+        "size": "37552834",
+        "md5": "bbaa21cd9a65b51600e8ea3a36e6b9a2",
+        "crc32": "769c62d5",
+        "sha1": "e61236a52b7e664e5a8f23aae4b3852c5fd5ca52",
+        "format": "EPUB"
+      },
+      {
+        "name": "pantagraph recipe roundup christmas cookbook.pdf",
+        "source": "original",
+        "mtime": "1703006117",
+        "size": "105292376",
+        "md5": "6918bdedd1adf237b23cb0b23e213694",
+        "crc32": "b28a4598",
+        "sha1": "28ab081d5431d3b043643e2dde624715f887e1ee",
+        "format": "Image Container PDF"
+      },
+      {
+        "name": "pantagraph recipe roundup christmas cookbook_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-6-g76ae",
+        "ocr_parameters": "lang-eng;lang-Latin;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "pantagraph recipe roundup christmas cookbook_jp2.zip",
+        "mtime": "1703008616",
+        "size": "1169532",
+        "md5": "8e0b7950116ed7e3618ac513f4220cd5",
+        "crc32": "965ce54e",
+        "sha1": "2c7a97678fb8dceb95791de47bce668035449302"
+      },
+      {
+        "name": "pantagraph recipe roundup christmas cookbook_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "pantagraph recipe roundup christmas cookbook_djvu.xml",
+        "mtime": "1703009025",
+        "size": "77859",
+        "md5": "dcabb4034a1db5c5393356eae03bb697",
+        "crc32": "46b303a0",
+        "sha1": "db3c62666166423c292130ed47745eaf7edbf7c7"
+      },
+      {
+        "name": "pantagraph recipe roundup christmas cookbook_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "pantagraph recipe roundup christmas cookbook_hocr.html",
+        "mtime": "1703008741",
+        "size": "1105631",
+        "md5": "5981faa6910fd2f640c9877df74720ef",
+        "crc32": "c8d7b78c",
+        "sha1": "403afcc1c15d0b0f4845714da67d25c16c0f0e40"
+      },
+      {
+        "name": "pantagraph recipe roundup christmas cookbook_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.2.0",
+        "hocr_char_to_word_hocr_version": "1.1.45",
+        "ocr_parameters": "lang-eng;lang-Latin;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "1.0000",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "pantagraph recipe roundup christmas cookbook_chocr.html.gz",
+        "mtime": "1703008726",
+        "size": "2149362",
+        "md5": "28c1d2e5b294e12909106b3ac3b574c2",
+        "crc32": "a619b208",
+        "sha1": "2b82d8b1d92a48ce10dd20557843d005b545963a"
+      },
+      {
+        "name": "pantagraph recipe roundup christmas cookbook_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "pantagraph recipe roundup christmas cookbook_hocr.html",
+        "mtime": "1703008857",
+        "size": "1190",
+        "md5": "9976a46bee014e65f26aad0c7f731737",
+        "crc32": "07384e08",
+        "sha1": "dce2e20f92f97a54091887162165418edcae6186"
+      },
+      {
+        "name": "pantagraph recipe roundup christmas cookbook_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "215",
+        "word_conf_11_20": "110",
+        "word_conf_21_30": "140",
+        "word_conf_31_40": "167",
+        "word_conf_41_50": "116",
+        "word_conf_51_60": "122",
+        "word_conf_61_70": "145",
+        "word_conf_71_80": "160",
+        "word_conf_81_90": "415",
+        "word_conf_91_100": "10921",
+        "format": "OCR Search Text",
+        "original": "pantagraph recipe roundup christmas cookbook_hocr.html",
+        "mtime": "1703009003",
+        "size": "26612",
+        "md5": "e8b1bc55d8296663aa7b509fa4d322a5",
+        "crc32": "8a3f799e",
+        "sha1": "3eabe0ffb44e624f7f8d2f546828f6029ebf60c0"
+      },
+      {
+        "name": "pantagraph recipe roundup christmas cookbook_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "pantagraph recipe roundup christmas cookbook.pdf",
+        "mtime": "1703006727",
+        "size": "48957868",
+        "md5": "56e44c9547d22052d80e66d4fc975f28",
+        "crc32": "c2d692f0",
+        "sha1": "7f802a0f6b61539903ba30edea659b27f8297389",
+        "filecount": "107"
+      },
+      {
+        "name": "pantagraph recipe roundup christmas cookbook_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.3",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "75",
+        "format": "Page Numbers JSON",
+        "original": "pantagraph recipe roundup christmas cookbook_hocr.html",
+        "mtime": "1703009665",
+        "size": "18316",
+        "md5": "2e92ba67d2eecc78da9bebb7f8a0cf43",
+        "crc32": "5ee1b7c1",
+        "sha1": "dc0d6ff61ec35f802d129f9ab67e3d3e05c5e8ae"
+      },
+      {
+        "name": "pantagraph recipe roundup christmas cookbook_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "pantagraph recipe roundup christmas cookbook_djvu.xml",
+        "mtime": "1703009665",
+        "size": "37562",
+        "md5": "ebd096d4b0780428021753d95f92b95a",
+        "crc32": "0fefefce",
+        "sha1": "567c7d53cfa533f42059937b78538a1e25474080"
+      },
+      {
+        "name": "pantagraph recipe roundup christmas cookbook_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Additional Text PDF",
+        "original": "pantagraph recipe roundup christmas cookbook_page_numbers.json",
+        "mtime": "1703010754",
+        "size": "9255848",
+        "md5": "641f211a38c0277d9f4678a0d124dcc0",
+        "crc32": "95dc3979",
+        "sha1": "6ca7bc8fa67380e91a3cbcfad6e42fd953fb4e3b"
+      },
+      {
+        "name": "pantagraph-recipe-roundup-christmas-cookbook_archive.torrent",
+        "source": "metadata",
+        "btih": "82a8e29188753d830b331198dfad465a3b564f6a",
+        "mtime": "1705844711",
+        "size": "12314",
+        "md5": "0e9af904d84b1b1b684bb0730f00c26d",
+        "crc32": "000441ba",
+        "sha1": "5c8b5055a232190c7b5dda763ce6d7019f3cdeaf",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "pantagraph-recipe-roundup-christmas-cookbook_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "5854656d60527a3057a4c89616fdbf30",
+        "summation": "md5"
+      },
+      {
+        "name": "pantagraph-recipe-roundup-christmas-cookbook_meta.sqlite",
+        "source": "original",
+        "mtime": "1703006161",
+        "size": "20480",
+        "md5": "724244fed1c1e3282789134081b463e5",
+        "crc32": "b437febe",
+        "sha1": "156796be4ffad06f98ec02054857bbb310399ffc",
+        "format": "Metadata"
+      },
+      {
+        "name": "pantagraph-recipe-roundup-christmas-cookbook_meta.xml",
+        "source": "original",
+        "mtime": "1703010757",
+        "size": "1519",
+        "md5": "06dedda20bddacab8671f7a3fd37059e",
+        "crc32": "fa684519",
+        "sha1": "e2c406bd6bd4846d8c16ef3f4adafa668379b277",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 17,
+    "item_last_updated": 1705844711,
+    "item_size": 205701458,
+    "metadata": {
+      "identifier": "pantagraph-recipe-roundup-christmas-cookbook",
+      "mediatype": "texts",
+      "collection": "opensource",
+      "description": "Pantagraph Recipe Roundup Christmas Cookbook",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "cookbook",
+        "illinois history",
+        "Bloomington Illinois"
+      ],
+      "title": "Pantagraph Recipe Roundup Christmas Cookbook",
+      "uploader": "tmore@mchistory.org",
+      "publicdate": "2023-12-19 17:15:37",
+      "addeddate": "2023-12-19 17:15:37",
+      "curation": "[curator]validator@archive.org[/curator][date]20231219171624[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/pantagraph-recipe-roundup-christmas-cookbook",
+      "identifier-ark": "ark:/13960/s28mf96d133",
+      "ppi": "600",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "-l eng+Latin",
+      "ocr_module_version": "0.0.21",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "75",
+      "page_number_module_version": "1.0.3",
+      "pdf_module_version": "0.0.23"
+    },
+    "server": "ia800500.us.archive.org",
+    "uniq": 292178150,
+    "workable_servers": [
+      "ia800500.us.archive.org",
+      "ia600500.us.archive.org"
+    ]
+  },
+  "pdf_url": "https://archive.org/download/pantagraph-recipe-roundup-christmas-cookbook/pantagraph recipe roundup christmas cookbook.pdf",
+  "location": {
+    "state": "Illinois"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Illinois; Digitized scan available"
+}

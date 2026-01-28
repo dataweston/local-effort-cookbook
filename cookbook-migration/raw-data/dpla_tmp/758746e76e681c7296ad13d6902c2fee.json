@@ -1,0 +1,100 @@
+{
+  "source": "dpla",
+  "id": "758746e76e681c7296ad13d6902c2fee",
+  "identifier": "758746e76e681c7296ad13d6902c2fee",
+  "title": "Cook book of the Young Ladies Cooking Club, Monroe, Mich",
+  "subject": [
+    "Women--Michigan--Monroe--Societies and clubs"
+  ],
+  "spatial": [
+    "Michigan",
+    "Monroe"
+  ],
+  "description": null,
+  "isShownAt": "http://catalog.hathitrust.org/Record/003300545",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "name": "HathiTrust"
+  },
+  "institution": "HathiTrust",
+  "year": 1884,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/758746e76e681c7296ad13d6902c2fee#SourceResource",
+      "creator": [
+        "Young Ladies' Cooking Club (Monroe, Mich.)"
+      ],
+      "date": [
+        {
+          "begin": "1884",
+          "displayDate": "1884",
+          "end": "1884"
+        }
+      ],
+      "format": [
+        "Language material",
+        "Electronic resource"
+      ],
+      "identifier": [
+        "(MiU)003300545",
+        "sdr-miu003300545",
+        "(OCoLC)40059727",
+        "Hathi: 003300545"
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "publisher": [
+        "[Monroe] Monroe Democrat Print."
+      ],
+      "rights": [
+        "Public domain. Learn more at http://www.hathitrust.org/access_use"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Monroe"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Women--Michigan--Monroe--Societies and clubs"
+        }
+      ],
+      "title": [
+        "Cook book of the Young Ladies Cooking Club, Monroe, Mich"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1884-01-01",
+      "normalized_dates": [
+        "1884-01-01"
+      ],
+      "date_range": {
+        "begin": "1884-01-01",
+        "end": "1884-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://books.google.com/books/content?id=hyziAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+    "isShownAt": "http://catalog.hathitrust.org/Record/003300545"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

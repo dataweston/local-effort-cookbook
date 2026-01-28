@@ -1,0 +1,506 @@
+{
+  "source": "internet_archive",
+  "identifier": "cherrycheesecake0000fluk",
+  "title": "Cherry cheesecake murder : a Hannah Swensen mystery with recipes",
+  "creator": "Fluke, Joanne, 1943-",
+  "year": 2006,
+  "subject": [
+    "Swensen, Hannah (Fictitious character) -- Fiction",
+    "Women detectives -- Minnesota -- Fiction",
+    "Bakers -- Fiction",
+    "Minnesota -- Fiction"
+  ],
+  "description": "viii, 342 p. ; 22 cm",
+  "metadata": {
+    "created": 1758335772,
+    "d1": "ia904505.us.archive.org",
+    "d2": "ia804505.us.archive.org",
+    "dir": "/7/items/cherrycheesecake0000fluk",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1659732143",
+        "size": "18834",
+        "md5": "5c2fe19e182665c7046f325eaefb04d3",
+        "crc32": "fe5ee593",
+        "sha1": "73bda79a64e4fc1256a8f0d9aded01a44d17321e",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "cherrycheesecake0000fluk.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "cherrycheesecake0000fluk_hocr.html",
+        "mtime": "1753142189",
+        "size": "875677",
+        "private": "true",
+        "md5": "2ff5be32c1c42c4222d3d6ebf1d79111",
+        "crc32": "7afd604c",
+        "sha1": "f9700bf2720000ef216807009649305292e1810c"
+      },
+      {
+        "name": "cherrycheesecake0000fluk.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "cherrycheesecake0000fluk.pdf",
+        "mtime": "1753142091",
+        "size": "14937004",
+        "md5": "5fbcbaf0d7c75572d2af42f86db9eaac",
+        "crc32": "7299d17f",
+        "sha1": "3e80f0138e0edc1250503944d0bebb870cb48d9a"
+      },
+      {
+        "name": "cherrycheesecake0000fluk.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "cherrycheesecake0000fluk_page_numbers.json",
+        "mtime": "1718556266",
+        "size": "14687293",
+        "md5": "a14537b7864cfe9a42b7205b745b8f80",
+        "crc32": "772312ad",
+        "sha1": "4c45e323c34e77506105d53f47ec15b5302402c3",
+        "private": "true"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9765",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "cherrycheesecake0000fluk_jp2.zip",
+        "mtime": "1625220400",
+        "size": "7543935",
+        "md5": "5cfc588169f3e77cc7e8d7950afd78bf",
+        "crc32": "8a5951a9",
+        "sha1": "5586678e05eefaf49722667c08734666ba828760",
+        "private": "true"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "cherrycheesecake0000fluk_scandata.xml",
+        "mtime": "1669574464",
+        "size": "787",
+        "md5": "b5b70ccc004b058a222687bf68f282b9",
+        "crc32": "6805073d",
+        "sha1": "cab494c2be6f362b55d034b0d179f9e574c203da",
+        "private": "true"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1625210599",
+        "size": "1199",
+        "md5": "6a0fd768533aa05612012caeb1e62b95",
+        "crc32": "2ad205d8",
+        "sha1": "ba5ec522e7e1cfdf046ecba5f13f9743262c13a3"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "cherrycheesecake0000fluk_djvu.xml",
+        "mtime": "1625220557",
+        "size": "577819",
+        "md5": "7afbf93c633ea6154790bdb9e2c86b36",
+        "crc32": "7d1eee85",
+        "sha1": "e4561747306c76f0427ad5d6ade81c8db4581354",
+        "private": "true"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "cherrycheesecake0000fluk_hocr.html",
+        "mtime": "1625220497",
+        "size": "7760558",
+        "md5": "b7de73ff751a2ec8ca12c24669a9845f",
+        "crc32": "d9bd03dc",
+        "sha1": "34d326579c4c317ab38978203424a31ad8a5b184",
+        "private": "true"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "cherrycheesecake0000fluk.pdf",
+        "mtime": "1718556374",
+        "size": "14597033",
+        "md5": "f8923c17f19af86271dd9b93949265bb",
+        "crc32": "6da424c0",
+        "sha1": "675c9c30d976312cbe79ca058e498331fa756df9"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_events.json",
+        "source": "original",
+        "mtime": "1625210490",
+        "size": "57",
+        "md5": "b8710a8eb36c62db11e5b6147a54ccc7",
+        "crc32": "120e565a",
+        "sha1": "ec8c9cd736ed5e5c2009e551fb7bf7592691dce8",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "f8d1694587f39173bb93e0fb1e6f89e6",
+        "summation": "md5"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.0.0",
+        "hocr_char_to_word_hocr_version": "1.1.2",
+        "ocr_parameters": "-l eng",
+        "ocr_module_version": "0.0.13",
+        "ocr_detected_script": "Latin",
+        "ocr_detected_script_conf": "0.9765",
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "cherrycheesecake0000fluk_chocr.html.gz",
+        "mtime": "1625220465",
+        "size": "14476723",
+        "md5": "1f6e11f87b907f5a024caae7547d1bfa",
+        "crc32": "c9c5560c",
+        "sha1": "56c118aca45844dfb086c3cbe9b2ed76455ddce5",
+        "private": "true"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.0",
+        "format": "OCR Page Index",
+        "original": "cherrycheesecake0000fluk_hocr.html",
+        "mtime": "1625220515",
+        "size": "4317",
+        "md5": "29df16c720de57254e7e355b34028575",
+        "crc32": "6ebab268",
+        "sha1": "14217ca3ba1eb22d5f42d4bc97122649d6599e03",
+        "private": "true"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.0",
+        "word_conf_0_10": "315",
+        "word_conf_11_20": "148",
+        "word_conf_21_30": "211",
+        "word_conf_31_40": "219",
+        "word_conf_41_50": "226",
+        "word_conf_51_60": "227",
+        "word_conf_61_70": "245",
+        "word_conf_71_80": "336",
+        "word_conf_81_90": "1275",
+        "word_conf_91_100": "95188",
+        "format": "OCR Search Text",
+        "original": "cherrycheesecake0000fluk_hocr.html",
+        "mtime": "1625220546",
+        "size": "204656",
+        "md5": "6c901d2a4235d823bc08586ee80bdfe1",
+        "crc32": "f5906f1a",
+        "sha1": "1c7308b143f90f78d4667b1e23cc06b78e932122",
+        "private": "true"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "cherrycheesecake0000fluk_orig_jp2.tar",
+        "mtime": "1625217815",
+        "size": "143148358",
+        "md5": "20edba2221140ab7aebb8df82c0445c0",
+        "crc32": "28255ce1",
+        "sha1": "55f179d914a61270e510cdb62497fc50564cc8ab",
+        "private": "true",
+        "filecount": "362"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "cherrycheesecake0000fluk.epub",
+        "mtime": "1753142590",
+        "size": "895815",
+        "md5": "20df99dde505ed0751103fd6f294afbc",
+        "crc32": "0924ca30",
+        "sha1": "54fc93a4819cda3d78c74bccfa1033cbb55a5c25"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_marc.xml",
+        "source": "original",
+        "mtime": "1625094376",
+        "size": "3298",
+        "md5": "1c095373ce0d34840e50892d76e5d9e5",
+        "crc32": "31b97be9",
+        "sha1": "b5bae1db79c9d9779733b713d0eaa6b709cec6a8",
+        "format": "MARC"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_meta.mrc",
+        "source": "original",
+        "mtime": "1625094373",
+        "size": "985",
+        "md5": "13efb7ce1f0b10a2f01fe5068aab5f48",
+        "crc32": "833abb2d",
+        "sha1": "64727cf957fe8956be2eb875d4e78cc20bf6d9e1",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_meta.sqlite",
+        "source": "original",
+        "mtime": "1625210575",
+        "size": "45056",
+        "md5": "82dc2c06a8d5e6fd8ae3bf175740ea40",
+        "crc32": "b151c9d8",
+        "sha1": "915b15ad89eedf51304092e754ae08f7bbe7dd00",
+        "format": "Metadata"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_meta.xml",
+        "source": "original",
+        "mtime": "1753142590",
+        "size": "3302",
+        "md5": "0b639d97ee0801eba73c08c1588aa840",
+        "crc32": "ce9245ff",
+        "sha1": "6b5883ea806ecae1a77046498d1e6b065f755267",
+        "format": "Metadata"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1625210574",
+        "size": "473098240",
+        "md5": "493962e63e33e2b67992ad4bc4c644e5",
+        "crc32": "fbb2d903",
+        "sha1": "6d6610de2275ba449029017fbcf467b8bed9650d",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "362"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "cherrycheesecake0000fluk_hocr.html",
+        "mtime": "1718556265",
+        "size": "60907",
+        "md5": "821b7350f03bdafb3201afde7cc48e11",
+        "crc32": "d7a2474b",
+        "sha1": "8b7fde5c8987587da36ad60d20b03d078847714d",
+        "private": "true"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_scandata.xml",
+        "source": "original",
+        "mtime": "1669574464",
+        "size": "393444",
+        "md5": "022312534aaca01c9c3427cfc94047e0",
+        "crc32": "b11fe815",
+        "sha1": "e0697bd1d3a779c9998688e8901780bd7f43b35b",
+        "format": "Scandata"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_slip.png",
+        "source": "original",
+        "mtime": "1625018314",
+        "size": "41982",
+        "md5": "b6fa4b735e0d83d5765d33bb6c74746b",
+        "crc32": "8a17d52e",
+        "sha1": "3776f099835d41ef218fe3b036d0b249b9837715",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "cherrycheesecake0000fluk_slip.png",
+        "mtime": "1625210603",
+        "size": "8659",
+        "md5": "4093d2be857ce47a5523d570566502a2",
+        "crc32": "76e69e93",
+        "sha1": "c90d1ab821dea5b8bab3b8ef7f2828ed9ed60f83",
+        "private": "true"
+      },
+      {
+        "name": "cherrycheesecake0000fluk_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "cherrycheesecake0000fluk_djvu.xml",
+        "mtime": "1669574434",
+        "size": "703",
+        "md5": "8bd473938ae407eb2af4ce0b5d5c4654",
+        "crc32": "c724a319",
+        "sha1": "6ba7fcf5ffd24022c5f08df7ee26b2cafc0a973f",
+        "private": "true"
+      },
+      {
+        "name": "logs/cherrycheesecake0000fluk_iabdash_2021-07-0107:06:19.log",
+        "source": "original",
+        "mtime": "1625094386",
+        "size": "677",
+        "md5": "b5d4f0c00a6f971f67796b51488aeeb7",
+        "crc32": "376c1bc0",
+        "sha1": "2a736ac8f63e58b15609711a52e1a9da720a07d6",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/cherrycheesecake0000fluk_scanning_2021-07-0107:06:30.log",
+        "source": "original",
+        "mtime": "1625094396",
+        "size": "1433037",
+        "md5": "0b5a5cb7da25bda9071ecaab86ed215b",
+        "crc32": "82d31f09",
+        "sha1": "849189eb2af3ea95e54fd208ba771ca198aae223",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/cherrycheesecake0000fluk_status_history_2021-07-0107:06:27.log",
+        "source": "original",
+        "mtime": "1625094390",
+        "size": "407",
+        "md5": "2d5abcbba2e3d8444cd70ed807df589a",
+        "crc32": "739c8a7f",
+        "sha1": "3a365ecd0d2f8a251e2a1894eb522193749bf253",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 30,
+    "item_last_updated": 1753142590,
+    "item_size": 694820762,
+    "metadata": {
+      "identifier": "cherrycheesecake0000fluk",
+      "boxid": "IA40164208",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Fluke, Joanne, 1943-",
+      "date": "2006-01-01",
+      "description": "viii, 342 p. ; 22 cm",
+      "isbn": [
+        "9780758202949",
+        "0758202946"
+      ],
+      "language": "eng",
+      "lccn": "2005924288",
+      "mediatype": "texts",
+      "old_pallet": "IA12109",
+      "openlibrary_edition": "OL20962268M",
+      "openlibrary_work": " OL515924W",
+      "operator": "associate-legimae-codilla@archive.org",
+      "publisher": "New York : Kensington Books",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station40.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780758202949",
+      "subject": [
+        "Swensen, Hannah (Fictitious character) -- Fiction",
+        "Women detectives -- Minnesota -- Fiction",
+        "Bakers -- Fiction",
+        "Minnesota -- Fiction"
+      ],
+      "title": "Cherry cheesecake murder : a Hannah Swensen mystery with recipes",
+      "tts_version": "4.5-initial-62-g5e6e8103",
+      "uploader": "station40.cebu@archive.org",
+      "publicdate": "2021-06-30 01:58:59",
+      "access-restricted-item": "true",
+      "imagecount": "362",
+      "scandate": "20210701005817",
+      "notes": "some page skewed text\ninherent cut off text due tight binding",
+      "ppi": "360",
+      "republisher_operator": "associate-loriemae-randoy@archive.org",
+      "republisher_date": "20210702152058",
+      "republisher_time": "418",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/cherrycheesecake0000fluk",
+      "identifier-ark": "ark:/13960/t1fk48g1j",
+      "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+      "ocr_parameters": "-l eng",
+      "ocr_module_version": "0.0.13",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9765",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "100",
+      "pdf_module_version": "0.0.14",
+      "external-identifier": [
+        "urn:acs6:cherrycheesecake0000fluk:pdf:4a74ff29-f893-4b0e-b488-4df16fc898ad",
+        "urn:oclc:record:70151509",
+        "urn:lcp:cherrycheesecake0000fluk:lcpdf:c4d7fa95-70cd-41cd-bfbf-d02195eb16ab",
+        "urn:lcp:cherrycheesecake0000fluk:epub:0914ebf2-b73b-466e-a87f-06db1c1b6284"
+      ],
+      "addeddate": "2021-07-02 11:00:46",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20210630",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "normalized_dates": [
+        "2006-01-01"
+      ]
+    },
+    "server": "ia804505.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40664201"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2022-09-27 04:26:42.661802"
+        },
+        "spokanepubliclibrary-ol": {
+          "notes": {
+            "isbn": [
+              "9780758202949"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-12-02 12:03:24.629502"
+        }
+      }
+    },
+    "uniq": 1834765439,
+    "workable_servers": [
+      "ia804505.us.archive.org",
+      "ia904505.us.archive.org"
+    ]
+  }
+}

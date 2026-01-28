@@ -1,0 +1,517 @@
+{
+  "source": "internet_archive",
+  "identifier": "betterhomesgarde00jenn",
+  "title": "Annual recipes, 1996",
+  "creator": "Jennifer Darling",
+  "year": 1996,
+  "subject": "Cooking",
+  "description": "At head of title: Better homes and gardens",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/betterhomesgarde00jenn"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/betterhomesgarde00jenn"
+        }
+      ]
+    },
+    "created": 1758556266,
+    "d1": "ia601307.us.archive.org",
+    "d2": "ia801307.us.archive.org",
+    "dir": "/18/items/betterhomesgarde00jenn",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658705494",
+        "size": "19797",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "d2c4ed28f128688508bc54f9701112cc",
+        "crc32": "3fb181e7",
+        "sha1": "9cd414fc83a207d67b0f9cac160a533e0c9c939b"
+      },
+      {
+        "name": "betterhomesgarde00jenn.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "betterhomesgarde00jenn_hocr.html",
+        "mtime": "1753060519",
+        "size": "40475091",
+        "private": "true",
+        "md5": "5b80b8f96d86f77b5208fa7688047c67",
+        "crc32": "14c946db",
+        "sha1": "b7c7fb466aad2c8f4083af4d7deab2f0a85fa1f3"
+      },
+      {
+        "name": "betterhomesgarde00jenn.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "betterhomesgarde00jenn_jp2.zip",
+        "mtime": "1343689232",
+        "size": "338957",
+        "md5": "fa5d4ba42e53dc3bd2f241533b87c3dc",
+        "crc32": "b76b9d33",
+        "sha1": "0210fbfb41d0a2c9768f2a9c2ea97655cf2e50ce"
+      },
+      {
+        "name": "betterhomesgarde00jenn.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "betterhomesgarde00jenn.pdf",
+        "mtime": "1753060217",
+        "size": "36761993",
+        "md5": "efbf5b8da2774edb52c0e89938f26ebf",
+        "crc32": "2d85ff33",
+        "sha1": "2399e38fcbde95aee10cb0de5d1b0d324493af11"
+      },
+      {
+        "name": "betterhomesgarde00jenn.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.23",
+        "format": "Text PDF",
+        "original": "betterhomesgarde00jenn_page_numbers.json",
+        "mtime": "1716126428",
+        "size": "36477944",
+        "md5": "0ebd6bd8f9299f527a9b0052132aacea",
+        "crc32": "814c85ee",
+        "sha1": "12119885bbfe6e12b9af5e16c898bee7d4451ac6",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00jenn.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1334951157",
+        "size": "481643",
+        "md5": "d5f36c23e0b7d6971e708d34c294aa64",
+        "crc32": "3d87ece3",
+        "sha1": "b7f4b1b7ed97ff691fea0c2f6442580e1577e582"
+      },
+      {
+        "name": "betterhomesgarde00jenn.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "betterhomesgarde00jenn.warc.gz",
+        "mtime": "1343682181",
+        "size": "6111",
+        "md5": "ddb10c9b4107fd79651c79b30f19f11e",
+        "crc32": "75708f00",
+        "sha1": "0244215994f46d2064d586ed4a84706574054320",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00jenn_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "betterhomesgarde00jenn_jp2.zip",
+        "mtime": "1343697457",
+        "size": "15411249",
+        "md5": "942b5fb26da5e93dd53c67c98ad4555c",
+        "crc32": "2d2e19d2",
+        "sha1": "af37eab38409593b0478e6bbfdb212b2d5a81078",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00jenn_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "betterhomesgarde00jenn_abbyy.gz",
+        "mtime": "1658705064",
+        "size": "12806593",
+        "md5": "96103a0ed6be25db283b5797c9b47e0b",
+        "crc32": "95da931e",
+        "sha1": "4074bbea34849e9fd8b107c8ce88c53595cd573a",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00jenn_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "betterhomesgarde00jenn_scandata.xml",
+        "mtime": "1669424676",
+        "size": "781",
+        "md5": "674a266b2c42ec7626b8c54102648093",
+        "crc32": "b443e1bd",
+        "sha1": "447f4f7c67e3aaece91b8b600f42a6e935674f6c",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00jenn_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1510795248",
+        "size": "923",
+        "md5": "52bdd6baaf958c3c1b890d69ce90d90c",
+        "crc32": "97437b78",
+        "sha1": "ebeedde2a583b309d6cbc3373b5455c05bf821f1"
+      },
+      {
+        "name": "betterhomesgarde00jenn_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "betterhomesgarde00jenn_djvu.xml",
+        "mtime": "1716126764",
+        "size": "1131903",
+        "md5": "8cbd9941247403e54c48e8570e26d185",
+        "crc32": "1566d140",
+        "sha1": "988f48b6aacd15dd4e622a3a0e31ee3a2bb221ac",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00jenn_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "betterhomesgarde00jenn_hocr.html",
+        "mtime": "1716117052",
+        "size": "13820875",
+        "md5": "b4c98eda147ff1e2e27cd6ba2522ee08",
+        "crc32": "454f6918",
+        "sha1": "b960e7591e5c4b5ef783e3ae2317d5b1b4e4b5ac",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00jenn_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "betterhomesgarde00jenn.pdf",
+        "mtime": "1716126769",
+        "size": "36389827",
+        "md5": "64f27b8b27f2e79dd2904443e82943ae",
+        "crc32": "15ee05ea",
+        "sha1": "34a56cdaf4903e4acaa43c5c91efda0acc581c16"
+      },
+      {
+        "name": "betterhomesgarde00jenn_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "8f861a7424627a3504a3eedbd3f15662",
+        "summation": "md5"
+      },
+      {
+        "name": "betterhomesgarde00jenn_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "betterhomesgarde00jenn_chocr.html.gz",
+        "mtime": "1658705261",
+        "size": "27747517",
+        "md5": "e3c5f4dbad9c73cadd2cd5aed81e9189",
+        "crc32": "ccb9f865",
+        "sha1": "24ef027b1697e8c48c6160ed1752e629f7af5b5d",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00jenn_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "betterhomesgarde00jenn_hocr.html",
+        "mtime": "1658705386",
+        "size": "4145",
+        "md5": "a4c2491fa9497f0877a5a98999c946b3",
+        "crc32": "a428f1c8",
+        "sha1": "9ccaded9259e283ca12328d1f4de1d7468cdcc68",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00jenn_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "14154",
+        "word_conf_11_20": "11721",
+        "word_conf_21_30": "23041",
+        "word_conf_31_40": "23785",
+        "word_conf_41_50": "31194",
+        "word_conf_51_60": "27158",
+        "word_conf_61_70": "17622",
+        "word_conf_71_80": "7774",
+        "word_conf_81_90": "3651",
+        "word_conf_91_100": "5657",
+        "format": "OCR Search Text",
+        "original": "betterhomesgarde00jenn_hocr.html",
+        "mtime": "1658705459",
+        "size": "328695",
+        "md5": "c5c74611dc790c341cb799990b0c0f13",
+        "crc32": "0c454c52",
+        "sha1": "02ab11e1bf5daa3808cd8ec965eb6ca2137cd7ad",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00jenn_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "betterhomesgarde00jenn_orig_jp2.tar",
+        "mtime": "1343689170",
+        "size": "188881664",
+        "md5": "88b13e4e87483c66e5c309c008da9744",
+        "crc32": "d2641d03",
+        "sha1": "08e6a20cd4b2fd550884c4cf7eeb24a48764d138",
+        "private": "true",
+        "filecount": "346"
+      },
+      {
+        "name": "betterhomesgarde00jenn_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "betterhomesgarde00jenn.epub",
+        "mtime": "1753060833",
+        "size": "41185173",
+        "md5": "81457e0be2a1d336f8cd08fda58161af",
+        "crc32": "9c43cd98",
+        "sha1": "bd4b70912b0b649830dbc2e215d7da0efec5b896"
+      },
+      {
+        "name": "betterhomesgarde00jenn_loans.json",
+        "source": "original",
+        "mtime": "1593359657",
+        "size": "4304",
+        "format": "JSON",
+        "private": "true",
+        "md5": "2e35a09a73703cae8a436ac787fe9c9a",
+        "crc32": "55d04037",
+        "sha1": "b374384daae4273495cd78bd1bed9cedebd741d8"
+      },
+      {
+        "name": "betterhomesgarde00jenn_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1510795248",
+        "size": "3379",
+        "md5": "d28c5ccd12477fcdfbafb386cf63b8e7",
+        "crc32": "3883d2d2",
+        "sha1": "b9fcc3fa4f26675578732536fd27ed340ce21c87"
+      },
+      {
+        "name": "betterhomesgarde00jenn_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "betterhomesgarde00jenn_xisbn.json",
+        "mtime": "1454287814",
+        "size": "244",
+        "md5": "0b4fad5a7fa72a87298db678c93218db",
+        "crc32": "52ac9d9e",
+        "sha1": "6c3fa6f8a365c4f6c0463a5e6c9fe5726d6b45dd",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00jenn_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454287812",
+        "size": "1033",
+        "md5": "0ff84504dab43774772f1f3d52891532",
+        "crc32": "f228a851",
+        "sha1": "2300e1c7f8636e425eb2313b918f3ce10829f2e9"
+      },
+      {
+        "name": "betterhomesgarde00jenn_meta.sqlite",
+        "source": "original",
+        "mtime": "1466984613",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "8cb02b1b504559e7a4a4354d3c3ab859",
+        "crc32": "2ce40031",
+        "sha1": "db04487ee32f08e06293abe3706907f4d3333107"
+      },
+      {
+        "name": "betterhomesgarde00jenn_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753060833",
+        "size": "3187",
+        "md5": "6318efb9579fc1ea0f7e10831e5b14e6",
+        "crc32": "a31b8d02",
+        "sha1": "bc9d715c72c7fa8cc378d4ce9ded38a9b4abf804"
+      },
+      {
+        "name": "betterhomesgarde00jenn_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1334951157",
+        "size": "287",
+        "md5": "7e31cac9356b11660416ceac03310478",
+        "crc32": "8e30719d",
+        "sha1": "59ab8aabf98f0813f05f27a689f38c3628f6303f"
+      },
+      {
+        "name": "betterhomesgarde00jenn_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1342812315",
+        "size": "234567680",
+        "md5": "7f0a0d7817a0a3ff143c8999e578e2bd",
+        "crc32": "9f1a4d67",
+        "sha1": "5b469fc1ccffcbe9940604a54b281ad0ddd9083e",
+        "private": "true",
+        "filecount": "346"
+      },
+      {
+        "name": "betterhomesgarde00jenn_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "94",
+        "format": "Page Numbers JSON",
+        "original": "betterhomesgarde00jenn_hocr.html",
+        "mtime": "1716117292",
+        "size": "58548",
+        "md5": "e21005acde92bdd3629831ffb1619349",
+        "crc32": "e4529a15",
+        "sha1": "13f8619febefc3915f3dea0971f2d8587862e8b6",
+        "private": "true"
+      },
+      {
+        "name": "betterhomesgarde00jenn_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669424676",
+        "size": "452016",
+        "md5": "0e7bfe7bd6c2308c2d410919b551720e",
+        "crc32": "a4d3e3f2",
+        "sha1": "9e5c125e53a854cfec972c2bd181979c57a666f0"
+      },
+      {
+        "name": "betterhomesgarde00jenn_xisbn.json",
+        "source": "original",
+        "mtime": "1454079355",
+        "size": "277",
+        "md5": "c1f0af082eafb61eb6dcdd8225ed386e",
+        "crc32": "20f880d8",
+        "sha1": "05b3a1e09abe9e2d1b714cad711e5d29b749977c",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 31,
+    "item_last_updated": 1753060833,
+    "item_size": 687367980,
+    "metadata": {
+      "publisher": "Des Moines, Iowa : Better Homes and Gardens Books",
+      "isbn": [
+        "0696201569",
+        "9780696201561"
+      ],
+      "openlibrary": "OL7760532M",
+      "creator": "Jennifer Darling",
+      "title": "Annual recipes, 1996",
+      "mediatype": "texts",
+      "page-progression": "lr",
+      "repub_state": "4",
+      "updatedate": "2012-04-20 19:45:52",
+      "updater": "associate-lotu-tii@archive.org",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "shiptracking": "f0119",
+      "boxid": "IA103817",
+      "language": "eng",
+      "identifier": "betterhomesgarde00jenn",
+      "uploader": "associate-lotu-tii@archive.org",
+      "addeddate": "2012-04-20 19:45:59",
+      "publicdate": "2012-04-20 19:46:02",
+      "scanner": "scribe28.shenzhen.archive.org",
+      "repub_seconds": "210",
+      "ppi": "350",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-lee@archive.org",
+      "scandate": "20120720014506",
+      "republisher": "scanner-shenzhen-sun@archive.org",
+      "imagecount": "346",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/betterhomesgarde00jenn",
+      "identifier-ark": "ark:/13960/t6m059d01",
+      "bookplateleaf": "0002",
+      "ocr": "ABBYY FineReader 8.0",
+      "scanfee": "150",
+      "boxid_2": "CH120121108-BL1",
+      "donor": "alibris",
+      "sponsordate": "not to be invoiced-past billing period",
+      "date": "1996-01-01",
+      "description": "At head of title: Better homes and gardens",
+      "city": "Des Moines, Iowa",
+      "oclc-id": "46543344",
+      "backup_location": "ia903802_4",
+      "openlibrary_edition": "OL7760532M",
+      "openlibrary_work": "OL8329069W",
+      "subject": "Cooking",
+      "republisher_operator": "scanner-shenzhen-sun@archive.org",
+      "republisher_date": "20120720192156",
+      "external-identifier": [
+        "urn:oclc:record:1028727196",
+        "urn:acs6:betterhomesgarde00jenn:pdf:5f1a7e30-3f74-419c-abed-22b51595f295",
+        "urn:acs6:betterhomesgarde00jenn:epub:779cb29f-e8a1-4778-8e79-b3f44f39f4bf",
+        "urn:lcp:betterhomesgarde00jenn:lcpdf:fa2f7702-530f-4732-89cb-265921db27c5",
+        "urn:lcp:betterhomesgarde00jenn:epub:74123024-214b-4fac-86cc-475373202e83"
+      ],
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "94",
+      "filesxml": "Tue Apr 2 22:06:26 UTC 2024",
+      "page_number_module_version": "1.0.5",
+      "pdf_module_version": "0.0.23",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "inlibrary"
+      ]
+    },
+    "server": "ia801307.us.archive.org",
+    "uniq": 996618768,
+    "workable_servers": [
+      "ia801307.us.archive.org",
+      "ia601307.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "publisher": "Better Homes and Gardens Books",
+          "url": [
+            "http://www.worldcat.org/oclc/46543344?referer=xid"
+          ],
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "year": "1996",
+          "isbn": [
+            "0696201569"
+          ],
+          "title": "Annual recipes, 1996.",
+          "oclcnum": [
+            "46543344"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Jennifer Darling",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

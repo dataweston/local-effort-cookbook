@@ -1,0 +1,319 @@
+{
+  "source": "internet_archive",
+  "identifier": "christmas-greetings-1953",
+  "title": "Christmas Greetings 1953 Coobook",
+  "creator": null,
+  "year": null,
+  "subject": [
+    "cookbook",
+    "michigan",
+    "christmas"
+  ],
+  "description": "This is a cookbook from 1953 from the Detroit District of the Michigan Consolidated Gas Company featuring recipes for Christmas time. Apologies for the low quality of the scan, it was done with my phone and Tiny Scanner.",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn721906.ca.archive.org",
+          "dir": "/0/items/christmas-greetings-1953"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn721906.ca.archive.org",
+          "dir": "/0/items/christmas-greetings-1953"
+        }
+      ]
+    },
+    "created": 1758558274,
+    "d1": "ia601606.us.archive.org",
+    "d2": "ia801606.us.archive.org",
+    "dir": "/12/items/christmas-greetings-1953",
+    "files": [
+      {
+        "name": "Christmas Greetings 1953.pdf",
+        "source": "original",
+        "mtime": "1683594812",
+        "size": "12128469",
+        "md5": "77e4a5a65aaf670cb3b5d55d4e9f2cca",
+        "crc32": "dbc38392",
+        "sha1": "a131535d522f175468e6fa518121234eda4e25c2",
+        "format": "Image Container PDF",
+        "viruscheck": "1683595461"
+      },
+      {
+        "name": "Christmas Greetings 1953_chocr.html.gz",
+        "source": "derivative",
+        "ocr": "tesseract 5.3.0-3-g9920",
+        "ocr_parameters": "lang-deu;lang-spa;lang-fra;lang-eng;lang-Latin;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": [
+          "Latin",
+          "Arabic",
+          "Fraktur"
+        ],
+        "ocr_detected_script_conf": [
+          "0.9840",
+          "0.0085",
+          "0.0042"
+        ],
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "chOCR",
+        "original": "Christmas Greetings 1953_jp2.zip",
+        "mtime": "1683597591",
+        "size": "833100",
+        "md5": "6f71d329349a729521b84de051894368",
+        "crc32": "e880cd2a",
+        "sha1": "84ad561f17eb66e829c0075288e75c99bf26c198"
+      },
+      {
+        "name": "Christmas Greetings 1953_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "Christmas Greetings 1953_djvu.xml",
+        "mtime": "1683599212",
+        "size": "54699",
+        "md5": "ddeebeb515ea80837401eefe36e8ea05",
+        "crc32": "d9907839",
+        "sha1": "fe5e32fda83a2862ce86440855ffd2460190db96"
+      },
+      {
+        "name": "Christmas Greetings 1953_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "Christmas Greetings 1953_hocr.html",
+        "mtime": "1683598641",
+        "size": "798300",
+        "md5": "5eb292e001989fb16b9afe5be2c30c8d",
+        "crc32": "7dbfde84",
+        "sha1": "4f5165351dd04acfb2c455b98388fd25808feadf"
+      },
+      {
+        "name": "Christmas Greetings 1953_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_parameters": "lang-deu;lang-spa;lang-fra;lang-eng;lang-Latin;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-enabled;binarisation-method-otsu",
+        "ocr_module_version": "0.0.21",
+        "ocr_autonomous": "true",
+        "ocr_detected_script": [
+          "Latin",
+          "Arabic",
+          "Fraktur"
+        ],
+        "ocr_detected_script_conf": [
+          "0.9840",
+          "0.0085",
+          "0.0042"
+        ],
+        "ocr_detected_lang": "en",
+        "ocr_detected_lang_conf": "1.0000",
+        "format": "hOCR",
+        "original": "Christmas Greetings 1953_chocr.html.gz",
+        "mtime": "1683598123",
+        "size": "1643251",
+        "md5": "b2a8ea7ae436b53d5a9e4d342aba33f5",
+        "crc32": "afc88a05",
+        "sha1": "ffd703d3881b64f71b93d58f21be0adc717ad3a0"
+      },
+      {
+        "name": "Christmas Greetings 1953_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "Christmas Greetings 1953_hocr.html",
+        "mtime": "1683598910",
+        "size": "411",
+        "md5": "04bcb65eebfd68be405b22b8daaa45d2",
+        "crc32": "35ac0eec",
+        "sha1": "31bbecef9c7037fb450f8918c13b25cf2e657440"
+      },
+      {
+        "name": "Christmas Greetings 1953_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "34",
+        "word_conf_11_20": "50",
+        "word_conf_21_30": "72",
+        "word_conf_31_40": "113",
+        "word_conf_41_50": "155",
+        "word_conf_51_60": "122",
+        "word_conf_61_70": "104",
+        "word_conf_71_80": "150",
+        "word_conf_81_90": "636",
+        "word_conf_91_100": "8147",
+        "format": "OCR Search Text",
+        "original": "Christmas Greetings 1953_hocr.html",
+        "mtime": "1683599149",
+        "size": "17983",
+        "md5": "a895fe84566e5b014706b17890ccafe4",
+        "crc32": "353724af",
+        "sha1": "2aa5a2297ae4b032202dccfbcbf218e95d09e4e0"
+      },
+      {
+        "name": "Christmas Greetings 1953_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "Christmas Greetings 1953.pdf",
+        "mtime": "1683595954",
+        "size": "16263296",
+        "md5": "4b85d239c2cff529ada9948639f61887",
+        "crc32": "4522f17b",
+        "sha1": "7a3f352bfcdf5e85bf8198b19d122252025df705",
+        "filecount": "36"
+      },
+      {
+        "name": "Christmas Greetings 1953_page_numbers.json",
+        "source": "derivative",
+        "format": "Page Numbers JSON",
+        "original": "Christmas Greetings 1953_djvu.xml",
+        "mtime": "1683599245",
+        "size": "6698",
+        "md5": "27a2448965bc130d226441db2c308f23",
+        "crc32": "6228a5db",
+        "sha1": "4fb52f8df9aab388b2be958c442d94a4d8d91635"
+      },
+      {
+        "name": "Christmas Greetings 1953_scandata.xml",
+        "source": "derivative",
+        "format": "Scandata",
+        "original": "Christmas Greetings 1953_djvu.xml",
+        "mtime": "1683599245",
+        "size": "12826",
+        "md5": "cccfe0ae7985f3ad0a555bc72724d70a",
+        "crc32": "16f16d30",
+        "sha1": "e0a7ac5e77bbfdc18b0748c46fa89a7f6cf6937a"
+      },
+      {
+        "name": "Christmas Greetings 1953_text.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.22",
+        "format": "Additional Text PDF",
+        "original": "Christmas Greetings 1953_page_numbers.json",
+        "mtime": "1683600497",
+        "size": "4995578",
+        "md5": "489d98c0581074d5d9e469efeaa38f93",
+        "crc32": "b981160e",
+        "sha1": "363a775e98164a14a8eacf19f93c86cc8803a0d8"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1683600861",
+        "size": "14743",
+        "md5": "96576e0c33faca6e4f1e2653bd5f80f5",
+        "crc32": "d881c6d7",
+        "sha1": "931ce4bbba5c8ac1bb25f22c386d414279de28c1",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "christmas-greetings-1953_archive.torrent",
+        "source": "metadata",
+        "btih": "dd101695ffcfe8d99ff3848a252803da7d097274",
+        "mtime": "1716131173",
+        "size": "5265",
+        "md5": "1d6ae72b99912853ac5e624280ddc5eb",
+        "crc32": "5b5c2922",
+        "sha1": "f18b1a74b5921062bdf1d1ba8b5ee011a6538633",
+        "format": "Archive BitTorrent"
+      },
+      {
+        "name": "christmas-greetings-1953_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "dc26d3902fc8e0715f099c52a1461d2c",
+        "summation": "md5"
+      },
+      {
+        "name": "christmas-greetings-1953_meta.sqlite",
+        "source": "original",
+        "mtime": "1683594835",
+        "size": "20480",
+        "md5": "f018ed7590e656bbe37b44136f5bb924",
+        "crc32": "7344ad57",
+        "sha1": "aa76ee0c9ad6018bdb511669b93b567212a6fe94",
+        "format": "Metadata"
+      },
+      {
+        "name": "christmas-greetings-1953_meta.xml",
+        "source": "original",
+        "mtime": "1716131171",
+        "size": "2036",
+        "md5": "5639f79ef2599f29d343c21b6e1b4654",
+        "crc32": "29ce1897",
+        "sha1": "c0108f3fac995da774b0af2ff88b3b0bcb79029e",
+        "format": "Metadata"
+      }
+    ],
+    "files_count": 16,
+    "item_last_updated": 1716131173,
+    "item_size": 36797135,
+    "metadata": {
+      "identifier": "christmas-greetings-1953",
+      "mediatype": "texts",
+      "collection": [
+        "folkscanomy_culinary",
+        "folkscanomy",
+        "additional_collections"
+      ],
+      "description": "This is a cookbook from 1953 from the Detroit District of the Michigan Consolidated Gas Company featuring recipes for Christmas time. Apologies for the low quality of the scan, it was done with my phone and Tiny Scanner.<br />",
+      "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+      "subject": [
+        "cookbook",
+        "michigan",
+        "christmas"
+      ],
+      "title": "Christmas Greetings 1953 Coobook",
+      "uploader": "mpklamerus@gmail.com",
+      "publicdate": "2023-05-09 01:13:50",
+      "addeddate": "2023-05-09 01:13:50",
+      "curation": "[curator]validator@archive.org[/curator][date]20230509012421[/date][comment]checked for malware[/comment]",
+      "identifier-access": "http://archive.org/details/christmas-greetings-1953",
+      "identifier-ark": "ark:/13960/s2xr6s1s84r",
+      "ppi": "350",
+      "ocr": "tesseract 5.3.0-3-g9920",
+      "ocr_parameters": "-l deu+spa+fra+eng+Latin+Fraktur",
+      "ocr_module_version": "0.0.21",
+      "ocr_autonomous": "true",
+      "ocr_detected_script": [
+        "Latin",
+        "Arabic",
+        "Fraktur"
+      ],
+      "ocr_detected_script_conf": [
+        "0.9840",
+        "0.0085",
+        "0.0042"
+      ],
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "page_number_confidence": "91.43",
+      "pdf_module_version": "0.0.22",
+      "collection_added": [
+        "folkscanomy",
+        "additional_collections"
+      ]
+    },
+    "server": "ia801606.us.archive.org",
+    "uniq": 711269136,
+    "workable_servers": [
+      "ia801606.us.archive.org",
+      "ia601606.us.archive.org"
+    ]
+  },
+  "pdf_url": "https://archive.org/download/christmas-greetings-1953/Christmas Greetings 1953.pdf",
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

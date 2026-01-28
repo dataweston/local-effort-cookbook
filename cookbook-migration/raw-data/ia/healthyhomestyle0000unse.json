@@ -1,0 +1,523 @@
+{
+  "source": "internet_archive",
+  "identifier": "healthyhomestyle0000unse",
+  "title": "Healthy home-style cooking. Vol. 3",
+  "creator": null,
+  "year": 2011,
+  "subject": "Cooking",
+  "description": [
+    "336 pages : 28 cm",
+    "Volume numbering from spine",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn720908.ca.archive.org",
+          "dir": "/0/items/healthyhomestyle0000unse"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn720908.ca.archive.org",
+          "dir": "/0/items/healthyhomestyle0000unse"
+        }
+      ]
+    },
+    "created": 1758558725,
+    "d1": "ia601200.us.archive.org",
+    "d2": "ia801200.us.archive.org",
+    "dir": "/23/items/healthyhomestyle0000unse",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660134997",
+        "size": "20507",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "8783344eb93b9bf1e3324a5e21b6035e",
+        "crc32": "dcaa73df",
+        "sha1": "f92aaca980d40c1e1ee3e7d10cc7b4a199b194aa"
+      },
+      {
+        "name": "healthyhomestyle0000unse.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "healthyhomestyle0000unse_hocr.html",
+        "mtime": "1756098034",
+        "size": "295763513",
+        "private": "true",
+        "md5": "0e49abcc8d6fce3744908317242ee1de",
+        "crc32": "74fb20b5",
+        "sha1": "a9ec93b080661d4be83455464635ea0828bdd286"
+      },
+      {
+        "name": "healthyhomestyle0000unse.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "healthyhomestyle0000unse.pdf",
+        "mtime": "1756097438",
+        "size": "55104532",
+        "md5": "1db27b3ea904c4a25c35e7fbe7e669f5",
+        "crc32": "88e2a5ec",
+        "sha1": "e149659a08a4b8f5243cd40d27546367649ee590"
+      },
+      {
+        "name": "healthyhomestyle0000unse.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "healthyhomestyle0000unse_page_numbers.json",
+        "mtime": "1724440911",
+        "size": "54714000",
+        "md5": "f6081d3efd27a40dc6b6f11c4cad72ed",
+        "crc32": "b844fc44",
+        "sha1": "c4e970ef0ebbe7106e7d30c55e6b0326c54c342a",
+        "private": "true"
+      },
+      {
+        "name": "healthyhomestyle0000unse_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "healthyhomestyle0000unse_jp2.zip",
+        "mtime": "1550907908",
+        "size": "8382987",
+        "md5": "93e8abdcb606539a2ff40dfbe50b0e45",
+        "crc32": "616ec220",
+        "sha1": "e0c125271fc4fd8b0cf37c705dcf0e89956ad8b2",
+        "private": "true"
+      },
+      {
+        "name": "healthyhomestyle0000unse_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "healthyhomestyle0000unse_abbyy.gz",
+        "mtime": "1660134804",
+        "size": "6968539",
+        "md5": "f7bc3a34611e6ee8bc3fdb9d0da63994",
+        "crc32": "d973f70f",
+        "sha1": "c4e16c2e05cc371922595167c0396931239a0613",
+        "private": "true"
+      },
+      {
+        "name": "healthyhomestyle0000unse_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "healthyhomestyle0000unse_scandata.xml",
+        "mtime": "1670178418",
+        "size": "788",
+        "md5": "c84e05256215f98b4baa3b089d6e8192",
+        "crc32": "858c2146",
+        "sha1": "19de186cc9525b002d1668494c709880478c633b",
+        "private": "true"
+      },
+      {
+        "name": "healthyhomestyle0000unse_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1550901125",
+        "size": "1105",
+        "md5": "3d21fbcff46686db12f1b32e294466ce",
+        "crc32": "7810add6",
+        "sha1": "f854ce463b5961830163090cbe82eecce76508d6"
+      },
+      {
+        "name": "healthyhomestyle0000unse_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "healthyhomestyle0000unse_djvu.xml",
+        "mtime": "1660134985",
+        "size": "622514",
+        "md5": "a7e15328babe8d4241f0f411c526f5eb",
+        "crc32": "6d107365",
+        "sha1": "ff38369d92d47434fcf56996883d64720ec29ff1",
+        "private": "true"
+      },
+      {
+        "name": "healthyhomestyle0000unse_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "healthyhomestyle0000unse_hocr.html",
+        "mtime": "1660134917",
+        "size": "7375440",
+        "md5": "c8af4dd49186905f24b09eafd7de8b02",
+        "crc32": "297195ea",
+        "sha1": "bad8e552f7bf94c1d92ef400c6cba8e60106e4a1",
+        "private": "true"
+      },
+      {
+        "name": "healthyhomestyle0000unse_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "healthyhomestyle0000unse_abbyy.gz",
+        "mtime": "1550910796",
+        "size": "2123519",
+        "md5": "d9c117d8bf7ff933fa3a3cb322c8a732",
+        "crc32": "591ccba8",
+        "sha1": "3721a2c19f3b3d573e3bf5e49ee6eae999681b1d"
+      },
+      {
+        "name": "healthyhomestyle0000unse_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "healthyhomestyle0000unse.pdf",
+        "mtime": "1724441570",
+        "size": "54482973",
+        "md5": "dcfcf2e6b81f902224435151c7c908cb",
+        "crc32": "356e1e34",
+        "sha1": "050ad7e73a6e420effc8f16338321459295c91c7"
+      },
+      {
+        "name": "healthyhomestyle0000unse_events.json",
+        "source": "original",
+        "mtime": "1550900997",
+        "size": "56",
+        "md5": "84f58dbabbefec333392de52fe78594d",
+        "crc32": "7d00e816",
+        "sha1": "8dc5a5b604ba4c58adf543be0465f368a298e75c",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "healthyhomestyle0000unse_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "eff1831af382fcdedbc3a1d65c5f724c",
+        "summation": "md5"
+      },
+      {
+        "name": "healthyhomestyle0000unse_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "healthyhomestyle0000unse_chocr.html.gz",
+        "mtime": "1660134891",
+        "size": "15304599",
+        "md5": "941cd623fc4040b5284d28cd9f56ad75",
+        "crc32": "23ad0619",
+        "sha1": "b65c8c45ee4f6c76487c75f349b85fb09d1b3fd9",
+        "private": "true"
+      },
+      {
+        "name": "healthyhomestyle0000unse_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "healthyhomestyle0000unse_hocr.html",
+        "mtime": "1660134949",
+        "size": "3783",
+        "md5": "6e6449a9457299c25acc8c40ec5d6f97",
+        "crc32": "0d64895f",
+        "sha1": "6a4c51abf5158e41a201e89e124eee6addf2426c",
+        "private": "true"
+      },
+      {
+        "name": "healthyhomestyle0000unse_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "495",
+        "word_conf_11_20": "419",
+        "word_conf_21_30": "1231",
+        "word_conf_31_40": "1286",
+        "word_conf_41_50": "1921",
+        "word_conf_51_60": "3365",
+        "word_conf_61_70": "6061",
+        "word_conf_71_80": "11491",
+        "word_conf_81_90": "22190",
+        "word_conf_91_100": "40403",
+        "format": "OCR Search Text",
+        "original": "healthyhomestyle0000unse_hocr.html",
+        "mtime": "1660134973",
+        "size": "136158",
+        "md5": "e645576f0a3afbabeb0fbaa7ede7128a",
+        "crc32": "0e68e4c0",
+        "sha1": "204b9e34b0ace34bb3245e27eda35a264bf2cf21",
+        "private": "true"
+      },
+      {
+        "name": "healthyhomestyle0000unse_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "healthyhomestyle0000unse_orig_jp2.tar",
+        "mtime": "1550905359",
+        "size": "404899944",
+        "md5": "978afd27db3978dd18a813af1dfb8a0c",
+        "crc32": "949639c9",
+        "sha1": "681327ecf30685a97d0054e85ce25537cf89f5ab",
+        "private": "true",
+        "filecount": "346"
+      },
+      {
+        "name": "healthyhomestyle0000unse_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "healthyhomestyle0000unse.epub",
+        "mtime": "1756098717",
+        "size": "296556058",
+        "md5": "0a5986f7558ffea34de8a3bf7bfa4f42",
+        "crc32": "fd64e600",
+        "sha1": "b24f7cde8d5adf6ba512cad6d1c4017ca4164d46"
+      },
+      {
+        "name": "healthyhomestyle0000unse_loans.json",
+        "source": "original",
+        "mtime": "1593058321",
+        "size": "470",
+        "format": "JSON",
+        "private": "true",
+        "md5": "f4089c39845023e3c22c188c4bd9cc32",
+        "crc32": "bdb77677",
+        "sha1": "a1141c3721feb78e6754f5e29c432c3a1a3fe1e8"
+      },
+      {
+        "name": "healthyhomestyle0000unse_marc.xml",
+        "source": "original",
+        "mtime": "1550901124",
+        "size": "4133",
+        "format": "MARC",
+        "md5": "b6751ba8820ea196baef6d666b32a91a",
+        "crc32": "64c5ccf3",
+        "sha1": "8784d8387c322246e9813d1ceb460e4785b290ad"
+      },
+      {
+        "name": "healthyhomestyle0000unse_meta.mrc",
+        "source": "original",
+        "mtime": "1550586778",
+        "size": "1166",
+        "md5": "aab7aa35dadb1ada593cabead9efd425",
+        "crc32": "9ba4e9b5",
+        "sha1": "19d42a15ec8138619ea1c1ea11d409d945b85058",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "healthyhomestyle0000unse_meta.sqlite",
+        "source": "original",
+        "mtime": "1550901086",
+        "size": "16384",
+        "format": "Metadata",
+        "md5": "693e3bd54cb3bf165db106b08cca8607",
+        "crc32": "20df064e",
+        "sha1": "e8b319a624d1c8f12b5ea08ad76285ce5f1f6e38"
+      },
+      {
+        "name": "healthyhomestyle0000unse_meta.xml",
+        "source": "original",
+        "mtime": "1756098719",
+        "size": "2945",
+        "format": "Metadata",
+        "md5": "0fa09cb47840b65d16a0e7a4723bf938",
+        "crc32": "29f16e8c",
+        "sha1": "8d4128fc07d1de8eb31cbcbec72be2883cee1575"
+      },
+      {
+        "name": "healthyhomestyle0000unse_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1550901085",
+        "size": "729569280",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "04a4fc071b6baf1535674764e0992cf0",
+        "crc32": "17a6e1af",
+        "sha1": "316f87773c8bd9d777666ba07b826a53d4bd3520",
+        "filecount": "346"
+      },
+      {
+        "name": "healthyhomestyle0000unse_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "83",
+        "format": "Page Numbers JSON",
+        "original": "healthyhomestyle0000unse_hocr.html",
+        "mtime": "1724440910",
+        "size": "58936",
+        "md5": "85bb070b47222470bd9b8665cfefbb8f",
+        "crc32": "54dfbffa",
+        "sha1": "5f5d42f07d46d947ef332f84c8d7e615482d98b7",
+        "private": "true"
+      },
+      {
+        "name": "healthyhomestyle0000unse_scandata.xml",
+        "source": "original",
+        "mtime": "1670178418",
+        "size": "352072",
+        "format": "Scandata",
+        "md5": "c69e02b995c1f0b6b916668a6d450ef3",
+        "crc32": "4fe2c16d",
+        "sha1": "9867a1e7040c1ac6e38beab9be8c239558b20b67"
+      },
+      {
+        "name": "healthyhomestyle0000unse_slip.png",
+        "source": "original",
+        "mtime": "1550579038",
+        "size": "38575",
+        "md5": "c7102a082f8b715d382d8b407a022394",
+        "crc32": "6ce8eb03",
+        "sha1": "52bd74f35808e1abc5f05c08a5ea06fafacf9ff0",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "healthyhomestyle0000unse_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "healthyhomestyle0000unse_slip.png",
+        "mtime": "1550901128",
+        "size": "5747",
+        "md5": "7bdfa784e107b5de92cf95f92fb761d2",
+        "crc32": "3ddedf72",
+        "sha1": "424d02be5f73ddac06821d6f46f155a2e6785add",
+        "private": "true"
+      },
+      {
+        "name": "healthyhomestyle0000unse_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "healthyhomestyle0000unse_djvu.xml",
+        "mtime": "1670178045",
+        "size": "630",
+        "md5": "f1e374e378462fb4cf39d4927f650686",
+        "crc32": "dedc12f6",
+        "sha1": "ac65936a613f31639e76bc425105f6dadf5c3b1b",
+        "private": "true"
+      },
+      {
+        "name": "logs/healthyhomestyle0000unse_iabdash_2019-02-1922:32:19.log",
+        "source": "original",
+        "mtime": "1550586754",
+        "size": "1340",
+        "md5": "4a20a83fef5b0572c92e685d9029e1a2",
+        "crc32": "45ba4a60",
+        "sha1": "81534a5736b7854cafbf17bff0204afa1c828d3a",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/healthyhomestyle0000unse_scanning_2019-02-1922:32:03.log",
+        "source": "original",
+        "mtime": "1550586742",
+        "size": "611753",
+        "md5": "31b8438dd14ef5ab40076afeaddb2274",
+        "crc32": "2237092c",
+        "sha1": "c938b7d04c31d2787960d6e0f5f6037e43671035",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1756098719,
+    "item_size": 1933124446,
+    "metadata": {
+      "identifier": "healthyhomestyle0000unse",
+      "scanner": "station07.cebu.archive.org",
+      "publicdate": "2019-02-19 12:24:01",
+      "title": "Healthy home-style cooking. Vol. 3",
+      "mediatype": "texts",
+      "uploader": "station07.cebu@archive.org",
+      "addeddate": "2019-02-19 12:24:01",
+      "isbn": [
+        "9780696300271",
+        "0696300273"
+      ],
+      "ppi": "300",
+      "operator": "associate-jurey-morre@archive.org",
+      "old_pallet": "IA15925",
+      "contributor": "Internet Archive",
+      "subject": "Cooking",
+      "repub_state": "19",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "scanningcenter": "cebu",
+      "description": [
+        "336 pages : 28 cm",
+        "Volume numbering from spine",
+        "Includes index"
+      ],
+      "boxid": "IA1638722",
+      "collection_set": "printdisabled",
+      "date": "2011-01-01",
+      "publisher": "Des Moines, IA : Meredith Corp.",
+      "language": "eng",
+      "tts_version": "1.64-initial-38-g228844e",
+      "curation": "[curator]validator@archive.org[/curator][date]20190219122826[/date][comment]checked for malware[/comment]",
+      "imagecount": "346",
+      "scandate": "20190219160439",
+      "republisher_operator": "associate-ronamye-cabale@archive.org",
+      "republisher_date": "20190223134951",
+      "republisher_time": "618",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/healthyhomestyle0000unse",
+      "identifier-ark": "ark:/13960/t7ds0c721",
+      "bookplateleaf": "0004",
+      "external-identifier": [
+        "urn:acs6:healthyhomestyle0000unse:epub:e5f699e8-2f9a-486d-87df-7b8355f91836",
+        "urn:acs6:healthyhomestyle0000unse:pdf:3a0e34dd-223b-46b7-a58a-637e3db4eff5",
+        "urn:oclc:record:1149304551",
+        "urn:lcp:healthyhomestyle0000unse:lcpdf:9164f168-03ed-4d9f-a189-d055b837d255",
+        "urn:lcp:healthyhomestyle0000unse:epub:28600925-ddb7-44a8-8f42-fd3f32a9db0f"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "ramp_up_20190228",
+      "access-restricted-item": "true",
+      "backup_location": "ia906807_33",
+      "openlibrary_work": "OL24268984W",
+      "openlibrary_edition": "OL32104390M",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "83",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia801200.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "num_copies": 4,
+            "pallet": [
+              "IA-MC-0000017",
+              "IA-MC-0000011",
+              "IA-MC-0000009",
+              "IA-MC-0000017"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2021-01-15 03:53:16.049052"
+        }
+      }
+    },
+    "uniq": 640251784,
+    "workable_servers": [
+      "ia801200.us.archive.org",
+      "ia601200.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

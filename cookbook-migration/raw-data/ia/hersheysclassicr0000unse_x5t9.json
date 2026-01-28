@@ -1,0 +1,511 @@
+{
+  "source": "internet_archive",
+  "identifier": "hersheysclassicr0000unse_x5t9",
+  "title": "Hershey's classic recipes",
+  "creator": null,
+  "year": 2000,
+  "subject": [
+    "Cooking (Chocolate)",
+    "Baking",
+    "Cookies"
+  ],
+  "description": [
+    "126 pages : 23 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/hersheysclassicr0000unse_x5t9"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/hersheysclassicr0000unse_x5t9"
+        }
+      ]
+    },
+    "created": 1758555500,
+    "d1": "ia902807.us.archive.org",
+    "d2": "ia802807.us.archive.org",
+    "dir": "/30/items/hersheysclassicr0000unse_x5t9",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660147182",
+        "size": "15437",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "e4cc9a1d04be679ccf7aca0324a47ec8",
+        "crc32": "8373b87b",
+        "sha1": "19e234ac28fa726321e28b65f3483e1ac6ae70c3"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "hersheysclassicr0000unse_x5t9_hocr.html",
+        "mtime": "1753445130",
+        "size": "38134151",
+        "private": "true",
+        "md5": "613ea19515b2d1f56d60d9b352f54a22",
+        "crc32": "02a24826",
+        "sha1": "cec6e8c42998c1b0092046316b359eed2556b6ee"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "hersheysclassicr0000unse_x5t9.pdf",
+        "mtime": "1753444989",
+        "size": "11935969",
+        "md5": "1ea91794462b117ca6a7c01e4ca22794",
+        "crc32": "0312151a",
+        "sha1": "45204f24c352bf8abb5f74b73893cfe08f7d137c"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "hersheysclassicr0000unse_x5t9_page_numbers.json",
+        "mtime": "1724533586",
+        "size": "11460797",
+        "md5": "d58c36aa9e3db28d7508148cba715310",
+        "crc32": "c1396bc8",
+        "sha1": "6634b96f2349395720094dff6f394db60d47e6ff",
+        "private": "true"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "hersheysclassicr0000unse_x5t9_jp2.zip",
+        "mtime": "1569839404",
+        "size": "1770358",
+        "md5": "8038cab7c4e24253d92076a83994f0be",
+        "crc32": "5e5dc5dd",
+        "sha1": "d0baced1dbfa17e29324b03b32edb28ee59b1e8b",
+        "private": "true"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "hersheysclassicr0000unse_x5t9_abbyy.gz",
+        "mtime": "1660147077",
+        "size": "1392194",
+        "md5": "cc365da97441b6b9dd9b8d62d47a5a18",
+        "crc32": "578cc4af",
+        "sha1": "4b82e7d01149263d895220be2dc02e4237c59a07",
+        "private": "true"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "hersheysclassicr0000unse_x5t9_scandata.xml",
+        "mtime": "1670183838",
+        "size": "809",
+        "md5": "be12de11a7b78db66e2e52d7f4099413",
+        "crc32": "766c67e9",
+        "sha1": "e9e20ffdc4672dd714df78195378a4e3738bf47f",
+        "private": "true"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1569836829",
+        "size": "1280",
+        "md5": "688a0b48e20d402971ffce71ea55b90d",
+        "crc32": "ebeea930",
+        "sha1": "6227588c8f951eedb4c26e888358cdaa184b8fd9"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "hersheysclassicr0000unse_x5t9_djvu.xml",
+        "mtime": "1660147173",
+        "size": "120314",
+        "md5": "4e0d4a7ac22e121a7201cffb5f2a7a1d",
+        "crc32": "fd14f3ec",
+        "sha1": "2896683c0b712480e5afef205b8288cb91dc1d42",
+        "private": "true"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "hersheysclassicr0000unse_x5t9_hocr.html",
+        "mtime": "1660147129",
+        "size": "1488132",
+        "md5": "c06ee9b9055afebd57287e55338dc900",
+        "crc32": "1d9ba3dd",
+        "sha1": "f909d7a1ca09c7f6d2807b0a9ff2a9780db3ce84",
+        "private": "true"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "hersheysclassicr0000unse_x5t9_abbyy.gz",
+        "mtime": "1569840112",
+        "size": "1173856",
+        "md5": "2cb12eb123a2bfa313f88b245649ebfe",
+        "crc32": "3a7df3e7",
+        "sha1": "dac38ec2221ab07b47db2099fcda3d288f42ccf5"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "hersheysclassicr0000unse_x5t9.pdf",
+        "mtime": "1724534405",
+        "size": "11396088",
+        "md5": "6f08a5b2a5a94dcf70aa48806da77606",
+        "crc32": "1b57cb77",
+        "sha1": "f5c73f0c0dcb3604f4b63bfe62f22b4bf4d0e5c7"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_events.json",
+        "source": "original",
+        "mtime": "1569836759",
+        "size": "54",
+        "md5": "33a22869506bd7df9217239df04a0f6e",
+        "crc32": "1ec4c77a",
+        "sha1": "a218406efac45a862a95733125ec28b4bffeaffa",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "2d3f4b181f78cbbe49eae3e1c33183cd",
+        "summation": "md5"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "hersheysclassicr0000unse_x5t9_chocr.html.gz",
+        "mtime": "1660147117",
+        "size": "3112878",
+        "md5": "ceddf9d9c44ce26bb25df953a7febb87",
+        "crc32": "f8190fee",
+        "sha1": "106b70f3303cd014626bb40594a7b4effdce5ab4",
+        "private": "true"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "hersheysclassicr0000unse_x5t9_hocr.html",
+        "mtime": "1660147151",
+        "size": "1470",
+        "md5": "d33fd736299befa3dfa613bd8bc2903c",
+        "crc32": "96d9cdae",
+        "sha1": "f2fa570cc41dc248681705c46200eb323379b538",
+        "private": "true"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "311",
+        "word_conf_11_20": "338",
+        "word_conf_21_30": "596",
+        "word_conf_31_40": "866",
+        "word_conf_41_50": "1187",
+        "word_conf_51_60": "1892",
+        "word_conf_61_70": "2926",
+        "word_conf_71_80": "3363",
+        "word_conf_81_90": "3002",
+        "word_conf_91_100": "2632",
+        "format": "OCR Search Text",
+        "original": "hersheysclassicr0000unse_x5t9_hocr.html",
+        "mtime": "1660147164",
+        "size": "29054",
+        "md5": "9b73f7409be2b98c308584008d809c1d",
+        "crc32": "c5d8ea1d",
+        "sha1": "5bd202b43a9c4164231de11a199023ecefe5738a",
+        "private": "true"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "hersheysclassicr0000unse_x5t9_orig_jp2.tar",
+        "mtime": "1569838889",
+        "size": "68427938",
+        "md5": "0fdb5875b2fb5833fd74a5995f1d18d5",
+        "crc32": "592a7ab2",
+        "sha1": "28624faad6eee83b8d1d6a87fc7015e7c8613eb7",
+        "private": "true",
+        "filecount": "130"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "hersheysclassicr0000unse_x5t9.epub",
+        "mtime": "1753445421",
+        "size": "38278615",
+        "md5": "6a3257bf909c7b540dbc63e59134dc18",
+        "crc32": "fd0ada62",
+        "sha1": "4a59300dcb33341a95b15cf972febba731a300bd"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_loans.json",
+        "source": "original",
+        "mtime": "1593803802",
+        "size": "4504",
+        "format": "JSON",
+        "private": "true",
+        "md5": "a707c4e55e79bda4dcb23578ead5a8cb",
+        "crc32": "c946f1fa",
+        "sha1": "68ca59c208b4bbea8f6c177a6030944c6bc546be"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_marc.xml",
+        "source": "original",
+        "mtime": "1569836829",
+        "size": "4309",
+        "format": "MARC",
+        "md5": "123fd63c88f3453bd209f3a33aa62380",
+        "crc32": "907ddf09",
+        "sha1": "2ff3680a25ddb7f28673f1baaa81a7fdf5654230"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_meta.mrc",
+        "source": "original",
+        "mtime": "1569393625",
+        "size": "1187",
+        "md5": "8f3b698aa461ba84b00d0eee2d579848",
+        "crc32": "ebb9c684",
+        "sha1": "002b925eb5bf1a8e817bc2c125ce390a4f5737cd",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_meta.sqlite",
+        "source": "original",
+        "mtime": "1569836804",
+        "size": "18432",
+        "format": "Metadata",
+        "md5": "621f06f2e5634202218cd9aa5f59aaa0",
+        "crc32": "01ac1280",
+        "sha1": "031a1cdd90063bfa2b3b7e89f437542dc8d4abf6"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_meta.xml",
+        "source": "original",
+        "mtime": "1753445421",
+        "size": "3016",
+        "format": "Metadata",
+        "md5": "6817f8eb10e3a905ef607fe322f90ba3",
+        "crc32": "50258dcf",
+        "sha1": "4fd3e6f884ae776860e25dc06c357f1d77f3d2a3"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1569836803",
+        "size": "260997120",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "md5": "cc969c1c9db55ba19abe40d3da76247a",
+        "crc32": "7ce5c96a",
+        "sha1": "970885452bcfe08b8de1fa2728fece8ee96cf3d5",
+        "filecount": "130"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "100",
+        "format": "Page Numbers JSON",
+        "original": "hersheysclassicr0000unse_x5t9_hocr.html",
+        "mtime": "1724533584",
+        "size": "21499",
+        "md5": "229bc1dc24270602b6a9906c19c12a3d",
+        "crc32": "b0a9df02",
+        "sha1": "8b8759fc410d2a0e2e2aa0dc01c2c574e837b52a",
+        "private": "true"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_scandata.xml",
+        "source": "original",
+        "mtime": "1670183838",
+        "size": "133644",
+        "format": "Scandata",
+        "md5": "09326f46b539417a903295c85f5f0ed3",
+        "crc32": "5b649fea",
+        "sha1": "3a500f08d626b12e657d0ecb38881d25c06f9f16"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_slip.png",
+        "source": "original",
+        "mtime": "1569393074",
+        "size": "41670",
+        "md5": "01584259f5ff9381d455dcfadf106561",
+        "crc32": "a5e2501b",
+        "sha1": "8e91220a1115fa1a9521aa45dd95649f545fee5e",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "hersheysclassicr0000unse_x5t9_slip.png",
+        "mtime": "1569836834",
+        "size": "5701",
+        "md5": "ec3fa6cf6185c0299f1ac347e6f6b1f7",
+        "crc32": "a59ce4e4",
+        "sha1": "bded972b9fde386c3adf25d6579df5fb22b860a4",
+        "private": "true"
+      },
+      {
+        "name": "hersheysclassicr0000unse_x5t9_title_detection.log",
+        "source": "derivative",
+        "format": "Title Page Detection Log",
+        "original": "hersheysclassicr0000unse_x5t9_djvu.xml",
+        "mtime": "1670183519",
+        "size": "583",
+        "md5": "be7c7741f770674eb1285c598a077b60",
+        "crc32": "303f7c46",
+        "sha1": "9eb94c5e697431e8486c1b47e2ae0792e84a2caf",
+        "private": "true"
+      },
+      {
+        "name": "logs/hersheysclassicr0000unse_x5t9_iabdash_2019-09-2514:40:26.log",
+        "source": "original",
+        "mtime": "1569393630",
+        "size": "1379",
+        "md5": "df1b0557bf11f475549d2e3191cc6203",
+        "crc32": "a3218237",
+        "sha1": "eea31b8e51247836dd20e55a98e3f02b8dd42ac4",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/hersheysclassicr0000unse_x5t9_scanning_2019-09-2514:40:31.log",
+        "source": "original",
+        "mtime": "1569393635",
+        "size": "328908",
+        "md5": "d51542871b1287afddb98a06520b63b0",
+        "crc32": "5e05da32",
+        "sha1": "f6975792f02faa27dd1605007bb5872391a3bbae",
+        "format": "Log",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1753445421,
+    "item_size": 450301346,
+    "metadata": {
+      "identifier": "hersheysclassicr0000unse_x5t9",
+      "associated-names": "Hershey Foods Corporation",
+      "boxid": "IA1667020",
+      "camera": "Sony Alpha-A6300 (Control)",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "date": "2000-01-01",
+      "description": [
+        "126 pages : 23 cm",
+        "Includes index"
+      ],
+      "isbn": [
+        "9780785388470",
+        "0785388478"
+      ],
+      "language": "eng",
+      "lccn": "00103271",
+      "mediatype": "texts",
+      "old_pallet": "IA15282",
+      "openlibrary_edition": "OL8101626M",
+      "operator": "associate-jimbo-lucernas@archive.org",
+      "ppi": "300",
+      "publisher": "Lincolnwood, IL : Publications International",
+      "repub_state": "19",
+      "scanner": "station20.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780785388470",
+      "subject": [
+        "Cooking (Chocolate)",
+        "Baking",
+        "Cookies"
+      ],
+      "title": "Hershey's classic recipes",
+      "tts_version": "3.0-initial-172-ge33e7cb",
+      "uploader": "station20.cebu@archive.org",
+      "addeddate": "2019-09-25 06:31:15",
+      "publicdate": "2019-09-25 06:31:27",
+      "access-restricted-item": "true",
+      "imagecount": "130",
+      "scandate": "20190925065631",
+      "republisher_operator": "associate-jeana-galido@archive.org",
+      "republisher_date": "20190930174554",
+      "republisher_time": "257",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/hersheysclassicr0000unse_x5t9",
+      "identifier-ark": "ark:/13960/t86j2h54h",
+      "external-identifier": [
+        "urn:acs6:hersheysclassicr0000unse_x5t9:epub:3c20ca6e-fe09-4e97-9a20-19d7b6f58e15",
+        "urn:acs6:hersheysclassicr0000unse_x5t9:pdf:bb3ade48-3d32-4d60-af84-2d6957dca459",
+        "urn:oclc:record:1149320519",
+        "urn:lcp:hersheysclassicr0000unse_x5t9:lcpdf:a8432d6e-e2d4-44d5-b330-c51d0eff3b2e",
+        "urn:lcp:hersheysclassicr0000unse_x5t9:epub:59403016-3753-4909-afe2-c4a6750f17e7"
+      ],
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "openlibrary_work": "OL20146220W",
+      "sponsordate": "20190930",
+      "backup_location": "ia907002_3",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "100",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia802807.us.archive.org",
+    "uniq": 812457979,
+    "workable_servers": [
+      "ia802807.us.archive.org",
+      "ia902807.us.archive.org"
+    ]
+  },
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

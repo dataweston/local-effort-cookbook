@@ -1,0 +1,5719 @@
+{
+  "source": "internet_archive",
+  "identifier": "KPCC_89_3_FM_20200101_120000",
+  "title": "KPCC 89.3 FM/KJAI 89.5 FM [89.3 KPCC] : January 01, 2020 04:00AM-05:00AM PST",
+  "creator": null,
+  "year": 2020,
+  "subject": [
+    "Radio Program",
+    "NPR programs",
+    "Single-party states",
+    "Divided regions",
+    "East Asian countries",
+    "Republics",
+    "Nuclear weapons",
+    "Member states of the United Nations",
+    "G20 nations",
+    "Criminology",
+    "Violence",
+    "Financial markets",
+    "North Korea",
+    "Energy economics",
+    "NPR personalities",
+    "Non-lethal weapons",
+    "Sex crimes",
+    "African-American rappers",
+    "Medical emergencies",
+    "Nuclear warfare",
+    "Council of European National Top Level Domain Registries members",
+    "Generic top-level domains",
+    "Midwest hip hop musicians",
+    "Documents",
+    "Nautical terms",
+    "Agricultural buildings",
+    "Technical communication"
+  ],
+  "description": null,
+  "metadata": {
+    "created": 1758319885,
+    "d1": "ia903109.us.archive.org",
+    "d2": "ia803109.us.archive.org",
+    "dir": "/24/items/KPCC_89_3_FM_20200101_120000",
+    "ffmpeg": {
+      "streams": [
+        {
+          "bits_per_sample": 0,
+          "start_time": "0.000000",
+          "time_base": "1/14112000",
+          "sample_fmt": "s16p",
+          "avg_frame_rate": "0/0",
+          "channel_layout": "mono",
+          "codec_tag_string": "[0][0][0][0]",
+          "index": 0,
+          "codec_name": "mp3",
+          "codec_time_base": "1/44100",
+          "sample_rate": "44100",
+          "codec_long_name": "MP3 (MPEG audio layer 3)",
+          "disposition": {
+            "comment": 0,
+            "dub": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "default": 0,
+            "attached_pic": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "hearing_impaired": 0,
+            "forced": 0,
+            "original": 0
+          },
+          "r_frame_rate": "0/0",
+          "bit_rate": "64000",
+          "start_pts": 0,
+          "channels": 1,
+          "codec_tag": "0x0000",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "format_name": "mp3",
+        "filename": "http://live.scpr.org/kpcclive",
+        "start_time": "0.000000",
+        "nb_streams": 1,
+        "bit_rate": "64000",
+        "tags": {
+          "icy-url": "",
+          "icy-name": "89.3 KPCC, Southern California Public Radio",
+          "encoder": "Lavf58.27.103"
+        },
+        "format_long_name": "MP2/3 (MPEG audio layer 2/3)",
+        "nb_programs": 0,
+        "probe_score": 51
+      }
+    },
+    "files": [
+      {
+        "name": "KPCC_89_3_FM_20200101_120000.afpk",
+        "source": "derivative",
+        "format": "Columbia Peaks",
+        "original": "KPCC_89_3_FM_20200101_120000.mp3",
+        "mtime": "1592339871",
+        "size": "659992",
+        "md5": "0bf5ee134eaca75cea7cc31b9912a1b8",
+        "crc32": "47cacfc8",
+        "sha1": "714095d924f1520437795ef84e68144819faa489"
+      },
+      {
+        "name": "KPCC_89_3_FM_20200101_120000.asr.js",
+        "source": "original",
+        "format": "ASR",
+        "mtime": "1581146113",
+        "size": "1181626",
+        "md5": "9c668a548ab3ec8c91c1df58363d62e0",
+        "crc32": "97fea9ef",
+        "sha1": "b08297f697db5ad126607acabc5bc1635ea14401"
+      },
+      {
+        "name": "KPCC_89_3_FM_20200101_120000.asr.srt",
+        "source": "original",
+        "format": "SubRip",
+        "mtime": "1581146112",
+        "size": "76222",
+        "md5": "4f0e8fe31373c3aa56f8625048a91c72",
+        "crc32": "b97fe512",
+        "sha1": "fdac0934e636675a23448d71a90663ce54f40219"
+      },
+      {
+        "name": "KPCC_89_3_FM_20200101_120000.asr.vtt",
+        "source": "original",
+        "format": "Web Video Text Tracks",
+        "mtime": "1581146112",
+        "size": "77766",
+        "md5": "2d0b2ef895e0d590f705b4fa8cdd4148",
+        "crc32": "f64fa1af",
+        "sha1": "1a98b7176020d76f2b307dcf235a6829dbed460d",
+        "private": "true"
+      },
+      {
+        "name": "KPCC_89_3_FM_20200101_120000.mp3",
+        "source": "original",
+        "mtime": "1577884152",
+        "size": "29106176",
+        "md5": "08b967ab58c9297a7dca0047ce860937",
+        "crc32": "4553dab8",
+        "sha1": "c5b54b533014b3b73eed323bec358c5a9b24fd25",
+        "format": "VBR MP3",
+        "length": "3638.26",
+        "height": "0",
+        "width": "0",
+        "track": "01"
+      },
+      {
+        "name": "KPCC_89_3_FM_20200101_120000.png",
+        "source": "derivative",
+        "format": "PNG",
+        "original": "KPCC_89_3_FM_20200101_120000.mp3",
+        "mtime": "1592339787",
+        "size": "41081",
+        "md5": "ff673c710a0d9f7c5d0a469f4b0b5068",
+        "crc32": "4e833f00",
+        "sha1": "871d9ba6dc1a88418c5ea5c3fea038b0a1fc855c"
+      },
+      {
+        "name": "KPCC_89_3_FM_20200101_120000_ffmpeg.json",
+        "source": "original",
+        "mtime": "1577884168",
+        "size": "1568",
+        "md5": "ef0c5025deb11f1a1c42ef50883c5563",
+        "crc32": "73e2649e",
+        "sha1": "b91224bbfc825e75e057a0e4268f6c02e113ca02",
+        "format": "JSON"
+      },
+      {
+        "name": "KPCC_89_3_FM_20200101_120000_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "7d7c2cfc420e056180cd0b4482e51316"
+      },
+      {
+        "name": "KPCC_89_3_FM_20200101_120000_meta.sqlite",
+        "source": "original",
+        "mtime": "1577884171",
+        "size": "14336",
+        "format": "Metadata",
+        "md5": "6c6e18f39957a68b6cdea13ecac287aa",
+        "crc32": "0431d64c",
+        "sha1": "954ee4f06ac294d87d400fa763a01a4e026373d1"
+      },
+      {
+        "name": "KPCC_89_3_FM_20200101_120000_meta.xml",
+        "source": "original",
+        "mtime": "1608217504",
+        "size": "2819",
+        "format": "Metadata",
+        "md5": "93ee2ae763e19a5463e6e1ce88dbb239",
+        "crc32": "1ea535eb",
+        "sha1": "b2b44e3956a7fe720260e2acf8dc25d26c71418d"
+      },
+      {
+        "name": "KPCC_89_3_FM_20200101_120000_spectrogram.png",
+        "source": "derivative",
+        "format": "Spectrogram",
+        "original": "KPCC_89_3_FM_20200101_120000.mp3",
+        "mtime": "1592339801",
+        "size": "305453",
+        "md5": "6673ff97a8197cd0551ac5e825a6dd70",
+        "crc32": "18251ea2",
+        "sha1": "b07afa4dc961888051ad807537efe568c4aa6fcb"
+      },
+      {
+        "name": "KPCC_89_3_FM_20200101_120000_speech_confidence.json",
+        "source": "derivative",
+        "format": "Speech Confidence JSON",
+        "original": "KPCC_89_3_FM_20200101_120000.mp3",
+        "mtime": "1581162627",
+        "size": "111105",
+        "private": "true",
+        "md5": "c775f1ea75b71e99d45278854197f994",
+        "crc32": "59428ca9",
+        "sha1": "2cb0065fead190b708641e67f412776181d29e2c"
+      },
+      {
+        "name": "KPCC_89_3_FM_20200101_120000_speech_vs_music.json",
+        "source": "derivative",
+        "format": "Speech VS Music JSON",
+        "original": "KPCC_89_3_FM_20200101_120000_speech_confidence.json",
+        "mtime": "1581162627",
+        "size": "156",
+        "private": "true",
+        "md5": "eca041239041f0f96e75d0973de2151e",
+        "crc32": "75daf4a9",
+        "sha1": "467bf409538b080239ad74591b0a8a5574ed64de"
+      },
+      {
+        "name": "KPCC_89_3_FM_20200101_120000_speech_vs_music_asr.json",
+        "source": "derivative",
+        "format": "JSON SRT",
+        "original": "KPCC_89_3_FM_20200101_120000.asr.srt",
+        "mtime": "1581162640",
+        "size": "103188",
+        "md5": "979a7b479890131d5771190457a80b67",
+        "crc32": "8919a362",
+        "sha1": "55694133e2433609e7a128bef007ed6d0ef3174e"
+      },
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1608217504",
+        "size": "3832",
+        "md5": "3cb78a5569e68b87a7d4694b470a3c67",
+        "crc32": "d65602e0",
+        "sha1": "bd5b1523acfc581b9d2f70b10b65606486bf2de9",
+        "format": "Item Tile",
+        "rotation": "0"
+      }
+    ],
+    "files_count": 15,
+    "item_last_updated": 1608217504,
+    "item_size": 31685320,
+    "metadata": {
+      "identifier": "KPCC_89_3_FM_20200101_120000",
+      "audio_codec": "mp3",
+      "audio_sample_rate": "64000",
+      "collection": [
+        "Radio-KPCC-89-3-FM",
+        "stream_only",
+        "radio",
+        "radioprograms"
+      ],
+      "contributor": "KPCC 89.3 FM/KJAI 89.5 FM [89.3 KPCC]",
+      "coverage": [
+        "US",
+        "US-CA"
+      ],
+      "date": "2020-01-01",
+      "language": "eng",
+      "mediatype": "audio",
+      "notes": "This material may be protected by copyright law (Title 17 U.S. Code).",
+      "num_recording_errors": "0",
+      "previous": "KPCC_89_3_FM_20200101_110000",
+      "runtime": "01:00:00",
+      "scandate": "20200101120000",
+      "scanner": "researcher7.fnf.archive.org",
+      "scanningcenter": "San Francisco, CA, USA",
+      "software_version": "Radio Recorder Version 20191102.01",
+      "sound": "sound",
+      "source_url": "http://live.scpr.org/kpcclive",
+      "sponsor": "Internet Archive",
+      "start_localtime": "2020-01-01 04:00:00",
+      "start_time": "2020-01-01 12:00:00",
+      "stop_time": "2020-01-01 13:00:00",
+      "subject": [
+        "Radio Program",
+        "NPR programs",
+        "Single-party states",
+        "Divided regions",
+        "East Asian countries",
+        "Republics",
+        "Nuclear weapons",
+        "Member states of the United Nations",
+        "G20 nations",
+        "Criminology",
+        "Violence",
+        "Financial markets",
+        "North Korea",
+        "Energy economics",
+        "NPR personalities",
+        "Non-lethal weapons",
+        "Sex crimes",
+        "African-American rappers",
+        "Medical emergencies",
+        "Nuclear warfare",
+        "Council of European National Top Level Domain Registries members",
+        "Generic top-level domains",
+        "Midwest hip hop musicians",
+        "Documents",
+        "Nautical terms",
+        "Agricultural buildings",
+        "Technical communication"
+      ],
+      "title": "KPCC 89.3 FM/KJAI 89.5 FM [89.3 KPCC] : January 01, 2020 04:00AM-05:00AM PST",
+      "utc_offset": "-800",
+      "year": "2020",
+      "uploader": "arkiver@archive.org",
+      "publicdate": "2020-01-01 13:09:25",
+      "access-restricted-item": "true",
+      "next": "KPCC_89_3_FM_20200101_130000",
+      "bad_audio": "false",
+      "addeddate": "2020-07-14 07:18:39",
+      "backup_location": "ia907100_25",
+      "normalized_dates": [
+        "2020-01-01"
+      ]
+    },
+    "server": "ia903109.us.archive.org",
+    "speech_vs_music_asr": [
+      {
+        "end": 1.069,
+        "id": 1,
+        "is_music": false,
+        "start": 0.004,
+        "text": "They can be in the air and headed to"
+      },
+      {
+        "end": 6.007,
+        "id": 2,
+        "is_music": false,
+        "start": 1.07,
+        "text": "a trouble spot hours after getting their orders it's unclear how many will"
+      },
+      {
+        "end": 10.057,
+        "id": 3,
+        "is_music": false,
+        "start": 6.011,
+        "text": "ultimately be sent but more are prepared to deploy over the next few days according"
+      },
+      {
+        "end": 14.045,
+        "id": 4,
+        "is_music": false,
+        "start": 10.058,
+        "text": "to a statement from Secretary of Defense Mark Asper for n.p.r."
+      },
+      {
+        "end": 18.086,
+        "id": 5,
+        "is_music": false,
+        "start": 14.046,
+        "text": "News I'm Jay price in Fayetteville North Carolina the Australian Government is"
+      },
+      {
+        "end": 23.048,
+        "id": 6,
+        "is_music": false,
+        "start": 18.087,
+        "text": "deploying its military in an effort to help areas hard hit by wildfires in at least"
+      },
+      {
+        "end": 28.014,
+        "id": 7,
+        "is_music": false,
+        "start": 23.049,
+        "text": "2 states on Australia's southeast coast Michael Sullivan reports Navy ships and"
+      },
+      {
+        "end": 32.089,
+        "id": 8,
+        "is_music": false,
+        "start": 28.015,
+        "text": "planes are bringing in supplies food fuel and water to communities inaccessible by"
+      },
+      {
+        "end": 37.06,
+        "id": 9,
+        "is_music": false,
+        "start": 32.09,
+        "text": "road due to the fires there also bringing in more firefighters to help battle the"
+      },
+      {
+        "end": 42.043,
+        "id": 10,
+        "is_music": false,
+        "start": 37.061,
+        "text": "blazes which have destroyed at least 10000000 acres of land and at least 1000 homes"
+      },
+      {
+        "end": 48,
+        "id": 11,
+        "is_music": false,
+        "start": 42.083,
+        "text": "in New South Wales alone more than 100 fires are still burning in the neighboring"
+      },
+      {
+        "end": 53.047,
+        "id": 12,
+        "is_music": false,
+        "start": 48.001,
+        "text": "state of Victoria roughly 4000 people in the coastal town of. Fled to the"
+      },
+      {
+        "end": 58.046,
+        "id": 13,
+        "is_music": false,
+        "start": 53.048,
+        "text": "waterfront after fires threaten to engulf the entire town who are temperatures on"
+      },
+      {
+        "end": 59.088,
+        "id": 14,
+        "is_music": false,
+        "start": 58.047,
+        "text": "Wednesday are giving authorities"
+      },
+      {
+        "end": 65.021,
+        "id": 15,
+        "is_music": false,
+        "start": 59.089,
+        "text": "a chance to restore power and communications in some areas but officials warn"
+      },
+      {
+        "end": 69.088,
+        "id": 16,
+        "is_music": false,
+        "start": 65.022,
+        "text": "higher temperatures and the threat of more fires will return by this weekend for"
+      },
+      {
+        "end": 70.028,
+        "id": 17,
+        "is_music": false,
+        "start": 69.089,
+        "text": "n.p.r."
+      },
+      {
+        "end": 75.005,
+        "id": 18,
+        "is_music": false,
+        "start": 70.029,
+        "text": "News I'm Michael Sullivan in Chiang Rai Thailand North Korean leader Kim Jong un"
+      },
+      {
+        "end": 77.041,
+        "id": 19,
+        "is_music": false,
+        "start": 75.006,
+        "text": "says he sees no reason to continue honoring"
+      },
+      {
+        "end": 82.001,
+        "id": 20,
+        "is_music": false,
+        "start": 77.042,
+        "text": "a self-imposed moratorium on nuclear and long range missile testing N.P.R.'s"
+      },
+      {
+        "end": 86.023,
+        "id": 21,
+        "is_music": false,
+        "start": 82.002,
+        "text": "Anthony Kuhn reports from Seoul the Korean Central News Agency reports Kim made the"
+      },
+      {
+        "end": 87,
+        "id": 22,
+        "is_music": false,
+        "start": 86.024,
+        "text": "remarks during"
+      },
+      {
+        "end": 91.002,
+        "id": 23,
+        "is_music": false,
+        "start": 87.001,
+        "text": "a plenary meeting of the ruling Workers' Party Central Committee which was held"
+      },
+      {
+        "end": 95.08,
+        "id": 24,
+        "is_music": false,
+        "start": 91.003,
+        "text": "over the past 4 days Casey any quotes Kim is saying that North Korea has no reason"
+      },
+      {
+        "end": 98.074,
+        "id": 25,
+        "is_music": false,
+        "start": 95.081,
+        "text": "to be bound by the moratorium because the u.s."
+      },
+      {
+        "end": 104.023,
+        "id": 26,
+        "is_music": false,
+        "start": 98.075,
+        "text": "Continues to hold military exercises and deploy advanced weapons to South Korea Kim"
+      },
+      {
+        "end": 106.03,
+        "id": 27,
+        "is_music": false,
+        "start": 104.024,
+        "text": "warned that North Korea would soon unveil"
+      },
+      {
+        "end": 110.053,
+        "id": 28,
+        "is_music": false,
+        "start": 106.031,
+        "text": "a new strategic weapon but how much further North Korea develops its nuclear"
+      },
+      {
+        "end": 112.099,
+        "id": 29,
+        "is_music": false,
+        "start": 110.054,
+        "text": "deterrent He added It depends on the u.s."
+      },
+      {
+        "end": 117.039,
+        "id": 30,
+        "is_music": false,
+        "start": 113,
+        "text": "Is attitude Kim is expected to give an annual New Year's address in which he may"
+      },
+      {
+        "end": 120.082,
+        "id": 31,
+        "is_music": false,
+        "start": 117.04,
+        "text": "clarify his remarks Anthony Kuhn n.p.r."
+      },
+      {
+        "end": 123.084,
+        "id": 32,
+        "is_music": false,
+        "start": 120.083,
+        "text": "News Seoul there's no trading on Wall Street today but it was"
+      },
+      {
+        "end": 127.086,
+        "id": 33,
+        "is_music": false,
+        "start": 123.085,
+        "text": "a major win for stocks last night as traders closed out the year yesterday the s."
+      },
+      {
+        "end": 133.07,
+        "id": 34,
+        "is_music": false,
+        "start": 127.087,
+        "text": "And p. $500.00 finished with a 28.9 percent gain for the year this is n.p.r."
+      },
+      {
+        "end": 139.012,
+        "id": 35,
+        "is_music": false,
+        "start": 133.07,
+        "text": ". This new year Russia held the world's longest string of new year celebrations"
+      },
+      {
+        "end": 143.024,
+        "id": 36,
+        "is_music": false,
+        "start": 139.013,
+        "text": "that country spreads across 11 time zones more than 1000000 people made it to"
+      },
+      {
+        "end": 147.099,
+        "id": 37,
+        "is_music": false,
+        "start": 143.025,
+        "text": "Sydney Harbor in Australia to watch the annual fireworks display there despite"
+      },
+      {
+        "end": 152.02,
+        "id": 38,
+        "is_music": false,
+        "start": 148,
+        "text": "wildfires burning across the country residents of Samoa Meanwhile use New Year's"
+      },
+      {
+        "end": 154.061,
+        "id": 39,
+        "is_music": false,
+        "start": 152.021,
+        "text": "Eve as a time to remember 81 people lost in"
+      },
+      {
+        "end": 160.008,
+        "id": 40,
+        "is_music": false,
+        "start": 154.062,
+        "text": "a measles epidemic today Illinois becomes the 11th state to legalize and regulate"
+      },
+      {
+        "end": 164.036,
+        "id": 41,
+        "is_music": false,
+        "start": 160.009,
+        "text": "adult use of cannabis N.P.R.'s Cheryl Corley reports that the state's governor has"
+      },
+      {
+        "end": 168.077,
+        "id": 42,
+        "is_music": false,
+        "start": 164.037,
+        "text": "also pardoned thousands with low level marijuana convictions people in Illinois can"
+      },
+      {
+        "end": 170.067,
+        "id": 43,
+        "is_music": false,
+        "start": 168.078,
+        "text": "now legally buy marijuana because of"
+      },
+      {
+        "end": 175.047,
+        "id": 44,
+        "is_music": false,
+        "start": 170.068,
+        "text": "a new $600.00 page law regulating sales in 10 other states recreational cannabis"
+      },
+      {
+        "end": 178.03,
+        "id": 45,
+        "is_music": false,
+        "start": 175.048,
+        "text": "became legal by referendum Illinois governor j.b."
+      },
+      {
+        "end": 182.091,
+        "id": 46,
+        "is_music": false,
+        "start": 178.031,
+        "text": "Pritzker says the state's measure ends the war on cannabis he also says Illinois"
+      },
+      {
+        "end": 183.024,
+        "id": 47,
+        "is_music": false,
+        "start": 182.092,
+        "text": "set up"
+      },
+      {
+        "end": 187.067,
+        "id": 48,
+        "is_music": false,
+        "start": 183.025,
+        "text": "a small business loan fun and it making the state's marijuana business more diverse"
+      },
+      {
+        "end": 192.082,
+        "id": 49,
+        "is_music": false,
+        "start": 187.072,
+        "text": "so that entrepreneurs including especially those from the communities devastated by"
+      },
+      {
+        "end": 198.078,
+        "id": 50,
+        "is_music": false,
+        "start": 192.083,
+        "text": "the war on drugs will have real opportunities in this new industry Pritzker also"
+      },
+      {
+        "end": 204.01,
+        "id": 51,
+        "is_music": false,
+        "start": 198.079,
+        "text": "granted 11017 pardons for people with low level cannabis convictions he calls it"
+      },
+      {
+        "end": 207.067,
+        "id": 52,
+        "is_music": false,
+        "start": 204.011,
+        "text": "a 1st wave of expungement Cheryl Corley n.p.r."
+      },
+      {
+        "end": 212.068,
+        "id": 53,
+        "is_music": false,
+        "start": 207.068,
+        "text": "News Chicago famed golfer Dottie Pepper has paid off all outstanding school debt"
+      },
+      {
+        "end": 217.009,
+        "id": 54,
+        "is_music": false,
+        "start": 212.069,
+        "text": "for elementary students in an upstate New York school more than 50 students at"
+      },
+      {
+        "end": 221.043,
+        "id": 55,
+        "is_music": false,
+        "start": 217.01,
+        "text": "Dorothy Nolan elementary school in Saratoga Springs had their debt completely wiped"
+      },
+      {
+        "end": 226.063,
+        "id": 56,
+        "is_music": false,
+        "start": 221.044,
+        "text": "out both pepper and her sister had attended that school their grandfathers also sat"
+      },
+      {
+        "end": 231.066,
+        "id": 57,
+        "is_music": false,
+        "start": 226.064,
+        "text": "on the board that established Dorothy Nolan. I'm Dale Willman n.p.r."
+      },
+      {
+        "end": 236.031,
+        "id": 58,
+        "is_music": false,
+        "start": 231.067,
+        "text": "News in Washington support for n.p.r."
+      },
+      {
+        "end": 241.03,
+        "id": 59,
+        "is_music": false,
+        "start": 236.032,
+        "text": "Comes from Charles Schwab Schwab believes in asking questions and being engaged"
+      },
+      {
+        "end": 247.006,
+        "id": 60,
+        "is_music": false,
+        "start": 241.049,
+        "text": "Charles Schwab own your tomorrow learn more at Schwab dot com and the Arcus"
+      },
+      {
+        "end": 251.089,
+        "id": 61,
+        "is_music": false,
+        "start": 247.007,
+        "text": "Foundation dedicated to the idea that people can live in harmony with one another"
+      },
+      {
+        "end": 256.04,
+        "id": 62,
+        "is_music": false,
+        "start": 251.09,
+        "text": "and the natural world. Prison."
+      },
+      {
+        "end": 267.077,
+        "id": 63,
+        "is_music": false,
+        "start": 261.059,
+        "text": "The inmates are counted. And those numbers they used. But they can't vote."
+      },
+      {
+        "end": 276.077,
+        "id": 64,
+        "is_music": false,
+        "start": 275.023,
+        "text": "On the next Morning Edition from n.p.r."
+      },
+      {
+        "end": 283.044,
+        "id": 65,
+        "is_music": false,
+        "start": 276.077,
+        "text": ". The"
+      },
+      {
+        "end": 285.045,
+        "id": 66,
+        "is_music": false,
+        "start": 283.045,
+        "text": "k.p.c. Leadership circle is"
+      },
+      {
+        "end": 288.065,
+        "id": 67,
+        "is_music": false,
+        "start": 285.046,
+        "text": "a team of civic minded investors passionate about making"
+      },
+      {
+        "end": 295.056,
+        "id": 68,
+        "is_music": false,
+        "start": 288.066,
+        "text": "a direct and positive. Public service journalism by joining the leadership circle"
+      },
+      {
+        "end": 300.025,
+        "id": 69,
+        "is_music": false,
+        "start": 295.074,
+        "text": "you increase the impact of your philanthropy. Strengthen the."
+      },
+      {
+        "end": 307.095,
+        "id": 70,
+        "is_music": false,
+        "start": 302.072,
+        "text": "Communities. The news and information that's true leadership give."
+      },
+      {
+        "end": 315.093,
+        "id": 71,
+        "is_music": false,
+        "start": 311.005,
+        "text": "Thanks. Comedy today and for"
+      },
+      {
+        "end": 322.088,
+        "id": 72,
+        "is_music": false,
+        "start": 315.094,
+        "text": "a lot of. It's not. Somewhere"
+      },
+      {
+        "end": 324.046,
+        "id": 73,
+        "is_music": false,
+        "start": 322.096,
+        "text": "conversations with women of color."
+      },
+      {
+        "end": 347.004,
+        "id": 74,
+        "is_music": false,
+        "start": 344.078,
+        "text": "In a New Year It's Morning Edition from n.p.r."
+      },
+      {
+        "end": 351.081,
+        "id": 75,
+        "is_music": false,
+        "start": 347.005,
+        "text": "News I'm Steve Inskeep and I'm Noel King good morning protesters from an Iraqi"
+      },
+      {
+        "end": 355.097,
+        "id": 76,
+        "is_music": false,
+        "start": 351.082,
+        "text": "group that is closely tied to Iran are camping out outside the u.s."
+      },
+      {
+        "end": 360.042,
+        "id": 77,
+        "is_music": false,
+        "start": 355.098,
+        "text": "Embassy in Baghdad just yesterday they attacked the embassy with rocks and set"
+      },
+      {
+        "end": 361.047,
+        "id": 78,
+        "is_music": false,
+        "start": 360.043,
+        "text": "small fires."
+      },
+      {
+        "end": 369.012,
+        "id": 79,
+        "is_music": false,
+        "start": 367.073,
+        "text": "They're angry about u.s."
+      },
+      {
+        "end": 373.096,
+        "id": 80,
+        "is_music": false,
+        "start": 369.013,
+        "text": "Air strikes in Iraq and Syria that target these militias now in response the u.s."
+      },
+      {
+        "end": 378.014,
+        "id": 81,
+        "is_music": false,
+        "start": 373.097,
+        "text": "Says it will deploy more than 700 soldiers to the Middle East for more on this"
+      },
+      {
+        "end": 380.068,
+        "id": 82,
+        "is_music": false,
+        "start": 378.015,
+        "text": "we're joined by Ryan Crocker He's a former u.s."
+      },
+      {
+        "end": 384.094,
+        "id": 83,
+        "is_music": false,
+        "start": 380.069,
+        "text": "Ambassador to Iraq and he served under both Republican and Democratic presidents"
+      },
+      {
+        "end": 386.084,
+        "id": 84,
+        "is_music": false,
+        "start": 384.095,
+        "text": "Good morning sir good morning"
+      },
+      {
+        "end": 392.056,
+        "id": 85,
+        "is_music": false,
+        "start": 386.085,
+        "text": "a well President Trump is very openly blaming Iran for this this is happening in"
+      },
+      {
+        "end": 397.099,
+        "id": 86,
+        "is_music": false,
+        "start": 392.057,
+        "text": "Iraq how certain are you that Iran is responsible for these protests I don't think"
+      },
+      {
+        "end": 404.058,
+        "id": 87,
+        "is_music": false,
+        "start": 398,
+        "text": "there is any question at all as well as well known to us the militia group Iran has"
+      },
+      {
+        "end": 409.013,
+        "id": 88,
+        "is_music": false,
+        "start": 404.059,
+        "text": "value you know they say they didn't materialize yesterday have been"
+      },
+      {
+        "end": 415.07,
+        "id": 89,
+        "is_music": false,
+        "start": 409.014,
+        "text": "a long term Iranian proxy in Iraq so the Iranian hand here is not really concealed"
+      },
+      {
+        "end": 420.036,
+        "id": 90,
+        "is_music": false,
+        "start": 415.084,
+        "text": "Ok fair enough does what is happening now outside of the embassy show u.s."
+      },
+      {
+        "end": 426.004,
+        "id": 91,
+        "is_music": false,
+        "start": 420.037,
+        "text": "Policy toward Iran that is working or one that is not working. It is in"
+      },
+      {
+        "end": 431.091,
+        "id": 92,
+        "is_music": false,
+        "start": 426.005,
+        "text": "a very complicated phase right now the president has spoken about standing up to"
+      },
+      {
+        "end": 438.08,
+        "id": 93,
+        "is_music": false,
+        "start": 431.092,
+        "text": "Iran in Iraq and elsewhere the airstrikes several days ago indicated he's prepared"
+      },
+      {
+        "end": 443.006,
+        "id": 94,
+        "is_music": false,
+        "start": 438.081,
+        "text": "to do that with force what I ask however is Has the administration got"
+      },
+      {
+        "end": 448.06,
+        "id": 95,
+        "is_music": false,
+        "start": 443.007,
+        "text": "a game plan here over the long term the Iranians certainly do they are prepared for"
+      },
+      {
+        "end": 453.018,
+        "id": 96,
+        "is_music": false,
+        "start": 448.061,
+        "text": "the long haul they bought an 8 year war with Iraq and it is on their border their"
+      },
+      {
+        "end": 459.034,
+        "id": 97,
+        "is_music": false,
+        "start": 453.019,
+        "text": "longest land border are we prepared for that same kind of long term commitment in"
+      },
+      {
+        "end": 462.031,
+        "id": 98,
+        "is_music": false,
+        "start": 459.035,
+        "text": "Iraq and against Iran or is this"
+      },
+      {
+        "end": 466.032,
+        "id": 99,
+        "is_music": false,
+        "start": 462.032,
+        "text": "a one off and we are making it up as we go along not clear to me yet what we're"
+      },
+      {
+        "end": 470.036,
+        "id": 100,
+        "is_music": false,
+        "start": 466.033,
+        "text": "doing I was going to ask again I ask you to answer your own rhetorical question do"
+      },
+      {
+        "end": 473.091,
+        "id": 101,
+        "is_music": false,
+        "start": 470.037,
+        "text": "you get the impression that we that the United States has"
+      },
+      {
+        "end": 480.09,
+        "id": 102,
+        "is_music": false,
+        "start": 473.092,
+        "text": "a long term strategy here. If we do we have not enunciate it Ok we have"
+      },
+      {
+        "end": 482.044,
+        "id": 103,
+        "is_music": false,
+        "start": 480.091,
+        "text": "seen at"
+      },
+      {
+        "end": 489.029,
+        "id": 104,
+        "is_music": false,
+        "start": 482.045,
+        "text": "a time when we have said we are stepping up to Iranian excesses and challenges and"
+      },
+      {
+        "end": 494.014,
+        "id": 105,
+        "is_music": false,
+        "start": 489.03,
+        "text": "then we close our consulate in Basra. There have been reports on"
+      },
+      {
+        "end": 499.055,
+        "id": 106,
+        "is_music": false,
+        "start": 494.015,
+        "text": "a plan to draw down substantially the American presence in the embassy to cut the"
+      },
+      {
+        "end": 505.095,
+        "id": 107,
+        "is_music": false,
+        "start": 499.056,
+        "text": "staff. That would hardly be interpreted as again standing up to Iran so"
+      },
+      {
+        "end": 510.078,
+        "id": 108,
+        "is_music": false,
+        "start": 506.069,
+        "text": "the administration needs to figure out what is going to do long term and then make"
+      },
+      {
+        "end": 515.01,
+        "id": 109,
+        "is_music": false,
+        "start": 510.079,
+        "text": "that clear to the American people to the Iranians and to others in the region I"
+      },
+      {
+        "end": 519.001,
+        "id": 110,
+        "is_music": false,
+        "start": 515.015,
+        "text": "hope they do have a long term plan and it is based on"
+      },
+      {
+        "end": 523.042,
+        "id": 111,
+        "is_music": false,
+        "start": 519.002,
+        "text": "a long term commitment to our own interest in Iraq if you were called upon to give"
+      },
+      {
+        "end": 529.024,
+        "id": 112,
+        "is_music": false,
+        "start": 523.043,
+        "text": "advice on what to do over the long term to bring more stability to the situation"
+      },
+      {
+        "end": 535.065,
+        "id": 113,
+        "is_music": false,
+        "start": 529.047,
+        "text": "what would you advise. To make it clear that we do have long term interest in"
+      },
+      {
+        "end": 542.065,
+        "id": 114,
+        "is_music": false,
+        "start": 536.013,
+        "text": "Rocky stability that we will stand up for our security interests against"
+      },
+      {
+        "end": 548.098,
+        "id": 115,
+        "is_music": false,
+        "start": 543.001,
+        "text": "immediate challenges as we did with this monic state. But back because it is over"
+      },
+      {
+        "end": 555.077,
+        "id": 116,
+        "is_music": false,
+        "start": 548.099,
+        "text": "the long term we are engaged there and we will remain engaged yesterday this group"
+      },
+      {
+        "end": 557.047,
+        "id": 117,
+        "is_music": false,
+        "start": 555.078,
+        "text": "Khattab has ball apparently issued"
+      },
+      {
+        "end": 561.029,
+        "id": 118,
+        "is_music": false,
+        "start": 557.048,
+        "text": "a statement saying their next step after the embassy is to pass"
+      },
+      {
+        "end": 566.04,
+        "id": 119,
+        "is_music": false,
+        "start": 561.03,
+        "text": "a law in the Iraqi parliament to legislate that the United States get out of Iraq"
+      },
+      {
+        "end": 569.001,
+        "id": 120,
+        "is_music": false,
+        "start": 566.071,
+        "text": "now I found that really interesting because it sounds like"
+      },
+      {
+        "end": 575.086,
+        "id": 121,
+        "is_music": false,
+        "start": 569.002,
+        "text": "a peaceful step what do you think clearly actions in parliament"
+      },
+      {
+        "end": 581.004,
+        "id": 122,
+        "is_music": false,
+        "start": 575.087,
+        "text": "are preferable to actions on the ground and act that we're now seeing Ted Hezbollah"
+      },
+      {
+        "end": 585.039,
+        "id": 123,
+        "is_music": false,
+        "start": 581.026,
+        "text": "supporters camped outside the walls. Well that's"
+      },
+      {
+        "end": 592.04,
+        "id": 124,
+        "is_music": false,
+        "start": 585.04,
+        "text": "a lot better than having them inside the walls rocks. At the same time as Kevin is"
+      },
+      {
+        "end": 598.057,
+        "id": 125,
+        "is_music": false,
+        "start": 592.041,
+        "text": "Paula and it's the Iranian overlords are certainly aware that in 2014"
+      },
+      {
+        "end": 604.025,
+        "id": 126,
+        "is_music": false,
+        "start": 599.008,
+        "text": "as Islamic state surged through northern and western Iraq last thing the Iraqi"
+      },
+      {
+        "end": 607.026,
+        "id": 127,
+        "is_music": false,
+        "start": 604.026,
+        "text": "people and the Iraqi government wanted was for the u.s."
+      },
+      {
+        "end": 613.03,
+        "id": 128,
+        "is_music": false,
+        "start": 607.027,
+        "text": "To get out they want to be left to come back. And I think we'll probably see some"
+      },
+      {
+        "end": 618.018,
+        "id": 129,
+        "is_music": false,
+        "start": 613.031,
+        "text": "kind of drama in the parliament. Clearly though it will not be in the interests I"
+      },
+      {
+        "end": 624.03,
+        "id": 130,
+        "is_music": false,
+        "start": 618.019,
+        "text": "think of the Parliament or any aspect of Iraq to have the us pull out very briefly"
+      },
+      {
+        "end": 628.037,
+        "id": 131,
+        "is_music": false,
+        "start": 624.031,
+        "text": "is it practical to get Iran to negotiate a new nuclear deal which is a stated u.s."
+      },
+      {
+        "end": 633.081,
+        "id": 132,
+        "is_music": false,
+        "start": 628.038,
+        "text": "School. And not under current circumstances Ok not going to happen the way things"
+      },
+      {
+        "end": 634.097,
+        "id": 133,
+        "is_music": false,
+        "start": 633.082,
+        "text": "are former u.s."
+      },
+      {
+        "end": 640.04,
+        "id": 134,
+        "is_music": false,
+        "start": 634.098,
+        "text": "Ambassador to Iraq Ryan Crocker Sir thank you so much thank you. On this New Year's"
+      },
+      {
+        "end": 646.048,
+        "id": 135,
+        "is_music": false,
+        "start": 640.041,
+        "text": "Day Vladimir Putin marks 20 years as the leader of Russia sometimes as president"
+      },
+      {
+        "end": 650.076,
+        "id": 136,
+        "is_music": false,
+        "start": 646.049,
+        "text": "sometimes as prime minister in power the whole time he took power amidst the"
+      },
+      {
+        "end": 655.028,
+        "id": 137,
+        "is_music": false,
+        "start": 650.077,
+        "text": "poverty crime and chaos that followed the collapse of the Soviet Union he prides"
+      },
+      {
+        "end": 658.062,
+        "id": 138,
+        "is_music": false,
+        "start": 655.029,
+        "text": "himself on Russia's return to stability but these days"
+      },
+      {
+        "end": 663.017,
+        "id": 139,
+        "is_music": false,
+        "start": 658.063,
+        "text": "a new generation of Russians who grew up under Putin is not so interested in how"
+      },
+      {
+        "end": 667.093,
+        "id": 140,
+        "is_music": false,
+        "start": 663.018,
+        "text": "people lived before they were born they measure themselves by their peers in Europe"
+      },
+      {
+        "end": 671.017,
+        "id": 141,
+        "is_music": false,
+        "start": 668.02,
+        "text": "or the United States and they don't like what they see"
+      },
+      {
+        "end": 675.041,
+        "id": 142,
+        "is_music": false,
+        "start": 671.018,
+        "text": "a recent poll shows more than half of these young Russians would like to leave"
+      },
+      {
+        "end": 679.071,
+        "id": 143,
+        "is_music": false,
+        "start": 675.042,
+        "text": "their country young people are starting to rebel against Putin's rule even in"
+      },
+      {
+        "end": 684.017,
+        "id": 144,
+        "is_music": false,
+        "start": 679.072,
+        "text": "Russia's conservative heartland Here's N.P.R.'s Lucien cam Demitra nigga life"
+      },
+      {
+        "end": 686.093,
+        "id": 145,
+        "is_music": false,
+        "start": 684.018,
+        "text": "didn't used to care about politics was just"
+      },
+      {
+        "end": 693.005,
+        "id": 146,
+        "is_music": false,
+        "start": 686.094,
+        "text": "a normal 20 something from tulip arms producing town south of Moscow his dad was"
+      },
+      {
+        "end": 695.04,
+        "id": 147,
+        "is_music": false,
+        "start": 693.006,
+        "text": "a factory worker his mom a saleswoman in"
+      },
+      {
+        "end": 698.009,
+        "id": 148,
+        "is_music": false,
+        "start": 695.041,
+        "text": "a store coming up her sleeve to bring still"
+      },
+      {
+        "end": 701.088,
+        "id": 149,
+        "is_music": false,
+        "start": 698.01,
+        "text": "a popular gist of thing has been out of the blue and says I'm somewhat used called"
+      },
+      {
+        "end": 705.007,
+        "id": 150,
+        "is_music": false,
+        "start": 701.089,
+        "text": "in by the police he posted on social media about"
+      },
+      {
+        "end": 712.005,
+        "id": 151,
+        "is_music": false,
+        "start": 705.008,
+        "text": "a heavy metal band the songs the government had labeled extremists. Up"
+      },
+      {
+        "end": 713.009,
+        "id": 152,
+        "is_music": false,
+        "start": 712.006,
+        "text": "to be"
+      },
+      {
+        "end": 718.017,
+        "id": 153,
+        "is_music": false,
+        "start": 713.01,
+        "text": "a push for more. But I knew at that moment Nick alive says that I understood that"
+      },
+      {
+        "end": 721.02,
+        "id": 154,
+        "is_music": false,
+        "start": 718.018,
+        "text": "something was wrong with my country so he joined"
+      },
+      {
+        "end": 726.07,
+        "id": 155,
+        "is_music": false,
+        "start": 721.021,
+        "text": "a political opposition to bloody America Putin in conservative tool of though most"
+      },
+      {
+        "end": 731.059,
+        "id": 156,
+        "is_music": false,
+        "start": 726.071,
+        "text": "older people support the president generational divide found across the country"
+      },
+      {
+        "end": 732.091,
+        "id": 157,
+        "is_music": false,
+        "start": 732.049,
+        "text": "just off"
+      },
+      {
+        "end": 739.02,
+        "id": 158,
+        "is_music": false,
+        "start": 732.092,
+        "text": "a new pedestrian street in the historic town center I meet. A 46 year old engineer"
+      },
+      {
+        "end": 746.004,
+        "id": 159,
+        "is_music": false,
+        "start": 739.021,
+        "text": "in one of the town's factories. She says the weapons factories move business when I"
+      },
+      {
+        "end": 746.07,
+        "id": 160,
+        "is_music": false,
+        "start": 746.005,
+        "text": "ask her about"
+      },
+      {
+        "end": 750.097,
+        "id": 161,
+        "is_music": false,
+        "start": 746.071,
+        "text": "a wave of anti-government protests in Moscow this summer civilians shrugs."
+      },
+      {
+        "end": 757.081,
+        "id": 162,
+        "is_music": false,
+        "start": 753.07,
+        "text": "I'm not very interested in politics she says if I'm perfectly happy with the way"
+      },
+      {
+        "end": 763.052,
+        "id": 163,
+        "is_music": false,
+        "start": 757.082,
+        "text": "things are. That kind of thinking infuriates Demitra Nicholai of the young man who"
+      },
+      {
+        "end": 769.004,
+        "id": 164,
+        "is_music": false,
+        "start": 763.053,
+        "text": "joined the opposition he supports Alexina Volman Russia's most famous anti"
+      },
+      {
+        "end": 773.05,
+        "id": 165,
+        "is_music": false,
+        "start": 769.005,
+        "text": "corruption campaigner who tried to run against Putin 2 years ago before he was"
+      },
+      {
+        "end": 779.039,
+        "id": 166,
+        "is_music": false,
+        "start": 773.051,
+        "text": "banned from the election. Iran of all his tool headquarters Nick alive says."
+      },
+      {
+        "end": 785.053,
+        "id": 167,
+        "is_music": false,
+        "start": 781.026,
+        "text": "The bombing almost 25 years younger than to him was there to open the campaign"
+      },
+      {
+        "end": 790.098,
+        "id": 168,
+        "is_music": false,
+        "start": 785.054,
+        "text": "office Putin of course was reelected not only campaign office has been shut"
+      },
+      {
+        "end": 797.007,
+        "id": 169,
+        "is_music": false,
+        "start": 791.085,
+        "text": "Nicholai it's close as aide Phillip Simpkins has fled the country I visit Simkins"
+      },
+      {
+        "end": 799.064,
+        "id": 170,
+        "is_music": false,
+        "start": 797.008,
+        "text": "mother her name is here in our guy over in"
+      },
+      {
+        "end": 807.052,
+        "id": 171,
+        "is_music": false,
+        "start": 799.065,
+        "text": "a grim to listen for. The past. To"
+      },
+      {
+        "end": 812.004,
+        "id": 172,
+        "is_music": false,
+        "start": 807.053,
+        "text": "someone else's ghost she says her son Philip just packed his bags one day last year"
+      },
+      {
+        "end": 817.063,
+        "id": 173,
+        "is_music": false,
+        "start": 812.005,
+        "text": "and left saying he could no longer live in Russia he flew to Switzerland and now"
+      },
+      {
+        "end": 824.035,
+        "id": 174,
+        "is_music": false,
+        "start": 817.064,
+        "text": "has political asylum. The new guy ever since her son's political activism caused"
+      },
+      {
+        "end": 827.056,
+        "id": 175,
+        "is_music": false,
+        "start": 824.036,
+        "text": "them to be kicked out of a vocational school where he was studying to be"
+      },
+      {
+        "end": 831.03,
+        "id": 176,
+        "is_music": false,
+        "start": 827.057,
+        "text": "a train engineer he'd already been locked up a week for organizing"
+      },
+      {
+        "end": 837.026,
+        "id": 177,
+        "is_music": false,
+        "start": 831.031,
+        "text": "a rally and was threatened with more jail time if he continued. To see if he"
+      },
+      {
+        "end": 841.068,
+        "id": 178,
+        "is_music": false,
+        "start": 837.027,
+        "text": "thought that if we all stand up against corruption everything would change but he"
+      },
+      {
+        "end": 846.049,
+        "id": 179,
+        "is_music": false,
+        "start": 841.069,
+        "text": "didn't change Russia the government changed his life all that Filipe Left Behind is"
+      },
+      {
+        "end": 848.085,
+        "id": 180,
+        "is_music": false,
+        "start": 846.05,
+        "text": "a computer a mountain bike and his cat"
+      },
+      {
+        "end": 851.032,
+        "id": 181,
+        "is_music": false,
+        "start": 849.021,
+        "text": "a guide us which is on the computer and plays"
+      },
+      {
+        "end": 858.032,
+        "id": 182,
+        "is_music": false,
+        "start": 851.033,
+        "text": "a song he used to sing in. The name of the song is I'll"
+      },
+      {
+        "end": 864.031,
+        "id": 183,
+        "is_music": false,
+        "start": 858.033,
+        "text": "be back by a singer who grew up in the same gritty to the suburbs. I asked"
+      },
+      {
+        "end": 870.001,
+        "id": 184,
+        "is_music": false,
+        "start": 864.035,
+        "text": "a guy of if she thinks her son will also return. No he's not coming back she says"
+      },
+      {
+        "end": 875.062,
+        "id": 185,
+        "is_music": false,
+        "start": 870.026,
+        "text": "and I don't want him to waste he say for worry years now. N.p.r."
+      },
+      {
+        "end": 880.073,
+        "id": 186,
+        "is_music": false,
+        "start": 875.063,
+        "text": "News tool. On this New Year's Day We are looking back 20 years to the turn of the"
+      },
+      {
+        "end": 886.026,
+        "id": 187,
+        "is_music": false,
+        "start": 880.074,
+        "text": "millennium. The next for Public Radio this is Weekend Edition Welcome to New"
+      },
+      {
+        "end": 892.066,
+        "id": 188,
+        "is_music": false,
+        "start": 886.027,
+        "text": "Century. There were virtually no Y2k related computer problems to report now there"
+      },
+      {
+        "end": 893.004,
+        "id": 189,
+        "is_music": false,
+        "start": 892.067,
+        "text": "is still"
+      },
+      {
+        "end": 896.069,
+        "id": 190,
+        "is_music": false,
+        "start": 893.005,
+        "text": "a chance that some problems will develop in the weeks and months to come that was"
+      },
+      {
+        "end": 901.095,
+        "id": 191,
+        "is_music": false,
+        "start": 896.07,
+        "text": "our colleague Scott Simon talking about Y2k which was the concern that computer"
+      },
+      {
+        "end": 908.018,
+        "id": 192,
+        "is_music": false,
+        "start": 901.096,
+        "text": "systems would fail to cope with the change in date from 199-2000 would"
+      },
+      {
+        "end": 909.042,
+        "id": 193,
+        "is_music": false,
+        "start": 908.019,
+        "text": "malfunction leading to"
+      },
+      {
+        "end": 913.068,
+        "id": 194,
+        "is_music": false,
+        "start": 909.043,
+        "text": "a global crisis Americans at the time had been told to worry worry"
+      },
+      {
+        "end": 915.021,
+        "id": 195,
+        "is_music": false,
+        "start": 913.069,
+        "text": "a lot and here on n.p.r."
+      },
+      {
+        "end": 920.024,
+        "id": 196,
+        "is_music": false,
+        "start": 915.022,
+        "text": "News we prepared for everything well talk about Y2k nerves What's your definition"
+      },
+      {
+        "end": 925.068,
+        "id": 197,
+        "is_music": false,
+        "start": 920.025,
+        "text": "of vigilance do you feel prepared we're taking your Y2k calls on Talk of the nation"
+      },
+      {
+        "end": 930.052,
+        "id": 198,
+        "is_music": false,
+        "start": 925.069,
+        "text": "what's most worrisome though is that one out of 3 schools has no contingency plan"
+      },
+      {
+        "end": 930.081,
+        "id": 199,
+        "is_music": false,
+        "start": 930.053,
+        "text": "there are"
+      },
+      {
+        "end": 935.073,
+        "id": 200,
+        "is_music": false,
+        "start": 930.082,
+        "text": "a growing number of Doomsday or millennial groups who regard the coming of the year"
+      },
+      {
+        "end": 939.011,
+        "id": 201,
+        "is_music": false,
+        "start": 935.074,
+        "text": "2000 as a profound event here at the White u.k."
+      },
+      {
+        "end": 943.045,
+        "id": 202,
+        "is_music": false,
+        "start": 939.012,
+        "text": "Command center things have been quiet all day very quiet actually the new"
+      },
+      {
+        "end": 947.039,
+        "id": 203,
+        "is_music": false,
+        "start": 943.046,
+        "text": "millennium is now Don across much of the world with few reports of problems due to"
+      },
+      {
+        "end": 953.011,
+        "id": 204,
+        "is_music": false,
+        "start": 947.04,
+        "text": "Y2k computer glitches it was inescapable that last voice was Andrea Tapia she"
+      },
+      {
+        "end": 956.049,
+        "id": 205,
+        "is_music": false,
+        "start": 953.012,
+        "text": "studies technology and risk at Penn State University but back then and she was"
+      },
+      {
+        "end": 961.053,
+        "id": 206,
+        "is_music": false,
+        "start": 956.05,
+        "text": "a grad student writing her dissertation about Y2k and her colleagues would ask her"
+      },
+      {
+        "end": 967.022,
+        "id": 207,
+        "is_music": false,
+        "start": 961.082,
+        "text": "how scary is this Should I actually go out and buy water and food now some groups"
+      },
+      {
+        "end": 973.022,
+        "id": 208,
+        "is_music": false,
+        "start": 967.023,
+        "text": "were hunkering down or arming themselves for chaos but Tapia was relatively"
+      },
+      {
+        "end": 975.058,
+        "id": 209,
+        "is_music": false,
+        "start": 973.023,
+        "text": "unconcerned she did say that Y2k was"
+      },
+      {
+        "end": 982.007,
+        "id": 210,
+        "is_music": false,
+        "start": 975.059,
+        "text": "a real problem computer professionals across many many many industries and"
+      },
+      {
+        "end": 988.023,
+        "id": 211,
+        "is_music": false,
+        "start": 982.008,
+        "text": "disciplines and across national boundaries came together over"
+      },
+      {
+        "end": 990.013,
+        "id": 212,
+        "is_music": false,
+        "start": 988.024,
+        "text": "a few years to solve"
+      },
+      {
+        "end": 996.008,
+        "id": 213,
+        "is_music": false,
+        "start": 990.014,
+        "text": "a problem globally and nobody noticed if they had not solved it there would have"
+      },
+      {
+        "end": 1001.055,
+        "id": 214,
+        "is_music": false,
+        "start": 996.009,
+        "text": "been. Major technological disasters like government records could have been lost"
+      },
+      {
+        "end": 1005.063,
+        "id": 215,
+        "is_music": false,
+        "start": 1001.056,
+        "text": "medical records power plants could have gone off line none of that happened but"
+      },
+      {
+        "end": 1011.004,
+        "id": 216,
+        "is_music": false,
+        "start": 1005.064,
+        "text": "there's still time for some other bit of chaos because experts say another debacle"
+      },
+      {
+        "end": 1014.099,
+        "id": 217,
+        "is_music": false,
+        "start": 1011.005,
+        "text": "like Y2k could happen again in 2038 that's because of"
+      },
+      {
+        "end": 1018.083,
+        "id": 218,
+        "is_music": false,
+        "start": 1015,
+        "text": "a computer formatting issue but Tapia says don't worry so much about that computer"
+      },
+      {
+        "end": 1021.092,
+        "id": 219,
+        "is_music": false,
+        "start": 1018.084,
+        "text": "professionals are already preparing and they've got"
+      },
+      {
+        "end": 1032.037,
+        "id": 220,
+        "is_music": false,
+        "start": 1021.093,
+        "text": "a few years after New Year. It's"
+      },
+      {
+        "end": 1032.073,
+        "id": 221,
+        "is_music": false,
+        "start": 1032.038,
+        "text": "n.p.r."
+      },
+      {
+        "end": 1039.057,
+        "id": 222,
+        "is_music": false,
+        "start": 1032.074,
+        "text": "News. On the next fresh air we start the new decade"
+      },
+      {
+        "end": 1043.078,
+        "id": 223,
+        "is_music": false,
+        "start": 1039.058,
+        "text": "with excerpts of some of our favorite concerts from the last decade with John b."
+      },
+      {
+        "end": 1048.01,
+        "id": 224,
+        "is_music": false,
+        "start": 1043.079,
+        "text": "Teased bandleader of the late show with Stephen Cole bear singer Catherine Russell"
+      },
+      {
+        "end": 1052.091,
+        "id": 225,
+        "is_music": false,
+        "start": 1048.011,
+        "text": "who specializes in early jazz songs and the Carolina Chocolate Drops with me and"
+      },
+      {
+        "end": 1058.089,
+        "id": 226,
+        "is_music": false,
+        "start": 1052.092,
+        "text": "Givens playing music in the black string band tradition Join us weekdays at noon on"
+      },
+      {
+        "end": 1061.018,
+        "id": 227,
+        "is_music": false,
+        "start": 1058.094,
+        "text": "$89.00 a p.c.c."
+      },
+      {
+        "end": 1065.053,
+        "id": 228,
+        "is_music": false,
+        "start": 1061.018,
+        "text": ". We're going to do"
+      },
+      {
+        "end": 1072.04,
+        "id": 229,
+        "is_music": false,
+        "start": 1065.054,
+        "text": "a survey Hi My name is Edward Jones and I live in Bradbury California. I"
+      },
+      {
+        "end": 1077.043,
+        "id": 230,
+        "is_music": false,
+        "start": 1072.041,
+        "text": "like listening to the big one so much that I made my own podcast about earthquakes"
+      },
+      {
+        "end": 1084.067,
+        "id": 231,
+        "is_music": false,
+        "start": 1077.091,
+        "text": "to Toad's tectonics. Good facts about earthquakes the ground you walk on is"
+      },
+      {
+        "end": 1089.08,
+        "id": 232,
+        "is_music": false,
+        "start": 1084.068,
+        "text": "called crust the crust is made of. Ceres shu."
+      },
+      {
+        "end": 1099.054,
+        "id": 233,
+        "is_music": false,
+        "start": 1092.077,
+        "text": "Because the. Things we eat on. The plates move slowly."
+      },
+      {
+        "end": 1106.013,
+        "id": 234,
+        "is_music": false,
+        "start": 1101,
+        "text": "To send in meters. To space in the tree in the plates is called"
+      },
+      {
+        "end": 1111.017,
+        "id": 235,
+        "is_music": false,
+        "start": 1106.017,
+        "text": "a fault when 2 plates client. Makes the ground in anything on."
+      },
+      {
+        "end": 1119.048,
+        "id": 236,
+        "is_music": false,
+        "start": 1116.08,
+        "text": "Earth I make my parents support b.c.c."
+      },
+      {
+        "end": 1120.092,
+        "id": 237,
+        "is_music": false,
+        "start": 1119.049,
+        "text": "And so can you go to k"
+      },
+      {
+        "end": 1127.088,
+        "id": 238,
+        "is_music": false,
+        "start": 1120.093,
+        "text": "b c c dot org. This week on The New York Radio Hour how to"
+      },
+      {
+        "end": 1134.01,
+        "id": 239,
+        "is_music": false,
+        "start": 1127.089,
+        "text": "find the perfect way 100 miles from the ocean. You know it's been years and years"
+      },
+      {
+        "end": 1141.021,
+        "id": 240,
+        "is_music": false,
+        "start": 1134.073,
+        "text": "surfing in the ocean. Never get away with good is what we're getting here today"
+      },
+      {
+        "end": 1146.084,
+        "id": 241,
+        "is_music": false,
+        "start": 1141.038,
+        "text": "ever. Finnigan on the end of surfing as we know next time on."
+      },
+      {
+        "end": 1152.085,
+        "id": 242,
+        "is_music": false,
+        "start": 1148.043,
+        "text": "Saturday mornings at 10 on 89.3 p.c.c."
+      },
+      {
+        "end": 1155.074,
+        "id": 243,
+        "is_music": false,
+        "start": 1152.085,
+        "text": ". Support for n.p.r."
+      },
+      {
+        "end": 1160.057,
+        "id": 244,
+        "is_music": false,
+        "start": 1155.075,
+        "text": "Comes from this station and from Doctors Without Borders whose teams are committed"
+      },
+      {
+        "end": 1165.056,
+        "id": 245,
+        "is_music": false,
+        "start": 1160.058,
+        "text": "to confronting challenges in conflict and crisis zones to provide access to health"
+      },
+      {
+        "end": 1171.04,
+        "id": 246,
+        "is_music": false,
+        "start": 1165.057,
+        "text": "care for people in need information that Doctors Without Borders dot org from the"
+      },
+      {
+        "end": 1171.098,
+        "id": 247,
+        "is_music": false,
+        "start": 1171.041,
+        "text": "John d."
+      },
+      {
+        "end": 1176.061,
+        "id": 248,
+        "is_music": false,
+        "start": 1171.099,
+        "text": "And Catherine team MacArthur Foundation supporting creative people and effective"
+      },
+      {
+        "end": 1178.059,
+        "id": 249,
+        "is_music": false,
+        "start": 1176.062,
+        "text": "institutions committed to building"
+      },
+      {
+        "end": 1184.033,
+        "id": 250,
+        "is_music": false,
+        "start": 1178.06,
+        "text": "a more just verdant and peaceful world more information is at mac found dot org"
+      },
+      {
+        "end": 1189.062,
+        "id": 251,
+        "is_music": false,
+        "start": 1185.009,
+        "text": "from the Kauffman Foundation working together with communities in education and"
+      },
+      {
+        "end": 1194.012,
+        "id": 252,
+        "is_music": false,
+        "start": 1189.063,
+        "text": "entrepreneurship to create uncommon solutions and empower people to shape their"
+      },
+      {
+        "end": 1200.002,
+        "id": 253,
+        "is_music": false,
+        "start": 1194.013,
+        "text": "lives and be more successful more on line at Kaufmann dot org And from the"
+      },
+      {
+        "end": 1206.029,
+        "id": 254,
+        "is_music": false,
+        "start": 1200.003,
+        "text": "listeners who support this n.p.r. Station. It's Morning Edition from n.p.r."
+      },
+      {
+        "end": 1211.051,
+        "id": 255,
+        "is_music": false,
+        "start": 1206.03,
+        "text": "News I'm Noel King and I'm Steve Inskeep California's Consumer Privacy Act goes"
+      },
+      {
+        "end": 1215.094,
+        "id": 256,
+        "is_music": false,
+        "start": 1211.052,
+        "text": "into effect today New Year's Day it is supposed to give consumers the power to"
+      },
+      {
+        "end": 1220.085,
+        "id": 257,
+        "is_music": false,
+        "start": 1215.095,
+        "text": "prevent retailers and other companies from selling their personal data you can opt"
+      },
+      {
+        "end": 1226.05,
+        "id": 258,
+        "is_music": false,
+        "start": 1220.089,
+        "text": "out no matter where you live California's law may affect you Stuart Brockman of the"
+      },
+      {
+        "end": 1227.047,
+        "id": 259,
+        "is_music": false,
+        "start": 1226.051,
+        "text": "Wilson Center which is"
+      },
+      {
+        "end": 1232.087,
+        "id": 260,
+        "is_music": false,
+        "start": 1227.048,
+        "text": "a think tank here in Washington specializes in digital privacy policy issues this"
+      },
+      {
+        "end": 1233.004,
+        "id": 261,
+        "is_music": false,
+        "start": 1232.088,
+        "text": "is"
+      },
+      {
+        "end": 1238.04,
+        "id": 262,
+        "is_music": false,
+        "start": 1233.005,
+        "text": "a pretty dramatic new law and as you know California is the 5th largest economy by"
+      },
+      {
+        "end": 1242.063,
+        "id": 263,
+        "is_music": false,
+        "start": 1238.041,
+        "text": "g.d.p. In the world so even though it's one state it affects"
+      },
+      {
+        "end": 1246.095,
+        "id": 264,
+        "is_music": false,
+        "start": 1242.08,
+        "text": "a large part of the United States and even parts of the world is it even more"
+      },
+      {
+        "end": 1251.024,
+        "id": 265,
+        "is_music": false,
+        "start": 1246.096,
+        "text": "influential because so many tech companies are headquartered inside California Yes"
+      },
+      {
+        "end": 1254.048,
+        "id": 266,
+        "is_music": false,
+        "start": 1251.025,
+        "text": "I think so because any company that essentially touches"
+      },
+      {
+        "end": 1259.08,
+        "id": 267,
+        "is_music": false,
+        "start": 1254.049,
+        "text": "a California resident will be affected by this law that includes companies that are"
+      },
+      {
+        "end": 1263.088,
+        "id": 268,
+        "is_music": false,
+        "start": 1259.081,
+        "text": "in California and companies outside California that are serving people who live"
+      },
+      {
+        "end": 1269.028,
+        "id": 269,
+        "is_music": false,
+        "start": 1263.089,
+        "text": "there what is California making tech companies do that some or all of them were not"
+      },
+      {
+        "end": 1273.058,
+        "id": 270,
+        "is_music": false,
+        "start": 1269.029,
+        "text": "doing before well it's not just tech companies it's basically any company that"
+      },
+      {
+        "end": 1280.017,
+        "id": 271,
+        "is_music": false,
+        "start": 1273.075,
+        "text": "collects information about people and that's Furch really any company. So it's not"
+      },
+      {
+        "end": 1284.06,
+        "id": 272,
+        "is_music": false,
+        "start": 1280.018,
+        "text": "just the Googles of the Facebook's of the world it's every company it's your auto"
+      },
+      {
+        "end": 1286.084,
+        "id": 273,
+        "is_music": false,
+        "start": 1284.061,
+        "text": "body shop it's your bank it's"
+      },
+      {
+        "end": 1290.017,
+        "id": 274,
+        "is_music": false,
+        "start": 1286.085,
+        "text": "a variety of different institutions and so that's why it has such"
+      },
+      {
+        "end": 1295.02,
+        "id": 275,
+        "is_music": false,
+        "start": 1290.018,
+        "text": "a broad reach what things have to happen then for those various kinds of retailers"
+      },
+      {
+        "end": 1299.018,
+        "id": 276,
+        "is_music": false,
+        "start": 1295.021,
+        "text": "and service firms and so forth one of the magic things you're going to see is risk"
+      },
+      {
+        "end": 1301.06,
+        "id": 277,
+        "is_music": false,
+        "start": 1299.019,
+        "text": "going to be a button when you go on a website of"
+      },
+      {
+        "end": 1304.083,
+        "id": 278,
+        "is_music": false,
+        "start": 1301.061,
+        "text": "a company that's covered by this act and there's going to be"
+      },
+      {
+        "end": 1310.001,
+        "id": 279,
+        "is_music": false,
+        "start": 1304.084,
+        "text": "a magic button that says Do not collect or do not sell my information and you can"
+      },
+      {
+        "end": 1314.07,
+        "id": 280,
+        "is_music": false,
+        "start": 1310.002,
+        "text": "literally press that button and that essentially gives notice that whoever is"
+      },
+      {
+        "end": 1319.033,
+        "id": 281,
+        "is_music": false,
+        "start": 1314.071,
+        "text": "collecting that information has to segregate that information and not sell it"
+      },
+      {
+        "end": 1322.038,
+        "id": 282,
+        "is_music": false,
+        "start": 1319.034,
+        "text": "telling what is this a good way to legislate what is effectively"
+      },
+      {
+        "end": 1325.006,
+        "id": 283,
+        "is_music": false,
+        "start": 1322.039,
+        "text": "a nationwide or even global rule. While this is"
+      },
+      {
+        "end": 1328.03,
+        "id": 284,
+        "is_music": false,
+        "start": 1325.007,
+        "text": "a major controversy whether or not this is something that should be done by the"
+      },
+      {
+        "end": 1332.082,
+        "id": 285,
+        "is_music": false,
+        "start": 1328.031,
+        "text": "states or the federal government right now there are only 2 states California and"
+      },
+      {
+        "end": 1335.007,
+        "id": 286,
+        "is_music": false,
+        "start": 1332.083,
+        "text": "Maine which have an active laws but there are"
+      },
+      {
+        "end": 1339.007,
+        "id": 287,
+        "is_music": false,
+        "start": 1335.008,
+        "text": "a variety of other states including New York and Pennsylvania which are looking at"
+      },
+      {
+        "end": 1343.005,
+        "id": 288,
+        "is_music": false,
+        "start": 1339.008,
+        "text": "state legislation on the other hand you have Congress which says wait"
+      },
+      {
+        "end": 1347.016,
+        "id": 289,
+        "is_music": false,
+        "start": 1343.006,
+        "text": "a 2nd this should not be done by the states we should have one standard just like"
+      },
+      {
+        "end": 1351.038,
+        "id": 290,
+        "is_music": false,
+        "start": 1347.017,
+        "text": "Europe has one standard for the entire European Union are there companies"
+      },
+      {
+        "end": 1356.09,
+        "id": 291,
+        "is_music": false,
+        "start": 1351.042,
+        "text": "institutions entities that do not have to comply with these rules Yes And this is"
+      },
+      {
+        "end": 1361.089,
+        "id": 292,
+        "is_music": false,
+        "start": 1356.091,
+        "text": "the big exception here government does not need to comply and as you know"
+      },
+      {
+        "end": 1362.071,
+        "id": 293,
+        "is_music": false,
+        "start": 1361.09,
+        "text": "government as"
+      },
+      {
+        "end": 1366.097,
+        "id": 294,
+        "is_music": false,
+        "start": 1362.072,
+        "text": "a major collector of information often you don't have an option whether or not you"
+      },
+      {
+        "end": 1370.005,
+        "id": 295,
+        "is_music": false,
+        "start": 1366.098,
+        "text": "want to give up that information a good example might be"
+      },
+      {
+        "end": 1372.091,
+        "id": 296,
+        "is_music": false,
+        "start": 1370.006,
+        "text": "a Department of Motor Vehicles if you want to get a license or"
+      },
+      {
+        "end": 1377.031,
+        "id": 297,
+        "is_music": false,
+        "start": 1372.092,
+        "text": "a car registration you have to give up that information someone listening is"
+      },
+      {
+        "end": 1383.051,
+        "id": 298,
+        "is_music": false,
+        "start": 1377.032,
+        "text": "finding ironic that the very state that legislated this is not complying with"
+      },
+      {
+        "end": 1387.027,
+        "id": 299,
+        "is_music": false,
+        "start": 1383.052,
+        "text": "itself yes and that is a great irony in obviously it's going to create"
+      },
+      {
+        "end": 1391.042,
+        "id": 300,
+        "is_music": false,
+        "start": 1387.028,
+        "text": "a lot of practical problems in California right now the Department of Motor"
+      },
+      {
+        "end": 1397.009,
+        "id": 301,
+        "is_music": false,
+        "start": 1391.043,
+        "text": "Vehicles in fact doesn't tell consumers that their information is being sold to 3rd"
+      },
+      {
+        "end": 1401.09,
+        "id": 302,
+        "is_music": false,
+        "start": 1397.01,
+        "text": "parties and those 3rd parties are commercial entities so they'll sell it to"
+      },
+      {
+        "end": 1403.095,
+        "id": 303,
+        "is_music": false,
+        "start": 1401.091,
+        "text": "a credit bureau all will sell to"
+      },
+      {
+        "end": 1408.061,
+        "id": 304,
+        "is_music": false,
+        "start": 1403.096,
+        "text": "a data broker What is the justification for that well money they're getting about"
+      },
+      {
+        "end": 1409.064,
+        "id": 305,
+        "is_music": false,
+        "start": 1408.062,
+        "text": "$50000000.00"
+      },
+      {
+        "end": 1414.017,
+        "id": 306,
+        "is_music": false,
+        "start": 1409.065,
+        "text": "a year and obviously they need more money so they figured out there are other ways"
+      },
+      {
+        "end": 1417.08,
+        "id": 307,
+        "is_music": false,
+        "start": 1414.018,
+        "text": "to do that some people will know that the New York Times recently reported"
+      },
+      {
+        "end": 1422.071,
+        "id": 308,
+        "is_music": false,
+        "start": 1417.081,
+        "text": "a large project in which they revealed how easy it is to track people's movements"
+      },
+      {
+        "end": 1427.07,
+        "id": 309,
+        "is_music": false,
+        "start": 1422.072,
+        "text": "using location tracking data is that covered by the new California Oh it is not and"
+      },
+      {
+        "end": 1428.081,
+        "id": 310,
+        "is_music": false,
+        "start": 1427.071,
+        "text": "in fact there's going to be"
+      },
+      {
+        "end": 1434.088,
+        "id": 311,
+        "is_music": false,
+        "start": 1428.082,
+        "text": "a new ballot initiative in November 2020 which will essentially strengthen parts of"
+      },
+      {
+        "end": 1439.069,
+        "id": 312,
+        "is_music": false,
+        "start": 1434.089,
+        "text": "this California Consumer Privacy Act And one of the other big loopholes here is"
+      },
+      {
+        "end": 1444.016,
+        "id": 313,
+        "is_music": false,
+        "start": 1439.07,
+        "text": "that it doesn't cover geo location tracking which is the ability to track where."
+      },
+      {
+        "end": 1448.037,
+        "id": 314,
+        "is_music": false,
+        "start": 1444.089,
+        "text": "Store that information the ballot initiative would close that loophole as far as"
+      },
+      {
+        "end": 1452.061,
+        "id": 315,
+        "is_music": false,
+        "start": 1448.038,
+        "text": "tracking people's locations yes it would but it would only apply to businesses not"
+      },
+      {
+        "end": 1454.053,
+        "id": 316,
+        "is_music": false,
+        "start": 1452.062,
+        "text": "necessarily governments is this ultimately"
+      },
+      {
+        "end": 1457.082,
+        "id": 317,
+        "is_music": false,
+        "start": 1454.054,
+        "text": "a losing battle we have to share so much information with so many companies in"
+      },
+      {
+        "end": 1461.031,
+        "id": 318,
+        "is_music": false,
+        "start": 1457.083,
+        "text": "order to do normal business with them anymore that there's very little that people"
+      },
+      {
+        "end": 1463.077,
+        "id": 319,
+        "is_music": false,
+        "start": 1461.032,
+        "text": "can truly truly do about it no I don't think it's"
+      },
+      {
+        "end": 1467.065,
+        "id": 320,
+        "is_music": false,
+        "start": 1463.078,
+        "text": "a losing battle but I don't think we necessarily can come in and say we have"
+      },
+      {
+        "end": 1472.049,
+        "id": 321,
+        "is_music": false,
+        "start": 1467.066,
+        "text": "a one size fits all solution which is going to apply to all circumstances and all"
+      },
+      {
+        "end": 1477.024,
+        "id": 322,
+        "is_music": false,
+        "start": 1472.05,
+        "text": "technologies Stuart Broadman thanks so much thank you great to be here if"
+      },
+      {
+        "end": 1481.066,
+        "id": 323,
+        "is_music": false,
+        "start": 1477.025,
+        "text": "astronauts are going to walk on Mars someday they will of course need to breathe so"
+      },
+      {
+        "end": 1486.034,
+        "id": 324,
+        "is_music": false,
+        "start": 1481.067,
+        "text": "they'll either need to bring oxygen or make it there and NASA is next robotic"
+      },
+      {
+        "end": 1489.081,
+        "id": 325,
+        "is_music": false,
+        "start": 1486.035,
+        "text": "mission they plan to bring an instrument that can do that they can make oxygen"
+      },
+      {
+        "end": 1494.036,
+        "id": 326,
+        "is_music": false,
+        "start": 1489.091,
+        "text": "Here's N.P.R.'s Joe Palca there's an obvious reason you need oxygen once you get to"
+      },
+      {
+        "end": 1497.093,
+        "id": 327,
+        "is_music": false,
+        "start": 1494.037,
+        "text": "Mars you need oxygen to breathe Jeff Hoffman is"
+      },
+      {
+        "end": 1501.037,
+        "id": 328,
+        "is_music": false,
+        "start": 1497.094,
+        "text": "a former astronaut now on the engineering faculty at m.i.t."
+      },
+      {
+        "end": 1505.046,
+        "id": 329,
+        "is_music": false,
+        "start": 1501.092,
+        "text": "There's very little atmosphere on Mars to begin with and only"
+      },
+      {
+        "end": 1510.087,
+        "id": 330,
+        "is_music": false,
+        "start": 1505.047,
+        "text": "a tiny amount of that is oxygen but what atmosphere there is is mostly carbon"
+      },
+      {
+        "end": 1516.056,
+        "id": 331,
+        "is_music": false,
+        "start": 1510.088,
+        "text": "dioxide and it's possible to make oxygen by chemically separating it from the"
+      },
+      {
+        "end": 1520.072,
+        "id": 332,
+        "is_music": false,
+        "start": 1516.057,
+        "text": "carbon dioxide c o 2 Hofmann says that would be"
+      },
+      {
+        "end": 1524.09,
+        "id": 333,
+        "is_music": false,
+        "start": 1520.073,
+        "text": "a good thing if I were on the surface of Mars I would be very happy to have"
+      },
+      {
+        "end": 1527.016,
+        "id": 334,
+        "is_music": false,
+        "start": 1524.091,
+        "text": "a source of oxygen that I could breathe but"
+      },
+      {
+        "end": 1531.082,
+        "id": 335,
+        "is_music": false,
+        "start": 1527.017,
+        "text": "a human only needs about 2 pounds of oxygen a day Hofmann says"
+      },
+      {
+        "end": 1534.063,
+        "id": 336,
+        "is_music": false,
+        "start": 1531.083,
+        "text": "a bigger oxygen need will be for the propellant for"
+      },
+      {
+        "end": 1538.084,
+        "id": 337,
+        "is_music": false,
+        "start": 1534.064,
+        "text": "a rocket to bring you home to get off the surface of Mars you need"
+      },
+      {
+        "end": 1542.084,
+        "id": 338,
+        "is_music": false,
+        "start": 1538.085,
+        "text": "a lot of propellant tens of tons of propellant and"
+      },
+      {
+        "end": 1548,
+        "id": 339,
+        "is_music": false,
+        "start": 1542.085,
+        "text": "a lot of that propellant will need to be liquid oxygen you could ship the oxygen"
+      },
+      {
+        "end": 1552.09,
+        "id": 340,
+        "is_music": false,
+        "start": 1548.001,
+        "text": "from Earth but that would be super expensive and highly inefficient anything that"
+      },
+      {
+        "end": 1559.066,
+        "id": 341,
+        "is_music": false,
+        "start": 1552.091,
+        "text": "you can make on Mars is going to reduce the cost and complexity"
+      },
+      {
+        "end": 1564.038,
+        "id": 342,
+        "is_music": false,
+        "start": 1559.067,
+        "text": "of getting there and surviving there considerably Hofmann and his cause. Leagues"
+      },
+      {
+        "end": 1567.051,
+        "id": 343,
+        "is_music": false,
+        "start": 1564.039,
+        "text": "have built an instrument called Moxie that will go to Mars in"
+      },
+      {
+        "end": 1572.017,
+        "id": 344,
+        "is_music": false,
+        "start": 1567.052,
+        "text": "a mission later this year he says the instrument separates oxygen from c"
+      },
+      {
+        "end": 1577.07,
+        "id": 345,
+        "is_music": false,
+        "start": 1572.018,
+        "text": "o 2 and it works great here on earth but if you're ever going to rely on"
+      },
+      {
+        "end": 1582.005,
+        "id": 346,
+        "is_music": false,
+        "start": 1577.071,
+        "text": "a process or a piece of hardware that's really critical for"
+      },
+      {
+        "end": 1586.076,
+        "id": 347,
+        "is_music": false,
+        "start": 1582.009,
+        "text": "a space mission and you know if you're counting on this to produce oxygen to get"
+      },
+      {
+        "end": 1591.056,
+        "id": 348,
+        "is_music": false,
+        "start": 1586.077,
+        "text": "home I would call that critical you've got to demonstrate that it works not just in"
+      },
+      {
+        "end": 1595.097,
+        "id": 349,
+        "is_music": false,
+        "start": 1591.057,
+        "text": "the laboratory on earth but in the actual environment and that's why we're sending"
+      },
+      {
+        "end": 1601.053,
+        "id": 350,
+        "is_music": false,
+        "start": 1595.098,
+        "text": "moxy to Mars Hoffman says Moxey isn't going to produce much oxygen anywhere from"
+      },
+      {
+        "end": 1608.082,
+        "id": 351,
+        "is_music": false,
+        "start": 1601.088,
+        "text": "roughly 6 to 10 grams of oxygen per hour that's less than half an ounce but"
+      },
+      {
+        "end": 1614.052,
+        "id": 352,
+        "is_music": false,
+        "start": 1608.083,
+        "text": "if Moxie works as advertised it could be scaled up and who knows maybe Moxy $5.00"
+      },
+      {
+        "end": 1619.051,
+        "id": 353,
+        "is_music": false,
+        "start": 1614.053,
+        "text": "or Moxy $10.00 will be able to produce enough oxygen for rocket fuel to bring"
+      },
+      {
+        "end": 1622.048,
+        "id": 354,
+        "is_music": false,
+        "start": 1619.055,
+        "text": "astronauts home Joe Palca n.p.r."
+      },
+      {
+        "end": 1623.001,
+        "id": 355,
+        "is_music": false,
+        "start": 1622.049,
+        "text": "News."
+      },
+      {
+        "end": 1632.015,
+        "id": 356,
+        "is_music": false,
+        "start": 1631.013,
+        "text": "This is n.p.r."
+      },
+      {
+        "end": 1638.097,
+        "id": 357,
+        "is_music": false,
+        "start": 1632.016,
+        "text": "News. $0.82 for every dollar paid to men and that"
+      },
+      {
+        "end": 1645.095,
+        "id": 358,
+        "is_music": false,
+        "start": 1638.098,
+        "text": "disparity is even larger for women. And salary potential and that I"
+      },
+      {
+        "end": 1652.073,
+        "id": 359,
+        "is_music": false,
+        "start": 1645.096,
+        "text": "had no idea. I'm Kimberly Adams that come out when it comes to salary"
+      },
+      {
+        "end": 1659.019,
+        "id": 360,
+        "is_music": false,
+        "start": 1652.074,
+        "text": "negotiation next time. Weekdays at 3.3 k.p."
+      },
+      {
+        "end": 1659.089,
+        "id": 361,
+        "is_music": false,
+        "start": 1659.023,
+        "text": "C.c."
+      },
+      {
+        "end": 1666.063,
+        "id": 362,
+        "is_music": false,
+        "start": 1659.089,
+        "text": ". Sports Journalism is"
+      },
+      {
+        "end": 1670.067,
+        "id": 363,
+        "is_music": false,
+        "start": 1666.064,
+        "text": "more than just keeping score over the years coverage has shifted from debates over"
+      },
+      {
+        "end": 1674.077,
+        "id": 364,
+        "is_music": false,
+        "start": 1670.068,
+        "text": "whether college athletes should be paid to other issues like the excessive power of"
+      },
+      {
+        "end": 1679.099,
+        "id": 365,
+        "is_music": false,
+        "start": 1674.078,
+        "text": "college athletic departments that revenue ultimately goes to pay for salaries and"
+      },
+      {
+        "end": 1685.031,
+        "id": 366,
+        "is_music": false,
+        "start": 1680,
+        "text": "executive class of athletic administrator and coach how one journalist hasn't"
+      },
+      {
+        "end": 1687.092,
+        "id": 367,
+        "is_music": false,
+        "start": 1685.032,
+        "text": "raised the ship on the next All Things Considered from n.p.r."
+      },
+      {
+        "end": 1691.028,
+        "id": 368,
+        "is_music": false,
+        "start": 1687.093,
+        "text": "News each weekday on $89.00."
+      },
+      {
+        "end": 1696.05,
+        "id": 369,
+        "is_music": false,
+        "start": 1695.028,
+        "text": "Live from n.p.r."
+      },
+      {
+        "end": 1701.061,
+        "id": 370,
+        "is_music": false,
+        "start": 1696.051,
+        "text": "News in Washington I'm nor Brahm anti-American demonstrators gathered outside the"
+      },
+      {
+        "end": 1704.047,
+        "id": 371,
+        "is_music": false,
+        "start": 1701.062,
+        "text": "u.s. Embassy in Baghdad again today u.s."
+      },
+      {
+        "end": 1709.079,
+        "id": 372,
+        "is_music": false,
+        "start": 1704.048,
+        "text": "Forces fired tear gas to break up the crowd yesterday demonstrators had set fires"
+      },
+      {
+        "end": 1712.096,
+        "id": 373,
+        "is_music": false,
+        "start": 1709.08,
+        "text": "and damaged the reception area there protesting u.s."
+      },
+      {
+        "end": 1717.081,
+        "id": 374,
+        "is_music": false,
+        "start": 1712.097,
+        "text": "Airstrikes on militia bases in Iraq on Sunday that killed at least 25 fighters"
+      },
+      {
+        "end": 1722.022,
+        "id": 375,
+        "is_music": false,
+        "start": 1718.037,
+        "text": "thousands of people in Hong Kong are once again pouring into the streets no New"
+      },
+      {
+        "end": 1726.005,
+        "id": 376,
+        "is_music": false,
+        "start": 1722.023,
+        "text": "Year's Day March N.P.R.'s Emily Fang reports the March is"
+      },
+      {
+        "end": 1730.071,
+        "id": 377,
+        "is_music": false,
+        "start": 1726.006,
+        "text": "a sign that the anti-government protests are not going away spontaneous marches"
+      },
+      {
+        "end": 1733.092,
+        "id": 378,
+        "is_music": false,
+        "start": 1730.072,
+        "text": "broke out earlier in the day as the clock struck midnight capping off"
+      },
+      {
+        "end": 1737.072,
+        "id": 379,
+        "is_music": false,
+        "start": 1733.093,
+        "text": "a year sometimes violent demonstration against Beijing's growing influence and Hong"
+      },
+      {
+        "end": 1739.097,
+        "id": 380,
+        "is_music": false,
+        "start": 1737.073,
+        "text": "Kong pro-democracy legislators hold"
+      },
+      {
+        "end": 1743.091,
+        "id": 381,
+        "is_music": false,
+        "start": 1739.098,
+        "text": "a New Year's Day March every year but this year's March has far exceeded previous"
+      },
+      {
+        "end": 1747.039,
+        "id": 382,
+        "is_music": false,
+        "start": 1743.092,
+        "text": "years numbers as residents remain infuriated by police brutality and an"
+      },
+      {
+        "end": 1751.038,
+        "id": 383,
+        "is_music": false,
+        "start": 1747.043,
+        "text": "unresponsive city government N.P.R.'s Emily Fang Chicago saw"
+      },
+      {
+        "end": 1756.002,
+        "id": 384,
+        "is_music": false,
+        "start": 1751.039,
+        "text": "a decrease in crime last year interim police superintendent Charlie Beck told"
+      },
+      {
+        "end": 1761.081,
+        "id": 385,
+        "is_music": false,
+        "start": 1756.003,
+        "text": "reporters last night homicides were down by 13 percent and there are $74.00 fewer"
+      },
+      {
+        "end": 1764.066,
+        "id": 386,
+        "is_music": false,
+        "start": 1761.082,
+        "text": "murders in the city in 2019 there's also been"
+      },
+      {
+        "end": 1768.099,
+        "id": 387,
+        "is_music": false,
+        "start": 1764.067,
+        "text": "a 17 percent in reduction in robberies citywide and 80 percent reduction in"
+      },
+      {
+        "end": 1773.054,
+        "id": 388,
+        "is_music": false,
+        "start": 1769,
+        "text": "burglaries and a 10 percent reduction more vehicles and highlighting this is"
+      },
+      {
+        "end": 1778.09,
+        "id": 389,
+        "is_music": false,
+        "start": 1773.055,
+        "text": "a 20 percent reduction and. Gives Back credits community outreach centers and"
+      },
+      {
+        "end": 1782.048,
+        "id": 390,
+        "is_music": false,
+        "start": 1778.091,
+        "text": "improvements in technology that provide it real time information officers on the"
+      },
+      {
+        "end": 1784.016,
+        "id": 391,
+        "is_music": false,
+        "start": 1782.049,
+        "text": "street this is n.p.r."
+      },
+      {
+        "end": 1789.093,
+        "id": 392,
+        "is_music": false,
+        "start": 1784.016,
+        "text": ". Police in Fresno California have arrested 6 suspects in connection with the"
+      },
+      {
+        "end": 1795.032,
+        "id": 393,
+        "is_music": false,
+        "start": 1789.094,
+        "text": "November 17th shooting that killed 4 people and injured 6 others Alex hall of"
+      },
+      {
+        "end": 1796.011,
+        "id": 394,
+        "is_music": false,
+        "start": 1795.033,
+        "text": "k.q.e.d."
+      },
+      {
+        "end": 1800.078,
+        "id": 395,
+        "is_music": false,
+        "start": 1796.012,
+        "text": "Reports Fresno's police chief Andy Hall said the suspects thought they were attacking"
+      },
+      {
+        "end": 1801.032,
+        "id": 396,
+        "is_music": false,
+        "start": 1800.079,
+        "text": "members of"
+      },
+      {
+        "end": 1805.059,
+        "id": 397,
+        "is_music": false,
+        "start": 1801.033,
+        "text": "a rival gang when they snuck into the back yard of the home and began firing what"
+      },
+      {
+        "end": 1810.08,
+        "id": 398,
+        "is_music": false,
+        "start": 1805.06,
+        "text": "we do know is that the suspects did believe this was an Asian gang party and"
+      },
+      {
+        "end": 1815.002,
+        "id": 399,
+        "is_music": false,
+        "start": 1810.081,
+        "text": "targeted that house according to chief all the 6 men arrested were attempting"
+      },
+      {
+        "end": 1816.01,
+        "id": 400,
+        "is_music": false,
+        "start": 1815.003,
+        "text": "retaliation for"
+      },
+      {
+        "end": 1820.043,
+        "id": 401,
+        "is_music": false,
+        "start": 1816.011,
+        "text": "a murder earlier that day police are requesting the Fresno district attorney's"
+      },
+      {
+        "end": 1825.039,
+        "id": 402,
+        "is_music": false,
+        "start": 1820.044,
+        "text": "office file homicide attempted homicide and conspiracy to commit murder charges"
+      },
+      {
+        "end": 1830.054,
+        "id": 403,
+        "is_music": false,
+        "start": 1825.048,
+        "text": "with gang and firearm enhanced ments If convicted the men could face up to life in"
+      },
+      {
+        "end": 1834.009,
+        "id": 404,
+        "is_music": false,
+        "start": 1830.055,
+        "text": "prison without parole or the death penalty for n.p.r."
+      },
+      {
+        "end": 1839.091,
+        "id": 405,
+        "is_music": false,
+        "start": 1834.01,
+        "text": "News I'm Alex hall in Fresno Wall Street is closed today for New Years 29000 was"
+      },
+      {
+        "end": 1845.081,
+        "id": 406,
+        "is_music": false,
+        "start": 1839.092,
+        "text": "a good year for investors with the 3 major indexes reaching record highs Australia"
+      },
+      {
+        "end": 1851.029,
+        "id": 407,
+        "is_music": false,
+        "start": 1845.082,
+        "text": "is deploying military ships and aircraft to deliver water food and fuel to towns"
+      },
+      {
+        "end": 1856.028,
+        "id": 408,
+        "is_music": false,
+        "start": 1851.03,
+        "text": "cut off by wildfires along that southeast coast more than 10000000 acres have"
+      },
+      {
+        "end": 1857.076,
+        "id": 409,
+        "is_music": false,
+        "start": 1856.029,
+        "text": "burned since the fires began"
+      },
+      {
+        "end": 1862.071,
+        "id": 410,
+        "is_music": false,
+        "start": 1857.077,
+        "text": "a few months ago Australia's capital camber is blanket with smoke causing the air"
+      },
+      {
+        "end": 1863.01,
+        "id": 411,
+        "is_music": false,
+        "start": 1862.072,
+        "text": "quality"
+      },
+      {
+        "end": 1867.084,
+        "id": 412,
+        "is_music": false,
+        "start": 1863.011,
+        "text": "b 20 times hazardous levels despite the fires Australia went ahead last night with"
+      },
+      {
+        "end": 1872.036,
+        "id": 413,
+        "is_music": false,
+        "start": 1867.085,
+        "text": "the annual New Year's Eve fireworks in Sydney Harbor I'm nor rom n.p.r."
+      },
+      {
+        "end": 1873.07,
+        "id": 414,
+        "is_music": false,
+        "start": 1872.037,
+        "text": "News in Washington."
+      },
+      {
+        "end": 1886.015,
+        "id": 415,
+        "is_music": false,
+        "start": 1879.042,
+        "text": "If the government. Looked at these numbers we were going to question how many"
+      },
+      {
+        "end": 1892.087,
+        "id": 416,
+        "is_music": false,
+        "start": 1886.016,
+        "text": "people. This is how the news should see the biggest stories of our time"
+      },
+      {
+        "end": 1896.091,
+        "id": 417,
+        "is_music": false,
+        "start": 1893.023,
+        "text": "powered by the journalists of the New York Times I'm Michael."
+      },
+      {
+        "end": 1904.076,
+        "id": 418,
+        "is_music": false,
+        "start": 1900.08,
+        "text": "730 on 89.31 a spent"
+      },
+      {
+        "end": 1910.034,
+        "id": 419,
+        "is_music": false,
+        "start": 1904.077,
+        "text": "a year going across America the Ruger I didn't know I was black until I came to"
+      },
+      {
+        "end": 1917.033,
+        "id": 420,
+        "is_music": false,
+        "start": 1910.035,
+        "text": "America and. China does not have our farmers best interest at heart of"
+      },
+      {
+        "end": 1922,
+        "id": 421,
+        "is_music": false,
+        "start": 1917.091,
+        "text": "the problem what do we learn from our travels and what more can we look forward to"
+      },
+      {
+        "end": 1928.091,
+        "id": 422,
+        "is_music": false,
+        "start": 1922.001,
+        "text": "in the New Year highlights from across America next time on one weeknights at 889.3"
+      },
+      {
+        "end": 1935.092,
+        "id": 423,
+        "is_music": false,
+        "start": 1929.01,
+        "text": "k. P.c.c. . With support for n.p.r."
+      },
+      {
+        "end": 1941.032,
+        "id": 424,
+        "is_music": false,
+        "start": 1935.093,
+        "text": "Comes from this station and from Procter and Gamble maker of Metamucil Metamucil"
+      },
+      {
+        "end": 1945.094,
+        "id": 425,
+        "is_music": false,
+        "start": 1941.033,
+        "text": "Premium Blend contains plant based psyllium fiber is made with natural flavors and"
+      },
+      {
+        "end": 1951.068,
+        "id": 426,
+        "is_music": false,
+        "start": 1945.095,
+        "text": "colors and is sweetened with stevia leaf extract learn more at Metamucil dot com"
+      },
+      {
+        "end": 1957.09,
+        "id": 427,
+        "is_music": false,
+        "start": 1952.068,
+        "text": "and from Dr providing cloud backup full system back up and on site I drive"
+      },
+      {
+        "end": 1962.09,
+        "id": 428,
+        "is_music": false,
+        "start": 1957.091,
+        "text": "appliance to protect P.C.'s Macs and servers from data loss due to crashes and"
+      },
+      {
+        "end": 1966.067,
+        "id": 429,
+        "is_music": false,
+        "start": 1962.091,
+        "text": "ransomware at I drive dot com slash."
+      },
+      {
+        "end": 1971.044,
+        "id": 430,
+        "is_music": false,
+        "start": 1970.001,
+        "text": "It's Morning Edition from n.p.r."
+      },
+      {
+        "end": 1976.04,
+        "id": 431,
+        "is_music": false,
+        "start": 1971.045,
+        "text": "News I'm king And I'm Steve Inskeep 2 years of diplomacy between the presidents of"
+      },
+      {
+        "end": 1981.072,
+        "id": 432,
+        "is_music": false,
+        "start": 1976.041,
+        "text": "the u.s. And North Korea produced one large substantive success from the u.s."
+      },
+      {
+        "end": 1986.007,
+        "id": 433,
+        "is_music": false,
+        "start": 1981.073,
+        "text": "Point of view during the period the President Trump has been meeting exchanging"
+      },
+      {
+        "end": 1990.082,
+        "id": 434,
+        "is_music": false,
+        "start": 1986.008,
+        "text": "letters with and constantly flattering Kim Jong un North Korea has kept"
+      },
+      {
+        "end": 1996.059,
+        "id": 435,
+        "is_music": false,
+        "start": 1990.083,
+        "text": "a promise not to test nuclear weapons or long range missiles now Kim says that's"
+      },
+      {
+        "end": 1997.036,
+        "id": 436,
+        "is_music": false,
+        "start": 1996.06,
+        "text": "over in"
+      },
+      {
+        "end": 2001.014,
+        "id": 437,
+        "is_music": false,
+        "start": 1997.037,
+        "text": "a speech to the ruling Workers Party Central Committee Kim says North Korea no"
+      },
+      {
+        "end": 2006.052,
+        "id": 438,
+        "is_music": false,
+        "start": 2001.015,
+        "text": "longer feels bound by that promise he has disappointed that talks produced no"
+      },
+      {
+        "end": 2008.076,
+        "id": 439,
+        "is_music": false,
+        "start": 2006.053,
+        "text": "a long term agreement with the u.s."
+      },
+      {
+        "end": 2012.096,
+        "id": 440,
+        "is_music": false,
+        "start": 2009.013,
+        "text": "N.P.R.'s Anthony Kuhn has been following this story for years he joins us from"
+      },
+      {
+        "end": 2016.094,
+        "id": 441,
+        "is_music": false,
+        "start": 2012.097,
+        "text": "Seoul Hey there Anthony Hey Steve and happy new year what is Kim say his country's"
+      },
+      {
+        "end": 2022.095,
+        "id": 442,
+        "is_music": false,
+        "start": 2016.095,
+        "text": "going to do now. Well in his typical dramatic fashion he said that the North will"
+      },
+      {
+        "end": 2025.088,
+        "id": 443,
+        "is_music": false,
+        "start": 2022.096,
+        "text": "take shocking action in will introduce"
+      },
+      {
+        "end": 2030.099,
+        "id": 444,
+        "is_music": false,
+        "start": 2025.092,
+        "text": "a new strategic weapon soon which he did not identify but he was very clear that he"
+      },
+      {
+        "end": 2034.067,
+        "id": 445,
+        "is_music": false,
+        "start": 2031,
+        "text": "was not breaking off negotiations with the u.s."
+      },
+      {
+        "end": 2038.084,
+        "id": 446,
+        "is_music": false,
+        "start": 2034.068,
+        "text": "Now let's hear what North Korean people heard from their state television"
+      },
+      {
+        "end": 2043.034,
+        "id": 447,
+        "is_music": false,
+        "start": 2038.085,
+        "text": "broadcaster. You know one so going to see children."
+      },
+      {
+        "end": 2047.055,
+        "id": 448,
+        "is_music": false,
+        "start": 2045.092,
+        "text": "Ok so in that clip a t.v."
+      },
+      {
+        "end": 2052.051,
+        "id": 449,
+        "is_music": false,
+        "start": 2047.056,
+        "text": "Anchor is quoting Kim is saying that North Korea instituted this moratorium on"
+      },
+      {
+        "end": 2056.079,
+        "id": 450,
+        "is_music": false,
+        "start": 2052.052,
+        "text": "nuclear and missile testing unilaterally over the past 2 years the u.s."
+      },
+      {
+        "end": 2061.091,
+        "id": 451,
+        "is_music": false,
+        "start": 2056.08,
+        "text": "Did not respond positively Instead it kept on having military drills with South"
+      },
+      {
+        "end": 2066.055,
+        "id": 452,
+        "is_music": false,
+        "start": 2061.092,
+        "text": "Korea shipping them advanced weapons and so there's really no point in North Korea"
+      },
+      {
+        "end": 2071.052,
+        "id": 453,
+        "is_music": false,
+        "start": 2066.056,
+        "text": "sticking unilaterally to that commitment any longer and Kim said that the u.s."
+      },
+      {
+        "end": 2073.059,
+        "id": 454,
+        "is_music": false,
+        "start": 2071.053,
+        "text": "Was chilling North Korean efforts for"
+      },
+      {
+        "end": 2078.004,
+        "id": 455,
+        "is_music": false,
+        "start": 2073.06,
+        "text": "a worldwide nuclear disarmament not not stopping but chilling He also didn't say"
+      },
+      {
+        "end": 2082.042,
+        "id": 456,
+        "is_music": false,
+        "start": 2078.005,
+        "text": "they're going to resume testing right away he said on several occasions they're"
+      },
+      {
+        "end": 2083.087,
+        "id": 457,
+        "is_music": false,
+        "start": 2082.043,
+        "text": "going to attempt"
+      },
+      {
+        "end": 2089.055,
+        "id": 458,
+        "is_music": false,
+        "start": 2083.088,
+        "text": "a frontal breakthrough in other words defeat us attempts to isolate them and and"
+      },
+      {
+        "end": 2092.098,
+        "id": 459,
+        "is_music": false,
+        "start": 2089.056,
+        "text": "sanction them into submission and he said that the u.s."
+      },
+      {
+        "end": 2097.03,
+        "id": 460,
+        "is_music": false,
+        "start": 2092.099,
+        "text": "Is basically now just stalling on negotiations while keeping hostile policies in"
+      },
+      {
+        "end": 2100.03,
+        "id": 461,
+        "is_music": false,
+        "start": 2097.031,
+        "text": "place you know it sounds like Kim could have done"
+      },
+      {
+        "end": 2103.011,
+        "id": 462,
+        "is_music": false,
+        "start": 2100.031,
+        "text": "a lot more than he did there were a lot of people in the u.s."
+      },
+      {
+        "end": 2107.081,
+        "id": 463,
+        "is_music": false,
+        "start": 2103.012,
+        "text": "Expecting an actual missile test for example that hasn't happened yet but this is"
+      },
+      {
+        "end": 2111.076,
+        "id": 464,
+        "is_music": false,
+        "start": 2107.082,
+        "text": "a change from what he's been saying right it's a change I really don't think it's"
+      },
+      {
+        "end": 2117.069,
+        "id": 465,
+        "is_music": false,
+        "start": 2111.077,
+        "text": "a break from last year's policies he had been building up with all these political"
+      },
+      {
+        "end": 2123.036,
+        "id": 466,
+        "is_music": false,
+        "start": 2117.07,
+        "text": "theatrical writing white horses and holding these long party meetings suggesting"
+      },
+      {
+        "end": 2125.095,
+        "id": 467,
+        "is_music": false,
+        "start": 2123.037,
+        "text": "that he was coming to a critical juncture where he was going to make"
+      },
+      {
+        "end": 2129.043,
+        "id": 468,
+        "is_music": false,
+        "start": 2125.096,
+        "text": "a strategic choice clearly we're going to see"
+      },
+      {
+        "end": 2134.033,
+        "id": 469,
+        "is_music": false,
+        "start": 2129.044,
+        "text": "a more hard line policy in the next year but he's also leaving the door open for"
+      },
+      {
+        "end": 2136.073,
+        "id": 470,
+        "is_music": false,
+        "start": 2134.034,
+        "text": "concessions by the u.s. I think how is the u.s."
+      },
+      {
+        "end": 2141.053,
+        "id": 471,
+        "is_music": false,
+        "start": 2136.074,
+        "text": "Responding. Well President Trump said to reporters at"
+      },
+      {
+        "end": 2144.056,
+        "id": 472,
+        "is_music": false,
+        "start": 2141.054,
+        "text": "a New Year's Eve party that he said he thinks sec him is still"
+      },
+      {
+        "end": 2149.039,
+        "id": 473,
+        "is_music": false,
+        "start": 2144.057,
+        "text": "a man of his word Let's hear what he said I just signed agreement talking about did"
+      },
+      {
+        "end": 2155.031,
+        "id": 474,
+        "is_music": false,
+        "start": 2149.04,
+        "text": "nuclearization that was Side number one sense denuclearization that was done in"
+      },
+      {
+        "end": 2157.088,
+        "id": 475,
+        "is_music": false,
+        "start": 2155.032,
+        "text": "Singapore and I think he's"
+      },
+      {
+        "end": 2160.042,
+        "id": 476,
+        "is_music": false,
+        "start": 2157.089,
+        "text": "a man of his word so we're going to find out but I think he's"
+      },
+      {
+        "end": 2165.016,
+        "id": 477,
+        "is_music": false,
+        "start": 2160.043,
+        "text": "a man of his for now of course the declaration that Trump and Kim signed in"
+      },
+      {
+        "end": 2169.09,
+        "id": 478,
+        "is_music": false,
+        "start": 2165.017,
+        "text": "Singapore did talking about it did talk about working towards denuclearization but"
+      },
+      {
+        "end": 2174.067,
+        "id": 479,
+        "is_music": false,
+        "start": 2169.091,
+        "text": "said nothing about what that actually means how they're going to do it or when. Now"
+      },
+      {
+        "end": 2178.077,
+        "id": 480,
+        "is_music": false,
+        "start": 2174.068,
+        "text": "insists that the ball is in Washington's court hands you know what they get is"
+      },
+      {
+        "end": 2183.029,
+        "id": 481,
+        "is_music": false,
+        "start": 2178.078,
+        "text": "their Christmas present depends on their attitude they say that Washington has"
+      },
+      {
+        "end": 2187.075,
+        "id": 482,
+        "is_music": false,
+        "start": 2183.03,
+        "text": "presented the north with proposals for moving ahead but they haven't made any of"
+      },
+      {
+        "end": 2192.081,
+        "id": 483,
+        "is_music": false,
+        "start": 2187.076,
+        "text": "those public Anthony thanks so much you bet Steve That's N.P.R.'s Anthony Kuhn"
+      },
+      {
+        "end": 2194.021,
+        "id": 484,
+        "is_music": false,
+        "start": 2192.082,
+        "text": "reporting today from Seoul."
+      },
+      {
+        "end": 2202.032,
+        "id": 485,
+        "is_music": false,
+        "start": 2201.051,
+        "text": "In France"
+      },
+      {
+        "end": 2208.005,
+        "id": 486,
+        "is_music": false,
+        "start": 2202.033,
+        "text": "a strike over proposed changes to government pensions is now on day 28 in his New"
+      },
+      {
+        "end": 2211.059,
+        "id": 487,
+        "is_music": false,
+        "start": 2208.006,
+        "text": "Year's Eve address President Emmanuel McCrone says the government isn't planning to"
+      },
+      {
+        "end": 2214.012,
+        "id": 488,
+        "is_music": false,
+        "start": 2211.06,
+        "text": "back down Here's N.P.R.'s Eleanor Beardsley."
+      },
+      {
+        "end": 2225.034,
+        "id": 489,
+        "is_music": false,
+        "start": 2219.035,
+        "text": "Charles de Gaulle gave the 1st New Year's Eve address in 1960 since then presidents"
+      },
+      {
+        "end": 2229.083,
+        "id": 490,
+        "is_music": false,
+        "start": 2225.035,
+        "text": "have used it to speak of the nation's values or bring people together in times of"
+      },
+      {
+        "end": 2236.082,
+        "id": 491,
+        "is_music": false,
+        "start": 2229.084,
+        "text": "difficulty. Last night out of the economic reforms he's carried out since"
+      },
+      {
+        "end": 2238.049,
+        "id": 492,
+        "is_music": false,
+        "start": 2236.083,
+        "text": "taking office and laid out"
+      },
+      {
+        "end": 2242.091,
+        "id": 493,
+        "is_music": false,
+        "start": 2238.05,
+        "text": "a sweeping vision for France for the next decade he said the French people had"
+      },
+      {
+        "end": 2247.079,
+        "id": 494,
+        "is_music": false,
+        "start": 2242.092,
+        "text": "always come together in solidarity like when Notre Dame caught fire they would do"
+      },
+      {
+        "end": 2254.06,
+        "id": 495,
+        "is_music": false,
+        "start": 2247.08,
+        "text": "so again he said. I know that some"
+      },
+      {
+        "end": 2257.045,
+        "id": 496,
+        "is_music": false,
+        "start": 2254.064,
+        "text": "are afraid of changes but is this"
+      },
+      {
+        "end": 2262.077,
+        "id": 497,
+        "is_music": false,
+        "start": 2257.049,
+        "text": "a reason to abandon what we've started no because it's our children who will pay"
+      },
+      {
+        "end": 2268.023,
+        "id": 498,
+        "is_music": false,
+        "start": 2262.078,
+        "text": "the price this is why I will complete this reform of our pension system it is"
+      },
+      {
+        "end": 2274.053,
+        "id": 499,
+        "is_music": false,
+        "start": 2268.024,
+        "text": "a project of justice and social progress it ensures that our system is more equal"
+      },
+      {
+        "end": 2279.072,
+        "id": 500,
+        "is_music": false,
+        "start": 2274.069,
+        "text": "and universal but the union same Ackles plan will penalize those with physically"
+      },
+      {
+        "end": 2284.052,
+        "id": 501,
+        "is_music": false,
+        "start": 2279.073,
+        "text": "demanding jobs by making them work longer Makkal wants to raise the minimum"
+      },
+      {
+        "end": 2290.094,
+        "id": 502,
+        "is_music": false,
+        "start": 2284.053,
+        "text": "retirement age from 62 to 64 this morning fully Martinez head of the hardline c g"
+      },
+      {
+        "end": 2295.039,
+        "id": 503,
+        "is_music": false,
+        "start": 2290.095,
+        "text": "t union called on the French to strike and protest even harder."
+      },
+      {
+        "end": 2299.081,
+        "id": 504,
+        "is_music": false,
+        "start": 2298.042,
+        "text": "Such as structural face with"
+      },
+      {
+        "end": 2304.069,
+        "id": 505,
+        "is_music": false,
+        "start": 2299.082,
+        "text": "a president who does such an exercise in self-satisfaction and who considers that"
+      },
+      {
+        "end": 2309.005,
+        "id": 506,
+        "is_music": false,
+        "start": 2304.07,
+        "text": "everything is going well in this country we need to sound the alarm even louder"
+      },
+      {
+        "end": 2311.026,
+        "id": 507,
+        "is_music": false,
+        "start": 2309.006,
+        "text": "because he obviously hasn't understood that there is"
+      },
+      {
+        "end": 2316.091,
+        "id": 508,
+        "is_music": false,
+        "start": 2311.027,
+        "text": "a problem but it's not just hardliners who are against my calls plans the latest"
+      },
+      {
+        "end": 2321.009,
+        "id": 509,
+        "is_music": false,
+        "start": 2316.092,
+        "text": "poll shows 51 percent of the French public support the strikers."
+      },
+      {
+        "end": 2329.038,
+        "id": 510,
+        "is_music": false,
+        "start": 2324.013,
+        "text": "At this New Year's Eve dinner everyone gathered to watch Michael's no one here"
+      },
+      {
+        "end": 2335.031,
+        "id": 511,
+        "is_music": false,
+        "start": 2329.039,
+        "text": "understands the pension overhaul retired schoolteacher. Believes it will force"
+      },
+      {
+        "end": 2340.086,
+        "id": 512,
+        "is_music": false,
+        "start": 2335.032,
+        "text": "people to work longer for less and she wants the strikers to continue teachers."
+      },
+      {
+        "end": 2348.066,
+        "id": 513,
+        "is_music": false,
+        "start": 2341.093,
+        "text": "Will Lose lot of money when you will be retired so they have to be strong to gether"
+      },
+      {
+        "end": 2352.077,
+        "id": 514,
+        "is_music": false,
+        "start": 2348.084,
+        "text": "but retired airline steward Philip Beyer thinks macro is doing"
+      },
+      {
+        "end": 2357.052,
+        "id": 515,
+        "is_music": false,
+        "start": 2352.078,
+        "text": "a good job with the pension reform and when he overhauled the French labor market"
+      },
+      {
+        "end": 2363.067,
+        "id": 516,
+        "is_music": false,
+        "start": 2357.053,
+        "text": "last year to make France more competitive. Makkal has an image problem because"
+      },
+      {
+        "end": 2368.051,
+        "id": 517,
+        "is_music": false,
+        "start": 2363.068,
+        "text": "people think he's arrogant and of President of the rich I think people don't like"
+      },
+      {
+        "end": 2375.014,
+        "id": 518,
+        "is_music": false,
+        "start": 2368.052,
+        "text": "him mainly because he began his presidency with measures for people who have"
+      },
+      {
+        "end": 2381.091,
+        "id": 519,
+        "is_music": false,
+        "start": 2375.018,
+        "text": "money and this was very bad for his him age and after that he tries to"
+      },
+      {
+        "end": 2387.095,
+        "id": 520,
+        "is_music": false,
+        "start": 2381.092,
+        "text": "change things but people don't accept that because they believe works for people"
+      },
+      {
+        "end": 2392.031,
+        "id": 521,
+        "is_music": false,
+        "start": 2387.096,
+        "text": "with money union say they will continue the transport strike that has hobbled"
+      },
+      {
+        "end": 2397.04,
+        "id": 522,
+        "is_music": false,
+        "start": 2392.032,
+        "text": "commuter trains and paralyze the Paris metro system they're also threatening to"
+      },
+      {
+        "end": 2399.093,
+        "id": 523,
+        "is_music": false,
+        "start": 2397.041,
+        "text": "block oil refineries and bring the country to"
+      },
+      {
+        "end": 2405.04,
+        "id": 524,
+        "is_music": false,
+        "start": 2399.094,
+        "text": "a standstill sending an even tougher message to Mac. All Eleanor Beardsley n.p.r."
+      },
+      {
+        "end": 2406.036,
+        "id": 525,
+        "is_music": false,
+        "start": 2405.041,
+        "text": "News Paris."
+      },
+      {
+        "end": 2444.032,
+        "id": 526,
+        "is_music": false,
+        "start": 2441.064,
+        "text": "This is n.p.r. News the l.a."
+      },
+      {
+        "end": 2448.074,
+        "id": 527,
+        "is_music": false,
+        "start": 2444.033,
+        "text": "County District Attorney's Office is the nation's largest and the D.A.'s decisions"
+      },
+      {
+        "end": 2455.047,
+        "id": 528,
+        "is_music": false,
+        "start": 2448.075,
+        "text": "affect. Those of the stakes. Debate with incumbent"
+      },
+      {
+        "end": 2459.034,
+        "id": 529,
+        "is_music": false,
+        "start": 2455.048,
+        "text": "Jackie Lacy and her challenger former San Francisco d.a."
+      },
+      {
+        "end": 2465.07,
+        "id": 530,
+        "is_music": false,
+        "start": 2459.035,
+        "text": "George gascón public defender who say they'd reject her tough on crime approach"
+      },
+      {
+        "end": 2469.018,
+        "id": 531,
+        "is_music": false,
+        "start": 2465.099,
+        "text": "It's Wednesday January 29th in downtown l.a."
+      },
+      {
+        "end": 2474.041,
+        "id": 532,
+        "is_music": false,
+        "start": 2469.018,
+        "text": ". In person p.p.c."
+      },
+      {
+        "end": 2479.043,
+        "id": 533,
+        "is_music": false,
+        "start": 2474.042,
+        "text": "Cesar go to source for breaking news and your home for your favorite weekend listen"
+      },
+      {
+        "end": 2483.024,
+        "id": 534,
+        "is_music": false,
+        "start": 2479.044,
+        "text": "Saturdays for This American Life snap judgment it's been"
+      },
+      {
+        "end": 2487.047,
+        "id": 535,
+        "is_music": false,
+        "start": 2483.025,
+        "text": "a minute with Sam Sanders and Saturday mornings at 10 welcome to The New York Radio"
+      },
+      {
+        "end": 2493.005,
+        "id": 536,
+        "is_music": false,
+        "start": 2487.048,
+        "text": "Hour I'm David Remnick Alexandria Cossar Cortez Aaron Sorkin Carly Rae Jepsen is"
+      },
+      {
+        "end": 2494.057,
+        "id": 537,
+        "is_music": false,
+        "start": 2493.006,
+        "text": "having a moment when Tracy k."
+      },
+      {
+        "end": 2499.022,
+        "id": 538,
+        "is_music": false,
+        "start": 2494.058,
+        "text": "Smith was appointed poet laureate even You've got to know the name Robert Carey"
+      },
+      {
+        "end": 2506.024,
+        "id": 539,
+        "is_music": false,
+        "start": 2500.001,
+        "text": "spend your weekends with. The weekend Hi I'm Jennifer Dyer and I live in Pasadena"
+      },
+      {
+        "end": 2507.02,
+        "id": 540,
+        "is_music": false,
+        "start": 2506.025,
+        "text": "California I'm"
+      },
+      {
+        "end": 2511.08,
+        "id": 541,
+        "is_music": false,
+        "start": 2507.021,
+        "text": "a member. And I hope you'll join me in supporting all of the great news coverage."
+      },
+      {
+        "end": 2514.009,
+        "id": 542,
+        "is_music": false,
+        "start": 2512.082,
+        "text": "Provides you can become"
+      },
+      {
+        "end": 2520.016,
+        "id": 543,
+        "is_music": false,
+        "start": 2514.01,
+        "text": "a member today. Happy New Year from London"
+      },
+      {
+        "end": 2522.055,
+        "id": 544,
+        "is_music": false,
+        "start": 2521.016,
+        "text": "with b.b.c. Top line and"
+      },
+      {
+        "end": 2527.002,
+        "id": 545,
+        "is_music": false,
+        "start": 2522.056,
+        "text": "a few stories for you about international migration one of the world's biggest"
+      },
+      {
+        "end": 2530.031,
+        "id": 546,
+        "is_music": false,
+        "start": 2527.003,
+        "text": "challenges at the start of 2020 is the course of"
+      },
+      {
+        "end": 2535.04,
+        "id": 547,
+        "is_music": false,
+        "start": 2530.032,
+        "text": "a 1000000 refugees who fled the Syrian province of tens of thousands of families"
+      },
+      {
+        "end": 2539.073,
+        "id": 548,
+        "is_music": false,
+        "start": 2535.041,
+        "text": "have been fleeing shelling and strikes heading north in trucks and private cars but"
+      },
+      {
+        "end": 2544.007,
+        "id": 549,
+        "is_music": false,
+        "start": 2539.074,
+        "text": "the exodus is hampered by fuel shortages and the fact that some drivers don't want"
+      },
+      {
+        "end": 2547.08,
+        "id": 550,
+        "is_music": false,
+        "start": 2544.008,
+        "text": "to risk being bombed on routes. A recent b.b.c."
+      },
+      {
+        "end": 2552.02,
+        "id": 551,
+        "is_music": false,
+        "start": 2547.081,
+        "text": "Investigation revealed the people smugglers the moderates in northern France to"
+      },
+      {
+        "end": 2556.064,
+        "id": 552,
+        "is_music": false,
+        "start": 2552.021,
+        "text": "cross the channel before Britain leaves the European Union at the end of January"
+      },
+      {
+        "end": 2560.078,
+        "id": 553,
+        "is_music": false,
+        "start": 2556.095,
+        "text": "more moderates made the journey successfully in December than did in the same"
+      },
+      {
+        "end": 2563.037,
+        "id": 554,
+        "is_music": false,
+        "start": 2560.079,
+        "text": "monkey. 2018 and"
+      },
+      {
+        "end": 2568.031,
+        "id": 555,
+        "is_music": false,
+        "start": 2563.038,
+        "text": "a storytelling series being performed in Canada focuses on the shoes being worn by"
+      },
+      {
+        "end": 2572.026,
+        "id": 556,
+        "is_music": false,
+        "start": 2568.032,
+        "text": "migrants when they arrived in the country now tell us McCovey Cove I was on"
+      },
+      {
+        "end": 2576.063,
+        "id": 557,
+        "is_music": false,
+        "start": 2572.027,
+        "text": "a cruise vacation from Russia She's Jewish but face discrimination back home"
+      },
+      {
+        "end": 2580.082,
+        "id": 558,
+        "is_music": false,
+        "start": 2576.064,
+        "text": "because she's married to an Afghan Muslim and she made the decision to get off the"
+      },
+      {
+        "end": 2587.074,
+        "id": 559,
+        "is_music": false,
+        "start": 2580.083,
+        "text": "boat in Canada and seek asylum When believe she knew what mania I was as"
+      },
+      {
+        "end": 2594.03,
+        "id": 560,
+        "is_music": false,
+        "start": 2587.08,
+        "text": "possible but sure we heard to choose on the one. I want you know this was the"
+      },
+      {
+        "end": 2601.023,
+        "id": 561,
+        "is_music": false,
+        "start": 2594.031,
+        "text": "reception. Good choice because I'll go to med. Grade but."
+      },
+      {
+        "end": 2608.07,
+        "id": 562,
+        "is_music": false,
+        "start": 2602.059,
+        "text": "Modest strong in mind and in London are pure Jones at the b.b.c. Support for n.p.r."
+      },
+      {
+        "end": 2614.012,
+        "id": 563,
+        "is_music": false,
+        "start": 2608.071,
+        "text": "Comes from this station and from the size Sims foundation since 1905 supporting"
+      },
+      {
+        "end": 2616.098,
+        "id": 564,
+        "is_music": false,
+        "start": 2614.013,
+        "text": "advances in science education and the arts towards"
+      },
+      {
+        "end": 2622.07,
+        "id": 565,
+        "is_music": false,
+        "start": 2616.099,
+        "text": "a fairer more just society more information is available at size Sam's Foundation"
+      },
+      {
+        "end": 2627.09,
+        "id": 566,
+        "is_music": false,
+        "start": 2622.071,
+        "text": "dot org. From the ring foundation in support of N.P.R.'s continued mission to"
+      },
+      {
+        "end": 2631.074,
+        "id": 567,
+        "is_music": false,
+        "start": 2627.091,
+        "text": "create a more informed public one challenge than invigorated by"
+      },
+      {
+        "end": 2637.054,
+        "id": 568,
+        "is_music": false,
+        "start": 2631.075,
+        "text": "a deeper understanding of events ideas and cultures. And from listeners like you"
+      },
+      {
+        "end": 2639.059,
+        "id": 569,
+        "is_music": false,
+        "start": 2637.055,
+        "text": "who donate to this n.p.r."
+      },
+      {
+        "end": 2646.023,
+        "id": 570,
+        "is_music": false,
+        "start": 2639.06,
+        "text": "Station. Congress isn't going to let Facebook's cryptocurrency happen without"
+      },
+      {
+        "end": 2650.058,
+        "id": 571,
+        "is_music": false,
+        "start": 2646.024,
+        "text": "a fight from American Public Media this is Marketplace Tech demystifying the"
+      },
+      {
+        "end": 2652.049,
+        "id": 572,
+        "is_music": false,
+        "start": 2650.059,
+        "text": "Digital Economy Molly Wood."
+      },
+      {
+        "end": 2667.063,
+        "id": 573,
+        "is_music": false,
+        "start": 2663.023,
+        "text": "Marketplace is supported by home advisors helping homeowners find the right pros"
+      },
+      {
+        "end": 2671.048,
+        "id": 574,
+        "is_music": false,
+        "start": 2667.064,
+        "text": "for their home projects homeowners can read reviews book appointments and check"
+      },
+      {
+        "end": 2677.048,
+        "id": 575,
+        "is_music": false,
+        "start": 2671.049,
+        "text": "cars cars for any project at Home Advisor dot com. This week we're talking to"
+      },
+      {
+        "end": 2682.034,
+        "id": 576,
+        "is_music": false,
+        "start": 2677.049,
+        "text": "Marketplace reporters about what to expect from tax in the year ahead regulation is"
+      },
+      {
+        "end": 2686.015,
+        "id": 577,
+        "is_music": false,
+        "start": 2682.035,
+        "text": "a big part of that conversation and today we're going to chat about crypto"
+      },
+      {
+        "end": 2691.018,
+        "id": 578,
+        "is_music": false,
+        "start": 2686.016,
+        "text": "currencies specifically Libra the digital payment system and cryptocurrency"
+      },
+      {
+        "end": 2696.016,
+        "id": 579,
+        "is_music": false,
+        "start": 2691.019,
+        "text": "proposed by Facebook earlier this year it seemed like it might be dead on arrival"
+      },
+      {
+        "end": 2701.008,
+        "id": 580,
+        "is_music": false,
+        "start": 2696.02,
+        "text": "considering all the backlash but lawmakers have not forgotten about it there are"
+      },
+      {
+        "end": 2705.029,
+        "id": 581,
+        "is_music": false,
+        "start": 2701.009,
+        "text": "a few bills being considered by Congress that could have an impact on Libras future"
+      },
+      {
+        "end": 2710.019,
+        "id": 582,
+        "is_music": false,
+        "start": 2705.056,
+        "text": "including who might regulate it Nancy Marshall Genzer reports on policy from"
+      },
+      {
+        "end": 2711.07,
+        "id": 583,
+        "is_music": false,
+        "start": 2710.02,
+        "text": "Marketplace's Washington d.c."
+      },
+      {
+        "end": 2716.039,
+        "id": 584,
+        "is_music": false,
+        "start": 2711.071,
+        "text": "Bureau I asked her to tell me about the bills that have been proposed here's one"
+      },
+      {
+        "end": 2721.049,
+        "id": 585,
+        "is_music": false,
+        "start": 2716.045,
+        "text": "Molly and see if you can figure out what this bill would do it's called Keep big"
+      },
+      {
+        "end": 2728.047,
+        "id": 586,
+        "is_music": false,
+        "start": 2721.053,
+        "text": "tax out of finance. Very subtle would prohibit large platforms like Facebook from"
+      },
+      {
+        "end": 2730.074,
+        "id": 587,
+        "is_music": false,
+        "start": 2728.048,
+        "text": "becoming chartered licensed or registered as"
+      },
+      {
+        "end": 2735.098,
+        "id": 588,
+        "is_music": false,
+        "start": 2730.075,
+        "text": "a us financial institution. There's another bill called the stable coins our"
+      },
+      {
+        "end": 2742.051,
+        "id": 589,
+        "is_music": false,
+        "start": 2735.099,
+        "text": "securities act and this bill says that stable coins which are coins like Libra"
+      },
+      {
+        "end": 2743.042,
+        "id": 590,
+        "is_music": false,
+        "start": 2742.075,
+        "text": "peg to"
+      },
+      {
+        "end": 2748.014,
+        "id": 591,
+        "is_music": false,
+        "start": 2743.043,
+        "text": "a bass. Something that is considered stable so these coins are not supposed to"
+      },
+      {
+        "end": 2754.054,
+        "id": 592,
+        "is_music": false,
+        "start": 2748.015,
+        "text": "fluctuate so securities being stocks and bonds this bill says hey Libra all the"
+      },
+      {
+        "end": 2759.06,
+        "id": 593,
+        "is_music": false,
+        "start": 2754.073,
+        "text": "laws that apply to stocks and bonds are going to apply to you so then just to"
+      },
+      {
+        "end": 2762.026,
+        "id": 594,
+        "is_music": false,
+        "start": 2759.061,
+        "text": "clarify that would put like the f.c.c."
+      },
+      {
+        "end": 2767.013,
+        "id": 595,
+        "is_music": false,
+        "start": 2762.03,
+        "text": "In charge of regulating something like Libra and taking away from being"
+      },
+      {
+        "end": 2771.019,
+        "id": 596,
+        "is_music": false,
+        "start": 2767.014,
+        "text": "a fan at purely financial product sure would the f.c.c."
+      },
+      {
+        "end": 2775.051,
+        "id": 597,
+        "is_music": false,
+        "start": 2771.02,
+        "text": "And possibly other government regulators and of course the Fed has already said hey"
+      },
+      {
+        "end": 2781.067,
+        "id": 598,
+        "is_music": false,
+        "start": 2775.052,
+        "text": "we're going to be regulating you Libra and then the last one is on privacy trying"
+      },
+      {
+        "end": 2788.057,
+        "id": 599,
+        "is_music": false,
+        "start": 2781.068,
+        "text": "to hit the executives of Facebook because it says the issuers of stable coins would"
+      },
+      {
+        "end": 2791.067,
+        "id": 600,
+        "is_music": false,
+        "start": 2788.058,
+        "text": "not be able to raise money on u.s."
+      },
+      {
+        "end": 2796.031,
+        "id": 601,
+        "is_music": false,
+        "start": 2791.068,
+        "text": "Capital markets if they were paid with stable calling or if they worked with"
+      },
+      {
+        "end": 2801.031,
+        "id": 602,
+        "is_music": false,
+        "start": 2796.032,
+        "text": "someone who was a feeling aided the stable going so that would also be"
+      },
+      {
+        "end": 2804.002,
+        "id": 603,
+        "is_music": false,
+        "start": 2801.032,
+        "text": "a blow to Facebook it wouldn't be able to raise money and u.s."
+      },
+      {
+        "end": 2810.057,
+        "id": 604,
+        "is_music": false,
+        "start": 2804.003,
+        "text": "Capital Markets. It sort of broadly around these regulatory efforts and others I"
+      },
+      {
+        "end": 2815.037,
+        "id": 605,
+        "is_music": false,
+        "start": 2810.058,
+        "text": "mean you know just returning to the idea of keeping big tech out of finance that"
+      },
+      {
+        "end": 2820.035,
+        "id": 606,
+        "is_music": false,
+        "start": 2815.038,
+        "text": "ship has sailed it seems like we're really seeing big tech companies already"
+      },
+      {
+        "end": 2825.063,
+        "id": 607,
+        "is_music": false,
+        "start": 2820.036,
+        "text": "attempting to become financial institutions and digital currencies are just part of"
+      },
+      {
+        "end": 2832.052,
+        "id": 608,
+        "is_music": false,
+        "start": 2825.064,
+        "text": "that I mean I wonder how you see regulation in 2020 kind of scrambling to catch"
+      },
+      {
+        "end": 2837.092,
+        "id": 609,
+        "is_music": false,
+        "start": 2832.053,
+        "text": "up with techs ambitions around finance and banking and payments and cryptocurrency"
+      },
+      {
+        "end": 2842.056,
+        "id": 610,
+        "is_music": false,
+        "start": 2837.093,
+        "text": "Yes I think you're absolutely right I mean the horses already left the barn and I"
+      },
+      {
+        "end": 2844.005,
+        "id": 611,
+        "is_music": false,
+        "start": 2842.057,
+        "text": "think that Libra is such"
+      },
+      {
+        "end": 2850.009,
+        "id": 612,
+        "is_music": false,
+        "start": 2844.006,
+        "text": "a bold step that that's kind of where they're planting their flag and saying look"
+      },
+      {
+        "end": 2854.014,
+        "id": 613,
+        "is_music": false,
+        "start": 2850.013,
+        "text": "you really have to slow down here Facebook Marketplace's Nancy Marshall Genzer"
+      },
+      {
+        "end": 2858.004,
+        "id": 614,
+        "is_music": false,
+        "start": 2854.015,
+        "text": "reports on policy from our Washington bureau tomorrow on the show we chat with our"
+      },
+      {
+        "end": 2860.003,
+        "id": 615,
+        "is_music": false,
+        "start": 2858.005,
+        "text": "own Kimberly Adams also in d.c."
+      },
+      {
+        "end": 2864.029,
+        "id": 616,
+        "is_music": false,
+        "start": 2860.032,
+        "text": "About online political ads I'm Ali wood and that's markets. These tax"
+      },
+      {
+        "end": 2878.066,
+        "id": 617,
+        "is_music": false,
+        "start": 2864.03,
+        "text": "we"
+      },
+      {
+        "end": 2879.04,
+        "id": 618,
+        "is_music": false,
+        "start": 2879.011,
+        "text": "this is"
+      },
+      {
+        "end": 2896.09,
+        "id": 619,
+        "is_music": false,
+        "start": 2879.041,
+        "text": "a pm. Coming"
+      },
+      {
+        "end": 2897.067,
+        "id": 620,
+        "is_music": false,
+        "start": 2896.091,
+        "text": "up on cue from."
+      },
+      {
+        "end": 2998.003,
+        "id": 621,
+        "is_music": false,
+        "start": 2994.017,
+        "text": "The world's most challenging problems at the convergence of artificial intelligence"
+      },
+      {
+        "end": 3004.084,
+        "id": 622,
+        "is_music": false,
+        "start": 2998.003,
+        "text": ". I learned more in c 3. From marketplace in Austin"
+      },
+      {
+        "end": 3008.061,
+        "id": 623,
+        "is_music": false,
+        "start": 3004.085,
+        "text": "Texas I mean to you learn from David Brancaccio President Trump said during"
+      },
+      {
+        "end": 3011.048,
+        "id": 624,
+        "is_music": false,
+        "start": 3008.062,
+        "text": "a press conference last night that his administration plans to issue"
+      },
+      {
+        "end": 3014.057,
+        "id": 625,
+        "is_music": false,
+        "start": 3011.049,
+        "text": "a ban on meant fruit and sweet flavored milk"
+      },
+      {
+        "end": 3020.025,
+        "id": 626,
+        "is_music": false,
+        "start": 3014.058,
+        "text": "a treat nicotine Cartesians the idea is that it will curb teenage nicotine use"
+      },
+      {
+        "end": 3024.031,
+        "id": 627,
+        "is_music": false,
+        "start": 3020.033,
+        "text": "regulates Kandice men Rick as Rand has more on the proposed flavor ban and the"
+      },
+      {
+        "end": 3028.049,
+        "id": 628,
+        "is_music": false,
+        "start": 3024.032,
+        "text": "possible political implications for the president trying to ministration is"
+      },
+      {
+        "end": 3032.096,
+        "id": 629,
+        "is_music": false,
+        "start": 3028.05,
+        "text": "expected to announce this week that will ban meant fruit and dessert flavored East"
+      },
+      {
+        "end": 3036.098,
+        "id": 630,
+        "is_music": false,
+        "start": 3032.097,
+        "text": "cigarette cartridges in an attempt to curb the increase and under age of 8 being"
+      },
+      {
+        "end": 3041.024,
+        "id": 631,
+        "is_music": false,
+        "start": 3037.028,
+        "text": "the restriction would allow for menthol and tobacco flavors to remain on the market"
+      },
+      {
+        "end": 3046.061,
+        "id": 632,
+        "is_music": false,
+        "start": 3041.036,
+        "text": "and would only apply to pod based cartridges like those made by Jewel and enjoy not"
+      },
+      {
+        "end": 3050.069,
+        "id": 633,
+        "is_music": false,
+        "start": 3046.062,
+        "text": "to large tank beeping systems which aren't popular with children and teens"
+      },
+      {
+        "end": 3055.036,
+        "id": 634,
+        "is_music": false,
+        "start": 3051,
+        "text": "according to analysts the mentee and 40 flavors being banned represent 80 percent"
+      },
+      {
+        "end": 3056.084,
+        "id": 635,
+        "is_music": false,
+        "start": 3055.04,
+        "text": "of retail store sales"
+      },
+      {
+        "end": 3061.045,
+        "id": 636,
+        "is_music": false,
+        "start": 3056.091,
+        "text": "a hefty chunk of the $9000000000.00 industry allowing for the sale of menthol"
+      },
+      {
+        "end": 3062.063,
+        "id": 637,
+        "is_music": false,
+        "start": 3061.046,
+        "text": "flavored cartridges is"
+      },
+      {
+        "end": 3066.044,
+        "id": 638,
+        "is_music": false,
+        "start": 3062.064,
+        "text": "a compromise for the trumpet ministration which back in September said it would"
+      },
+      {
+        "end": 3066.088,
+        "id": 639,
+        "is_music": false,
+        "start": 3066.045,
+        "text": "drop"
+      },
+      {
+        "end": 3071.039,
+        "id": 640,
+        "is_music": false,
+        "start": 3066.089,
+        "text": "a plan to quickly do away with all flavors except for those formulated to taste like"
+      },
+      {
+        "end": 3076.001,
+        "id": 641,
+        "is_music": false,
+        "start": 3071.04,
+        "text": "tobacco but babying industry group successfully argued that they being as popular"
+      },
+      {
+        "end": 3079.091,
+        "id": 642,
+        "is_music": false,
+        "start": 3076.002,
+        "text": "in key battleground states that President Trump needs to win reelection"
+      },
+      {
+        "end": 3083.022,
+        "id": 643,
+        "is_music": false,
+        "start": 3080.031,
+        "text": "a cigarette companies will be able to apply to the f.d.a."
+      },
+      {
+        "end": 3087.081,
+        "id": 644,
+        "is_music": false,
+        "start": 3083.023,
+        "text": "For permission to bring flavored products back to the market but to do so they must"
+      },
+      {
+        "end": 3089.015,
+        "id": 645,
+        "is_music": false,
+        "start": 3087.082,
+        "text": "show that the products provide"
+      },
+      {
+        "end": 3094.07,
+        "id": 646,
+        "is_music": false,
+        "start": 3089.016,
+        "text": "a net benefit to public health I'm Kendis matter because ran for Marketplace. The"
+      },
+      {
+        "end": 3099.054,
+        "id": 647,
+        "is_music": false,
+        "start": 3094.071,
+        "text": "time's up movement against sexual assault and harassment is 2 years old today it"
+      },
+      {
+        "end": 3103.016,
+        "id": 648,
+        "is_music": false,
+        "start": 3099.055,
+        "text": "started as part of the me to campaign in response to sexual assault allegations"
+      },
+      {
+        "end": 3107.09,
+        "id": 649,
+        "is_music": false,
+        "start": 3103.017,
+        "text": "against Harvey Weinstein the Hollywood moguls trial is slated to start next week in"
+      },
+      {
+        "end": 3113.031,
+        "id": 650,
+        "is_music": false,
+        "start": 3107.091,
+        "text": "the meantime the times of movement has been busy Marketplace's Jasmine gars reports"
+      },
+      {
+        "end": 3118.049,
+        "id": 651,
+        "is_music": false,
+        "start": 3113.083,
+        "text": "Hollywood is changing slowly Kirsten Schaefer is the executive director of the"
+      },
+      {
+        "end": 3124.05,
+        "id": 652,
+        "is_music": false,
+        "start": 3118.05,
+        "text": "nonprofit women in film and the numbers of women directing television shows went up"
+      },
+      {
+        "end": 3129.043,
+        "id": 653,
+        "is_music": false,
+        "start": 3125.001,
+        "text": "significantly this year the numbers of women directing the big budget features just"
+      },
+      {
+        "end": 3134.015,
+        "id": 654,
+        "is_music": false,
+        "start": 3129.044,
+        "text": "went up for the 1st time she says studios have understood that lack of diversity or"
+      },
+      {
+        "end": 3139.09,
+        "id": 655,
+        "is_music": false,
+        "start": 3134.019,
+        "text": "sexual harassment scandal is just bad for business times ups Legal Defense Fund was"
+      },
+      {
+        "end": 3144.044,
+        "id": 656,
+        "is_music": false,
+        "start": 3139.091,
+        "text": "borne out of the criticism that the movement was too Hollywood centric it's raised"
+      },
+      {
+        "end": 3149.06,
+        "id": 657,
+        "is_music": false,
+        "start": 3144.045,
+        "text": "over $24000000.00 to help vulnerable women about half of that has been set aside"
+      },
+      {
+        "end": 3154.039,
+        "id": 658,
+        "is_music": false,
+        "start": 3149.061,
+        "text": "for lawsuits including some against McDonald's Sharon to Johnny is the funds"
+      },
+      {
+        "end": 3156.056,
+        "id": 659,
+        "is_music": false,
+        "start": 3154.04,
+        "text": "director to have people who are"
+      },
+      {
+        "end": 3162.046,
+        "id": 660,
+        "is_music": false,
+        "start": 3156.057,
+        "text": "a household name say no this happened to me too I think that really changed people"
+      },
+      {
+        "end": 3166.055,
+        "id": 661,
+        "is_music": false,
+        "start": 3162.047,
+        "text": "want to come forward and want to try to help with this issue to Johnny says there's"
+      },
+      {
+        "end": 3171.087,
+        "id": 662,
+        "is_music": false,
+        "start": 3166.056,
+        "text": "plenty to celebrate but there are still thousands more requests for assistance in"
+      },
+      {
+        "end": 3176.059,
+        "id": 663,
+        "is_music": false,
+        "start": 3171.088,
+        "text": "Los Angeles I'm just been guard for Marketplace if in the last 10 years you"
+      },
+      {
+        "end": 3182.084,
+        "id": 664,
+        "is_music": false,
+        "start": 3176.06,
+        "text": "invested in big tac Google Amazon Apple your portfolio might be thanking you over"
+      },
+      {
+        "end": 3183.059,
+        "id": 665,
+        "is_music": false,
+        "start": 3182.085,
+        "text": "that time the s. And p."
+      },
+      {
+        "end": 3189.051,
+        "id": 666,
+        "is_music": false,
+        "start": 3183.06,
+        "text": "Technology index surged 378 percent but don't expect the next 10 years to look"
+      },
+      {
+        "end": 3194.081,
+        "id": 667,
+        "is_music": false,
+        "start": 3189.055,
+        "text": "quite the same the B.B.C.'s Victoria Krag reports from London if big tech was the"
+      },
+      {
+        "end": 3199.046,
+        "id": 668,
+        "is_music": false,
+        "start": 3194.082,
+        "text": "standout investment trend of the 20 ten's in the next decade it's going to be all"
+      },
+      {
+        "end": 3204.041,
+        "id": 669,
+        "is_music": false,
+        "start": 3199.047,
+        "text": "about defining what rules it plays by that's the view from Geoffrey you head of"
+      },
+      {
+        "end": 3206.039,
+        "id": 670,
+        "is_music": false,
+        "start": 3204.042,
+        "text": "investment at u.b.s. In the u.k."
+      },
+      {
+        "end": 3211.048,
+        "id": 671,
+        "is_music": false,
+        "start": 3206.043,
+        "text": "Who says how companies react to slowing international expansion will be key when we"
+      },
+      {
+        "end": 3213.075,
+        "id": 672,
+        "is_music": false,
+        "start": 3211.049,
+        "text": "say 5 to you know what are we talking about is that"
+      },
+      {
+        "end": 3216.011,
+        "id": 673,
+        "is_music": false,
+        "start": 3213.076,
+        "text": "a child. These version of 5 Shias are going to be"
+      },
+      {
+        "end": 3217.052,
+        "id": 674,
+        "is_music": false,
+        "start": 3216.012,
+        "text": "a European version is it going to be"
+      },
+      {
+        "end": 3222.048,
+        "id": 675,
+        "is_music": false,
+        "start": 3217.053,
+        "text": "a Us version of Big possibly lies Asian has been the integration of different"
+      },
+      {
+        "end": 3223.047,
+        "id": 676,
+        "is_music": false,
+        "start": 3222.049,
+        "text": "technologies through"
+      },
+      {
+        "end": 3228.005,
+        "id": 677,
+        "is_music": false,
+        "start": 3223.048,
+        "text": "a common platform if this process is going to unwind How is that going to look like"
+      },
+      {
+        "end": 3232.076,
+        "id": 678,
+        "is_music": false,
+        "start": 3228.026,
+        "text": "on the global growth front economist Michael Hughes says stagnating expansion rates"
+      },
+      {
+        "end": 3237.038,
+        "id": 679,
+        "is_music": false,
+        "start": 3232.077,
+        "text": "could spell trouble for stock and bond markets excess money that's come into the"
+      },
+      {
+        "end": 3240.098,
+        "id": 680,
+        "is_music": false,
+        "start": 3237.039,
+        "text": "system will go more into the real economy and will be less of it to go into the"
+      },
+      {
+        "end": 3245.072,
+        "id": 681,
+        "is_music": false,
+        "start": 3240.099,
+        "text": "financial markets therefore while most asset classes performed better than their 20"
+      },
+      {
+        "end": 3248.007,
+        "id": 682,
+        "is_music": false,
+        "start": 3245.073,
+        "text": "year average last year Mr Hughes says"
+      },
+      {
+        "end": 3252.092,
+        "id": 683,
+        "is_music": false,
+        "start": 3248.011,
+        "text": "a repeat performance is unlikely in the year ahead in London I'm the B.B.C.'s"
+      },
+      {
+        "end": 3257.067,
+        "id": 684,
+        "is_music": false,
+        "start": 3252.093,
+        "text": "Victoria Craig for Marketplace. Here is where we do the numbers but markets are"
+      },
+      {
+        "end": 3261.094,
+        "id": 685,
+        "is_music": false,
+        "start": 3257.068,
+        "text": "closed on New Years Day where we can tell you is that Wall Street in the 210018"
+      },
+      {
+        "end": 3263.051,
+        "id": 686,
+        "is_music": false,
+        "start": 3261.095,
+        "text": "very high note the s. And p."
+      },
+      {
+        "end": 3269.01,
+        "id": 687,
+        "is_music": false,
+        "start": 3263.052,
+        "text": "500 and Nasdaq had their biggest annual percentage gains since 2013 the s.b."
+      },
+      {
+        "end": 3274.036,
+        "id": 688,
+        "is_music": false,
+        "start": 3269.011,
+        "text": "Benchmark saw an almost 190 percent gain the Dow had its biggest year to year gain"
+      },
+      {
+        "end": 3280.009,
+        "id": 689,
+        "is_music": false,
+        "start": 3274.04,
+        "text": "since 2017 Marketplace Morning Report is supported by Makushi online test prep for"
+      },
+      {
+        "end": 3282.041,
+        "id": 690,
+        "is_music": false,
+        "start": 3280.01,
+        "text": "the g.r. Read she met a c t n s a"
+      },
+      {
+        "end": 3286.06,
+        "id": 691,
+        "is_music": false,
+        "start": 3282.042,
+        "text": "t that's designed to improve scores students can get video lessons practice"
+      },
+      {
+        "end": 3292.015,
+        "id": 692,
+        "is_music": false,
+        "start": 3286.061,
+        "text": "questions and expert support on line of who shot com. Academics fly"
+      },
+      {
+        "end": 3296.011,
+        "id": 693,
+        "is_music": false,
+        "start": 3292.016,
+        "text": "a lot to do research to present their work but for those who study climate change"
+      },
+      {
+        "end": 3298.083,
+        "id": 694,
+        "is_music": false,
+        "start": 3296.012,
+        "text": "in particular this is a problem because flying can be"
+      },
+      {
+        "end": 3302.041,
+        "id": 695,
+        "is_music": false,
+        "start": 3298.084,
+        "text": "a big contributor to their carbon footprint in the Jacobs has more on the"
+      },
+      {
+        "end": 3306.051,
+        "id": 696,
+        "is_music": false,
+        "start": 3302.042,
+        "text": "conversations about how universities can reduce the amount of time faculty spend in"
+      },
+      {
+        "end": 3311.027,
+        "id": 697,
+        "is_music": false,
+        "start": 3306.052,
+        "text": "the air the last time California climate scientist Peter Kalmus flew on"
+      },
+      {
+        "end": 3314.038,
+        "id": 698,
+        "is_music": false,
+        "start": 3311.028,
+        "text": "a commercial airliner was in 2012 it was"
+      },
+      {
+        "end": 3319.036,
+        "id": 699,
+        "is_music": false,
+        "start": 3314.039,
+        "text": "a long flight to meet with research collaborators in Rome I'm going to give this"
+      },
+      {
+        "end": 3326.001,
+        "id": 700,
+        "is_music": false,
+        "start": 3319.037,
+        "text": "like 20 min to my work and as far as going for my career but it just felt like I"
+      },
+      {
+        "end": 3329.064,
+        "id": 701,
+        "is_music": false,
+        "start": 3326.002,
+        "text": "was kind of sort of steering from I can't tell Miss"
+      },
+      {
+        "end": 3334.079,
+        "id": 702,
+        "is_music": false,
+        "start": 3329.068,
+        "text": "a researcher at NASA is Jet Propulsion Lab founded the initiative no fly climate"
+      },
+      {
+        "end": 3339.068,
+        "id": 703,
+        "is_music": false,
+        "start": 3334.08,
+        "text": "site to support other academics trying to reduce their carbon footprint the"
+      },
+      {
+        "end": 3342.041,
+        "id": 704,
+        "is_music": false,
+        "start": 3339.069,
+        "text": "International Energy Agency estimates e.t.h."
+      },
+      {
+        "end": 3346.07,
+        "id": 705,
+        "is_music": false,
+        "start": 3342.042,
+        "text": "An accounted for about 2.5 percent of global energy related c"
+      },
+      {
+        "end": 3353.03,
+        "id": 706,
+        "is_music": false,
+        "start": 3346.071,
+        "text": "o 2 emissions in 2018 but flying less isn't always easy says Seth wines"
+      },
+      {
+        "end": 3354.016,
+        "id": 707,
+        "is_music": false,
+        "start": 3353.049,
+        "text": "a Ph d."
+      },
+      {
+        "end": 3360.066,
+        "id": 708,
+        "is_music": false,
+        "start": 3354.017,
+        "text": "Student at the University of British Columbia academics feel pressure go to all of"
+      },
+      {
+        "end": 3365.005,
+        "id": 709,
+        "is_music": false,
+        "start": 3360.067,
+        "text": "these different conferences and so on he and colleagues tried to calculate the"
+      },
+      {
+        "end": 3370.005,
+        "id": 710,
+        "is_music": false,
+        "start": 3365.006,
+        "text": "relationship between air travel and academic productivity using measures like the"
+      },
+      {
+        "end": 3375.074,
+        "id": 711,
+        "is_music": false,
+        "start": 3370.006,
+        "text": "number of papers published and he couldn't find one but reducing flight. It can"
+      },
+      {
+        "end": 3381.005,
+        "id": 712,
+        "is_music": false,
+        "start": 3375.075,
+        "text": "still affect an academic career for instance some universities count how many"
+      },
+      {
+        "end": 3384.074,
+        "id": 713,
+        "is_music": false,
+        "start": 3381.009,
+        "text": "international talks researchers give park Wildey is"
+      },
+      {
+        "end": 3389.065,
+        "id": 714,
+        "is_music": false,
+        "start": 3384.075,
+        "text": "a food economist at Tufts University there's lots of ways that universities can"
+      },
+      {
+        "end": 3395.056,
+        "id": 715,
+        "is_music": false,
+        "start": 3389.066,
+        "text": "change how do they evaluate faculty for promotion and for hiring several dozen"
+      },
+      {
+        "end": 3400.078,
+        "id": 716,
+        "is_music": false,
+        "start": 3395.057,
+        "text": "universities have bought some carbon offsets for faculty travel Professor lease met"
+      },
+      {
+        "end": 3405.044,
+        "id": 717,
+        "is_music": false,
+        "start": 3400.079,
+        "text": "the at Swarthmore College commenced his department Peace and Conflict Studies to"
+      },
+      {
+        "end": 3407.061,
+        "id": 718,
+        "is_music": false,
+        "start": 3405.045,
+        "text": "buy offsets for its travel as"
+      },
+      {
+        "end": 3412.073,
+        "id": 719,
+        "is_music": false,
+        "start": 3407.062,
+        "text": "a small program at the college we are trying to push the envelope and set some"
+      },
+      {
+        "end": 3418.065,
+        "id": 720,
+        "is_music": false,
+        "start": 3413.006,
+        "text": "standards smithy says professors can also push academic associations to try things"
+      },
+      {
+        "end": 3423.05,
+        "id": 721,
+        "is_music": false,
+        "start": 3418.066,
+        "text": "like conferences with regional hubs that avoid making people fly in from all over"
+      },
+      {
+        "end": 3429.05,
+        "id": 722,
+        "is_music": false,
+        "start": 3423.051,
+        "text": "the world in Montreal I measure for market place in Austin I'm and you are with the"
+      },
+      {
+        "end": 3431.081,
+        "id": 723,
+        "is_music": false,
+        "start": 3429.051,
+        "text": "Marketplace Morning Report from a.p.m."
+      },
+      {
+        "end": 3437.031,
+        "id": 724,
+        "is_music": false,
+        "start": 3431.093,
+        "text": "American Public Media in the middle of journalism school Chris Harlan Dunaway"
+      },
+      {
+        "end": 3444.003,
+        "id": 725,
+        "is_music": false,
+        "start": 3437.032,
+        "text": "thought to himself go I had always dreamt of racing my bike and. Ride my"
+      },
+      {
+        "end": 3448.086,
+        "id": 726,
+        "is_music": false,
+        "start": 3444.043,
+        "text": "so we moved to Belgium started racing and reporting and so I became obsessed with"
+      },
+      {
+        "end": 3453.008,
+        "id": 727,
+        "is_music": false,
+        "start": 3448.087,
+        "text": "finding the oldest people in the villages nearby what he uncovered was"
+      },
+      {
+        "end": 3458.068,
+        "id": 728,
+        "is_music": false,
+        "start": 3453.009,
+        "text": "a World War 2 American war crimes we know almost nothing about the next reveal"
+      },
+      {
+        "end": 3466.015,
+        "id": 729,
+        "is_music": false,
+        "start": 3459.016,
+        "text": "whizzes at 989.3 k p c c. Bringing Southern California"
+      },
+      {
+        "end": 3469.064,
+        "id": 730,
+        "is_music": false,
+        "start": 3466.016,
+        "text": "Public Radio to you $89.00 p.c.c."
+      },
+      {
+        "end": 3470.029,
+        "id": 731,
+        "is_music": false,
+        "start": 3469.068,
+        "text": "Pasadena"
+      },
+      {
+        "end": 3476.079,
+        "id": 732,
+        "is_music": false,
+        "start": 3470.058,
+        "text": "a community service of Pasadena City College and $90.00. Coachella Palm Springs"
+      },
+      {
+        "end": 3479.008,
+        "id": 733,
+        "is_music": false,
+        "start": 3476.094,
+        "text": "89.5 k j I"
+      },
+      {
+        "end": 3485.044,
+        "id": 734,
+        "is_music": false,
+        "start": 3479.009,
+        "text": "o and 89.10 are Redlands community service of the University of Redlands"
+      },
+      {
+        "end": 3487.079,
+        "id": 735,
+        "is_music": false,
+        "start": 3485.075,
+        "text": "online at k p c c dot org."
+      },
+      {
+        "end": 3498.075,
+        "id": 736,
+        "is_music": false,
+        "start": 3495.085,
+        "text": "Good morning President from faces an impeachment trial and"
+      },
+      {
+        "end": 3504.031,
+        "id": 737,
+        "is_music": false,
+        "start": 3498.076,
+        "text": "a whole lot of Democrats challenging him for the presidency. And tells us what to"
+      },
+      {
+        "end": 3507.071,
+        "id": 738,
+        "is_music": false,
+        "start": 3504.032,
+        "text": "expect in 2020 in this hour of Morning Edition from n.p.r."
+      },
+      {
+        "end": 3508.012,
+        "id": 739,
+        "is_music": false,
+        "start": 3507.072,
+        "text": "News."
+      },
+      {
+        "end": 3520.055,
+        "id": 740,
+        "is_music": false,
+        "start": 3516.017,
+        "text": "Many prison inmates cannot vote yet the census counts them as residents of the"
+      },
+      {
+        "end": 3525.042,
+        "id": 741,
+        "is_music": false,
+        "start": 3520.056,
+        "text": "areas where they are incarcerated I'm Steve Inskeep and I'm not there numbers shift"
+      },
+      {
+        "end": 3531.033,
+        "id": 742,
+        "is_music": false,
+        "start": 3525.043,
+        "text": "political power to those areas is that how they should work. Also this hour why"
+      },
+      {
+        "end": 3535.056,
+        "id": 743,
+        "is_music": false,
+        "start": 3531.034,
+        "text": "Will some flavors of reportedly be banned by the f.d.a."
+      },
+      {
+        "end": 3539.011,
+        "id": 744,
+        "is_music": false,
+        "start": 3535.091,
+        "text": "And the latest from Baghdad where protesters are camped outside the u.s."
+      },
+      {
+        "end": 3540.061,
+        "id": 745,
+        "is_music": false,
+        "start": 3539.012,
+        "text": "Embassy plus we remember"
+      },
+      {
+        "end": 3545.065,
+        "id": 746,
+        "is_music": false,
+        "start": 3540.062,
+        "text": "a voice heard on this show for decades It's Wednesday January 1st hip hop pioneer"
+      },
+      {
+        "end": 3552.054,
+        "id": 747,
+        "is_music": false,
+        "start": 3545.066,
+        "text": "Grandmaster Flash is 62 years old today. And the news is"
+      },
+      {
+        "end": 3559.03,
+        "id": 748,
+        "is_music": false,
+        "start": 3552.055,
+        "text": "next. Live from n.p.r. News in Washington I'm Dale will mean u.s."
+      },
+      {
+        "end": 3563.022,
+        "id": 749,
+        "is_music": false,
+        "start": 3559.031,
+        "text": "Forces have fired tear gas to break up demonstrators gathered outside the u.s."
+      },
+      {
+        "end": 3568.007,
+        "id": 750,
+        "is_music": false,
+        "start": 3563.023,
+        "text": "Embassy in Iraq today it's the 2nd day of protests there as N.P.R.'s Greg Myre"
+      },
+      {
+        "end": 3572.046,
+        "id": 751,
+        "is_music": false,
+        "start": 3568.008,
+        "text": "reports the protesters were throwing stones and calling for some 5000 u.s."
+      },
+      {
+        "end": 3576.085,
+        "id": 752,
+        "is_music": false,
+        "start": 3572.047,
+        "text": "Troops to leave Iraq the demonstrators placed tents and mattresses in the streets"
+      },
+      {
+        "end": 3577.069,
+        "id": 753,
+        "is_music": false,
+        "start": 3576.086,
+        "text": "outside the u.s."
+      },
+      {
+        "end": 3582.032,
+        "id": 754,
+        "is_music": false,
+        "start": 3577.07,
+        "text": "Embassy suggesting they plan an extended stay in the center of the Iraqi capital"
+      },
+      {
+        "end": 3584.056,
+        "id": 755,
+        "is_music": false,
+        "start": 3582.033,
+        "text": "Baghdad about $100.00 u.s."
+      },
+      {
+        "end": 3588.036,
+        "id": 756,
+        "is_music": false,
+        "start": 3584.057,
+        "text": "Marines have been flown in for additional security at the sprawling imbecility"
+      },
+      {
+        "end": 3591.023,
+        "id": 757,
+        "is_music": false,
+        "start": 3588.049,
+        "text": "already one of the most heavily fortified u.s."
+      },
+      {
+        "end": 3596.015,
+        "id": 758,
+        "is_music": false,
+        "start": 3591.024,
+        "text": "Diplomatic compounds in the world the demonstrators support in Iraq the militia"
+      },
+      {
+        "end": 3600.073,
+        "id": 759,
+        "is_music": false,
+        "start": 3596.031,
+        "text": "that's closely aligned with neighboring Iran they were met with tear gas as they"
+      },
+      {
+        "end": 3603,
+        "id": 760,
+        "is_music": false,
+        "start": 3600.074,
+        "text": "threw stones at the embassy on Wednesday"
+      },
+      {
+        "end": 3606.028,
+        "id": 761,
+        "is_music": false,
+        "start": 3603.034,
+        "text": "a day earlier they set fires and badly damaged"
+      },
+      {
+        "end": 3611.012,
+        "id": 762,
+        "is_music": false,
+        "start": 3606.029,
+        "text": "a reception area however they have not breached the main embassy compound which is"
+      },
+      {
+        "end": 3615.047,
+        "id": 763,
+        "is_music": false,
+        "start": 3611.013,
+        "text": "surrounded by high walls and barbed wire Greg Myre e n.p.r."
+      },
+      {
+        "end": 3620.029,
+        "id": 764,
+        "is_music": false,
+        "start": 3615.048,
+        "text": "News Washington tens of thousands of pro-democracy protesters March this morning in"
+      },
+      {
+        "end": 3625.015,
+        "id": 765,
+        "is_music": false,
+        "start": 3620.03,
+        "text": "Hong Kong there demanding an independent investigation into police actions amnesty"
+      },
+      {
+        "end": 3629.085,
+        "id": 766,
+        "is_music": false,
+        "start": 3625.016,
+        "text": "for the thousands of people arrested so far and full democracy police fired tear"
+      },
+      {
+        "end": 3633.096,
+        "id": 767,
+        "is_music": false,
+        "start": 3629.086,
+        "text": "gas before the event was halted the B.B.C.'s Jonathan Head reports that on New"
+      },
+      {
+        "end": 3637.099,
+        "id": 768,
+        "is_music": false,
+        "start": 3633.097,
+        "text": "Year's Eve riot police also fired tear gas and deployed water cannons."
+      }
+    ],
+    "uniq": 1004633608,
+    "workable_servers": [
+      "ia903109.us.archive.org",
+      "ia803109.us.archive.org"
+    ]
+  }
+}

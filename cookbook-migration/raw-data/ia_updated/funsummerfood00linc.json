@@ -1,0 +1,490 @@
+{
+  "source": "internet_archive",
+  "identifier": "funsummerfood00linc",
+  "title": "Fun summer food",
+  "creator": "Publications International, Ltd.",
+  "year": 2004,
+  "subject": "Cookery",
+  "description": null,
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/funsummerfood00linc"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790004.ca.archive.org",
+          "dir": "/0/items/funsummerfood00linc"
+        }
+      ]
+    },
+    "created": 1758555124,
+    "d1": "ia600507.us.archive.org",
+    "d2": "ia800507.us.archive.org",
+    "dir": "/30/items/funsummerfood00linc",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660057337",
+        "size": "27064",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "1b296e8034ca0b187a919f3cfcaaeb8f",
+        "crc32": "4debb89e",
+        "sha1": "5763b8b917f8e74239215388c1d3c3defd9c43cc"
+      },
+      {
+        "name": "funsummerfood00linc.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.62",
+        "format": "EPUB",
+        "original": "funsummerfood00linc_hocr.html",
+        "mtime": "1753373233",
+        "size": "12618401",
+        "private": "true",
+        "md5": "26734cfd2d20bc16550fd55427bfa161",
+        "crc32": "c8ca009b",
+        "sha1": "aaa95fdf4151e4948dc8bae4a689071a28b63015"
+      },
+      {
+        "name": "funsummerfood00linc.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "funsummerfood00linc_jp2.zip",
+        "md5": "2e37324435322b234abf25e7c8eb3e9f",
+        "mtime": "1274497227",
+        "size": "209545",
+        "crc32": "61e58422",
+        "sha1": "e46449fa7ee61de34ce370b26da6bd432f549051"
+      },
+      {
+        "name": "funsummerfood00linc.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "funsummerfood00linc.pdf",
+        "mtime": "1753373000",
+        "size": "5419241",
+        "md5": "df1e1627dfb2b10e4041295d3d6d5ded",
+        "crc32": "37573a12",
+        "sha1": "5019e8d40407d7caae0f5ef2761874c90f4d5e62"
+      },
+      {
+        "name": "funsummerfood00linc.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "funsummerfood00linc_page_numbers.json",
+        "mtime": "1721555335",
+        "size": "5130590",
+        "md5": "ef5f4cfa4baa82cfcb7c333132771d35",
+        "crc32": "8e0ed763",
+        "sha1": "375b141025cbe730c9029c6f0aa82697818ca2b5",
+        "private": "true"
+      },
+      {
+        "name": "funsummerfood00linc_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "funsummerfood00linc_jp2.zip",
+        "md5": "a7056bdb8cedab69466cfcce3f9cc927",
+        "mtime": "1274508589",
+        "size": "706025",
+        "crc32": "ff93dd79",
+        "sha1": "9eae67dc210424410dc020c9a1b8b3cbad4b3288",
+        "private": "true"
+      },
+      {
+        "name": "funsummerfood00linc_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "funsummerfood00linc_abbyy.gz",
+        "mtime": "1660056535",
+        "size": "575183",
+        "md5": "496f5450f846668886f39dbaedb9541f",
+        "crc32": "e746caf3",
+        "sha1": "242d6e4be89001a2809345065e9be15a1712cccd",
+        "private": "true"
+      },
+      {
+        "name": "funsummerfood00linc_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "funsummerfood00linc_scandata.xml",
+        "mtime": "1670052610",
+        "size": "768",
+        "md5": "71aa78d6b0c8f426bc07a482d63e381e",
+        "crc32": "05e39174",
+        "sha1": "02bab436da3834a1bfbfde5e659d8f8b265bb3fa",
+        "private": "true"
+      },
+      {
+        "name": "funsummerfood00linc_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "4ec6e555de02872f951fdf1f43bd48ec",
+        "mtime": "1273774712",
+        "size": "482",
+        "crc32": "f19d84a2",
+        "sha1": "148acd9d8a62e1a7e2a5fcd7e00db4f1ee81db66"
+      },
+      {
+        "name": "funsummerfood00linc_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "funsummerfood00linc_djvu.xml",
+        "mtime": "1721555606",
+        "size": "52851",
+        "md5": "67e0f3e99d6f1ef2290e6f7beb69fd7b",
+        "crc32": "7079efe1",
+        "sha1": "032eaa665ba8fc230a22e17d24c6d5fd39fe34a2",
+        "private": "true"
+      },
+      {
+        "name": "funsummerfood00linc_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "funsummerfood00linc_hocr.html",
+        "mtime": "1721552815",
+        "size": "642583",
+        "md5": "c5458fb8fb8f67a9ca200ee4bd355cde",
+        "crc32": "1139cd0a",
+        "sha1": "6c721492d7d31790fee623d6954ca454fed3fd5a",
+        "private": "true"
+      },
+      {
+        "name": "funsummerfood00linc_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "funsummerfood00linc.pdf",
+        "mtime": "1721555608",
+        "size": "5112266",
+        "md5": "a52a4b68706b0c26ce440276147b30f7",
+        "crc32": "67306dbd",
+        "sha1": "c701b0dcdd87bf1f406b2f6287c891dd16b47f6a"
+      },
+      {
+        "name": "funsummerfood00linc_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "56785d75970c30470d23aae873bcbbe7",
+        "summation": "md5"
+      },
+      {
+        "name": "funsummerfood00linc_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "funsummerfood00linc_chocr.html.gz",
+        "mtime": "1660056928",
+        "size": "1252207",
+        "md5": "6624757a1da950eeca0af5ae61d44363",
+        "crc32": "af85f695",
+        "sha1": "b55b73c61c347884dba8c406acde3b0cdb59f307",
+        "private": "true"
+      },
+      {
+        "name": "funsummerfood00linc_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "funsummerfood00linc_hocr.html",
+        "mtime": "1660057152",
+        "size": "794",
+        "md5": "bc20555d3ac8e8454d1b5d8fbcf4782e",
+        "crc32": "d3cea28a",
+        "sha1": "6f5230c5d2cb222d897dc1c524eb0321097011eb",
+        "private": "true"
+      },
+      {
+        "name": "funsummerfood00linc_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "899",
+        "word_conf_11_20": "294",
+        "word_conf_21_30": "529",
+        "word_conf_31_40": "409",
+        "word_conf_41_50": "892",
+        "word_conf_51_60": "1039",
+        "word_conf_61_70": "1429",
+        "word_conf_71_80": "974",
+        "word_conf_81_90": "311",
+        "word_conf_91_100": "575",
+        "format": "OCR Search Text",
+        "original": "funsummerfood00linc_hocr.html",
+        "mtime": "1660057314",
+        "size": "17448",
+        "md5": "83203d5f77f83ef29a74f9db0ec6e428",
+        "crc32": "75488ca4",
+        "sha1": "6d2a3ba7f9311460ded45778ab4ae5e7c51748dc",
+        "private": "true"
+      },
+      {
+        "name": "funsummerfood00linc_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "funsummerfood00linc_orig_jp2.tar",
+        "md5": "10acfe90f77d5120454b455bab6bdc53",
+        "mtime": "1274497182",
+        "size": "20737468",
+        "crc32": "3f78dc31",
+        "sha1": "e9e81913a9051fba7fe0a5c7e4c85c744825e8fe",
+        "private": "true",
+        "filecount": "78"
+      },
+      {
+        "name": "funsummerfood00linc_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "funsummerfood00linc.epub",
+        "mtime": "1753373431",
+        "size": "12677217",
+        "md5": "b40b4b934c8dadec3f97e863b5489556",
+        "crc32": "258fcc90",
+        "sha1": "a3cd44b2af7c033b15277b713df7b96625471b97"
+      },
+      {
+        "name": "funsummerfood00linc_loans.json",
+        "source": "original",
+        "mtime": "1593726522",
+        "size": "1890",
+        "format": "JSON",
+        "private": "true",
+        "md5": "cbcbdd877669d42ea05453cb34f18993",
+        "crc32": "598b406a",
+        "sha1": "f79714d9e9fe650fe722d2c52b3f4db73fba8a76"
+      },
+      {
+        "name": "funsummerfood00linc_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "467eda9f5ab20b3938abfd644d00cf3e",
+        "mtime": "1273774712",
+        "size": "1747",
+        "crc32": "3e7546b7",
+        "sha1": "762171473c7db8dcaa23f039f1921c2b10e69545"
+      },
+      {
+        "name": "funsummerfood00linc_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "funsummerfood00linc_xisbn.json",
+        "mtime": "1454414195",
+        "size": "241",
+        "md5": "49c9665ca648b822bc48cceb11d26063",
+        "crc32": "0a3a3d3b",
+        "sha1": "c8098a6dfff6e0d4d6f9f455fc533481301d2507",
+        "private": "true"
+      },
+      {
+        "name": "funsummerfood00linc_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "64a68f95dc3ee41c1d1a60b7c15596c2",
+        "mtime": "1273774712",
+        "size": "526",
+        "crc32": "dcef7499",
+        "sha1": "88ab3de2d6df47e04e02ceb9d283d321fd50a262"
+      },
+      {
+        "name": "funsummerfood00linc_meta.sqlite",
+        "source": "original",
+        "mtime": "1464340873",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "9dd94ac8cd4ceebd106f7d723f2e8e7c",
+        "crc32": "fca8a2f4",
+        "sha1": "b79a5baab888e8e3dc05f333222aabdbdfe0e83a"
+      },
+      {
+        "name": "funsummerfood00linc_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1753373431",
+        "size": "2819",
+        "md5": "bff45a22bd7c81ce84917f8ebb712498",
+        "crc32": "c8d6a41e",
+        "sha1": "6b6c52ea683f1a6752ae88d20684a1b0690e5733"
+      },
+      {
+        "name": "funsummerfood00linc_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "1dac23102aa0e7bc083f12618d32f777",
+        "mtime": "1273774712",
+        "size": "477",
+        "crc32": "744f2042",
+        "sha1": "072f712b93b3feb58a160d9912f3fca26632d01c"
+      },
+      {
+        "name": "funsummerfood00linc_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "4e6148f9ef87d6a9aa7da65089eabdb0",
+        "mtime": "1274496626",
+        "size": "36167680",
+        "crc32": "8ea279d2",
+        "sha1": "097799c3f2be63c20810796747d748f830f17c84",
+        "private": "true",
+        "filecount": "78"
+      },
+      {
+        "name": "funsummerfood00linc_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "funsummerfood00linc_hocr.html",
+        "mtime": "1721554184",
+        "size": "12315",
+        "md5": "4690f782711e4ff31f5eaa85c3154f96",
+        "crc32": "f781fdce",
+        "sha1": "268c2cf26e1424be1a7c993ada61b25fa7cc9351",
+        "private": "true"
+      },
+      {
+        "name": "funsummerfood00linc_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "f6c563cea59be3ebf619fadc7a9c265f",
+        "mtime": "1670052610",
+        "size": "40130",
+        "crc32": "cc301d27",
+        "sha1": "20d7166870cc797460626ef7451197920482be14"
+      },
+      {
+        "name": "funsummerfood00linc_xisbn.json",
+        "source": "original",
+        "mtime": "1454387850",
+        "size": "267",
+        "md5": "9aad7bd19aacbb10eb7c836e622fe526",
+        "crc32": "b576825e",
+        "sha1": "27663aad0f6d336599f230601f78074369f54db6",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1753373431,
+    "item_size": 101414369,
+    "metadata": {
+      "title": "Fun summer food",
+      "creator": "Publications International, Ltd.",
+      "subject": "Cookery",
+      "publisher": "Lincolnwood, IL : Publications International",
+      "date": "2004-01-01",
+      "language": "eng",
+      "isbn": [
+        "141272015X",
+        "9781412720151"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA119102",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "sfdowntown",
+      "mediatype": "texts",
+      "updatedate": "2010-05-13 18:18:32",
+      "updater": "MerciG",
+      "identifier": "funsummerfood00linc",
+      "uploader": "scanner-merci-gunawan@archive.org",
+      "addeddate": "2010-05-13 18:18:34",
+      "publicdate": "2010-05-13 18:18:46",
+      "ppi": "400",
+      "camera": "Canon 5D",
+      "operator": "scanner-michelle-ramirez@archive.org",
+      "scanner": "scribe11.sfdowntown.archive.org",
+      "scandate": "20100522024203",
+      "imagecount": "76",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/funsummerfood00linc",
+      "identifier-ark": "ark:/13960/t12n5t41b",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20100604074659[/date][state]approved[/state]",
+      "repub_state": "4",
+      "donor": "alibris",
+      "external-identifier": [
+        "urn:acs6:funsummerfood00linc:pdf:f1c36194-18d8-40c8-a598-105ee81a30c0",
+        "urn:acs6:funsummerfood00linc:epub:d528f152-758c-44a5-b4b7-8d269f0e54b6",
+        "urn:oclc:record:1035153037",
+        "urn:lcp:funsummerfood00linc:lcpdf:1c38b407-beae-4d70-a516-dce672f5b285",
+        "urn:lcp:funsummerfood00linc:epub:64295a83-bd8d-4e87-812d-6d69691a0139"
+      ],
+      "city": "Lincolnwood, IL",
+      "oclc-id": "60572680",
+      "backup_location": "ia903605_15",
+      "openlibrary_edition": "OL24238168M",
+      "openlibrary_work": "OL18063170W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Thu Dec 24 9:29:53 UTC 2020",
+        "Wed Apr 3 3:11:10 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia800507.us.archive.org",
+    "uniq": 1683491788,
+    "workable_servers": [
+      "ia800507.us.archive.org",
+      "ia600507.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "publisher": "Publications International",
+          "url": [
+            "http://www.worldcat.org/oclc/60572680?referer=xid"
+          ],
+          "form": [
+            "BA"
+          ],
+          "lang": "eng",
+          "city": "Lincolnwood, IL",
+          "year": "2004",
+          "isbn": [
+            "141272015X"
+          ],
+          "title": "Fun summer food.",
+          "oclcnum": [
+            "60572680"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Publications International, Ltd.",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}

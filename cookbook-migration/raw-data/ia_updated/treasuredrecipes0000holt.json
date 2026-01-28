@@ -1,0 +1,513 @@
+{
+  "source": "internet_archive",
+  "identifier": "treasuredrecipes0000holt",
+  "title": "Treasured recipes from the shipwreck coast",
+  "creator": "Holt, Jan M",
+  "year": 1996,
+  "subject": [
+    "Cooking, American",
+    "Cooking -- Michigan -- Whitefish Point"
+  ],
+  "description": [
+    "143 p. : 24 cm",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/treasuredrecipes0000holt"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790005.ca.archive.org",
+          "dir": "/0/items/treasuredrecipes0000holt"
+        }
+      ]
+    },
+    "created": 1758557148,
+    "d1": "ia601702.us.archive.org",
+    "d2": "ia801702.us.archive.org",
+    "dir": "/32/items/treasuredrecipes0000holt",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661185671",
+        "size": "16607",
+        "md5": "a5706c4e6c84e16bb558e2b99163760a",
+        "crc32": "7414c794",
+        "sha1": "45e18883e343d6eda3af2ecbb0377a60afb7d0ed",
+        "format": "Item Tile",
+        "rotation": "0"
+      },
+      {
+        "name": "logs/treasuredrecipes0000holt_iabdash_2020-10-0208:24:17.log",
+        "source": "original",
+        "mtime": "1601598268",
+        "size": "1366",
+        "md5": "8d4d41f734b77d9dc30d942751888e05",
+        "crc32": "32ea8b19",
+        "sha1": "34d5a7570d16a3733c2c499ec2686ac3ef0d0934",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/treasuredrecipes0000holt_scanning_2020-10-0208:24:47.log",
+        "source": "original",
+        "mtime": "1601598294",
+        "size": "422778",
+        "md5": "2ea373638c44f167f208134aa14cd45c",
+        "crc32": "b031bc87",
+        "sha1": "5fc419465557ab5ea094249be3e7f622d08ea498",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/treasuredrecipes0000holt_scanning_2020-10-0715:00:40.log",
+        "source": "original",
+        "mtime": "1602054042",
+        "size": "192794",
+        "md5": "74d7309bee86c3b383d2a3958a500ebf",
+        "crc32": "1cec09fc",
+        "sha1": "54ac9cdbf7b20754a2a1ce813a5316bb1be9795a",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "logs/treasuredrecipes0000holt_status_history_2020-10-0208:24:32.log",
+        "source": "original",
+        "mtime": "1601598282",
+        "size": "410",
+        "md5": "e227e68bdd09ed6ce17968ad0808dfc8",
+        "crc32": "10066f97",
+        "sha1": "9515b20792f918df5d9fb0ef2cef94a327e93d53",
+        "format": "Log",
+        "private": "true"
+      },
+      {
+        "name": "treasuredrecipes0000holt.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "treasuredrecipes0000holt_hocr.html",
+        "mtime": "1754129644",
+        "size": "18449195",
+        "private": "true",
+        "md5": "75c082f6d605b3e61f3da08986d251b9",
+        "crc32": "aa27de41",
+        "sha1": "6f5686aca0255ec79303614992d8f466bad79465"
+      },
+      {
+        "name": "treasuredrecipes0000holt.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "treasuredrecipes0000holt.pdf",
+        "mtime": "1754129212",
+        "size": "8061604",
+        "md5": "65cd286665ebeaa5507ffb713dd7a6d8",
+        "crc32": "ebd5b0b9",
+        "sha1": "1af10d09365197e52f28bdce18485e88b915d4cc"
+      },
+      {
+        "name": "treasuredrecipes0000holt.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "treasuredrecipes0000holt_page_numbers.json",
+        "mtime": "1721358820",
+        "size": "7439713",
+        "md5": "1976fd63727c3c94b42ad8e252d40a73",
+        "crc32": "3650d5a0",
+        "sha1": "50bf78d2b53a097f872ced794d1d9d53e28e02a8",
+        "private": "true"
+      },
+      {
+        "name": "treasuredrecipes0000holt_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "treasuredrecipes0000holt_jp2.zip",
+        "mtime": "1602167922",
+        "size": "2164057",
+        "md5": "e9ba4372d7010cb97664d97dbde6be3f",
+        "crc32": "88fd019c",
+        "sha1": "6396c13bdbb15851d0206c1ba2084e964e4609d7",
+        "private": "true"
+      },
+      {
+        "name": "treasuredrecipes0000holt_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "treasuredrecipes0000holt_abbyy.gz",
+        "mtime": "1661185210",
+        "size": "1730938",
+        "md5": "138205c080f731fb9545bd7c5b7af3e2",
+        "crc32": "c407d4d8",
+        "sha1": "1bcc15f1f0150d08e107f7a00baaf1b6a17ceda6",
+        "private": "true"
+      },
+      {
+        "name": "treasuredrecipes0000holt_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "treasuredrecipes0000holt_scandata.xml",
+        "mtime": "1671508463",
+        "size": "789",
+        "md5": "891f06b29d0f1133d0e9efa519879d1f",
+        "crc32": "265de724",
+        "sha1": "2b16f6c80c970cc69b2c2a73f1af1d6463bb3daf",
+        "private": "true"
+      },
+      {
+        "name": "treasuredrecipes0000holt_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1602159555",
+        "size": "1059",
+        "md5": "e27c6ae8df7660f8cc0c5db34a2b9bee",
+        "crc32": "6149a39e",
+        "sha1": "7046e0a87f2481873d4c5f0d4f25468ca6b18898"
+      },
+      {
+        "name": "treasuredrecipes0000holt_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "treasuredrecipes0000holt_djvu.xml",
+        "mtime": "1721359233",
+        "size": "154779",
+        "md5": "30d9ff70b48226748f1088792d48f07f",
+        "crc32": "150cd518",
+        "sha1": "da680df5e0ac3b426c09762efa265ebff6f0cb21",
+        "private": "true"
+      },
+      {
+        "name": "treasuredrecipes0000holt_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "treasuredrecipes0000holt_hocr.html",
+        "mtime": "1721357549",
+        "size": "1986488",
+        "md5": "212cb64a4bdeb16083392345c5f933ab",
+        "crc32": "6444919c",
+        "sha1": "29556f98c581f50b87353659c3ddce3822fe3f13",
+        "private": "true"
+      },
+      {
+        "name": "treasuredrecipes0000holt_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "treasuredrecipes0000holt_abbyy.gz",
+        "mtime": "1602168086",
+        "size": "8803717",
+        "md5": "da18f2da59026da7f1032f1b6dfe53bb",
+        "crc32": "badf105c",
+        "sha1": "933e165c199c85566982665d4e69d1f100df97fe"
+      },
+      {
+        "name": "treasuredrecipes0000holt_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "treasuredrecipes0000holt.pdf",
+        "mtime": "1721359236",
+        "size": "7402221",
+        "md5": "278a3e4e1f63e32645d6ebf81fe30933",
+        "crc32": "11d97702",
+        "sha1": "3fe4c2fd45e7b657aeba7c57d7e156f3bd020819"
+      },
+      {
+        "name": "treasuredrecipes0000holt_events.json",
+        "source": "original",
+        "mtime": "1602150021",
+        "size": "115",
+        "md5": "667aa48f04c58d0a189d298198994c5b",
+        "crc32": "302c659c",
+        "sha1": "6f6a2c95b09cf2ddc75a43b6e746c858c40901e6",
+        "format": "JSON",
+        "private": "true"
+      },
+      {
+        "name": "treasuredrecipes0000holt_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "8dc5659998da44d3fad075814f50acda",
+        "summation": "md5"
+      },
+      {
+        "name": "treasuredrecipes0000holt_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "treasuredrecipes0000holt_chocr.html.gz",
+        "mtime": "1661185599",
+        "size": "4320988",
+        "md5": "93480af9e4ffcb160a5fc7b19f7a41b7",
+        "crc32": "f3e5a116",
+        "sha1": "3784a22d3f7a80e6574706a8fc7ff6ad44de8943",
+        "private": "true"
+      },
+      {
+        "name": "treasuredrecipes0000holt_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "treasuredrecipes0000holt_hocr.html",
+        "mtime": "1661185627",
+        "size": "1726",
+        "md5": "0a550a525c2d446059a5f587ba98df67",
+        "crc32": "ba8d0b4c",
+        "sha1": "4a06e2eb4e8275c563acfc8ed58331073add98a5",
+        "private": "true"
+      },
+      {
+        "name": "treasuredrecipes0000holt_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "163",
+        "word_conf_11_20": "129",
+        "word_conf_21_30": "207",
+        "word_conf_31_40": "227",
+        "word_conf_41_50": "390",
+        "word_conf_51_60": "401",
+        "word_conf_61_70": "705",
+        "word_conf_71_80": "1312",
+        "word_conf_81_90": "3399",
+        "word_conf_91_100": "15686",
+        "format": "OCR Search Text",
+        "original": "treasuredrecipes0000holt_hocr.html",
+        "mtime": "1661185654",
+        "size": "38816",
+        "md5": "de5bf5812142300af7868c40657f4838",
+        "crc32": "ffcfc1a8",
+        "sha1": "b17ec5e5026de795505102d724b1b61c879902fd",
+        "private": "true"
+      },
+      {
+        "name": "treasuredrecipes0000holt_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "treasuredrecipes0000holt_orig_jp2.tar",
+        "mtime": "1602162583",
+        "size": "69491674",
+        "md5": "19b84fc97e1734c4084d754e3a57d73f",
+        "crc32": "9428c816",
+        "sha1": "50669749a8653666032909095d4b36edab586bfb",
+        "private": "true",
+        "filecount": "150"
+      },
+      {
+        "name": "treasuredrecipes0000holt_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "treasuredrecipes0000holt.epub",
+        "mtime": "1754130108",
+        "size": "18603843",
+        "md5": "a1466f35f9944b77992dad3c857ed407",
+        "crc32": "b4b2a8e5",
+        "sha1": "8405527b7b32f1b3501b8cfc80cab4ac9c0c12f0"
+      },
+      {
+        "name": "treasuredrecipes0000holt_marc.xml",
+        "source": "original",
+        "mtime": "1601598254",
+        "size": "2435",
+        "md5": "901a8ceeb81c2aea0154ee77137d174f",
+        "crc32": "9e09eab2",
+        "sha1": "e409bd3ee852a027253705062254e33b0367a5c7",
+        "format": "MARC"
+      },
+      {
+        "name": "treasuredrecipes0000holt_meta.mrc",
+        "source": "original",
+        "mtime": "1601598250",
+        "size": "766",
+        "md5": "90ef15effcd44f8439acfa77779f45d9",
+        "crc32": "b63114a8",
+        "sha1": "36de103891c334c77487813e4f12c6afc2d84f18",
+        "format": "MARC Binary"
+      },
+      {
+        "name": "treasuredrecipes0000holt_meta.sqlite",
+        "source": "original",
+        "mtime": "1602159402",
+        "size": "25600",
+        "md5": "28e85b14a81546c232e10b46b8774803",
+        "crc32": "9c3f03d6",
+        "sha1": "3622e9cbda52f83415206cb9f4bb96e75e3f5171",
+        "format": "Metadata"
+      },
+      {
+        "name": "treasuredrecipes0000holt_meta.xml",
+        "source": "original",
+        "mtime": "1754130108",
+        "size": "3143",
+        "md5": "73e279145975a65968ea15d0fd472979",
+        "crc32": "59d2eef5",
+        "sha1": "f3f19d99a4c7afcbdfcd01d5c1b6395bdce3c732",
+        "format": "Metadata"
+      },
+      {
+        "name": "treasuredrecipes0000holt_orig_jp2.tar",
+        "source": "original",
+        "mtime": "1602159399",
+        "size": "285521920",
+        "md5": "de3da49a8ad2ff7a955abfe7619e9282",
+        "crc32": "f6fb5bef",
+        "sha1": "c4ee72b595d458be63104ee8b62c0d3523bb6139",
+        "format": "Single Page Original JP2 Tar",
+        "private": "true",
+        "filecount": "150"
+      },
+      {
+        "name": "treasuredrecipes0000holt_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "99",
+        "format": "Page Numbers JSON",
+        "original": "treasuredrecipes0000holt_hocr.html",
+        "mtime": "1721357792",
+        "size": "24835",
+        "md5": "d27f7d1511d8f879699044823a731d2c",
+        "crc32": "4488d2fd",
+        "sha1": "7ab6e231a30af1afd916755cb14464bdaf10a1a6",
+        "private": "true"
+      },
+      {
+        "name": "treasuredrecipes0000holt_scandata.xml",
+        "source": "original",
+        "mtime": "1671508463",
+        "size": "154550",
+        "md5": "260ec3312a0e4461c29ce4ad8daf08f4",
+        "crc32": "632d47b8",
+        "sha1": "83cf7bbf4c8457b957ceb3360f92efd8e067cfe7",
+        "format": "Scandata"
+      },
+      {
+        "name": "treasuredrecipes0000holt_slip.png",
+        "source": "original",
+        "mtime": "1601597305",
+        "size": "40122",
+        "md5": "819664333c8b24c6cc6a6f91bdf4fc2d",
+        "crc32": "7ef357f3",
+        "sha1": "633cb773eb10ba904f80d87a32239e86531ade7c",
+        "format": "PNG",
+        "private": "true"
+      },
+      {
+        "name": "treasuredrecipes0000holt_slip_thumb.jpg",
+        "source": "derivative",
+        "format": "JPEG Thumb",
+        "original": "treasuredrecipes0000holt_slip.png",
+        "mtime": "1602159595",
+        "size": "5710",
+        "md5": "6d837ac0d3a5060dd20d208758b161b7",
+        "crc32": "07ea1214",
+        "sha1": "3ba47063af313b8e42c13cc1e738216f88c80f51",
+        "private": "true"
+      }
+    ],
+    "files_count": 32,
+    "item_last_updated": 1754130108,
+    "item_size": 435064758,
+    "metadata": {
+      "identifier": "treasuredrecipes0000holt",
+      "boxid": "IA1960514",
+      "camera": "USB PTP Class Camera",
+      "collection_set": "printdisabled",
+      "contributor": "Internet Archive",
+      "creator": "Holt, Jan M",
+      "date": "1996-01-01",
+      "description": [
+        "143 p. : 24 cm",
+        "Includes index"
+      ],
+      "isbn": "0965184404",
+      "language": "eng",
+      "lccn": "96085091",
+      "mediatype": "texts",
+      "old_pallet": "IA18306",
+      "openlibrary_edition": "OL1022497M",
+      "openlibrary_work": "OL3374814W",
+      "operator": "associate-harveyjhun-estiola@archive.org",
+      "ppi": "300",
+      "publisher": "Sault Ste. Marie, Mich. : Great Lakes Shipwreck Historical Society",
+      "rcs_key": "24143",
+      "repub_state": "19",
+      "scanner": "station58.cebu.archive.org",
+      "scanningcenter": "cebu",
+      "scribe3_search_catalog": "isbn",
+      "scribe3_search_id": "9780965184403",
+      "subject": [
+        "Cooking, American",
+        "Cooking -- Michigan -- Whitefish Point"
+      ],
+      "title": "Treasured recipes from the shipwreck coast",
+      "tts_version": "4.1-initial-58-gfeb51ea3",
+      "uploader": "station58.cebu@archive.org",
+      "publicdate": "2020-10-02 00:08:46",
+      "access-restricted-item": "true",
+      "imagecount": "150",
+      "scandate": "20201002011732",
+      "sent_to_scribe": "station58.cebu.archive.org",
+      "republisher_operator": "associate-rochelle-sesaldo@archive.org;associate-william-langoyan@archive.org",
+      "republisher_date": "20201008173848",
+      "republisher_time": "591",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/treasuredrecipes0000holt",
+      "identifier-ark": "ark:/13960/t5x72zm68",
+      "external-identifier": [
+        "urn:acs6:treasuredrecipes0000holt:epub:1cb957a1-0c24-437f-99fb-7bf192bc017b",
+        "urn:acs6:treasuredrecipes0000holt:pdf:390c864e-1541-46a0-bd3e-c474ef751ef7",
+        "urn:oclc:record:1200622673",
+        "urn:lcp:treasuredrecipes0000holt:lcpdf:2907bb0f-28c4-4e0e-9eda-05b2f819dbdb",
+        "urn:lcp:treasuredrecipes0000holt:epub:511e5cf4-f633-40d7-a71c-35e2799176a6"
+      ],
+      "page_number_confidence": "99",
+      "addeddate": "2020-10-08 15:07:52",
+      "scanfee": "0;1.00;200",
+      "invoice": "1652",
+      "sponsordate": "20201031",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia801702.us.archive.org",
+    "uniq": 1290276105,
+    "workable_servers": [
+      "ia801702.us.archive.org",
+      "ia601702.us.archive.org"
+    ]
+  },
+  "institution": "Holt, Jan M",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 6,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Historical Society"
+    ]
+  },
+  "curation_notes": "State match: Michigan; Community markers: Historical Society; Digitized scan available"
+}

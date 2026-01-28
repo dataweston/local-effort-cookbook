@@ -1,0 +1,92 @@
+{
+  "source": "dpla",
+  "id": "74d9a5f1f546ea2ea652efe488b7d000",
+  "identifier": "74d9a5f1f546ea2ea652efe488b7d000",
+  "title": "The Leonard cook book",
+  "subject": [
+    "Community cookbooks",
+    "Cooking"
+  ],
+  "spatial": [
+    "Michigan"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m51v5ff8t",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1921,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/74d9a5f1f546ea2ea652efe488b7d000#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "date": [
+        {
+          "begin": "1921",
+          "displayDate": "1921",
+          "end": "1921"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Community cookbooks"
+        },
+        {
+          "name": "Cooking"
+        }
+      ],
+      "title": [
+        "The Leonard cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1921-01-01",
+      "normalized_dates": [
+        "1921-01-01"
+      ],
+      "date_range": {
+        "begin": "1921-01-01",
+        "end": "1921-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m51v5ff8t/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m51v5ff8t"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

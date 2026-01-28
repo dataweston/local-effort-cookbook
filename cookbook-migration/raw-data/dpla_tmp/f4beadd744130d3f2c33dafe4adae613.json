@@ -1,0 +1,100 @@
+{
+  "source": "dpla",
+  "id": "f4beadd744130d3f2c33dafe4adae613",
+  "identifier": "f4beadd744130d3f2c33dafe4adae613",
+  "title": "The Sebewaing cook book",
+  "subject": [
+    "Cooking, American",
+    "Cooking",
+    "Community cookbooks"
+  ],
+  "spatial": [
+    "Michigan",
+    "Sebewaing"
+  ],
+  "description": null,
+  "isShownAt": "https://n2t.net/ark:/85335/m5zw1ct3q",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/michigan",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878479"
+    ],
+    "name": "Michigan Service Hub"
+  },
+  "institution": "Michigan Service Hub",
+  "year": 1912,
+  "metadata": {
+    "sourceResource": {
+      "@id": "http://dp.la/api/items/f4beadd744130d3f2c33dafe4adae613#SourceResource",
+      "collection": [
+        {
+          "title": "Feeding Michigan"
+        }
+      ],
+      "date": [
+        {
+          "begin": "1912",
+          "displayDate": "1912",
+          "end": "1912"
+        }
+      ],
+      "language": [
+        {
+          "iso639_3": "English",
+          "name": "English"
+        }
+      ],
+      "rights": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "spatial": [
+        {
+          "name": "Michigan"
+        },
+        {
+          "name": "Sebewaing"
+        }
+      ],
+      "subject": [
+        {
+          "name": "Cooking, American"
+        },
+        {
+          "name": "Cooking"
+        },
+        {
+          "name": "Community cookbooks"
+        }
+      ],
+      "title": [
+        "The Sebewaing cook book"
+      ],
+      "type": [
+        "text"
+      ]
+    },
+    "metadata": {
+      "date": "1912-01-01",
+      "normalized_dates": [
+        "1912-01-01"
+      ],
+      "date_range": {
+        "begin": "1912-01-01",
+        "end": "1912-01-01"
+      }
+    }
+  },
+  "data": {
+    "object": "https://n2t.net/ark:/85335/m5zw1ct3q/TN/view",
+    "isShownAt": "https://n2t.net/ark:/85335/m5zw1ct3q"
+  },
+  "location": {
+    "state": "Michigan"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Michigan; Digitized scan available"
+}

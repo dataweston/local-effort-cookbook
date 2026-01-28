@@ -1,0 +1,576 @@
+{
+  "source": "internet_archive",
+  "identifier": "smartdiet00bett",
+  "title": "The smart diet",
+  "creator": [
+    "Thomas, Kristi M",
+    "Henry, Linda",
+    "Miller, Jan",
+    "Better Homes and Gardens Books (Firm)"
+  ],
+  "year": 2000,
+  "subject": [
+    "Diets & dieting",
+    "General cookery",
+    "Health & wholefood cookery",
+    "Recipes",
+    "Health & Healing - General",
+    "Cooking",
+    "Diet / Health / Fitness",
+    "Low-calorie diet",
+    "Reducing diets",
+    "Health & Healing - Weight Control",
+    "Cooking / Dietary",
+    "Weight Loss"
+  ],
+  "description": [
+    "Subtitle on cover: The right approach to weight loss",
+    "Includes index"
+  ],
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/smartdiet00bett"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790000.ca.archive.org",
+          "dir": "/0/items/smartdiet00bett"
+        }
+      ]
+    },
+    "created": 1758337300,
+    "d1": "ia600201.us.archive.org",
+    "d2": "ia800201.us.archive.org",
+    "dir": "/31/items/smartdiet00bett",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661107038",
+        "size": "17079",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "2a3a7b706fd9389dd5240b271362d177",
+        "crc32": "7919c5b1",
+        "sha1": "4011d1a0be0f6bec79ddf60e1aea6fa01570e1ea"
+      },
+      {
+        "name": "smartdiet00bett.cdx.gz",
+        "source": "original",
+        "mtime": "1364529080",
+        "size": "5569",
+        "md5": "3473e719786162ea5a66dda2911a06eb",
+        "crc32": "c942184f",
+        "sha1": "688161406b81bc30f8859cbcda45fe5de7032fb6",
+        "format": "Item CDX Index",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett.cdx.idx",
+        "source": "original",
+        "mtime": "1364529080",
+        "size": "31",
+        "md5": "9bc10129ba78bb588aa0c2a7476a5d01",
+        "crc32": "96eea5ae",
+        "sha1": "f1f1d99131ea01c1337773a9203b34435ec0603f",
+        "format": "Item CDX Meta-Index",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "smartdiet00bett_jp2.zip",
+        "mtime": "1364523242",
+        "size": "177407",
+        "md5": "013866e8d80ca93f4b2382c80958be00",
+        "crc32": "f54e1fbf",
+        "sha1": "651ec497bb4f54bd9a716b2eebd45af00fb7b02f"
+      },
+      {
+        "name": "smartdiet00bett.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "smartdiet00bett.pdf",
+        "mtime": "1721880771",
+        "size": "18503392",
+        "md5": "bd572fbbdb07e6322429c4cd17e7018e",
+        "crc32": "acb313d6",
+        "sha1": "36e6c22ca9724319697968d573f005e18b5f3998"
+      },
+      {
+        "name": "smartdiet00bett.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "smartdiet00bett_page_numbers.json",
+        "mtime": "1721880470",
+        "size": "17569445",
+        "md5": "2e9e928b9fe1b5dd5245be144425f51a",
+        "crc32": "a71ebbcc",
+        "sha1": "742fd0afe81d94577104bc8623dee9106feb5c29",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1333382971",
+        "size": "454826",
+        "md5": "05d13e6056dd6a79e192278ddb89ad6b",
+        "crc32": "886511c2",
+        "sha1": "29a175f5cb579d06ece6f1eae483661c2282b224"
+      },
+      {
+        "name": "smartdiet00bett.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "smartdiet00bett.warc.gz",
+        "mtime": "1364520383",
+        "size": "5677",
+        "md5": "f8a8682ca0a72b55e81d2a3f2ef874ed",
+        "crc32": "1e70f735",
+        "sha1": "e0858a6203489bdabc419afadffb3df85ac764e2",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "smartdiet00bett_jp2.zip",
+        "mtime": "1364525686",
+        "size": "4989669",
+        "md5": "d1c265e3454e8f6a8c528e33ab9c9491",
+        "crc32": "6241f908",
+        "sha1": "debf3008dd21840415f4b1749adb28528e219c4e",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "smartdiet00bett_abbyy.gz",
+        "mtime": "1661106787",
+        "size": "4053498",
+        "md5": "e8042e1038479a42d89e4d07365551cf",
+        "crc32": "0679887e",
+        "sha1": "6c91a9b5b57ffaa68c98c3bc606e6eb5a6cfbb12",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "smartdiet00bett_scandata.xml",
+        "mtime": "1671290727",
+        "size": "751",
+        "md5": "b026cf0371d475b8d5022a84151fbce0",
+        "crc32": "cdab7d60",
+        "sha1": "4954073617b60d5dfd83a35f16a0c71e17875da5",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1454744768",
+        "size": "1192",
+        "md5": "0a9d5a907ce61d04f7f91063d47a5941",
+        "crc32": "e93aab8f",
+        "sha1": "2331970ca9bd26e7405aad17b3471135419f5200"
+      },
+      {
+        "name": "smartdiet00bett_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "smartdiet00bett_djvu.xml",
+        "mtime": "1721880674",
+        "size": "367888",
+        "md5": "443a1c1ec1f190bb395319b3fd9c099b",
+        "crc32": "850dd307",
+        "sha1": "fa08fe1e38e4c2b058eed2bd829b4472ccec9489",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "smartdiet00bett_hocr.html",
+        "mtime": "1721875978",
+        "size": "4469396",
+        "md5": "daa0e4bb67f33a98abd54d2a4296ab6f",
+        "crc32": "98aa732a",
+        "sha1": "0804a3167484beeddc4f0305b236ed5a166c0a7b",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "smartdiet00bett.pdf",
+        "mtime": "1721880677",
+        "size": "17506351",
+        "md5": "fb42d142e3eac567656b3da28fbd6e79",
+        "crc32": "55082ae6",
+        "sha1": "7105e0dbe8ead4223e3e61bb795f18f0d5d53b1c"
+      },
+      {
+        "name": "smartdiet00bett_extramarc.xml",
+        "source": "original",
+        "mtime": "1404341142",
+        "size": "3650",
+        "md5": "a8ae43799060edf8a18bf0fd2e122371",
+        "crc32": "c3443362",
+        "sha1": "a558846fbff832371b48266900f3fa350ab35932",
+        "format": "Metadata"
+      },
+      {
+        "name": "smartdiet00bett_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "78e6fb4ba70682a4ea5c9adf668b2183",
+        "summation": "md5"
+      },
+      {
+        "name": "smartdiet00bett_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "smartdiet00bett_chocr.html.gz",
+        "mtime": "1661106930",
+        "size": "8669547",
+        "md5": "cd0e21a40fee0d1fd3586bd498254542",
+        "crc32": "e2297dd8",
+        "sha1": "1594d2bddc02fdef96a7bc4f1d7b0dcd7dbe9cd7",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "smartdiet00bett_hocr.html",
+        "mtime": "1661106982",
+        "size": "2785",
+        "md5": "7594f72286086b4b053656f769b05624",
+        "crc32": "65e33912",
+        "sha1": "344b371bc7d31f18f3358e147d4245b70fabd557",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "6505",
+        "word_conf_11_20": "3655",
+        "word_conf_21_30": "7289",
+        "word_conf_31_40": "6593",
+        "word_conf_41_50": "8355",
+        "word_conf_51_60": "8134",
+        "word_conf_61_70": "6836",
+        "word_conf_71_80": "3099",
+        "word_conf_81_90": "911",
+        "word_conf_91_100": "1333",
+        "format": "OCR Search Text",
+        "original": "smartdiet00bett_hocr.html",
+        "mtime": "1661107007",
+        "size": "106144",
+        "md5": "f319600f8bf0374ba4eb9b0d391dd7a9",
+        "crc32": "251d710d",
+        "sha1": "1b72c8bc51ad97c339d0e2ddeeece099fc76ec72",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "smartdiet00bett_orig_jp2.tar",
+        "mtime": "1364523217",
+        "size": "115563959",
+        "md5": "d4519dc58dc989620ec65f61dde42b9f",
+        "crc32": "b7fdd593",
+        "sha1": "10c128665cfcca710fa59f515ac9cc4ef541688f",
+        "private": "true",
+        "filecount": "250"
+      },
+      {
+        "name": "smartdiet00bett_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "smartdiet00bett_hocr.html",
+        "mtime": "1671290031",
+        "size": "45156017",
+        "md5": "2696ff68330f24889f252d76d55b8596",
+        "crc32": "00cebd2c",
+        "sha1": "43f1a850cd21b2db5997fa2f911c8ffb8e2d127f"
+      },
+      {
+        "name": "smartdiet00bett_loans.json",
+        "source": "original",
+        "mtime": "1593013941",
+        "size": "3535",
+        "format": "JSON",
+        "private": "true",
+        "md5": "4332a2d0eb27ea7936f2bc453be6d31b",
+        "crc32": "6085d680",
+        "sha1": "817af82795c27e81e506bd1d2fd26562d0504fb7"
+      },
+      {
+        "name": "smartdiet00bett_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1454744768",
+        "size": "3132",
+        "md5": "82164d04aeee2ac6a263031d3f3e14dc",
+        "crc32": "46832184",
+        "sha1": "14d86d7b4353ccd5b90d39a197d598fc1283d7a0"
+      },
+      {
+        "name": "smartdiet00bett_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "smartdiet00bett_xisbn.json",
+        "mtime": "1454744770",
+        "size": "262",
+        "md5": "9b50ad39489d18c60c599ebaada94ca5",
+        "crc32": "647ed940",
+        "sha1": "f97a0dc0e7a863ffe56b9ec6ba0145204a266d38",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454744768",
+        "size": "1026",
+        "md5": "ccc3a427c9b0629327a897a67fff7848",
+        "crc32": "eec56327",
+        "sha1": "7c3716b32b15123d6f936691be98e9f90b15721f"
+      },
+      {
+        "name": "smartdiet00bett_meta.sqlite",
+        "source": "original",
+        "mtime": "1467707228",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "f19e44108f4088e7bac8dadd60413978",
+        "crc32": "d8e5fc17",
+        "sha1": "746a6727f64215cd19564fddca8b2e5b44e9de68"
+      },
+      {
+        "name": "smartdiet00bett_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1723927203",
+        "size": "3997",
+        "md5": "227fc5f8f773f6ea0665368d134740fe",
+        "crc32": "8522fd09",
+        "sha1": "7fa46dec9c76af1918b717cd955ef84fe2458481"
+      },
+      {
+        "name": "smartdiet00bett_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1333382971",
+        "size": "300",
+        "md5": "208f8a6e37a8fef15506be4ca3e58bcc",
+        "crc32": "f28a855a",
+        "sha1": "b152ab7f3b0c0dbb55a1d704328015d90b96078c"
+      },
+      {
+        "name": "smartdiet00bett_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1364520171",
+        "size": "181555200",
+        "md5": "6de0af721ccd4bdf216bd5e4d1d1736f",
+        "crc32": "7ef00b8c",
+        "sha1": "959662c437bfc407bc411e55fa700ca50b596a4a",
+        "private": "true",
+        "filecount": "250"
+      },
+      {
+        "name": "smartdiet00bett_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "94",
+        "format": "Page Numbers JSON",
+        "original": "smartdiet00bett_hocr.html",
+        "mtime": "1721876048",
+        "size": "41824",
+        "md5": "8a945b0389e91c0b5cce16337a9d5115",
+        "crc32": "a8f69220",
+        "sha1": "a226b265d0b10a41461f0f28f0e10c2da59f47a5",
+        "private": "true"
+      },
+      {
+        "name": "smartdiet00bett_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1671290726",
+        "size": "248760",
+        "md5": "7cc70b6c44643a0fdd9592e28b916cf3",
+        "crc32": "164686f9",
+        "sha1": "2240ca3ba90027481d6656a9c22e15307aa30086"
+      },
+      {
+        "name": "smartdiet00bett_xisbn.json",
+        "source": "original",
+        "mtime": "1454741216",
+        "size": "392",
+        "md5": "c77538a32053c488c418ec26d4daa75d",
+        "crc32": "02ece146",
+        "sha1": "7519794e97739c93efca162165a5167bbf17cfdf",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 33,
+    "item_last_updated": 1723927203,
+    "item_size": 419488845,
+    "metadata": {
+      "openlibrary": "OL6801417M",
+      "title": "The smart diet",
+      "creator": [
+        "Thomas, Kristi M",
+        "Henry, Linda",
+        "Miller, Jan",
+        "Better Homes and Gardens Books (Firm)"
+      ],
+      "language": "eng",
+      "publisher": "Des Moines, Iowa : Better Homes and Gardens Books",
+      "subject": [
+        "Diets & dieting",
+        "General cookery",
+        "Health & wholefood cookery",
+        "Recipes",
+        "Health & Healing - General",
+        "Cooking",
+        "Diet / Health / Fitness",
+        "Low-calorie diet",
+        "Reducing diets",
+        "Health & Healing - Weight Control",
+        "Cooking / Dietary",
+        "Weight Loss"
+      ],
+      "date": "2000-01-01",
+      "external-identifier": [
+        "urn:asin:0696211734",
+        "urn:acs6:smartdiet00bett:pdf:de388bd0-492f-4227-b427-5b626c17cefb",
+        "urn:acs6:smartdiet00bett:epub:c2418774-fcee-43a0-b298-bb96d2cf0874",
+        "urn:oclc:record:1036869988",
+        "urn:lcp:smartdiet00bett:lcpdf:ffd1212f-f240-4fff-a381-836571de8bd7",
+        "urn:lcp:smartdiet00bett:epub:a8fb9bab-2123-43d0-bf79-4f1d3fbc9eb5"
+      ],
+      "updatedate": "2012-04-02 16:09:29",
+      "updater": "bapi_blogistics_1@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA162912",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "sponsor": "Internet Archive",
+      "identifier": "smartdiet00bett",
+      "uploader": "bapi_blogistics_1@archive.org",
+      "addeddate": "2012-04-02 16:09:33",
+      "publicdate": "2012-04-02 16:09:36",
+      "repub_state": "4",
+      "repub_seconds": "161",
+      "ppi": "500",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-leo@archive.org",
+      "scanner": "scribe7.shenzhen.archive.org",
+      "scandate": "20130326031959",
+      "republisher": "scanner-shenzhen-lori@archive.org",
+      "imagecount": "250",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/smartdiet00bett",
+      "identifier-ark": "ark:/13960/t86h63h1r",
+      "bookplateleaf": "0002",
+      "curation": "[curator]scanner-shenzhen-leo@archive.org[/curator][date]20130409083223[/date][state]approved[/state][comment]199[/comment]",
+      "donor": "blogistics",
+      "scanfee": "100",
+      "invoice": "11",
+      "extramarc": "OhioLINK Library Catalog",
+      "boxid_2": "BWB220140927",
+      "sponsordate": "20150430",
+      "isbn": "0696211734",
+      "lccn": "00133275",
+      "description": [
+        "Subtitle on cover: The right approach to weight loss",
+        "Includes index"
+      ],
+      "city": "Des Moines, Iowa",
+      "edition": "1st ed.",
+      "oclc-id": "45660205",
+      "backup_location": "ia903801_5",
+      "openlibrary_edition": "OL7760751M",
+      "openlibrary_work": "OL8194460W",
+      "republisher_operator": "scanner-shenzhen-lori@archive.org",
+      "republisher_date": "20130329012013",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "94",
+      "filesxml": "Wed Apr 3 13:45:20 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25",
+      "normalized_dates": [
+        "2000-01-01"
+      ]
+    },
+    "server": "ia800201.us.archive.org",
+    "uniq": 1259478914,
+    "workable_servers": [
+      "ia800201.us.archive.org",
+      "ia600201.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/45660205?referer=xid"
+          ],
+          "publisher": "Better Homes and Gardens Books",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "00133275"
+          ],
+          "lang": "eng",
+          "city": "Des Moines, Iowa",
+          "author": "[editor, Kristi M. Fuller ; contributing editors, Linda Henry, Jan Miller].",
+          "ed": "1st ed.",
+          "year": "2000",
+          "isbn": [
+            "0696211734"
+          ],
+          "title": "The smart diet",
+          "oclcnum": [
+            "45660205"
+          ]
+        }
+      ]
+    }
+  }
+}

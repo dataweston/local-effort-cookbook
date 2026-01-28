@@ -1,0 +1,523 @@
+{
+  "source": "internet_archive",
+  "identifier": "gloriousharvestr00greerich",
+  "title": "A glorious harvest : robust recipes from the dairy, pasture, orchard, and sea",
+  "creator": "Green, Henrietta",
+  "year": 1992,
+  "subject": [
+    "Cookery (Natural foods)",
+    "Natural foods"
+  ],
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/gloriousharvestr00greerich"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790008.ca.archive.org",
+          "dir": "/0/items/gloriousharvestr00greerich"
+        }
+      ]
+    },
+    "created": 1758556655,
+    "d1": "ia601305.us.archive.org",
+    "d2": "ia801305.us.archive.org",
+    "dir": "/22/items/gloriousharvestr00greerich",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1660083656",
+        "size": "14375",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "9b953aeb1bad245c00e4c9aa192e2ff5",
+        "crc32": "1bb9ee17",
+        "sha1": "c9aa3108d9ddbef53c11fbc6b0c2008610f8ea78"
+      },
+      {
+        "name": "gloriousharvestr00greerich.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "gloriousharvestr00greerich_hocr.html",
+        "mtime": "1756041778",
+        "size": "27492634",
+        "private": "true",
+        "md5": "0712a51d9d07e347f20fa045d0db0b60",
+        "crc32": "fc273696",
+        "sha1": "241fd76c7a5cc5c5475c53f3f69fff74982d59c4"
+      },
+      {
+        "name": "gloriousharvestr00greerich.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "gloriousharvestr00greerich_jp2.zip",
+        "md5": "7f63d3a01c83b2b685bcff24467192ff",
+        "mtime": "1254361792",
+        "size": "256975",
+        "crc32": "c4cdd270",
+        "sha1": "112ce93e5977029fb1be683dc22c7bc4aa38e29a"
+      },
+      {
+        "name": "gloriousharvestr00greerich.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "gloriousharvestr00greerich.pdf",
+        "mtime": "1756041505",
+        "size": "19195454",
+        "md5": "e1bb297be8cbd7476d8765a75aed6416",
+        "crc32": "33955fec",
+        "sha1": "f952023f7da89eeb52a38aa0f834d48921e4e758"
+      },
+      {
+        "name": "gloriousharvestr00greerich.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "gloriousharvestr00greerich_page_numbers.json",
+        "mtime": "1721080057",
+        "size": "18845927",
+        "md5": "1fe5689bf56f6c2c0e869c218cd718ed",
+        "crc32": "f0120997",
+        "sha1": "040a5717c736058bb45c3eb9da0665b27e4d731a",
+        "private": "true"
+      },
+      {
+        "name": "gloriousharvestr00greerich_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "gloriousharvestr00greerich_jp2.zip",
+        "md5": "335fc8a1319ddea584168b77e4c296cf",
+        "mtime": "1254369546",
+        "size": "7827438",
+        "crc32": "9730873f",
+        "sha1": "852cb925e6c79a692f7b9784a7127e9fb8498b33",
+        "private": "true"
+      },
+      {
+        "name": "gloriousharvestr00greerich_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "gloriousharvestr00greerich_abbyy.gz",
+        "mtime": "1660083258",
+        "size": "6407287",
+        "md5": "a357147268b08ebad40bbe52159ac97a",
+        "crc32": "9b8187c5",
+        "sha1": "93805affbbb1a96a2aee7ce61e9cedb3eedd3f8e",
+        "private": "true"
+      },
+      {
+        "name": "gloriousharvestr00greerich_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "gloriousharvestr00greerich_scandata.xml",
+        "mtime": "1670075404",
+        "size": "797",
+        "md5": "4f824c65c0dd64d667308a6a8609595b",
+        "crc32": "0866acbd",
+        "sha1": "63943fa1f1c589e22f19aac025b8694a5b6eb8be",
+        "private": "true"
+      },
+      {
+        "name": "gloriousharvestr00greerich_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "0b7919b7ed6e0b52a8e22df209c97db1",
+        "mtime": "1254270779",
+        "size": "809",
+        "crc32": "b2bab28e",
+        "sha1": "04e5be911b420788d7f3fb8810014255876f6dc5"
+      },
+      {
+        "name": "gloriousharvestr00greerich_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "gloriousharvestr00greerich_djvu.xml",
+        "mtime": "1721080628",
+        "size": "590511",
+        "md5": "f189ad14f16b4b7673adb9cdc04d1d2e",
+        "crc32": "33f013dc",
+        "sha1": "f8758f4385ef8494d58bc285b3c1b1c6614f86d3",
+        "private": "true"
+      },
+      {
+        "name": "gloriousharvestr00greerich_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "gloriousharvestr00greerich_hocr.html",
+        "mtime": "1721077597",
+        "size": "7145469",
+        "md5": "5275cb704c5757f4dc0a4ee7c70dea75",
+        "crc32": "bae9d5ac",
+        "sha1": "df34761251694316f2a2ea97edfd4bbe5a6ee101",
+        "private": "true"
+      },
+      {
+        "name": "gloriousharvestr00greerich_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "gloriousharvestr00greerich.pdf",
+        "mtime": "1721080632",
+        "size": "18778629",
+        "md5": "b0f2f9261d13c213b5e8119b19d0e4be",
+        "crc32": "560f57f3",
+        "sha1": "bca145d377902570528b797d9fd73e3b7a85679f"
+      },
+      {
+        "name": "gloriousharvestr00greerich_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "3fe5d84badfb06c0e83608f7790a4f91",
+        "summation": "md5"
+      },
+      {
+        "name": "gloriousharvestr00greerich_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "gloriousharvestr00greerich_chocr.html.gz",
+        "mtime": "1660083419",
+        "size": "13656305",
+        "md5": "da7b05d6a8bde5c63c3cc761913f3a5f",
+        "crc32": "4232f204",
+        "sha1": "41a64e6899bab179cbb63662d410e8adf079f6f3",
+        "private": "true"
+      },
+      {
+        "name": "gloriousharvestr00greerich_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "gloriousharvestr00greerich_hocr.html",
+        "mtime": "1660083532",
+        "size": "3130",
+        "md5": "194faf14869988086227e22282519a6d",
+        "crc32": "33e79c8e",
+        "sha1": "1ddae1dab76ac7c12aaa044a2ef59f22133e43a1",
+        "private": "true"
+      },
+      {
+        "name": "gloriousharvestr00greerich_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "17932",
+        "word_conf_11_20": "18749",
+        "word_conf_21_30": "20010",
+        "word_conf_31_40": "15529",
+        "word_conf_41_50": "9399",
+        "word_conf_51_60": "4327",
+        "word_conf_61_70": "1615",
+        "word_conf_71_80": "481",
+        "word_conf_81_90": "190",
+        "word_conf_91_100": "423",
+        "format": "OCR Search Text",
+        "original": "gloriousharvestr00greerich_hocr.html",
+        "mtime": "1660083612",
+        "size": "191810",
+        "md5": "01ed35d90dbd57ed17a68b7d030d2843",
+        "crc32": "e27bd8f7",
+        "sha1": "28e5272699ab217a6bb2a834efce71d7c7f35fc0",
+        "private": "true"
+      },
+      {
+        "name": "gloriousharvestr00greerich_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "gloriousharvestr00greerich_orig_jp2.tar",
+        "md5": "d8e0c0fa2a63bd666834d4ca49c09e84",
+        "mtime": "1254361707",
+        "size": "82881557",
+        "crc32": "357f1c9d",
+        "sha1": "75fea72dd1592f90bb5d9299c97e5c7c6dfd53b9",
+        "private": "true",
+        "filecount": "270"
+      },
+      {
+        "name": "gloriousharvestr00greerich_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "gloriousharvestr00greerich.epub",
+        "mtime": "1756042099",
+        "size": "28207111",
+        "md5": "75bb939d201b902748ecdafb4a15d12c",
+        "crc32": "635bcab9",
+        "sha1": "a567ef9166a6db127f19d98fa5d90862b978d22b"
+      },
+      {
+        "name": "gloriousharvestr00greerich_loans.json",
+        "source": "original",
+        "mtime": "1593062387",
+        "size": "3349",
+        "format": "JSON",
+        "private": "true",
+        "md5": "dc64909eca7f17c4ee82359585f0927a",
+        "crc32": "1ba168d4",
+        "sha1": "b620116531d574088610291dce5261a584747af6"
+      },
+      {
+        "name": "gloriousharvestr00greerich_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "0c618141daf8075777a11d68f06eba1a",
+        "mtime": "1254270779",
+        "size": "5220",
+        "crc32": "924287d1",
+        "sha1": "02dc86bef4812a4709922901e63702eeaf5429c3"
+      },
+      {
+        "name": "gloriousharvestr00greerich_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "gloriousharvestr00greerich_xisbn.json",
+        "mtime": "1454445406",
+        "size": "310",
+        "md5": "ab4caaafa876555c58cb08225ad7f1ab",
+        "crc32": "be1591fc",
+        "sha1": "3e4fab4f869f2a1ad3418026fb594dedb5ed87e9",
+        "private": "true"
+      },
+      {
+        "name": "gloriousharvestr00greerich_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "3b3c86a89f3434a48b52c2726b74cb09",
+        "mtime": "1254270779",
+        "size": "1550",
+        "crc32": "4a7c37c9",
+        "sha1": "fda3343b9df26aaba3718903bfd24228b9f081de"
+      },
+      {
+        "name": "gloriousharvestr00greerich_meta.sqlite",
+        "source": "original",
+        "mtime": "1463222633",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "7af983093523188ce44bf7811651394c",
+        "crc32": "7bb4dc3b",
+        "sha1": "893384cb68025ca46166011b47424e8e8208aa4f"
+      },
+      {
+        "name": "gloriousharvestr00greerich_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1756042100",
+        "size": "3159",
+        "md5": "d79fc1752dafad3e381515c7e480075b",
+        "crc32": "bb32fda1",
+        "sha1": "bff6a0e4e61b385799f99f30ff1438896cf0bb97"
+      },
+      {
+        "name": "gloriousharvestr00greerich_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "3e0f5722450c9851111569fdb28bd0e5",
+        "mtime": "1254270779",
+        "size": "403",
+        "crc32": "b4819adf",
+        "sha1": "36d79bd170e68f3d442bbc417c064735266b9972"
+      },
+      {
+        "name": "gloriousharvestr00greerich_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "890637fa38688a3cc2c6a175da0b16f7",
+        "mtime": "1254340351",
+        "size": "141209600",
+        "crc32": "887e767f",
+        "sha1": "601af4a0fcc299f3337aadd844037e3b2c795603",
+        "private": "true",
+        "filecount": "270"
+      },
+      {
+        "name": "gloriousharvestr00greerich_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "59",
+        "format": "Page Numbers JSON",
+        "original": "gloriousharvestr00greerich_hocr.html",
+        "mtime": "1721077768",
+        "size": "45350",
+        "md5": "433afaef3266948d06f39a4e1e6678b0",
+        "crc32": "6be2aed0",
+        "sha1": "b94f56b10999bee4189318288f639232b0648970",
+        "private": "true"
+      },
+      {
+        "name": "gloriousharvestr00greerich_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "4fa01603f6e92cdf5074e6ffc408c5bb",
+        "mtime": "1670075404",
+        "size": "140115",
+        "crc32": "4bc8ca29",
+        "sha1": "048e215707a7daab5b66e6dbd809328be4a68bbc"
+      },
+      {
+        "name": "gloriousharvestr00greerich_xisbn.json",
+        "source": "original",
+        "mtime": "1454430664",
+        "size": "465",
+        "md5": "0b8a5c173662fdcabeab47c2c2c0b981",
+        "crc32": "27fba3ad",
+        "sha1": "62bf5ff2cd85a0f7ef7fbceb80c84ea65a603973",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1756042100,
+    "item_size": 372911883,
+    "metadata": {
+      "title": "A glorious harvest : robust recipes from the dairy, pasture, orchard, and sea",
+      "creator": [
+        "Green, Henrietta",
+        "Rubin, Miriam"
+      ],
+      "subject": [
+        "Cookery (Natural foods)",
+        "Natural foods",
+        "Natural foods"
+      ],
+      "description": "Includes index",
+      "publisher": "New York : Sedgewood Press ; Des Moines, Iowa : Distributed by Meredith Press",
+      "date": "1992-01-01",
+      "language": "eng",
+      "isbn": [
+        "0696023660",
+        "9780696023668"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA105318",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "rich",
+      "mediatype": "texts",
+      "updatedate": "2009-09-30 00:33:00",
+      "updater": "paul nguyen",
+      "identifier": "gloriousharvestr00greerich",
+      "uploader": "paul.n@archive.org",
+      "addeddate": "2009-09-30 00:33:02",
+      "publicdate": "2009-09-30 00:33:41",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-angelina-porter@archive.org",
+      "scanner": "scribe7.rich.archive.org",
+      "scandate": "20090930193932",
+      "imagecount": "268",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/gloriousharvestr00greerich",
+      "identifier-ark": "ark:/13960/t72v32f0r",
+      "sponsordate": "20090930",
+      "curation": "[curator]paul.n@archive.org[/curator][date]20091201181909[/date][state]approved[/state][comment]199[/comment]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:gloriousharvestr00greerich:pdf:3fd85276-b4c5-4960-b340-b00845eab6ab",
+        "urn:acs6:gloriousharvestr00greerich:epub:99bbe714-0532-4c7b-82f9-cded2288b52b",
+        "urn:oclc:record:1033650727",
+        "urn:lcp:gloriousharvestr00greerich:lcpdf:642e5c21-18f0-4bb2-9865-5f846a288cb2",
+        "urn:lcp:gloriousharvestr00greerich:epub:1604208e-78d1-48e9-91be-d81806b8cf75"
+      ],
+      "donor": "alibris",
+      "city": "New York",
+      "oclc-id": "26123599",
+      "lccn": "92250466",
+      "backup_location": "ia903603_35",
+      "openlibrary_edition": "OL1357485M",
+      "openlibrary_work": "OL3784235W",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Thu Dec 24 10:58:13 UTC 2020",
+        "Wed Apr 3 3:30:26 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "59",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia601305.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "openlibrary-d-ol": {
+          "notes": {
+            "pallet": [
+              "IA40797415"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2024-01-29 04:57:58.337283"
+        }
+      }
+    },
+    "uniq": 1871178328,
+    "workable_servers": [
+      "ia601305.us.archive.org",
+      "ia801305.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/26123599?referer=xid"
+          ],
+          "publisher": "Sedgewood Press",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "92250466"
+          ],
+          "lang": "eng",
+          "city": "New York",
+          "author": "Henrietta Green ; Americanized text by Miriam Rubin ; special photography by Jess Koppel ; [illustrations, Lynne Robinson].",
+          "year": "1992",
+          "isbn": [
+            "0696023660"
+          ],
+          "title": "A glorious harvest : robust recipes from the dairy, pasture, orchard, and sea",
+          "oclcnum": [
+            "26123599"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Green, Henrietta",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Iowa"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Iowa; Digitized scan available"
+}

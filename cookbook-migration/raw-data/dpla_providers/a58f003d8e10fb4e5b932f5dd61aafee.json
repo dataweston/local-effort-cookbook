@@ -1,0 +1,42 @@
+{
+  "source": "dpla",
+  "id": "a58f003d8e10fb4e5b932f5dd61aafee",
+  "identifier": "a58f003d8e10fb4e5b932f5dd61aafee",
+  "title": "Grace guild's favorite recipes cookbook, Grace Episcopal Church, Sheboygan, Wisconsin, 1940",
+  "subject": [
+    "Episcopal churches",
+    "Cookery",
+    "Guilds",
+    "Books"
+  ],
+  "spatial": [
+    "Sheboygan, Wisconsin",
+    "Sheboygan"
+  ],
+  "description": "This recipe book was compiled by the Grace Guild at Grace Episcopal Church, Sheboygan, Wisconsin.",
+  "isShownAt": "http://content.mpl.org/cdm/ref/collection/MPL/id/7156",
+  "provider": {
+    "@id": "http://dp.la/api/contributor/wisconsin",
+    "exactMatch": [
+      "http://www.wikidata.org/entity/Q83878508"
+    ],
+    "name": "Recollection Wisconsin"
+  },
+  "institution": "Recollection Wisconsin",
+  "data": {
+    "object": "https://content.mpl.org/utils/getthumbnail/collection/MPL/id/7156",
+    "isShownAt": "http://content.mpl.org/cdm/ref/collection/MPL/id/7156"
+  },
+  "location": {
+    "state": "Wisconsin"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": [
+      "Church",
+      "Guild"
+    ]
+  },
+  "curation_notes": "State match: Wisconsin; Community markers: Church, Guild; Digitized scan available"
+}

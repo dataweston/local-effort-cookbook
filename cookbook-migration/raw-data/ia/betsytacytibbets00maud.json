@@ -1,0 +1,794 @@
+{
+  "source": "internet_archive",
+  "identifier": "betsytacytibbets00maud",
+  "title": "Betsy-Tacy and Tib",
+  "creator": "Lovelace, Maud Hart, 1892-1980",
+  "year": 1979,
+  "subject": [
+    "Social Issues - Friendship",
+    "Friendship",
+    "Juvenile Fiction",
+    "Children's Books/Ages 9-12 Fiction",
+    "Children: Grades 4-6",
+    "Historical - United States - 20th Century",
+    "Juvenile Fiction / Historical / United States / 20th Century",
+    "Reading Group Guide",
+    "Fiction",
+    "General",
+    "Minnesota"
+  ],
+  "description": "Three little girls experiment with cooking, visit the carnival, and have wonderful adventures",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/betsytacytibbets00maud"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790007.ca.archive.org",
+          "dir": "/0/items/betsytacytibbets00maud"
+        }
+      ]
+    },
+    "created": 1758559106,
+    "d1": "ia600206.us.archive.org",
+    "d2": "ia800206.us.archive.org",
+    "dir": "/20/items/betsytacytibbets00maud",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1658704819",
+        "size": "27465",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "c544de16d9d7ac55179f047d3fb41d82",
+        "crc32": "e1f7ab0c",
+        "sha1": "76a7b263613160330683b0fd142d95c9f4c837dc"
+      },
+      {
+        "name": "betsytacytibbets00maud.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "betsytacytibbets00maud_hocr.html",
+        "mtime": "1755039981",
+        "size": "14836839",
+        "private": "true",
+        "md5": "ea597493ca8950405f7678ed117ee517",
+        "crc32": "38c01662",
+        "sha1": "0230841b40c20479caf278a1f7b3af1914527809"
+      },
+      {
+        "name": "betsytacytibbets00maud.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "betsytacytibbets00maud_jp2.zip",
+        "mtime": "1347655140",
+        "size": "317690",
+        "md5": "dcfc48ab694e308a05e087b3a9824896",
+        "crc32": "287d62b0",
+        "sha1": "855b204a3ee0e97467a7c4ab09dd3708d3fca785"
+      },
+      {
+        "name": "betsytacytibbets00maud.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "betsytacytibbets00maud.pdf",
+        "mtime": "1755039942",
+        "size": "7749857",
+        "md5": "2d146a240872b1c57ad4637b86acbd55",
+        "crc32": "6e6c5cb0",
+        "sha1": "a17c9e6f3cc6b9e20ee94df2f8e256a77e8e5890"
+      },
+      {
+        "name": "betsytacytibbets00maud.pdf",
+        "source": "derivative",
+        "format": "Text PDF",
+        "original": "betsytacytibbets00maud_page_numbers.json",
+        "mtime": "1716662540",
+        "size": "7281015",
+        "md5": "0d80010c5926479bbb67f1325097f301",
+        "crc32": "3d438062",
+        "sha1": "9e92c3dea989573cd66a8b0cc4862ab0344fbf78",
+        "private": "true"
+      },
+      {
+        "name": "betsytacytibbets00maud.warc.gz",
+        "source": "original",
+        "format": "Web ARChive GZ",
+        "mtime": "1340212620",
+        "size": "613562",
+        "md5": "b7541e652571d5d8cbd71ea22ba88305",
+        "crc32": "ef98dfdc",
+        "sha1": "4f13275e6631e7c98a39b6f2c707cd29f7d91a56"
+      },
+      {
+        "name": "betsytacytibbets00maud.warc.os.cdx.gz",
+        "source": "derivative",
+        "format": "WARC CDX Index",
+        "original": "betsytacytibbets00maud.warc.gz",
+        "mtime": "1347652668",
+        "size": "7928",
+        "md5": "f444b9d2c30668a8a875d71ba332c122",
+        "crc32": "44acb9cf",
+        "sha1": "f4b1f715f9499a6ab6d382b482b072e52fafe975",
+        "private": "true"
+      },
+      {
+        "name": "betsytacytibbets00maud_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "betsytacytibbets00maud_jp2.zip",
+        "mtime": "1347657330",
+        "size": "2061114",
+        "md5": "7ec9997b79b9fdfc81e850775367dbc2",
+        "crc32": "6e19c87e",
+        "sha1": "ed52679b0f99e5c3881dbe90aebea2c7ddc7b9de",
+        "private": "true"
+      },
+      {
+        "name": "betsytacytibbets00maud_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "betsytacytibbets00maud_abbyy.gz",
+        "mtime": "1658704458",
+        "size": "1766336",
+        "md5": "aeb2a00c79a48feb984849a2c3e3faf4",
+        "crc32": "2d2febcc",
+        "sha1": "ca5b6d4fe0395e677d031bca79df0cf36364f896",
+        "private": "true"
+      },
+      {
+        "name": "betsytacytibbets00maud_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "betsytacytibbets00maud_scandata.xml",
+        "mtime": "1669420993",
+        "size": "779",
+        "md5": "c635cf5188cdc71b238fad438fa3b9c3",
+        "crc32": "0ab863db",
+        "sha1": "e55cac9aa86688f6aa9e9eed01d7b5d860f5d764",
+        "private": "true"
+      },
+      {
+        "name": "betsytacytibbets00maud_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "mtime": "1454287845",
+        "size": "852",
+        "md5": "017473c72756969d134170ccb62f292d",
+        "crc32": "bcfddd39",
+        "sha1": "bb58514bc00f6b533cc300f102b2f469e712f690"
+      },
+      {
+        "name": "betsytacytibbets00maud_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "betsytacytibbets00maud_djvu.xml",
+        "mtime": "1718218775",
+        "size": "161044",
+        "md5": "f5f4d8f895e30ffea367498d02839539",
+        "crc32": "43c16fd1",
+        "sha1": "1f48782ae8c28ac36a1f5b724d7eb6483d4379cc",
+        "private": "true"
+      },
+      {
+        "name": "betsytacytibbets00maud_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "betsytacytibbets00maud_hocr.html",
+        "mtime": "1718218773",
+        "size": "2048048",
+        "md5": "0c3e034d079d44c0c7802b7428f23768",
+        "crc32": "3218e072",
+        "sha1": "56de62531c5bbd49cebc83b1a5ea17a45dfa5a85",
+        "private": "true"
+      },
+      {
+        "name": "betsytacytibbets00maud_encrypted.epub",
+        "source": "derivative",
+        "format": "ACS Encrypted EPUB",
+        "original": "betsytacytibbets00maud_abbyy.gz",
+        "mtime": "1530456080",
+        "size": "14495375",
+        "md5": "7e1f293d51a75f304203bfef32f4e9c1",
+        "crc32": "acefcb3e",
+        "sha1": "6f3f23d84fea4409a9cbe564c4b3de1b591250f7"
+      },
+      {
+        "name": "betsytacytibbets00maud_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "betsytacytibbets00maud.pdf",
+        "mtime": "1716662985",
+        "size": "7254579",
+        "md5": "026c18b4f6a84e472932a66009108e58",
+        "crc32": "670b9300",
+        "sha1": "2f696717f680ded37c1c1f2f8446cf9775a1a9dc"
+      },
+      {
+        "name": "betsytacytibbets00maud_extramarc.xml",
+        "source": "original",
+        "mtime": "1419905536",
+        "size": "2281",
+        "md5": "a22a788e3908fe8be1fbdb6ad0c63493",
+        "crc32": "0d0bce20",
+        "sha1": "1dda3e3ce8cecd2ca356078a965284596ebff7ab",
+        "format": "Metadata"
+      },
+      {
+        "name": "betsytacytibbets00maud_files.xml",
+        "source": "original",
+        "format": "Metadata",
+        "md5": "1081e1c1c11f7166215a1cdd368c6f39",
+        "summation": "md5"
+      },
+      {
+        "name": "betsytacytibbets00maud_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.16",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "betsytacytibbets00maud_chocr.html.gz",
+        "mtime": "1658704571",
+        "size": "3835145",
+        "md5": "bf38be13d8bc450c8a42ab156cf9731a",
+        "crc32": "03a5f52a",
+        "sha1": "ad1c197e1bfa908fa1f781ab8020e2c50a1f96fe",
+        "private": "true"
+      },
+      {
+        "name": "betsytacytibbets00maud_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "betsytacytibbets00maud_hocr.html",
+        "mtime": "1658704673",
+        "size": "1862",
+        "md5": "8d57a9f25f58591a9fbe7e7e3464386e",
+        "crc32": "449d2995",
+        "sha1": "8478b33d2d01152418aa287c05c9a6774a2b81dc",
+        "private": "true"
+      },
+      {
+        "name": "betsytacytibbets00maud_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "330",
+        "word_conf_11_20": "204",
+        "word_conf_21_30": "992",
+        "word_conf_31_40": "637",
+        "word_conf_41_50": "3285",
+        "word_conf_51_60": "5894",
+        "word_conf_61_70": "7147",
+        "word_conf_71_80": "3360",
+        "word_conf_81_90": "779",
+        "word_conf_91_100": "2311",
+        "format": "OCR Search Text",
+        "original": "betsytacytibbets00maud_hocr.html",
+        "mtime": "1658704768",
+        "size": "50867",
+        "md5": "ac8191b8fe4a23916055490479f593f8",
+        "crc32": "3d42c783",
+        "sha1": "6b12773224e2a88a45aa155746c29d955f1d1ba1",
+        "private": "true"
+      },
+      {
+        "name": "betsytacytibbets00maud_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "betsytacytibbets00maud_orig_jp2.tar",
+        "mtime": "1347655088",
+        "size": "61840191",
+        "md5": "96488f09556ed556ba76e43858242ae7",
+        "crc32": "f95475a5",
+        "sha1": "b6a66c9abd7769be74887e0b5b52c171148b9803",
+        "private": "true",
+        "filecount": "166"
+      },
+      {
+        "name": "betsytacytibbets00maud_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "betsytacytibbets00maud.epub",
+        "mtime": "1755039994",
+        "size": "14875554",
+        "md5": "b28d83bd3d9e4e4c25f8075d3fd50646",
+        "crc32": "7484477f",
+        "sha1": "f7434fa1e9c3d8a0b19d23aa53ece6a81cb7b780"
+      },
+      {
+        "name": "betsytacytibbets00maud_loans.json",
+        "source": "original",
+        "mtime": "1599614744",
+        "size": "30642",
+        "format": "JSON",
+        "private": "true",
+        "md5": "dd82e4296a7c41e93914b4f199878d04",
+        "crc32": "92f40466",
+        "sha1": "87c76ffbe30aff03261aa1c958a00e48ba93c4a2"
+      },
+      {
+        "name": "betsytacytibbets00maud_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "mtime": "1454287845",
+        "size": "4581",
+        "md5": "5bf0182dbf8490e6130af4aa3254e90e",
+        "crc32": "d424f5d5",
+        "sha1": "716d14f627a03c7165e25375708e5f24d5a1c97a"
+      },
+      {
+        "name": "betsytacytibbets00maud_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "betsytacytibbets00maud_xisbn.json",
+        "mtime": "1454287847",
+        "size": "1422",
+        "md5": "cd43ed6caafdd86c909f77a37b971df3",
+        "crc32": "f82f28f5",
+        "sha1": "009ef7a58b523d736b28fe82b27635586d81f1be",
+        "private": "true"
+      },
+      {
+        "name": "betsytacytibbets00maud_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "mtime": "1454287845",
+        "size": "1307",
+        "md5": "351a22af6f01a1a3db2f1847f272222e",
+        "crc32": "6d05ce47",
+        "sha1": "59878896823df0b11d6de36d4d50cfb6d5be83da"
+      },
+      {
+        "name": "betsytacytibbets00maud_meta.sqlite",
+        "source": "original",
+        "mtime": "1466982596",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "c7959ad533fa77c2ec3cd4c923e0445d",
+        "crc32": "267d2ee5",
+        "sha1": "c4e6ebbdef0d69d9fe031b42adb0f9ee5af27595"
+      },
+      {
+        "name": "betsytacytibbets00maud_meta.xml",
+        "source": "original",
+        "format": "Metadata",
+        "mtime": "1755039994",
+        "size": "5743",
+        "md5": "32bc85803f19becda6f02f148c80d414",
+        "crc32": "64159865",
+        "sha1": "cbf2a54cd339e143f9a80e8cd4318db1ceb4faa4"
+      },
+      {
+        "name": "betsytacytibbets00maud_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "mtime": "1340212620",
+        "size": "319",
+        "md5": "0173a498cfe51252fc4bfb74d93cb26d",
+        "crc32": "bb824ad2",
+        "sha1": "f0859b3afb8153a1b92aa5dac4e71008308f5904"
+      },
+      {
+        "name": "betsytacytibbets00maud_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "mtime": "1346167521",
+        "size": "98416640",
+        "md5": "d97b611e96868dc0fab4bf8c6612b1ff",
+        "crc32": "89bde2c3",
+        "sha1": "3630ba1534d3eb80c86c9c4e88568ee7fa1eac3f",
+        "private": "true",
+        "filecount": "166"
+      },
+      {
+        "name": "betsytacytibbets00maud_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "0",
+        "format": "Page Numbers JSON",
+        "original": "betsytacytibbets00maud_hocr.html",
+        "mtime": "1716662540",
+        "size": "27931",
+        "md5": "91e9563699aa70830cb5faced5897658",
+        "crc32": "56a23f70",
+        "sha1": "8c342168d181abdcb123086695014669ea739709",
+        "private": "true"
+      },
+      {
+        "name": "betsytacytibbets00maud_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "mtime": "1669420993",
+        "size": "217707",
+        "md5": "791393dee7de13d6e971374714de89d5",
+        "crc32": "5906cf6d",
+        "sha1": "4d643d955fe98455ca17a09888f3405fd12e4c96"
+      },
+      {
+        "name": "betsytacytibbets00maud_xisbn.json",
+        "source": "original",
+        "mtime": "1454079056",
+        "size": "2487",
+        "md5": "b5a3dccb12ab424a9fdbfc4e7dc09256",
+        "crc32": "13a5df81",
+        "sha1": "b1e08c51ee7126561976c3658406f56f3d69d50c",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 33,
+    "item_last_updated": 1755039994,
+    "item_size": 237943306,
+    "metadata": {
+      "isbn": [
+        "0064400972",
+        "9780064400978"
+      ],
+      "openlibrary": "OL9246321M",
+      "title": "Betsy-Tacy and Tib",
+      "creator": [
+        "Lovelace, Maud Hart, 1892-1980",
+        "Lenski, Lois, 1893-1974, illustrator"
+      ],
+      "language": "eng",
+      "publisher": "New York : Harper & Row",
+      "subject": [
+        "Social Issues - Friendship",
+        "Friendship",
+        "Juvenile Fiction",
+        "Children's Books/Ages 9-12 Fiction",
+        "Children: Grades 4-6",
+        "Historical - United States - 20th Century",
+        "Juvenile Fiction / Historical / United States / 20th Century",
+        "Reading Group Guide",
+        "Fiction",
+        "General",
+        "Minnesota"
+      ],
+      "date": "1979-01-01",
+      "external-identifier": [
+        "urn:asin:0064400972",
+        "urn:acs6:betsytacytibbets00maud:pdf:e1e88578-6698-4732-8953-69737378ef8f",
+        "urn:acs6:betsytacytibbets00maud:epub:57c47af4-fbdd-4bfb-824f-752e272da18f",
+        "urn:oclc:record:1147758657",
+        "urn:lcp:betsytacytibbets00maud:lcpdf:e3e9732c-4035-452a-91da-06574a0c0438",
+        "urn:lcp:betsytacytibbets00maud:epub:4ffafb52-5261-49a2-b432-7a8a3e030e83"
+      ],
+      "updatedate": "2012-06-20 17:16:56",
+      "updater": "associate-tracey-gutierres@archive.org",
+      "mediatype": "texts",
+      "boxid": "IA155020",
+      "contributor": "Internet Archive",
+      "scanningcenter": "shenzhen",
+      "sponsor": "Internet Archive",
+      "identifier": "betsytacytibbets00maud",
+      "uploader": "associate-tracey-gutierres@archive.org",
+      "addeddate": "2012-06-20 17:17:02",
+      "publicdate": "2012-06-20 17:17:05",
+      "repub_state": "4",
+      "repub_seconds": "259",
+      "ppi": "500",
+      "camera": "Canon EOS 5D Mark II",
+      "operator": "scanner-shenzhen-dragon@archive.org",
+      "scanner": "scribe15.shenzhen.archive.org",
+      "scandate": "20120825021942",
+      "republisher": "scanner-shenzhen-beck@archive.org",
+      "imagecount": "166",
+      "foldoutcount": "0",
+      "identifier-access": "http://archive.org/details/betsytacytibbets00maud",
+      "identifier-ark": "ark:/13960/t0pr9193w",
+      "ocr": "ABBYY FineReader 8.0",
+      "scanfee": "125",
+      "boxid_2": "CH109301",
+      "donor": "friendsofthesanfranciscopubliclibrary",
+      "sponsordate": "not to be invoiced-past billing period",
+      "extramarc": "UCLA Voyager",
+      "description": "Three little girls experiment with cooking, visit the carnival, and have wonderful adventures",
+      "city": "New York",
+      "edition": "1st Harper Trophy ed.",
+      "oclc-id": [
+        "30559899",
+        "317529161",
+        "317843221",
+        "44114683",
+        "52179104",
+        "5466711",
+        "608820873",
+        "780872982",
+        "30714274"
+      ],
+      "lccn": [
+        "41018714",
+        "41013714"
+      ],
+      "related-external-id": [
+        "urn:isbn:0690138768",
+        "urn:lccn:41018714",
+        "urn:lccn:41013714",
+        "urn:oclc:30657804",
+        "urn:oclc:30714274",
+        "urn:oclc:1265911",
+        "urn:oclc:317529161",
+        "urn:isbn:006024416X",
+        "urn:lccn:94242709",
+        "urn:oclc:32822014",
+        "urn:oclc:464893363",
+        "urn:oclc:748362660",
+        "urn:isbn:0061998311",
+        "urn:oclc:768435973",
+        "urn:oclc:877891144",
+        "urn:isbn:069013875X",
+        "urn:isbn:0613034414",
+        "urn:oclc:30559899",
+        "urn:isbn:0690006322",
+        "urn:oclc:12198887"
+      ],
+      "backup_location": "ia903805_13",
+      "openlibrary_edition": "OL9246321M",
+      "openlibrary_work": "OL3469949W",
+      "republisher_operator": "scanner-shenzhen-beck@archive.org",
+      "republisher_date": "20120828152108",
+      "loans__status__status": "UNAVAILABLE",
+      "loans__status__num_loans": "3",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-09-09T01:25:37Z",
+      "loans__status__last_waitlist_date": "2019-10-14T20:27:48Z",
+      "loans__status__num_history": "76",
+      "access-restricted-item": "true",
+      "ocr_module_version": "0.0.16",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "source": "removed",
+      "filesxml": "Tue Apr 2 22:06:08 UTC 2024",
+      "collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "page_number_confidence": "0",
+      "page_number_module_version": "1.0.5"
+    },
+    "server": "ia800206.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "cnusd-ol": {
+          "notes": {
+            "isbn": [
+              "9780064400978"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charleshorn@archive.org"
+          },
+          "sys_last_changed": "2020-06-25 03:50:31.363093"
+        },
+        "universityofoklahoma-ol": {
+          "notes": {
+            "isbn": [
+              "9780064400978"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-12-04 02:38:01.376266"
+        }
+      }
+    },
+    "uniq": 774822886,
+    "workable_servers": [
+      "ia800206.us.archive.org",
+      "ia600206.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/30559899?referer=xid"
+          ],
+          "publisher": "HarperTrophy",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "41018714",
+            "41013714"
+          ],
+          "lang": "eng",
+          "city": "New York",
+          "author": "by Maud Hart Lovelace ; illustrated by Lois Lenski.",
+          "ed": "1st Harper Trophy ed.",
+          "year": "1993",
+          "isbn": [
+            "0064400972"
+          ],
+          "title": "Betsy-Tacy and Tib",
+          "oclcnum": [
+            "30559899",
+            "317529161",
+            "317843221",
+            "44114683",
+            "52179104",
+            "5466711",
+            "608820873",
+            "780872982",
+            "30714274"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/30657804?referer=xid"
+          ],
+          "publisher": "HarperCollins",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "41018714",
+            "41013714"
+          ],
+          "lang": "eng",
+          "city": "New York",
+          "author": "by Maud Hart Lovelace ; illustrated by Lois Lenski.",
+          "year": "1969",
+          "isbn": [
+            "0690138768"
+          ],
+          "title": "Betsy-Tacy and Tib",
+          "oclcnum": [
+            "30657804",
+            "30714274",
+            "1265911",
+            "317529161"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/32822014?referer=xid"
+          ],
+          "publisher": "HarperCollins",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "94242709",
+            "41013714"
+          ],
+          "lang": "eng",
+          "city": "New York",
+          "author": "by Maud Hart Lovelace ; illustrated by Lois Lenski.",
+          "year": "1995",
+          "isbn": [
+            "006024416X"
+          ],
+          "title": "Betsy, Tacy, and Tib",
+          "oclcnum": [
+            "32822014",
+            "464893363",
+            "748362660",
+            "317529161"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/768435973?referer=xid"
+          ],
+          "publisher": "HarperCollins e-books",
+          "form": [
+            "BA",
+            "DA"
+          ],
+          "lang": "eng",
+          "city": "[S.l.]",
+          "author": "by Maud Hart Lovelace ; illustrated by Lois Lenski.",
+          "year": "2011",
+          "isbn": [
+            "0061998311"
+          ],
+          "title": "Betsy-Tacy and Tib",
+          "oclcnum": [
+            "768435973",
+            "877891144"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/1265911?referer=xid"
+          ],
+          "publisher": "Thomas Y. Crowell Co.",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "41018714"
+          ],
+          "lang": "eng",
+          "city": "New York",
+          "author": "by Maud Hart Lovelace ; illustrated by Lois Lenski.",
+          "year": "1941",
+          "isbn": [
+            "069013875X"
+          ],
+          "title": "Betsy-Tacy and Tib",
+          "oclcnum": [
+            "1265911"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/30559899?referer=xid"
+          ],
+          "publisher": "HarperTrophy",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "41018714"
+          ],
+          "lang": "eng",
+          "city": "New York",
+          "author": "by Maud Hart Lovelace ; illustrated by Lois Lenski.",
+          "ed": "1st Harper Trophy ed.",
+          "year": "1993",
+          "isbn": [
+            "0613034414"
+          ],
+          "title": "Betsy-Tacy and Tib",
+          "oclcnum": [
+            "30559899"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/12198887?referer=xid"
+          ],
+          "publisher": "Thomas Y. Crowell",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "41018714"
+          ],
+          "lang": "eng",
+          "city": "New York",
+          "author": "by Maud Hart Lovelace ; illustrated by Lois Lenski.",
+          "ed": "Crowell crocodile ed.",
+          "year": "1974",
+          "isbn": [
+            "0690006322"
+          ],
+          "title": "Betsy-Tacy and Tib",
+          "oclcnum": [
+            "12198887"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Lovelace, Maud Hart, 1892-1980",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Minnesota"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "State match: Minnesota; Digitized scan available"
+}

@@ -1,0 +1,659 @@
+{
+  "source": "internet_archive",
+  "identifier": "tasteofcountry00schn",
+  "title": "A taste of the country",
+  "creator": "Schnittka, Julie",
+  "year": 1996,
+  "subject": "Cookery",
+  "description": "Includes index",
+  "metadata": {
+    "alternate_locations": {
+      "servers": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/tasteofcountry00schn"
+        }
+      ],
+      "workable": [
+        {
+          "server": "dn790006.ca.archive.org",
+          "dir": "/0/items/tasteofcountry00schn"
+        }
+      ]
+    },
+    "created": 1758556670,
+    "d1": "ia904606.us.archive.org",
+    "d2": "ia804606.us.archive.org",
+    "dir": "/0/items/tasteofcountry00schn",
+    "files": [
+      {
+        "name": "__ia_thumb.jpg",
+        "source": "original",
+        "mtime": "1661146075",
+        "size": "26372",
+        "format": "Item Tile",
+        "rotation": "0",
+        "md5": "3eb17c20ffe20b07e4ee884598ffaac4",
+        "crc32": "9b95d193",
+        "sha1": "322e4b798dacb81b96db86d7c28519281648d4f1"
+      },
+      {
+        "name": "tasteofcountry00schn.epub",
+        "source": "derivative",
+        "hocr_epub_module_version": "0.0.1",
+        "hocr_epub_hocr_version": "1.1.66",
+        "format": "EPUB",
+        "original": "tasteofcountry00schn_hocr.html",
+        "mtime": "1758425461",
+        "size": "42954234",
+        "private": "true",
+        "md5": "2d8f94f14fbab8ae49f78476a34100db",
+        "crc32": "85b6af08",
+        "sha1": "ff12fb752d823a35f808e227b57f9bf4d3107afa"
+      },
+      {
+        "name": "tasteofcountry00schn.gif",
+        "source": "derivative",
+        "format": "Animated GIF",
+        "original": "tasteofcountry00schn_jp2.zip",
+        "md5": "ccc3c12b68fab8758fa687dcec17e5f5",
+        "mtime": "1268928795",
+        "size": "286438",
+        "crc32": "1082f3db",
+        "sha1": "cc016f594209b35edf088cbdce96f5001c99f238"
+      },
+      {
+        "name": "tasteofcountry00schn.lcpdf",
+        "source": "derivative",
+        "format": "LCP Encrypted PDF",
+        "original": "tasteofcountry00schn.pdf",
+        "mtime": "1758425248",
+        "size": "18523516",
+        "md5": "cd005bd0b9f1c97166bedafdef56a7a3",
+        "crc32": "d70345dd",
+        "sha1": "eb3e9c0e24e36addb263b4688dd6e9fb2d16c2ba"
+      },
+      {
+        "name": "tasteofcountry00schn.pdf",
+        "source": "derivative",
+        "pdf_module_version": "0.0.25",
+        "pdf_degraded": "invalid-jp2-headers",
+        "format": "Text PDF",
+        "original": "tasteofcountry00schn_page_numbers.json",
+        "mtime": "1717702883",
+        "size": "17872906",
+        "md5": "0c1b10b4b0c55a53fa46c62dabc26c0a",
+        "crc32": "346263b6",
+        "sha1": "4944200a8af3089026a70f4ef728db1bb26cc0c3",
+        "private": "true"
+      },
+      {
+        "name": "tasteofcountry00schn_abbyy.gz",
+        "source": "derivative",
+        "format": "Abbyy GZ",
+        "original": "tasteofcountry00schn_jp2.zip",
+        "md5": "231b8f065360344ab5fdaab0291eb0b9",
+        "mtime": "1268930916",
+        "size": "5287890",
+        "crc32": "12e736bf",
+        "sha1": "70e86baf1e6d25b3622c6f6d206606967a2cf24a",
+        "private": "true"
+      },
+      {
+        "name": "tasteofcountry00schn_chocr.html.gz",
+        "source": "derivative",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "chOCR",
+        "original": "tasteofcountry00schn_abbyy.gz",
+        "mtime": "1661145265",
+        "size": "4432523",
+        "md5": "430abc0b899ad4e04420bfaaf622c429",
+        "crc32": "905748bb",
+        "sha1": "afccf18ae996d23240efe4e7b5953980738fed93",
+        "private": "true"
+      },
+      {
+        "name": "tasteofcountry00schn_cloth_detection.log",
+        "source": "derivative",
+        "cloth_cover_detection_module_version": "1.2",
+        "format": "Cloth Cover Detection Log",
+        "original": "tasteofcountry00schn_scandata.xml",
+        "mtime": "1671415284",
+        "size": "772",
+        "md5": "06024aa1a0e630ed3a4f02b289bfe061",
+        "crc32": "cf95e73e",
+        "sha1": "0dac41143156528e044ab75598b9997bc0fff1cb",
+        "private": "true"
+      },
+      {
+        "name": "tasteofcountry00schn_dc.xml",
+        "source": "original",
+        "format": "Dublin Core",
+        "md5": "fbf992ead47726eb62de6df63c51c38e",
+        "mtime": "1267641963",
+        "size": "575",
+        "crc32": "fca865b0",
+        "sha1": "e607fff4a86b8941a722e56e59b00631993ba038"
+      },
+      {
+        "name": "tasteofcountry00schn_djvu.txt",
+        "source": "derivative",
+        "format": "DjVuTXT",
+        "original": "tasteofcountry00schn_djvu.xml",
+        "mtime": "1717702921",
+        "size": "422222",
+        "md5": "4ca0f5bede1598ef1a71e65d8aacde68",
+        "crc32": "17ecf4b9",
+        "sha1": "bb6c3606ae19fdbecbce0bdc4c287f0b7f854cb6",
+        "private": "true"
+      },
+      {
+        "name": "tasteofcountry00schn_djvu.xml",
+        "source": "derivative",
+        "format": "Djvu XML",
+        "original": "tasteofcountry00schn_hocr.html",
+        "mtime": "1717702087",
+        "size": "4953050",
+        "md5": "feb0f94d6193cd98143736a3839d324a",
+        "crc32": "d583230e",
+        "sha1": "a3260b36c6ad7b00f10fd120aacc6d96f767827c",
+        "private": "true"
+      },
+      {
+        "name": "tasteofcountry00schn_encrypted.pdf",
+        "source": "derivative",
+        "format": "ACS Encrypted PDF",
+        "original": "tasteofcountry00schn.pdf",
+        "mtime": "1717702925",
+        "size": "17842498",
+        "md5": "433a5d7b70dd2786567ed6788245e14e",
+        "crc32": "fd0c9407",
+        "sha1": "66a32f5518befc74d1c5f1d6328db1ac90355ec3"
+      },
+      {
+        "name": "tasteofcountry00schn_files.xml",
+        "source": "metadata",
+        "format": "Metadata",
+        "md5": "f4f3af8b232a310bc495f645cafefb1c",
+        "summation": "md5"
+      },
+      {
+        "name": "tasteofcountry00schn_hocr.html",
+        "source": "derivative",
+        "hocr_char_to_word_module_version": "1.1.0",
+        "hocr_char_to_word_hocr_version": "1.1.15",
+        "ocr_module_version": "0.0.17",
+        "ocr_converted": "abbyy-to-hocr 1.1.20",
+        "format": "hOCR",
+        "original": "tasteofcountry00schn_chocr.html.gz",
+        "mtime": "1661145582",
+        "size": "9896519",
+        "md5": "1f3d570f29358d6ffc7ae85b5a309d36",
+        "crc32": "8e2db4d0",
+        "sha1": "d1f093de5aae219603b8e258948e860f87fd5151",
+        "private": "true"
+      },
+      {
+        "name": "tasteofcountry00schn_hocr_pageindex.json.gz",
+        "source": "derivative",
+        "hocr_pageindex_module_version": "1.0.0",
+        "hocr_pageindex_hocr_version": "1.1.15",
+        "format": "OCR Page Index",
+        "original": "tasteofcountry00schn_hocr.html",
+        "mtime": "1661145913",
+        "size": "1451",
+        "md5": "228d74822003134193b71ac4922917f9",
+        "crc32": "dd0e83f2",
+        "sha1": "48343b55745677fa4d3c0b38778497d2b608b2af",
+        "private": "true"
+      },
+      {
+        "name": "tasteofcountry00schn_hocr_searchtext.txt.gz",
+        "source": "derivative",
+        "hocr_fts_text_module_version": "1.1.0",
+        "hocr_fts_text_hocr_version": "1.1.15",
+        "word_conf_0_10": "1542",
+        "word_conf_11_20": "1203",
+        "word_conf_21_30": "5265",
+        "word_conf_31_40": "3168",
+        "word_conf_41_50": "7572",
+        "word_conf_51_60": "10640",
+        "word_conf_61_70": "12705",
+        "word_conf_71_80": "8215",
+        "word_conf_81_90": "2801",
+        "word_conf_91_100": "6499",
+        "format": "OCR Search Text",
+        "original": "tasteofcountry00schn_hocr.html",
+        "mtime": "1661146032",
+        "size": "114132",
+        "md5": "5ce00b749cf5c4a88f12bca1e79e7fbb",
+        "crc32": "cb6cf497",
+        "sha1": "6953af9090190b4b5bb8439f1f36d5805b4c482b",
+        "private": "true"
+      },
+      {
+        "name": "tasteofcountry00schn_jp2.zip",
+        "source": "derivative",
+        "format": "Single Page Processed JP2 ZIP",
+        "original": "tasteofcountry00schn_orig_jp2.tar",
+        "md5": "0e079737a901ee9db213e13291b5db43",
+        "mtime": "1268928763",
+        "size": "114082912",
+        "crc32": "494a77b2",
+        "sha1": "8555d8f32f01214a0a0c8d566bf1ced60f0bef45",
+        "private": "true",
+        "filecount": "126"
+      },
+      {
+        "name": "tasteofcountry00schn_lcp.epub",
+        "source": "derivative",
+        "format": "LCP Encrypted EPUB",
+        "original": "tasteofcountry00schn.epub",
+        "mtime": "1758425655",
+        "size": "42970078",
+        "md5": "2eb4bacda14dda731432d93f6410bd87",
+        "crc32": "7f147c56",
+        "sha1": "0a3d122d6a1982d896134b60a004ef88e90c2abb"
+      },
+      {
+        "name": "tasteofcountry00schn_loans.json",
+        "source": "original",
+        "mtime": "1587410157",
+        "size": "3716",
+        "format": "JSON",
+        "private": "true",
+        "md5": "29b82272757860bc781a9ad4eb49ad01",
+        "crc32": "14e7f885",
+        "sha1": "ac5a93773a4be69a815650c1b1f5cd77cfa38922"
+      },
+      {
+        "name": "tasteofcountry00schn_marc.xml",
+        "source": "original",
+        "format": "MARC",
+        "md5": "db8ad64ef4ed0306e0ab6932b5f7a683",
+        "mtime": "1267641963",
+        "size": "2852",
+        "crc32": "7101d2dd",
+        "sha1": "5b1ed27942f0fb3fe35abfc63768dacec5557d62"
+      },
+      {
+        "name": "tasteofcountry00schn_meta.log",
+        "source": "derivative",
+        "format": "Metadata Log",
+        "original": "tasteofcountry00schn_xisbn.json",
+        "mtime": "1454774066",
+        "size": "999",
+        "md5": "7b3b8b22c62427f207276ba37e463034",
+        "crc32": "9e8a541e",
+        "sha1": "3ee4776f0987c394423b938a9126da3f28a9f0ed",
+        "private": "true"
+      },
+      {
+        "name": "tasteofcountry00schn_meta.mrc",
+        "source": "original",
+        "format": "MARC Binary",
+        "md5": "f7c82a984deb6eb5e6384567d8b69fb1",
+        "mtime": "1267641963",
+        "size": "814",
+        "crc32": "eb8e2c46",
+        "sha1": "0df3e6ac4e88aa1c1fff9e6596f196be4fd0c340"
+      },
+      {
+        "name": "tasteofcountry00schn_meta.sqlite",
+        "source": "original",
+        "mtime": "1462917935",
+        "size": "6144",
+        "format": "Metadata",
+        "md5": "f15b7692a98a9eb9ed01530c2aac7ce0",
+        "crc32": "1a735565",
+        "sha1": "5e5533c2217ee8454c5e94cbb5eda827abade786"
+      },
+      {
+        "name": "tasteofcountry00schn_meta.xml",
+        "source": "metadata",
+        "format": "Metadata",
+        "mtime": "1758425655",
+        "size": "4340",
+        "md5": "a4fc8fc6d95ba53cc4fc3d0379d11e12",
+        "crc32": "84a62a52",
+        "sha1": "03b432eabb8a6360886870377145663604d607e8"
+      },
+      {
+        "name": "tasteofcountry00schn_metasource.xml",
+        "source": "original",
+        "format": "MARC Source",
+        "md5": "3d008919f9e11310c3b717c2567b33cb",
+        "mtime": "1267641963",
+        "size": "396",
+        "crc32": "429ce31",
+        "sha1": "6370621d08abfc66c589e1a61003b282d2929f04"
+      },
+      {
+        "name": "tasteofcountry00schn_orig_jp2.tar",
+        "source": "original",
+        "format": "Single Page Original JP2 Tar",
+        "md5": "7807cb71352f3f33a9581d122d24f564",
+        "mtime": "1268923279",
+        "size": "201216000",
+        "crc32": "af7eb06a",
+        "sha1": "4f72e04b88c8726c51606c9bda7b9b702e471d17",
+        "private": "true",
+        "filecount": "126"
+      },
+      {
+        "name": "tasteofcountry00schn_page_numbers.json",
+        "source": "derivative",
+        "hocr_pagenumber_module_version": "1.0.5",
+        "hocr_pagenumber_hocr_version": "1.1.54",
+        "hocr_pagenumber_confidence": "90",
+        "format": "Page Numbers JSON",
+        "original": "tasteofcountry00schn_hocr.html",
+        "mtime": "1717702174",
+        "size": "20435",
+        "md5": "52e8e5b02b90adbca67cd4fe98f1e225",
+        "crc32": "b673373e",
+        "sha1": "9f7ea603ace149872631b19f2832d256ace8d943",
+        "private": "true"
+      },
+      {
+        "name": "tasteofcountry00schn_scandata.xml",
+        "source": "original",
+        "format": "Scandata",
+        "md5": "ae2ba90e1d5cb3fba1f89e5ae2797aa0",
+        "mtime": "1671415284",
+        "size": "65651",
+        "crc32": "576125ee",
+        "sha1": "5c44b3e8a2968aa8601a3aa2bf94f8db25bdc9c3"
+      },
+      {
+        "name": "tasteofcountry00schn_xisbn.json",
+        "source": "original",
+        "mtime": "1454771603",
+        "size": "1954",
+        "md5": "1ab69b42ac76b8bd0fd6274eaf4a82d2",
+        "crc32": "7eabfc32",
+        "sha1": "072ef4dfb6fe4fec764dd302b4c219fcee556483",
+        "format": "OCLC xISBN JSON"
+      }
+    ],
+    "files_count": 29,
+    "item_last_updated": 1758425655,
+    "item_size": 480991389,
+    "metadata": {
+      "title": "A taste of the country",
+      "creator": "Schnittka, Julie",
+      "subject": "Cookery",
+      "description": "Includes index",
+      "publisher": "Greendale, WI : Reiman Publications",
+      "date": "1996-01-01",
+      "language": "eng",
+      "isbn": [
+        "0898211581",
+        "9780898211580"
+      ],
+      "page-progression": "lr",
+      "boxid": "IA110204",
+      "sponsor": "Internet Archive",
+      "contributor": "Internet Archive",
+      "scanningcenter": "la",
+      "mediatype": "texts",
+      "updatedate": "2010-03-03 18:46:03",
+      "updater": "LineK",
+      "identifier": "tasteofcountry00schn",
+      "uploader": "line@archive.org",
+      "addeddate": "2010-03-03 18:46:06",
+      "publicdate": "2010-03-03 18:46:10",
+      "ppi": "300",
+      "camera": "Canon 5D",
+      "operator": "scanner-angela-chance@archive.org",
+      "scanner": "scribe7.la.archive.org",
+      "scandate": "20100318143054",
+      "imagecount": "124",
+      "foldoutcount": "0",
+      "identifier-access": "http://www.archive.org/details/tasteofcountry00schn",
+      "identifier-ark": "ark:/13960/t4wh3779n",
+      "bookplateleaf": "0003",
+      "notes": "There is a slight difference in sizing mid-way through this book.",
+      "curation": "[curator]kellycritch@archive.org[/curator][date]20100402191059[/date][state]approved[/state]",
+      "repub_state": "4",
+      "external-identifier": [
+        "urn:acs6:tasteofcountry00schn:pdf:5f083427-7f27-4774-adcb-9c9666314c6d",
+        "urn:acs6:tasteofcountry00schn:epub:4e7a8ab9-b882-45da-9021-a7c2e4d5a8bb",
+        "urn:oclc:record:1036891819",
+        "urn:lcp:tasteofcountry00schn:lcpdf:4e98003d-1cb7-4683-9ec1-0e708b1add35",
+        "urn:lcp:tasteofcountry00schn:epub:112153c8-7cab-496c-843f-e22578af90cd"
+      ],
+      "donor": "alibris",
+      "city": "Greendale, WI",
+      "edition": "9th ed.",
+      "oclc-id": "35335998",
+      "lccn": "95073093",
+      "related-external-id": [
+        "urn:isbn:0898210941",
+        "urn:lccn:91062226",
+        "urn:oclc:25748225",
+        "urn:isbn:0898211050",
+        "urn:lccn:93084018",
+        "urn:oclc:30110004",
+        "urn:isbn:0898211204",
+        "urn:lccn:94066234",
+        "urn:oclc:30997850",
+        "urn:oclc:778979001",
+        "urn:isbn:0898211441",
+        "urn:lccn:95067305",
+        "urn:oclc:34118591",
+        "urn:isbn:0898210984",
+        "urn:lccn:92060968",
+        "urn:oclc:27205741"
+      ],
+      "backup_location": "ia903604_34",
+      "loans__status__status": "AVAILABLE",
+      "loans__status__num_loans": "0",
+      "loans__status__num_waitlist": "0",
+      "loans__status__last_loan_date": "2020-04-20T09:50:54Z",
+      "openlibrary_edition": "OL24221353M",
+      "openlibrary_work": "OL15153727W",
+      "loans__status__num_history": "11",
+      "access-restricted-item": "true",
+      "filesxml": [
+        "Sat Dec 26 10:43:43 UTC 2020",
+        "Wed Apr 3 14:48:37 UTC 2024"
+      ],
+      "ocr_module_version": "0.0.17",
+      "ocr_converted": "abbyy-to-hocr 1.1.20",
+      "page_number_confidence": "90",
+      "collection": [
+        "internetarchivebooks",
+        "americana",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "page_number_module_version": "1.0.5",
+      "pdf_degraded": "invalid-jp2-headers",
+      "pdf_module_version": "0.0.25"
+    },
+    "server": "ia804606.us.archive.org",
+    "simplelists": {
+      "holdings": {
+        "bpljordan-ol": {
+          "notes": {
+            "isbn": [
+              "9780898211580"
+            ]
+          },
+          "sys_changed_by": {
+            "source": "mdapi",
+            "username": "charles.horn@gmail.com"
+          },
+          "sys_last_changed": "2019-06-27 11:26:09.174727"
+        }
+      }
+    },
+    "uniq": 1393377288,
+    "workable_servers": [
+      "ia804606.us.archive.org",
+      "ia904606.us.archive.org"
+    ],
+    "xisbn": {
+      "stat": "ok",
+      "list": [
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/35335998?referer=xid"
+          ],
+          "publisher": "Reiman Publications",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "95073093"
+          ],
+          "lang": "eng",
+          "city": "Greendale, WI",
+          "author": "editor, Julie Schnittka.",
+          "ed": "9th ed.",
+          "year": "1996",
+          "isbn": [
+            "0898211581"
+          ],
+          "title": "A taste of the country",
+          "oclcnum": [
+            "35335998"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/25748225?referer=xid"
+          ],
+          "publisher": "Reiman Publications",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "91062226"
+          ],
+          "lang": "eng",
+          "city": "Greendale, WI",
+          "author": "editor, Linda Piepenbrink ; food photography, Mike Huibregste.",
+          "ed": "4th ed.",
+          "year": "1991",
+          "isbn": [
+            "0898210941"
+          ],
+          "title": "A Taste of the country",
+          "oclcnum": [
+            "25748225"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/30110004?referer=xid"
+          ],
+          "publisher": "Reiman Publications",
+          "form": [
+            "BC"
+          ],
+          "lccn": [
+            "93084018"
+          ],
+          "lang": "eng",
+          "city": "Greendale, WI",
+          "ed": "6th ed.",
+          "year": "1993",
+          "isbn": [
+            "0898211050"
+          ],
+          "title": "A Taste of the country.",
+          "oclcnum": [
+            "30110004"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/30997850?referer=xid"
+          ],
+          "publisher": "Reiman Publications",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "94066234"
+          ],
+          "lang": "eng",
+          "city": "Greendale, WI",
+          "author": "Julie Schnittka, editor.",
+          "ed": "7th ed.",
+          "year": "1994",
+          "isbn": [
+            "0898211204"
+          ],
+          "title": "A Taste of the country.",
+          "oclcnum": [
+            "30997850",
+            "778979001"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/34118591?referer=xid"
+          ],
+          "publisher": "Reiman Publications",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "95067305"
+          ],
+          "lang": "eng",
+          "city": "Greendale, WI",
+          "author": "editor, Julie Schnittka.",
+          "ed": "8th ed.",
+          "year": "1995",
+          "isbn": [
+            "0898211441"
+          ],
+          "title": "A Taste of the country",
+          "oclcnum": [
+            "34118591"
+          ]
+        },
+        {
+          "url": [
+            "http://www.worldcat.org/oclc/27205741?referer=xid"
+          ],
+          "publisher": "Reiman Publications",
+          "form": [
+            "BA"
+          ],
+          "lccn": [
+            "92060968"
+          ],
+          "lang": "eng",
+          "city": "Greendale, WI",
+          "author": "editor, Linda Piepenbrink ; food photography, Mike Huibregste.",
+          "ed": "5th ed.",
+          "year": "1992",
+          "isbn": [
+            "0898210984"
+          ],
+          "title": "A Taste of the country",
+          "oclcnum": [
+            "27205741"
+          ]
+        }
+      ]
+    }
+  },
+  "institution": "Schnittka, Julie",
+  "pdf_url": "derivative",
+  "location": {
+    "state": "Ia"
+  },
+  "curation": {
+    "score": 5,
+    "has_digital_assets": true,
+    "matched_community": []
+  },
+  "curation_notes": "Digitized scan available"
+}
