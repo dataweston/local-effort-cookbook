@@ -27,10 +27,12 @@
 
   const htmlDecoder = document.createElement("textarea");
   const detailCache = new Map();
+  const manifestCache = new Map();
   let itemsById = new Map();
   let workerReady = false;
   let lastQuery = "";
   let worker = null;
+  let apiAvailable = Boolean(SEARCH_API);
 
   const debounce = (fn, delay = 250) => {
     let timer = null;
@@ -138,6 +140,53 @@
     return pieces.join(" | ");
   };
 
+  const extractIiifImage = (canvas) => {
+    if (!canvas) {
+      return null;
+    }
+    const v2Service = canvas.images?.[0]?.resource?.service;
+    if (v2Service) {
+      const id = v2Service["@id"] || v2Service.id;
+      if (id) {
+        return `${id}/full/800,/0/default.jpg`;
+      }
+    }
+    const v3Service =
+      canvas.items?.[0]?.items?.[0]?.body?.service?.[0]?.id ||
+      canvas.items?.[0]?.items?.[0]?.body?.service?.[0]?.["@id"];
+    if (v3Service) {
+      return `${v3Service}/full/800,/0/default.jpg`;
+    }
+    const thumb = canvas.thumbnail?.[0]?.id || canvas.thumbnail?.id;
+    return thumb || null;
+  };
+
+  const loadManifestImages = async (iiifUrl) => {
+    if (!iiifUrl) {
+      return [];
+    }
+    if (manifestCache.has(iiifUrl)) {
+      return manifestCache.get(iiifUrl);
+    }
+    try {
+      const response = await fetch(iiifUrl);
+      if (!response.ok) {
+        throw new Error("Manifest fetch failed");
+      }
+      const manifest = await response.json();
+      const canvases =
+        manifest.sequences?.[0]?.canvases || manifest.items || [];
+      const images = canvases
+        .map(extractIiifImage)
+        .filter((entry) => typeof entry === "string");
+      manifestCache.set(iiifUrl, images);
+      return images;
+    } catch (error) {
+      manifestCache.set(iiifUrl, []);
+      return [];
+    }
+  };
+
   const renderResults = (results, total, query) => {
     const tokens = tokenize(query);
     dom.resultsList.innerHTML = "";
@@ -187,7 +236,7 @@
     dom.resultsList.appendChild(fragment);
   };
 
-  const renderPreview = (item, detail) => {
+  const renderPreview = async (item, detail) => {
     if (!item) {
       dom.previewContent.textContent = "Select a result to view details.";
       return;
@@ -237,14 +286,58 @@
       container.appendChild(actions);
     }
 
-    if (imagePreview) {
-      const img = document.createElement("img");
-      img.src = imagePreview;
-      img.alt = item.recipeTitle || "Cookbook scan preview";
-      img.loading = "lazy";
-      img.className = "preview-image";
-      container.appendChild(img);
+    const viewer = document.createElement("div");
+    viewer.className = "scan-viewer";
+    const viewerTitle = document.createElement("h4");
+    viewerTitle.textContent = "Scan viewer";
+    viewer.appendChild(viewerTitle);
+
+    const viewerBody = document.createElement("div");
+    viewerBody.className = "scan-body";
+
+    const viewerImage = document.createElement("img");
+    viewerImage.className = "scan-main";
+    viewerImage.alt = item.recipeTitle || "Cookbook scan";
+    viewerImage.loading = "lazy";
+
+    const thumbs = document.createElement("div");
+    thumbs.className = "scan-thumbs";
+
+    let images = [];
+    if (iiifManifest) {
+      images = await loadManifestImages(iiifManifest);
     }
+    if (!images.length && imagePreview) {
+      images = [imagePreview];
+    }
+
+    if (images.length) {
+      viewerImage.src = images[0];
+      images.slice(0, 16).forEach((src, index) => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "scan-thumb";
+        const img = document.createElement("img");
+        img.src = src;
+        img.alt = `Page ${index + 1}`;
+        img.loading = "lazy";
+        button.appendChild(img);
+        button.addEventListener("click", () => {
+          viewerImage.src = src;
+        });
+        thumbs.appendChild(button);
+      });
+      viewerBody.appendChild(viewerImage);
+      viewerBody.appendChild(thumbs);
+      viewer.appendChild(viewerBody);
+    } else {
+      const message = document.createElement("p");
+      message.textContent =
+        "No scan preview available. Use the scan link to open the original source.";
+      viewer.appendChild(message);
+    }
+
+    container.appendChild(viewer);
 
     if (ingredients.length) {
       const section = document.createElement("div");
@@ -453,7 +546,7 @@
     lastQuery = query;
     setStatus("Searching...");
 
-    if (SEARCH_API) {
+    if (apiAvailable) {
       fetch(`${SEARCH_API}/search`, {
         method: "POST",
         headers: {
@@ -478,8 +571,22 @@
           renderResults(payload.results || [], payload.total || 0, lastQuery);
         })
         .catch(() => {
-          setStatus("Search API unavailable.");
-          renderResults([], 0, lastQuery);
+          apiAvailable = false;
+          setStatus("Search API unavailable. Falling back to local search.");
+          if (workerReady) {
+            worker.postMessage({
+              type: "search",
+              payload: {
+                query,
+                filters,
+                sort: dom.sortBy.value,
+                includeOcr: dom.toggleOcr.checked,
+                limit: MAX_RESULTS
+              }
+            });
+          } else {
+            renderResults([], 0, lastQuery);
+          }
         });
       return;
     }
@@ -506,11 +613,11 @@
       return;
     }
     const item = itemsById.get(id);
-    renderPreview(item);
+    void renderPreview(item);
     setActiveCard(id);
 
     if (detailCache.has(id)) {
-      renderPreview(item, detailCache.get(id));
+      void renderPreview(item, detailCache.get(id));
       return;
     }
 
@@ -523,26 +630,24 @@
       }
       const detail = await response.json();
       detailCache.set(id, detail);
-      renderPreview(item, detail);
+      void renderPreview(item, detail);
     } catch (error) {
       // Detail fetch is optional; keep minimal preview.
     }
   };
 
   const initWorker = (items) => {
-    if (SEARCH_API) {
-      workerReady = true;
-      setStatus(STATUS_IDLE);
-      runSearch();
-      return;
-    }
     worker = new Worker("/search/worker.js");
     worker.onmessage = (event) => {
       const { type, payload } = event.data;
       if (type === "ready") {
         workerReady = true;
-        setStatus(STATUS_IDLE);
-        runSearch();
+        if (!apiAvailable) {
+          setStatus(STATUS_IDLE);
+          runSearch();
+        } else {
+          setStatus(STATUS_IDLE);
+        }
       }
       if (type === "results") {
         setStatus(STATUS_IDLE);
@@ -611,6 +716,9 @@
       populateSelect(dom.filterInstitution, payload.counts?.institutions || []);
 
       initWorker(payload.items);
+      if (apiAvailable) {
+        runSearch();
+      }
     } catch (error) {
       setStatus("Unable to load archive index.");
       dom.stats.textContent =

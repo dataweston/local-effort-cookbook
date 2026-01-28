@@ -1,0 +1,11 @@
+{
+  "name": "local-effort-cookbook",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "build:search-index": "node scripts/build-search-index.mjs"
+  },
+  "dependencies": {
+    "minisearch": "^6.1.0"
+  }
+}

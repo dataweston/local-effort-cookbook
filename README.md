@@ -26,6 +26,11 @@ To keep the UI lightweight, a slim index is generated at
 Run:
 `node scripts/build-search-index.mjs`
 
+### Search API
+The search UI can use a server-side OCR search endpoint at `/api/search`.
+It indexes the full recipe OCR stored in `cookbook-migration/public-cookbook/recipes/`.
+The client toggles this via `public/search/config.js`.
+
 ## Refreshing the data
 The export process is documented in `cookbook-migration/README.md`.
 After updating the migration folder, commit the changes and redeploy.
